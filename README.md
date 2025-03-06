@@ -2,7 +2,7 @@
 
 This Python script compares power plant data between **OpenStreetMap (OSM)** and **Wikidata**. It fetches data from both sources using APIs, performs comparisons based on geographic proximity and name, and identifies missing power plants or coordinate mismatches. The comparison results are saved in **CSV** and **GeoJSON** formats.
 
-**Note**: This project is **under construction**. The script currently compares power plants, but it can be modified to fetch and compare substations instead by changing the instances in the fetch_wikidata_power_plants functions in **Wikidata SPARQL query** and the **node, way, and relation** in the **OSM Overpass API query** inside the fetch_osm_power_plants 
+**Note**: This project is **under construction**. The script currently compares power plants, but it can be modified to fetch and compare substations instead by changing the instances in the fetch_wikidata_power_plants functions in the **Wikidata SPARQL query** and the **node, way, and relation** in the **OSM Overpass API query** inside the fetch_osm_power_plants 
 
 ## Features
 - Fetches power plant data from Wikidata using the SPARQL API.
