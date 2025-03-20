@@ -10,12 +10,36 @@ import numpy as np
 
 # ---------------------- CONFIGURATION ---------------------- #
 # Specify the country you want to analyze. Adjust the 'COUNTRY_NAME' and 'country_code' accordingly.
-COUNTRY_NAME = "India"  # Example: "Germany", "Brazil", "France"
-country_code = "Q668"   # Country code according to Wikidata
-max_distance_km = 0.7  #max_distance_km (float): The maximum distance to consider a match (in kilometers).    
+COUNTRY_NAME = "Kenya" # Example: "Germany", "Brazil", "France"
+#country_code = "Q1033"   # Country code according to Wikidata
+max_distance_km = 0.7  #max_distance_km (float): The maximum distance to consider a match (in kilometers).
 mismatch_threshold_km = 0.5 #mismatch_threshold_km (float): The threshold distance beyond which the coordinates are considered mismatched.
 
 # ---------------------- Wikidata Query Function ---------------------- #
+
+import requests
+
+def get_wikidata_qid(country_name):
+    url = "https://www.wikidata.org/w/api.php"
+    params = {
+        "action": "wbsearchentities",
+        "search": country_name,
+        "language": "en",
+        "format": "json"
+    }
+    
+    response = requests.get(url, params=params)
+    data = response.json()
+    
+    if "search" in data and len(data["search"]) > 0:
+        return data["search"][0]["id"]  # Return the first matched QID
+    else:
+        return None
+
+# Example usage
+
+country_code = get_wikidata_qid(COUNTRY_NAME)
+
 
 def fetch_wikidata_power_plants(country):
     """
@@ -28,7 +52,7 @@ def fetch_wikidata_power_plants(country):
         pd.DataFrame: A DataFrame containing information about power plants from Wikidata.
     """
     url = "https://query.wikidata.org/sparql"
-    
+
     query = f"""
     SELECT ?plant ?plantLabel ?location ?coordinates WHERE {{
         ?plant wdt:P31/wdt:P279* wd:Q159719.  # Instance of (or subclass of) power plant
@@ -37,7 +61,7 @@ def fetch_wikidata_power_plants(country):
         OPTIONAL {{ ?plant wdt:P276 ?location. }}  # Location if available
         SERVICE wikibase:label {{ bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }}
     }}"""
-    
+
     headers = {"Accept": "application/json"}
     response = requests.get(url, params={"query": query, "format": "json"}, headers=headers)
 
@@ -45,7 +69,7 @@ def fetch_wikidata_power_plants(country):
     if response.status_code == 200:
         data = response.json()["results"]["bindings"]
         plants = []
-        
+
         # Process each item in the response data
         for item in data:
             wikidata_id = item['plant']['value']
@@ -60,7 +84,7 @@ def fetch_wikidata_power_plants(country):
                 "longitude": longitude,
                 "location": location
             })
-        
+
         # Return as DataFrame
         df_wiki = pd.DataFrame(plants)
         df_wiki.to_csv('wikidataset.csv')
@@ -83,7 +107,7 @@ def fetch_osm_power_plants(country):
         pd.DataFrame: A DataFrame containing information about power plants from OSM.
     """
     url = "http://overpass-api.de/api/interpreter"
-    
+
     query = f"""
     [out:json][timeout:1800][maxsize:107374182];
     area[name="{country}"]->.searchArea;
@@ -94,14 +118,14 @@ def fetch_osm_power_plants(country):
     );
     out body tags center;
     """
-    
+
     response = requests.get(url, params={"data": query})
-    
+
     # If the request is successful, process the returned data
     if response.status_code == 200:
         data = response.json()["elements"]
         plants = []
-        
+
         # Process each item in the response data
         for item in data:
             tags = item.get("tags", {})
@@ -210,7 +234,7 @@ def compare_osm_to_wikidata(osm_df, wikidata_df, max_distance_km=0.01, mismatch_
         for i, (dist, index) in enumerate(zip(distances, indices)):
             osm_row = osm_with_coords.iloc[i]
             wikidata_row = wikidata_with_coords.iloc[index]
-            
+
             if dist >= max_distance_km:  # If no close match in Wikidata, add to missing
                 missing_in_wikidata.append({
                     "name": osm_row["name"],
@@ -225,14 +249,14 @@ def compare_osm_to_wikidata(osm_df, wikidata_df, max_distance_km=0.01, mismatch_
                     "osm_coords": (osm_row["latitude"], osm_row["longitude"]),
                     "difference_km": round(dist, 3)
                 })
-    
+
     # Identify Wikidata power plants missing coordinates
     for _, row in wikidata_missing_coords.iterrows():
         wikidata_missing_coordinates.append({
             "name": row["plantLabel"],
             "location": row.get("location", "Unknown")
         })
-    
+
     # Remove duplicates in missing lists
     missing_in_wikidata = pd.DataFrame(missing_in_wikidata).drop_duplicates(subset=["name"]).to_dict("records")
     different_coordinates = pd.DataFrame(different_coordinates).drop_duplicates(subset=["name"]).to_dict("records")
@@ -276,7 +300,7 @@ def find_missing_in_osm(wikidata_df, osm_df, max_distance_km, mismatch_threshold
         for i, (dist, index) in enumerate(zip(distances, indices)):
             wikidata_row = wikidata_with_coords.iloc[i]
             osm_row = osm_with_coords.iloc[index]
-            
+
             if dist >= max_distance_km:  # If no close match in OSM, add to missing
                 missing_in_osm.append({
                     "name": wikidata_row["plantLabel"],
@@ -291,7 +315,7 @@ def find_missing_in_osm(wikidata_df, osm_df, max_distance_km, mismatch_threshold
                     "osm_coords": (osm_row["latitude"], osm_row["longitude"]),
                     "difference_km": round(dist, 3)
                 })
-    
+
     # Remove duplicates in missing lists
     missing_in_osm = pd.DataFrame(missing_in_osm).drop_duplicates(subset=["name"])
     different_coordinates = pd.DataFrame(different_coordinates).drop_duplicates(subset=["name"]).to_dict("records")
@@ -317,12 +341,12 @@ def output_files(missing_in_wikidata, different_coordinates, wikidata_missing_co
         "missing_in_osm.csv": pd.DataFrame(missing_in_osm),
         "coordinate_mismatches_missing_osm.csv": pd.DataFrame(osm_different_coordinates)
     }
-    
+
     # Save results to CSV files
     for filename, df in result_dfs.items():
         df.to_csv(filename, index=False)
         print(f"✅ {filename} saved with {len(df)} entries.")
-    return 
+    return
 
 
 def generate_geojson_from_missing_osm(missing_in_osm, geojson_filename="missing_in_osm.geojson"):
@@ -337,7 +361,7 @@ def generate_geojson_from_missing_osm(missing_in_osm, geojson_filename="missing_
         "type": "FeatureCollection",
         "features": []
     }
-    
+
     for _, row in missing_in_osm.iterrows():
         feature = {
             "type": "Feature",
@@ -351,11 +375,11 @@ def generate_geojson_from_missing_osm(missing_in_osm, geojson_filename="missing_
             }
         }
         geojson["features"].append(feature)
-    
+
     # Write to GeoJSON file
     with open(geojson_filename, "w", encoding="utf-8") as f:
         json.dump(geojson, f, indent=4)
-    
+
     print(f"✅ GeoJSON file saved as {geojson_filename}")
     return geojson
 
@@ -375,29 +399,29 @@ def generate_quickstatements_from_missing_wikidata(missing_in_wikidata, output_f
     try:
         lines = []  # Store QuickStatements entries
         created_count = 0  # Counter for created entries
-        
+
         for row in missing_in_wikidata:
             tags = row.get("tags", {})
-            
+
             if not tags:
                 continue  # Skip entries without relevant tags
-            
+
             qs_entry = ["CREATE"]  # Create a new Wikidata item
-            
+
             # Add each tag as a key-value pair
             for key, value in tags.items():
                 qs_entry.append(f"LAST\t{key}\t\"{value}\"")
-            
+
             lines.extend(qs_entry)
             created_count += 1  # Increment counter
-        
+
         # Write QuickStatements to file
         with open(output_filename, "w", encoding="utf-8") as f:
             f.write("\n".join(lines))
-        
+
         print(f"✅ QuickStatements file saved as {output_filename}")
         print(f"🔹 Created {created_count} structured entries for Wikidata upload.")
-        
+
     except Exception as e:
         print(f"❌ Error generating QuickStatements: {e}")
 
