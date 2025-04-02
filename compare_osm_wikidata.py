@@ -110,7 +110,11 @@ def fetch_osm_power_plants(country):
 
     query = f"""
     [out:json][timeout:1800][maxsize:107374182];
-    area[name="{country}"]->.searchArea;
+   (
+     area[name="{country}"];
+     area["name:en"="{country}"];
+    )->.searchArea;
+    
     (
       node["power"="plant"](area.searchArea);
       way["power"="plant"](area.searchArea);
