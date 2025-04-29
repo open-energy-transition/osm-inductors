@@ -41,7 +41,7 @@ This Python script extracts and organizes power substation data from Wikidata. I
 - Counts and groups substations by country and type.
 - Retrieves detailed substation information including geographic coordinates, type, and label.
 - Splits the dataset into entries with and without geographic coordinates.
-Exports:
+- Exports:
   - Full substation dataset in CSV format.
   - Separate CSV files for substations with and without coordinates.
   - One GeoJSON file per country containing substations with valid coordinates.
