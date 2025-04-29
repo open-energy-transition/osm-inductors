@@ -37,26 +37,26 @@ This Python script extracts and organizes power substation data from Wikidata. I
 
 ## Features
 
--Fetches substation data from Wikidata using the SPARQL API.
--Counts and groups substations by country and type.
--Retrieves detailed substation information including geographic coordinates, type, and label.
--Splits the dataset into entries with and without geographic coordinates.
+- Fetches substation data from Wikidata using the SPARQL API.
+- Counts and groups substations by country and type.
+- Retrieves detailed substation information including geographic coordinates, type, and label.
+- Splits the dataset into entries with and without geographic coordinates.
 Exports:
-  -Full substation dataset in CSV format.
-  -Separate CSV files for substations with and without coordinates.
-  -One GeoJSON file per country containing substations with valid coordinates.
+  - Full substation dataset in CSV format.
+  - Separate CSV files for substations with and without coordinates.
+  - One GeoJSON file per country containing substations with valid coordinates.
 
 ## CSV Files Output
 
-**`groupedbycountry.csv`**: Lists the total number of substations per country, along with associated types.
-**`wikidata_substations_full.csv`**: Contains all fetched substations including those without coordinates.
-**`wikidata_substations_with_coordinates.csv`**: Contains substations with valid latitude and longitude data.
-**`wikidata_substations_without_coordinates.csv`**: Contains substations missing coordinate information.
+- **`groupedbycountry.csv`**: Lists the total number of substations per country, along with associated types.
+- **`wikidata_substations_full.csv`**: Contains all fetched substations including those without coordinates.
+- **`wikidata_substations_with_coordinates.csv`**: Contains substations with valid latitude and longitude data.
+- **`wikidata_substations_without_coordinates.csv`**: Contains substations missing coordinate information.
 
 ## GeoJSON Output
 
--One GeoJSON file per country is generated inside the geojson_by_country/ directory.
--Each GeoJSON file contains substations with geographic coordinates, suitable to be used as a hint layer for mapping or GIS applications.
+- One GeoJSON file per country is generated inside the geojson_by_country/ directory.
+- Each GeoJSON file contains substations with geographic coordinates, suitable to be used as a hint layer for mapping or GIS applications.
 
 ## Requirements
 To run this script, you need the following Python libraries:
