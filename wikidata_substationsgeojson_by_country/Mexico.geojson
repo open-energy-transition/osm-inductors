@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.995386123,
+          20.212408099
+        ]
+      },
+      "properties": {
+        "label": "El Salto electric substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113325543",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.301125764,
+          19.980638998
+        ]
+      },
+      "properties": {
+        "label": "San Lorenzo electrical substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113325587",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.592209815,
+          19.766461231
+        ]
+      },
+      "properties": {
+        "label": "Sahagún electrical substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113325606",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.86639595,
+          19.663320632
+        ]
+      },
+      "properties": {
+        "label": "Teotihuacán electrical substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113325623",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.694788217,
+          20.114872738
+        ]
+      },
+      "properties": {
+        "label": "Antigua subestación electrica de Pachuca",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q118164276",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.673115968,
+          20.144559268
+        ]
+      },
+      "properties": {
+        "label": "Antigua subestación eléctrica",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q118164286",
+        "country_qid": "Q96"
+      }
+    }
+  ]
+}

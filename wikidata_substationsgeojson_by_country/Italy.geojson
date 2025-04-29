@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.629722222,
+          43.827777777
+        ]
+      },
+      "properties": {
+        "label": "Camporosso substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q52635012",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.87328,
+          46.40147
+        ]
+      },
+      "properties": {
+        "label": "Q117197843",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q117197843",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.95096,
+          44.61284
+        ]
+      },
+      "properties": {
+        "label": "Ronco Scrivia electrical substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q131100632",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.159025,
+          45.462529
+        ]
+      },
+      "properties": {
+        "label": "Q131759705",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q131759705",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.235704,
+          45.512828
+        ]
+      },
+      "properties": {
+        "label": "Q131760691",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q131760691",
+        "country_qid": "Q38"
+      }
+    }
+  ]
+}

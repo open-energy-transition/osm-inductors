@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.018888888,
+          49.520277777
+        ]
+      },
+      "properties": {
+        "label": "Schifflange substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q52491611",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.139722222,
+          49.668333333
+        ]
+      },
+      "properties": {
+        "label": "Heisdorf substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q52637863",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.114722222,
+          49.905
+        ]
+      },
+      "properties": {
+        "label": "Flebour substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q52637872",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.083888888,
+          49.776388888
+        ]
+      },
+      "properties": {
+        "label": "Roost substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q52637880",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.139166666,
+          49.550833333
+        ]
+      },
+      "properties": {
+        "label": "Berchem substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q52637884",
+        "country_qid": "Q32"
+      }
+    }
+  ]
+}

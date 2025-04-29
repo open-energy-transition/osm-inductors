@@ -1,0 +1,821 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7381,
+          53.7258
+        ]
+      },
+      "properties": {
+        "label": "Radisson Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q7281356",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.65541,
+          52.11696
+        ]
+      },
+      "properties": {
+        "label": "Saskatoon Electrical System Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q7425655",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.556308,
+          45.497528
+        ]
+      },
+      "properties": {
+        "label": "Poste Adélard-Godbout",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q23073794",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.680832,
+          51.6
+        ]
+      },
+      "properties": {
+        "label": "Poste Albanel",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q28005748",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8694,
+          45.2531
+        ]
+      },
+      "properties": {
+        "label": "Châteauguay HVDC-back-to-back station",
+        "type": "HVDC back-to-back station",
+        "substation": "http://www.wikidata.org/entity/Q1090757",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.4442,
+          48.0181
+        ]
+      },
+      "properties": {
+        "label": "Eel River Converter Station",
+        "type": "HVDC back-to-back station",
+        "substation": "http://www.wikidata.org/entity/Q5347061",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.14,
+          56.5039
+        ]
+      },
+      "properties": {
+        "label": "Henday Converter Station",
+        "type": "HVDC converter station",
+        "substation": "http://www.wikidata.org/entity/Q5713103",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.024,
+          50.5989
+        ]
+      },
+      "properties": {
+        "label": "McNeill HVDC Back-to-back station",
+        "type": "HVDC back-to-back station",
+        "substation": "http://www.wikidata.org/entity/Q6802531",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7381,
+          53.7258
+        ]
+      },
+      "properties": {
+        "label": "Radisson Substation",
+        "type": "HVDC converter station",
+        "substation": "http://www.wikidata.org/entity/Q7281356",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5236,
+          47.5086
+        ]
+      },
+      "properties": {
+        "label": "Madawaska HVDC",
+        "type": "HVDC back-to-back station",
+        "substation": "http://www.wikidata.org/entity/Q14875550",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.446312,
+          45.600152
+        ]
+      },
+      "properties": {
+        "label": "Outaouais HVDC back-to-back station",
+        "type": "HVDC back-to-back station",
+        "substation": "http://www.wikidata.org/entity/Q113939125",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5922222,
+          50.1927778
+        ]
+      },
+      "properties": {
+        "label": "Arnaud Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379357",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0088889,
+          53.7327778
+        ]
+      },
+      "properties": {
+        "label": "Chissibi Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379358",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4669444,
+          49.8258333
+        ]
+      },
+      "properties": {
+        "label": "Abitibi Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379359",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9019444,
+          45.3133333
+        ]
+      },
+      "properties": {
+        "label": "Beauharnois-Est Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379360",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6533333,
+          49.7783333
+        ]
+      },
+      "properties": {
+        "label": "Chibougamau Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379361",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3866667,
+          49.1891667
+        ]
+      },
+      "properties": {
+        "label": "Hauterive Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379362",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.713611,
+          48.665556
+        ]
+      },
+      "properties": {
+        "label": "L'Ashuapmushuan Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379363",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.71889,
+          46.78389
+        ]
+      },
+      "properties": {
+        "label": "La Jacques-Cartier Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379364",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3911111,
+          49.2919444
+        ]
+      },
+      "properties": {
+        "label": "La Manicouagan Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379365",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0555556,
+          51.7094444
+        ]
+      },
+      "properties": {
+        "label": "La Nemiscau Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379366",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.7291667,
+          51.8916667
+        ]
+      },
+      "properties": {
+        "label": "Les Montagnais Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379367",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.286389,
+          48.375556
+        ]
+      },
+      "properties": {
+        "label": "Le Saguenay Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379368",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5738889,
+          53.7344444
+        ]
+      },
+      "properties": {
+        "label": "La Grande-1 Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379369",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5491667,
+          53.7794444
+        ]
+      },
+      "properties": {
+        "label": "La Grande-2-A Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379370",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9972222,
+          53.73
+        ]
+      },
+      "properties": {
+        "label": "La Grande-3 Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379371",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4672222,
+          53.8861111
+        ]
+      },
+      "properties": {
+        "label": "La Grande-4 Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379372",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5438889,
+          54.1597222
+        ]
+      },
+      "properties": {
+        "label": "Laforge-1 Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379373",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2708333,
+          54.5916667
+        ]
+      },
+      "properties": {
+        "label": "Laforge-2 Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379374",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0358333,
+          53.4844444
+        ]
+      },
+      "properties": {
+        "label": "Le Moyne Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379375",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5438889,
+          54.1597222
+        ]
+      },
+      "properties": {
+        "label": "Nikamo Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379376",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5327778,
+          53.7819444
+        ]
+      },
+      "properties": {
+        "label": "Robert Bourassa Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379377",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4625,
+          53.8902778
+        ]
+      },
+      "properties": {
+        "label": "Tilly Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113379378",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.79531,
+          46.2246
+        ]
+      },
+      "properties": {
+        "label": "Beauceville substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113938373",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.446312,
+          45.600152
+        ]
+      },
+      "properties": {
+        "label": "Outaouais HVDC back-to-back station",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113939125",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1924,
+          46.7069
+        ]
+      },
+      "properties": {
+        "label": "Lévis substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113944164",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.295,
+          46.6998
+        ]
+      },
+      "properties": {
+        "label": "Chaudière substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113997324",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.799444,
+          47.444166
+        ]
+      },
+      "properties": {
+        "label": "Q114443175",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q114443175",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.128333,
+          51.445278
+        ]
+      },
+      "properties": {
+        "label": "Poste de Blanc-Sablon",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q115101106",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.845278,
+          47.22
+        ]
+      },
+      "properties": {
+        "label": "Poste de L'Île-d'Entrée",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q115101109",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9102778,
+          45.3141667
+        ]
+      },
+      "properties": {
+        "label": "Poste de Melocheville",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q115101115",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57098,
+          45.49116
+        ]
+      },
+      "properties": {
+        "label": "Q117813380",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q117813380",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.118888,
+          45.274443
+        ]
+      },
+      "properties": {
+        "label": "Q63758817",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q63758817",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.571444444,
+          45.473694444
+        ]
+      },
+      "properties": {
+        "label": "Poste Atwater",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q64216167",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.284721,
+          48.2075
+        ]
+      },
+      "properties": {
+        "label": "Q78670511",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q78670511",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.535396,
+          53.550649
+        ]
+      },
+      "properties": {
+        "label": "Street Railway Substation No. 600",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q81827612",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.747221111,
+          50.629166111
+        ]
+      },
+      "properties": {
+        "label": "Q91827876",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q91827876",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.251615,
+          42.983708
+        ]
+      },
+      "properties": {
+        "label": "London Hydro Substation No. 4",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q104390744",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675054,
+          45.402023
+        ]
+      },
+      "properties": {
+        "label": "Hydro Sub-Station No. 5",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q111526017",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.524166111,
+          50.289443888
+        ]
+      },
+      "properties": {
+        "label": "Q112966989",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q112966989",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36677,
+          48.435619
+        ]
+      },
+      "properties": {
+        "label": "Bay Street Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q54878633",
+        "country_qid": "Q16"
+      }
+    }
+  ]
+}
