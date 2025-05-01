@@ -22,7 +22,7 @@ You must manually download the file: 20240916_Core Static Grid Model_for publica
 - `unmatched_substations.csv`: List of JAO substations that could not be matched or found in OSM.
 - `overpass_matched_substations.txt`: Overpass Turbo query to view matched substations in OSM.
 
-The `overpass_matched_substations.txt` can be copy and paste in the [Overpass-turbo website] (https://overpass-turbo.eu/) to visualize the results in OSM.
+The `overpass_matched_substations.txt` can be copy and paste in the [Overpass-turbo website](https://overpass-turbo.eu/) to visualize the results in OSM.
 
 ## Requirements
 
