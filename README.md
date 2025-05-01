@@ -17,10 +17,12 @@ You must manually download the file: 20240916_Core Static Grid Model_for publica
 
 ## Outputs
 
-- `jao_lines_with_coords.csv`: Full enriched line dataset with lat/lon and OSM IDs for each substation
-- `matched_substations_osm.csv`: List of matched substations with OSM ID and coordinates
-- `unmatched_substations.csv`: List of JAO substations that could not be matched
-- `overpass_matched_substations.txt`: Overpass Turbo query to view matched substations on the map
+- `jao_lines_with_coords.csv`: Full enriched JAO line dataset with lat/lon and OSM IDs for each substation
+- `matched_substations_osm.csv`: List of matched JAO/OSM substations with OSM ID and coordinates
+- `unmatched_substations.csv`: List of JAO substations that could not be matched or found in OSM.
+- `overpass_matched_substations.txt`: Overpass Turbo query to view matched substations in OSM.
+
+The `overpass_matched_substations.txt` can be copy and paste in the [Overpass-turbo website] (https://overpass-turbo.eu/) to visualize the results in OSM.
 
 ## Requirements
 
