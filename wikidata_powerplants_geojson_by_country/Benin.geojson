@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.651944444,
+          6.966388888
+        ]
+      },
+      "properties": {
+        "label": "Illoulofin Solar Power Station",
+        "type": "photovoltaic power station",
+        "powerplant": "http://www.wikidata.org/entity/Q110235974",
+        "country_qid": "Q962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.306555555,
+          6.425361111
+        ]
+      },
+      "properties": {
+        "label": "Maria Gleta Power Plant",
+        "type": "thermal power station",
+        "powerplant": "http://www.wikidata.org/entity/Q56372001",
+        "country_qid": "Q962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.582555555,
+          6.913777777
+        ]
+      },
+      "properties": {
+        "label": "Q56372606",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q56372606",
+        "country_qid": "Q962"
+      }
+    }
+  ]
+}

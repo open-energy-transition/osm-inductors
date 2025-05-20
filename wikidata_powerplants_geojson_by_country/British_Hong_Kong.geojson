@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.147521,
+          22.243717
+        ]
+      },
+      "properties": {
+        "label": "Ap Lei Chau Power Station",
+        "type": "oil-fired power station",
+        "powerplant": "http://www.wikidata.org/entity/Q11173913",
+        "country_qid": "Q1054923"
+      }
+    }
+  ]
+}

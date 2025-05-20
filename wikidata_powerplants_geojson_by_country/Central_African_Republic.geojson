@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.033805555,
+          4.881
+        ]
+      },
+      "properties": {
+        "label": "Q56373704",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q56373704",
+        "country_qid": "Q929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.05,
+          4.871111111
+        ]
+      },
+      "properties": {
+        "label": "Boali Hydroelectric Power Station",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q104878965",
+        "country_qid": "Q929"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58944444,
+          22.86805556
+        ]
+      },
+      "properties": {
+        "label": "Chumen Hydropower Plant",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q15905516",
+        "country_qid": "Q188712"
+      }
+    }
+  ]
+}
