@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1461,
+          54.0863
+        ]
+      },
+      "properties": {
+        "label": "Städtisches Elektricitätswerk Rostock",
+        "type": "electricity plant",
+        "powerplant": "http://www.wikidata.org/entity/Q108526227",
+        "country_qid": "Q1206012"
+      }
+    }
+  ]
+}

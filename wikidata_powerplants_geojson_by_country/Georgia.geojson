@@ -1,0 +1,645 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.631111111,
+          42.736111111
+        ]
+      },
+      "properties": {
+        "label": "Kazbegskaya Gidroelektricheskaya Stantsiya",
+        "type": "power station",
+        "powerplant": "http://www.wikidata.org/entity/Q24687176",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.023611111,
+          41.744722222
+        ]
+      },
+      "properties": {
+        "label": "Martkobi Gidroelektrostantsiya",
+        "type": "power station",
+        "powerplant": "http://www.wikidata.org/entity/Q24687255",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.6780119,
+          42.8421307
+        ]
+      },
+      "properties": {
+        "label": "Tkvarcheli thermal power plant",
+        "type": "coal-fired power station",
+        "powerplant": "http://www.wikidata.org/entity/Q19392642",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.19388889,
+          42.95472222
+        ]
+      },
+      "properties": {
+        "label": "Khudoni Hydro Power Plant",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q1326165",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9331,
+          41.704775
+        ]
+      },
+      "properties": {
+        "label": "Tetrikhevi HPP",
+        "type": "Run-of-river hydroelectricity",
+        "powerplant": "http://www.wikidata.org/entity/Q131340136",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9331,
+          41.704775
+        ]
+      },
+      "properties": {
+        "label": "Tetrikhevi HPP",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q131340136",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.771944444,
+          42.135
+        ]
+      },
+      "properties": {
+        "label": "Zhinvali HPP",
+        "type": "dam",
+        "powerplant": "http://www.wikidata.org/entity/Q3493773",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.771944444,
+          42.135
+        ]
+      },
+      "properties": {
+        "label": "Zhinvali HPP",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q3493773",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.8472378,
+          42.5668307
+        ]
+      },
+      "properties": {
+        "label": "Lajanuri Hydro Power Plant",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q3650523",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.86147222,
+          41.57030556
+        ]
+      },
+      "properties": {
+        "label": "Atsi Hydro Power Plant",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q4057513",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.70055556,
+          42.15305556
+        ]
+      },
+      "properties": {
+        "label": "Cascade of Vartsikhe hydro power plants",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q4104053",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.71777778,
+          42.30722222
+        ]
+      },
+      "properties": {
+        "label": "Gumati 2 hydro power plant",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q4152037",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.70388889,
+          42.32027778
+        ]
+      },
+      "properties": {
+        "label": "Gumati 1 hydro power plant",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q4152038",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.82611111,
+          41.68277778
+        ]
+      },
+      "properties": {
+        "label": "Ortachala Hydro Power Plant",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q4337097",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.75611111,
+          42.65222222
+        ]
+      },
+      "properties": {
+        "label": "Vardnili Hydroelectric Power Station",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q4350700",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.725755,
+          42.200587
+        ]
+      },
+      "properties": {
+        "label": "Rioni Hydroelectric Power Plant",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q4394751",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.01861111,
+          43.15944444
+        ]
+      },
+      "properties": {
+        "label": "Sokhumi Hydro Power Plant",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q4447455",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.9573745,
+          42.2620933
+        ]
+      },
+      "properties": {
+        "label": "Dzevri hydro power plant",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q4459016",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.12055556,
+          41.54833333
+        ]
+      },
+      "properties": {
+        "label": "Khramhesi I",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q4501176",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.214972222,
+          41.465138888
+        ]
+      },
+      "properties": {
+        "label": "Khramhesi II",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q4501177",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.30111111,
+          41.79138889
+        ]
+      },
+      "properties": {
+        "label": "Chitakhevi hydro power plant",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q4516651",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.00333,
+          42.36361
+        ]
+      },
+      "properties": {
+        "label": "Shaori Hydro Power Plant",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q4520171",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7594444,
+          41.8225
+        ]
+      },
+      "properties": {
+        "label": "Zemo Avchala Dam",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q56665",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.03101,
+          42.7592
+        ]
+      },
+      "properties": {
+        "label": "Enguri hydroelectric power plant",
+        "type": "arch dam",
+        "powerplant": "http://www.wikidata.org/entity/Q162887",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.03101,
+          42.7592
+        ]
+      },
+      "properties": {
+        "label": "Enguri hydroelectric power plant",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q162887",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6326312,
+          42.7319264
+        ]
+      },
+      "properties": {
+        "label": "Dariali Hydropower Plant",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q11774288",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1534145,
+          41.6387033
+        ]
+      },
+      "properties": {
+        "label": "Shuakhevi Hydro Power Plant",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q6002123",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.691944444,
+          42.371944444
+        ]
+      },
+      "properties": {
+        "label": "Zhoneti Hydro Power Plant",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q7353201",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0605214,
+          41.4704591
+        ]
+      },
+      "properties": {
+        "label": "Tbilsresi",
+        "type": "gas-fired power station",
+        "powerplant": "http://www.wikidata.org/entity/Q12864975",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3315906,
+          42.2530795
+        ]
+      },
+      "properties": {
+        "label": "Khadorhesi",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q12871352",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0534582,
+          41.738211
+        ]
+      },
+      "properties": {
+        "label": "Satskhenisi Hydro Power Plant",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q16375544",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.151944444,
+          43.448055555
+        ]
+      },
+      "properties": {
+        "label": "Bagnar Gidroelektricheskaya Stantsiya",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q24687533",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.380555555,
+          43.047222222
+        ]
+      },
+      "properties": {
+        "label": "Nenskra hydro power plant",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q27077030",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.76163889,
+          42.65247222
+        ]
+      },
+      "properties": {
+        "label": "Q84761112",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q84761112",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.77288889,
+          42.13302778
+        ]
+      },
+      "properties": {
+        "label": "Q84761118",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q84761118",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.71447222,
+          41.51511111
+        ]
+      },
+      "properties": {
+        "label": "Q84761121",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q84761121",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.11297222,
+          41.68844444
+        ]
+      },
+      "properties": {
+        "label": "Q84761125",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q84761125",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.29138889,
+          41.4695
+        ]
+      },
+      "properties": {
+        "label": "Q84761127",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q84761127",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9331,
+          41.704775
+        ]
+      },
+      "properties": {
+        "label": "Tetrikhevi HPP",
+        "type": "Run-of-river hydroelectricity",
+        "powerplant": "http://www.wikidata.org/entity/Q131340136",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9331,
+          41.704775
+        ]
+      },
+      "properties": {
+        "label": "Tetrikhevi HPP",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q131340136",
+        "country_qid": "Q230"
+      }
+    }
+  ]
+}

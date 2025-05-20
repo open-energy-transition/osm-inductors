@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.788138888,
+          6.360943888
+        ]
+      },
+      "properties": {
+        "label": "Q56372808",
+        "type": "thermal power station",
+        "powerplant": "http://www.wikidata.org/entity/Q56372808",
+        "country_qid": "Q1014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.30219444,
+          6.29747222
+        ]
+      },
+      "properties": {
+        "label": "Firestone hydroelectric power station",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q1419013",
+        "country_qid": "Q1014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.65111111,
+          6.51027778
+        ]
+      },
+      "properties": {
+        "label": "Mount Coffee Hydropower Project",
+        "type": "dam",
+        "powerplant": "http://www.wikidata.org/entity/Q1950287",
+        "country_qid": "Q1014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.65107,
+          6.51035
+        ]
+      },
+      "properties": {
+        "label": "Mount Coffee Hydropower Project",
+        "type": "dam",
+        "powerplant": "http://www.wikidata.org/entity/Q1950287",
+        "country_qid": "Q1014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.65111111,
+          6.51027778
+        ]
+      },
+      "properties": {
+        "label": "Mount Coffee Hydropower Project",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q1950287",
+        "country_qid": "Q1014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.65107,
+          6.51035
+        ]
+      },
+      "properties": {
+        "label": "Mount Coffee Hydropower Project",
+        "type": "hydroelectric power station",
+        "powerplant": "http://www.wikidata.org/entity/Q1950287",
+        "country_qid": "Q1014"
+      }
+    }
+  ]
+}

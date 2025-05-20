@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.007472222,
+          13.976638888
+        ]
+      },
+      "properties": {
+        "label": "Cul De Sac Power Station",
+        "type": "power station",
+        "powerplant": "http://www.wikidata.org/entity/Q118414948",
+        "country_qid": "Q760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.961027777,
+          13.737527777
+        ]
+      },
+      "properties": {
+        "label": "Vieux Fort Solar Farm",
+        "type": "solar power station",
+        "powerplant": "http://www.wikidata.org/entity/Q118418687",
+        "country_qid": "Q760"
+      }
+    }
+  ]
+}
