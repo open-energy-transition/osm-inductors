@@ -12,14 +12,14 @@ Currently, the repository contains the following python scripts and folders :
 
 This Python script compares power plant data between **OpenStreetMap (OSM)** and **Wikidata**. It fetches data from both sources using APIs, performs comparisons based on geographic proximity and name, and identifies missing power plants or coordinate mismatches. The comparison results are saved in **CSV** and **GeoJSON** formats.
 
-## Features
+### Features
 - Fetches power plant data from Wikidata using the SPARQL API.
 - Fetches power plant data from OpenStreetMap using the Overpass API.
 - Compares the datasets based on geographic proximity and name matching.
 - Identifies missing power plants and coordinate mismatches between OSM and Wikidata.
 - Outputs the comparison results in CSV files, geoJSON file for missing data in OSM and quickstatement file for missing data in wikidata
 
-## CSV Files Output
+### CSV Files Output
 The script generates the following CSV files containing valuable matched/unmatched data:
 - **`wikidataset.csv`**: Contains the power plants fetched from Wikidata.
 - **`osm_api_dataset.csv`**: Contains the power plants fetched from OpenStreetMap.
@@ -36,7 +36,7 @@ The script generates the following CSV files containing valuable matched/unmatch
 
 This Python script extracts and organizes power substation data from Wikidata. It fetches substation data by country using the SPARQL API, classifies substations by verified types (e.g., electrical substations, HVDC converter stations), and outputs the results in CSV and GeoJSON formats.
 
-## Features
+### Features
 
 - Fetches substation data from Wikidata using the SPARQL API.
 - Counts and groups substations by country and type.
@@ -47,14 +47,14 @@ This Python script extracts and organizes power substation data from Wikidata. I
   - Separate CSV files for substations with and without coordinates.
   - One GeoJSON file per country containing substations with valid coordinates.
 
-## CSV Files Output
+### CSV Files Output
 
 - **`groupedbycountry.csv`**: Lists the total number of substations per country, along with associated types.
 - **`wikidata_substations_full.csv`**: Contains all fetched substations including those without coordinates.
 - **`wikidata_substations_with_coordinates.csv`**: Contains substations with valid latitude and longitude data.
 - **`wikidata_substations_without_coordinates.csv`**: Contains substations missing coordinate information.
 
-## GeoJSON Output
+### GeoJSON Output
 
 - One GeoJSON file per country is generated inside the geojson_by_country/ directory.
 - Each GeoJSON file contains substations with geographic coordinates, suitable to be used as a hint layer for mapping or GIS applications.
@@ -63,7 +63,7 @@ This Python script extracts and organizes power substation data from Wikidata. I
 ## Wikidata Infrastructure Fetch Script
 This script fetches and organizes infrastructure-related entities from Wikidata by country and infrastructure type (e.g., power plants, substations, transmission lines). It uses SPARQL queries to extract metadata and geographic coordinates for each entity, grouped by country and tagged with the relevant QIDs.
 
-## Key Features
+### Key Features
 
 - **Configurable via `config.yaml`**  
   Define infrastructure QIDs, SPARQL endpoint, and user agent.
@@ -85,7 +85,7 @@ This script fetches and organizes infrastructure-related entities from Wikidata 
 
 ---
 
-## Output Structure
+### Output Structure
 
 All output files are organized by QID in the `output_by_qid/` folder:
 
