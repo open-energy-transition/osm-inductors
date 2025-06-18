@@ -1,0 +1,11 @@
+wikidata_endpoint: "https://query.wikidata.org/sparql"
+user_agent: "PowerPlantDataCollector/1.0"
+reset_cache: false  # Set to true to force-refresh all cached data
+
+infrastructure_types:
+  # Q48970589:
+  #   label: "electrical interconnector"
+  # Q4117949:
+  #   label: "submarine power cable"
+  Q159719:
+    label: "power plant"
