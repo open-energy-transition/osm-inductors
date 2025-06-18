@@ -55,7 +55,7 @@ def fetch_entity_counts(type_qid, type_label, output_dir=""):
 
         while True:
             query = f"""
-            SELECT ?country ?countryLabel (COUNT(?item) AS ?count) WHERE {{
+            SELECT ?country ?countryLabel (COUNT(DISTINCT ?item) AS ?count) WHERE {{
               ?item wdt:P31/wdt:P279* wd:{type_qid}.
               ?item wdt:P17 ?country.
               SERVICE wikibase:label {{ bd:serviceParam wikibase:language \"en\". }}
@@ -92,51 +92,44 @@ def fetch_entity_counts(type_qid, type_label, output_dir=""):
 # Step 2: Fetch detailed entity data by country
 def fetch_entities_by_country(type_qid, type_label, country_qid, country_label):
     cache_name = f"entities_{type_qid}_{country_qid}"
-    cached = load_cache(cache_name)
-    if cached is not None:
-        return cached
+    if not RESET_CACHE:
+        cached = load_cache(cache_name)
+        if cached is not None:
+            return cached
+
+    query = f"""
+    SELECT DISTINCT ?item ?itemLabel ?location ?coordinates WHERE {{
+      ?item wdt:P31/wdt:P279* wd:{type_qid}.
+      ?item wdt:P17 wd:{country_qid}.
+      OPTIONAL {{ ?item wdt:P625 ?coordinates. }}
+      OPTIONAL {{ ?item wdt:P276 ?location. }}
+      SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
+    }}
+    """
+
+    response = requests.get(WIKIDATA_ENDPOINT, params={"query": query, "format": "json"}, headers=HEADERS)
+    response.raise_for_status()
+    data = response.json()["results"]["bindings"]
 
     all_rows = []
-    offset = 0
-    limit = 500
+    for item in data:
+        coordinates = item.get("coordinates", {}).get("value")
+        lat, lon = None, None
+        if coordinates and coordinates.startswith("Point("):
+            parts = coordinates.replace("Point(", "").replace(")", "").split()
+            if len(parts) == 2:
+                lon, lat = float(parts[0]), float(parts[1])
 
-    while True:
-        query = f"""
-        SELECT ?item ?itemLabel ?location ?coordinates WHERE {{
-          ?item wdt:P31/wdt:P279* wd:{type_qid}.
-          ?item wdt:P17 wd:{country_qid}.
-          OPTIONAL {{ ?item wdt:P625 ?coordinates. }}
-          OPTIONAL {{ ?item wdt:P276 ?location. }}
-          SERVICE wikibase:label {{ bd:serviceParam wikibase:language \"en\". }}
-        }}
-        LIMIT {limit} OFFSET {offset}
-        """
-        response = requests.get(WIKIDATA_ENDPOINT, params={"query": query, "format": "json"}, headers=HEADERS)
-        response.raise_for_status()
-        data = response.json()["results"]["bindings"]
-        if not data:
-            break
-
-        for item in data:
-            coordinates = item.get("coordinates", {}).get("value")
-            lat, lon = None, None
-            if coordinates and coordinates.startswith("Point("):
-                parts = coordinates.replace("Point(", "").replace(")", "").split()
-                if len(parts) == 2:
-                    lon, lat = float(parts[0]), float(parts[1])
-
-            all_rows.append({
-                "country_name": country_label,
-                "country_qid": country_qid,
-                "entity": item["item"]["value"],
-                "label": item.get("itemLabel", {}).get("value", ""),
-                "type": type_label,
-                "latitude": lat,
-                "longitude": lon,
-                "location": item.get("location", {}).get("value", "")
-            })
-
-        offset += limit
+        all_rows.append({
+            "country_name": country_label,
+            "country_qid": country_qid,
+            "entity": item["item"]["value"],
+            "label": item.get("itemLabel", {}).get("value", ""),
+            "type": type_label,
+            "latitude": lat,
+            "longitude": lon,
+            # "location": item.get("location", {}).get("value", "") #Not considered to avoid duplication in files
+        })
 
     df = pd.DataFrame(all_rows)
     save_cache(cache_name, df)
@@ -154,17 +147,21 @@ def collect_entity_data(type_qid, type_label):
         print(f"  Querying {type_label} in {country_label} ({country_qid})...")
         try:
             df = fetch_entities_by_country(type_qid, type_label, country_qid, country_label)
+            df = df.drop_duplicates(subset="entity")
             if not df.empty:
+                df.to_csv("pruebaUSA.csv")
                 print(f"    {len(df)} entries found.")
                 all_entities.append(df)
+                # quit()
             else:
                 print("    No entries with coordinates.")
         except Exception as e:
             print(f"    Failed to fetch: {e}")
 
-    non_empty = [df for df in all_entities if not df.empty and not df.isna().all(axis=1).all()]
-    full_df = pd.concat(non_empty, ignore_index=True) if non_empty else pd.DataFrame()
-    full_df = full_df.drop_duplicates(subset="entity")
+    non_empty = [df for df in all_entities if not df.empty]
+    cleaned_non_empty = [df.dropna(axis=1, how="all") for df in non_empty]
+    full_df = pd.concat(cleaned_non_empty, ignore_index=True) if cleaned_non_empty else pd.DataFrame()
+
 
     df_with_coords = full_df[full_df["latitude"].notna() & full_df["longitude"].notna()]
     df_without_coords = full_df[full_df["latitude"].isna() | full_df["longitude"].isna()]
