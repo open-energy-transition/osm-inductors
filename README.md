@@ -1,10 +1,11 @@
 # OSM-WIKIDATA Toolset
 This repository contains a set of tools to extract, transform and analyze wikidata electricity infrastructure information and asses its potential integration to Open Street Map.
 
-Currently, the repository has two python scripts:
+Currently, the repository contains three python scripts:
 
-  1. compare_osm_wikidata_powerplants.py, which is an OSM vs wikidata powerplant matching script.
-  2. get_wiki_substations.py, which fetches classes and subclasses of substations in wikidata to generate a new dataset grouped by country.
+  1. compare_osm_wikidata_powerplants.py, which is an in depth OSM vs wikidata powerplant matching script.
+  2. get_wiki_substations.py, which fetches classes and subclasses of substations in wikidata to generate a new dataset grouped by country. (First version of the fetching script, for more accurate results use "fetch_wiki_info_by_country")
+  3. fetch_wiki_info_by_country.py, which fetches classes and subclasses of any Qid that can be found in wikidata. To search and find a Qid, modify them accordingly in the config.yaml file. 
 
 
 ## OSM vs Wikidata Power Plant Comparison
@@ -58,14 +59,46 @@ This Python script extracts and organizes power substation data from Wikidata. I
 - One GeoJSON file per country is generated inside the geojson_by_country/ directory.
 - Each GeoJSON file contains substations with geographic coordinates, suitable to be used as a hint layer for mapping or GIS applications.
 
+
+## Wikidata Infrastructure Fetch Script
+This script fetches and organizes infrastructure-related entities from Wikidata by country and infrastructure type (e.g., power plants, substations, transmission lines). It uses SPARQL queries to extract metadata and geographic coordinates for each entity, grouped by country and tagged with the relevant QIDs.
+
+## Key Features
+
+- **Configurable via `config.yaml`**  
+  Define infrastructure QIDs, SPARQL endpoint, and user agent.
+
+- **Country-Level Summaries**  
+  Retrieves and saves entity counts by country (`*_counts_by_country.csv`).
+
+- **Detailed Entity Fetching**  
+  Collects item-level data per country, including coordinates and labels.
+
+- **GeoJSON Output**  
+  Generates per-country `.geojson` files for easy import into GIS or OpenStreetMap tools like JOSM.
+
+- **Caching for Speed**  
+  Speeds up repeated runs using a local `cache/` folder. Caching can be disabled via `reset_cache` in the config.
+
+- **Duplicate Handling**  
+  Filters out duplicate Wikidata entities based on their unique ID (`entity` URL).
+
+---
+
+## Output Structure
+
+All output files are organized by QID in the `output_by_qid/` folder:
+
+![image](https://github.com/user-attachments/assets/8bf000ea-e435-4659-9079-e198e5b935f2)
+
+
+This is **Version 1 (v1)** of the script:
+- Uses **sequential fetching** for accuracy and reproducibility
+- A **parallel version (V2)** is in development for improved performance
+  
 ## Requirements
-To run this script, you need the following Python libraries:
-- pandas
-- requests
-- geopy
-- fuzzywuzzy
-- scipy
-- numpy
+- Python 3.8+
+- Packages: `requests`, `pandas`, `pyyaml`
 
 You can install all dependencies by running:
 
