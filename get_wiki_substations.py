@@ -28,7 +28,7 @@ def fetch_substation_counts():
         print(f"Fetching country counts for {type_label} ({type_qid})...")
 
         query = f"""
-        SELECT ?country ?countryLabel (COUNT(?item) AS ?count) WHERE {{
+        SELECT ?country ?countryLabel (COUNT(DISTINCT ?item) AS ?count) WHERE {{
           ?item wdt:P31 wd:{type_qid}.
           ?item wdt:P17 ?country.
           SERVICE wikibase:label {{ bd:serviceParam wikibase:language \"en\". }}
@@ -66,7 +66,7 @@ def fetch_substations_by_country(country_qid, country_label):
 
     while True:
         query = f"""
-        SELECT ?substation ?substationLabel ?typeLabel ?location ?coordinates WHERE {{
+        SELECT DISTINCT ?substation ?substationLabel ?typeLabel ?location ?coordinates WHERE {{
           VALUES ?type {{
             wd:Q174814
             wd:Q2356943
@@ -131,6 +131,7 @@ def collect_substation_data():
             print(f"Failed to fetch for {country_qid}: {e}")
 
     full_df = pd.concat(all_substations, ignore_index=True)
+    full_df = full_df.drop_duplicates(subset="substation")
 
     # Rows with both latitude and longitude
     df_with_coords = full_df[full_df["latitude"].notna() & full_df["longitude"].notna()]
@@ -140,7 +141,7 @@ def collect_substation_data():
 
     return full_df, df_with_coords, df_without_coords
 
-def export_geojson_by_country(df_with_coords, output_dir="geojson_by_country"):
+def export_geojson_by_country(df_with_coords, output_dir="substations/geojson_by_country"):
     """
     Generates one GeoJSON file per country from substations with coordinates.
 
@@ -188,6 +189,6 @@ if __name__ == "__main__":
     df_allsubstations.to_csv("wikidata_substations_full.csv", index=False)
     df_with_coords.to_csv("wikidata_substations_with_coordinates.csv", index=False)
     missing_coordinates.to_csv("wikidata_substations_without_coordinates.csv", index=False)
-    export_geojson_by_country(df_with_coords, output_dir="geojson_by_country")
+    export_geojson_by_country(df_with_coords, output_dir="substations/geojson_by_country")
     print("Substation data successfully saved to csv files")
     print('geojson files saved')
