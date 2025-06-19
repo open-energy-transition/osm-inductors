@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78,
+          32.077761
+        ]
+      },
+      "properties": {
+        "label": "Historical Electric Transformers",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q30526895",
+        "country_qid": "Q801"
+      }
+    }
+  ]
+}

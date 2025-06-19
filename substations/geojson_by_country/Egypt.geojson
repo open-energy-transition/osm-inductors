@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.747697472,
+          26.222328985
+        ]
+      },
+      "properties": {
+        "label": "New Qena Converter Station",
+        "type": "HVDC converter station",
+        "substation": "http://www.wikidata.org/entity/Q120758945",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.867527315,
+          26.490909669
+        ]
+      },
+      "properties": {
+        "label": "East Sohag Converter Station",
+        "type": "HVDC converter station",
+        "substation": "http://www.wikidata.org/entity/Q120192094",
+        "country_qid": "Q79"
+      }
+    }
+  ]
+}
