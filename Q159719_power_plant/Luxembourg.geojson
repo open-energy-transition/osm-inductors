@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.17805556,
+          49.95
+        ]
+      },
+      "properties": {
+        "label": "Vianden Pumped Storage Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q328955",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.43858,
+          49.67259
+        ]
+      },
+      "properties": {
+        "label": "Q13105102",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q13105102",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.971389,
+          49.491472
+        ]
+      },
+      "properties": {
+        "label": "Q20572746",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q20572746",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.92277778,
+          49.91166667
+        ]
+      },
+      "properties": {
+        "label": "Esch-sur-Sûre Dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q1366851",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.963153,
+          49.511735
+        ]
+      },
+      "properties": {
+        "label": "Esch-sur-Alzette power plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q17769787",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.36668,
+          49.46697
+        ]
+      },
+      "properties": {
+        "label": "Écluse d'Apach-Schengen",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q13105104",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.36499,
+          49.56767
+        ]
+      },
+      "properties": {
+        "label": "Staustuf Stadbriedemes-Palzem",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q13105109",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.077806,
+          50.078778
+        ]
+      },
+      "properties": {
+        "label": "Q13105408",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q13105408",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.362,
+          49.4934
+        ]
+      },
+      "properties": {
+        "label": "Remerschen nuclear power station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q13101619",
+        "country_qid": "Q32"
+      }
+    }
+  ]
+}

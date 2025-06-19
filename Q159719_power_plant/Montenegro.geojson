@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.32694444,
+          43.33397222
+        ]
+      },
+      "properties": {
+        "label": "Pljevlja Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q7205045",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2007005,
+          41.980682
+        ]
+      },
+      "properties": {
+        "label": "Možura Wind Farm",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q105975515",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.065277777,
+          42.599444444
+        ]
+      },
+      "properties": {
+        "label": "Hidroelektrana Slap Zete",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q27565561",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.995555555,
+          42.671666666
+        ]
+      },
+      "properties": {
+        "label": "Perućica hydro power plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q27565724",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.844444444,
+          43.274444444
+        ]
+      },
+      "properties": {
+        "label": "Hidroelektrana Mratinje",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q27561214",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.117,
+          42.8738
+        ]
+      },
+      "properties": {
+        "label": "Krnovo Wind Farm",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q97193445",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.998888888,
+          42.666944444
+        ]
+      },
+      "properties": {
+        "label": "Hidroelektrana Glava Zete",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q27565723",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.842277777,
+          43.272722222
+        ]
+      },
+      "properties": {
+        "label": "Piva hydro power plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q30974244",
+        "country_qid": "Q236"
+      }
+    }
+  ]
+}
