@@ -20,6 +20,12 @@ Energy storage (concept),Q837718,https://www.wikidata.org/wiki/Q837718,Energy St
 Grid energy storage,Q1832610,https://www.wikidata.org/wiki/Q1832610,Energy Storage Systems
 Electrical substation,Q174814,https://www.wikidata.org/wiki/Q174814,Transmission and Distribution Infrastructure
 Transformer,Q11658,https://www.wikidata.org/wiki/Q11658,Transmission and Distribution Infrastructure
+power transformer,Q4419282,https://www.wikidata.org/wiki/Q4419282,Transmission and Distribution Infrastructure
+autotransformer,Q565668,https://www.wikidata.org/wiki/Q565668,Transmission and Distribution Infrastructure
+transformer type,Q7834127,https://www.wikidata.org/wiki/Q7834127,Transmission and Distribution Infrastructure
+generator transformer,Q1489990,https://www.wikidata.org/wiki/Q1489990,Transmission and Distribution Infrastructure
+zigzag transformer,Q198468,https://www.wikidata.org/wiki/Q198468,Transmission and Distribution Infrastructure
+delta-wye transformer,Q1258026,https://www.wikidata.org/wiki/Q1258026,Transmission and Distribution Infrastructure
 Switchgear,Q1273786,https://www.wikidata.org/wiki/Q1273786,Transmission and Distribution Infrastructure
 Busbar,Q1030817,https://www.wikidata.org/wiki/Q1030817,Transmission and Distribution Infrastructure
 Circuit breaker,Q211058,https://www.wikidata.org/wiki/Q211058,Transmission and Distribution Infrastructure
@@ -28,7 +34,7 @@ Surge arrester,Q14190856,https://www.wikidata.org/wiki/Q14190856,Transmission an
 Current transformer,Q856535,https://www.wikidata.org/wiki/Q856535,Transmission and Distribution Infrastructure
 Voltage transformer,Q1288234,https://www.wikidata.org/wiki/Q1288234,Transmission and Distribution Infrastructure
 Overhead power line,Q2144320,https://www.wikidata.org/wiki/Q2144320,Transmission and Distribution Infrastructure
-Underground power cable,Q9150896,https://www.wikidata.org/wiki/Q9150896,Transmission and Distribution Infrastructure
+Underground power cable,Q1939150,https://www.wikidata.org/wiki/Q1939150,Transmission and Distribution Infrastructure
 Submarine power cable,Q4117949,https://www.wikidata.org/wiki/Q4117949,Transmission and Distribution Infrastructure
 Interconnector (electricity),Q48970589,https://www.wikidata.org/wiki/Q48970589,Transmission and Distribution Infrastructure
 Transmission tower (pylon),Q914711,https://www.wikidata.org/wiki/Q914711,Structural and Support Components
@@ -39,6 +45,8 @@ Power-system protection,Q1756067,https://www.wikidata.org/wiki/Q1756067,Control 
 Protective relay,Q503732,https://www.wikidata.org/wiki/Q503732,Control and Protection Equipment
 SCADA,Q17498,https://www.wikidata.org/wiki/Q17498,Communication and Monitoring Systems
 Phasor Measurement Unit (PMU),Q8290,https://www.wikidata.org/wiki/Q8290,Communication and Monitoring Systems
+variable shunt reactor,Q7915736,https://www.wikidata.org/wiki/Q7915736,Grid Stability Systems
+voltage regulator,Q851210,https://www.wikidata.org/wiki/Q851210,Grid Stability Systems
 Static Synchronous Compensator (STATCOM),Q2333754,https://www.wikidata.org/wiki/Q2333754,Grid Stability Systems
 Static VAR Compensator (SVC),Q839922,https://www.wikidata.org/wiki/Q839922,Grid Stability Systems
 Synchronous condenser,Q2260944,https://www.wikidata.org/wiki/Q2260944,Grid Stability Systems
@@ -51,7 +59,6 @@ Electrical generator,Q131502,https://www.wikidata.org/wiki/Q131502,Powerplant Co
 Steam turbine,Q189859,https://www.wikidata.org/wiki/Q189859,Powerplant Components
 Gas turbine,Q193470,https://www.wikidata.org/wiki/Q193470,Powerplant Components
 Diesel generator,Q963375,https://www.wikidata.org/wiki/Q963375,Powerplant Components
-Capacitor bank,Q5322,https://www.wikidata.org/wiki/Q5322,Distribution Network and Substation Auxiliary Components
 Pad-mounted transformer,Q7123882,https://www.wikidata.org/wiki/Q7123882,Distribution Network and Substation Auxiliary Components
 Earthing transformer,Q27876009,https://www.wikidata.org/wiki/Q27876009,Distribution Network and Substation Auxiliary Components
 Ring Main Unit (RMU),Q48799168,https://www.wikidata.org/wiki/Q48799168,Distribution Network and Substation Auxiliary Components
@@ -66,9 +73,12 @@ High-voltage direct current power line,Q370607,https://www.wikidata.org/wiki/Q37
 HVDC converter (equipment),Q5636221,https://www.wikidata.org/wiki/Q5636221,High-Voltage Direct Current (HVDC) Components
 HVDC converter station,Q2356943,https://www.wikidata.org/wiki/Q2356943,High-Voltage Direct Current (HVDC) Components
 HVDC back-to-back station,Q20170565,https://www.wikidata.org/wiki/Q20170565,High-Voltage Direct Current (HVDC) Components
+high-voltage direct current power line,Q370607,https://www.wikidata.org/wiki/Q370607,High-Voltage Direct Current (HVDC) Components
 Offshore HVDC converter platform,Q60173690,https://www.wikidata.org/wiki/Q60173690,High-Voltage Direct Current (HVDC) Components
 Electric power transmission,Q200928,https://www.wikidata.org/wiki/Q200928,System-Level Concepts
+transmission of electricity,Q29585403,https://www.wikidata.org/wiki/Q29585403,System-Level Concepts
 Electric power distribution,Q844861,https://www.wikidata.org/wiki/Q844861,System-Level Concepts
+electricity distribution,Q112165528,https://www.wikidata.org/wiki/Q112165528,System-Level Concepts
 Electrical grid,Q1096907,https://www.wikidata.org/wiki/Q1096907,System-Level Concepts
 Electric power (rate of energy transfer),Q25342,https://www.wikidata.org/wiki/Q25342,System-Level Concepts
 Energy infrastructure,Q56397239,https://www.wikidata.org/wiki/Q56397239,System-Level Concepts
