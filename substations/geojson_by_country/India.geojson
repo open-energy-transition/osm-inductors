@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.70805556,
+          25.12833333
+        ]
+      },
+      "properties": {
+        "label": "Sasaram back to back HVDC converter station",
+        "type": "HVDC back-to-back station",
+        "substation": "http://www.wikidata.org/entity/Q7425009",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1325,
+          17.6425
+        ]
+      },
+      "properties": {
+        "label": "Vizag back to back HVDC converter station",
+        "type": "HVDC back-to-back station",
+        "substation": "http://www.wikidata.org/entity/Q7937990",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14333333,
+          20.08916667
+        ]
+      },
+      "properties": {
+        "label": "Chandrapur back to back HVDC converter station",
+        "type": "HVDC back-to-back station",
+        "substation": "http://www.wikidata.org/entity/Q5071436",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.270442,
+          10.561773
+        ]
+      },
+      "properties": {
+        "label": "Madakkathara substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q105728107",
+        "country_qid": "Q668"
+      }
+    }
+  ]
+}

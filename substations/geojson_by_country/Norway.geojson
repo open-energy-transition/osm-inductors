@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.43714,
+          63.411238
+        ]
+      },
+      "properties": {
+        "label": "Moholt substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q26807802",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.121087,
+          70.008621
+        ]
+      },
+      "properties": {
+        "label": "Q123173383",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q123173383",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.961338,
+          60.266901
+        ]
+      },
+      "properties": {
+        "label": "Q116155693",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q116155693",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.671502777,
+          59.435772222
+        ]
+      },
+      "properties": {
+        "label": "Q67256948",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q67256948",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.721111111,
+          59.958055555
+        ]
+      },
+      "properties": {
+        "label": "Sogn substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q53517491",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.541849,
+          70.171938
+        ]
+      },
+      "properties": {
+        "label": "Q123173043",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q123173043",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.696411,
+          70.409564
+        ]
+      },
+      "properties": {
+        "label": "Q123173065",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q123173065",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.33923694,
+          60.37286389
+        ]
+      },
+      "properties": {
+        "label": "Q17195081",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q17195081",
+        "country_qid": "Q20"
+      }
+    }
+  ]
+}

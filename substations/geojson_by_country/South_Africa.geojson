@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.084166666,
+          -28.943333333
+        ]
+      },
+      "properties": {
+        "label": "Merapi substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q55214975",
+        "country_qid": "Q258"
+      }
+    }
+  ]
+}
