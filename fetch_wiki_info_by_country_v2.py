@@ -7,8 +7,17 @@ import hashlib
 import pickle
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# Load configuration
+# ------------------------
+# Configuration & Caching
+# ------------------------
+
 def load_config(path="config.yaml"):
+    """
+    Load project configuration from a YAML file.
+
+    Returns:
+        dict: Dictionary containing endpoint, user-agent, cache flags, and infrastructure types.
+    """
     with open(path, "r", encoding="utf-8") as f:
         return yaml.safe_load(f)
 
@@ -24,9 +33,22 @@ CACHE_DIR = "cache"
 os.makedirs(CACHE_DIR, exist_ok=True)
 
 def cache_path(name):
+    """
+    Construct full file path for a cache file.    
+    """
     return os.path.join(CACHE_DIR, f"{name}.pkl")
 
 def load_cache(name):
+    """
+    Load cache from disk if available and not reset.
+
+    Args:
+        name (str): Cache key or filename (without extension).
+
+    Returns:
+        Any or None: Loaded object or None if cache miss or disabled.
+    """
+
     if RESET_CACHE:
         return None
     path = cache_path(name)
@@ -36,13 +58,35 @@ def load_cache(name):
     return None
 
 def save_cache(name, data):
+    """
+    Persist data object to cache using pickle.
+
+    Args:
+        name (str): Cache key or filename (without extension).
+        data (Any): Data object to be saved.
+    """
     path = cache_path(name)
     with open(path, "wb") as f:
         pickle.dump(data, f)
 
-# Step 1: Fetch counts per country
+# -----------------------------
+# Step 1: Entity Count by Country
+# -----------------------------
+
 def fetch_entity_counts(type_qid, type_label, output_dir=""):
-    print(f"\nFetching {type_label} counts grouped by country...")
+    """
+    Query Wikidata for per-country counts of a given infrastructure type (e.g., power plant).
+
+    Args:
+        type_qid (str): QID representing the type (e.g., Q159719).
+        type_label (str): Human-readable label (e.g., "power plant").
+        output_dir (str): Directory to save CSV output.
+
+    Returns:
+        pd.DataFrame: DataFrame with columns [country, countryLabel, count].
+    """
+
+    print(f"\nGetting {type_label} counts grouped by country...")
     cache_name = f"counts_{type_qid}"
     cached = load_cache(cache_name)
     if cached is not None:
@@ -89,8 +133,25 @@ def fetch_entity_counts(type_qid, type_label, output_dir=""):
         df.to_csv(os.path.join(output_dir, f"{base_name}_counts_by_country.csv"), index=False)
     return df
 
-# Step 2: Fetch detailed entity data by country
+# -----------------------------
+# Step 2: Fetch Entities per Country
+# -----------------------------
+
 def fetch_entities_by_country(type_qid, type_label, country_qid, country_label):
+
+    """
+    Fetch detailed entity-level data for a given type and country.
+
+    Args:
+        type_qid (str): QID of the infrastructure type.
+        type_label (str): Human-readable label.
+        country_qid (str): QID of the country.
+        country_label (str): Country name.
+
+    Returns:
+        pd.DataFrame: Entity data including coordinates if any.
+    """
+
     cache_name = f"entities_{type_qid}_{country_qid}"
     if not RESET_CACHE:
         cached = load_cache(cache_name)
@@ -134,24 +195,40 @@ def fetch_entities_by_country(type_qid, type_label, country_qid, country_label):
     save_cache(cache_name, df)
     return df
 
-# Step 3: Collect data using parallel fetching
+# --------------------------------
+# Step 3: Parallel Entity Fetching
+# --------------------------------
+
 def collect_entity_data_parallel(type_qid, type_label):
+    """
+    Collects all entity data for a given type using per-country parallel processing.
+
+    Args:
+        type_qid (str): QID of the infrastructure type.
+        type_label (str): Label for output naming.
+
+    Returns:
+        tuple: (full_df, df_with_coordinates, df_without_coordinates)
+    """
+
     country_counts = fetch_entity_counts(type_qid, type_label)
     print(f"Querying {type_label} data country by country (parallel)...")
 
     all_entities = []
+    failed_countries = [] # Keep track of failures
 
     def task(row):
         country_qid = row["country"].split("/")[-1]
         country_label = row["countryLabel"]
-        print(f"  Querying {type_label} in {country_label} ({country_qid})...")
+        print(f"Querying {type_label} in {country_label} ({country_qid})...")
         try:
             df = fetch_entities_by_country(type_qid, type_label, country_qid, country_label)
             df = df.drop_duplicates(subset="entity")
-            print(f"    {len(df)} entries found.")
+            print(f"{len(df)} entries found.")
             return df
         except Exception as e:
-            print(f"    Failed to fetch {country_label}: {e}")
+            print(f"Failed to fetch {country_label}: {e}")
+            failed_countries.append((country_label, country_qid, str(e)))
             return pd.DataFrame()
 
     with ThreadPoolExecutor(max_workers=8) as executor:
@@ -161,16 +238,35 @@ def collect_entity_data_parallel(type_qid, type_label):
             if not result_df.empty:
                 all_entities.append(result_df)
 
+    # Show failure summary, if any
+    if failed_countries:
+        print("\nSummary of countries that failed to fetch:")
+        for label, qid, msg in failed_countries:
+            print(f" - {label} ({qid}): {msg}")
+
     non_empty = [df for df in all_entities if not df.empty]
     cleaned_non_empty = [df.dropna(axis=1, how="all") for df in non_empty]
     full_df = pd.concat(cleaned_non_empty, ignore_index=True) if cleaned_non_empty else pd.DataFrame()
 
     df_with_coords = full_df[full_df["latitude"].notna() & full_df["longitude"].notna()]
     df_without_coords = full_df[full_df["latitude"].isna() | full_df["longitude"].isna()]
-    return country_counts, full_df, df_with_coords, df_without_coords
+    return full_df, df_with_coords, df_without_coords
 
-# Step 4: Export GeoJSON
+# -----------------------------
+# Step 4: Export GeoJSON Outputs
+# -----------------------------
+
 def export_geojson_by_country(df_with_coords, country_counts, type_label, type_qid, output_dir):
+    """
+    Write per-country GeoJSON files for all entities with coordinates.
+
+    Args:
+        df_with_coords (pd.DataFrame): Filtered dataset containing coordinates.
+        country_counts (pd.DataFrame): Metadata for all countries fetched.
+        type_label (str): Infrastructure label.
+        type_qid (str): QID used for classification.
+        output_dir (str): Folder to write GeoJSON files.
+    """
     os.makedirs(output_dir, exist_ok=True)
     grouped = df_with_coords.groupby("country_name")
     generated_files = 0
@@ -215,21 +311,56 @@ def export_geojson_by_country(df_with_coords, country_counts, type_label, type_q
         for country in missing_geojson:
             print(f" - {country}")
 
-# Main execution
+
+def prepare_output_folder(type_qid, type_label, version="v2"):
+    """
+    Prepares and returns the output directory for a given infrastructure QID and label.
+    
+    Args:
+        type_qid (str): The Wikidata QID of the infrastructure type.
+        type_label (str): Human-readable label for the infrastructure.
+        version (str): Folder suffix to differentiate script versions. Default is 'v2'.
+    
+    Returns:
+        tuple: (output_dir, folder_name, base_name)
+    """
+    base_name = type_label.lower().replace(" ", "_")
+    folder_name = f"{type_qid}_{base_name}"
+    output_dir = os.path.join(f"output_by_qid_{version}", folder_name)
+    os.makedirs(output_dir, exist_ok=True)
+    return output_dir, folder_name, base_name
+
+    
+def process_infrastructure_type(type_qid, type_label, version="v2"):
+    """
+    Executes the full data retrieval and export workflow for a given infrastructure type.
+    
+    Args:
+        type_qid (str): Wikidata QID for the infrastructure type.
+        type_label (str): Human-readable label for the infrastructure type.
+        version (str): Version label for the output directory structure (e.g., 'v2').
+    """
+    output_dir, folder_name, base_name = prepare_output_folder(type_qid, type_label, version)
+
+    # Step 1: Fetch per-country counts
+    summary = fetch_entity_counts(type_qid, type_label, output_dir)
+
+    # Step 2: Fetch entities using parallel country-level calls
+    df_all, df_coords, df_missing = collect_entity_data_parallel(type_qid, type_label)
+
+    # Step 3: Save all results to CSV
+    df_all.to_csv(os.path.join(output_dir, f"wikidata_{base_name}_full.csv"), index=False)
+    df_coords.to_csv(os.path.join(output_dir, f"wikidata_{base_name}_with_coordinates.csv"), index=False)
+    df_missing.to_csv(os.path.join(output_dir, f"wikidata_{base_name}_without_coordinates.csv"), index=False)
+
+    # Step 4: Export GeoJSON
+    export_geojson_by_country(df_coords, summary, type_label, type_qid, output_dir)
+
+    print(f"\nFinished processing {type_label}")
+
+# -----------------------------
+# Main Execution
+# -----------------------------
 if __name__ == "__main__":
     for type_qid, info in INFRA_TYPES.items():
-        type_label = info["label"]
-        base_name = type_label.lower().replace(" ", "_")
-        folder_name = f"{type_qid}_{base_name}"
-        output_dir = os.path.join("output_by_qid_v2", folder_name)
-        os.makedirs(output_dir, exist_ok=True)
-
-        summary = fetch_entity_counts(type_qid, type_label, output_dir)
-        _, df_all, df_coords, df_missing = collect_entity_data_parallel(type_qid, type_label)
-
-        df_all.to_csv(os.path.join(output_dir, f"wikidata_{base_name}_full.csv"), index=False)
-        df_coords.to_csv(os.path.join(output_dir, f"wikidata_{base_name}_with_coordinates.csv"), index=False)
-        df_missing.to_csv(os.path.join(output_dir, f"wikidata_{base_name}_without_coordinates.csv"), index=False)
-
-        export_geojson_by_country(df_coords, summary, type_label, type_qid, output_dir)
-        print(f"\nFinished processing {type_label}")
+        process_infrastructure_type(type_qid, info["label"])
