@@ -260,6 +260,9 @@ infrastructure_types:
   Q207696:
     label: "Uninterruptible power supply (UPS)"
 status_values:
+  Q56557118:
+   label: "use status" 
+   comment: "Main category of all following status"
   Q811683:
     label: "proposed building or structure"
   Q170584:
@@ -268,6 +271,20 @@ status_values:
     label: "construction"
   Q30108381:
     label: "cancelled"
+  Q11639308:
+    label: "decommissioned"
+  Q12377751:
+    label: "building or structure under construction"
+  Q12913148:
+    label: "inactive"
+  Q29415466:
+    label: "active"
+  Q20734200:
+    label: "not completed"
+  Q30108381:
+    label: "cancelled"
+  Q29933838:
+    label: "service retirement"
 prime_properties:
   P10689:
     label: "OpenStreetMap way ID"
