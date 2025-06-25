@@ -437,6 +437,7 @@ def generate_combined_geojson_by_country(df_list, output_root="output_by_qid_v2"
                         "type": row.get("type", ""),
                         "entity": row.get("entity", ""),
                         "country_qid": row.get("country_qid", ""),
+                        "Wikidata Qid": row.get("entity", "").split('/')[-1],
                     }
                 })
 
