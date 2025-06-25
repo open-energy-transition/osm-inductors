@@ -299,4 +299,7 @@ prime_properties:
     label: "instance of"
   P1448:
     label: "official name"
-
+  P582:
+    label: "end time"
+    include: "P3999"
+    qid: "Q24575125"
