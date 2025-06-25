@@ -4,7 +4,7 @@ reset_cache: false  # Set to true to force-refresh all cached data
 
 infrastructure_types:
   Q159719:
-    label: "Power station"
+    label: "Power plant"
   Q134447:
     label: "Nuclear power plant"
   Q15911738:
@@ -193,8 +193,6 @@ infrastructure_types:
     label: "Renewable fuels"
   Q39558:
     label: "Gasoline"
-  Q12323:
-    label: "Dam"
   Q56697283:
     label: "Hydroelectric dam"
   Q1047832:
