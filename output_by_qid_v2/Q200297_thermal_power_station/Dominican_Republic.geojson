@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6344483,
+          18.4073113
+        ]
+      },
+      "properties": {
+        "label": "Q11956638",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q11956638",
+        "country_qid": "Q786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.868471,
+          18.498962
+        ]
+      },
+      "properties": {
+        "label": "Q11956641",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q11956641",
+        "country_qid": "Q786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.341711,
+          18.494933
+        ]
+      },
+      "properties": {
+        "label": "Q19387554",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q19387554",
+        "country_qid": "Q786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3133731,
+          18.4478773
+        ]
+      },
+      "properties": {
+        "label": "Q12003933",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q12003933",
+        "country_qid": "Q786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5510342,
+          19.2476815
+        ]
+      },
+      "properties": {
+        "label": "Q11982889",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q11982889",
+        "country_qid": "Q786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8331543,
+          18.3504777
+        ]
+      },
+      "properties": {
+        "label": "Q11986795",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q11986795",
+        "country_qid": "Q786"
+      }
+    }
+  ]
+}

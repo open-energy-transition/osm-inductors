@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.913,
+          39.89525
+        ]
+      },
+      "properties": {
+        "label": "Shirvan Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q4062215",
+        "country_qid": "Q227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9910145,
+          40.780054
+        ]
+      },
+      "properties": {
+        "label": "Azerbaijan Thermal Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q4832402",
+        "country_qid": "Q227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.46999,
+          40.17938
+        ]
+      },
+      "properties": {
+        "label": "Sangachal Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q25536577",
+        "country_qid": "Q227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.208888888,
+          40.498888888
+        ]
+      },
+      "properties": {
+        "label": "Shimal Thermal Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q18762447",
+        "country_qid": "Q227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6333,
+          40.603
+        ]
+      },
+      "properties": {
+        "label": "Sumgayit Thermal Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q18791666",
+        "country_qid": "Q227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.9182889,
+          39.8939747
+        ]
+      },
+      "properties": {
+        "label": "Cənub Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q113463676",
+        "country_qid": "Q227"
+      }
+    }
+  ]
+}

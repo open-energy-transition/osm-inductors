@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.656111111,
+          42.873055555
+        ]
+      },
+      "properties": {
+        "label": "Bishkek CHP station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q11961156",
+        "country_qid": "Q813"
+      }
+    }
+  ]
+}

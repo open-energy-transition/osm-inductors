@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.735263,
+          -9.153575
+        ]
+      },
+      "properties": {
+        "label": "Central Eléctrica de Betano",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q28870383",
+        "country_qid": "Q574"
+      }
+    }
+  ]
+}

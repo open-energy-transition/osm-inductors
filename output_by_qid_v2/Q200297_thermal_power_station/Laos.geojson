@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.279515,
+          19.6905818
+        ]
+      },
+      "properties": {
+        "label": "Hongsa power plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q16307813",
+        "country_qid": "Q819"
+      }
+    }
+  ]
+}

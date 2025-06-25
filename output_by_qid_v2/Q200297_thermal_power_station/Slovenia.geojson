@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5454448,
+          46.0576188
+        ]
+      },
+      "properties": {
+        "label": "Ljubljana Thermal Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q1601480",
+        "country_qid": "Q215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0614,
+          46.1258
+        ]
+      },
+      "properties": {
+        "label": "Trbovlje Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q12804020",
+        "country_qid": "Q215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.478493833,
+          45.997687833
+        ]
+      },
+      "properties": {
+        "label": "Brestanica Thermal Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q106706627",
+        "country_qid": "Q215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.479722222,
+          45.997222222
+        ]
+      },
+      "properties": {
+        "label": "Brestanica Thermoelectric Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q12804023",
+        "country_qid": "Q215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51276228,
+          46.055139837
+        ]
+      },
+      "properties": {
+        "label": "Ljubljana City power plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q18755613",
+        "country_qid": "Q215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.053243615,
+          46.372798094
+        ]
+      },
+      "properties": {
+        "label": "Šoštanj Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q19389753",
+        "country_qid": "Q215"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.30222,
+          6.15861
+        ]
+      },
+      "properties": {
+        "label": "Lomé Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56372575",
+        "country_qid": "Q945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.288611111,
+          6.149722222
+        ]
+      },
+      "properties": {
+        "label": "Kékéli Thermal Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q106880702",
+        "country_qid": "Q945"
+      }
+    }
+  ]
+}

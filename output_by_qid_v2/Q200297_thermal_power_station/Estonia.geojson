@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.117931,
+          59.353514
+        ]
+      },
+      "properties": {
+        "label": "Balti Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q3737153",
+        "country_qid": "Q191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.744916,
+          59.403899
+        ]
+      },
+      "properties": {
+        "label": "Sillamäe power station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q12375003",
+        "country_qid": "Q191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.241944,
+          59.395833
+        ]
+      },
+      "properties": {
+        "label": "Kohtla-Järve Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q6426153",
+        "country_qid": "Q191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70555556,
+          59.24388889
+        ]
+      },
+      "properties": {
+        "label": "Kiisa Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q6406098",
+        "country_qid": "Q191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.46444444,
+          59.31388889
+        ]
+      },
+      "properties": {
+        "label": "Ahtme Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q4696387",
+        "country_qid": "Q191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.89453,
+          59.269969
+        ]
+      },
+      "properties": {
+        "label": "Auvere Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q31271927",
+        "country_qid": "Q191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.92428,
+          59.45168
+        ]
+      },
+      "properties": {
+        "label": "Iru Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q3440702",
+        "country_qid": "Q191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.750556,
+          59.444444
+        ]
+      },
+      "properties": {
+        "label": "Tallinn Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q892643",
+        "country_qid": "Q191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.24189,
+          59.07793
+        ]
+      },
+      "properties": {
+        "label": "Ellamaa power station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q12361901",
+        "country_qid": "Q191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.902361111,
+          59.273138888
+        ]
+      },
+      "properties": {
+        "label": "Eesti Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q11966588",
+        "country_qid": "Q191"
+      }
+    }
+  ]
+}

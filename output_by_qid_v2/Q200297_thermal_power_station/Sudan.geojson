@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.563361111,
+          15.650361111
+        ]
+      },
+      "properties": {
+        "label": "Mahmud Sharif power plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56373919",
+        "country_qid": "Q1049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.823666666,
+          13.209444444
+        ]
+      },
+      "properties": {
+        "label": "Um-Dabakir Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q130633366",
+        "country_qid": "Q1049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.701444444,
+          16.116083333
+        ]
+      },
+      "properties": {
+        "label": "Q56373931",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56373931",
+        "country_qid": "Q1049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.692944444,
+          16.11975
+        ]
+      },
+      "properties": {
+        "label": "Q56373921",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56373921",
+        "country_qid": "Q1049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.822752,
+          13.2084022
+        ]
+      },
+      "properties": {
+        "label": "Um Dabaker Thermal Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56373933",
+        "country_qid": "Q1049"
+      }
+    }
+  ]
+}

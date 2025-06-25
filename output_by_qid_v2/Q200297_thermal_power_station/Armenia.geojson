@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.941,
+          39.78338889
+        ]
+      },
+      "properties": {
+        "label": "Karkar Geothermal Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q30589243",
+        "country_qid": "Q399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.49666667,
+          40.11416667
+        ]
+      },
+      "properties": {
+        "label": "Yerevan Thermal Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q21777838",
+        "country_qid": "Q399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.750833333,
+          40.565555555
+        ]
+      },
+      "properties": {
+        "label": "Hrazdan Thermal Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q4388366",
+        "country_qid": "Q399"
+      }
+    }
+  ]
+}

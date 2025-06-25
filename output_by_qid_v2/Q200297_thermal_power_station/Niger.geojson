@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.788611111,
+          17.25
+        ]
+      },
+      "properties": {
+        "label": "Anou Araren Thermal Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q125796875",
+        "country_qid": "Q1032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.785888888,
+          14.189138888
+        ]
+      },
+      "properties": {
+        "label": "SORAZ power station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56372809",
+        "country_qid": "Q1032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.120111111,
+          13.430166666
+        ]
+      },
+      "properties": {
+        "label": "Gorou Banda power station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56372810",
+        "country_qid": "Q1032"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.143024,
+          32.1424241
+        ]
+      },
+      "properties": {
+        "label": "Samra Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q19387520",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0508132,
+          32.3297857
+        ]
+      },
+      "properties": {
+        "label": "Rehab Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q11997414",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.01861111,
+          31.22222222
+        ]
+      },
+      "properties": {
+        "label": "Al Qatrana Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q4704648",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9768424,
+          29.3779681
+        ]
+      },
+      "properties": {
+        "label": "Aqaba Thermal Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q2944645",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.07977778,
+          31.89905556
+        ]
+      },
+      "properties": {
+        "label": "Amman East Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q4747132",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0112683,
+          32.5724377
+        ]
+      },
+      "properties": {
+        "label": "Risha Gas Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q105083372",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4477336,
+          31.2688904
+        ]
+      },
+      "properties": {
+        "label": "Attarat Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q4818129",
+        "country_qid": "Q810"
+      }
+    }
+  ]
+}

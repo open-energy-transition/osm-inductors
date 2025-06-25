@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.18575,
+          -17.352861111
+        ]
+      },
+      "properties": {
+        "label": "Maamba Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56373911",
+        "country_qid": "Q953"
+      }
+    }
+  ]
+}

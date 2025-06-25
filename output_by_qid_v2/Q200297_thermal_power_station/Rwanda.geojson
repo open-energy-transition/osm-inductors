@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9399731,
+          -2.6670832
+        ]
+      },
+      "properties": {
+        "label": "Gishoma Thermal Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q25221452",
+        "country_qid": "Q1037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.320055555,
+          -2.068583333
+        ]
+      },
+      "properties": {
+        "label": "KivuWatt Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q22079959",
+        "country_qid": "Q1037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.33833333,
+          -2.05583333
+        ]
+      },
+      "properties": {
+        "label": "Kibuye Power Plant 1",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q23058516",
+        "country_qid": "Q1037"
+      }
+    }
+  ]
+}

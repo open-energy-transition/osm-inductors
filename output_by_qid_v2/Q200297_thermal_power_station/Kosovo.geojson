@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.08333333,
+          42.67527778
+        ]
+      },
+      "properties": {
+        "label": "Kosovo A Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q6433360",
+        "country_qid": "Q1246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.05,
+          42.69555556
+        ]
+      },
+      "properties": {
+        "label": "Kosovo B Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q6433362",
+        "country_qid": "Q1246"
+      }
+    }
+  ]
+}

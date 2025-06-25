@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.63568933,
+          13.29265016
+        ]
+      },
+      "properties": {
+        "label": "Brikama power station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q1601469",
+        "country_qid": "Q1005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.696777777,
+          13.454361111
+        ]
+      },
+      "properties": {
+        "label": "Kotu Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56372896",
+        "country_qid": "Q1005"
+      }
+    }
+  ]
+}

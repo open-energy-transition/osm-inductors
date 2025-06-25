@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.634722222,
+          4.843888888
+        ]
+      },
+      "properties": {
+        "label": "Juba Thermal Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q85772250",
+        "country_qid": "Q958"
+      }
+    }
+  ]
+}

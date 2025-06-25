@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.401388888,
+          53.871944444
+        ]
+      },
+      "properties": {
+        "label": "Minsk 4 power station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q11989589",
+        "country_qid": "Q184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.19402735,
+          52.453728799
+        ]
+      },
+      "properties": {
+        "label": "Biarozaŭskaja power station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q21505223",
+        "country_qid": "Q184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.13479722,
+          54.68092778
+        ]
+      },
+      "properties": {
+        "label": "Lukoml power station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q2024774",
+        "country_qid": "Q184"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1541812,
+          29.0337244
+        ]
+      },
+      "properties": {
+        "label": "Shuaiba power station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q97939448",
+        "country_qid": "Q817"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7905917,
+          29.3676461
+        ]
+      },
+      "properties": {
+        "label": "Doha power station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q11965838",
+        "country_qid": "Q817"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.3800688,
+          28.7133354
+        ]
+      },
+      "properties": {
+        "label": "Az Zour North power station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q98080477",
+        "country_qid": "Q817"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.169351944,
+          29.566126944
+        ]
+      },
+      "properties": {
+        "label": "Subbiya Power And Water Distillation Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q22915211",
+        "country_qid": "Q817"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.3705282,
+          28.7071696
+        ]
+      },
+      "properties": {
+        "label": "Al-Zor South Power And Water Distillation Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q11959877",
+        "country_qid": "Q817"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9398974,
+          29.3511294
+        ]
+      },
+      "properties": {
+        "label": "Shuwaikh Power Station and Water Distillation Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q12239389",
+        "country_qid": "Q817"
+      }
+    }
+  ]
+}

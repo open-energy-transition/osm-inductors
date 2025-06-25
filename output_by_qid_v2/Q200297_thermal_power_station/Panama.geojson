@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.907806,
+          9.337667
+        ]
+      },
+      "properties": {
+        "label": "Costa Norte-II",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q30973074",
+        "country_qid": "Q804"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.97675001,
+          3.025460557
+        ]
+      },
+      "properties": {
+        "label": "Kribi Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q6436963",
+        "country_qid": "Q1009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.819722222,
+          3.996111111
+        ]
+      },
+      "properties": {
+        "label": "Q28040005",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q28040005",
+        "country_qid": "Q1009"
+      }
+    }
+  ]
+}

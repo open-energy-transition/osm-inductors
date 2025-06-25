@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.53333333,
+          48.69861111
+        ]
+      },
+      "properties": {
+        "label": "Nováky Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q1583581",
+        "country_qid": "Q214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.68972222,
+          48.45833333
+        ]
+      },
+      "properties": {
+        "label": "Malženice power plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q173970",
+        "country_qid": "Q214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1543145,
+          48.1770363
+        ]
+      },
+      "properties": {
+        "label": "PPC Bratislava power plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q11962117",
+        "country_qid": "Q214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.817083,
+          48.595507
+        ]
+      },
+      "properties": {
+        "label": "Piešťany power station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q12765257",
+        "country_qid": "Q214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9781,
+          48.5536
+        ]
+      },
+      "properties": {
+        "label": "Vojany Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q1163149",
+        "country_qid": "Q214"
+      }
+    }
+  ]
+}

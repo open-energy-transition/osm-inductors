@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.971389,
+          49.491472
+        ]
+      },
+      "properties": {
+        "label": "Q20572746",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q20572746",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.963153,
+          49.511735
+        ]
+      },
+      "properties": {
+        "label": "Esch-sur-Alzette power plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q17769787",
+        "country_qid": "Q32"
+      }
+    }
+  ]
+}

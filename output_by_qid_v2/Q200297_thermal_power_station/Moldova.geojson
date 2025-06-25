@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8936005,
+          47.7490053
+        ]
+      },
+      "properties": {
+        "label": "CET-Nord",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q20430787",
+        "country_qid": "Q217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.93888889,
+          46.63416667
+        ]
+      },
+      "properties": {
+        "label": "Cuciurgan power station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q2022944",
+        "country_qid": "Q217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.894444,
+          47.749444
+        ]
+      },
+      "properties": {
+        "label": "Q106414240",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q106414240",
+        "country_qid": "Q217"
+      }
+    }
+  ]
+}

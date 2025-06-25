@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.21762778,
+          14.68906389
+        ]
+      },
+      "properties": {
+        "label": "Sendou power station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q7450246",
+        "country_qid": "Q1041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.8617687,
+          15.0070025
+        ]
+      },
+      "properties": {
+        "label": "Q56372845",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56372845",
+        "country_qid": "Q1041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.301694444,
+          14.719805555
+        ]
+      },
+      "properties": {
+        "label": "Q56372881",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56372881",
+        "country_qid": "Q1041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.299472222,
+          14.7195
+        ]
+      },
+      "properties": {
+        "label": "Q56372858",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56372858",
+        "country_qid": "Q1041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.032861111,
+          14.167527777
+        ]
+      },
+      "properties": {
+        "label": "Q56372890",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56372890",
+        "country_qid": "Q1041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.435694444,
+          14.690027777
+        ]
+      },
+      "properties": {
+        "label": "Q56372883",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56372883",
+        "country_qid": "Q1041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.2663125,
+          14.7436491
+        ]
+      },
+      "properties": {
+        "label": "Kounoune power station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q6434653",
+        "country_qid": "Q1041"
+      }
+    }
+  ]
+}
