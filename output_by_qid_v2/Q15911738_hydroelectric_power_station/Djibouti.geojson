@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.37222222,
+          12.55694444
+        ]
+      },
+      "properties": {
+        "label": "Red Sea Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q1143421",
+        "country_qid": "Q977"
+      }
+    }
+  ]
+}

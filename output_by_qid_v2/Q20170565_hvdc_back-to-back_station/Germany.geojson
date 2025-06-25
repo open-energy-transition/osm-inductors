@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1156,
+          49.631
+        ]
+      },
+      "properties": {
+        "label": "GKK Etzenricht",
+        "type": "HVDC back-to-back station",
+        "entity": "http://www.wikidata.org/entity/Q658977",
+        "country_qid": "Q183"
+      }
+    }
+  ]
+}

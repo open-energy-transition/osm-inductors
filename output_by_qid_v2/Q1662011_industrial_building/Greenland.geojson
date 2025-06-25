@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.050833333,
+          60.913055555
+        ]
+      },
+      "properties": {
+        "label": "Greenland Brewhouse",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q5604212",
+        "country_qid": "Q223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.739180495,
+          64.175058142
+        ]
+      },
+      "properties": {
+        "label": "Godthåb Bryggeri",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q12342324",
+        "country_qid": "Q223"
+      }
+    }
+  ]
+}

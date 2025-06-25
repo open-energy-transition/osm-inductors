@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.91609621,
+          38.233421325
+        ]
+      },
+      "properties": {
+        "label": "Roman dam of Nossa Senhora da Represa",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q16496955",
+        "country_qid": "Q1747689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.244503,
+          38.793225
+        ]
+      },
+      "properties": {
+        "label": "Roman Dam of Belas",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q2885454",
+        "country_qid": "Q1747689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.086388888,
+          40.786388888
+        ]
+      },
+      "properties": {
+        "label": "Misenum",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q19900818",
+        "country_qid": "Q1747689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.586769,
+          38.170991
+        ]
+      },
+      "properties": {
+        "label": "Pego da Moura",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q10347931",
+        "country_qid": "Q1747689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.69041111,
+          37.11035833
+        ]
+      },
+      "properties": {
+        "label": "Barragem Romana da Fonte Coberta",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q16496954",
+        "country_qid": "Q1747689"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.343343,
+          47.249407
+        ]
+      },
+      "properties": {
+        "label": "Q116732539",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q116732539",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.85695,
+          46.68589
+        ]
+      },
+      "properties": {
+        "label": "Meteorological column (1876)",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q126301134",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1275,
+          46.247222
+        ]
+      },
+      "properties": {
+        "label": "Genève weather station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q117882963",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.34,
+          47.23
+        ]
+      },
+      "properties": {
+        "label": "Q3972163",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q3972163",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62539,
+          47.05731
+        ]
+      },
+      "properties": {
+        "label": "Meteorological station (1895)",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q126363393",
+        "country_qid": "Q39"
+      }
+    }
+  ]
+}

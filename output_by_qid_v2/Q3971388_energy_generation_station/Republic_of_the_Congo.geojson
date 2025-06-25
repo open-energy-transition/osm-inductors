@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9154561,
+          -4.8901778
+        ]
+      },
+      "properties": {
+        "label": "Q99439481",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q99439481",
+        "country_qid": "Q971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.178333333,
+          1.435277777
+        ]
+      },
+      "properties": {
+        "label": "Liouesso Hydroelectric Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q112317373",
+        "country_qid": "Q971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2065425,
+          -4.301868
+        ]
+      },
+      "properties": {
+        "label": "Djoue hydro power plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q22399693",
+        "country_qid": "Q971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.936194444,
+          -4.915388888
+        ]
+      },
+      "properties": {
+        "label": "Q56371886",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q56371886",
+        "country_qid": "Q971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0370457,
+          -2.936521
+        ]
+      },
+      "properties": {
+        "label": "Imboulou Dam",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q2885029",
+        "country_qid": "Q971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7655339,
+          -3.9011895
+        ]
+      },
+      "properties": {
+        "label": "Barrage de Moukoukoulo",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q2885233",
+        "country_qid": "Q971"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87194,
+          51.5189
+        ]
+      },
+      "properties": {
+        "label": "St.-Antony ironworks",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q2315987",
+        "country_qid": "Q27306"
+      }
+    }
+  ]
+}

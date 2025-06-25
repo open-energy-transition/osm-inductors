@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.15583333,
+          5.07694444
+        ]
+      },
+      "properties": {
+        "label": "Rosebel Gold Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q15273305",
+        "country_qid": "Q730"
+      }
+    }
+  ]
+}

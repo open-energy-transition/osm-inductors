@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.63777778,
+          55.65888889
+        ]
+      },
+      "properties": {
+        "label": "Moscow–Kashira HVDC transmission system",
+        "type": "high-voltage direct current power line",
+        "entity": "http://www.wikidata.org/entity/Q6915560",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9186,
+          60.6803
+        ]
+      },
+      "properties": {
+        "label": "Vyborg HVDC scheme",
+        "type": "high-voltage direct current power line",
+        "entity": "http://www.wikidata.org/entity/Q1411764",
+        "country_qid": "Q159"
+      }
+    }
+  ]
+}

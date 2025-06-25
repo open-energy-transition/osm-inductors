@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.867,
+          60.268
+        ]
+      },
+      "properties": {
+        "label": "Sillböle Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q11893473",
+        "country_qid": "Q3279296"
+      }
+    }
+  ]
+}

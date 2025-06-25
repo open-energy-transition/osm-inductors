@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.34338,
+          43.584777
+        ]
+      },
+      "properties": {
+        "label": "Livorno refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q16594322",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.173095232,
+          37.213350198
+        ]
+      },
+      "properties": {
+        "label": "Q125083346",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q125083346",
+        "country_qid": "Q38"
+      }
+    }
+  ]
+}

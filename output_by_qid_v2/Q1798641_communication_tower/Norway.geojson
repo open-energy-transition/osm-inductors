@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.525694444,
+          68.809583333
+        ]
+      },
+      "properties": {
+        "label": "The Harstad tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q123943210",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.667777777,
+          59.988333333
+        ]
+      },
+      "properties": {
+        "label": "Tryvannstårnet",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1415884",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.706388888,
+          58.940277777
+        ]
+      },
+      "properties": {
+        "label": "Ullandhaugtårnet",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q19393785",
+        "country_qid": "Q20"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.905555555,
+          15.315
+        ]
+      },
+      "properties": {
+        "label": "Milḩ Kharwah",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q31279476",
+        "country_qid": "Q805"
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.83333,
+          62.88333
+        ]
+      },
+      "properties": {
+        "label": "Q49745600",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q49745600",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.987777777,
+          38.958611111
+        ]
+      },
+      "properties": {
+        "label": "Rocky Mountain Biological Laboratory",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q7355876",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1141995,
+          42.2120332
+        ]
+      },
+      "properties": {
+        "label": "Blue Hill Meteorological Observatory",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q1803017",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.411666666,
+          32.301111111
+        ]
+      },
+      "properties": {
+        "label": "USGS NADP RAINGAGE (MS10) NEAR CLINTON MS",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q129958936",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.66,
+          42.6103
+        ]
+      },
+      "properties": {
+        "label": "Coast Guard Station Gloucester",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q5138167",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9074,
+          41.7239
+        ]
+      },
+      "properties": {
+        "label": "Coast Guard Station Michigan City",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q5138171",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0917,
+          41.2892
+        ]
+      },
+      "properties": {
+        "label": "Coast Guard Station Brant Point",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q5138160",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7166,
+          42.199
+        ]
+      },
+      "properties": {
+        "label": "Coast Guard Station Scituate",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q5138178",
+        "country_qid": "Q30"
+      }
+    }
+  ]
+}

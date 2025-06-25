@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.37744,
+          56.0029
+        ]
+      },
+      "properties": {
+        "label": "Q113452345",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q113452345",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.068818,
+          55.649452
+        ]
+      },
+      "properties": {
+        "label": "Lerchenborg solar farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q26309241",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4863,
+          56.3762
+        ]
+      },
+      "properties": {
+        "label": "Bur solar power station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q111416257",
+        "country_qid": "Q35"
+      }
+    }
+  ]
+}

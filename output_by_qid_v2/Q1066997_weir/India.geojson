@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.8023,
+          24.1427
+        ]
+      },
+      "properties": {
+        "label": "Sikatiya Bridge",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q101424738",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.255186,
+          28.628337
+        ]
+      },
+      "properties": {
+        "label": "ITO barrage",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q48731741",
+        "country_qid": "Q668"
+      }
+    }
+  ]
+}

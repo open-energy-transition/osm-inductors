@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0473,
+          54.6642
+        ]
+      },
+      "properties": {
+        "label": "Q110259605",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q110259605",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.26416667,
+          54.799
+        ]
+      },
+      "properties": {
+        "label": "Kruonis Pumped Storage Plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q1580291",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.99888889,
+          54.87416667
+        ]
+      },
+      "properties": {
+        "label": "Kaunas Hydroelectric Power Plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q4217603",
+        "country_qid": "Q37"
+      }
+    }
+  ]
+}

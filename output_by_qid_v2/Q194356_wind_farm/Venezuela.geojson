@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.235833333,
+          11.809444444
+        ]
+      },
+      "properties": {
+        "label": "Paraguaná Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q24960877",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8866832,
+          11.215249425
+        ]
+      },
+      "properties": {
+        "label": "La Guajira wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q16616337",
+        "country_qid": "Q717"
+      }
+    }
+  ]
+}

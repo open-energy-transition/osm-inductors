@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.043527777,
+          -9.322472222
+        ]
+      },
+      "properties": {
+        "label": "Port Moresby Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q106362947",
+        "country_qid": "Q691"
+      }
+    }
+  ]
+}

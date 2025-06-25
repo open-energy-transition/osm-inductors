@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.030555555,
+          14.0
+        ]
+      },
+      "properties": {
+        "label": "Lake Suchitlán",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q30665778",
+        "country_qid": "Q792"
+      }
+    }
+  ]
+}

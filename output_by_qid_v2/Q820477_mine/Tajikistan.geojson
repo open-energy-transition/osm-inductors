@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.640277777,
+          40.568888888
+        ]
+      },
+      "properties": {
+        "label": "Istiqlol",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q2391218",
+        "country_qid": "Q863"
+      }
+    }
+  ]
+}

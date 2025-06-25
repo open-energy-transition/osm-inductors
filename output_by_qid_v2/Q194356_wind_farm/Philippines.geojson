@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6525,
+          18.531944444
+        ]
+      },
+      "properties": {
+        "label": "Burgos Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q4998672",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.71388889,
+          18.52777778
+        ]
+      },
+      "properties": {
+        "label": "Bangui Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q4855634",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.259354755,
+          12.574185235
+        ]
+      },
+      "properties": {
+        "label": "Romblon Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q108542450",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3523699,
+          14.4813921
+        ]
+      },
+      "properties": {
+        "label": "Pililla Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q25052031",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8103036,
+          18.6224745
+        ]
+      },
+      "properties": {
+        "label": "Caparispisan Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q23048138",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.859408,
+          18.615403
+        ]
+      },
+      "properties": {
+        "label": "Pagudpud Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q124201788",
+        "country_qid": "Q928"
+      }
+    }
+  ]
+}

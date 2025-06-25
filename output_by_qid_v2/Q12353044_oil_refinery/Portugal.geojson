@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.706535,
+          41.209344
+        ]
+      },
+      "properties": {
+        "label": "Porto Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q101273991",
+        "country_qid": "Q45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.809464,
+          37.961777
+        ]
+      },
+      "properties": {
+        "label": "Sines Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q101421676",
+        "country_qid": "Q45"
+      }
+    }
+  ]
+}

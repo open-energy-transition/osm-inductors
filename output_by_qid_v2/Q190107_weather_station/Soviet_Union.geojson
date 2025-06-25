@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4654,
+          80.8513
+        ]
+      },
+      "properties": {
+        "label": "Weather Station Schatzgräber",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q2566035",
+        "country_qid": "Q15180"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.997,
+          10.438
+        ]
+      },
+      "properties": {
+        "label": "Port of Berbera",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q17069411",
+        "country_qid": "Q34754"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.993581,
+          10.433451
+        ]
+      },
+      "properties": {
+        "label": "DP World Berbera New Port",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q105552455",
+        "country_qid": "Q34754"
+      }
+    }
+  ]
+}

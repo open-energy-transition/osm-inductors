@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1470994,
+          50.0895919
+        ]
+      },
+      "properties": {
+        "label": "Electric vehicle charging station in Pňov-Předhradí",
+        "type": "Electric vehicle charging station",
+        "entity": "http://www.wikidata.org/entity/Q130504062",
+        "country_qid": "Q213"
+      }
+    }
+  ]
+}

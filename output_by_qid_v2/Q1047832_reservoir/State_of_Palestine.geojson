@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1679,
+          31.6891
+        ]
+      },
+      "properties": {
+        "label": "Upper pool, Solomon's Pools",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q125505137",
+        "country_qid": "Q219060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.234527777,
+          31.777555555
+        ]
+      },
+      "properties": {
+        "label": "Fountain of Qayt Bay",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q5474810",
+        "country_qid": "Q219060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1721,
+          31.6881
+        ]
+      },
+      "properties": {
+        "label": "Lower pool, Solomon's Pools",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q125504248",
+        "country_qid": "Q219060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3349955,
+          32.2219787
+        ]
+      },
+      "properties": {
+        "label": "Kfir spring",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6934836",
+        "country_qid": "Q219060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.186481,
+          31.847545
+        ]
+      },
+      "properties": {
+        "label": "Pool of Gibeon",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q17014157",
+        "country_qid": "Q219060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.27,
+          32.178055555
+        ]
+      },
+      "properties": {
+        "label": "Q110268583",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q110268583",
+        "country_qid": "Q219060"
+      }
+    }
+  ]
+}

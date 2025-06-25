@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.06740556,
+          22.094275
+        ]
+      },
+      "properties": {
+        "label": "Hanabanilla Dam",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q17004157",
+        "country_qid": "Q241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.52944,
+          23.10263
+        ]
+      },
+      "properties": {
+        "label": "Q130604168",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q130604168",
+        "country_qid": "Q241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5092,
+          22.0669
+        ]
+      },
+      "properties": {
+        "label": "Juragua Nuclear Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q1520114",
+        "country_qid": "Q241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3557,
+          21.8037
+        ]
+      },
+      "properties": {
+        "label": "Zaza Dam",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q16904439",
+        "country_qid": "Q241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.529,
+          23.102
+        ]
+      },
+      "properties": {
+        "label": "Antonio Guiteras thermoelectric plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q130639758",
+        "country_qid": "Q241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.98043056,
+          20.55805
+        ]
+      },
+      "properties": {
+        "label": "Nuevo Mundo Dam",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q17012819",
+        "country_qid": "Q241"
+      }
+    }
+  ]
+}

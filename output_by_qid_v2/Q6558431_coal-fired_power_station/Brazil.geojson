@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9689,
+          -28.45436
+        ]
+      },
+      "properties": {
+        "label": "Complexo Termelétrico Jorge Lacerda",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q18478373",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.77708,
+          -31.45039
+        ]
+      },
+      "properties": {
+        "label": "Q106413966",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q106413966",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.3386102,
+          -2.5874518
+        ]
+      },
+      "properties": {
+        "label": "Porto do Itaqui Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11977639",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3903496,
+          -23.8523863
+        ]
+      },
+      "properties": {
+        "label": "Figueira Thermal Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q65171143",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.8757783,
+          -3.5814701
+        ]
+      },
+      "properties": {
+        "label": "Pecém I Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q10388459",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.682,
+          -31.551
+        ]
+      },
+      "properties": {
+        "label": "Presidente Médici Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q10388457",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.8750738,
+          -3.5815417
+        ]
+      },
+      "properties": {
+        "label": "Pecém II Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q106548235",
+        "country_qid": "Q155"
+      }
+    }
+  ]
+}

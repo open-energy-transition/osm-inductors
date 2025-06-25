@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.206888888,
+          22.838361111
+        ]
+      },
+      "properties": {
+        "label": "Yongan PV Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q117316657",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.185329546,
+          23.331144443
+        ]
+      },
+      "properties": {
+        "label": "Q116177314",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q116177314",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.352083333,
+          22.80725
+        ]
+      },
+      "properties": {
+        "label": "Agongdian Solar PV Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q117316576",
+        "country_qid": "Q865"
+      }
+    }
+  ]
+}

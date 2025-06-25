@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.114138888,
+          -15.427666666
+        ]
+      },
+      "properties": {
+        "label": "Q61448262",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q61448262",
+        "country_qid": "Q686"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.177222222,
+          -15.514444444
+        ]
+      },
+      "properties": {
+        "label": "Naval Advance Base Espiritu Santo",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q106611220",
+        "country_qid": "Q686"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.166666666,
+          -15.516666666
+        ]
+      },
+      "properties": {
+        "label": "Luganville",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111387231",
+        "country_qid": "Q686"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.55,
+          -17.683333333
+        ]
+      },
+      "properties": {
+        "label": "Forari Bay",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111387232",
+        "country_qid": "Q686"
+      }
+    }
+  ]
+}

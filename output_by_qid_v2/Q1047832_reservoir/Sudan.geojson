@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0,
+          20.0
+        ]
+      },
+      "properties": {
+        "label": "Nubian Sandstone Aquifer System",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1530545",
+        "country_qid": "Q1049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.636,
+          13.54
+        ]
+      },
+      "properties": {
+        "label": "Sennar Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q131286327",
+        "country_qid": "Q1049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.105555555,
+          18.868611111
+        ]
+      },
+      "properties": {
+        "label": "Merowe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q131436577",
+        "country_qid": "Q1049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.86,
+          22.5
+        ]
+      },
+      "properties": {
+        "label": "Lake Nasser",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q182796",
+        "country_qid": "Q1049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.516666666,
+          15.316666666
+        ]
+      },
+      "properties": {
+        "label": "Tamra",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34929734",
+        "country_qid": "Q1049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.416666666,
+          11.709722222
+        ]
+      },
+      "properties": {
+        "label": "Roseires Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q131436540",
+        "country_qid": "Q1049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.33333333,
+          21.95
+        ]
+      },
+      "properties": {
+        "label": "Lake Nubia",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2004032",
+        "country_qid": "Q1049"
+      }
+    }
+  ]
+}

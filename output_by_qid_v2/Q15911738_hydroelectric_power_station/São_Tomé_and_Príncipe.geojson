@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.551305555,
+          0.352777777
+        ]
+      },
+      "properties": {
+        "label": "Q56373765",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q56373765",
+        "country_qid": "Q1039"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.625,
+          -7.2
+        ]
+      },
+      "properties": {
+        "label": "Wayang Windu Geothermal Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q7975855",
+        "country_qid": "Q252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7394,
+          -7.2175
+        ]
+      },
+      "properties": {
+        "label": "Darajat Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q79606322",
+        "country_qid": "Q252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.78475,
+          -7.13871
+        ]
+      },
+      "properties": {
+        "label": "Q11979998",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q11979998",
+        "country_qid": "Q252"
+      }
+    }
+  ]
+}

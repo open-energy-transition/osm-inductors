@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3,
+          8.48611111
+        ]
+      },
+      "properties": {
+        "label": "Sampur Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7410265",
+        "country_qid": "Q854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.722777777,
+          8.018333333
+        ]
+      },
+      "properties": {
+        "label": "Lakvijaya Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q6479997",
+        "country_qid": "Q854"
+      }
+    }
+  ]
+}

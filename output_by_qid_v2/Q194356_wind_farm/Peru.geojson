@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.05416667,
+          -15.04083333
+        ]
+      },
+      "properties": {
+        "label": "Wayra Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q56026066",
+        "country_qid": "Q419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.499,
+          -7.555
+        ]
+      },
+      "properties": {
+        "label": "Cupisnique Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q56155236",
+        "country_qid": "Q419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0645,
+          -15.4144
+        ]
+      },
+      "properties": {
+        "label": "Marcona Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q56154904",
+        "country_qid": "Q419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.197,
+          -4.56123
+        ]
+      },
+      "properties": {
+        "label": "Talara Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q67831226",
+        "country_qid": "Q419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0707,
+          -15.38885
+        ]
+      },
+      "properties": {
+        "label": "Tres Hermanas Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q67832260",
+        "country_qid": "Q419"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.700102,
+          49.358042
+        ]
+      },
+      "properties": {
+        "label": "Ansbach-Bruckberg porcelain manufactory",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q2105534",
+        "country_qid": "Q42199"
+      }
+    }
+  ]
+}

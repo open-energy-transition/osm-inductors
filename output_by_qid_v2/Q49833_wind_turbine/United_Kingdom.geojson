@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.68341,
+          52.65679
+        ]
+      },
+      "properties": {
+        "label": "Swaffham Wind Turbine",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q25935430",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

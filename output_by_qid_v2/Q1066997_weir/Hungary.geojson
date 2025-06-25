@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4995,
+          46.891
+        ]
+      },
+      "properties": {
+        "label": "Békésszentandrás Weir",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q854153",
+        "country_qid": "Q28"
+      }
+    }
+  ]
+}

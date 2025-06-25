@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.84361111,
+          -15.46
+        ]
+      },
+      "properties": {
+        "label": "Kammwamba Thermal Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q55615626",
+        "country_qid": "Q1020"
+      }
+    }
+  ]
+}

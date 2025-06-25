@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.751388888,
+          18.446111111
+        ]
+      },
+      "properties": {
+        "label": "Q26262452",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q26262452",
+        "country_qid": "Q25305"
+      }
+    }
+  ]
+}

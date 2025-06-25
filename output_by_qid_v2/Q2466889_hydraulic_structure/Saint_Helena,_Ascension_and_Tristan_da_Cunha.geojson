@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.313493055,
+          -37.064275
+        ]
+      },
+      "properties": {
+        "label": "Port de Calshot",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q26268361",
+        "country_qid": "Q192184"
+      }
+    }
+  ]
+}

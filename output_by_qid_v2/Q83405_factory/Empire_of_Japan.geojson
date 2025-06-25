@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.074569,
+          24.783576
+        ]
+      },
+      "properties": {
+        "label": "Jinyufong rice milling plant",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q125957220",
+        "country_qid": "Q188712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.50514,
+          22.66139
+        ]
+      },
+      "properties": {
+        "label": "Pingtung Tobacco Redrying Plant",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q67932737",
+        "country_qid": "Q188712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.10188889,
+          34.56341667
+        ]
+      },
+      "properties": {
+        "label": "Inujima Copper Refinery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q11571224",
+        "country_qid": "Q188712"
+      }
+    }
+  ]
+}

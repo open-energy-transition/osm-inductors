@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.17519,
+          22.27943
+        ]
+      },
+      "properties": {
+        "label": "Gloucester Road",
+        "type": "Frontage road (service road)",
+        "entity": "http://www.wikidata.org/entity/Q2188182",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.11644176,
+          22.36742825
+        ]
+      },
+      "properties": {
+        "label": "Yeung Uk Road",
+        "type": "Frontage road (service road)",
+        "entity": "http://www.wikidata.org/entity/Q7224709",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14309,
+          22.28862
+        ]
+      },
+      "properties": {
+        "label": "Connaught Road West",
+        "type": "Frontage road (service road)",
+        "entity": "http://www.wikidata.org/entity/Q16313259",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.157007,
+          22.33485
+        ]
+      },
+      "properties": {
+        "label": "Cheung Sha Wan Road",
+        "type": "Frontage road (service road)",
+        "entity": "http://www.wikidata.org/entity/Q5094265",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.156741499,
+          22.284585675
+        ]
+      },
+      "properties": {
+        "label": "Connaught Road Central",
+        "type": "Frontage road (service road)",
+        "entity": "http://www.wikidata.org/entity/Q16313103",
+        "country_qid": "Q148"
+      }
+    }
+  ]
+}

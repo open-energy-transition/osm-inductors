@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.125,
+          58.658333
+        ]
+      },
+      "properties": {
+        "label": "MeyGen",
+        "type": "Tidal power station",
+        "entity": "http://www.wikidata.org/entity/Q28406148",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.90460992,
+          51.59413528
+        ]
+      },
+      "properties": {
+        "label": "Tidal Lagoon Swansea Bay",
+        "type": "Tidal power station",
+        "entity": "http://www.wikidata.org/entity/Q20850857",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.546062,
+          54.368661
+        ]
+      },
+      "properties": {
+        "label": "SeaGen",
+        "type": "Tidal power station",
+        "entity": "http://www.wikidata.org/entity/Q1521172",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

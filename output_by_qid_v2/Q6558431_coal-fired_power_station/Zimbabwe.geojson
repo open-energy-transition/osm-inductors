@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.781833333,
+          -18.655333333
+        ]
+      },
+      "properties": {
+        "label": "Munyati Thermal Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q56373948",
+        "country_qid": "Q954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.47,
+          -18.3835
+        ]
+      },
+      "properties": {
+        "label": "Hwange Thermal Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1657787",
+        "country_qid": "Q954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.031805555,
+          -17.845722222
+        ]
+      },
+      "properties": {
+        "label": "Harare Thermal Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q56373946",
+        "country_qid": "Q954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.575611111,
+          -20.159194444
+        ]
+      },
+      "properties": {
+        "label": "Bulawayo Thermal Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q56373952",
+        "country_qid": "Q954"
+      }
+    }
+  ]
+}

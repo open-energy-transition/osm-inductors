@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.38333333,
+          37.1
+        ]
+      },
+      "properties": {
+        "label": "Hanul Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q496248",
+        "country_qid": "Q884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.479615,
+          35.721483
+        ]
+      },
+      "properties": {
+        "label": "Shin Wolsong Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q123393",
+        "country_qid": "Q884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.42388889,
+          35.415
+        ]
+      },
+      "properties": {
+        "label": "Hanbit Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q496260",
+        "country_qid": "Q884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.475,
+          35.71111111
+        ]
+      },
+      "properties": {
+        "label": "Wolseong Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q484896",
+        "country_qid": "Q884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.4061111,
+          37.075
+        ]
+      },
+      "properties": {
+        "label": "Shin Hanul Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q3664625",
+        "country_qid": "Q884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.2946142,
+          35.3202246
+        ]
+      },
+      "properties": {
+        "label": "Kori Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q486898",
+        "country_qid": "Q884"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.928,
+          37.0315
+        ]
+      },
+      "properties": {
+        "label": "Sidi Daoud Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q3364825",
+        "country_qid": "Q948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.047087,
+          37.165681
+        ]
+      },
+      "properties": {
+        "label": "El Alia Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q96106386",
+        "country_qid": "Q948"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.143333333,
+          5.829722222
+        ]
+      },
+      "properties": {
+        "label": "Surinaamsch Rumhuis",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q71669308",
+        "country_qid": "Q730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.148888888,
+          5.763888888
+        ]
+      },
+      "properties": {
+        "label": "Tout Lui Faut-refinery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q128819405",
+        "country_qid": "Q730"
+      }
+    }
+  ]
+}

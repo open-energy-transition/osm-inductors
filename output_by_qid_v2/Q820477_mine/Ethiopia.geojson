@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.866666666,
+          3.916666666
+        ]
+      },
+      "properties": {
+        "label": "Q24031024",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q24031024",
+        "country_qid": "Q115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.03333,
+          5.51667
+        ]
+      },
+      "properties": {
+        "label": "Kenticha mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16976413",
+        "country_qid": "Q115"
+      }
+    }
+  ]
+}

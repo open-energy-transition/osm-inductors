@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.516666666,
+          54.219444444
+        ]
+      },
+      "properties": {
+        "label": "West Baldwin Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q25102182",
+        "country_qid": "Q9676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          54.271388888
+        ]
+      },
+      "properties": {
+        "label": "Sulby Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q149867",
+        "country_qid": "Q9676"
+      }
+    }
+  ]
+}

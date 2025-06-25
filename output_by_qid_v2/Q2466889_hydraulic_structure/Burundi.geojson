@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.40028,
+          -3.1275
+        ]
+      },
+      "properties": {
+        "label": "Barrage Ruziba",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q21333649",
+        "country_qid": "Q967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.43278,
+          -3.5125
+        ]
+      },
+      "properties": {
+        "label": "Barrage Rubanda",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q21331423",
+        "country_qid": "Q967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.930833333,
+          -2.623611111
+        ]
+      },
+      "properties": {
+        "label": "Akanyaru Multipurpose Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q105972846",
+        "country_qid": "Q967"
+      }
+    }
+  ]
+}

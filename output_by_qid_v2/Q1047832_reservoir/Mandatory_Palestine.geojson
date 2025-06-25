@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.870954,
+          31.931692
+        ]
+      },
+      "properties": {
+        "label": "Pool of the Arches",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6898636",
+        "country_qid": "Q193714"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.750556,
+          59.444444
+        ]
+      },
+      "properties": {
+        "label": "Tallinn Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q892643",
+        "country_qid": "Q191"
+      }
+    }
+  ]
+}

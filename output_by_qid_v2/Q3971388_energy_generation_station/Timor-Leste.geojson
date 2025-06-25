@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6905,
+          -8.540537
+        ]
+      },
+      "properties": {
+        "label": "Hera Diesel Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q123913790",
+        "country_qid": "Q574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.735263,
+          -9.153575
+        ]
+      },
+      "properties": {
+        "label": "Central Eléctrica de Betano",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q28870383",
+        "country_qid": "Q574"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.464205,
+          31.908466
+        ]
+      },
+      "properties": {
+        "label": "Sidi Boulbra",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q25384399",
+        "country_qid": "Q1028"
+      }
+    }
+  ]
+}

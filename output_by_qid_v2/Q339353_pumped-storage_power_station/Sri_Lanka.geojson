@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.475833333,
+          7.110833333
+        ]
+      },
+      "properties": {
+        "label": "Maha Oya Pumped Storage Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q133255752",
+        "country_qid": "Q854"
+      }
+    }
+  ]
+}

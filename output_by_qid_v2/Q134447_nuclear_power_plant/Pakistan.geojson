@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.463777,
+          32.39157
+        ]
+      },
+      "properties": {
+        "label": "Chashma Nuclear Power Complex",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q82404",
+        "country_qid": "Q843"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.787778,
+          24.845
+        ]
+      },
+      "properties": {
+        "label": "Karachi Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1274134",
+        "country_qid": "Q843"
+      }
+    }
+  ]
+}

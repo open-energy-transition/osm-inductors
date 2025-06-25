@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.452454,
+          53.3907
+        ]
+      },
+      "properties": {
+        "label": "North Hoyle Offshore Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q833917",
+        "country_qid": "Q25"
+      }
+    }
+  ]
+}

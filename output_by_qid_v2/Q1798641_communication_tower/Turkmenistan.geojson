@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.238169444,
+          37.862586111
+        ]
+      },
+      "properties": {
+        "label": "Turkmenistan Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1407337",
+        "country_qid": "Q874"
+      }
+    }
+  ]
+}

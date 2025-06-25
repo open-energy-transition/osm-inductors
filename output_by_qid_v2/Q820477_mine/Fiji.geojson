@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.155494444,
+          -18.00565
+        ]
+      },
+      "properties": {
+        "label": "Waisoi mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16956956",
+        "country_qid": "Q712"
+      }
+    }
+  ]
+}

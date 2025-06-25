@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3610983,
+          29.7365007
+        ]
+      },
+      "properties": {
+        "label": "Quweira Solar Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q55390714",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2140154,
+          31.8764985
+        ]
+      },
+      "properties": {
+        "label": "Baynouna Solar Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q125497396",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.82455556,
+          30.151
+        ]
+      },
+      "properties": {
+        "label": "Shams Ma'an Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q27536726",
+        "country_qid": "Q810"
+      }
+    }
+  ]
+}

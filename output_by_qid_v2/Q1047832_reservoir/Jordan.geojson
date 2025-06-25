@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.821666666,
+          31.440277777
+        ]
+      },
+      "properties": {
+        "label": "Mujib Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q16895507",
+        "country_qid": "Q810"
+      }
+    }
+  ]
+}

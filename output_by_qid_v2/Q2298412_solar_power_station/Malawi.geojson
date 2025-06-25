@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3291318,
+          -13.7108171
+        ]
+      },
+      "properties": {
+        "label": "Salima Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q59566715",
+        "country_qid": "Q1020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.369722222,
+          -13.742777777
+        ]
+      },
+      "properties": {
+        "label": "Nanjoka Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q123807644",
+        "country_qid": "Q1020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2552804,
+          -12.9674029
+        ]
+      },
+      "properties": {
+        "label": "Nkhotakota Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q106741736",
+        "country_qid": "Q1020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.916111111,
+          -11.057777777
+        ]
+      },
+      "properties": {
+        "label": "Bwengu Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q111946532",
+        "country_qid": "Q1020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.108888888,
+          -14.051666666
+        ]
+      },
+      "properties": {
+        "label": "Nkhoma Deka Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q110613263",
+        "country_qid": "Q1020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.136944444,
+          -12.4325
+        ]
+      },
+      "properties": {
+        "label": "Dwangwa Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q130306579",
+        "country_qid": "Q1020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.604444444,
+          -14.428055555
+        ]
+      },
+      "properties": {
+        "label": "Golomoti Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q107366347",
+        "country_qid": "Q1020"
+      }
+    }
+  ]
+}

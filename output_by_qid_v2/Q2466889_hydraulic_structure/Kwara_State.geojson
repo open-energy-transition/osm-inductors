@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.666836755,
+          8.47117639
+        ]
+      },
+      "properties": {
+        "label": "UNILORIN Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q107247898",
+        "country_qid": "Q464953"
+      }
+    }
+  ]
+}

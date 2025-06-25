@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.941,
+          39.78338889
+        ]
+      },
+      "properties": {
+        "label": "Karkar Geothermal Power Plant",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q30589243",
+        "country_qid": "Q399"
+      }
+    }
+  ]
+}

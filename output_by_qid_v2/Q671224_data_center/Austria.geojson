@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3382,
+          47.4492
+        ]
+      },
+      "properties": {
+        "label": "earthDATAsafe",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q1277574",
+        "country_qid": "Q40"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.848835,
+          23.082366
+        ]
+      },
+      "properties": {
+        "label": "Wadi Dayqah Dam",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q22675437",
+        "country_qid": "Q842"
+      }
+    }
+  ]
+}

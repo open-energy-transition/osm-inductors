@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.18555556,
+          51.73388889
+        ]
+      },
+      "properties": {
+        "label": "Ufimtsev Wind Turbine",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q15640409",
+        "country_qid": "Q159"
+      }
+    }
+  ]
+}

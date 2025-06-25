@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.468972,
+          14.230467
+        ]
+      },
+      "properties": {
+        "label": "Guajoyo hydroelectric power station",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q15815535",
+        "country_qid": "Q792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.831683333,
+          13.576936111
+        ]
+      },
+      "properties": {
+        "label": "Port of Acajutla",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q24960677",
+        "country_qid": "Q792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9020485,
+          13.9396746
+        ]
+      },
+      "properties": {
+        "label": "Cerrón Grande Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q3433688",
+        "country_qid": "Q792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.409722222,
+          13.791388888
+        ]
+      },
+      "properties": {
+        "label": "Canal Principal Los Patos",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q31933835",
+        "country_qid": "Q792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.820984,
+          13.333503
+        ]
+      },
+      "properties": {
+        "label": "Puerto La Unión",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q9064566",
+        "country_qid": "Q792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4225,
+          13.791666666
+        ]
+      },
+      "properties": {
+        "label": "Canal Talnique",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q31933855",
+        "country_qid": "Q792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.866666666,
+          13.583333333
+        ]
+      },
+      "properties": {
+        "label": "Acajutla Offshore Terminal",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386520",
+        "country_qid": "Q792"
+      }
+    }
+  ]
+}

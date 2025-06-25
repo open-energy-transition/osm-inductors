@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.99961111,
+          55.61227778
+        ]
+      },
+      "properties": {
+        "label": "Q12340417",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q12340417",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.93366667,
+          59.64930556
+        ]
+      },
+      "properties": {
+        "label": "Q10418078",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q10418078",
+        "country_qid": "Q34"
+      }
+    }
+  ]
+}

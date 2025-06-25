@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.618,
+          57.6477
+        ]
+      },
+      "properties": {
+        "label": "Skagerrak",
+        "type": "high-voltage direct current power line",
+        "entity": "http://www.wikidata.org/entity/Q264054",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2304,
+          54.6293
+        ]
+      },
+      "properties": {
+        "label": "Viking Link",
+        "type": "high-voltage direct current power line",
+        "entity": "http://www.wikidata.org/entity/Q21208645",
+        "country_qid": "Q35"
+      }
+    }
+  ]
+}

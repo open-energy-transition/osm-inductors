@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.74622222,
+          26.96363056
+        ]
+      },
+      "properties": {
+        "label": "Clarence Strait power line crossing",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q1521657",
+        "country_qid": "Q794"
+      }
+    }
+  ]
+}

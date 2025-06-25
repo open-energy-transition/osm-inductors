@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.491018,
+          37.778989
+        ]
+      },
+      "properties": {
+        "label": "Campo Geotérmico da Ribeira Grande",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q105725776",
+        "country_qid": "Q45"
+      }
+    }
+  ]
+}

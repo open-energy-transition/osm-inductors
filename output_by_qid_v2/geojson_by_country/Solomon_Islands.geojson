@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.027277777,
+          -9.434944444
+        ]
+      },
+      "properties": {
+        "label": "Lungga Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q123509316",
+        "country_qid": "Q685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.084305555,
+          -9.5435
+        ]
+      },
+      "properties": {
+        "label": "Q61448259",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q61448259",
+        "country_qid": "Q685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.15,
+          -9.1
+        ]
+      },
+      "properties": {
+        "label": "Tulaghi",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111387228",
+        "country_qid": "Q685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.85,
+          -8.1
+        ]
+      },
+      "properties": {
+        "label": "Gizo Harbor",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111387108",
+        "country_qid": "Q685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.1,
+          -8.116666666
+        ]
+      },
+      "properties": {
+        "label": "Ringgi Cove",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386767",
+        "country_qid": "Q685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.183333333,
+          -8.216666666
+        ]
+      },
+      "properties": {
+        "label": "Port Noro",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111387060",
+        "country_qid": "Q685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.95,
+          -9.416666666
+        ]
+      },
+      "properties": {
+        "label": "Honiara",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111387229",
+        "country_qid": "Q685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.55,
+          -7.4
+        ]
+      },
+      "properties": {
+        "label": "Blanche Harbor",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q4924854",
+        "country_qid": "Q685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.265555555,
+          -8.193611111
+        ]
+      },
+      "properties": {
+        "label": "Bairoko Harbor",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q4848646",
+        "country_qid": "Q685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.216666666,
+          -9.083333333
+        ]
+      },
+      "properties": {
+        "label": "Yandina",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111387180",
+        "country_qid": "Q685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.13333333,
+          -9.6
+        ]
+      },
+      "properties": {
+        "label": "Gold Ridge",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q5578832",
+        "country_qid": "Q685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.45,
+          -7.633333333
+        ]
+      },
+      "properties": {
+        "label": "Choiseul mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16258188",
+        "country_qid": "Q685"
+      }
+    }
+  ]
+}

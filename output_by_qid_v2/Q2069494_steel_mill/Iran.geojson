@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.455555555,
+          34.2925
+        ]
+      },
+      "properties": {
+        "label": "Jahan Foulad Gharb",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q116743902",
+        "country_qid": "Q794"
+      }
+    }
+  ]
+}

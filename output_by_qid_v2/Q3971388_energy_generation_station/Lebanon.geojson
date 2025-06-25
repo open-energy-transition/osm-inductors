@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.989444444,
+          34.473888888
+        ]
+      },
+      "properties": {
+        "label": "Q21581306",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q21581306",
+        "country_qid": "Q822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.020277777,
+          34.438888888
+        ]
+      },
+      "properties": {
+        "label": "Q21580845",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q21580845",
+        "country_qid": "Q822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.604167,
+          33.969167
+        ]
+      },
+      "properties": {
+        "label": "Zouk Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q12011275",
+        "country_qid": "Q822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.894167,
+          34.465
+        ]
+      },
+      "properties": {
+        "label": "Deir Ammar Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q17765170",
+        "country_qid": "Q822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.338056,
+          33.496111
+        ]
+      },
+      "properties": {
+        "label": "Zahrani Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q97177456",
+        "country_qid": "Q822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.509388888,
+          33.575861111
+        ]
+      },
+      "properties": {
+        "label": "Awali hydro power station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q17749713",
+        "country_qid": "Q822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.399722,
+          33.6475
+        ]
+      },
+      "properties": {
+        "label": "Jiyeh Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q97177385",
+        "country_qid": "Q822"
+      }
+    }
+  ]
+}

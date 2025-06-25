@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.897,
+          42.662
+        ]
+      },
+      "properties": {
+        "label": "New Co Ferronikeli",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q62668508",
+        "country_qid": "Q1246"
+      }
+    }
+  ]
+}

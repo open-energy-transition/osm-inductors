@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.721666666,
+          -37.588333333
+        ]
+      },
+      "properties": {
+        "label": "Tauhei solar farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q115803980",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.271,
+          -37.476
+        ]
+      },
+      "properties": {
+        "label": "Waiterimu Solar Farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q111914822",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.80996111,
+          -37.99634167
+        ]
+      },
+      "properties": {
+        "label": "Rangitaiki Solar Farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q125856182",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.026719444,
+          -36.115433333
+        ]
+      },
+      "properties": {
+        "label": "Te Puna Mauri ō Omaru",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q132019984",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.183,
+          -38.025861111
+        ]
+      },
+      "properties": {
+        "label": "Te Herenga o Te Rā",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q133480513",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.423763888,
+          -38.895691666
+        ]
+      },
+      "properties": {
+        "label": "Te Rāhui Solar Farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q115803201",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.510555555,
+          -43.495833333
+        ]
+      },
+      "properties": {
+        "label": "Kōwhai Park Solar Farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q130271374",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.219444444,
+          -35.081666666
+        ]
+      },
+      "properties": {
+        "label": "Lodestone Two Solar Farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q122495380",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.110555555,
+          -34.818333333
+        ]
+      },
+      "properties": {
+        "label": "Pukenui Solar Farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q107547911",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.789430555,
+          -43.730988888
+        ]
+      },
+      "properties": {
+        "label": "Lauriston Solar Farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q125563903",
+        "country_qid": "Q664"
+      }
+    }
+  ]
+}

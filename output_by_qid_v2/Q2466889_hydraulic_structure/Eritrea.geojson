@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.080555555,
+          15.435833333
+        ]
+      },
+      "properties": {
+        "label": "Āts'bī Gidib",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q23941887",
+        "country_qid": "Q986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.466666666,
+          15.616666666
+        ]
+      },
+      "properties": {
+        "label": "Mitsiwa Harbor",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386797",
+        "country_qid": "Q986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7838,
+          15.2523
+        ]
+      },
+      "properties": {
+        "label": "Mai Nefhi",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q6735165",
+        "country_qid": "Q986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.836002777,
+          15.437483333
+        ]
+      },
+      "properties": {
+        "label": "Toker Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q7813551",
+        "country_qid": "Q986"
+      }
+    }
+  ]
+}

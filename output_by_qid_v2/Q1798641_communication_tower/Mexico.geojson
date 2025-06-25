@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.144014881,
+          19.429186486
+        ]
+      },
+      "properties": {
+        "label": "Telmex Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q119016840",
+        "country_qid": "Q96"
+      }
+    }
+  ]
+}

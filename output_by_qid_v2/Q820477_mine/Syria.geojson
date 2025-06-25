@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1175,
+          36.137777777
+        ]
+      },
+      "properties": {
+        "label": "Q21592388",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21592388",
+        "country_qid": "Q858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.808611111,
+          34.231666666
+        ]
+      },
+      "properties": {
+        "label": "Khunayfis, Homs Governorate",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q112117931",
+        "country_qid": "Q858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.015833333,
+          34.201388888
+        ]
+      },
+      "properties": {
+        "label": "Al-Sawwanah al-Sharqiyah",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q112117804",
+        "country_qid": "Q858"
+      }
+    }
+  ]
+}

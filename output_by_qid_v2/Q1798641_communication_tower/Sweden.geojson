@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.17583333,
+          59.29611111
+        ]
+      },
+      "properties": {
+        "label": "Nackasändaren",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1549630",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.46778,
+          58.67639
+        ]
+      },
+      "properties": {
+        "label": "Q133863722",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q133863722",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.373180555,
+          57.592641666
+        ]
+      },
+      "properties": {
+        "label": "Follingbomasten",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q28133240",
+        "country_qid": "Q34"
+      }
+    }
+  ]
+}

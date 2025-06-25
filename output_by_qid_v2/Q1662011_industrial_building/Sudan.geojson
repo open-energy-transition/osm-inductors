@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.561388888,
+          15.645833333
+        ]
+      },
+      "properties": {
+        "label": "al-Shifa pharmaceutical factory",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q475353",
+        "country_qid": "Q1049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.226296,
+          19.598715
+        ]
+      },
+      "properties": {
+        "label": "Port Sudan Refinery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q7230962",
+        "country_qid": "Q1049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.47773,
+          15.64453
+        ]
+      },
+      "properties": {
+        "label": "Umm Durman",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127431491",
+        "country_qid": "Q1049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5104,
+          15.4947
+        ]
+      },
+      "properties": {
+        "label": "Yarmouk munitions factory explosion",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q622208",
+        "country_qid": "Q1049"
+      }
+    }
+  ]
+}

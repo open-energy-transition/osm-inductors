@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.95611111,
+          40.84222222
+        ]
+      },
+      "properties": {
+        "label": "Q5760762",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q5760762",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.98638889,
+          38.65611111
+        ]
+      },
+      "properties": {
+        "label": "Biollano biomass power plant",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q6408485",
+        "country_qid": "Q29"
+      }
+    }
+  ]
+}

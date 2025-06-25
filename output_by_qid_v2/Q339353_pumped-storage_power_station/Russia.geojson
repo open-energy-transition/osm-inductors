@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.208639,
+          60.47611
+        ]
+      },
+      "properties": {
+        "label": "Q4258102",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q4258102",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.342944,
+          44.229694
+        ]
+      },
+      "properties": {
+        "label": "Kuban pumped storage station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q12115292",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.19111111,
+          56.48166667
+        ]
+      },
+      "properties": {
+        "label": "Zagorsk Pumped Storage Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q49526",
+        "country_qid": "Q159"
+      }
+    }
+  ]
+}

@@ -1,0 +1,7173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.519166666,
+          45.293888888
+        ]
+      },
+      "properties": {
+        "label": "Novotroitskoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4326016",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.774166666,
+          59.425277777
+        ]
+      },
+      "properties": {
+        "label": "Kjurlevskiye Quarries",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4251266",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.766627777,
+          55.7829
+        ]
+      },
+      "properties": {
+        "label": "Oleny Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4333572",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.203055555,
+          56.273888888
+        ]
+      },
+      "properties": {
+        "label": "Kambarsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4210767",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.797777777,
+          51.911388888
+        ]
+      },
+      "properties": {
+        "label": "Polyakov Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4371428",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.715555555,
+          51.413888888
+        ]
+      },
+      "properties": {
+        "label": "Kretovsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4240506",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.7,
+          56.016666666
+        ]
+      },
+      "properties": {
+        "label": "Nyazepetrovsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4328650",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.656666666,
+          55.709166666
+        ]
+      },
+      "properties": {
+        "label": "Lizin Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4261413",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.625,
+          51.683333333
+        ]
+      },
+      "properties": {
+        "label": "Iriklinsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4203169",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.72406,
+          54.063216
+        ]
+      },
+      "properties": {
+        "label": "Pronsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4380828",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.584166666,
+          55.878611111
+        ]
+      },
+      "properties": {
+        "label": "Altufyevsky District Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4382410",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.910562,
+          59.876683
+        ]
+      },
+      "properties": {
+        "label": "Olgin Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4334096",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.618980555,
+          68.796391666
+        ]
+      },
+      "properties": {
+        "label": "Lower Tuloma Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4318961",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.488166,
+          59.972587
+        ]
+      },
+      "properties": {
+        "label": "Okhta Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4340576",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.462222222,
+          54.721388888
+        ]
+      },
+      "properties": {
+        "label": "Poplavok Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4372300",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.937222222,
+          54.262777777
+        ]
+      },
+      "properties": {
+        "label": "Guryevsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4152562",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.146944444,
+          69.125277777
+        ]
+      },
+      "properties": {
+        "label": "Lower Teriberka Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4318953",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.837222222,
+          55.586111111
+        ]
+      },
+      "properties": {
+        "label": "Mozhaysk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4299519",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.205,
+          55.765
+        ]
+      },
+      "properties": {
+        "label": "Ozerna Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4332055",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.699166666,
+          48.646111111
+        ]
+      },
+      "properties": {
+        "label": "Karpovskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4215947",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.455555555,
+          53.876944444
+        ]
+      },
+      "properties": {
+        "label": "Lyudinovskoe",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4266364",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5425,
+          56.13333
+        ]
+      },
+      "properties": {
+        "label": "Iksha Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4199130",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.696027777,
+          55.890555555
+        ]
+      },
+      "properties": {
+        "label": "Dzhamgarovsky Ponds",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4159810",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.678611111,
+          55.57525
+        ]
+      },
+      "properties": {
+        "label": "Gertsensky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4137569",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.019166666,
+          53.374444444
+        ]
+      },
+      "properties": {
+        "label": "Zavodskiy Prud",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4183179",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.681155555,
+          55.976888888
+        ]
+      },
+      "properties": {
+        "label": "Klyazma Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4224540",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.820555555,
+          44.78
+        ]
+      },
+      "properties": {
+        "label": "Neberdzhayevskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4315491",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.15476,
+          58.309894
+        ]
+      },
+      "properties": {
+        "label": "Pudem Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4383338",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.774311111,
+          55.774288888
+        ]
+      },
+      "properties": {
+        "label": "Krasny Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4239713",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8065,
+          55.776444444
+        ]
+      },
+      "properties": {
+        "label": "Lebedyansky Ponds",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4198648",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.142777777,
+          60.199722222
+        ]
+      },
+      "properties": {
+        "label": "Mednozavodsky Razliv",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4287850",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.2,
+          54.916666666
+        ]
+      },
+      "properties": {
+        "label": "Zyuratkul",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4194971",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.828611111,
+          56.028888888
+        ]
+      },
+      "properties": {
+        "label": "Istra Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4205133",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.0518,
+          52.1777
+        ]
+      },
+      "properties": {
+        "label": "Matraevo Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4284910",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.011111111,
+          45.922222222
+        ]
+      },
+      "properties": {
+        "label": "Dundinsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4170796",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.912238888,
+          55.811688888
+        ]
+      },
+      "properties": {
+        "label": "Lake Mazurinskoe",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4274613",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5,
+          58.666666666
+        ]
+      },
+      "properties": {
+        "label": "Zalazninsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4185125",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.38555556,
+          59.60305556
+        ]
+      },
+      "properties": {
+        "label": "Kiselyovsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4222128",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.666111111,
+          54.698611111
+        ]
+      },
+      "properties": {
+        "label": "Karabash Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4213511",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.183333333,
+          66.6
+        ]
+      },
+      "properties": {
+        "label": "Iovsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4202609",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.277819444,
+          51.556686111
+        ]
+      },
+      "properties": {
+        "label": "Goluboe",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4142543",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.687516666,
+          56.032219444
+        ]
+      },
+      "properties": {
+        "label": "Pyalovsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4385708",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.283333333,
+          46.45
+        ]
+      },
+      "properties": {
+        "label": "Luchegorsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4270113",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.924166666,
+          51.093888888
+        ]
+      },
+      "properties": {
+        "label": "Gilevskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4138419",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.898611111,
+          47.971666666
+        ]
+      },
+      "properties": {
+        "label": "Vodokhranilishche Krivaya Luka",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4240627",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.576666666,
+          55.658611111
+        ]
+      },
+      "properties": {
+        "label": "Perekopsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4350414",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.775322222,
+          55.779975
+        ]
+      },
+      "properties": {
+        "label": "Dekorativny Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4156993",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.734875,
+          57.917606
+        ]
+      },
+      "properties": {
+        "label": "Kostroma Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4235571",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.165222222,
+          53.462388888
+        ]
+      },
+      "properties": {
+        "label": "Pravdinskoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4375853",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.513497,
+          55.845131
+        ]
+      },
+      "properties": {
+        "label": "Golovinskie Ponds",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4141859",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5,
+          53.2
+        ]
+      },
+      "properties": {
+        "label": "Kutulukskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4249666",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.674963888,
+          56.076491666
+        ]
+      },
+      "properties": {
+        "label": "Pestovsky Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4359957",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.866666666,
+          42.666666666
+        ]
+      },
+      "properties": {
+        "label": "Irganai Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4203103",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.066666666,
+          44.812222222
+        ]
+      },
+      "properties": {
+        "label": "Partizansk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4345912",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.747849,
+          52.58386
+        ]
+      },
+      "properties": {
+        "label": "Matyra Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4285409",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.288611111,
+          54.175833333
+        ]
+      },
+      "properties": {
+        "label": "Desnogorsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4159213",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.116666666,
+          66.783333333
+        ]
+      },
+      "properties": {
+        "label": "Kovdaozero Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4225729",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.018055555,
+          49.372777777
+        ]
+      },
+      "properties": {
+        "label": "Volgograd Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1500709",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.527205555,
+          55.806591666
+        ]
+      },
+      "properties": {
+        "label": "Ambulatorny pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4064058",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.755277777,
+          52.051388888
+        ]
+      },
+      "properties": {
+        "label": "Saratov Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1431535",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.166666666,
+          59.333333333
+        ]
+      },
+      "properties": {
+        "label": "Narva Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2458214",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.5825,
+          54.23
+        ]
+      },
+      "properties": {
+        "label": "Tirlyan Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1488834",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.558888888,
+          47.593333333
+        ]
+      },
+      "properties": {
+        "label": "Arshan-Zelmen",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4071016",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.485555555,
+          56.858611111
+        ]
+      },
+      "properties": {
+        "label": "Verkheisetsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4108208",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.228611111,
+          51.653611111
+        ]
+      },
+      "properties": {
+        "label": "Voronezh Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4125442",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.351572222,
+          59.877994444
+        ]
+      },
+      "properties": {
+        "label": "Volkhov Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4124189",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.707166666,
+          55.860666666
+        ]
+      },
+      "properties": {
+        "label": "Vazuza Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4102424",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.75,
+          50.425
+        ]
+      },
+      "properties": {
+        "label": "Belgorod Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4081736",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.280555555,
+          56.833333333
+        ]
+      },
+      "properties": {
+        "label": "Beloyarskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4082964",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.266666666,
+          57.483333333
+        ]
+      },
+      "properties": {
+        "label": "Uglich Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1479284",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.825613,
+          44.975856
+        ]
+      },
+      "properties": {
+        "label": "Shapsug Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1655036",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.539930555,
+          55.832816666
+        ]
+      },
+      "properties": {
+        "label": "Bolshoy Sadovy Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4092825",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.187236111,
+          56.914063888
+        ]
+      },
+      "properties": {
+        "label": "Upper Volga Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3510656",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.202659,
+          51.869222
+        ]
+      },
+      "properties": {
+        "label": "Akyar Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4060340",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.896111111,
+          56.797777777
+        ]
+      },
+      "properties": {
+        "label": "Ivankovo Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1676050",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.000277777,
+          69.057777777
+        ]
+      },
+      "properties": {
+        "label": "Upper Teriberka Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4108519",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.079166666,
+          47.056111111
+        ]
+      },
+      "properties": {
+        "label": "Veselovsky Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4109765",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.321666666,
+          52.236666666
+        ]
+      },
+      "properties": {
+        "label": "Irkutsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1672940",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.116666666,
+          56.8
+        ]
+      },
+      "properties": {
+        "label": "Volchikhinskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4124274",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.89279,
+          54.75693
+        ]
+      },
+      "properties": {
+        "label": "Novosibirsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1542594",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25,
+          55.88333
+        ]
+      },
+      "properties": {
+        "label": "Krasnoyarsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1786720",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.200833333,
+          63.03
+        ]
+      },
+      "properties": {
+        "label": "Vilyuy Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2065167",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0,
+          66.0
+        ]
+      },
+      "properties": {
+        "label": "Kumsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3511339",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.334444444,
+          44.983888888
+        ]
+      },
+      "properties": {
+        "label": "Balonov Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4076399",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.752777777,
+          46.677222222
+        ]
+      },
+      "properties": {
+        "label": "Proletarskoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3491070",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.71198,
+          69.38544
+        ]
+      },
+      "properties": {
+        "label": "Skogvatn",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3444888",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.533333333,
+          59.683333333
+        ]
+      },
+      "properties": {
+        "label": "Sheksna Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2578909",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.462855555,
+          57.564777777
+        ]
+      },
+      "properties": {
+        "label": "Vyshny Volochyok Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4130041",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.592222222,
+          55.649722222
+        ]
+      },
+      "properties": {
+        "label": "Q4078548",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4078548",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.153611111,
+          58.700277777
+        ]
+      },
+      "properties": {
+        "label": "Boguchanskoye Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4089907",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2,
+          68.583333333
+        ]
+      },
+      "properties": {
+        "label": "Upper Tuloma Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3511413",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.383333333,
+          57.466666666
+        ]
+      },
+      "properties": {
+        "label": "Ust-Ilimsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1973182",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.616666666,
+          53.983333333
+        ]
+      },
+      "properties": {
+        "label": "Zeya Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2576979",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.713611111,
+          55.631666666
+        ]
+      },
+      "properties": {
+        "label": "Borisovo Ponds",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4093975",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.153333333,
+          45.023333333
+        ]
+      },
+      "properties": {
+        "label": "Varnavinskoye Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4103942",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.75,
+          55.883333333
+        ]
+      },
+      "properties": {
+        "label": "Nizhnekamsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1425346",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45,
+          68.7
+        ]
+      },
+      "properties": {
+        "label": "Serebryansk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3511603",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.132777777,
+          56.881944444
+        ]
+      },
+      "properties": {
+        "label": "Izhevsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1994714",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.95797,
+          55.70662
+        ]
+      },
+      "properties": {
+        "label": "Belokatay Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4082507",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.200408,
+          69.103894
+        ]
+      },
+      "properties": {
+        "label": "Khevaskoski Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1773282",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.519166666,
+          56.401388888
+        ]
+      },
+      "properties": {
+        "label": "Verjato",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4109299",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.333333333,
+          66.933333333
+        ]
+      },
+      "properties": {
+        "label": "Kureyka Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1594286",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.58181,
+          69.33074
+        ]
+      },
+      "properties": {
+        "label": "Langvatnet",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2671775",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.4,
+          55.4
+        ]
+      },
+      "properties": {
+        "label": "Argazi Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2655022",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.525555555,
+          55.430833333
+        ]
+      },
+      "properties": {
+        "label": "Pavlovka Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3511552",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7903,
+          55.6867
+        ]
+      },
+      "properties": {
+        "label": "Verhnij Kuzminskij Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4108692",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.316666666,
+          50.266666666
+        ]
+      },
+      "properties": {
+        "label": "Bureya Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4099537",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.210522222,
+          60.920461111
+        ]
+      },
+      "properties": {
+        "label": "Verkhnesvirsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3511354",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.591944444,
+          55.763888888
+        ]
+      },
+      "properties": {
+        "label": "Patriarch Ponds",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q962445",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.047777777,
+          55.878055555
+        ]
+      },
+      "properties": {
+        "label": "Yauza Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4539635",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.788888888,
+          51.274166666
+        ]
+      },
+      "properties": {
+        "label": "Chapayevskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34879827",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.039722222,
+          55.278888888
+        ]
+      },
+      "properties": {
+        "label": "Zainsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1115861",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.9909,
+          43.3465
+        ]
+      },
+      "properties": {
+        "label": "Dzhalk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q28667335",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.87972222,
+          56.71888889
+        ]
+      },
+      "properties": {
+        "label": "Prud Izgozhka",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q16655170",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.492777777,
+          54.148055555
+        ]
+      },
+      "properties": {
+        "label": "Cherepet Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34879974",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.738876,
+          60.706575
+        ]
+      },
+      "properties": {
+        "label": "Vyborg bakery plant",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q107135306",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.06,
+          54.02
+        ]
+      },
+      "properties": {
+        "label": "Brynsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q16628098",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.671666666,
+          45.5
+        ]
+      },
+      "properties": {
+        "label": "Chogray Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4517045",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.75,
+          56.25
+        ]
+      },
+      "properties": {
+        "label": "Bratsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q899803",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4625,
+          55.85
+        ]
+      },
+      "properties": {
+        "label": "Khimki Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4497757",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.909166666,
+          58.913611111
+        ]
+      },
+      "properties": {
+        "label": "Shirokovskoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4524408",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.85,
+          57.116666666
+        ]
+      },
+      "properties": {
+        "label": "Uvod'skoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q13667959",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.0,
+          57.166666666
+        ]
+      },
+      "properties": {
+        "label": "Votkinsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q779468",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.706388888,
+          58.838888888
+        ]
+      },
+      "properties": {
+        "label": "Chernokholunitsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4514166",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.5339,
+          47.1953
+        ]
+      },
+      "properties": {
+        "label": "Ust-Manych Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q19915915",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.730555555,
+          55.803333333
+        ]
+      },
+      "properties": {
+        "label": "Cherkizovsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21045097",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.292222222,
+          50.395555555
+        ]
+      },
+      "properties": {
+        "label": "Malokazinskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34905449",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.010277777,
+          60.086944444
+        ]
+      },
+      "properties": {
+        "label": "Sestroretsky Razliv",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q380470",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.04916667,
+          53.38277778
+        ]
+      },
+      "properties": {
+        "label": "Termen-Elginsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q16705688",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.892915,
+          58.88447
+        ]
+      },
+      "properties": {
+        "label": "Prud Belokholunitskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q24931751",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.769652777,
+          55.779411111
+        ]
+      },
+      "properties": {
+        "label": "Sobachy Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4425746",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.156163,
+          44.922949
+        ]
+      },
+      "properties": {
+        "label": "Simferopol Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4419915",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.012925,
+          54.428216
+        ]
+      },
+      "properties": {
+        "label": "Pravidinsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q25393298",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.426111111,
+          55.610277777
+        ]
+      },
+      "properties": {
+        "label": "Smolensk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4424993",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.773333333,
+          68.085555555
+        ]
+      },
+      "properties": {
+        "label": "Khantayka Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q625412",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.778827777,
+          55.781272222
+        ]
+      },
+      "properties": {
+        "label": "Sovkhoz Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4426663",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.405555555,
+          53.126388888
+        ]
+      },
+      "properties": {
+        "label": "Chernovsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34879999",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.612222222,
+          55.699444444
+        ]
+      },
+      "properties": {
+        "label": "Beket Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q13667962",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.359166666,
+          52.751944444
+        ]
+      },
+      "properties": {
+        "label": "Sayano-Shushenskoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q7481863",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.49107,
+          45.1758
+        ]
+      },
+      "properties": {
+        "label": "Frontovoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21045090",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.447222222,
+          56.701666666
+        ]
+      },
+      "properties": {
+        "label": "Atigskiy Prud",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q31892795",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.748055555,
+          45.036666666
+        ]
+      },
+      "properties": {
+        "label": "Sengiley reservour",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4416105",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.0695,
+          55.7726
+        ]
+      },
+      "properties": {
+        "label": "Dolgobrodsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q18406884",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.417541666,
+          52.951869444
+        ]
+      },
+      "properties": {
+        "label": "Yumaguzino reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4534426",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.463,
+          53.887
+        ]
+      },
+      "properties": {
+        "label": "Kara-Chumysh Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21640068",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.433333333,
+          58.366666666
+        ]
+      },
+      "properties": {
+        "label": "Rybinsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q375029",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.833333333,
+          47.833333333
+        ]
+      },
+      "properties": {
+        "label": "Tsimlyansk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q203536",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.75439722,
+          55.75639722
+        ]
+      },
+      "properties": {
+        "label": "Vladimirsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q16630625",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0768,
+          44.5823
+        ]
+      },
+      "properties": {
+        "label": "Schastlivoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q12172679",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.533611111,
+          44.97
+        ]
+      },
+      "properties": {
+        "label": "Kryukov Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q13667956",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.72348989,
+          47.28611112
+        ]
+      },
+      "properties": {
+        "label": "Severnoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4412179",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.59976,
+          45.01873
+        ]
+      },
+      "properties": {
+        "label": "Belogorsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q15975193",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.03611111,
+          55.57222222
+        ]
+      },
+      "properties": {
+        "label": "Beryozovo Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q16274257",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.086111111,
+          56.374444444
+        ]
+      },
+      "properties": {
+        "label": "Prud Glubochenskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q13364403",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.374166666,
+          55.947222222
+        ]
+      },
+      "properties": {
+        "label": "Gidrootval Yuzhnyy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34886918",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.924,
+          45.065
+        ]
+      },
+      "properties": {
+        "label": "Lgovskoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q28666409",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3522,
+          45.3897
+        ]
+      },
+      "properties": {
+        "label": "Lagan Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q18400742",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.166666666,
+          53.45
+        ]
+      },
+      "properties": {
+        "label": "Kuybyshev Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q745937",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.669444444,
+          55.665277777
+        ]
+      },
+      "properties": {
+        "label": "Upper Kolomensky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q13667965",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.762,
+          55.794
+        ]
+      },
+      "properties": {
+        "label": "Serebryano-Vinogradny pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4417377",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.716666666,
+          56.3
+        ]
+      },
+      "properties": {
+        "label": "Cheboksary Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q571123",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.783777,
+          45.057963
+        ]
+      },
+      "properties": {
+        "label": "Mezhgornoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q13667953",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2028,
+          52.7769
+        ]
+      },
+      "properties": {
+        "label": "Serek-Kul Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4417553",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6938,
+          55.7336
+        ]
+      },
+      "properties": {
+        "label": "Kalitnikovsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q19909856",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.305,
+          57.9469
+        ]
+      },
+      "properties": {
+        "label": "Prud Nytvinskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23956952",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.750555555,
+          55.7725
+        ]
+      },
+      "properties": {
+        "label": "Krugly Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q20250320",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1458,
+          45.9617
+        ]
+      },
+      "properties": {
+        "label": "Gorodovikovsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q18405800",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.053125,
+          62.045377777
+        ]
+      },
+      "properties": {
+        "label": "Kolyma Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1359134",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.76583,
+          46.27861
+        ]
+      },
+      "properties": {
+        "label": "Ulan-Erge Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q18409714",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.559502777,
+          55.833963888
+        ]
+      },
+      "properties": {
+        "label": "Fermerskie Prudy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4482997",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.116666666,
+          67.65
+        ]
+      },
+      "properties": {
+        "label": "Pirenga Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1350687",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.59722222,
+          55.60527778
+        ]
+      },
+      "properties": {
+        "label": "Kirovograd Ponds",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q16663627",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.65,
+          55.6167
+        ]
+      },
+      "properties": {
+        "label": "Gorodskoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21044885",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5,
+          43.51
+        ]
+      },
+      "properties": {
+        "label": "Artyomovka Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q19907165",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.675,
+          57.8875
+        ]
+      },
+      "properties": {
+        "label": "Ochersky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23956953",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5299,
+          57.3501
+        ]
+      },
+      "properties": {
+        "label": "Ayat Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q13667864",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.883333333,
+          42.966666666
+        ]
+      },
+      "properties": {
+        "label": "Chirkey Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4516205",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.916666666,
+          62.333333333
+        ]
+      },
+      "properties": {
+        "label": "Vodlozero",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q200818",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4417,
+          55.9517
+        ]
+      },
+      "properties": {
+        "label": "Verkneruzskoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q18401836",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.042666666,
+          55.789333333
+        ]
+      },
+      "properties": {
+        "label": "Ruza Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4399862",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3527,
+          44.6374
+        ]
+      },
+      "properties": {
+        "label": "Gornoe Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q12135343",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.06304,
+          45.33721
+        ]
+      },
+      "properties": {
+        "label": "Kerchensk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21044895",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.245833333,
+          53.644722222
+        ]
+      },
+      "properties": {
+        "label": "Verkhneural'skoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21636887",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.776709,
+          44.736608
+        ]
+      },
+      "properties": {
+        "label": "Novorossiysk silo barn-elevator of 1893",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q129676573",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.35,
+          58.133333333
+        ]
+      },
+      "properties": {
+        "label": "Kama Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q631189",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6,
+          56.8425
+        ]
+      },
+      "properties": {
+        "label": "Gorodskoy Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q13667949",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.305833333,
+          56.305277777
+        ]
+      },
+      "properties": {
+        "label": "Prud Dubrovskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q18407137",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.0,
+          66.782777777
+        ]
+      },
+      "properties": {
+        "label": "Kovdozero",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q240398",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.02612,
+          42.44842
+        ]
+      },
+      "properties": {
+        "label": "Gergebil Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q16696356",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.793888888,
+          47.31
+        ]
+      },
+      "properties": {
+        "label": "Rostov Sea",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4398529",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.762,
+          55.794
+        ]
+      },
+      "properties": {
+        "label": "Izmaylov Ponds",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q16655199",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6315,
+          56.2645
+        ]
+      },
+      "properties": {
+        "label": "Karmanovsk Reservoir'",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21640122",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.293888888,
+          44.993333333
+        ]
+      },
+      "properties": {
+        "label": "Krasnodar Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1111856",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9929,
+          45.3438
+        ]
+      },
+      "properties": {
+        "label": "Zelyony Yar Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21216996",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6511,
+          55.8922
+        ]
+      },
+      "properties": {
+        "label": "Medvedkovsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q28666366",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.99,
+          56.37
+        ]
+      },
+      "properties": {
+        "label": "Volkovskoye Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q30888411",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.400555555,
+          55.710277777
+        ]
+      },
+      "properties": {
+        "label": "Belovezhsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q18400437",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.634444444,
+          43.536111111
+        ]
+      },
+      "properties": {
+        "label": "Aksaysk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q31871801",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7,
+          63.616666666
+        ]
+      },
+      "properties": {
+        "label": "Vygozero",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1315765",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.387777777,
+          55.347222222
+        ]
+      },
+      "properties": {
+        "label": "Shalakhovsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q17494922",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1153,
+          45.0319
+        ]
+      },
+      "properties": {
+        "label": "Old Crimea Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q16701815",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.085833333,
+          56.860277777
+        ]
+      },
+      "properties": {
+        "label": "Bisertskiy Prud",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q31916196",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.6664,
+          43.2647
+        ]
+      },
+      "properties": {
+        "label": "Chernorechensk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21645627",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.825,
+          44.285555555
+        ]
+      },
+      "properties": {
+        "label": "Otkaznensk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q30890081",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.664631,
+          55.798163
+        ]
+      },
+      "properties": {
+        "label": "Zolotoy Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q19909565",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.032438888,
+          57.809047222
+        ]
+      },
+      "properties": {
+        "label": "Mamakan Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q585614",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.324444444,
+          51.908333333
+        ]
+      },
+      "properties": {
+        "label": "Sulak Resevoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q13667951",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1075,
+          53.39805556
+        ]
+      },
+      "properties": {
+        "label": "Kuzminovsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q16668506",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.816666666,
+          44.475
+        ]
+      },
+      "properties": {
+        "label": "Chernorechensky reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4514136",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.58333333,
+          45.03333333
+        ]
+      },
+      "properties": {
+        "label": "Taygansk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q16718964",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.57604,
+          55.67594
+        ]
+      },
+      "properties": {
+        "label": "Novocheryomushinsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q18406342",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.098333333,
+          48.611388888
+        ]
+      },
+      "properties": {
+        "label": "Bereslavsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q31914356",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.068055555,
+          47.014722222
+        ]
+      },
+      "properties": {
+        "label": "Taynoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4449983",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.766666666,
+          56.033333333
+        ]
+      },
+      "properties": {
+        "label": "Ucha Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4479392",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.266325,
+          54.100929
+        ]
+      },
+      "properties": {
+        "label": "Shat Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4520969",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.440028,
+          44.80982
+        ]
+      },
+      "properties": {
+        "label": "Sukko Ozero",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q28935034",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3205,
+          53.3233
+        ]
+      },
+      "properties": {
+        "label": "Urazbaevsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q19917160",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.280555555,
+          44.231666666
+        ]
+      },
+      "properties": {
+        "label": "Kubansk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21044899",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.155555555,
+          56.460555555
+        ]
+      },
+      "properties": {
+        "label": "Mikhaylovskiy Prud",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34907408",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3462,
+          44.695
+        ]
+      },
+      "properties": {
+        "label": "Izobilnoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q12074070",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.233333333,
+          54.466666666
+        ]
+      },
+      "properties": {
+        "label": "South Ural Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4534069",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.68862,
+          55.801584
+        ]
+      },
+      "properties": {
+        "label": "Oleniy Ponds",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q19915753",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.036,
+          44.652
+        ]
+      },
+      "properties": {
+        "label": "Zagorsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q18407896",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.3,
+          55.1
+        ]
+      },
+      "properties": {
+        "label": "Shershni Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4523266",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.254,
+          43.4781
+        ]
+      },
+      "properties": {
+        "label": "Karyernoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q30890475",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.830555555,
+          57.696111111
+        ]
+      },
+      "properties": {
+        "label": "Chernoistochinsky Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34879986",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.063055555,
+          54.975277777
+        ]
+      },
+      "properties": {
+        "label": "Miasskiy Prud",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34907296",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.8333,
+          57.8497
+        ]
+      },
+      "properties": {
+        "label": "Prud Pavlovskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23956954",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.285833333,
+          52.398055555
+        ]
+      },
+      "properties": {
+        "label": "Sorochinskoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4429332",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.843055555,
+          43.117222222
+        ]
+      },
+      "properties": {
+        "label": "Chiryurtsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34880411",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1,
+          57.483333333
+        ]
+      },
+      "properties": {
+        "label": "Gorky Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q952975",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.318055555,
+          45.147777777
+        ]
+      },
+      "properties": {
+        "label": "Feodosiya Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q13667957",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.17,
+          56.203888888
+        ]
+      },
+      "properties": {
+        "label": "Mostovsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34908592",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.22838,
+          54.52177
+        ]
+      },
+      "properties": {
+        "label": "Yachenskoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q24703041",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.091666666,
+          56.604722222
+        ]
+      },
+      "properties": {
+        "label": "Dvurechenskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34884449",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.938888888,
+          55.713333333
+        ]
+      },
+      "properties": {
+        "label": "Metlinskiy Prud",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34907258",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.972222222,
+          52.183055555
+        ]
+      },
+      "properties": {
+        "label": "Aleksandrovskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q31878113",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.462608333,
+          55.885236666
+        ]
+      },
+      "properties": {
+        "label": "Chernogolovsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4513914",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.62885,
+          55.872538888
+        ]
+      },
+      "properties": {
+        "label": "Yasny Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4539451",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.686666666,
+          55.796388888
+        ]
+      },
+      "properties": {
+        "label": "Egersky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q19909270",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.471666666,
+          54.418888888
+        ]
+      },
+      "properties": {
+        "label": "Belovsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q31913846",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.249166666,
+          56.029444444
+        ]
+      },
+      "properties": {
+        "label": "Upper Araslanovo Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q18401818",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.722222222,
+          57.085
+        ]
+      },
+      "properties": {
+        "label": "Reftinsky Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23956956",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.158611111,
+          56.431944444
+        ]
+      },
+      "properties": {
+        "label": "Prud Verkhniy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34917084",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.274444444,
+          51.138055555
+        ]
+      },
+      "properties": {
+        "label": "Prud Surochiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916977",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.206944444,
+          55.225277777
+        ]
+      },
+      "properties": {
+        "label": "Prud Vil'skiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34917151",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.729722222,
+          51.741111111
+        ]
+      },
+      "properties": {
+        "label": "Prud Solyanka",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916927",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.506111111,
+          44.94
+        ]
+      },
+      "properties": {
+        "label": "Prud Kamla",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916384",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.4706,
+          53.0866
+        ]
+      },
+      "properties": {
+        "label": "Nugush Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34911609",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.690833333,
+          54.445
+        ]
+      },
+      "properties": {
+        "label": "Prud Kamenka",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916371",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.857777777,
+          55.956111111
+        ]
+      },
+      "properties": {
+        "label": "Prud Kamyshinka",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916397",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.981666666,
+          57.858055555
+        ]
+      },
+      "properties": {
+        "label": "Nizhne-Tagil'skiy Prud",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34911175",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.703333333,
+          51.197222222
+        ]
+      },
+      "properties": {
+        "label": "Prud Sokornyy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916901",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.809166666,
+          54.045833333
+        ]
+      },
+      "properties": {
+        "label": "Novomichurinsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34911561",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.774444444,
+          50.684444444
+        ]
+      },
+      "properties": {
+        "label": "Prud Karev",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916422",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.934722222,
+          51.951111111
+        ]
+      },
+      "properties": {
+        "label": "Prud Davydovskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916258",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.306666666,
+          57.349166666
+        ]
+      },
+      "properties": {
+        "label": "Prud Shaytanskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916876",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.971666666,
+          56.931944444
+        ]
+      },
+      "properties": {
+        "label": "Prud Verkhniy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34917096",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.995277777,
+          51.211388888
+        ]
+      },
+      "properties": {
+        "label": "Prud Kazënnyy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916446",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.281944444,
+          51.058055555
+        ]
+      },
+      "properties": {
+        "label": "Prud Rogatyy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916801",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.107222222,
+          57.32
+        ]
+      },
+      "properties": {
+        "label": "Rudyansky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916838",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.35,
+          55.560555555
+        ]
+      },
+      "properties": {
+        "label": "Prud Rybkhoz",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916851",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.713611111,
+          56.435
+        ]
+      },
+      "properties": {
+        "label": "Verkhnesysertsky Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34917056",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.348611111,
+          56.657777777
+        ]
+      },
+      "properties": {
+        "label": "Nizhneserginskiy Prud",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34911201",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.144722222,
+          57.053055555
+        ]
+      },
+      "properties": {
+        "label": "Nizhnenevochansk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34911188",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.245277777,
+          46.155
+        ]
+      },
+      "properties": {
+        "label": "Prud Leninskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916545",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.999166666,
+          47.8625
+        ]
+      },
+      "properties": {
+        "label": "Nesvetayskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34910748",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.914722222,
+          50.991111111
+        ]
+      },
+      "properties": {
+        "label": "Prud Irrigatsiya",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916320",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.830277777,
+          51.618888888
+        ]
+      },
+      "properties": {
+        "label": "Prud Petrovskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916735",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.625833333,
+          56.648888888
+        ]
+      },
+      "properties": {
+        "label": "Prud Kozinskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916495",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.683333333,
+          56.758333333
+        ]
+      },
+      "properties": {
+        "label": "Nizhneisetsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916622",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.330833333,
+          54.545277777
+        ]
+      },
+      "properties": {
+        "label": "Prud Komsomol'skiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916481",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.231111111,
+          51.864166666
+        ]
+      },
+      "properties": {
+        "label": "Prud Vetel'nyy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34917138",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.679722222,
+          51.168055555
+        ]
+      },
+      "properties": {
+        "label": "Prud Nikolayevskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916609",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.800555555,
+          58.078888888
+        ]
+      },
+      "properties": {
+        "label": "Prud Lys'venskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916559",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.569722222,
+          56.651666666
+        ]
+      },
+      "properties": {
+        "label": "Prud Verkhneserginskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34917043",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.208333333,
+          55.307777777
+        ]
+      },
+      "properties": {
+        "label": "Prud Verkhnevyksunskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34917070",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.934722222,
+          51.348333333
+        ]
+      },
+      "properties": {
+        "label": "Prud Bezymyanka",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916221",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.152222222,
+          55.294444444
+        ]
+      },
+      "properties": {
+        "label": "Prud Zapasnyy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34917207",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.966231,
+          44.92274
+        ]
+      },
+      "properties": {
+        "label": "Oktyabrskoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34912567",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.993611111,
+          51.523333333
+        ]
+      },
+      "properties": {
+        "label": "Prud Kamyshlak",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916409",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.720555555,
+          52.786666666
+        ]
+      },
+      "properties": {
+        "label": "Prud Prokhorovskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916762",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.334722222,
+          69.529722222
+        ]
+      },
+      "properties": {
+        "label": "Prud Yelovyy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34917192",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.678055555,
+          51.261944444
+        ]
+      },
+      "properties": {
+        "label": "Prud Novyy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916672",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.288055555,
+          59.404166666
+        ]
+      },
+      "properties": {
+        "label": "Prud Sotrinskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916952",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.590833333,
+          52.228055555
+        ]
+      },
+      "properties": {
+        "label": "Prud Novyy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916685",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.199444444,
+          51.3875
+        ]
+      },
+      "properties": {
+        "label": "Prud Barskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916195",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.517777777,
+          56.412222222
+        ]
+      },
+      "properties": {
+        "label": "Prud Samon",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916864",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.150277777,
+          50.947777777
+        ]
+      },
+      "properties": {
+        "label": "Prud Alimovskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916167",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.567777777,
+          56.496944444
+        ]
+      },
+      "properties": {
+        "label": "Prud Gogres",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916294",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.515277777,
+          51.215833333
+        ]
+      },
+      "properties": {
+        "label": "Prud Novyy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916659",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.649444444,
+          56.565
+        ]
+      },
+      "properties": {
+        "label": "Prud Latyrevskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916520",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.043888888,
+          50.75
+        ]
+      },
+      "properties": {
+        "label": "Prud Solyanka",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916913",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.185555555,
+          49.991944444
+        ]
+      },
+      "properties": {
+        "label": "Prud Zherebtsov",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34917247",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.996111111,
+          57.6925
+        ]
+      },
+      "properties": {
+        "label": "Lenevsky Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916533",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.835,
+          56.976111111
+        ]
+      },
+      "properties": {
+        "label": "Bilimbayevskiy Prud",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916233",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.475,
+          53.924444444
+        ]
+      },
+      "properties": {
+        "label": "Prud Khar'kovskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916457",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.506388888,
+          50.503888888
+        ]
+      },
+      "properties": {
+        "label": "Prud Merzlyakov",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916583",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.233611111,
+          51.404444444
+        ]
+      },
+      "properties": {
+        "label": "Prud Zhadovskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34917234",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.625277777,
+          56.751111111
+        ]
+      },
+      "properties": {
+        "label": "Prud Yelizavetinskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34917178",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.703611111,
+          51.055555555
+        ]
+      },
+      "properties": {
+        "label": "Prud Isayevskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916332",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.825833333,
+          58.613888888
+        ]
+      },
+      "properties": {
+        "label": "Nizhne Turinskiy Prud",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34911151",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.268611111,
+          48.312222222
+        ]
+      },
+      "properties": {
+        "label": "Prud Rasshirennyy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916776",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4175,
+          55.317222222
+        ]
+      },
+      "properties": {
+        "label": "Prud Velet'mskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34917016",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.813611111,
+          51.605
+        ]
+      },
+      "properties": {
+        "label": "Prud Mayskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916571",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.176666666,
+          51.189166666
+        ]
+      },
+      "properties": {
+        "label": "Prud Khutorskoy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916470",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.626111111,
+          52.190277777
+        ]
+      },
+      "properties": {
+        "label": "Pekilyanskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34914277",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.000555555,
+          52.402222222
+        ]
+      },
+      "properties": {
+        "label": "Prud Yazevka",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34917164",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.466944444,
+          51.114722222
+        ]
+      },
+      "properties": {
+        "label": "Prud Novyy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916647",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.547222222,
+          50.700833333
+        ]
+      },
+      "properties": {
+        "label": "Prud Kazënnyy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916433",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.796944444,
+          57.305
+        ]
+      },
+      "properties": {
+        "label": "Prud Sylvinskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916991",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.305833333,
+          51.4375
+        ]
+      },
+      "properties": {
+        "label": "Prud Ageyev",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916154",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.546111111,
+          50.968888888
+        ]
+      },
+      "properties": {
+        "label": "Prud Glazunov",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916272",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9035,
+          57.9293
+        ]
+      },
+      "properties": {
+        "label": "Nizhnevyyskiy Prud",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34911224",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.292222222,
+          53.027222222
+        ]
+      },
+      "properties": {
+        "label": "Sura Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34914355",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.642777777,
+          50.644722222
+        ]
+      },
+      "properties": {
+        "label": "Prud Rogatyy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916814",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.398888888,
+          52.433611111
+        ]
+      },
+      "properties": {
+        "label": "Prud Borinskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916245",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.901944444,
+          49.975
+        ]
+      },
+      "properties": {
+        "label": "Prud Rubtsov",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916826",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.193611111,
+          51.3675
+        ]
+      },
+      "properties": {
+        "label": "Prud Bankovoy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916181",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.058055555,
+          51.288888888
+        ]
+      },
+      "properties": {
+        "label": "Prud Popov",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916749",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.846666666,
+          51.331944444
+        ]
+      },
+      "properties": {
+        "label": "Prud Gor'kiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916307",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.204722222,
+          50.948055555
+        ]
+      },
+      "properties": {
+        "label": "Prud Solyanochnyy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916940",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.123611111,
+          59.77
+        ]
+      },
+      "properties": {
+        "label": "Prud Tur'ya",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34917003",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.887222222,
+          53.024444444
+        ]
+      },
+      "properties": {
+        "label": "Prud Sibir'",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34916889",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4183,
+          53.997
+        ]
+      },
+      "properties": {
+        "label": "Beloretsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q39415177",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.289164,
+          54.771937
+        ]
+      },
+      "properties": {
+        "label": "Lyublinsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q124294253",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6478,
+          55.62
+        ]
+      },
+      "properties": {
+        "label": "Korneev Ponds",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q48955873",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3725,
+          54.484722222
+        ]
+      },
+      "properties": {
+        "label": "Milyatinskoe",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q37935916",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.126425,
+          55.409135
+        ]
+      },
+      "properties": {
+        "label": "Kialimsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q122773387",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.099523,
+          44.892008
+        ]
+      },
+      "properties": {
+        "label": "Q123819302",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q123819302",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9225,
+          57.37
+        ]
+      },
+      "properties": {
+        "label": "Vogulka Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q111204422",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.0662,
+          54.6093
+        ]
+      },
+      "properties": {
+        "label": "Maslovy Gory",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q120170485",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5305,
+          55.6671
+        ]
+      },
+      "properties": {
+        "label": "Vorontsovsky Ponds",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q48953795",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.820555555,
+          56.666944444
+        ]
+      },
+      "properties": {
+        "label": "Gridino Forest Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q97775081",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.15,
+          52.657777777
+        ]
+      },
+      "properties": {
+        "label": "Vodokhranilishche Yelshanskoye",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933608",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.196111111,
+          55.409166666
+        ]
+      },
+      "properties": {
+        "label": "Vodokhranilishche Orlovskoye",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933541",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50988,
+          58.732134
+        ]
+      },
+      "properties": {
+        "label": "Vyisky Technical Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q112895154",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2869,
+          44.8434
+        ]
+      },
+      "properties": {
+        "label": "Ayanske Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q55289567",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.438333333,
+          43.335555555
+        ]
+      },
+      "properties": {
+        "label": "Mekhteb Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933491",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.040833333,
+          55.918333333
+        ]
+      },
+      "properties": {
+        "label": "Nizhne-Ufaleiskoye Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q124497829",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2988,
+          52.6641
+        ]
+      },
+      "properties": {
+        "label": "Grafskoe Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q48954710",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.803611111,
+          57.02
+        ]
+      },
+      "properties": {
+        "label": "Vodokhranilishche Selikhovskoye",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933563",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.522777777,
+          52.528888888
+        ]
+      },
+      "properties": {
+        "label": "Vodokhranilishche Shekhmanskoye",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933573",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.673611111,
+          51.676111111
+        ]
+      },
+      "properties": {
+        "label": "Kursk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34896633",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.171442,
+          52.118142
+        ]
+      },
+      "properties": {
+        "label": "Tanalyk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q110619629",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.145277777,
+          57.229166666
+        ]
+      },
+      "properties": {
+        "label": "Upper Neyva Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q108784938",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.935555555,
+          45.228611111
+        ]
+      },
+      "properties": {
+        "label": "Vodoskhovyshche Yuzmak",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933631",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8113,
+          44.5068
+        ]
+      },
+      "properties": {
+        "label": "Urkusta",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q108121527",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.886666666,
+          54.8575
+        ]
+      },
+      "properties": {
+        "label": "Upper Irmelskoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933203",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.693888888,
+          57.846388888
+        ]
+      },
+      "properties": {
+        "label": "Alapaevsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q114727167",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.241666666,
+          45.205555555
+        ]
+      },
+      "properties": {
+        "label": "Sokolsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q110623322",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.8773,
+          53.6962
+        ]
+      },
+      "properties": {
+        "label": "Uzyansk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q106283696",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.255277777,
+          59.346111111
+        ]
+      },
+      "properties": {
+        "label": "Yayva Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q108297368",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.088333333,
+          55.367777777
+        ]
+      },
+      "properties": {
+        "label": "Prud Doschatinskiy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q35447278",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.218611111,
+          54.060555555
+        ]
+      },
+      "properties": {
+        "label": "Lyubovka Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q104163764",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.996111111,
+          47.794166666
+        ]
+      },
+      "properties": {
+        "label": "Starobeshivs'ke Vodoskhovyshche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34927971",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2452,
+          56.1462
+        ]
+      },
+      "properties": {
+        "label": "Cheboksary Bay",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3633069",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.343055555,
+          56.661111111
+        ]
+      },
+      "properties": {
+        "label": "Verkhnemakarovskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933227",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.331126,
+          59.911677
+        ]
+      },
+      "properties": {
+        "label": "Q124609839",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q124609839",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.637381,
+          56.767076
+        ]
+      },
+      "properties": {
+        "label": "Q126897963",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q126897963",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.900277777,
+          56.699722222
+        ]
+      },
+      "properties": {
+        "label": "New Marinsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q106095540",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.176666666,
+          43.793333333
+        ]
+      },
+      "properties": {
+        "label": "Vodokhranilishche Okean",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933528",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.067777777,
+          55.082222222
+        ]
+      },
+      "properties": {
+        "label": "Polikarpov Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q121633626",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.127,
+          43.057
+        ]
+      },
+      "properties": {
+        "label": "Q131938288",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q131938288",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.76057,
+          55.215743
+        ]
+      },
+      "properties": {
+        "label": "Q129176114",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q129176114",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5448,
+          57.731
+        ]
+      },
+      "properties": {
+        "label": "Q130486989",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q130486989",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.085555555,
+          43.245
+        ]
+      },
+      "properties": {
+        "label": "Vodokhranilishche Bogatoye",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933419",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.358018,
+          58.709792
+        ]
+      },
+      "properties": {
+        "label": "Upper Kachkanar Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q111430071",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.710277777,
+          58.031666666
+        ]
+      },
+      "properties": {
+        "label": "Lower Salda Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q111803708",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.2109532,
+          57.4158174
+        ]
+      },
+      "properties": {
+        "label": "Q125870926",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q125870926",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5175,
+          57.978333333
+        ]
+      },
+      "properties": {
+        "label": "Isa Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q111125757",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.666666666,
+          54.016388888
+        ]
+      },
+      "properties": {
+        "label": "Troitskoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q105813958",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6012,
+          68.9388
+        ]
+      },
+      "properties": {
+        "label": "Q116994447",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q116994447",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.254722222,
+          57.473611111
+        ]
+      },
+      "properties": {
+        "label": "Nevyansk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q106200801",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.073611111,
+          50.105555555
+        ]
+      },
+      "properties": {
+        "label": "Varfolomeyevskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933096",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.4,
+          57.371944444
+        ]
+      },
+      "properties": {
+        "label": "Rezh Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q111331778",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.201528,
+          56.487887
+        ]
+      },
+      "properties": {
+        "label": "Seversky Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q111812793",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.804722222,
+          56.492777777
+        ]
+      },
+      "properties": {
+        "label": "Sysert Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q111590201",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.8275,
+          59.386944444
+        ]
+      },
+      "properties": {
+        "label": "Seminskiy Prud",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34922619",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.690555555,
+          57.0
+        ]
+      },
+      "properties": {
+        "label": "Urginskiy Prud",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34932808",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.753333333,
+          51.804444444
+        ]
+      },
+      "properties": {
+        "label": "Tolstovskoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34930774",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.236944444,
+          56.066666666
+        ]
+      },
+      "properties": {
+        "label": "Upper Ufalei pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q125399056",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.201897,
+          55.311349
+        ]
+      },
+      "properties": {
+        "label": "Q125555645",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q125555645",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8481,
+          55.7343
+        ]
+      },
+      "properties": {
+        "label": "Q108784936",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q108784936",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.797222222,
+          59.804722222
+        ]
+      },
+      "properties": {
+        "label": "Andryushinsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q111470958",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.5374,
+          56.4176
+        ]
+      },
+      "properties": {
+        "label": "Q126912733",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q126912733",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.802777777,
+          57.936944444
+        ]
+      },
+      "properties": {
+        "label": "Verkhne-Vyyskiy Prud",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933215",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.7575,
+          58.276388888
+        ]
+      },
+      "properties": {
+        "label": "Kushvinskiy Prud",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34896697",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.188611111,
+          43.991944444
+        ]
+      },
+      "properties": {
+        "label": "Rostovanovskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34920084",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8475,
+          52.148611111
+        ]
+      },
+      "properties": {
+        "label": "Teplovskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34930238",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8325,
+          44.727777777
+        ]
+      },
+      "properties": {
+        "label": "Egiz-Oba",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q105162118",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.184444444,
+          53.6975
+        ]
+      },
+      "properties": {
+        "label": "Tovarkovskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34930917",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.22381,
+          51.81153
+        ]
+      },
+      "properties": {
+        "label": "Q132733637",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q132733637",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.794576,
+          55.742098
+        ]
+      },
+      "properties": {
+        "label": "Bolsjoy Perovsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q48955594",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.439153,
+          52.889077
+        ]
+      },
+      "properties": {
+        "label": "Maina reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q130471355",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.921704,
+          52.43216
+        ]
+      },
+      "properties": {
+        "label": "Sakmara Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q96679034",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.368333333,
+          48.759722222
+        ]
+      },
+      "properties": {
+        "label": "Kramators'ke Vodoskhovyshche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34896178",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.285,
+          51.4147
+        ]
+      },
+      "properties": {
+        "label": "Q122830528",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q122830528",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.51,
+          56.24
+        ]
+      },
+      "properties": {
+        "label": "Kantat Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q123680902",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.641666666,
+          53.919444444
+        ]
+      },
+      "properties": {
+        "label": "Schekinskoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34923023",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.529,
+          56.2578
+        ]
+      },
+      "properties": {
+        "label": "Yakhroma Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q65172801",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6576,
+          55.0712
+        ]
+      },
+      "properties": {
+        "label": "Q129765469",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q129765469",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.2222,
+          54.2778
+        ]
+      },
+      "properties": {
+        "label": "Kondurcha Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q55658228",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.546514,
+          58.728734
+        ]
+      },
+      "properties": {
+        "label": "Tailings of Kachkanarskiy mining and processing plant",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q116236163",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8417,
+          45.3119
+        ]
+      },
+      "properties": {
+        "label": "Samarli Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q108137376",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.951695,
+          57.067332
+        ]
+      },
+      "properties": {
+        "label": "Q116867954",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q116867954",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.268055555,
+          44.641666666
+        ]
+      },
+      "properties": {
+        "label": "Kuzhorskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34896761",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9427,
+          44.842
+        ]
+      },
+      "properties": {
+        "label": "Alma Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q108124708",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.586666666,
+          52.555833333
+        ]
+      },
+      "properties": {
+        "label": "Kuturushinskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34896735",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.639722222,
+          45.049722222
+        ]
+      },
+      "properties": {
+        "label": "Yegorlykskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34936505",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.570659,
+          44.516842
+        ]
+      },
+      "properties": {
+        "label": "Kadykovsky Quarry",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q106079909",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.126944444,
+          52.836944444
+        ]
+      },
+      "properties": {
+        "label": "Vetlyanka Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933596",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.16,
+          57.301111111
+        ]
+      },
+      "properties": {
+        "label": "Gluhkoy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q108784939",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.565,
+          53.874444444
+        ]
+      },
+      "properties": {
+        "label": "Kimovskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34895205",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.673333333,
+          58.8575
+        ]
+      },
+      "properties": {
+        "label": "Upper Tursk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q111868135",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.636111111,
+          57.703888888
+        ]
+      },
+      "properties": {
+        "label": "Petrokamensky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q109587862",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.8961,
+          59.3672
+        ]
+      },
+      "properties": {
+        "label": "Q127972040",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q127972040",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.135,
+          63.899444444
+        ]
+      },
+      "properties": {
+        "label": "Ondskoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q89562396",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.141111111,
+          51.113611111
+        ]
+      },
+      "properties": {
+        "label": "Kumakskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34896400",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.459271,
+          55.676118
+        ]
+      },
+      "properties": {
+        "label": "Bolshoy Ochakovsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q48952100",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.7555,
+          55.1878
+        ]
+      },
+      "properties": {
+        "label": "Q130214156",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q130214156",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.2125,
+          57.1575
+        ]
+      },
+      "properties": {
+        "label": "Morkushsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933503",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.792,
+          58.095
+        ]
+      },
+      "properties": {
+        "label": "Q131539543",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q131539543",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.258055555,
+          48.138611111
+        ]
+      },
+      "properties": {
+        "label": "Yesaulovskiy Aksay",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34936651",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.57711,
+          56.852462
+        ]
+      },
+      "properties": {
+        "label": "Q119963804",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q119963804",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.920555555,
+          56.764722222
+        ]
+      },
+      "properties": {
+        "label": "Redvinsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q94088913",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.866111111,
+          56.927777777
+        ]
+      },
+      "properties": {
+        "label": "Q114740602",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q114740602",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.443158,
+          58.712612
+        ]
+      },
+      "properties": {
+        "label": "Lower Kachkanar Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q55658649",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.159722222,
+          48.543888888
+        ]
+      },
+      "properties": {
+        "label": "Varvarovskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933131",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.781434,
+          51.391155
+        ]
+      },
+      "properties": {
+        "label": "Starooskol Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q55387094",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.605238,
+          55.730487
+        ]
+      },
+      "properties": {
+        "label": "Pionersky pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q48955592",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8428,
+          53.3715
+        ]
+      },
+      "properties": {
+        "label": "Rowing Canal",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q108673568",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.664855,
+          64.506147
+        ]
+      },
+      "properties": {
+        "label": "Zolotetsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q35301314",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.133611111,
+          52.751111111
+        ]
+      },
+      "properties": {
+        "label": "Vodokhranilishche Domashkinskoye",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933432",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.161388888,
+          53.976388888
+        ]
+      },
+      "properties": {
+        "label": "Sviridovsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q108784930",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.60298,
+          55.6404
+        ]
+      },
+      "properties": {
+        "label": "Chertanovsky Ponds",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q48953798",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.581863055,
+          55.908436111
+        ]
+      },
+      "properties": {
+        "label": "Altufyevsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q48947058",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.034722222,
+          56.9175
+        ]
+      },
+      "properties": {
+        "label": "Pilnensk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q112711243",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5646,
+          52.2296
+        ]
+      },
+      "properties": {
+        "label": "Q130427453",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q130427453",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.331388888,
+          57.212777777
+        ]
+      },
+      "properties": {
+        "label": "Staroutinsk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q111609764",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.547222222,
+          54.641388888
+        ]
+      },
+      "properties": {
+        "label": "Kly",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q108756887",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.963888888,
+          57.378055555
+        ]
+      },
+      "properties": {
+        "label": "Upper Tagil Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q111549320",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.548611111,
+          58.013333333
+        ]
+      },
+      "properties": {
+        "label": "Upper Salda Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q111755281",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.786111111,
+          58.338611111
+        ]
+      },
+      "properties": {
+        "label": "Upper Tura Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q111850062",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.3375,
+          56.148611111
+        ]
+      },
+      "properties": {
+        "label": "Vodokhranilishche Sodyshka",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933585",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.1225,
+          7.272777777
+        ]
+      },
+      "properties": {
+        "label": "Maly Verkh-Neyvinsky Pond",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q108784940",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6225,
+          68.944722222
+        ]
+      },
+      "properties": {
+        "label": "Nizhneserebryansk Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q110098911",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.89,
+          47.861388888
+        ]
+      },
+      "properties": {
+        "label": "Sokolovskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34926996",
+        "country_qid": "Q159"
+      }
+    }
+  ]
+}

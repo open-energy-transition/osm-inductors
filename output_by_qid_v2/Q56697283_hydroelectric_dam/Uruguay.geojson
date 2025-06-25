@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.450694444,
+          -33.055583333
+        ]
+      },
+      "properties": {
+        "label": "Palmar Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q3433446",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.421111111,
+          -32.830833333
+        ]
+      },
+      "properties": {
+        "label": "Rincón del Caqute",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q477428",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.805611111,
+          -32.872888888
+        ]
+      },
+      "properties": {
+        "label": "Represa de Baygorria",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q5800145",
+        "country_qid": "Q77"
+      }
+    }
+  ]
+}

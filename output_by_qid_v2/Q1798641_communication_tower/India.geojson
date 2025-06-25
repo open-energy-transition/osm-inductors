@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.15035,
+          28.697267
+        ]
+      },
+      "properties": {
+        "label": "Pitampura TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q924451",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9368005,
+          23.1471111
+        ]
+      },
+      "properties": {
+        "label": "Katanga TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q6375098",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.309094,
+          9.292656
+        ]
+      },
+      "properties": {
+        "label": "Rameswaram TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q187992",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6337,
+          25.4528
+        ]
+      },
+      "properties": {
+        "label": "Bundi TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q110302218",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.495051,
+          27.38118
+        ]
+      },
+      "properties": {
+        "label": "Jaisalmer TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q6124266",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.81646,
+          18.99991
+        ]
+      },
+      "properties": {
+        "label": "Mumbai Television Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1759799",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.476877,
+          23.191859
+        ]
+      },
+      "properties": {
+        "label": "Samatra TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q7408906",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0338,
+          30.39562
+        ]
+      },
+      "properties": {
+        "label": "Fazilka TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q5439201",
+        "country_qid": "Q668"
+      }
+    }
+  ]
+}

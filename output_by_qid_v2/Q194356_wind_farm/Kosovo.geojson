@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.014722222,
+          42.970555555
+        ]
+      },
+      "properties": {
+        "label": "Bajgora Wind Park",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q109811639",
+        "country_qid": "Q1246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.666388888,
+          42.655833333
+        ]
+      },
+      "properties": {
+        "label": "Kitka Wind Park",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q110185027",
+        "country_qid": "Q1246"
+      }
+    }
+  ]
+}

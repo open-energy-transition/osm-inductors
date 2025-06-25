@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.716667,
+          51.44
+        ]
+      },
+      "properties": {
+        "label": "BritNed",
+        "type": "submarine power cable",
+        "entity": "http://www.wikidata.org/entity/Q918000",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5563,
+          51.0658
+        ]
+      },
+      "properties": {
+        "label": "HVDC Cross-Channel",
+        "type": "submarine power cable",
+        "entity": "http://www.wikidata.org/entity/Q1563624",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2304,
+          54.6293
+        ]
+      },
+      "properties": {
+        "label": "Viking Link",
+        "type": "submarine power cable",
+        "entity": "http://www.wikidata.org/entity/Q21208645",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.515,
+          50.088
+        ]
+      },
+      "properties": {
+        "label": "IFA-2",
+        "type": "submarine power cable",
+        "entity": "http://www.wikidata.org/entity/Q28231939",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4263,
+          54.9888
+        ]
+      },
+      "properties": {
+        "label": "HVDC Moyle",
+        "type": "submarine power cable",
+        "entity": "http://www.wikidata.org/entity/Q5636206",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6769,
+          57.5672
+        ]
+      },
+      "properties": {
+        "label": "North Sea Link",
+        "type": "submarine power cable",
+        "entity": "http://www.wikidata.org/entity/Q5636209",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.17121,
+          54.41021
+        ]
+      },
+      "properties": {
+        "label": "Western HVDC Link",
+        "type": "submarine power cable",
+        "entity": "http://www.wikidata.org/entity/Q7987887",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8257,
+          53.5305
+        ]
+      },
+      "properties": {
+        "label": "East–West Interconnector",
+        "type": "submarine power cable",
+        "entity": "http://www.wikidata.org/entity/Q5331045",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4967,
+          51.0147
+        ]
+      },
+      "properties": {
+        "label": "ElecLink",
+        "type": "submarine power cable",
+        "entity": "http://www.wikidata.org/entity/Q85932728",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1441,
+          51.6828
+        ]
+      },
+      "properties": {
+        "label": "Greenlink",
+        "type": "submarine power cable",
+        "entity": "http://www.wikidata.org/entity/Q85764561",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.83333,
+          54.0
+        ]
+      },
+      "properties": {
+        "label": "Isle of Man to England Interconnector",
+        "type": "submarine power cable",
+        "entity": "http://www.wikidata.org/entity/Q2271607",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.6780119,
+          42.8421307
+        ]
+      },
+      "properties": {
+        "label": "Tkvarcheli thermal power plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q19392642",
+        "country_qid": "Q230"
+      }
+    }
+  ]
+}

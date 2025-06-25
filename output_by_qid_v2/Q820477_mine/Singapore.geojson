@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7725,
+          1.405833333
+        ]
+      },
+      "properties": {
+        "label": "Seng Kee Quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q49460366",
+        "country_qid": "Q334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.754166666,
+          1.361111111
+        ]
+      },
+      "properties": {
+        "label": "Seng Chew Quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q49460365",
+        "country_qid": "Q334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.756666666,
+          1.355
+        ]
+      },
+      "properties": {
+        "label": "Gammon Granite Quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q49460222",
+        "country_qid": "Q334"
+      }
+    }
+  ]
+}

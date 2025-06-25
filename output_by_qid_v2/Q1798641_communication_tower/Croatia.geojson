@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.948055555,
+          45.899444444
+        ]
+      },
+      "properties": {
+        "label": "Zagreb TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q462813",
+        "country_qid": "Q224"
+      }
+    }
+  ]
+}

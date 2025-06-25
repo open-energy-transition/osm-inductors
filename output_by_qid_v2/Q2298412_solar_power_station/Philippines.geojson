@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.73083333,
+          10.86611111
+        ]
+      },
+      "properties": {
+        "label": "SaCaSol I",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q18391815",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.2963983,
+          10.9207839
+        ]
+      },
+      "properties": {
+        "label": "Cadiz Solar Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q23048127",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6701,
+          13.9233
+        ]
+      },
+      "properties": {
+        "label": "Calatagan Solar Farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q23048129",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.93666667,
+          10.42277778
+        ]
+      },
+      "properties": {
+        "label": "SaCaSol II",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q18391818",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.023561111,
+          15.414694444
+        ]
+      },
+      "properties": {
+        "label": "Nueva Ecija Solar Farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q109849386",
+        "country_qid": "Q928"
+      }
+    }
+  ]
+}

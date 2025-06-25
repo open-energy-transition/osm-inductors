@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3746337,
+          47.2699134
+        ]
+      },
+      "properties": {
+        "label": "Q21523357",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q21523357",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0377,
+          47.8018
+        ]
+      },
+      "properties": {
+        "label": "Q1749693",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1749693",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.769944,
+          47.378111
+        ]
+      },
+      "properties": {
+        "label": "communication tower Hauser Kaibling",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q15128344",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.25505,
+          48.19167
+        ]
+      },
+      "properties": {
+        "label": "Sender Himmelhof",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q15128268",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2441,
+          48.2487
+        ]
+      },
+      "properties": {
+        "label": "Exelberg Telecommunication Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q2151345",
+        "country_qid": "Q40"
+      }
+    }
+  ]
+}

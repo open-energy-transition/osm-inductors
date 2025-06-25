@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1425,
+          40.18247222
+        ]
+      },
+      "properties": {
+        "label": "Armenian Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q946058",
+        "country_qid": "Q399"
+      }
+    }
+  ]
+}

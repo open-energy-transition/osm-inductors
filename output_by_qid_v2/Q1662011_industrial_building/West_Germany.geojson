@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.379154587,
+          52.567664038
+        ]
+      },
+      "properties": {
+        "label": "Ostdeutsche Spritfabrik GmbH",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q118091674",
+        "country_qid": "Q713750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7442467,
+          52.3642717
+        ]
+      },
+      "properties": {
+        "label": "Q124694021",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q124694021",
+        "country_qid": "Q713750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.890235,
+          51.549931
+        ]
+      },
+      "properties": {
+        "label": "Filmaufbau GmbH",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q30166817",
+        "country_qid": "Q713750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.367995219,
+          52.56872715
+        ]
+      },
+      "properties": {
+        "label": "Q118669324",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q118669324",
+        "country_qid": "Q713750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.969280123,
+          48.555080226
+        ]
+      },
+      "properties": {
+        "label": "Kelter Entringen",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q106350077",
+        "country_qid": "Q713750"
+      }
+    }
+  ]
+}

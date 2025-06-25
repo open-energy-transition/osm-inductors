@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.95765,
+          25.76323
+        ]
+      },
+      "properties": {
+        "label": "Maqţa‘ al Baḩr",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q34731773",
+        "country_qid": "Q846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.84665,
+          25.62303
+        ]
+      },
+      "properties": {
+        "label": "Maqţa‘ ad Dawākhil",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q34731764",
+        "country_qid": "Q846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.416666666,
+          25.683333333
+        ]
+      },
+      "properties": {
+        "label": "Jazirat Halul",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386891",
+        "country_qid": "Q846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.583333333,
+          25.916666666
+        ]
+      },
+      "properties": {
+        "label": "Ras Laffan",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111387350",
+        "country_qid": "Q846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.55,
+          26.65
+        ]
+      },
+      "properties": {
+        "label": "Al Rayyan Terminal",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386675",
+        "country_qid": "Q846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.602,
+          25.015
+        ]
+      },
+      "properties": {
+        "label": "Hamad Port",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q38251172",
+        "country_qid": "Q846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1227,
+          26.07395
+        ]
+      },
+      "properties": {
+        "label": "Jisrat al Khaymah",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q34925565",
+        "country_qid": "Q846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5564,
+          25.9146
+        ]
+      },
+      "properties": {
+        "label": "Qatargas Ras Laffan LNG terminal",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q30972666",
+        "country_qid": "Q846"
+      }
+    }
+  ]
+}

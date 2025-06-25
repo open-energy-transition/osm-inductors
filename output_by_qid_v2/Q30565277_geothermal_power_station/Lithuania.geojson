@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.20111111,
+          55.68388889
+        ]
+      },
+      "properties": {
+        "label": "Klaipėda Geothermal Demonstration Plant",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q6419605",
+        "country_qid": "Q37"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.676306,
+          15.129667
+        ]
+      },
+      "properties": {
+        "label": "Senergy 1",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q53618155",
+        "country_qid": "Q1041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.466388888,
+          16.516666666
+        ]
+      },
+      "properties": {
+        "label": "Senergy 2",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q52430750",
+        "country_qid": "Q1041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.103055555,
+          14.652777777
+        ]
+      },
+      "properties": {
+        "label": "Diass Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q112427424",
+        "country_qid": "Q1041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.935833333,
+          14.473611111
+        ]
+      },
+      "properties": {
+        "label": "Q30744138",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q30744138",
+        "country_qid": "Q1041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.336111111,
+          14.486944444
+        ]
+      },
+      "properties": {
+        "label": "Niakhar Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q112578164",
+        "country_qid": "Q1041"
+      }
+    }
+  ]
+}

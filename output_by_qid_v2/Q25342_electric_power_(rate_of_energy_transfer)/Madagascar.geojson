@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7033,
+          -19.012
+        ]
+      },
+      "properties": {
+        "label": "Antelomita Hydroelectric Power Station",
+        "type": "Electric power (rate of energy transfer)",
+        "entity": "http://www.wikidata.org/entity/Q16868940",
+        "country_qid": "Q1019"
+      }
+    }
+  ]
+}

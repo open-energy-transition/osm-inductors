@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.91651,
+          51.118
+        ]
+      },
+      "properties": {
+        "label": "Paper mill Noske",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q116281236",
+        "country_qid": "Q153015"
+      }
+    }
+  ]
+}

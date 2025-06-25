@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.256944444,
+          29.964166666
+        ]
+      },
+      "properties": {
+        "label": "Attaqa Mountain Pumped Storage Power Plant",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q106298499",
+        "country_qid": "Q79"
+      }
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.422615,
+          53.390906
+        ]
+      },
+      "properties": {
+        "label": "Crucible steel shops on south east side of Sandserson Kaysers Darnall Works",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q122830385",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.01917,
+          51.6792
+        ]
+      },
+      "properties": {
+        "label": "Panteg Steel Works",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q7131675",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.42254,
+          53.3917
+        ]
+      },
+      "properties": {
+        "label": "Darnall Works",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q14914980",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.20088,
+          51.7702
+        ]
+      },
+      "properties": {
+        "label": "Ebbw Vale Steelworks",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q5331568",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.319,
+          53.452
+        ]
+      },
+      "properties": {
+        "label": "Aldwarke Steelworks",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q116896414",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.052,
+          53.071
+        ]
+      },
+      "properties": {
+        "label": "Brymbo Steelworks",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q2927199",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.18552,
+          55.83205
+        ]
+      },
+      "properties": {
+        "label": "Clydebridge Steelworks",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q27957674",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.906564,
+          54.566483
+        ]
+      },
+      "properties": {
+        "label": "Skinningrove Steelworks",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q24636895",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.89284,
+          51.5754
+        ]
+      },
+      "properties": {
+        "label": "Llanwern steelworks",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q6661869",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

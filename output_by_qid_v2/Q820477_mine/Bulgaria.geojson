@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.85,
+          42.9
+        ]
+      },
+      "properties": {
+        "label": "Q21781750",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21781750",
+        "country_qid": "Q219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.588,
+          42.543
+        ]
+      },
+      "properties": {
+        "label": "Q12286802",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q12286802",
+        "country_qid": "Q219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.825833333,
+          42.898888888
+        ]
+      },
+      "properties": {
+        "label": "Nedelishte lignite mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q104704292",
+        "country_qid": "Q219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.915652777,
+          41.489741666
+        ]
+      },
+      "properties": {
+        "label": "Sharenka (cave)",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q12299303",
+        "country_qid": "Q219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.874421,
+          42.766234
+        ]
+      },
+      "properties": {
+        "label": "Q67152220",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q67152220",
+        "country_qid": "Q219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.991869,
+          43.497194
+        ]
+      },
+      "properties": {
+        "label": "Chiprovtsi",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q67152530",
+        "country_qid": "Q219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.993,
+          42.194
+        ]
+      },
+      "properties": {
+        "label": "Troyanovo-1 coal mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16745481",
+        "country_qid": "Q219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.151666666,
+          42.541944444
+        ]
+      },
+      "properties": {
+        "label": "Assarel mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16252032",
+        "country_qid": "Q219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.592222222,
+          42.418888888
+        ]
+      },
+      "properties": {
+        "label": "Gyonovets",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q124116281",
+        "country_qid": "Q219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.074551,
+          42.695612
+        ]
+      },
+      "properties": {
+        "label": "Chelopech mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16257864",
+        "country_qid": "Q219"
+      }
+    }
+  ]
+}

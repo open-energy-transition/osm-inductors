@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.517838888,
+          42.576871111
+        ]
+      },
+      "properties": {
+        "label": "mola i serradora de Cal Pal",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q21042956",
+        "country_qid": "Q228"
+      }
+    }
+  ]
+}

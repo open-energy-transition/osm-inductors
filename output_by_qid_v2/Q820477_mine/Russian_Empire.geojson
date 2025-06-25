@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.633333333,
+          44.333333333
+        ]
+      },
+      "properties": {
+        "label": "Kurumsak vanadium deposit",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q28125552",
+        "country_qid": "Q34266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.416666666,
+          44.533333333
+        ]
+      },
+      "properties": {
+        "label": "Balasauskandyk vanadium deposit",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q28751057",
+        "country_qid": "Q34266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.53972222,
+          40.37194444
+        ]
+      },
+      "properties": {
+        "label": "Tua Muyun mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16708766",
+        "country_qid": "Q34266"
+      }
+    }
+  ]
+}

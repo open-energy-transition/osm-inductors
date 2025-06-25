@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.024611111,
+          54.355166666
+        ]
+      },
+      "properties": {
+        "label": "BorWin beta",
+        "type": "Offshore HVDC converter platform",
+        "entity": "http://www.wikidata.org/entity/Q60159567",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.92156,
+          53.97854
+        ]
+      },
+      "properties": {
+        "label": "DolWin kappa",
+        "type": "Offshore HVDC converter platform",
+        "entity": "http://www.wikidata.org/entity/Q129014536",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.42065,
+          53.995930555
+        ]
+      },
+      "properties": {
+        "label": "DolWin gamma",
+        "type": "Offshore HVDC converter platform",
+        "entity": "http://www.wikidata.org/entity/Q60173970",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.380930555,
+          54.387819444
+        ]
+      },
+      "properties": {
+        "label": "BorWin gamma",
+        "type": "Offshore HVDC converter platform",
+        "entity": "http://www.wikidata.org/entity/Q15789376",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.02495,
+          54.354011111
+        ]
+      },
+      "properties": {
+        "label": "BorWin alpha",
+        "type": "Offshore HVDC converter platform",
+        "entity": "http://www.wikidata.org/entity/Q823183",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.241472222,
+          55.062333333
+        ]
+      },
+      "properties": {
+        "label": "SylWin alpha",
+        "type": "Offshore HVDC converter platform",
+        "entity": "http://www.wikidata.org/entity/Q60153323",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.420388888,
+          53.997166666
+        ]
+      },
+      "properties": {
+        "label": "DolWin alpha",
+        "type": "Offshore HVDC converter platform",
+        "entity": "http://www.wikidata.org/entity/Q60154705",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9235,
+          53.978194444
+        ]
+      },
+      "properties": {
+        "label": "DolWin beta",
+        "type": "Offshore HVDC converter platform",
+        "entity": "http://www.wikidata.org/entity/Q60152307",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.739919444,
+          54.452119444
+        ]
+      },
+      "properties": {
+        "label": "HelWin alpha",
+        "type": "Offshore HVDC converter platform",
+        "entity": "http://www.wikidata.org/entity/Q60150983",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.739430555,
+          54.453511111
+        ]
+      },
+      "properties": {
+        "label": "HelWin beta",
+        "type": "Offshore HVDC converter platform",
+        "entity": "http://www.wikidata.org/entity/Q60151321",
+        "country_qid": "Q183"
+      }
+    }
+  ]
+}

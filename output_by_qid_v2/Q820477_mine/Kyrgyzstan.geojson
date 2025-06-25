@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9552,
+          41.1825
+        ]
+      },
+      "properties": {
+        "label": "Makmal gold mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q29075461",
+        "country_qid": "Q813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2,
+          41.86666667
+        ]
+      },
+      "properties": {
+        "label": "Kumtor Gold Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q5923022",
+        "country_qid": "Q813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.06472,
+          41.258582
+        ]
+      },
+      "properties": {
+        "label": "Bozymchak",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q19861347",
+        "country_qid": "Q813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.099722222,
+          42.511944444
+        ]
+      },
+      "properties": {
+        "label": "Q27209462",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27209462",
+        "country_qid": "Q813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.642777777,
+          41.264722222
+        ]
+      },
+      "properties": {
+        "label": "Q27207663",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27207663",
+        "country_qid": "Q813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.195555555,
+          41.339166666
+        ]
+      },
+      "properties": {
+        "label": "Q27208626",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27208626",
+        "country_qid": "Q813"
+      }
+    }
+  ]
+}

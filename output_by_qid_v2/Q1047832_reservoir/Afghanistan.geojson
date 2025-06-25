@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.517,
+          34.402
+        ]
+      },
+      "properties": {
+        "label": "Water Reservoir of Jam",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q65953936",
+        "country_qid": "Q889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.918055555,
+          31.878333333
+        ]
+      },
+      "properties": {
+        "label": "Arghandāb Band",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21765002",
+        "country_qid": "Q889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.0329,
+          34.5552
+        ]
+      },
+      "properties": {
+        "label": "Qargha Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q7266821",
+        "country_qid": "Q889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.688333333,
+          34.65
+        ]
+      },
+      "properties": {
+        "label": "Kāsah-ye Band Naghalū",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21796992",
+        "country_qid": "Q889"
+      }
+    }
+  ]
+}

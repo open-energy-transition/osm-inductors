@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.263333333,
+          -4.484444444
+        ]
+      },
+      "properties": {
+        "label": "Mrima Mines",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27203463",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.283333333,
+          -0.96
+        ]
+      },
+      "properties": {
+        "label": "Macalder Mines",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27195610",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6075,
+          -0.802777777
+        ]
+      },
+      "properties": {
+        "label": "Kitere Copper Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27196631",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.252777777,
+          -4.486111111
+        ]
+      },
+      "properties": {
+        "label": "Mrima Hill mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q15036526",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1775,
+          -0.191666666
+        ]
+      },
+      "properties": {
+        "label": "Kerebi Gold Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27196421",
+        "country_qid": "Q114"
+      }
+    }
+  ]
+}

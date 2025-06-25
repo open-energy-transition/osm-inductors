@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.489722222,
+          4.869444444
+        ]
+      },
+      "properties": {
+        "label": "Juba Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q112609908",
+        "country_qid": "Q958"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.316,
+          2.35511
+        ]
+      },
+      "properties": {
+        "label": "Durian Tunggal Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q19458243",
+        "country_qid": "Q833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.684222222,
+          2.579944444
+        ]
+      },
+      "properties": {
+        "label": "Labong Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q96225326",
+        "country_qid": "Q833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2177,
+          6.5652
+        ]
+      },
+      "properties": {
+        "label": "Timah Tasoh Dam",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q12686069",
+        "country_qid": "Q833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8,
+          5.0
+        ]
+      },
+      "properties": {
+        "label": "Kenyir Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1420437",
+        "country_qid": "Q833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.91,
+          1.55611
+        ]
+      },
+      "properties": {
+        "label": "Sultan Iskandar Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q303881",
+        "country_qid": "Q833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.384,
+          2.44053
+        ]
+      },
+      "properties": {
+        "label": "Jus Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q12686071",
+        "country_qid": "Q833"
+      }
+    }
+  ]
+}

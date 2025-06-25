@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5909103,
+          1.6332505
+        ]
+      },
+      "properties": {
+        "label": "Djibloho Dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q16829884",
+        "country_qid": "Q983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.829722222,
+          1.554722222
+        ]
+      },
+      "properties": {
+        "label": "Sendje Hydroelectric Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q55975867",
+        "country_qid": "Q983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.719611111,
+          3.773972222
+        ]
+      },
+      "properties": {
+        "label": "Turbogas Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q56373810",
+        "country_qid": "Q983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.715451404,
+          3.785341002
+        ]
+      },
+      "properties": {
+        "label": "EG LNG",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q5323070",
+        "country_qid": "Q983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.716666666,
+          3.783333333
+        ]
+      },
+      "properties": {
+        "label": "Punta Europa Terminal",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386592",
+        "country_qid": "Q983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.566666666,
+          3.5
+        ]
+      },
+      "properties": {
+        "label": "Luba",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386594",
+        "country_qid": "Q983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.233333333,
+          1.416666666
+        ]
+      },
+      "properties": {
+        "label": "Ceiba Terminal",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386529",
+        "country_qid": "Q983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.083333333,
+          3.8
+        ]
+      },
+      "properties": {
+        "label": "Serpentina Terminal",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386531",
+        "country_qid": "Q983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.783333333,
+          3.75
+        ]
+      },
+      "properties": {
+        "label": "Malabo",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386593",
+        "country_qid": "Q983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7,
+          1.083333333
+        ]
+      },
+      "properties": {
+        "label": "Cogo",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386530",
+        "country_qid": "Q983"
+      }
+    }
+  ]
+}

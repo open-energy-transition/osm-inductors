@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.17805556,
+          49.95
+        ]
+      },
+      "properties": {
+        "label": "Vianden Pumped Storage Plant",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q328955",
+        "country_qid": "Q32"
+      }
+    }
+  ]
+}

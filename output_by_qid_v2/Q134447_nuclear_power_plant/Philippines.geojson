@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.31361111,
+          14.62916667
+        ]
+      },
+      "properties": {
+        "label": "Bataan Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q2805405",
+        "country_qid": "Q928"
+      }
+    }
+  ]
+}

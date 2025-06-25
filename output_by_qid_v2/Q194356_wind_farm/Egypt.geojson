@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.185666666,
+          28.117416666
+        ]
+      },
+      "properties": {
+        "label": "Jabal al-Zeit wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q97055107",
+        "country_qid": "Q79"
+      }
+    }
+  ]
+}

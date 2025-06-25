@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.073055555,
+          4.840555555
+        ]
+      },
+      "properties": {
+        "label": "Brokopondo Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q926100",
+        "country_qid": "Q730"
+      }
+    }
+  ]
+}

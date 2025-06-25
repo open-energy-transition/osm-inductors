@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.390879,
+          47.883734
+        ]
+      },
+      "properties": {
+        "label": "ArcelorMittal Kryvyi Rih",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q491289",
+        "country_qid": "Q212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16361111,
+          47.86472222
+        ]
+      },
+      "properties": {
+        "label": "Dneprospetsstal",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q4163253",
+        "country_qid": "Q212"
+      }
+    }
+  ]
+}

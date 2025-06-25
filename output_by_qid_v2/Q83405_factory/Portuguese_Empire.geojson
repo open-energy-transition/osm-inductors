@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.59621667,
+          -23.42566944
+        ]
+      },
+      "properties": {
+        "label": "Royal Ironworks of St John, Ipanema",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q7374874",
+        "country_qid": "Q200464"
+      }
+    }
+  ]
+}

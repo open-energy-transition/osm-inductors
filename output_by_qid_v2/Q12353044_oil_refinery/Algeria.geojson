@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.976233,
+          36.874403
+        ]
+      },
+      "properties": {
+        "label": "Skikda  Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q56033648",
+        "country_qid": "Q262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.116303,
+          36.675873
+        ]
+      },
+      "properties": {
+        "label": "Algiers Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q56053961",
+        "country_qid": "Q262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.155568,
+          28.2074
+        ]
+      },
+      "properties": {
+        "label": "Adrar Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q3417377",
+        "country_qid": "Q262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.261912,
+          35.8129
+        ]
+      },
+      "properties": {
+        "label": "Arzew Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q3417379",
+        "country_qid": "Q262"
+      }
+    }
+  ]
+}

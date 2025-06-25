@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.631944444,
+          -27.372222222
+        ]
+      },
+      "properties": {
+        "label": "Wivenhoe Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q8028691",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.291333333,
+          -35.61125
+        ]
+      },
+      "properties": {
+        "label": "Tumut 3",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q61448240",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.467,
+          -34.734
+        ]
+      },
+      "properties": {
+        "label": "Bendeela power station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q125919011",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4795,
+          -34.723
+        ]
+      },
+      "properties": {
+        "label": "Kangaroo Valley Hydroelectric Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q60643984",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.453611111,
+          -35.781388888
+        ]
+      },
+      "properties": {
+        "label": "Snowy 2.0 hydropower project",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q104847746",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7306,
+          -34.9772
+        ]
+      },
+      "properties": {
+        "label": "PRDSO WALPOLE HG1",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q133465178",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.46741667,
+          -34.73397222
+        ]
+      },
+      "properties": {
+        "label": "Q84766534",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q84766534",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.246216666,
+          -35.398527777
+        ]
+      },
+      "properties": {
+        "label": "Tumut Hydroelectric Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q1239270",
+        "country_qid": "Q408"
+      }
+    }
+  ]
+}

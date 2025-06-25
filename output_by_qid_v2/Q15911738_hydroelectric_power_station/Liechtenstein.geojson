@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.52784,
+          47.086
+        ]
+      },
+      "properties": {
+        "label": "Lawena Kraftwerk",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q21036935",
+        "country_qid": "Q347"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.524777777,
+          47.130194444
+        ]
+      },
+      "properties": {
+        "label": "Samina Kraftwerk",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q20830816",
+        "country_qid": "Q347"
+      }
+    }
+  ]
+}

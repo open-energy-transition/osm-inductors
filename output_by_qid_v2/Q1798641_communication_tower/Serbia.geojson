@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.514444444,
+          44.695833333
+        ]
+      },
+      "properties": {
+        "label": "Avala Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1258275",
+        "country_qid": "Q403"
+      }
+    }
+  ]
+}

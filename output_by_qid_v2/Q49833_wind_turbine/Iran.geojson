@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.275916666,
+          30.54725
+        ]
+      },
+      "properties": {
+        "label": "Machi Windmill",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q42874315",
+        "country_qid": "Q794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.223222222,
+          32.809472222
+        ]
+      },
+      "properties": {
+        "label": "Tabas-e Masina Windmill Complex",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q5900694",
+        "country_qid": "Q794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.101972222,
+          31.562388888
+        ]
+      },
+      "properties": {
+        "label": "Khansharaf Windmill Complex",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q5900467",
+        "country_qid": "Q794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.243916666,
+          30.55525
+        ]
+      },
+      "properties": {
+        "label": "Rostam Windmill",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q111800633",
+        "country_qid": "Q794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.042583333,
+          31.538472222
+        ]
+      },
+      "properties": {
+        "label": "Nehbandan Windmill Complex",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q42829485",
+        "country_qid": "Q794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.174722222,
+          34.432222222
+        ]
+      },
+      "properties": {
+        "label": "Nashtifan Windmill Complex",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q5884244",
+        "country_qid": "Q794"
+      }
+    }
+  ]
+}

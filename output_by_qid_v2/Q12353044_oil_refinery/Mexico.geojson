@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2719035,
+          20.0487427
+        ]
+      },
+      "properties": {
+        "label": "Tula Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q98833946",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.551111111,
+          18.016944444
+        ]
+      },
+      "properties": {
+        "label": "Refinería Lázaro Cárdenas del Río",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q96192296",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.190859049,
+          18.422002986
+        ]
+      },
+      "properties": {
+        "label": "Dos Bocas Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q107051202",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.80638889,
+          22.27027778
+        ]
+      },
+      "properties": {
+        "label": "Francisco I. Madero Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q38214236",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.195716944,
+          20.573931111
+        ]
+      },
+      "properties": {
+        "label": "Ing. Antonio M. Amor Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q107365152",
+        "country_qid": "Q96"
+      }
+    }
+  ]
+}

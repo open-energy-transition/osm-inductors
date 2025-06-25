@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.59961,
+          52.52895
+        ]
+      },
+      "properties": {
+        "label": "Q122177166",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q122177166",
+        "country_qid": "Q36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.551778,
+          53.425222
+        ]
+      },
+      "properties": {
+        "label": "Traffic control building “Grzybek”",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q110390028",
+        "country_qid": "Q36"
+      }
+    }
+  ]
+}

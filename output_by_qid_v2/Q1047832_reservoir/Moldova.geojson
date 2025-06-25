@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.812778,
+          47.018333
+        ]
+      },
+      "properties": {
+        "label": "Valea Morilor lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4103149",
+        "country_qid": "Q217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.661666666,
+          46.330555555
+        ]
+      },
+      "properties": {
+        "label": "Q108784934",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q108784934",
+        "country_qid": "Q217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.516944444,
+          46.166111111
+        ]
+      },
+      "properties": {
+        "label": "Q108784935",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q108784935",
+        "country_qid": "Q217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.966666666,
+          46.6
+        ]
+      },
+      "properties": {
+        "label": "Cuciurgan Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2651567",
+        "country_qid": "Q217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.713888888,
+          47.1
+        ]
+      },
+      "properties": {
+        "label": "Ghidighici Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2378710",
+        "country_qid": "Q217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.602333333,
+          45.948416666
+        ]
+      },
+      "properties": {
+        "label": "Tarakliyskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q30247654",
+        "country_qid": "Q217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.23333333,
+          47.85833333
+        ]
+      },
+      "properties": {
+        "label": "Q3272045",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3272045",
+        "country_qid": "Q217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.097777777,
+          47.299722222
+        ]
+      },
+      "properties": {
+        "label": "Dubăsari Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2655738",
+        "country_qid": "Q217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.625277777,
+          46.136944444
+        ]
+      },
+      "properties": {
+        "label": "Q108784932",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q108784932",
+        "country_qid": "Q217"
+      }
+    }
+  ]
+}

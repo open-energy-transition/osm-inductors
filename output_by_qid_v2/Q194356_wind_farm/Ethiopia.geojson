@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.215277777,
+          8.086111111
+        ]
+      },
+      "properties": {
+        "label": "Assela Wind Power Station",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q105394006",
+        "country_qid": "Q115"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.15,
+          13.728611111
+        ]
+      },
+      "properties": {
+        "label": "Meteorological Observatory of El Salvador",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q103582616",
+        "country_qid": "Q792"
+      }
+    }
+  ]
+}

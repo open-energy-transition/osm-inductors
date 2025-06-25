@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2306535,
+          47.9856156
+        ]
+      },
+      "properties": {
+        "label": "Haidach gas storage",
+        "type": "Energy storage (concept)",
+        "entity": "http://www.wikidata.org/entity/Q5638983",
+        "country_qid": "Q40"
+      }
+    }
+  ]
+}

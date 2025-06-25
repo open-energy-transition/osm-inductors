@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4302,
+          -0.59046
+        ]
+      },
+      "properties": {
+        "label": "Kawanda–Birembo High Voltage Power Line",
+        "type": "Overhead power line",
+        "entity": "http://www.wikidata.org/entity/Q48790211",
+        "country_qid": "Q1037"
+      }
+    }
+  ]
+}

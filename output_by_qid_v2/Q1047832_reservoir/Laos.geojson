@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.63882,
+          18.56476
+        ]
+      },
+      "properties": {
+        "label": "Angkep Nam Ngum",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34876542",
+        "country_qid": "Q819"
+      }
+    }
+  ]
+}

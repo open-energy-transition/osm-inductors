@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.918732,
+          40.406794
+        ]
+      },
+      "properties": {
+        "label": "Heydar Aliyev Baku Oil Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q55704222",
+        "country_qid": "Q227"
+      }
+    }
+  ]
+}

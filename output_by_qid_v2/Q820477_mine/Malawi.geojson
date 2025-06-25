@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.69805556,
+          -9.99277778
+        ]
+      },
+      "properties": {
+        "label": "Kayelekera mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q1737433",
+        "country_qid": "Q1020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.669577,
+          -12.697868
+        ]
+      },
+      "properties": {
+        "label": "Kanyika mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16975924",
+        "country_qid": "Q1020"
+      }
+    }
+  ]
+}

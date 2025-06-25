@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.573905903,
+          35.709476011
+        ]
+      },
+      "properties": {
+        "label": "Science Saru",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q28691323",
+        "country_qid": "Q1490"
+      }
+    }
+  ]
+}

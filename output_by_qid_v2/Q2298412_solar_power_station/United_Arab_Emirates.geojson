@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.391635555,
+          24.752773263
+        ]
+      },
+      "properties": {
+        "label": "Mohammed bin Rashid Al Maktoum Solar Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q28040249",
+        "country_qid": "Q878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.71388889,
+          23.56944444
+        ]
+      },
+      "properties": {
+        "label": "Shams solar power station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q115609",
+        "country_qid": "Q878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.443805555,
+          24.542583333
+        ]
+      },
+      "properties": {
+        "label": "Noor Abu Dhabi Solar Power plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q106982116",
+        "country_qid": "Q878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.512459,
+          24.137871
+        ]
+      },
+      "properties": {
+        "label": "Al Dhafra solar farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q117600322",
+        "country_qid": "Q878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4456887,
+          24.5427193
+        ]
+      },
+      "properties": {
+        "label": "Noor Abu Dhabi",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q65519315",
+        "country_qid": "Q878"
+      }
+    }
+  ]
+}

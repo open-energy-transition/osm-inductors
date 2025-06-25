@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.155,
+          -6.85833333
+        ]
+      },
+      "properties": {
+        "label": "Kinyerezi I Thermal Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q55394399",
+        "country_qid": "Q924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.28333333,
+          -8.41666667
+        ]
+      },
+      "properties": {
+        "label": "Somanga Thermal Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q28403531",
+        "country_qid": "Q924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.03861111,
+          -10.25972222
+        ]
+      },
+      "properties": {
+        "label": "Mtwara Thermal Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q25247678",
+        "country_qid": "Q924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.15083333,
+          -6.85888889
+        ]
+      },
+      "properties": {
+        "label": "Kinyerezi II Thermal Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q55074861",
+        "country_qid": "Q924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.18419444,
+          -6.67416667
+        ]
+      },
+      "properties": {
+        "label": "Tegeta Thermal Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q25247677",
+        "country_qid": "Q924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.20847222,
+          -6.79444444
+        ]
+      },
+      "properties": {
+        "label": "Ubungo II Thermal Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q20746331",
+        "country_qid": "Q924"
+      }
+    }
+  ]
+}

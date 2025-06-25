@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.656,
+          -33.44466667
+        ]
+      },
+      "properties": {
+        "label": "Torre Entel",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1421270",
+        "country_qid": "Q298"
+      }
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.283333333,
+          37.466666666
+        ]
+      },
+      "properties": {
+        "label": "Zeid reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4190146",
+        "country_qid": "Q874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.008888888,
+          38.015
+        ]
+      },
+      "properties": {
+        "label": "Vodokhranilishche Saparaly",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933551",
+        "country_qid": "Q874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.63975,
+          36.40374
+        ]
+      },
+      "properties": {
+        "label": "Q131764662",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q131764662",
+        "country_qid": "Q874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.318913082,
+          37.204127494
+        ]
+      },
+      "properties": {
+        "label": "Hanhowuz Howdany Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q134889689",
+        "country_qid": "Q874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.866666666,
+          38.25
+        ]
+      },
+      "properties": {
+        "label": "Q4232312",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4232312",
+        "country_qid": "Q874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.5235,
+          38.1621
+        ]
+      },
+      "properties": {
+        "label": "Talimarjan sardoba",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q18409293",
+        "country_qid": "Q874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.373888888,
+          38.033333333
+        ]
+      },
+      "properties": {
+        "label": "Gurtly Suwhowdany",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34888298",
+        "country_qid": "Q874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.074166666,
+          37.788333333
+        ]
+      },
+      "properties": {
+        "label": "Vodokhranilishche Karaeser",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933467",
+        "country_qid": "Q874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.62404,
+          38.69055
+        ]
+      },
+      "properties": {
+        "label": "Vodokhranilishche Erenkhauz",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34933444",
+        "country_qid": "Q874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.291666666,
+          37.413055555
+        ]
+      },
+      "properties": {
+        "label": "Nizhne-Gindukushskoye Vodokhranilishche",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34911163",
+        "country_qid": "Q874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.783333333,
+          40.733333333
+        ]
+      },
+      "properties": {
+        "label": "Golden Age Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1876436",
+        "country_qid": "Q874"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.393055555,
+          -2.188888888
+        ]
+      },
+      "properties": {
+        "label": "Q49437615",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q49437615",
+        "country_qid": "Q1037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.342222222,
+          -2.188888888
+        ]
+      },
+      "properties": {
+        "label": "Bisesero",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q31916197",
+        "country_qid": "Q1037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.654166666,
+          -1.921388888
+        ]
+      },
+      "properties": {
+        "label": "Buranga pegmatite",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q29798159",
+        "country_qid": "Q1037"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.003333333,
+          36.014166666
+        ]
+      },
+      "properties": {
+        "label": "Barrage Sidi Abed",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23837378",
+        "country_qid": "Q262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.593055555,
+          35.565833333
+        ]
+      },
+      "properties": {
+        "label": "Barrage Sidi Mohamed Benaouda",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23831931",
+        "country_qid": "Q262"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8702,
+          61.4861
+        ]
+      },
+      "properties": {
+        "label": "Botnur power plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q3445129",
+        "country_qid": "Q4628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0725,
+          62.28111111
+        ]
+      },
+      "properties": {
+        "label": "Eiði power plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q17769372",
+        "country_qid": "Q4628"
+      }
+    }
+  ]
+}

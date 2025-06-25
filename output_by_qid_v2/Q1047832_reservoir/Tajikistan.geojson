@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.14527,
+          39.90261
+        ]
+      },
+      "properties": {
+        "label": "Obanbori Dahanasoy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34912055",
+        "country_qid": "Q863"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.992777777,
+          39.842222222
+        ]
+      },
+      "properties": {
+        "label": "Obanbori Kattasoy",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34912068",
+        "country_qid": "Q863"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.06,
+          40.29
+        ]
+      },
+      "properties": {
+        "label": "Kayrakkum Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q668883",
+        "country_qid": "Q863"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.9504,
+          37.8884
+        ]
+      },
+      "properties": {
+        "label": "Sarband reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q56057652",
+        "country_qid": "Q863"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.528888888,
+          37.864722222
+        ]
+      },
+      "properties": {
+        "label": "Obanbori Selbur",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q12151844",
+        "country_qid": "Q863"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.361944444,
+          38.331944444
+        ]
+      },
+      "properties": {
+        "label": "Nurek Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q13554267",
+        "country_qid": "Q863"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.99439,
+          38.09378
+        ]
+      },
+      "properties": {
+        "label": "Obanbori Mŭ'minobod",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34912081",
+        "country_qid": "Q863"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.148611111,
+          38.308305555
+        ]
+      },
+      "properties": {
+        "label": "Q56057649",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q56057649",
+        "country_qid": "Q863"
+      }
+    }
+  ]
+}

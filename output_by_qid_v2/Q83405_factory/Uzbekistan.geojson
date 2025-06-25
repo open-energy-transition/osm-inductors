@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.21627,
+          41.26465
+        ]
+      },
+      "properties": {
+        "label": "Ma'dan al-Shash",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430644",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.21627,
+          41.26465
+        ]
+      },
+      "properties": {
+        "label": "al-Shash",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431757",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.9425,
+          40.52861
+        ]
+      },
+      "properties": {
+        "label": "Khoqand",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430514",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.42861,
+          39.77472
+        ]
+      },
+      "properties": {
+        "label": "Bukhara",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127429798",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.95972,
+          39.65417
+        ]
+      },
+      "properties": {
+        "label": "Madinat Samarqand",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430659",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.95972,
+          39.65417
+        ]
+      },
+      "properties": {
+        "label": "Samarqand",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431180",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.27833,
+          37.22417
+        ]
+      },
+      "properties": {
+        "label": "Termez",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431393",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.21627,
+          41.26465
+        ]
+      },
+      "properties": {
+        "label": "Tashkent",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431366",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.42861,
+          39.77472
+        ]
+      },
+      "properties": {
+        "label": "Madinat Bukhara",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430652",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.249178,
+          41.355113
+        ]
+      },
+      "properties": {
+        "label": "Mikond",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q132190688",
+        "country_qid": "Q265"
+      }
+    }
+  ]
+}

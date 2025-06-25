@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.078916666,
+          -22.514
+        ]
+      },
+      "properties": {
+        "label": "Van Eck Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q56373999",
+        "country_qid": "Q1030"
+      }
+    }
+  ]
+}

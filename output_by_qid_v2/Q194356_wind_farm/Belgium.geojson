@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.09027778,
+          51.09916667
+        ]
+      },
+      "properties": {
+        "label": "Nike Laakdal Wind Park",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q1990107",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.966863,
+          51.5516401
+        ]
+      },
+      "properties": {
+        "label": "Thorntonbank Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q374972",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.833888888,
+          51.663055555
+        ]
+      },
+      "properties": {
+        "label": "Nobelwind offshore wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q27926309",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.032,
+          51.528
+        ]
+      },
+      "properties": {
+        "label": "Norther Offshore Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q28401507",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8601359,
+          51.6333089
+        ]
+      },
+      "properties": {
+        "label": "Seastar offshore wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q18088030",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.08348,
+          50.4196
+        ]
+      },
+      "properties": {
+        "label": "Q2334784",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q2334784",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7357672,
+          51.7199037
+        ]
+      },
+      "properties": {
+        "label": "Mermaid offshore wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q106313857",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7488135,
+          51.6874567
+        ]
+      },
+      "properties": {
+        "label": "Northwester 2 offshore wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q97166916",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8,
+          51.66
+        ]
+      },
+      "properties": {
+        "label": "Belwind",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q3364822",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9,
+          51.616666666
+        ]
+      },
+      "properties": {
+        "label": "Northwind offshore wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q21004443",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.944,
+          51.591
+        ]
+      },
+      "properties": {
+        "label": "Rentel Offshore Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q18088175",
+        "country_qid": "Q31"
+      }
+    }
+  ]
+}

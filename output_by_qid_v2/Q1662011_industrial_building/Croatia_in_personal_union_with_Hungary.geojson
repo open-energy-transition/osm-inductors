@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9023136,
+          44.9906467
+        ]
+      },
+      "properties": {
+        "label": "Q20526324",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q20526324",
+        "country_qid": "Q1789596"
+      }
+    }
+  ]
+}

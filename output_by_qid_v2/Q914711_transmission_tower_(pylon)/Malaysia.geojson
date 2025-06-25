@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.664,
+          3.1169
+        ]
+      },
+      "properties": {
+        "label": "Kerinchi Pylon",
+        "type": "Transmission tower (pylon)",
+        "entity": "http://www.wikidata.org/entity/Q6393909",
+        "country_qid": "Q833"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.755885227,
+          61.503012627
+        ]
+      },
+      "properties": {
+        "label": "Q83366521",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q83366521",
+        "country_qid": "Q3279296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.756724138,
+          61.492977527
+        ]
+      },
+      "properties": {
+        "label": "Q78762814",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q78762814",
+        "country_qid": "Q3279296"
+      }
+    }
+  ]
+}

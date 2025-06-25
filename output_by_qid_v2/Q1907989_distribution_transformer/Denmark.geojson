@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5685,
+          55.6715
+        ]
+      },
+      "properties": {
+        "label": "Western Power Station",
+        "type": "Distribution transformer",
+        "entity": "http://www.wikidata.org/entity/Q75827794",
+        "country_qid": "Q35"
+      }
+    }
+  ]
+}

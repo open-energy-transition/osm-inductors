@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.988276,
+          37.551216
+        ]
+      },
+      "properties": {
+        "label": "N Seoul Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q69134",
+        "country_qid": "Q884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.56644444,
+          35.85338889
+        ]
+      },
+      "properties": {
+        "label": "83 Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q2472610",
+        "country_qid": "Q884"
+      }
+    }
+  ]
+}

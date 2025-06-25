@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.87222222,
+          45.07222222
+        ]
+      },
+      "properties": {
+        "label": "Caorso Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1739370",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.277555555,
+          45.184166666
+        ]
+      },
+      "properties": {
+        "label": "Enrico Fermi Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1626301",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.808056,
+          41.427222
+        ]
+      },
+      "properties": {
+        "label": "CIRENE",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1528979",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.19388889,
+          45.25166667
+        ]
+      },
+      "properties": {
+        "label": "Q3664533",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q3664533",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.83472222,
+          41.25833333
+        ]
+      },
+      "properties": {
+        "label": "Garigliano Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1724901",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5314,
+          42.3588
+        ]
+      },
+      "properties": {
+        "label": "Montalto di Castro Nuclear Power Station",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q615128",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.807,
+          41.425277777
+        ]
+      },
+      "properties": {
+        "label": "Latina Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1739429",
+        "country_qid": "Q38"
+      }
+    }
+  ]
+}

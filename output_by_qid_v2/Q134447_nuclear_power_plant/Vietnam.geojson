@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.97472222,
+          11.41333333
+        ]
+      },
+      "properties": {
+        "label": "Ninh Thuận 1 Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q7038787",
+        "country_qid": "Q881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.17527778,
+          11.69055556
+        ]
+      },
+      "properties": {
+        "label": "Ninh Thuận 2 Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q7038783",
+        "country_qid": "Q881"
+      }
+    }
+  ]
+}

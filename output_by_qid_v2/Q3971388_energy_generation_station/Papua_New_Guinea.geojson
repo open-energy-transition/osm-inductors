@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.043527777,
+          -9.322472222
+        ]
+      },
+      "properties": {
+        "label": "Port Moresby Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q106362947",
+        "country_qid": "Q691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.667611111,
+          -7.112777777
+        ]
+      },
+      "properties": {
+        "label": "Baime Hydro Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q123291594",
+        "country_qid": "Q691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.303861111,
+          -5.340527777
+        ]
+      },
+      "properties": {
+        "label": "Q61448283",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q61448283",
+        "country_qid": "Q691"
+      }
+    }
+  ]
+}

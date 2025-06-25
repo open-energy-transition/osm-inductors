@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.12208336,
+          46.147475029
+        ]
+      },
+      "properties": {
+        "label": "Serra di San Giorgio",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q106625323",
+        "country_qid": "Q38"
+      }
+    }
+  ]
+}

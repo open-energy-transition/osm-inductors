@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4963,
+          52.6188
+        ]
+      },
+      "properties": {
+        "label": "NEL pipeline",
+        "type": "Natural gas pipeline",
+        "entity": "http://www.wikidata.org/entity/Q324732",
+        "country_qid": "Q183"
+      }
+    }
+  ]
+}

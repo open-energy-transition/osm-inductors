@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.38305556,
+          6.31027778
+        ]
+      },
+      "properties": {
+        "label": "Chirano Gold Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q5101849",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.01358,
+          5.31839
+        ]
+      },
+      "properties": {
+        "label": "Tarkwa mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16734143",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.356042,
+          7.012475
+        ]
+      },
+      "properties": {
+        "label": "Ahafo mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16002117",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.84433,
+          5.51017
+        ]
+      },
+      "properties": {
+        "label": "Damang mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16733450",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8,
+          5.68333
+        ]
+      },
+      "properties": {
+        "label": "Sewum Mines",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q24696341",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.691666666,
+          6.148055555
+        ]
+      },
+      "properties": {
+        "label": "Obuasi Gold Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q7075577",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.83768,
+          5.51983
+        ]
+      },
+      "properties": {
+        "label": "Damang",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q109395350",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.727444444,
+          6.009
+        ]
+      },
+      "properties": {
+        "label": "Kubi gold mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q110800044",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.98333333,
+          5.3
+        ]
+      },
+      "properties": {
+        "label": "Iduapriem Gold Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q15045844",
+        "country_qid": "Q117"
+      }
+    }
+  ]
+}

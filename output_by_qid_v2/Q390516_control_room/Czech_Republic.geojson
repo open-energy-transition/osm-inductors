@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3904467,
+          50.0780514
+        ]
+      },
+      "properties": {
+        "label": "Q109518278",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q109518278",
+        "country_qid": "Q213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3812408,
+          50.0858642
+        ]
+      },
+      "properties": {
+        "label": "Multifunkční operační středisko Malovanka",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q110288322",
+        "country_qid": "Q213"
+      }
+    }
+  ]
+}

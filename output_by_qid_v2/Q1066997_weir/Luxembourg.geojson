@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1368573,
+          49.607652
+        ]
+      },
+      "properties": {
+        "label": "Grund Lock",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q16763637",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.43858,
+          49.67259
+        ]
+      },
+      "properties": {
+        "label": "Q13105102",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q13105102",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.36668,
+          49.46697
+        ]
+      },
+      "properties": {
+        "label": "Écluse d'Apach-Schengen",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q13105104",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.36499,
+          49.56767
+        ]
+      },
+      "properties": {
+        "label": "Staustuf Stadbriedemes-Palzem",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q13105109",
+        "country_qid": "Q32"
+      }
+    }
+  ]
+}

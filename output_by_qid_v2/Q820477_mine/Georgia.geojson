@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.393472,
+          41.386561
+        ]
+      },
+      "properties": {
+        "label": "Sakdrisi",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q17081159",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.283333333,
+          42.25
+        ]
+      },
+      "properties": {
+        "label": "Chiatura mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q17007079",
+        "country_qid": "Q230"
+      }
+    }
+  ]
+}

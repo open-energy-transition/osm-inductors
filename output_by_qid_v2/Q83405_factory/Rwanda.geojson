@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.413,
+          -1.9453
+        ]
+      },
+      "properties": {
+        "label": "Rutsiro Tea Factory",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q115155487",
+        "country_qid": "Q1037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.433,
+          -2.551
+        ]
+      },
+      "properties": {
+        "label": "Kitabi Tea Factory",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q123128641",
+        "country_qid": "Q1037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5044,
+          -1.7769
+        ]
+      },
+      "properties": {
+        "label": "Rubaya Tea Factory",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q124477088",
+        "country_qid": "Q1037"
+      }
+    }
+  ]
+}

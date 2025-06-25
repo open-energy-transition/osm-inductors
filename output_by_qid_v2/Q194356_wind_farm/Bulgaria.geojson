@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.66527778,
+          42.83027778
+        ]
+      },
+      "properties": {
+        "label": "Murgash Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q6938450",
+        "country_qid": "Q219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.592777777,
+          43.374444444
+        ]
+      },
+      "properties": {
+        "label": "Eolica Varna Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q5381779",
+        "country_qid": "Q219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.471666666,
+          43.45
+        ]
+      },
+      "properties": {
+        "label": "Saint Nikola Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q6379130",
+        "country_qid": "Q219"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.050154,
+          47.577905
+        ]
+      },
+      "properties": {
+        "label": "MAVIR",
+        "type": "transmission system operator (TSO)",
+        "entity": "http://www.wikidata.org/entity/Q88272702",
+        "country_qid": "Q28"
+      }
+    }
+  ]
+}

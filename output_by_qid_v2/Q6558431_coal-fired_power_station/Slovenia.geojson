@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5454448,
+          46.0576188
+        ]
+      },
+      "properties": {
+        "label": "Ljubljana Thermal Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1601480",
+        "country_qid": "Q215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0614,
+          46.1258
+        ]
+      },
+      "properties": {
+        "label": "Trbovlje Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q12804020",
+        "country_qid": "Q215"
+      }
+    }
+  ]
+}

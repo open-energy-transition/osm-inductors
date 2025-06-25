@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.15,
+          15.766666666
+        ]
+      },
+      "properties": {
+        "label": "Minas Saquipec",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q25174906",
+        "country_qid": "Q774"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.321111111,
+          16.035277777
+        ]
+      },
+      "properties": {
+        "label": "Balastera",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q25186323",
+        "country_qid": "Q774"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6921,
+          15.2338
+        ]
+      },
+      "properties": {
+        "label": "Marlin Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q6771873",
+        "country_qid": "Q774"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.833055555,
+          15.383055555
+        ]
+      },
+      "properties": {
+        "label": "Uspantán mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q17037305",
+        "country_qid": "Q774"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.389722222,
+          15.526111111
+        ]
+      },
+      "properties": {
+        "label": "Fenix mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16963874",
+        "country_qid": "Q774"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.389722222,
+          15.526111111
+        ]
+      },
+      "properties": {
+        "label": "El Estor mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16999490",
+        "country_qid": "Q774"
+      }
+    }
+  ]
+}

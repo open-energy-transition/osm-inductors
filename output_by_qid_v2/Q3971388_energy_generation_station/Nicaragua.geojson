@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0514477,
+          13.1065331
+        ]
+      },
+      "properties": {
+        "label": "Central America Hydroelectric Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q117749778",
+        "country_qid": "Q811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.407,
+          13.0086
+        ]
+      },
+      "properties": {
+        "label": "Tumarín Dam",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q17103523",
+        "country_qid": "Q811"
+      }
+    }
+  ]
+}

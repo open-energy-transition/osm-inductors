@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.45545,
+          50.85229
+        ]
+      },
+      "properties": {
+        "label": "Descente de la Dunette",
+        "type": "Frontage road (service road)",
+        "entity": "http://www.wikidata.org/entity/Q108098123",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.45998,
+          50.85042
+        ]
+      },
+      "properties": {
+        "label": "Voie Montefiore",
+        "type": "Frontage road (service road)",
+        "entity": "http://www.wikidata.org/entity/Q108098779",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.46003,
+          50.85117
+        ]
+      },
+      "properties": {
+        "label": "Voie Minckeleers",
+        "type": "Frontage road (service road)",
+        "entity": "http://www.wikidata.org/entity/Q108098774",
+        "country_qid": "Q31"
+      }
+    }
+  ]
+}

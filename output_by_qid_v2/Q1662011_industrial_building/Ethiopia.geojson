@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.12566667,
+          9.30170278
+        ]
+      },
+      "properties": {
+        "label": "Harar Brewery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q5654196",
+        "country_qid": "Q115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.721522,
+          14.125005
+        ]
+      },
+      "properties": {
+        "label": "Axum",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127429695",
+        "country_qid": "Q115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.721944444,
+          6.9075
+        ]
+      },
+      "properties": {
+        "label": "Wolayta Sodo Converter Station",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q56083538",
+        "country_qid": "Q115"
+      }
+    }
+  ]
+}

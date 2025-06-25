@@ -1,0 +1,933 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.25,
+          6.76
+        ]
+      },
+      "properties": {
+        "label": "Q3215243",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3215243",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94,
+          3.69
+        ]
+      },
+      "properties": {
+        "label": "Q3214727",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3214727",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.512,
+          4.713
+        ]
+      },
+      "properties": {
+        "label": "Q3215645",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3215645",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.248,
+          4.516
+        ]
+      },
+      "properties": {
+        "label": "Q3215646",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3215646",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.258,
+          9.92
+        ]
+      },
+      "properties": {
+        "label": "lac Arroyo Matuya",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3214718",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.618333333,
+          4.994722222
+        ]
+      },
+      "properties": {
+        "label": "Represa Comeguada",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23714395",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.866,
+          6.228
+        ]
+      },
+      "properties": {
+        "label": "Q3215147",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3215147",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.466666666,
+          7.516666666
+        ]
+      },
+      "properties": {
+        "label": "Represa Guayacanes",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23690126",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7165,
+          5.07092
+        ]
+      },
+      "properties": {
+        "label": "Represa del Sisga",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6105906",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.503055555,
+          6.295
+        ]
+      },
+      "properties": {
+        "label": "Represa Piedras Blancas",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23727448",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.718,
+          5.075
+        ]
+      },
+      "properties": {
+        "label": "Q3215649",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3215649",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.01,
+          6.39
+        ]
+      },
+      "properties": {
+        "label": "Embalse de San Lorenzo",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23704131",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.855,
+          3.771111111
+        ]
+      },
+      "properties": {
+        "label": "Embalse del Río Prado",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23689017",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.279444444,
+          1.107222222
+        ]
+      },
+      "properties": {
+        "label": "Embalse Río Bobo",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23719884",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19,
+          6.261
+        ]
+      },
+      "properties": {
+        "label": "Embalse del Peñol",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3214861",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.29,
+          7.94
+        ]
+      },
+      "properties": {
+        "label": "Q3215569",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3215569",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9925,
+          4.707222222
+        ]
+      },
+      "properties": {
+        "label": "Embalse San Rafael",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23725936",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.605833333,
+          6.361944444
+        ]
+      },
+      "properties": {
+        "label": "Represa La García",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23727412",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.954166666,
+          4.970277777
+        ]
+      },
+      "properties": {
+        "label": "Represa Tibitó",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q25511140",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2,
+          5.608
+        ]
+      },
+      "properties": {
+        "label": "Q3214995",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3214995",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98333333,
+          5.15
+        ]
+      },
+      "properties": {
+        "label": "Embalse del Neusa",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q16561626",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.84,
+          4.954
+        ]
+      },
+      "properties": {
+        "label": "Tominé Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3215650",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.24,
+          3.771944444
+        ]
+      },
+      "properties": {
+        "label": "Represa Pichichí",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23706796",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.960555555,
+          6.3175
+        ]
+      },
+      "properties": {
+        "label": "Embalse de Las Playas",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23704129",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96,
+          5.153
+        ]
+      },
+      "properties": {
+        "label": "Q3215647",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3215647",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.142,
+          4.4
+        ]
+      },
+      "properties": {
+        "label": "Q3214999",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3214999",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.03,
+          10.51
+        ]
+      },
+      "properties": {
+        "label": "Q3214914",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3214914",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.542155299,
+          5.456369683
+        ]
+      },
+      "properties": {
+        "label": "Q129665650",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q129665650",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.209,
+          4.286
+        ]
+      },
+      "properties": {
+        "label": "Q3215021",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3215021",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3175,
+          6.76722
+        ]
+      },
+      "properties": {
+        "label": "Embalse Miraflores",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23686523",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.496,
+          6.103
+        ]
+      },
+      "properties": {
+        "label": "Embalse La Fe",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3214996",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.335,
+          2.834
+        ]
+      },
+      "properties": {
+        "label": "Q3214857",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3214857",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.723,
+          4.623
+        ]
+      },
+      "properties": {
+        "label": "Q3214808",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3214808",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.173,
+          4.385
+        ]
+      },
+      "properties": {
+        "label": "Q3214802",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3214802",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.858,
+          3.777
+        ]
+      },
+      "properties": {
+        "label": "Q2378011",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2378011",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.465,
+          6.5122
+        ]
+      },
+      "properties": {
+        "label": "Q3215158",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3215158",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17139,
+          4.38417
+        ]
+      },
+      "properties": {
+        "label": "Embalse El Hato",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q16561632",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.326944444,
+          4.95
+        ]
+      },
+      "properties": {
+        "label": "Embalse de Chivor",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23703495",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.50885833,
+          4.6943
+        ]
+      },
+      "properties": {
+        "label": "Guavio Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q251301",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1295,
+          6.78582
+        ]
+      },
+      "properties": {
+        "label": "Q17347113",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q17347113",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.606,
+          6.362
+        ]
+      },
+      "properties": {
+        "label": "Q3214997",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3214997",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.095277777,
+          10.451388888
+        ]
+      },
+      "properties": {
+        "label": "Embalse Guajaro",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23715865",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.491666666,
+          3.891666666
+        ]
+      },
+      "properties": {
+        "label": "Calima Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3133513",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.705,
+          4.6025
+        ]
+      },
+      "properties": {
+        "label": "Embalse de Chuza",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23726464",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.883055555,
+          6.244166666
+        ]
+      },
+      "properties": {
+        "label": "Embalse Punchina",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23704121",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.697,
+          2.88
+        ]
+      },
+      "properties": {
+        "label": "Lake Salvajina",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q59316932",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.31,
+          9.88
+        ]
+      },
+      "properties": {
+        "label": "Q3214716",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3214716",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.54722222,
+          1.04027778
+        ]
+      },
+      "properties": {
+        "label": "Q489988",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q489988",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.141388888,
+          4.399166666
+        ]
+      },
+      "properties": {
+        "label": "Represa de La Regadera",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23700673",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8675,
+          3.533333333
+        ]
+      },
+      "properties": {
+        "label": "Represa Alto Anchicayá",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3214705",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.253888888,
+          4.516944444
+        ]
+      },
+      "properties": {
+        "label": "Embalse del Muña",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23686961",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5175,
+          3.884722222
+        ]
+      },
+      "properties": {
+        "label": "Represa de Calima",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23715377",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.889444444,
+          5.558333333
+        ]
+      },
+      "properties": {
+        "label": "Amaní Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q135056791",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.44,
+          2.685
+        ]
+      },
+      "properties": {
+        "label": "Lake Betania",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3215366",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.502,
+          6.295
+        ]
+      },
+      "properties": {
+        "label": "Q2363018",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2363018",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.478888888,
+          3.903333333
+        ]
+      },
+      "properties": {
+        "label": "Represa de Calima",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23706500",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.993,
+          4.704
+        ]
+      },
+      "properties": {
+        "label": "San Rafael Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3215187",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.32,
+          6.765
+        ]
+      },
+      "properties": {
+        "label": "Q3215059",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3215059",
+        "country_qid": "Q739"
+      }
+    }
+  ]
+}

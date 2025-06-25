@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.205555555,
+          51.8
+        ]
+      },
+      "properties": {
+        "label": "Solar II",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q28669045",
+        "country_qid": "Q184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.366666666,
+          52.341666666
+        ]
+      },
+      "properties": {
+        "label": "Q54512454",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q54512454",
+        "country_qid": "Q184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.634722222,
+          54.965277777
+        ]
+      },
+      "properties": {
+        "label": "Q28669046",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q28669046",
+        "country_qid": "Q184"
+      }
+    }
+  ]
+}

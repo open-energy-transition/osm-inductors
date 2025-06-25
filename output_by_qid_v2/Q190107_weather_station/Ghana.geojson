@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.11667,
+          6.1
+        ]
+      },
+      "properties": {
+        "label": "Akuse",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q134554503",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.46667,
+          6.6
+        ]
+      },
+      "properties": {
+        "label": "Ho",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q134554502",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.23333,
+          4.86667
+        ]
+      },
+      "properties": {
+        "label": "Axim",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q134554509",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.48333,
+          9.03333
+        ]
+      },
+      "properties": {
+        "label": "Bole",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q134554508",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.06667,
+          5.2
+        ]
+      },
+      "properties": {
+        "label": "Saltpond",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q134554505",
+        "country_qid": "Q117"
+      }
+    }
+  ]
+}

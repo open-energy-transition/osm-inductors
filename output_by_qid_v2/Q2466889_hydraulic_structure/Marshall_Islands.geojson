@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.47475,
+          9.08773
+        ]
+      },
+      "properties": {
+        "label": "Illeginni port",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27577758",
+        "country_qid": "Q709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.5807,
+          8.98317
+        ]
+      },
+      "properties": {
+        "label": "Legan port",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27577756",
+        "country_qid": "Q709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.734238938,
+          8.732079989
+        ]
+      },
+      "properties": {
+        "label": "Kwajalein",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386762",
+        "country_qid": "Q709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.72786,
+          9.09747
+        ]
+      },
+      "properties": {
+        "label": "Gellinam port",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27577766",
+        "country_qid": "Q709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.383333333,
+          7.083333333
+        ]
+      },
+      "properties": {
+        "label": "Majuro Atoll",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111387159",
+        "country_qid": "Q709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.741944444,
+          9.048055555
+        ]
+      },
+      "properties": {
+        "label": "Omelek port",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27577765",
+        "country_qid": "Q709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.61865,
+          8.79963
+        ]
+      },
+      "properties": {
+        "label": "Ennylabegan Port",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27577744",
+        "country_qid": "Q709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.333333333,
+          11.333333333
+        ]
+      },
+      "properties": {
+        "label": "Enitwetak Island",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386761",
+        "country_qid": "Q709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.74137,
+          8.8482
+        ]
+      },
+      "properties": {
+        "label": "Gugegwe Port",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27577745",
+        "country_qid": "Q709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.53719,
+          9.28613
+        ]
+      },
+      "properties": {
+        "label": "Gagan port",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27577768",
+        "country_qid": "Q709"
+      }
+    }
+  ]
+}

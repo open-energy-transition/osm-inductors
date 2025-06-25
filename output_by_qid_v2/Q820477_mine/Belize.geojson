@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.45015,
+          17.38758
+        ]
+      },
+      "properties": {
+        "label": "Rockville Quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21867350",
+        "country_qid": "Q242"
+      }
+    }
+  ]
+}

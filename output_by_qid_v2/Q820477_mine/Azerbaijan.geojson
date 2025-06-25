@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.971666666,
+          40.234444444
+        ]
+      },
+      "properties": {
+        "label": "Zod gold mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q1133665",
+        "country_qid": "Q227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.56,
+          38.923
+        ]
+      },
+      "properties": {
+        "label": "Vezhnali gold mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q107585281",
+        "country_qid": "Q227"
+      }
+    }
+  ]
+}

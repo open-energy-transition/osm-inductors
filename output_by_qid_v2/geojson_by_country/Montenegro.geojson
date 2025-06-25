@@ -1,0 +1,357 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.32694444,
+          43.33397222
+        ]
+      },
+      "properties": {
+        "label": "Pljevlja Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q7205045",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2007005,
+          41.980682
+        ]
+      },
+      "properties": {
+        "label": "Možura Wind Farm",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q105975515",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.065277777,
+          42.599444444
+        ]
+      },
+      "properties": {
+        "label": "Hidroelektrana Slap Zete",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q27565561",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.995555555,
+          42.671666666
+        ]
+      },
+      "properties": {
+        "label": "Perućica hydro power plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q27565724",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.844444444,
+          43.274444444
+        ]
+      },
+      "properties": {
+        "label": "Hidroelektrana Mratinje",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q27561214",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.117,
+          42.8738
+        ]
+      },
+      "properties": {
+        "label": "Krnovo Wind Farm",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q97193445",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.998888888,
+          42.666944444
+        ]
+      },
+      "properties": {
+        "label": "Hidroelektrana Glava Zete",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q27565723",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.842277777,
+          43.272722222
+        ]
+      },
+      "properties": {
+        "label": "Piva hydro power plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q30974244",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.86666667,
+          43.16666667
+        ]
+      },
+      "properties": {
+        "label": "Lake Piva",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2097502",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.892222222,
+          42.800555555
+        ]
+      },
+      "properties": {
+        "label": "Lake Krupac",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q31185976",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8382561,
+          42.7610335
+        ]
+      },
+      "properties": {
+        "label": "Lake Slano",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q11191843",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7,
+          42.433333333
+        ]
+      },
+      "properties": {
+        "label": "Tivat",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111387620",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.841667,
+          43.272222
+        ]
+      },
+      "properties": {
+        "label": "Mratinje Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q1546929",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.69166667,
+          42.43333333
+        ]
+      },
+      "properties": {
+        "label": "Porto Montenegro",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q1953470",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7,
+          42.516666666
+        ]
+      },
+      "properties": {
+        "label": "Risan",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111387628",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.766666666,
+          42.416666666
+        ]
+      },
+      "properties": {
+        "label": "Kotor",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111387629",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.084111111,
+          42.093583333
+        ]
+      },
+      "properties": {
+        "label": "Port of Bar",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q7231081",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.09132,
+          42.09701
+        ]
+      },
+      "properties": {
+        "label": "Bar Port",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27572626",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.695,
+          42.514722
+        ]
+      },
+      "properties": {
+        "label": "Rhizon",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127431128",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.568055555,
+          42.833055555
+        ]
+      },
+      "properties": {
+        "label": "Q27567525",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27567525",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.614166666,
+          42.952777777
+        ]
+      },
+      "properties": {
+        "label": "Brskovo",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27567580",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3525,
+          43.351333333
+        ]
+      },
+      "properties": {
+        "label": "Rudnik Pljevlja",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q30206331",
+        "country_qid": "Q236"
+      }
+    }
+  ]
+}

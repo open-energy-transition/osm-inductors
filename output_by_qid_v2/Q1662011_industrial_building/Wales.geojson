@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7517,
+          51.8359
+        ]
+      },
+      "properties": {
+        "label": "Monnow Valley Studio",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q15255232",
+        "country_qid": "Q25"
+      }
+    }
+  ]
+}

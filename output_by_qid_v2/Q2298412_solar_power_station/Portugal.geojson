@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.20222222,
+          38.18888889
+        ]
+      },
+      "properties": {
+        "label": "Moura solar power station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q3243422",
+        "country_qid": "Q45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.62277778,
+          38.03083333
+        ]
+      },
+      "properties": {
+        "label": "Serpa solar power plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q836110",
+        "country_qid": "Q45"
+      }
+    }
+  ]
+}

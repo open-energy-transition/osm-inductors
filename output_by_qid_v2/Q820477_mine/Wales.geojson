@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.282111111,
+          51.687861111
+        ]
+      },
+      "properties": {
+        "label": "Gelligaer quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q89504001",
+        "country_qid": "Q25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.799638888,
+          52.243916666
+        ]
+      },
+      "properties": {
+        "label": "Bwlch Rhyd y Meirch quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q88558462",
+        "country_qid": "Q25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.394805555,
+          52.993388888
+        ]
+      },
+      "properties": {
+        "label": "Gyrn Ddu quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q88384066",
+        "country_qid": "Q25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.869361111,
+          52.155472222
+        ]
+      },
+      "properties": {
+        "label": "Bronbyrfel quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q88562498",
+        "country_qid": "Q25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3284,
+          51.6385
+        ]
+      },
+      "properties": {
+        "label": "Abercynon Colliery",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q4666840",
+        "country_qid": "Q25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8911,
+          52.992
+        ]
+      },
+      "properties": {
+        "label": "Bwlch y Slaters quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q88488283",
+        "country_qid": "Q25"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.568055555,
+          42.833055555
+        ]
+      },
+      "properties": {
+        "label": "Q27567525",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27567525",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.614166666,
+          42.952777777
+        ]
+      },
+      "properties": {
+        "label": "Brskovo",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27567580",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3525,
+          43.351333333
+        ]
+      },
+      "properties": {
+        "label": "Rudnik Pljevlja",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q30206331",
+        "country_qid": "Q236"
+      }
+    }
+  ]
+}

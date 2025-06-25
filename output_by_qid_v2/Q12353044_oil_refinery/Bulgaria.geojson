@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.33333333,
+          42.54555556
+        ]
+      },
+      "properties": {
+        "label": "LUKOIL Neftochim Burgas",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q901440",
+        "country_qid": "Q219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.489544,
+          43.401209
+        ]
+      },
+      "properties": {
+        "label": "Plama Pleven Oil Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q55240813",
+        "country_qid": "Q219"
+      }
+    }
+  ]
+}

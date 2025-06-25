@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1444479,
+          -15.7734464
+        ]
+      },
+      "properties": {
+        "label": "Mphanda Nkuwa Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q18377811",
+        "country_qid": "Q1029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.145,
+          -19.155833333
+        ]
+      },
+      "properties": {
+        "label": "Chicamba Hydroelectric Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q106130712",
+        "country_qid": "Q1029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.509722222,
+          -19.545777777
+        ]
+      },
+      "properties": {
+        "label": "Mavuzi Hydroelectric Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q56364428",
+        "country_qid": "Q1029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.133394,
+          -25.218321
+        ]
+      },
+      "properties": {
+        "label": "Corumana Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q18435914",
+        "country_qid": "Q1029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.704722,
+          -15.585833
+        ]
+      },
+      "properties": {
+        "label": "Cahora Bassa Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q11962991",
+        "country_qid": "Q1029"
+      }
+    }
+  ]
+}

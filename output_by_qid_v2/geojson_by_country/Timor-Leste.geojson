@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6905,
+          -8.540537
+        ]
+      },
+      "properties": {
+        "label": "Hera Diesel Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q123913790",
+        "country_qid": "Q574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.735263,
+          -9.153575
+        ]
+      },
+      "properties": {
+        "label": "Central Eléctrica de Betano",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q28870383",
+        "country_qid": "Q574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.583333333,
+          -8.533333333
+        ]
+      },
+      "properties": {
+        "label": "Dili",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386521",
+        "country_qid": "Q574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.573611111,
+          -8.5525
+        ]
+      },
+      "properties": {
+        "label": "Port of Dili",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q77318660",
+        "country_qid": "Q574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.474444444,
+          -8.572777777
+        ]
+      },
+      "properties": {
+        "label": "Tibar Bay Port",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111103642",
+        "country_qid": "Q574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.426,
+          -8.57701
+        ]
+      },
+      "properties": {
+        "label": "Gariuai Hydroelectric Plant",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q16839683",
+        "country_qid": "Q574"
+      }
+    }
+  ]
+}

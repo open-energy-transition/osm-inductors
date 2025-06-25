@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.176395,
+          19.713643
+        ]
+      },
+      "properties": {
+        "label": "Distillerie Larue",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q24050947",
+        "country_qid": "Q790"
+      }
+    }
+  ]
+}

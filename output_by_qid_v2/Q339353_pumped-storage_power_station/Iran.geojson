@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5479135,
+          35.3483682
+        ]
+      },
+      "properties": {
+        "label": "Azad pumped-storage power station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q114055189",
+        "country_qid": "Q794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.305,
+          36.217778
+        ]
+      },
+      "properties": {
+        "label": "Siah Bishe Pumped Storage Power Plant",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q4562998",
+        "country_qid": "Q794"
+      }
+    }
+  ]
+}

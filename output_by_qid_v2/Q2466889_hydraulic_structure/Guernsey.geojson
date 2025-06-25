@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.19901,
+          49.72714
+        ]
+      },
+      "properties": {
+        "label": "Alderney Ferry Port",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q24695672",
+        "country_qid": "Q25230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.516666666,
+          49.483333333
+        ]
+      },
+      "properties": {
+        "label": "Saint Sampson",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386610",
+        "country_qid": "Q25230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.53015,
+          49.45836
+        ]
+      },
+      "properties": {
+        "label": "Guernsey Port",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q24695927",
+        "country_qid": "Q25230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.505833333,
+          49.503055555
+        ]
+      },
+      "properties": {
+        "label": "Beaucette Marina",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q28403039",
+        "country_qid": "Q25230"
+      }
+    }
+  ]
+}

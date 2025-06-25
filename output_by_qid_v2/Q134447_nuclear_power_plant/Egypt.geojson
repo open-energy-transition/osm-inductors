@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.497777777,
+          31.044166666
+        ]
+      },
+      "properties": {
+        "label": "El Dabaa Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q30083718",
+        "country_qid": "Q79"
+      }
+    }
+  ]
+}

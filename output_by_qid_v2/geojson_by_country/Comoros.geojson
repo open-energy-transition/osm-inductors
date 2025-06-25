@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.418416666,
+          -12.25525
+        ]
+      },
+      "properties": {
+        "label": "Q56373808",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q56373808",
+        "country_qid": "Q970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.25,
+          -12.783333333
+        ]
+      },
+      "properties": {
+        "label": "Dzaoudzi",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111387087",
+        "country_qid": "Q970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.75,
+          -12.266666666
+        ]
+      },
+      "properties": {
+        "label": "Fomboni",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386867",
+        "country_qid": "Q970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.4,
+          -12.15
+        ]
+      },
+      "properties": {
+        "label": "Moutsamoudu",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386869",
+        "country_qid": "Q970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.394808,
+          -12.166029
+        ]
+      },
+      "properties": {
+        "label": "STUDIO Stm",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q134125313",
+        "country_qid": "Q970"
+      }
+    }
+  ]
+}

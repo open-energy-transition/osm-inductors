@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.83649722,
+          38.48423333
+        ]
+      },
+      "properties": {
+        "label": "Astara TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q4810553",
+        "country_qid": "Q227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.823333333,
+          40.351388888
+        ]
+      },
+      "properties": {
+        "label": "Baku TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1407274",
+        "country_qid": "Q227"
+      }
+    }
+  ]
+}

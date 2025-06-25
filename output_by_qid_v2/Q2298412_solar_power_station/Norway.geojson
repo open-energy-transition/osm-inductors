@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.16726,
+          61.37534
+        ]
+      },
+      "properties": {
+        "label": "Q131155305",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q131155305",
+        "country_qid": "Q20"
+      }
+    }
+  ]
+}

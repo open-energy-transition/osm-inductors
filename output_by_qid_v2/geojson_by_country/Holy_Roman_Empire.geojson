@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.141362,
+          51.436277
+        ]
+      },
+      "properties": {
+        "label": "Zeche Lauseplatte",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q183838",
+        "country_qid": "Q12548"
+      }
+    }
+  ]
+}

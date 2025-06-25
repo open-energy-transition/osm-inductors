@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.86,
+          57.78
+        ]
+      },
+      "properties": {
+        "label": "Q56301307",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q56301307",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4435,
+          55.486833333
+        ]
+      },
+      "properties": {
+        "label": "Skurup Solar PV Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q116373658",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.637847,
+          56.198457
+        ]
+      },
+      "properties": {
+        "label": "Q133868748",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q133868748",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59154,
+          59.6786
+        ]
+      },
+      "properties": {
+        "label": "Q18816594",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q18816594",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.382328,
+          57.033169
+        ]
+      },
+      "properties": {
+        "label": "Q56301169",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q56301169",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.62703,
+          58.4377392
+        ]
+      },
+      "properties": {
+        "label": "Q99450361",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q99450361",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.750833333,
+          59.625277777
+        ]
+      },
+      "properties": {
+        "label": "Solparken, Västerås",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q18332775",
+        "country_qid": "Q34"
+      }
+    }
+  ]
+}

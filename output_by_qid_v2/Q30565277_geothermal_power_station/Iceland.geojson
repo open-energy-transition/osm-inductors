@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.256388888,
+          64.108055555
+        ]
+      },
+      "properties": {
+        "label": "Nesjavellir Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q693330",
+        "country_qid": "Q189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.96108,
+          65.88979
+        ]
+      },
+      "properties": {
+        "label": "Theistareykir Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q111357016",
+        "country_qid": "Q189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.4328,
+          63.8789
+        ]
+      },
+      "properties": {
+        "label": "Svartsengi Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q2944551",
+        "country_qid": "Q189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.77673,
+          65.70113
+        ]
+      },
+      "properties": {
+        "label": "Krafla Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q1494458",
+        "country_qid": "Q189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.40083333,
+          64.03722222
+        ]
+      },
+      "properties": {
+        "label": "Hellisheiði Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q2508514",
+        "country_qid": "Q189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.8569,
+          65.6409
+        ]
+      },
+      "properties": {
+        "label": "Bjarnarflag Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q879338",
+        "country_qid": "Q189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.68194444,
+          63.82638889
+        ]
+      },
+      "properties": {
+        "label": "Reykjanes Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q2944543",
+        "country_qid": "Q189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.35165,
+          66.02181
+        ]
+      },
+      "properties": {
+        "label": "Husavik Power station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q5948950",
+        "country_qid": "Q189"
+      }
+    }
+  ]
+}

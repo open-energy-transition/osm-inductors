@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.86666667,
+          43.16666667
+        ]
+      },
+      "properties": {
+        "label": "Lake Piva",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2097502",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.892222222,
+          42.800555555
+        ]
+      },
+      "properties": {
+        "label": "Lake Krupac",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q31185976",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8382561,
+          42.7610335
+        ]
+      },
+      "properties": {
+        "label": "Lake Slano",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q11191843",
+        "country_qid": "Q236"
+      }
+    }
+  ]
+}

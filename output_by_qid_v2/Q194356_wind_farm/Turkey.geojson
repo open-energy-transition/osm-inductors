@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6,
+          39.17997222
+        ]
+      },
+      "properties": {
+        "label": "Soma Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q21523734",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0583,
+          41.1139
+        ]
+      },
+      "properties": {
+        "label": "Çanta Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q19457548",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.25,
+          36.73333333
+        ]
+      },
+      "properties": {
+        "label": "Mut Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q6943630",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.007777777,
+          38.815
+        ]
+      },
+      "properties": {
+        "label": "Aliağa Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q4725615",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.080252,
+          40.366855
+        ]
+      },
+      "properties": {
+        "label": "Bandırma Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q6073573",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.46666667,
+          36.83333333
+        ]
+      },
+      "properties": {
+        "label": "Dağpazarı Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q5243722",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.45,
+          38.233333333
+        ]
+      },
+      "properties": {
+        "label": "Alaçatı Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q121242749",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8843093,
+          39.9246796
+        ]
+      },
+      "properties": {
+        "label": "Şamlı Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q8082415",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.60971,
+          37.17988
+        ]
+      },
+      "properties": {
+        "label": "Bahçe Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q4843079",
+        "country_qid": "Q43"
+      }
+    }
+  ]
+}

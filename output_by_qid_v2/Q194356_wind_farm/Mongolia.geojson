@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.2065,
+          47.565
+        ]
+      },
+      "properties": {
+        "label": "Salkhit Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q121105462",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.237611111,
+          44.915777777
+        ]
+      },
+      "properties": {
+        "label": "Sainshand Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q121590632",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.6135,
+          43.559833333
+        ]
+      },
+      "properties": {
+        "label": "Tsetsii Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q121306441",
+        "country_qid": "Q711"
+      }
+    }
+  ]
+}

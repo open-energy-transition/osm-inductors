@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.52784,
+          47.086
+        ]
+      },
+      "properties": {
+        "label": "Lawena Kraftwerk",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q21036935",
+        "country_qid": "Q347"
+      }
+    }
+  ]
+}

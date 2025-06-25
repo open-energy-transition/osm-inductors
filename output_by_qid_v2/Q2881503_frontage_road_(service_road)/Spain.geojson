@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.824006,
+          41.320661
+        ]
+      },
+      "properties": {
+        "label": "N-IIa",
+        "type": "Frontage road (service road)",
+        "entity": "http://www.wikidata.org/entity/Q5646765",
+        "country_qid": "Q29"
+      }
+    }
+  ]
+}

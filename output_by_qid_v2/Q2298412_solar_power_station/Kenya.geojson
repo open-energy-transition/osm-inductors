@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3605485,
+          0.4197298
+        ]
+      },
+      "properties": {
+        "label": "Radiant Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q63442596",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.92166667,
+          -1.18
+        ]
+      },
+      "properties": {
+        "label": "Kenyatta University Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q48803000",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.815,
+          -0.072222222
+        ]
+      },
+      "properties": {
+        "label": "Kisumu Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q113555068",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.546944,
+          0.236667
+        ]
+      },
+      "properties": {
+        "label": "Rumuruti Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q62640412",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6060776,
+          -0.3349738
+        ]
+      },
+      "properties": {
+        "label": "Garissa Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q28223317",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.197222222,
+          -0.000555555
+        ]
+      },
+      "properties": {
+        "label": "Kopere Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q59566970",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7501445,
+          -3.2024124
+        ]
+      },
+      "properties": {
+        "label": "Malindi Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q64216398",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.685,
+          -0.8075
+        ]
+      },
+      "properties": {
+        "label": "KenGen Floating Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q128304259",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3594327,
+          0.4140866
+        ]
+      },
+      "properties": {
+        "label": "Eldosol Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q63442603",
+        "country_qid": "Q114"
+      }
+    }
+  ]
+}

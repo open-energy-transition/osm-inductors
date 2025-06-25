@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2702353,
+          47.5017073
+        ]
+      },
+      "properties": {
+        "label": "Oroszlány power plant",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11994119",
+        "country_qid": "Q28"
+      }
+    }
+  ]
+}

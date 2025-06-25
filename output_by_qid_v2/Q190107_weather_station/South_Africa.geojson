@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.853611111,
+          -34.246388888
+        ]
+      },
+      "properties": {
+        "label": "Spark's Bay weather station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q32023428",
+        "country_qid": "Q258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.84224,
+          -34.23132
+        ]
+      },
+      "properties": {
+        "label": "Koeëlbaai weather station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q32457790",
+        "country_qid": "Q258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.316666666,
+          -28.966666666
+        ]
+      },
+      "properties": {
+        "label": "Cathkin Peak weather station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q31511120",
+        "country_qid": "Q258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.88028,
+          -40.3494
+        ]
+      },
+      "properties": {
+        "label": "Gough Island Weather station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q28008618",
+        "country_qid": "Q258"
+      }
+    }
+  ]
+}

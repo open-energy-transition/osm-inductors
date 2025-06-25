@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6039085,
+          -25.3869172
+        ]
+      },
+      "properties": {
+        "label": "Villa Elisa Refinery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q7930312",
+        "country_qid": "Q733"
+      }
+    }
+  ]
+}

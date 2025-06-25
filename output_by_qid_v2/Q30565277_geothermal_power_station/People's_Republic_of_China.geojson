@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5072,
+          30.0976
+        ]
+      },
+      "properties": {
+        "label": "Yangbajain Geothermal Field",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q19841073",
+        "country_qid": "Q148"
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.23509,
+          49.4858
+        ]
+      },
+      "properties": {
+        "label": "Normandy Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q3417396",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.259994,
+          51.019069
+        ]
+      },
+      "properties": {
+        "label": "Q3417401",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q3417401",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.55099,
+          49.4766
+        ]
+      },
+      "properties": {
+        "label": "Raffinerie de Port-Jérôme-Gravenchon",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q3417399",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.99736,
+          43.3887
+        ]
+      },
+      "properties": {
+        "label": "Lavéra Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q3417393",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84306,
+          45.6719
+        ]
+      },
+      "properties": {
+        "label": "Raffinerie de Feyzin",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q3417389",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92722222,
+          43.445
+        ]
+      },
+      "properties": {
+        "label": "Q585061",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q585061",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.94753,
+          48.5888
+        ]
+      },
+      "properties": {
+        "label": "Oil refinerie of Grandpuits",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q3417391",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.529166666,
+          45.012222222
+        ]
+      },
+      "properties": {
+        "label": "Bordeaux Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q126927706",
+        "country_qid": "Q142"
+      }
+    }
+  ]
+}

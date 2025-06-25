@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.662995,
+          -8.212104
+        ]
+      },
+      "properties": {
+        "label": "Q114308783",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q114308783",
+        "country_qid": "Q924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78944444,
+          -4.89944444
+        ]
+      },
+      "properties": {
+        "label": "Singida Wind Power Station",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q28447416",
+        "country_qid": "Q924"
+      }
+    }
+  ]
+}

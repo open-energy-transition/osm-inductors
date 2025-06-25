@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.803513805,
+          43.012764226
+        ]
+      },
+      "properties": {
+        "label": "Čapljina Hydroelectric Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q3438049",
+        "country_qid": "Q225"
+      }
+    }
+  ]
+}

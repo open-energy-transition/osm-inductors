@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.551305555,
+          0.352777777
+        ]
+      },
+      "properties": {
+        "label": "Q56373765",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q56373765",
+        "country_qid": "Q1039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.731638888,
+          0.335361111
+        ]
+      },
+      "properties": {
+        "label": "Q56373763",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q56373763",
+        "country_qid": "Q1039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.694416666,
+          0.370361111
+        ]
+      },
+      "properties": {
+        "label": "Q56373764",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q56373764",
+        "country_qid": "Q1039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7375,
+          0.3472
+        ]
+      },
+      "properties": {
+        "label": "Port of São Tomé",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q10351964",
+        "country_qid": "Q1039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.45,
+          1.65
+        ]
+      },
+      "properties": {
+        "label": "Santo Antonio",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386595",
+        "country_qid": "Q1039"
+      }
+    }
+  ]
+}

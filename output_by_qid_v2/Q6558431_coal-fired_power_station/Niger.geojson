@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.788611111,
+          17.25
+        ]
+      },
+      "properties": {
+        "label": "Anou Araren Thermal Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q125796875",
+        "country_qid": "Q1032"
+      }
+    }
+  ]
+}

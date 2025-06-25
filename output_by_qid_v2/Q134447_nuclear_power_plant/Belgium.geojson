@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.26111,
+          51.32528
+        ]
+      },
+      "properties": {
+        "label": "Doel Nuclear Power Station",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1739399",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.27556,
+          50.53278
+        ]
+      },
+      "properties": {
+        "label": "Tihange Nuclear Power Station",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1739481",
+        "country_qid": "Q31"
+      }
+    }
+  ]
+}

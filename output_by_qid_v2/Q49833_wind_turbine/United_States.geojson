@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1063,
+          43.6582
+        ]
+      },
+      "properties": {
+        "label": "Smith-Putnam wind turbine",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q7544927",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.373268254,
+          35.20750387
+        ]
+      },
+      "properties": {
+        "label": "Wind Turbines",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q107320708",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.29368,
+          30.90472
+        ]
+      },
+      "properties": {
+        "label": "Wind Farms",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q107330890",
+        "country_qid": "Q30"
+      }
+    }
+  ]
+}

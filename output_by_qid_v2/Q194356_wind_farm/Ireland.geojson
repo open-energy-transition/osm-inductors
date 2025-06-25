@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.068,
+          53.918
+        ]
+      },
+      "properties": {
+        "label": "Oriel Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q7102264",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8845,
+          54.8845
+        ]
+      },
+      "properties": {
+        "label": "Meentycat wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q17086711",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1019,
+          54.0048
+        ]
+      },
+      "properties": {
+        "label": "Bindoo wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q4914042",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.949,
+          52.789
+        ]
+      },
+      "properties": {
+        "label": "Arklow Bank Wind Park",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q4792023",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3677,
+          53.3593
+        ]
+      },
+      "properties": {
+        "label": "Galway Wind Park",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q116973645",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.238,
+          52.538
+        ]
+      },
+      "properties": {
+        "label": "Ballywater Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q4852309",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.372,
+          55.133
+        ]
+      },
+      "properties": {
+        "label": "Sorne Hill wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q7563600",
+        "country_qid": "Q27"
+      }
+    }
+  ]
+}

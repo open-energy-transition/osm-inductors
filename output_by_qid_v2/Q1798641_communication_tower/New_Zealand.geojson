@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.56807,
+          -36.92626
+        ]
+      },
+      "properties": {
+        "label": "Waiatarua TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q119032744",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.762305555,
+          -36.848472222
+        ]
+      },
+      "properties": {
+        "label": "Sky Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q722125",
+        "country_qid": "Q664"
+      }
+    }
+  ]
+}

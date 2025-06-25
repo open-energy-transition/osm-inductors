@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.389,
+          83.078
+        ]
+      },
+      "properties": {
+        "label": "Citronen mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q15210711",
+        "country_qid": "Q223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.11667,
+          60.88333
+        ]
+      },
+      "properties": {
+        "label": "Josvaminen",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q24842993",
+        "country_qid": "Q223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.639282,
+          60.473465
+        ]
+      },
+      "properties": {
+        "label": "Nalunaq Goldmine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q1534738",
+        "country_qid": "Q223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.175,
+          61.206111111
+        ]
+      },
+      "properties": {
+        "label": "cryolite mine in Ivittuut",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q132989871",
+        "country_qid": "Q223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.9,
+          60.916111111
+        ]
+      },
+      "properties": {
+        "label": "Naujakasik",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q28730436",
+        "country_qid": "Q223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.377777777,
+          61.033055555
+        ]
+      },
+      "properties": {
+        "label": "Narsaarsuk pegmatite",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q24052608",
+        "country_qid": "Q223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.66667,
+          65.38333
+        ]
+      },
+      "properties": {
+        "label": "Qaqqaarsuk deposit",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q28649131",
+        "country_qid": "Q223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.18333,
+          61.2
+        ]
+      },
+      "properties": {
+        "label": "Ivittuut",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q24829670",
+        "country_qid": "Q223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.169444444,
+          61.208333333
+        ]
+      },
+      "properties": {
+        "label": "Ivittuut",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q950978",
+        "country_qid": "Q223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.33333333,
+          65.5
+        ]
+      },
+      "properties": {
+        "label": "Isua Iron Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q15228908",
+        "country_qid": "Q223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.032526,
+          61.216371
+        ]
+      },
+      "properties": {
+        "label": "Motzfeldt mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16966162",
+        "country_qid": "Q223"
+      }
+    }
+  ]
+}

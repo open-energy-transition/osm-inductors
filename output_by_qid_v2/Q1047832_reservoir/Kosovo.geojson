@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.264166666,
+          42.181111111
+        ]
+      },
+      "properties": {
+        "label": "Fierza Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q15062919",
+        "country_qid": "Q1246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.566944444,
+          42.961666666
+        ]
+      },
+      "properties": {
+        "label": "Gazivoda Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1479905",
+        "country_qid": "Q1246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.416666666,
+          42.490555555
+        ]
+      },
+      "properties": {
+        "label": "Radoniq Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1520663",
+        "country_qid": "Q1246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5728456,
+          42.3651709
+        ]
+      },
+      "properties": {
+        "label": "M & Sillosi",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q116371121",
+        "country_qid": "Q1246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.246388888,
+          42.6275
+        ]
+      },
+      "properties": {
+        "label": "Badoc Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q799675",
+        "country_qid": "Q1246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.96242,
+          42.82437
+        ]
+      },
+      "properties": {
+        "label": "Çeshmja e zasellëve",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q119842900",
+        "country_qid": "Q1246"
+      }
+    }
+  ]
+}

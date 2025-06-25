@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1,
+          46.2
+        ]
+      },
+      "properties": {
+        "label": "Meteorological station, Szeged",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q3972031",
+        "country_qid": "Q28"
+      }
+    }
+  ]
+}

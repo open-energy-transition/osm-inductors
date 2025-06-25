@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.876388888,
+          7.012777777
+        ]
+      },
+      "properties": {
+        "label": "Sobadhanavi Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q131481477",
+        "country_qid": "Q854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.87888889,
+          6.95222222
+        ]
+      },
+      "properties": {
+        "label": "Kelanitissa Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q15235354",
+        "country_qid": "Q854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.875,
+          7.01111
+        ]
+      },
+      "properties": {
+        "label": "Yugadanavi Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q16060180",
+        "country_qid": "Q854"
+      }
+    }
+  ]
+}

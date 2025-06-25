@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.17444444,
+          10.84166667
+        ]
+      },
+      "properties": {
+        "label": "Dapaong Solar Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q125867233",
+        "country_qid": "Q945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.582555555,
+          6.913777777
+        ]
+      },
+      "properties": {
+        "label": "Q56372606",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q56372606",
+        "country_qid": "Q945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.30222,
+          6.15861
+        ]
+      },
+      "properties": {
+        "label": "Lomé Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q56372575",
+        "country_qid": "Q945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.435333333,
+          7.423444444
+        ]
+      },
+      "properties": {
+        "label": "Nangbéto Hydro Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q56372012",
+        "country_qid": "Q945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.225833333,
+          9.413888888
+        ]
+      },
+      "properties": {
+        "label": "Kpalassi Solar Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q112892598",
+        "country_qid": "Q945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.010277777,
+          8.307777777
+        ]
+      },
+      "properties": {
+        "label": "Blitta Solar Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q107481956",
+        "country_qid": "Q945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.288611111,
+          6.149722222
+        ]
+      },
+      "properties": {
+        "label": "Kékéli Thermal Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q106880702",
+        "country_qid": "Q945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.195277777,
+          6.323055555
+        ]
+      },
+      "properties": {
+        "label": "Adétikopé Solar Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q108730487",
+        "country_qid": "Q945"
+      }
+    }
+  ]
+}

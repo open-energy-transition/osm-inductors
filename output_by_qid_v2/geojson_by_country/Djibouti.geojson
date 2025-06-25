@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.688888888,
+          11.123055555
+        ]
+      },
+      "properties": {
+        "label": "Amea Grand Bara Solar Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q122574608",
+        "country_qid": "Q977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.496388888,
+          11.53
+        ]
+      },
+      "properties": {
+        "label": "Ghoubet Wind Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q108809582",
+        "country_qid": "Q977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.37222222,
+          12.55694444
+        ]
+      },
+      "properties": {
+        "label": "Red Sea Dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q1143421",
+        "country_qid": "Q977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1392,
+          11.6053
+        ]
+      },
+      "properties": {
+        "label": "Port of Djibouti",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q7231129",
+        "country_qid": "Q977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.15,
+          11.616666666
+        ]
+      },
+      "properties": {
+        "label": "Port du Héron",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q23723685",
+        "country_qid": "Q977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.095,
+          11.59
+        ]
+      },
+      "properties": {
+        "label": "Port of Doraleh",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q3398478",
+        "country_qid": "Q977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.06312,
+          11.59023
+        ]
+      },
+      "properties": {
+        "label": "Chinese naval base in Djibouti",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q30693574",
+        "country_qid": "Q977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.3,
+          11.966666666
+        ]
+      },
+      "properties": {
+        "label": "Port d'Obock",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q23722613",
+        "country_qid": "Q977"
+      }
+    }
+  ]
+}

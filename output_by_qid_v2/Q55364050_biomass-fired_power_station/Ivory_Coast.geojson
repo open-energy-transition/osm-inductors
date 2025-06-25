@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.269166666,
+          5.439444444
+        ]
+      },
+      "properties": {
+        "label": "Ayebo Biomass Power Station",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q107292934",
+        "country_qid": "Q1008"
+      }
+    }
+  ]
+}

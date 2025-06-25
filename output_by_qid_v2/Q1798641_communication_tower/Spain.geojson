@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15056,
+          41.36417
+        ]
+      },
+      "properties": {
+        "label": "Montjuïc Communications Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q202530",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.426136,
+          39.404971
+        ]
+      },
+      "properties": {
+        "label": "Q125717571",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q125717571",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.890317,
+          41.623499
+        ]
+      },
+      "properties": {
+        "label": "Cuarte Torrero Mediumwave Transmitter",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q54803667",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.286923786,
+          36.52254402
+        ]
+      },
+      "properties": {
+        "label": "Torre Tavira II",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q21694478",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.114166666,
+          41.417222222
+        ]
+      },
+      "properties": {
+        "label": "Torre de Collserola",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1147977",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91301,
+          41.639427
+        ]
+      },
+      "properties": {
+        "label": "Torre de telecomunicaciones Movistar, Zaragoza",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q11374320",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.664196111,
+          40.420512222
+        ]
+      },
+      "properties": {
+        "label": "Torrespaña",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q989733",
+        "country_qid": "Q29"
+      }
+    }
+  ]
+}

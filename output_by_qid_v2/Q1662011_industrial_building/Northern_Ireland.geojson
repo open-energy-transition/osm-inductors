@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.957970035,
+          54.575854681
+        ]
+      },
+      "properties": {
+        "label": "Adelaide Depot",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q134388289",
+        "country_qid": "Q26"
+      }
+    }
+  ]
+}

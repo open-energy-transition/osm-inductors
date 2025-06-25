@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.214302,
+          17.510534
+        ]
+      },
+      "properties": {
+        "label": "Travellers Liquors",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q7836061",
+        "country_qid": "Q242"
+      }
+    }
+  ]
+}

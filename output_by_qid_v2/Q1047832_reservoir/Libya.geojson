@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0,
+          20.0
+        ]
+      },
+      "properties": {
+        "label": "Nubian Sandstone Aquifer System",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1530545",
+        "country_qid": "Q1016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.10321389,
+          30.54329722
+        ]
+      },
+      "properties": {
+        "label": "Gasr Zerzi",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q60848649",
+        "country_qid": "Q1016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.125,
+          32.770833333
+        ]
+      },
+      "properties": {
+        "label": "Bi’r Raf‘ah",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q106418048",
+        "country_qid": "Q1016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.953005,
+          32.709421666
+        ]
+      },
+      "properties": {
+        "label": "House of the Twin Cisterns, Ptolemais",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q104776198",
+        "country_qid": "Q1016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.01645,
+          31.06209
+        ]
+      },
+      "properties": {
+        "label": "Mājin al Kanshīyah",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q106138005",
+        "country_qid": "Q1016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.100476666,
+          26.599275
+        ]
+      },
+      "properties": {
+        "label": "Gasr el-Uatat",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q105993233",
+        "country_qid": "Q1016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.83863,
+          31.19069
+        ]
+      },
+      "properties": {
+        "label": "Mawājin ar Rūmīyah",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q106153998",
+        "country_qid": "Q1016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.66667,
+          26.63333
+        ]
+      },
+      "properties": {
+        "label": "Qaşr Bint Bayyah",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q105992894",
+        "country_qid": "Q1016"
+      }
+    }
+  ]
+}

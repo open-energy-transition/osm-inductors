@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52888889,
+          24.83138889
+        ]
+      },
+      "properties": {
+        "label": "Q15909837",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q15909837",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.58722222,
+          24.84972222
+        ]
+      },
+      "properties": {
+        "label": "Q15911437",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q15911437",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.44698,
+          23.220223
+        ]
+      },
+      "properties": {
+        "label": "Double-Heart of Stacked Stones",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q5299574",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.76416667,
+          23.82027778
+        ]
+      },
+      "properties": {
+        "label": "Jiji Weir",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q15906505",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.46222222,
+          22.50447222
+        ]
+      },
+      "properties": {
+        "label": "Q20688613",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q20688613",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.05783333,
+          22.87747222
+        ]
+      },
+      "properties": {
+        "label": "Banan Weir",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q22097586",
+        "country_qid": "Q865"
+      }
+    }
+  ]
+}

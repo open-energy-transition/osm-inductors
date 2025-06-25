@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.40634167,
+          19.72078333
+        ]
+      },
+      "properties": {
+        "label": "Laguna Verde Nuclear Power Station",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q371499",
+        "country_qid": "Q96"
+      }
+    }
+  ]
+}

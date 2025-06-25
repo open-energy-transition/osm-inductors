@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.221,
+          -34.871472222
+        ]
+      },
+      "properties": {
+        "label": "Planta Capurro",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q125163856",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.835194886,
+          -34.468232708
+        ]
+      },
+      "properties": {
+        "label": "Q19950670",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q19950670",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.258722222,
+          -33.119416666
+        ]
+      },
+      "properties": {
+        "label": "UPM Fray Bentos",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q11860001",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.186833333,
+          -34.869555555
+        ]
+      },
+      "properties": {
+        "label": "Cervecería Oriental",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q118552849",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.22998,
+          -34.87515
+        ]
+      },
+      "properties": {
+        "label": "La Teja Refinery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q110722911",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3,
+          -33.133333333
+        ]
+      },
+      "properties": {
+        "label": "Frigorífico Anglo del Uruguay",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q5504530",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.541694444,
+          -32.862805555
+        ]
+      },
+      "properties": {
+        "label": "UPM Paso de los Toros",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q76823453",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.033272222,
+          -34.164308333
+        ]
+      },
+      "properties": {
+        "label": "Montes del Plata",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q17622822",
+        "country_qid": "Q77"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.064722222,
+          24.853611111
+        ]
+      },
+      "properties": {
+        "label": "Dubai Industrial City",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q5310557",
+        "country_qid": "Q878"
+      }
+    }
+  ]
+}

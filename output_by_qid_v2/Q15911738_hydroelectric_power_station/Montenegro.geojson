@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.065277777,
+          42.599444444
+        ]
+      },
+      "properties": {
+        "label": "Hidroelektrana Slap Zete",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q27565561",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.995555555,
+          42.671666666
+        ]
+      },
+      "properties": {
+        "label": "Perućica hydro power plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q27565724",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.844444444,
+          43.274444444
+        ]
+      },
+      "properties": {
+        "label": "Hidroelektrana Mratinje",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q27561214",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.998888888,
+          42.666944444
+        ]
+      },
+      "properties": {
+        "label": "Hidroelektrana Glava Zete",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q27565723",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.842277777,
+          43.272722222
+        ]
+      },
+      "properties": {
+        "label": "Piva hydro power plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q30974244",
+        "country_qid": "Q236"
+      }
+    }
+  ]
+}

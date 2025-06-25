@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.05854,
+          6.29892
+        ]
+      },
+      "properties": {
+        "label": "Akosombo Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q1282314",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.330555555,
+          10.600555555
+        ]
+      },
+      "properties": {
+        "label": "Pwalugu Hydroelectric Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q104879260",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.125,
+          6.12
+        ]
+      },
+      "properties": {
+        "label": "Kpong Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q6435738",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.23583333,
+          8.27833333
+        ]
+      },
+      "properties": {
+        "label": "Bui Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q4986338",
+        "country_qid": "Q117"
+      }
+    }
+  ]
+}

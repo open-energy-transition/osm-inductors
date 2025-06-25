@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3485,
+          45.001388888
+        ]
+      },
+      "properties": {
+        "label": "Mongol Refinery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q131675310",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.937717,
+          47.98255
+        ]
+      },
+      "properties": {
+        "label": "Dambadarjaa Monastery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q11692694",
+        "country_qid": "Q711"
+      }
+    }
+  ]
+}

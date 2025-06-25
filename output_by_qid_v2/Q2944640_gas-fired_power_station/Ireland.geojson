@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.211111111,
+          53.350277777
+        ]
+      },
+      "properties": {
+        "label": "North Wall power station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q123584617",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.254722222,
+          51.818611111
+        ]
+      },
+      "properties": {
+        "label": "Whitegate power station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q110722824",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.236192,
+          51.834686
+        ]
+      },
+      "properties": {
+        "label": "Aghada Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11957021",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.992,
+          52.279
+        ]
+      },
+      "properties": {
+        "label": "Great Island Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q116013425",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.189457,
+          53.339754
+        ]
+      },
+      "properties": {
+        "label": "Poolbeg Generating Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7228597",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2049,
+          53.34
+        ]
+      },
+      "properties": {
+        "label": "Dublin Bay Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11966165",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3261,
+          53.4119
+        ]
+      },
+      "properties": {
+        "label": "Huntstown Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q19374953",
+        "country_qid": "Q27"
+      }
+    }
+  ]
+}

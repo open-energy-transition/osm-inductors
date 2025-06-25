@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.975107,
+          -31.943377
+        ]
+      },
+      "properties": {
+        "label": "Perth Airport control tower",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q94101636",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.208918,
+          -41.547757
+        ]
+      },
+      "properties": {
+        "label": "Launceston Airport Air Traffic Control Tower",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q38170354",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.636261,
+          -34.790791
+        ]
+      },
+      "properties": {
+        "label": "Parafield Airport Air Traffic Control Tower",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q38167266",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.576027777,
+          -20.314944444
+        ]
+      },
+      "properties": {
+        "label": "PHPA control tower",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q106310765",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.876950391,
+          -32.09545232
+        ]
+      },
+      "properties": {
+        "label": "Jandakot Airport Air Traffic Control Tower",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q109470808",
+        "country_qid": "Q408"
+      }
+    }
+  ]
+}

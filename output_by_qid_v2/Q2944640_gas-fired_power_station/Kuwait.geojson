@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9398974,
+          29.3511294
+        ]
+      },
+      "properties": {
+        "label": "Shuwaikh Power Station and Water Distillation Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q12239389",
+        "country_qid": "Q817"
+      }
+    }
+  ]
+}

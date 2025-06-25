@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.233333333,
+          12.283333333
+        ]
+      },
+      "properties": {
+        "label": "RIO CACHEU",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111387563",
+        "country_qid": "Q1007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.58333333,
+          11.85
+        ]
+      },
+      "properties": {
+        "label": "Port of Bissau",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q20646352",
+        "country_qid": "Q1007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.57835,
+          11.85618
+        ]
+      },
+      "properties": {
+        "label": "Ponte-cais de Pidjiguiti",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q55032287",
+        "country_qid": "Q1007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.57531,
+          11.85885
+        ]
+      },
+      "properties": {
+        "label": "Ponte-cais de Bissau",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q55032890",
+        "country_qid": "Q1007"
+      }
+    }
+  ]
+}

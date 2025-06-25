@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.042611111,
+          16.985805555
+        ]
+      },
+      "properties": {
+        "label": "Q61448230",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q61448230",
+        "country_qid": "Q242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.73245,
+          17.27695
+        ]
+      },
+      "properties": {
+        "label": "Westlake-Mollejon Line",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q126369961",
+        "country_qid": "Q242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0132,
+          16.8614
+        ]
+      },
+      "properties": {
+        "label": "Chalillo Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q16829164",
+        "country_qid": "Q242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.18361111,
+          17.48472222
+        ]
+      },
+      "properties": {
+        "label": "Port of Belize",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q15919222",
+        "country_qid": "Q242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.183333333,
+          17.5
+        ]
+      },
+      "properties": {
+        "label": "Belize City",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111387584",
+        "country_qid": "Q242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.403868128,
+          16.514190395
+        ]
+      },
+      "properties": {
+        "label": "Big Creek",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q858692",
+        "country_qid": "Q242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.225,
+          17.50699
+        ]
+      },
+      "properties": {
+        "label": "Burdon Canal",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q21870450",
+        "country_qid": "Q242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.214302,
+          17.510534
+        ]
+      },
+      "properties": {
+        "label": "Travellers Liquors",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q7836061",
+        "country_qid": "Q242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.45015,
+          17.38758
+        ]
+      },
+      "properties": {
+        "label": "Rockville Quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21867350",
+        "country_qid": "Q242"
+      }
+    }
+  ]
+}

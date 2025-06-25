@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4174273,
+          -23.0914969
+        ]
+      },
+      "properties": {
+        "label": "Q11959472",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11959472",
+        "country_qid": "Q298"
+      }
+    }
+  ]
+}

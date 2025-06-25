@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.179665,
+          50.482425
+        ]
+      },
+      "properties": {
+        "label": "Usine Gustave Boël",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q18654954",
+        "country_qid": "Q31"
+      }
+    }
+  ]
+}

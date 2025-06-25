@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.04028,
+          53.4936
+        ]
+      },
+      "properties": {
+        "label": "Huddersfield Narrow Canal Pylon",
+        "type": "Transmission tower (pylon)",
+        "entity": "http://www.wikidata.org/entity/Q1907806",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

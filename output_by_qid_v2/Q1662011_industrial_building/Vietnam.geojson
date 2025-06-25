@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.105396359,
+          10.399981742
+        ]
+      },
+      "properties": {
+        "label": "Vard Vung Tau",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q124421292",
+        "country_qid": "Q881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.685833,
+          10.775833
+        ]
+      },
+      "properties": {
+        "label": "Viết Tân",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q18461222",
+        "country_qid": "Q881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.79777778,
+          19.34222222
+        ]
+      },
+      "properties": {
+        "label": "Nghi Son Refinery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q7022321",
+        "country_qid": "Q881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.82972222,
+          15.3525
+        ]
+      },
+      "properties": {
+        "label": "Dung Quat refinery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q3041307",
+        "country_qid": "Q881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.708681,
+          10.782932
+        ]
+      },
+      "properties": {
+        "label": "Saigon Naval Shipyard",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q85799174",
+        "country_qid": "Q881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.633611111,
+          20.885555561
+        ]
+      },
+      "properties": {
+        "label": "Damen Shipyards Song Cam",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q131260819",
+        "country_qid": "Q881"
+      }
+    }
+  ]
+}

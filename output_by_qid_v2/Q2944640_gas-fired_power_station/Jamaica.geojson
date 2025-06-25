@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1083164,
+          17.9000507
+        ]
+      },
+      "properties": {
+        "label": "South Jamaica Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q117269817",
+        "country_qid": "Q766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.241,
+          17.8975
+        ]
+      },
+      "properties": {
+        "label": "Jamalco Co-Generation Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q117247104",
+        "country_qid": "Q766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1063852,
+          17.8997597
+        ]
+      },
+      "properties": {
+        "label": "Old Harbour Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q117247108",
+        "country_qid": "Q766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9185957,
+          18.451517
+        ]
+      },
+      "properties": {
+        "label": "Bogue Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11961772",
+        "country_qid": "Q766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9671303,
+          17.967439
+        ]
+      },
+      "properties": {
+        "label": "The Nest Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q117270719",
+        "country_qid": "Q766"
+      }
+    }
+  ]
+}

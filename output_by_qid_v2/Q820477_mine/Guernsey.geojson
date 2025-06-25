@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.170833333,
+          49.726666666
+        ]
+      },
+      "properties": {
+        "label": "Berry's Quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q24695701",
+        "country_qid": "Q25230"
+      }
+    }
+  ]
+}

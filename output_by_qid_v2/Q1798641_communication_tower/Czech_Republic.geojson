@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2702331,
+          49.0806153
+        ]
+      },
+      "properties": {
+        "label": "antenna tower Sedlec - Lékařova Lhota",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q106364619",
+        "country_qid": "Q213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2586278,
+          49.0803956
+        ]
+      },
+      "properties": {
+        "label": "antenna tower Sedlec - Lékařova Lhota",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q106364537",
+        "country_qid": "Q213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.984592,
+          50.732628
+        ]
+      },
+      "properties": {
+        "label": "Ještěd Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1129608",
+        "country_qid": "Q213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7292975,
+          50.1374875
+        ]
+      },
+      "properties": {
+        "label": "Krudum",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q19602309",
+        "country_qid": "Q213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.451388888,
+          50.080833333
+        ]
+      },
+      "properties": {
+        "label": "Žižkov Television Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1413217",
+        "country_qid": "Q213"
+      }
+    }
+  ]
+}

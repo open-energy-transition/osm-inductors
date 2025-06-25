@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.827027777,
+          23.306333333
+        ]
+      },
+      "properties": {
+        "label": "Kadana hydro power station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q56368159",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.750361111,
+          17.402
+        ]
+      },
+      "properties": {
+        "label": "Koyna Dam Powerhouse",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q56368041",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6494201,
+          19.5332449
+        ]
+      },
+      "properties": {
+        "label": "Ghatghar pumped-storage power station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q11971933",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.48055556,
+          30.37777778
+        ]
+      },
+      "properties": {
+        "label": "Tehri Dam",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q69091",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.091472222,
+          23.193111111
+        ]
+      },
+      "properties": {
+        "label": "Purulia Pumped Storage Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q11996504",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.747222222,
+          21.830277777
+        ]
+      },
+      "properties": {
+        "label": "Sardar Sarovar Dam",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q2120392",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.39,
+          18.454833333
+        ]
+      },
+      "properties": {
+        "label": "Bhira hydro power station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q4901813",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0435,
+          10.410583333
+        ]
+      },
+      "properties": {
+        "label": "Kadamparai Hydroelectric Power Plant",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q11979865",
+        "country_qid": "Q668"
+      }
+    }
+  ]
+}

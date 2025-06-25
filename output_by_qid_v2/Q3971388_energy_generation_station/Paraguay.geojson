@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.73583,
+          -27.48278
+        ]
+      },
+      "properties": {
+        "label": "Yacyretá Dam",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q1432818",
+        "country_qid": "Q733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.965736111,
+          -25.375119444
+        ]
+      },
+      "properties": {
+        "label": "Represa de Yguasu",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q5760708",
+        "country_qid": "Q733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.52055556,
+          -27.1025
+        ]
+      },
+      "properties": {
+        "label": "Corpus Christi Dam",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q1135119",
+        "country_qid": "Q733"
+      }
+    }
+  ]
+}

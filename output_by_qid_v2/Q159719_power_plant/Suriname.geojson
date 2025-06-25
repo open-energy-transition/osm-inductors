@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.63527778,
+          4.12583333
+        ]
+      },
+      "properties": {
+        "label": "Gran Olo hydroelectric power plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q25230867",
+        "country_qid": "Q730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.9922,
+          4.98224
+        ]
+      },
+      "properties": {
+        "label": "Afobaka Dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q16001998",
+        "country_qid": "Q730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.63166667,
+          4.12333333
+        ]
+      },
+      "properties": {
+        "label": "Puketi hydroelectric power plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q25064115",
+        "country_qid": "Q730"
+      }
+    }
+  ]
+}

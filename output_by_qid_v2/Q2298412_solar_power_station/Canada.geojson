@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.050277777,
+          42.8
+        ]
+      },
+      "properties": {
+        "label": "Nanticoke Solar Facility",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q108542399",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3417,
+          42.9378
+        ]
+      },
+      "properties": {
+        "label": "Sarnia Photovoltaic Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q3448577",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.275,
+          45.4083
+        ]
+      },
+      "properties": {
+        "label": "Arnprior Solar Generating Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q4795407",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4378,
+          46.5378
+        ]
+      },
+      "properties": {
+        "label": "Sault Ste. Marie Solar Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q7427401",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.730833333,
+          50.254444444
+        ]
+      },
+      "properties": {
+        "label": "Travers Solar Project",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q85810548",
+        "country_qid": "Q16"
+      }
+    }
+  ]
+}

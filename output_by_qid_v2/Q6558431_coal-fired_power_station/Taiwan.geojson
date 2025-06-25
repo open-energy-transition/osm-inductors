@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.19694444,
+          22.85638889
+        ]
+      },
+      "properties": {
+        "label": "Hsinta Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7212656",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.52383333,
+          24.30261111
+        ]
+      },
+      "properties": {
+        "label": "Q24835991",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q24835991",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.336,
+          22.5361
+        ]
+      },
+      "properties": {
+        "label": "Talin Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q10935779",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.76388889,
+          24.30666667
+        ]
+      },
+      "properties": {
+        "label": "Hoping Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q15225086",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1905,
+          23.803222222
+        ]
+      },
+      "properties": {
+        "label": "Mailiao Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q15243860",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.481,
+          24.2128
+        ]
+      },
+      "properties": {
+        "label": "Taichung Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q584095",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.29833333,
+          25.12083333
+        ]
+      },
+      "properties": {
+        "label": "Linkou Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11105601",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.814972222,
+          25.127333333
+        ]
+      },
+      "properties": {
+        "label": "Shen'ao Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q16926651",
+        "country_qid": "Q865"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.897,
+          42.662
+        ]
+      },
+      "properties": {
+        "label": "New Co Ferronikeli",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q62668508",
+        "country_qid": "Q1246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.428,
+          42.62
+        ]
+      },
+      "properties": {
+        "label": "Trepča Mines",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q431588",
+        "country_qid": "Q1246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.44223,
+          42.609327
+        ]
+      },
+      "properties": {
+        "label": "Novo Brdo mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q7064945",
+        "country_qid": "Q1246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.821332,
+          43.234793
+        ]
+      },
+      "properties": {
+        "label": "Belo Brdo mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q4884471",
+        "country_qid": "Q1246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.048611111,
+          42.969444444
+        ]
+      },
+      "properties": {
+        "label": "Q27345822",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27345822",
+        "country_qid": "Q1246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0202,
+          42.6498
+        ]
+      },
+      "properties": {
+        "label": "Belaćevac coal mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q15063146",
+        "country_qid": "Q1246"
+      }
+    }
+  ]
+}

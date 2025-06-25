@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5909103,
+          1.6332505
+        ]
+      },
+      "properties": {
+        "label": "Djibloho Dam",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q16829884",
+        "country_qid": "Q983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.829722222,
+          1.554722222
+        ]
+      },
+      "properties": {
+        "label": "Sendje Hydroelectric Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q55975867",
+        "country_qid": "Q983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.719611111,
+          3.773972222
+        ]
+      },
+      "properties": {
+        "label": "Turbogas Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q56373810",
+        "country_qid": "Q983"
+      }
+    }
+  ]
+}

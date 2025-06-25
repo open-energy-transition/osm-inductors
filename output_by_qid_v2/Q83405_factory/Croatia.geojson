@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.45,
+          43.166667
+        ]
+      },
+      "properties": {
+        "label": "Heracleia",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430363",
+        "country_qid": "Q224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.601041,
+          43.184286
+        ]
+      },
+      "properties": {
+        "label": "Pharos",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431010",
+        "country_qid": "Q224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.116667,
+          42.95
+        ]
+      },
+      "properties": {
+        "label": "Corcyra Nigra",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430037",
+        "country_qid": "Q224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.483426,
+          43.539561
+        ]
+      },
+      "properties": {
+        "label": "Salona",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431170",
+        "country_qid": "Q224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.15,
+          43.033333
+        ]
+      },
+      "properties": {
+        "label": "Issa",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430467",
+        "country_qid": "Q224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.451944444,
+          45.333333333
+        ]
+      },
+      "properties": {
+        "label": "Tvornica papira Rijeka",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q16116764",
+        "country_qid": "Q224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.371388,
+          45.483168
+        ]
+      },
+      "properties": {
+        "label": "Siscia",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q4023999",
+        "country_qid": "Q224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.955938,
+          45.801128
+        ]
+      },
+      "properties": {
+        "label": "Fenor",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q131199732",
+        "country_qid": "Q224"
+      }
+    }
+  ]
+}

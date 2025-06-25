@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.695,
+          42.514722
+        ]
+      },
+      "properties": {
+        "label": "Rhizon",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431128",
+        "country_qid": "Q236"
+      }
+    }
+  ]
+}

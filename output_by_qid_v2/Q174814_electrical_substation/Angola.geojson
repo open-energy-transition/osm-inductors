@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46365,
+          -9.79302
+        ]
+      },
+      "properties": {
+        "label": "Capanda hydroelectric power plant substation",
+        "type": "Electrical substation",
+        "entity": "http://www.wikidata.org/entity/Q111130822",
+        "country_qid": "Q916"
+      }
+    }
+  ]
+}

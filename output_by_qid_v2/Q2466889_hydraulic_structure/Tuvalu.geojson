@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.133333333,
+          -8.516666666
+        ]
+      },
+      "properties": {
+        "label": "Funafuti Atoll",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386951",
+        "country_qid": "Q672"
+      }
+    }
+  ]
+}

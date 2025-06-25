@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6081,
+          53.12041
+        ]
+      },
+      "properties": {
+        "label": "Golden Falls hydroelectric power station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q52530502",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.40638889,
+          53.02861111
+        ]
+      },
+      "properties": {
+        "label": "Turlough Hill Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q17985032",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.86382,
+          51.897175
+        ]
+      },
+      "properties": {
+        "label": "Carrigadrohid hydroelectric power station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q38251466",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.17407778,
+          54.49950278
+        ]
+      },
+      "properties": {
+        "label": "Cathaleen's Fall hydroelectric power station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q38251794",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.612778,
+          52.705556
+        ]
+      },
+      "properties": {
+        "label": "Ardnacrusha power plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q179683",
+        "country_qid": "Q27"
+      }
+    }
+  ]
+}

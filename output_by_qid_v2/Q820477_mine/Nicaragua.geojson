@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4861159,
+          14.3860022
+        ]
+      },
+      "properties": {
+        "label": "Mina Santa Rosa",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21053449",
+        "country_qid": "Q811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1181784,
+          11.733507
+        ]
+      },
+      "properties": {
+        "label": "Mina Las Cuevas",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21052722",
+        "country_qid": "Q811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0476417,
+          13.7688249
+        ]
+      },
+      "properties": {
+        "label": "Mineral Carvi",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21053452",
+        "country_qid": "Q811"
+      }
+    }
+  ]
+}

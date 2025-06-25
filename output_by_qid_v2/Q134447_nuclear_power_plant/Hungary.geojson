@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.85416667,
+          46.5725
+        ]
+      },
+      "properties": {
+        "label": "Paks Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1188635",
+        "country_qid": "Q28"
+      }
+    }
+  ]
+}

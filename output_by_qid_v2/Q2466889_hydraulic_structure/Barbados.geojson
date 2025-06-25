@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.632,
+          13.106
+        ]
+      },
+      "properties": {
+        "label": "Port of Bridgetown",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q7231089",
+        "country_qid": "Q244"
+      }
+    }
+  ]
+}

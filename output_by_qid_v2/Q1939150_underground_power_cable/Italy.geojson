@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6325,
+          38.24583333
+        ]
+      },
+      "properties": {
+        "label": "Pylons of Messina",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q2356853",
+        "country_qid": "Q38"
+      }
+    }
+  ]
+}

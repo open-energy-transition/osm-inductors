@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.133465,
+          -11.920593
+        ]
+      },
+      "properties": {
+        "label": "La Pampilla Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q20024814",
+        "country_qid": "Q419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.282294,
+          -4.583962
+        ]
+      },
+      "properties": {
+        "label": "Refinery of Talara",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q19950531",
+        "country_qid": "Q419"
+      }
+    }
+  ]
+}

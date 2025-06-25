@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.3695,
+          24.7854
+        ]
+      },
+      "properties": {
+        "label": "Pakistan Port Qasim Power Project",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q24942712",
+        "country_qid": "Q843"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.6885996,
+          24.9150665
+        ]
+      },
+      "properties": {
+        "label": "China Power Hub Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q104854929",
+        "country_qid": "Q843"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.394811619,
+          24.812748531
+        ]
+      },
+      "properties": {
+        "label": "Thar Engro Coal Power Project",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7710720",
+        "country_qid": "Q843"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.286142,
+          25.7051383
+        ]
+      },
+      "properties": {
+        "label": "Lakhra Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q55616512",
+        "country_qid": "Q843"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.23888889,
+          30.71527778
+        ]
+      },
+      "properties": {
+        "label": "Sahiwal Coal Power Project",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q24942715",
+        "country_qid": "Q843"
+      }
+    }
+  ]
+}

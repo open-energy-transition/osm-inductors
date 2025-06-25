@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.06049,
+          47.1332
+        ]
+      },
+      "properties": {
+        "label": "Communication Tower Chasseral",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1465655",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.43400002,
+          46.90056992
+        ]
+      },
+      "properties": {
+        "label": "Directional beam antenna tower Ulmizberg",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q17521425",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.70247,
+          47.5019
+        ]
+      },
+      "properties": {
+        "label": "Brühlbergturm",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q996924",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.52864,
+          46.9778
+        ]
+      },
+      "properties": {
+        "label": "Bantiger TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1407261",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.886361111,
+          47.294713888
+        ]
+      },
+      "properties": {
+        "label": "Bachtel Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q15715508",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.53972244,
+          47.30472183
+        ]
+      },
+      "properties": {
+        "label": "Q17326155",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q17326155",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.568067777,
+          47.3859875
+        ]
+      },
+      "properties": {
+        "label": "Sendeturm Zürichberg",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q26961003",
+        "country_qid": "Q39"
+      }
+    }
+  ]
+}

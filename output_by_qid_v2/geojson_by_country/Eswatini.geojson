@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.155194444,
+          -26.376305555
+        ]
+      },
+      "properties": {
+        "label": "Q56374022",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q56374022",
+        "country_qid": "Q1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.309722222,
+          -26.571111111
+        ]
+      },
+      "properties": {
+        "label": "Edwaleni Solar Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q112683435",
+        "country_qid": "Q1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.261583333,
+          -26.0785
+        ]
+      },
+      "properties": {
+        "label": "Q56374020",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q56374020",
+        "country_qid": "Q1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.704,
+          -25.992
+        ]
+      },
+      "properties": {
+        "label": "Sand River Dam",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q60774869",
+        "country_qid": "Q1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.923611111,
+          -26.773611111
+        ]
+      },
+      "properties": {
+        "label": "Van Eck Dam",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q60997898",
+        "country_qid": "Q1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.666666666,
+          -26.166666666
+        ]
+      },
+      "properties": {
+        "label": "Mnjoli Dam",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34907952",
+        "country_qid": "Q1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5566,
+          -26.67319
+        ]
+      },
+      "properties": {
+        "label": "Lower Usuthu Weir",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q34870328",
+        "country_qid": "Q1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.61367,
+          -26.70253
+        ]
+      },
+      "properties": {
+        "label": "Lower Usuthu Feeder Canal",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q34730798",
+        "country_qid": "Q1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.76756,
+          -26.79461
+        ]
+      },
+      "properties": {
+        "label": "Lower Usuthu Main Canal South",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q34730804",
+        "country_qid": "Q1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.10085,
+          -26.39492
+        ]
+      },
+      "properties": {
+        "label": "Luphohlo Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q34879814",
+        "country_qid": "Q1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70293,
+          -26.74199
+        ]
+      },
+      "properties": {
+        "label": "Lubovane Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q34879292",
+        "country_qid": "Q1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.26,
+          -26.076
+        ]
+      },
+      "properties": {
+        "label": "Maguga Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q6732509",
+        "country_qid": "Q1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.03138889,
+          -26.19777778
+        ]
+      },
+      "properties": {
+        "label": "Ngwenya Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q2558479",
+        "country_qid": "Q1050"
+      }
+    }
+  ]
+}

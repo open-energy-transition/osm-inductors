@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9877,
+          46.6056
+        ]
+      },
+      "properties": {
+        "label": "Saint Lawrence River HVDC Powerline Crossing",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q7401633",
+        "country_qid": "Q16"
+      }
+    }
+  ]
+}

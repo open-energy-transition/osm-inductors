@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8501046,
+          49.1374627
+        ]
+      },
+      "properties": {
+        "label": "Vancouver Area Control Centre",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q134688797",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.597722,
+          48.9662401
+        ]
+      },
+      "properties": {
+        "label": "Gander Area Control Centre",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q134688787",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7717,
+          45.4779
+        ]
+      },
+      "properties": {
+        "label": "Montreal Area Control Centre",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q6906242",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2596,
+          49.9004
+        ]
+      },
+      "properties": {
+        "label": "Winnipeg Area Control Centre",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q17515473",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7685565,
+          46.0714895
+        ]
+      },
+      "properties": {
+        "label": "Moncton Area Control Centre",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q134688779",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.578393,
+          53.31142
+        ]
+      },
+      "properties": {
+        "label": "Edmonton Area Control Centre",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q134688792",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6274,
+          43.6716
+        ]
+      },
+      "properties": {
+        "label": "Toronto Area Control Centre",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q7826266",
+        "country_qid": "Q16"
+      }
+    }
+  ]
+}

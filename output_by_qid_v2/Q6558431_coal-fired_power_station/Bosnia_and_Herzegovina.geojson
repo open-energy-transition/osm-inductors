@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0875,
+          44.13111111
+        ]
+      },
+      "properties": {
+        "label": "Thermal Power Station Kakanj, Catici",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q17097885",
+        "country_qid": "Q225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6061,
+          44.52
+        ]
+      },
+      "properties": {
+        "label": "Tuzla Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7857286",
+        "country_qid": "Q225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.967222,
+          44.681944
+        ]
+      },
+      "properties": {
+        "label": "Ugljevik Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1780876",
+        "country_qid": "Q225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.114317,
+          44.08977
+        ]
+      },
+      "properties": {
+        "label": "Kakanj Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1786135",
+        "country_qid": "Q225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.516288888,
+          43.173619444
+        ]
+      },
+      "properties": {
+        "label": "Gacko Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q17775734",
+        "country_qid": "Q225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7914142,
+          44.7538346
+        ]
+      },
+      "properties": {
+        "label": "Stanari Thermal Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q18392784",
+        "country_qid": "Q225"
+      }
+    }
+  ]
+}

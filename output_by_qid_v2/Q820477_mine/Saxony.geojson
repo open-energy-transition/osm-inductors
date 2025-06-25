@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.622597,
+          51.021636
+        ]
+      },
+      "properties": {
+        "label": "royal coal mine Zauckerode",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q23788125",
+        "country_qid": "Q1202"
+      }
+    }
+  ]
+}

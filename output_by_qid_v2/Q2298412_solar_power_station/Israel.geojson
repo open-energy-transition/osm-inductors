@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.66994,
+          30.95972
+        ]
+      },
+      "properties": {
+        "label": "Q122828859",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q122828859",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.73004,
+          30.96269
+        ]
+      },
+      "properties": {
+        "label": "Ashalim power station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q2897210",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.059385,
+          29.964685
+        ]
+      },
+      "properties": {
+        "label": "Ketura Sun",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q6395591",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.74692,
+          30.97807
+        ]
+      },
+      "properties": {
+        "label": "Q122828862",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q122828862",
+        "country_qid": "Q801"
+      }
+    }
+  ]
+}

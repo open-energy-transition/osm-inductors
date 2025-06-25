@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.00694444,
+          0.20833333
+        ]
+      },
+      "properties": {
+        "label": "Kilembe Mines",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q25052479",
+        "country_qid": "Q1036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "label": "Ankole pegmatite field",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q28843414",
+        "country_qid": "Q1036"
+      }
+    }
+  ]
+}

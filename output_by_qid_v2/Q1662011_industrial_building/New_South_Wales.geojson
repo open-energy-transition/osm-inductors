@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.791815467,
+          -33.884150654
+        ]
+      },
+      "properties": {
+        "label": "Kemps Creek Zone Substation",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q122375971",
+        "country_qid": "Q3224"
+      }
+    }
+  ]
+}

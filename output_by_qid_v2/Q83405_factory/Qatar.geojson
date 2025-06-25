@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5555117,
+          25.8821404
+        ]
+      },
+      "properties": {
+        "label": "Oryx GTL",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q3886335",
+        "country_qid": "Q846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.50528,
+          25.905
+        ]
+      },
+      "properties": {
+        "label": "Pearl GTL",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q3373844",
+        "country_qid": "Q846"
+      }
+    }
+  ]
+}

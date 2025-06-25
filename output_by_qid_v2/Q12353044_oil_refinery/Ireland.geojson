@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2475,
+          51.818888888
+        ]
+      },
+      "properties": {
+        "label": "Whitegate refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q98399621",
+        "country_qid": "Q27"
+      }
+    }
+  ]
+}

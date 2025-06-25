@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5325,
+          35.77666667
+        ]
+      },
+      "properties": {
+        "label": "Meteorological Satellite Center",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q11548123",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.478,
+          35.801
+        ]
+      },
+      "properties": {
+        "label": "Tokyo Area Control Center",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q7813831",
+        "country_qid": "Q17"
+      }
+    }
+  ]
+}

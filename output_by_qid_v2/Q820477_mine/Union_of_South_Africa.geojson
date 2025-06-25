@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.32,
+          -26.1
+        ]
+      },
+      "properties": {
+        "label": "East Rand Gold Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q5329218",
+        "country_qid": "Q193619"
+      }
+    }
+  ]
+}

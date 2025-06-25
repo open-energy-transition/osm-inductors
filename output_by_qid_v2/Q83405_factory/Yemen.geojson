@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.20667,
+          15.35472
+        ]
+      },
+      "properties": {
+        "label": "Sana'a",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431187",
+        "country_qid": "Q805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0236,
+          15.3689
+        ]
+      },
+      "properties": {
+        "label": "Shaqir",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431262",
+        "country_qid": "Q805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.133333,
+          14.533333
+        ]
+      },
+      "properties": {
+        "label": "al-Mukalla",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431749",
+        "country_qid": "Q805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.793817,
+          14.986325
+        ]
+      },
+      "properties": {
+        "label": "Harib",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430339",
+        "country_qid": "Q805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.03667,
+          12.77944
+        ]
+      },
+      "properties": {
+        "label": "Aden",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127429450",
+        "country_qid": "Q805"
+      }
+    }
+  ]
+}

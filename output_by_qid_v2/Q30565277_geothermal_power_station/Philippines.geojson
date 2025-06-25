@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.92935,
+          13.0601
+        ]
+      },
+      "properties": {
+        "label": "BacMan Geothermal Production Field",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q23048102",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.64944444,
+          11.15194444
+        ]
+      },
+      "properties": {
+        "label": "Malitbog Geothermal Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q6743831",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.649472222,
+          13.465694444
+        ]
+      },
+      "properties": {
+        "label": "Tiwi Geothermal Power Plant",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q117480284",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.218583333,
+          14.091222222
+        ]
+      },
+      "properties": {
+        "label": "Mak–Ban Geothermal Power Plant",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q118900615",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.22,
+          7.013
+        ]
+      },
+      "properties": {
+        "label": "Mount Apo Geothermal Power Plant",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q19818687",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.171694444,
+          9.2935
+        ]
+      },
+      "properties": {
+        "label": "Palinpinon Geothermal Power Plant",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q118901881",
+        "country_qid": "Q928"
+      }
+    }
+  ]
+}

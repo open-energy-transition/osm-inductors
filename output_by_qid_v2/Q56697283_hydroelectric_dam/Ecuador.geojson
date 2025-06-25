@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6849914,
+          -0.1979037
+        ]
+      },
+      "properties": {
+        "label": "Coca Codo Sinclair Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q19277520",
+        "country_qid": "Q736"
+      }
+    }
+  ]
+}

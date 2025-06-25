@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5657298,
+          34.9672116
+        ]
+      },
+      "properties": {
+        "label": "Amir Kabir Solar Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q30224498",
+        "country_qid": "Q794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.56666667,
+          36.13333333
+        ]
+      },
+      "properties": {
+        "label": "Qazvin hydrogen power plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q7267336",
+        "country_qid": "Q794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.450805555,
+          36.355638888
+        ]
+      },
+      "properties": {
+        "label": "Mashhad Solar Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q23645777",
+        "country_qid": "Q794"
+      }
+    }
+  ]
+}

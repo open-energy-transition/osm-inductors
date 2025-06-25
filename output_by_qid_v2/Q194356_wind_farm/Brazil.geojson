@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.322597,
+          -33.650109
+        ]
+      },
+      "properties": {
+        "label": "Campos Neutrais Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q107411118",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.072777777,
+          -21.570833333
+        ]
+      },
+      "properties": {
+        "label": "Gargaú",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q30933330",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.975888888,
+          -6.578694444
+        ]
+      },
+      "properties": {
+        "label": "Q10345106",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q10345106",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.970888888,
+          -6.497083333
+        ]
+      },
+      "properties": {
+        "label": "Q10345103",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q10345103",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.031388888,
+          -2.918055555
+        ]
+      },
+      "properties": {
+        "label": "Q10388469",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q10388469",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.31222222,
+          -29.91805556
+        ]
+      },
+      "properties": {
+        "label": "Osório wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q7108288",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.3885825,
+          -5.104178
+        ]
+      },
+      "properties": {
+        "label": "Q10345544",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q10345544",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.638434,
+          -4.590329
+        ]
+      },
+      "properties": {
+        "label": "Lagoa do Mato wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q10345102",
+        "country_qid": "Q155"
+      }
+    }
+  ]
+}

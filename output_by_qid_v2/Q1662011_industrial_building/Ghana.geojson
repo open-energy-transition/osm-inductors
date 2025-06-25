@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.53094,
+          4.97865
+        ]
+      },
+      "properties": {
+        "label": "Atuabo Gas Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q20630321",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9513,
+          9.4016
+        ]
+      },
+      "properties": {
+        "label": "Avnash Company Limited",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q110453518",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09961,
+          5.587742
+        ]
+      },
+      "properties": {
+        "label": "Kane Kwei Carpentry Workshop",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q2474271",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.00562,
+          5.67304
+        ]
+      },
+      "properties": {
+        "label": "Tema Oil Refinery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q7697962",
+        "country_qid": "Q117"
+      }
+    }
+  ]
+}

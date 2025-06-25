@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.55111111,
+          40.70111111
+        ]
+      },
+      "properties": {
+        "label": "Fier Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q5447261",
+        "country_qid": "Q222"
+      }
+    }
+  ]
+}

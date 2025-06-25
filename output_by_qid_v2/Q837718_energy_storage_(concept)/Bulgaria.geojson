@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.591897,
+          43.350255
+        ]
+      },
+      "properties": {
+        "label": "Chiren gas storage",
+        "type": "Energy storage (concept)",
+        "entity": "http://www.wikidata.org/entity/Q61638089",
+        "country_qid": "Q219"
+      }
+    }
+  ]
+}

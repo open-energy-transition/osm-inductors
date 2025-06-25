@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.916666666,
+          23.7
+        ]
+      },
+      "properties": {
+        "label": "Ad Dakhla",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111387296",
+        "country_qid": "Q6250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.433333333,
+          27.083333333
+        ]
+      },
+      "properties": {
+        "label": "Laayoune",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386458",
+        "country_qid": "Q6250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.849161709,
+          26.315195345
+        ]
+      },
+      "properties": {
+        "label": "Bou Craa mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q127876778",
+        "country_qid": "Q6250"
+      }
+    }
+  ]
+}

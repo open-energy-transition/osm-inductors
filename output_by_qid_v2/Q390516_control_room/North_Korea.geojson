@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.773111,
+          39.146957
+        ]
+      },
+      "properties": {
+        "label": "General Satellite Control Center",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q866148",
+        "country_qid": "Q423"
+      }
+    }
+  ]
+}

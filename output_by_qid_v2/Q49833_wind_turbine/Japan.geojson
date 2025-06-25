@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.80816667,
+          35.60377778
+        ]
+      },
+      "properties": {
+        "label": "Q11525116",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q11525116",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.83908333,
+          42.44325
+        ]
+      },
+      "properties": {
+        "label": "Setana wind turbines",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q56026058",
+        "country_qid": "Q17"
+      }
+    }
+  ]
+}

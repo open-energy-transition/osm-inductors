@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0927793,
+          54.7610424
+        ]
+      },
+      "properties": {
+        "label": "Belarusian nuclear power plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q2639309",
+        "country_qid": "Q184"
+      }
+    }
+  ]
+}

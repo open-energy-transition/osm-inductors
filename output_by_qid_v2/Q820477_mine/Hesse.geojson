@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5771482,
+          50.4198948
+        ]
+      },
+      "properties": {
+        "label": "Silbersegen mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q60670506",
+        "country_qid": "Q1199"
+      }
+    }
+  ]
+}

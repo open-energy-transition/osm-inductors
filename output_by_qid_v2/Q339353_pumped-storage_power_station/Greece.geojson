@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.374805555,
+          41.361805555
+        ]
+      },
+      "properties": {
+        "label": "Thisavros hydroelectric power station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q30973446",
+        "country_qid": "Q41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.192777777,
+          40.397888888
+        ]
+      },
+      "properties": {
+        "label": "Sfikia hydro power station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q19388300",
+        "country_qid": "Q41"
+      }
+    }
+  ]
+}

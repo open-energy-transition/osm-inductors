@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9053,
+          47.3338
+        ]
+      },
+      "properties": {
+        "label": "Dunai Solar Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q65074237",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.883333,
+          48.1
+        ]
+      },
+      "properties": {
+        "label": "Felsőzsolca Solar Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q65074225",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2573569,
+          46.0596455
+        ]
+      },
+      "properties": {
+        "label": "Pécs Solar Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q31093036",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.05,
+          47.8
+        ]
+      },
+      "properties": {
+        "label": "Mátra Solar Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q65074339",
+        "country_qid": "Q28"
+      }
+    }
+  ]
+}

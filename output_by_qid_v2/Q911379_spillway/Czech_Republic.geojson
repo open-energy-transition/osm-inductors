@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4672056,
+          50.1075356
+        ]
+      },
+      "properties": {
+        "label": "Bezpečnostní přeliv mezi Libeňským přístavem a Rokytkou",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q108150153",
+        "country_qid": "Q213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4599944,
+          50.16496
+        ]
+      },
+      "properties": {
+        "label": "Q116974592",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q116974592",
+        "country_qid": "Q213"
+      }
+    }
+  ]
+}

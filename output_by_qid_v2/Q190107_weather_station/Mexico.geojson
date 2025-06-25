@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9,
+          21.93
+        ]
+      },
+      "properties": {
+        "label": "Requetemu",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q7314812",
+        "country_qid": "Q96"
+      }
+    }
+  ]
+}

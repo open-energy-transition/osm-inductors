@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6266,
+          17.9837
+        ]
+      },
+      "properties": {
+        "label": "Alpart",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q4734764",
+        "country_qid": "Q766"
+      }
+    }
+  ]
+}

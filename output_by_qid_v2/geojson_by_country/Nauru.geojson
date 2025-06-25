@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.90882,
+          -0.5316
+        ]
+      },
+      "properties": {
+        "label": "Collapsed Cantilever Section 2010",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q34953860",
+        "country_qid": "Q697"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.90884,
+          -0.53088
+        ]
+      },
+      "properties": {
+        "label": "Cantilever Phosphate Loading System North",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q34953721",
+        "country_qid": "Q697"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.90876,
+          -0.53663
+        ]
+      },
+      "properties": {
+        "label": "Cantilever Phosphate Loading System South",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q34953731",
+        "country_qid": "Q697"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.950388,
+          -0.536949
+        ]
+      },
+      "properties": {
+        "label": "Port of Anibare",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q1413788",
+        "country_qid": "Q697"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.9094,
+          -0.5345
+        ]
+      },
+      "properties": {
+        "label": "Aiwo Harbour",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q3398436",
+        "country_qid": "Q697"
+      }
+    }
+  ]
+}

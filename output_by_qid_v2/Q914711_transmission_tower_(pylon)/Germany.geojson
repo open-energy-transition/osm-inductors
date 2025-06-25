@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.240488888,
+          52.535761111
+        ]
+      },
+      "properties": {
+        "label": "Reuter West concrete pylon",
+        "type": "Transmission tower (pylon)",
+        "entity": "http://www.wikidata.org/entity/Q52193675",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.778846,
+          49.627205
+        ]
+      },
+      "properties": {
+        "label": "Anlage 7610, Mast 69",
+        "type": "Transmission tower (pylon)",
+        "entity": "http://www.wikidata.org/entity/Q66826825",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98465,
+          49.60424
+        ]
+      },
+      "properties": {
+        "label": "Mast x",
+        "type": "Transmission tower (pylon)",
+        "entity": "http://www.wikidata.org/entity/Q111602131",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.874185,
+          52.577142
+        ]
+      },
+      "properties": {
+        "label": "Western tower of overhead wire of Straussee ferry",
+        "type": "Transmission tower (pylon)",
+        "entity": "http://www.wikidata.org/entity/Q120729673",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8796,
+          52.576766
+        ]
+      },
+      "properties": {
+        "label": "Eastern tower of overhead wire of Straussee ferry",
+        "type": "Transmission tower (pylon)",
+        "entity": "http://www.wikidata.org/entity/Q120722646",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.859039,
+          50.847935
+        ]
+      },
+      "properties": {
+        "label": "Anlage 4101, Mast 93",
+        "type": "Transmission tower (pylon)",
+        "entity": "http://www.wikidata.org/entity/Q94752054",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8075871,
+          49.6310307
+        ]
+      },
+      "properties": {
+        "label": "Anlage 7610, Mast 74",
+        "type": "Transmission tower (pylon)",
+        "entity": "http://www.wikidata.org/entity/Q107201206",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.450768947,
+          51.413835562
+        ]
+      },
+      "properties": {
+        "label": "Portalmasten am Koepchenwerk",
+        "type": "Transmission tower (pylon)",
+        "entity": "http://www.wikidata.org/entity/Q113467111",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59194,
+          48.09972
+        ]
+      },
+      "properties": {
+        "label": "Stadelheim Transmitter",
+        "type": "Transmission tower (pylon)",
+        "entity": "http://www.wikidata.org/entity/Q7596255",
+        "country_qid": "Q183"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.620479,
+          -28.98575
+        ]
+      },
+      "properties": {
+        "label": "Lighobong diamond mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16977680",
+        "country_qid": "Q1013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.86194444,
+          -29.00027778
+        ]
+      },
+      "properties": {
+        "label": "Letseng diamond mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q3642234",
+        "country_qid": "Q1013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.859166666,
+          -29.006111111
+        ]
+      },
+      "properties": {
+        "label": "Q27480704",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27480704",
+        "country_qid": "Q1013"
+      }
+    }
+  ]
+}

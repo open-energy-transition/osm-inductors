@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.231666666,
+          23.967777777
+        ]
+      },
+      "properties": {
+        "label": "Barakah nuclear power plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q19959586",
+        "country_qid": "Q878"
+      }
+    }
+  ]
+}

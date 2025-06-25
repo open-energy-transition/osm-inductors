@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9,
+          8.516666666
+        ]
+      },
+      "properties": {
+        "label": "Simandou mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16969455",
+        "country_qid": "Q1006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.766666666,
+          11.1
+        ]
+      },
+      "properties": {
+        "label": "Q24848822",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q24848822",
+        "country_qid": "Q1006"
+      }
+    }
+  ]
+}

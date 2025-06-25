@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.736,
+          54.347
+        ]
+      },
+      "properties": {
+        "label": "Gdańsk refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q5529384",
+        "country_qid": "Q36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.739591666,
+          54.346477777
+        ]
+      },
+      "properties": {
+        "label": "Gdańsk refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q65976364",
+        "country_qid": "Q36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6839,
+          52.5858
+        ]
+      },
+      "properties": {
+        "label": "Płock refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q7265108",
+        "country_qid": "Q36"
+      }
+    }
+  ]
+}

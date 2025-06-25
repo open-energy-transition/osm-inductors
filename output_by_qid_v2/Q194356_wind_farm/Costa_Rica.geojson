@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.995826,
+          9.777102
+        ]
+      },
+      "properties": {
+        "label": "Los Santos Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q96390826",
+        "country_qid": "Q800"
+      }
+    }
+  ]
+}

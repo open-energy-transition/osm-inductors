@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.16003,
+          19.37245
+        ]
+      },
+      "properties": {
+        "label": "Centro de Comando y Control Sur",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q128799796",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.19934,
+          19.39095
+        ]
+      },
+      "properties": {
+        "label": "Centro de Comando y Control Poniente",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q128799798",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.06498,
+          19.31285
+        ]
+      },
+      "properties": {
+        "label": "Centro de Comando y Control Oriente",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q128799802",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.14631,
+          19.43171
+        ]
+      },
+      "properties": {
+        "label": "Centro de Comando y Control Centro",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q128799785",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1172,
+          19.48286
+        ]
+      },
+      "properties": {
+        "label": "Centro de Comando y Control Norte",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q128799793",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.14615,
+          19.43171
+        ]
+      },
+      "properties": {
+        "label": "Centro de Comando y Control Centro Histórico",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q128799805",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.11804,
+          19.42476
+        ]
+      },
+      "properties": {
+        "label": "C5 in Mexico City",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q128799742",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09651,
+          19.3729
+        ]
+      },
+      "properties": {
+        "label": "Centro de Comando y Control Central de Abasto",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q128799804",
+        "country_qid": "Q96"
+      }
+    }
+  ]
+}

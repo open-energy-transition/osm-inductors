@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6324177,
+          7.8481411
+        ]
+      },
+      "properties": {
+        "label": "Termotasajero",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q25227005",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9475658,
+          4.9704119
+        ]
+      },
+      "properties": {
+        "label": "Martín del Corral thermal power station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q12005596",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5937803,
+          7.9920131
+        ]
+      },
+      "properties": {
+        "label": "Gecelca 3",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q113330515",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4154186,
+          11.2611637
+        ]
+      },
+      "properties": {
+        "label": "Termoguajira",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q113330552",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14694444,
+          5.76833333
+        ]
+      },
+      "properties": {
+        "label": "Termopaipa",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1346032",
+        "country_qid": "Q739"
+      }
+    }
+  ]
+}

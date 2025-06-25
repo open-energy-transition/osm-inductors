@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.16666667,
+          60.40333333
+        ]
+      },
+      "properties": {
+        "label": "Forsmark Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1575435",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.92083333,
+          55.74444444
+        ]
+      },
+      "properties": {
+        "label": "Barsebäck Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q656534",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.10833333,
+          57.26111111
+        ]
+      },
+      "properties": {
+        "label": "Ringhals Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q205774",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.67111111,
+          57.41555556
+        ]
+      },
+      "properties": {
+        "label": "Oskarshamn Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1539046",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0825,
+          59.20611111
+        ]
+      },
+      "properties": {
+        "label": "Ågesta Nuclear Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1739508",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.83277778,
+          58.55305556
+        ]
+      },
+      "properties": {
+        "label": "R4 nuclear reactor",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q4357537",
+        "country_qid": "Q34"
+      }
+    }
+  ]
+}

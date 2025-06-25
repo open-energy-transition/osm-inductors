@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.43722222,
+          34.55111111
+        ]
+      },
+      "properties": {
+        "label": "Adelanto Converter Station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q23016607",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8441,
+          33.0583
+        ]
+      },
+      "properties": {
+        "label": "Welsh HVDC Converter Station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q7981907",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.083,
+          34.4
+        ]
+      },
+      "properties": {
+        "label": "Tres Amigas SuperStation",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q7838703",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.481,
+          34.312
+        ]
+      },
+      "properties": {
+        "label": "Sylmar Converter Station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q7660590",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.988,
+          41.1642
+        ]
+      },
+      "properties": {
+        "label": "Virginia Smith Converter Station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q7934519",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.113,
+          45.5938
+        ]
+      },
+      "properties": {
+        "label": "Celilo Converter Station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q5058055",
+        "country_qid": "Q30"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7181129,
+          60.149878
+        ]
+      },
+      "properties": {
+        "label": "Suomenoja power plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11895176",
+        "country_qid": "Q33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6752,
+          61.5104
+        ]
+      },
+      "properties": {
+        "label": "Lielahti power plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q18660558",
+        "country_qid": "Q33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.777222222,
+          61.509444444
+        ]
+      },
+      "properties": {
+        "label": "Naistenlahti power plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q69564063",
+        "country_qid": "Q33"
+      }
+    }
+  ]
+}

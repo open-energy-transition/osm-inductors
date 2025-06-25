@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5257,
+          -22.6784
+        ]
+      },
+      "properties": {
+        "label": "Swakopmund Bookshop",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q54981693",
+        "country_qid": "Q1030"
+      }
+    }
+  ]
+}

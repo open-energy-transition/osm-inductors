@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0053288,
+          44.6548824
+        ]
+      },
+      "properties": {
+        "label": "Nikola Tesla B thermal power plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11991316",
+        "country_qid": "Q403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1627492,
+          44.224673
+        ]
+      },
+      "properties": {
+        "label": "Morava thermal power plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q105964305",
+        "country_qid": "Q403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.15963,
+          44.6708181
+        ]
+      },
+      "properties": {
+        "label": "Nikola Tesla A thermal power plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11991325",
+        "country_qid": "Q403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2097394,
+          44.7299442
+        ]
+      },
+      "properties": {
+        "label": "Kostolac B Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11878022",
+        "country_qid": "Q403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.787666,
+          45.120333
+        ]
+      },
+      "properties": {
+        "label": "Врдник",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q20435253",
+        "country_qid": "Q403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2937686,
+          44.4808167
+        ]
+      },
+      "properties": {
+        "label": "Thermal power plant Kolubara",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q18394121",
+        "country_qid": "Q403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1713088,
+          44.722535
+        ]
+      },
+      "properties": {
+        "label": "Kostolac A Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11981887",
+        "country_qid": "Q403"
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.333333333,
+          34.5
+        ]
+      },
+      "properties": {
+        "label": "Binhai North H2 Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q110027636",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.120555555,
+          22.225
+        ]
+      },
+      "properties": {
+        "label": "Lamma Winds",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q6482068",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.757,
+          40.343
+        ]
+      },
+      "properties": {
+        "label": "Guanting Wind Power Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q19360154",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.26,
+          30.504
+        ]
+      },
+      "properties": {
+        "label": "Longyuan Rudong Intertidal Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q6674579",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.181944444,
+          32.921111111
+        ]
+      },
+      "properties": {
+        "label": "Jiangsu Luneng Dongtai",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q59228318",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.902222222,
+          40.199722222
+        ]
+      },
+      "properties": {
+        "label": "Gansu Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q32243",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.026,
+          23.4495
+        ]
+      },
+      "properties": {
+        "label": "Nan'ao Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q65084402",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.994,
+          30.77
+        ]
+      },
+      "properties": {
+        "label": "Donghai Bridge Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q5295915",
+        "country_qid": "Q148"
+      }
+    }
+  ]
+}

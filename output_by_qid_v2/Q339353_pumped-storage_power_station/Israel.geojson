@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.517283,
+          32.601733
+        ]
+      },
+      "properties": {
+        "label": "Kokhav Hayarden Pumped Storage Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q116980507",
+        "country_qid": "Q801"
+      }
+    }
+  ]
+}

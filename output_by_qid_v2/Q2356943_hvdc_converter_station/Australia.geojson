@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.238888888,
+          -34.293611111
+        ]
+      },
+      "properties": {
+        "label": "Murraylink (Red Cliffs)",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q29020454",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.608055555,
+          -38.2625
+        ]
+      },
+      "properties": {
+        "label": "Basslink L.C.",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q29020540",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.600277777,
+          -34.238055555
+        ]
+      },
+      "properties": {
+        "label": "Murraylink (Monash)",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q29020605",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.891944444,
+          -41.114722222
+        ]
+      },
+      "properties": {
+        "label": "Basslink George Town",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q29020705",
+        "country_qid": "Q408"
+      }
+    }
+  ]
+}

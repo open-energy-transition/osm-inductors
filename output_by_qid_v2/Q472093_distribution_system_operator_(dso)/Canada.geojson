@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5625,
+          45.508333
+        ]
+      },
+      "properties": {
+        "label": "Hydro-Quebec",
+        "type": "distribution system operator (DSO)",
+        "entity": "http://www.wikidata.org/entity/Q167840",
+        "country_qid": "Q16"
+      }
+    }
+  ]
+}

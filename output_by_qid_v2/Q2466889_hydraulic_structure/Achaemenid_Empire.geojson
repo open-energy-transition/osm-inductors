@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.935883,
+          30.560303
+        ]
+      },
+      "properties": {
+        "label": "Canal of the Pharaohs",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q959073",
+        "country_qid": "Q389688"
+      }
+    }
+  ]
+}

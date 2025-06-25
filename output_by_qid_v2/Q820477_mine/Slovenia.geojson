@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.85528,
+          46.51306
+        ]
+      },
+      "properties": {
+        "label": "Mežica Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q12800524",
+        "country_qid": "Q215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.18618889,
+          46.15873889
+        ]
+      },
+      "properties": {
+        "label": "Barbara Pit",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q807324",
+        "country_qid": "Q215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9900689,
+          46.1391389
+        ]
+      },
+      "properties": {
+        "label": "Mine in Zagorje ob Savi",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q50285610",
+        "country_qid": "Q215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.064867412,
+          46.369690423
+        ]
+      },
+      "properties": {
+        "label": "Premogovnik Velenje",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q12799436",
+        "country_qid": "Q215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.26557778,
+          46.41136667
+        ]
+      },
+      "properties": {
+        "label": "St. Anna Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q12807134",
+        "country_qid": "Q215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.856656862,
+          46.512089375
+        ]
+      },
+      "properties": {
+        "label": "Q60353376",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q60353376",
+        "country_qid": "Q215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.02252769,
+          45.99968338
+        ]
+      },
+      "properties": {
+        "label": "Idrija mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q12073970",
+        "country_qid": "Q215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.862783887,
+          46.513207534
+        ]
+      },
+      "properties": {
+        "label": "Q60353381",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q60353381",
+        "country_qid": "Q215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3367273,
+          46.0072997
+        ]
+      },
+      "properties": {
+        "label": "Kucler quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q20522740",
+        "country_qid": "Q215"
+      }
+    }
+  ]
+}

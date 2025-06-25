@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.459427,
+          14.746341
+        ]
+      },
+      "properties": {
+        "label": "Village des Arts de Dakar",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q3558979",
+        "country_qid": "Q1041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.503055555,
+          14.724444444
+        ]
+      },
+      "properties": {
+        "label": "Mamelles Desalination Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q112659542",
+        "country_qid": "Q1041"
+      }
+    }
+  ]
+}

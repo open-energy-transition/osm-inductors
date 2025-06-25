@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.325102777,
+          53.962294444
+        ]
+      },
+      "properties": {
+        "label": "Water mill in Klein Rönnau",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q53870397",
+        "country_qid": "Q1194"
+      }
+    }
+  ]
+}

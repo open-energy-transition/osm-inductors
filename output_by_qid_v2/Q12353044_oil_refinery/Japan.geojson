@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.68947222,
+          33.26647222
+        ]
+      },
+      "properties": {
+        "label": "Ohita Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q11226747",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.6567966,
+          42.6329406
+        ]
+      },
+      "properties": {
+        "label": "Hokkaido Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q16826197",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.12038889,
+          34.10519444
+        ]
+      },
+      "properties": {
+        "label": "Wakayama Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q11528049",
+        "country_qid": "Q17"
+      }
+    }
+  ]
+}

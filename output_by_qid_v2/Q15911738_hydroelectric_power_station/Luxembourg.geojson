@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.17805556,
+          49.95
+        ]
+      },
+      "properties": {
+        "label": "Vianden Pumped Storage Plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q328955",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.92277778,
+          49.91166667
+        ]
+      },
+      "properties": {
+        "label": "Esch-sur-Sûre Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q1366851",
+        "country_qid": "Q32"
+      }
+    }
+  ]
+}

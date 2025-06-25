@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.234444444,
+          14.838888888
+        ]
+      },
+      "properties": {
+        "label": "Lake Retba",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q1522557",
+        "country_qid": "Q1041"
+      }
+    }
+  ]
+}

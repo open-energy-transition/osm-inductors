@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.51624,
+          -12.96179
+        ]
+      },
+      "properties": {
+        "label": "Simon Mwansa Kapwepwe",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q111009324",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.0731,
+          -10.543
+        ]
+      },
+      "properties": {
+        "label": "Chinsali Ftc",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q110315108",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.633333333,
+          -10.116666666
+        ]
+      },
+      "properties": {
+        "label": "Isoka",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q110991297",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.383333333,
+          -12.183333333
+        ]
+      },
+      "properties": {
+        "label": "Solwezi",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q110995449",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.88,
+          -16.79
+        ]
+      },
+      "properties": {
+        "label": "Chipepo",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q110315148",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5833,
+          -13.55
+        ]
+      },
+      "properties": {
+        "label": "Chipata",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q110314949",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3,
+          -17.466666666
+        ]
+      },
+      "properties": {
+        "label": "Sesheke",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q110439945",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.06,
+          -16.83
+        ]
+      },
+      "properties": {
+        "label": "Choma",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q110315035",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.216666666,
+          -13.233333333
+        ]
+      },
+      "properties": {
+        "label": "Serenje",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q110420961",
+        "country_qid": "Q953"
+      }
+    }
+  ]
+}

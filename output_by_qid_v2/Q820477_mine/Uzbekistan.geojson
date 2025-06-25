@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.2,
+          41.566666666
+        ]
+      },
+      "properties": {
+        "label": "Zarafshon",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q147697",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.57166667,
+          41.49833333
+        ]
+      },
+      "properties": {
+        "label": "Muruntau gold mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q6939823",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.9,
+          42.25
+        ]
+      },
+      "properties": {
+        "label": "Kokpatas gold mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q124327316",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.7745,
+          40.7757
+        ]
+      },
+      "properties": {
+        "label": "Sary Ceku mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16509668",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.555555555,
+          42.156666666
+        ]
+      },
+      "properties": {
+        "label": "Uchkuduk",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q6364",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.5775,
+          41.49583
+        ]
+      },
+      "properties": {
+        "label": "Muruntau mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q17489307",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.6451,
+          40.8156
+        ]
+      },
+      "properties": {
+        "label": "Kalmakyr mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16509576",
+        "country_qid": "Q265"
+      }
+    }
+  ]
+}

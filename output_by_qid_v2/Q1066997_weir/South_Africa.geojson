@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.064833333,
+          -26.549388888
+        ]
+      },
+      "properties": {
+        "label": "Kidson Weir",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q6405029",
+        "country_qid": "Q258"
+      }
+    }
+  ]
+}

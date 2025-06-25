@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0671,
+          18.3784
+        ]
+      },
+      "properties": {
+        "label": "Boca de Nigua sugar mill",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q65123705",
+        "country_qid": "Q786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.060666666,
+          18.366347222
+        ]
+      },
+      "properties": {
+        "label": "Diego Caballero Sugar Mill",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q5274596",
+        "country_qid": "Q786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.000763888,
+          18.448513888
+        ]
+      },
+      "properties": {
+        "label": "Engombe sugar mill",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q5378723",
+        "country_qid": "Q786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.989,
+          18.547
+        ]
+      },
+      "properties": {
+        "label": "La Duquesa Sugar Mill",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q6462287",
+        "country_qid": "Q786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.03475,
+          18.48045
+        ]
+      },
+      "properties": {
+        "label": "Palavé sugar mill",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q7126925",
+        "country_qid": "Q786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.060210145,
+          18.372941488
+        ]
+      },
+      "properties": {
+        "label": "Nigua Sugar Mill",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q7034158",
+        "country_qid": "Q786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8046,
+          18.5714
+        ]
+      },
+      "properties": {
+        "label": "Sanate Sugar Mill",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q65123190",
+        "country_qid": "Q786"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.06740556,
+          22.094275
+        ]
+      },
+      "properties": {
+        "label": "Hanabanilla Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q17004157",
+        "country_qid": "Q241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3557,
+          21.8037
+        ]
+      },
+      "properties": {
+        "label": "Zaza Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q16904439",
+        "country_qid": "Q241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.98043056,
+          20.55805
+        ]
+      },
+      "properties": {
+        "label": "Nuevo Mundo Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q17012819",
+        "country_qid": "Q241"
+      }
+    }
+  ]
+}

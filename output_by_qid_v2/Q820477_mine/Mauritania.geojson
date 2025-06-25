@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.58167,
+          22.68056
+        ]
+      },
+      "properties": {
+        "label": "Q3443142",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q3443142",
+        "country_qid": "Q1025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.6989692,
+          22.384104
+        ]
+      },
+      "properties": {
+        "label": "Askaf",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16208429",
+        "country_qid": "Q1025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.5,
+          20.5833
+        ]
+      },
+      "properties": {
+        "label": "Tasiast Gold Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q5356974",
+        "country_qid": "Q1025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.689722222,
+          22.672777777
+        ]
+      },
+      "properties": {
+        "label": "Fdérik",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27733661",
+        "country_qid": "Q1025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.4863267,
+          22.7025436
+        ]
+      },
+      "properties": {
+        "label": "Q3516513",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q3516513",
+        "country_qid": "Q1025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.28333333,
+          24.88333333
+        ]
+      },
+      "properties": {
+        "label": "A238 mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16001300",
+        "country_qid": "Q1025"
+      }
+    }
+  ]
+}

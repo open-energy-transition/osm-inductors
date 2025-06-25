@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.8275,
+          6.8975
+        ]
+      },
+      "properties": {
+        "label": "Bomi Hills Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27466541",
+        "country_qid": "Q1014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.183333333,
+          6.843888888
+        ]
+      },
+      "properties": {
+        "label": "Greenhill Quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27466315",
+        "country_qid": "Q1014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.124722222,
+          7.334444444
+        ]
+      },
+      "properties": {
+        "label": "Mano River Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27459257",
+        "country_qid": "Q1014"
+      }
+    }
+  ]
+}

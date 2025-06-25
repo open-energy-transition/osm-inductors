@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.34027778,
+          -39.265
+        ]
+      },
+      "properties": {
+        "label": "Ahuroa Gas Storage Facility",
+        "type": "Energy storage (concept)",
+        "entity": "http://www.wikidata.org/entity/Q15178544",
+        "country_qid": "Q664"
+      }
+    }
+  ]
+}

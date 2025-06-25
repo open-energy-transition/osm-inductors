@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6677057,
+          1.2763845
+        ]
+      },
+      "properties": {
+        "label": "Tembusu Multi-Utilities Complex",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q116735026",
+        "country_qid": "Q334"
+      }
+    }
+  ]
+}

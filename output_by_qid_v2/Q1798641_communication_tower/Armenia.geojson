@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.536158333,
+          40.171288888
+        ]
+      },
+      "properties": {
+        "label": "Yerevan TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1407311",
+        "country_qid": "Q399"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.195555555,
+          29.8775
+        ]
+      },
+      "properties": {
+        "label": "Lhasa Converter Station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q130251265",
+        "country_qid": "Q148"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.709166666,
+          -0.895
+        ]
+      },
+      "properties": {
+        "label": "Embalse Daule-Peripa",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23886712",
+        "country_qid": "Q736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.158888888,
+          -1.1075
+        ]
+      },
+      "properties": {
+        "label": "Poza Honda",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23874171",
+        "country_qid": "Q736"
+      }
+    }
+  ]
+}

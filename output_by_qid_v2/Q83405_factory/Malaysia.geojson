@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5579,
+          3.3548
+        ]
+      },
+      "properties": {
+        "label": "Tan Chong Motor Assemblies Rawang",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q110029653",
+        "country_qid": "Q833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.67318,
+          3.18422
+        ]
+      },
+      "properties": {
+        "label": "Tan Chong Motor Assemblies Segambut",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q110029620",
+        "country_qid": "Q833"
+      }
+    }
+  ]
+}

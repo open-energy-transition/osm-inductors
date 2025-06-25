@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.91676,
+          45.972176
+        ]
+      },
+      "properties": {
+        "label": "Velebit",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q91238961",
+        "country_qid": "Q55630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.350646,
+          44.642328
+        ]
+      },
+      "properties": {
+        "label": "Kasidol",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q91250626",
+        "country_qid": "Q55630"
+      }
+    }
+  ]
+}

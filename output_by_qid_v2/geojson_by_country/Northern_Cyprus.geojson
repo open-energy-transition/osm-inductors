@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.941667,
+          35.125
+        ]
+      },
+      "properties": {
+        "label": "Famagusta",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430236",
+        "country_qid": "Q23681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.903589,
+          35.175101
+        ]
+      },
+      "properties": {
+        "label": "Salamis",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127431166",
+        "country_qid": "Q23681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8126,
+          35.1404
+        ]
+      },
+      "properties": {
+        "label": "Soli",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127431305",
+        "country_qid": "Q23681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.202109,
+          35.350592
+        ]
+      },
+      "properties": {
+        "label": "Lapethus",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430555",
+        "country_qid": "Q23681"
+      }
+    }
+  ]
+}

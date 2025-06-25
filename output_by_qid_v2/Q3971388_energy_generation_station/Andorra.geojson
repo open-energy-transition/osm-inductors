@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.553594444,
+          42.515030555
+        ]
+      },
+      "properties": {
+        "label": "Escaldes Hydroelectric Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q19902246",
+        "country_qid": "Q228"
+      }
+    }
+  ]
+}

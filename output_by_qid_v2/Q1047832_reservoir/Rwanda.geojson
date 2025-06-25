@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4,
+          -1.85
+        ]
+      },
+      "properties": {
+        "label": "Lake Muhazi",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3215074",
+        "country_qid": "Q1037"
+      }
+    }
+  ]
+}

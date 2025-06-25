@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.180194444,
+          -34.908083333
+        ]
+      },
+      "properties": {
+        "label": "Torre SAETA",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q109313102",
+        "country_qid": "Q77"
+      }
+    }
+  ]
+}

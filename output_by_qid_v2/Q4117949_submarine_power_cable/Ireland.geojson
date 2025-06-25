@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8257,
+          53.5305
+        ]
+      },
+      "properties": {
+        "label": "East–West Interconnector",
+        "type": "submarine power cable",
+        "entity": "http://www.wikidata.org/entity/Q5331045",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1441,
+          51.6828
+        ]
+      },
+      "properties": {
+        "label": "Greenlink",
+        "type": "submarine power cable",
+        "entity": "http://www.wikidata.org/entity/Q85764561",
+        "country_qid": "Q27"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.987438321,
+          53.823541204
+        ]
+      },
+      "properties": {
+        "label": "Golczewo gantry tower",
+        "type": "Transmission tower (pylon)",
+        "entity": "http://www.wikidata.org/entity/Q113564718",
+        "country_qid": "Q36"
+      }
+    }
+  ]
+}

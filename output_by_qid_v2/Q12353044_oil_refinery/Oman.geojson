@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.683,
+          19.68459
+        ]
+      },
+      "properties": {
+        "label": "Duqm Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q111710552",
+        "country_qid": "Q842"
+      }
+    }
+  ]
+}

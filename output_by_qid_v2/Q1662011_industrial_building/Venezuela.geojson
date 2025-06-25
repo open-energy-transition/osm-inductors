@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.195,
+          11.74666667
+        ]
+      },
+      "properties": {
+        "label": "Paraguaná Refinery Complex",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q2219131",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.593111111,
+          10.478083333
+        ]
+      },
+      "properties": {
+        "label": "Villa del Cine",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q7930558",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.40722222,
+          10.21416667
+        ]
+      },
+      "properties": {
+        "label": "Ingenio Bolívar",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q5916100",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9504423,
+          10.5219524
+        ]
+      },
+      "properties": {
+        "label": "Planta Gramoven",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q109772732",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.260482166,
+          10.242137833
+        ]
+      },
+      "properties": {
+        "label": "Hacienda Santa Teresa",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q106172540",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6204,
+          10.2219
+        ]
+      },
+      "properties": {
+        "label": "Puerto la Cruz refinery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q6103449",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.195,
+          11.74666667
+        ]
+      },
+      "properties": {
+        "label": "Amuay refinery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q5779930",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.118611111,
+          10.4825
+        ]
+      },
+      "properties": {
+        "label": "El Palito oil refinery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q5779953",
+        "country_qid": "Q717"
+      }
+    }
+  ]
+}

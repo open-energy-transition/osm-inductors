@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.662,
+          10.529
+        ]
+      },
+      "properties": {
+        "label": "Garafiri Hydroelectric Power Plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q24853719",
+        "country_qid": "Q1006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.281,
+          10.464111111
+        ]
+      },
+      "properties": {
+        "label": "Barrage de Kaléta",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q30744033",
+        "country_qid": "Q1006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2819,
+          10.4634
+        ]
+      },
+      "properties": {
+        "label": "Kaleta Hydropower Plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q104856249",
+        "country_qid": "Q1006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.345833333,
+          11.268333333
+        ]
+      },
+      "properties": {
+        "label": "Koukoutamba Hydroelectric Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q108502779",
+        "country_qid": "Q1006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.251305555,
+          10.424555555
+        ]
+      },
+      "properties": {
+        "label": "Souapiti Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q46963910",
+        "country_qid": "Q1006"
+      }
+    }
+  ]
+}

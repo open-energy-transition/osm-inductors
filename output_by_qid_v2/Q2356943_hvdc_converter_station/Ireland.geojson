@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2302,
+          51.9158
+        ]
+      },
+      "properties": {
+        "label": "Ballyadam Converter Station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q122969878",
+        "country_qid": "Q27"
+      }
+    }
+  ]
+}

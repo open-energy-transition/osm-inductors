@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.401388888,
+          53.871944444
+        ]
+      },
+      "properties": {
+        "label": "Minsk 4 power station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11989589",
+        "country_qid": "Q184"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.05728056,
+          44.32234722
+        ]
+      },
+      "properties": {
+        "label": "Cernavodă Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1248956",
+        "country_qid": "Q218"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4744027,
+          10.6493863
+        ]
+      },
+      "properties": {
+        "label": "House of Angostura",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q5914657",
+        "country_qid": "Q754"
+      }
+    }
+  ]
+}

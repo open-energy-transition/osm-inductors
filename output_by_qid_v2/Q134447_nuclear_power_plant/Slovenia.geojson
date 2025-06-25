@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.51546944,
+          45.93841389
+        ]
+      },
+      "properties": {
+        "label": "Krško Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q474478",
+        "country_qid": "Q215"
+      }
+    }
+  ]
+}

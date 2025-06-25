@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.645386,
+          47.564828
+        ]
+      },
+      "properties": {
+        "label": "Enerhodar Dnipro Powerline Crossing",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q1232905",
+        "country_qid": "Q212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.07805556,
+          47.85361111
+        ]
+      },
+      "properties": {
+        "label": "Zaporizhzhia Pylon Triples",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q1907988",
+        "country_qid": "Q212"
+      }
+    }
+  ]
+}

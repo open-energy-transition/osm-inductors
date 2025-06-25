@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.265769,
+          51.339714
+        ]
+      },
+      "properties": {
+        "label": "Scheldt overhead power line crossing Doel",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q2232934",
+        "country_qid": "Q31"
+      }
+    }
+  ]
+}

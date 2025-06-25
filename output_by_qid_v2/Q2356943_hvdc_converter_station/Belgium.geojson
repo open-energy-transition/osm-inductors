@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.21,
+          51.265
+        ]
+      },
+      "properties": {
+        "label": "Brugge converter station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q55873064",
+        "country_qid": "Q31"
+      }
+    }
+  ]
+}

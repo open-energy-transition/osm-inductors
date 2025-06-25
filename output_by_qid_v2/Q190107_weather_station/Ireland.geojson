@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.37359,
+          55.38097
+        ]
+      },
+      "properties": {
+        "label": "Malin Signal Tower",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q55049245",
+        "country_qid": "Q27"
+      }
+    }
+  ]
+}

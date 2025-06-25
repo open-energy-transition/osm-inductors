@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2684,
+          52.7508
+        ]
+      },
+      "properties": {
+        "label": "Gorzów Heat and Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11696552",
+        "country_qid": "Q36"
+      }
+    }
+  ]
+}

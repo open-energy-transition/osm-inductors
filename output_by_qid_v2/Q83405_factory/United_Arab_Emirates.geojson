@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.727833,
+          24.106288
+        ]
+      },
+      "properties": {
+        "label": "Ruwais Refinery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q39049731",
+        "country_qid": "Q878"
+      }
+    }
+  ]
+}

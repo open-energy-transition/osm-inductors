@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5011,
+          55.77291
+        ]
+      },
+      "properties": {
+        "label": "Lyngby Stemmeværk",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q122839792",
+        "country_qid": "Q35"
+      }
+    }
+  ]
+}

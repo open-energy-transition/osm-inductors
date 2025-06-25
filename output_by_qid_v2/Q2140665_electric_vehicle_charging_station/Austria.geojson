@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.293779084,
+          48.522441425
+        ]
+      },
+      "properties": {
+        "label": "Q120961065",
+        "type": "Electric vehicle charging station",
+        "entity": "http://www.wikidata.org/entity/Q120961065",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.538388,
+          47.853343
+        ]
+      },
+      "properties": {
+        "label": "EV charging station at Kasernenstraße 13a, Eisenstadt",
+        "type": "Electric vehicle charging station",
+        "entity": "http://www.wikidata.org/entity/Q83009020",
+        "country_qid": "Q40"
+      }
+    }
+  ]
+}

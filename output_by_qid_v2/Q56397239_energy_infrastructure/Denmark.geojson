@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0364,
+          57.0699
+        ]
+      },
+      "properties": {
+        "label": "Limfjord power line crossing 1",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q1825456",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0397,
+          57.0677
+        ]
+      },
+      "properties": {
+        "label": "Limfjord power line crossing 2",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q1825457",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0385,
+          57.0689
+        ]
+      },
+      "properties": {
+        "label": "Limfjord power line crossings",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q64225553",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.691388888,
+          55.522222222
+        ]
+      },
+      "properties": {
+        "label": "Little Belt overhead power line crossings",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q1454481",
+        "country_qid": "Q35"
+      }
+    }
+  ]
+}

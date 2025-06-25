@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.366666666,
+          -16.35
+        ]
+      },
+      "properties": {
+        "label": "Malai",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386945",
+        "country_qid": "Q712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.333333333,
+          -16.766666666
+        ]
+      },
+      "properties": {
+        "label": "Savusavu Bay",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386946",
+        "country_qid": "Q712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.6685,
+          -17.74973
+        ]
+      },
+      "properties": {
+        "label": "Q31843948",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q31843948",
+        "country_qid": "Q712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.05,
+          -17.7567
+        ]
+      },
+      "properties": {
+        "label": "Monasavu Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q16895309",
+        "country_qid": "Q712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.941,
+          -17.6674
+        ]
+      },
+      "properties": {
+        "label": "Nadarivatu Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q16895625",
+        "country_qid": "Q712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.833333333,
+          -17.683333333
+        ]
+      },
+      "properties": {
+        "label": "Levuka",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386943",
+        "country_qid": "Q712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.416666666,
+          -18.133333333
+        ]
+      },
+      "properties": {
+        "label": "Suva Harbor",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386941",
+        "country_qid": "Q712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.45,
+          -17.6
+        ]
+      },
+      "properties": {
+        "label": "Lautoka Harbor",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386942",
+        "country_qid": "Q712"
+      }
+    }
+  ]
+}

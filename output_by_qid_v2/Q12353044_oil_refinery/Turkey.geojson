@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.766666666,
+          40.75
+        ]
+      },
+      "properties": {
+        "label": "Tüpraş İzmit Oil Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q6017970",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.940555555,
+          38.805
+        ]
+      },
+      "properties": {
+        "label": "Tüpraş İzmir Oil Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q6013148",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.930555555,
+          38.8
+        ]
+      },
+      "properties": {
+        "label": "STAR Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q5992824",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.14277778,
+          37.88138889
+        ]
+      },
+      "properties": {
+        "label": "Tüpraş Batman Oil Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q25472342",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.463819,
+          39.752981
+        ]
+      },
+      "properties": {
+        "label": "Tüpraş Kırıkkale Oil Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q48815547",
+        "country_qid": "Q43"
+      }
+    }
+  ]
+}

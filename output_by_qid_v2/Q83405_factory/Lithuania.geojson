@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.265277777,
+          54.686666666
+        ]
+      },
+      "properties": {
+        "label": "Šopeno Brewery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q134439991",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.30414,
+          54.716937
+        ]
+      },
+      "properties": {
+        "label": "Vilma",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q20504518",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.311111111,
+          54.675416666
+        ]
+      },
+      "properties": {
+        "label": "Epstein's brewery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q18737626",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.269778841,
+          54.7375322
+        ]
+      },
+      "properties": {
+        "label": "Venta",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q25500350",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.31769444,
+          55.74225
+        ]
+      },
+      "properties": {
+        "label": "Panevėžys Sugar Factory",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q99458595",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3748,
+          54.6948
+        ]
+      },
+      "properties": {
+        "label": "Kučkuriškės paper factory",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q61381334",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3326,
+          54.7673
+        ]
+      },
+      "properties": {
+        "label": "Q61381300",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q61381300",
+        "country_qid": "Q37"
+      }
+    }
+  ]
+}

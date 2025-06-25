@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.396583333,
+          36.587666666
+        ]
+      },
+      "properties": {
+        "label": "Sidi Salem Power Plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q56371869",
+        "country_qid": "Q948"
+      }
+    }
+  ]
+}

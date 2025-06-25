@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5688807,
+          47.19379025
+        ]
+      },
+      "properties": {
+        "label": "Kraftwerk Kriegstetten",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q76293289",
+        "country_qid": "Q39"
+      }
+    }
+  ]
+}

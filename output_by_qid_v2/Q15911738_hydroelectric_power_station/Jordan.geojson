@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.798055555,
+          32.19
+        ]
+      },
+      "properties": {
+        "label": "King Talal Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q2898401",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5687,
+          32.6334
+        ]
+      },
+      "properties": {
+        "label": "First Jordan Hydro-Electric Power House",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q90052545",
+        "country_qid": "Q810"
+      }
+    }
+  ]
+}

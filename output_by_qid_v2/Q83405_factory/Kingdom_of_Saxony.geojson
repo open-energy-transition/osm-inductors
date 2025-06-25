@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.386256,
+          51.340675
+        ]
+      },
+      "properties": {
+        "label": "F.A. Brockhaus AG",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q19446818",
+        "country_qid": "Q153015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.91651,
+          51.118
+        ]
+      },
+      "properties": {
+        "label": "Paper mill Noske",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q116281236",
+        "country_qid": "Q153015"
+      }
+    }
+  ]
+}

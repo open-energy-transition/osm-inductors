@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.116666666,
+          -13.716666666
+        ]
+      },
+      "properties": {
+        "label": "Ampasindava mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16251076",
+        "country_qid": "Q1019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0,
+          -20.0
+        ]
+      },
+      "properties": {
+        "label": "Tsilaizina pegmatite",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q29418171",
+        "country_qid": "Q1019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.316666666,
+          -16.1
+        ]
+      },
+      "properties": {
+        "label": "Soalala mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16966169",
+        "country_qid": "Q1019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.130388888,
+          -24.001888888
+        ]
+      },
+      "properties": {
+        "label": "Molo mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16966335",
+        "country_qid": "Q1019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9295,
+          -25.0391
+        ]
+      },
+      "properties": {
+        "label": "Q19951153",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q19951153",
+        "country_qid": "Q1019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.05,
+          -24.01
+        ]
+      },
+      "properties": {
+        "label": "Green Giant mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16966217",
+        "country_qid": "Q1019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.304,
+          -18.846
+        ]
+      },
+      "properties": {
+        "label": "Ambatovy mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16002794",
+        "country_qid": "Q1019"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.6759018,
+          -14.5199731
+        ]
+      },
+      "properties": {
+        "label": "Fábrica de Cimentos de Nacala",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q34008415",
+        "country_qid": "Q1029"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.543733,
+          56.193397
+        ]
+      },
+      "properties": {
+        "label": "Shukhov tower on the Oka River",
+        "type": "Transmission tower (pylon)",
+        "entity": "http://www.wikidata.org/entity/Q1778398",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.62385,
+          55.83513
+        ]
+      },
+      "properties": {
+        "label": "Electricity pylon",
+        "type": "Transmission tower (pylon)",
+        "entity": "http://www.wikidata.org/entity/Q133572309",
+        "country_qid": "Q159"
+      }
+    }
+  ]
+}

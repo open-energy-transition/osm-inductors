@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47152,
+          24.99945
+        ]
+      },
+      "properties": {
+        "label": "Ruisui Distribution Reservoir, Zhonghe District",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q108453772",
+        "country_qid": "Q188712"
+      }
+    }
+  ]
+}

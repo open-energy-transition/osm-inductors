@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.59212,
+          52.4784
+        ]
+      },
+      "properties": {
+        "label": "IJmuiden steelworks",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q20639892",
+        "country_qid": "Q55"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.96889,
+          43.33833
+        ]
+      },
+      "properties": {
+        "label": "Korday Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q28194519",
+        "country_qid": "Q232"
+      }
+    }
+  ]
+}

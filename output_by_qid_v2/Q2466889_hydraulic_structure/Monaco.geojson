@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.426111111,
+          43.735
+        ]
+      },
+      "properties": {
+        "label": "Q109041804",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q109041804",
+        "country_qid": "Q235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.420611,
+          43.729228
+        ]
+      },
+      "properties": {
+        "label": "Port of Fontvieille",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q14922134",
+        "country_qid": "Q235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.426743,
+          43.735166
+        ]
+      },
+      "properties": {
+        "label": "Port Hercules",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q7230673",
+        "country_qid": "Q235"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.69676,
+          57.16902
+        ]
+      },
+      "properties": {
+        "label": "Inčukalns underground gas storage",
+        "type": "Energy storage (concept)",
+        "entity": "http://www.wikidata.org/entity/Q19826411",
+        "country_qid": "Q211"
+      }
+    }
+  ]
+}

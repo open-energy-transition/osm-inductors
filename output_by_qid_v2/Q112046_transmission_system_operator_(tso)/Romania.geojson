@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1094667,
+          44.4291253
+        ]
+      },
+      "properties": {
+        "label": "Transelectrica",
+        "type": "transmission system operator (TSO)",
+        "entity": "http://www.wikidata.org/entity/Q750324",
+        "country_qid": "Q218"
+      }
+    }
+  ]
+}

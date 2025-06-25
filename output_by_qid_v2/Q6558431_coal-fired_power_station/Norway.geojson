@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6186,
+          78.2253
+        ]
+      },
+      "properties": {
+        "label": "Longyear Energiverk",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11986759",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.39,
+          78.657
+        ]
+      },
+      "properties": {
+        "label": "Q19385861",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q19385861",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.212,
+          78.055
+        ]
+      },
+      "properties": {
+        "label": "Q11960204",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11960204",
+        "country_qid": "Q20"
+      }
+    }
+  ]
+}

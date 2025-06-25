@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.702,
+          1.27448
+        ]
+      },
+      "properties": {
+        "label": "ExxonMobil Singapore Chemical Plant",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q16510567",
+        "country_qid": "Q334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.73951972,
+          1.32549
+        ]
+      },
+      "properties": {
+        "label": "Singapore Mint",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q7523053",
+        "country_qid": "Q334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846017,
+          1.28265
+        ]
+      },
+      "properties": {
+        "label": "Lion Brewery Co",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q133826797",
+        "country_qid": "Q334"
+      }
+    }
+  ]
+}

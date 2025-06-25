@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.118916666,
+          -21.265666666
+        ]
+      },
+      "properties": {
+        "label": "Nakolo Wind Turbine",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q123357869",
+        "country_qid": "Q678"
+      }
+    }
+  ]
+}

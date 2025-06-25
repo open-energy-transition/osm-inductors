@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.794722,
+          7.788611
+        ]
+      },
+      "properties": {
+        "label": "Aluto–Langano Geothermal Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q55603750",
+        "country_qid": "Q115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.458055555,
+          7.173888888
+        ]
+      },
+      "properties": {
+        "label": "Corbetti Geothermal Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q108749762",
+        "country_qid": "Q115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.129444444,
+          8.161388888
+        ]
+      },
+      "properties": {
+        "label": "Tulu Moye Geothermal Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q107564443",
+        "country_qid": "Q115"
+      }
+    }
+  ]
+}

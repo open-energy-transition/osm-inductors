@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5666086,
+          46.5203709
+        ]
+      },
+      "properties": {
+        "label": "Sulzer high pressure gas turbine",
+        "type": "Gas turbine",
+        "entity": "http://www.wikidata.org/entity/Q124049066",
+        "country_qid": "Q39"
+      }
+    }
+  ]
+}

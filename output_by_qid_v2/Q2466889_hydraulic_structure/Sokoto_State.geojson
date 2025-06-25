@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.88222222,
+          13.53055556
+        ]
+      },
+      "properties": {
+        "label": "Goronyo Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q5586827",
+        "country_qid": "Q503941"
+      }
+    }
+  ]
+}

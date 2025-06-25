@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.794126,
+          54.80193
+        ]
+      },
+      "properties": {
+        "label": "Q97215268",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q97215268",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.214611111,
+          54.687111111
+        ]
+      },
+      "properties": {
+        "label": "Vilnius TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1407353",
+        "country_qid": "Q37"
+      }
+    }
+  ]
+}

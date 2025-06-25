@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.44222222,
+          61.23666667
+        ]
+      },
+      "properties": {
+        "label": "Olkiluoto Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1412996",
+        "country_qid": "Q33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.26388889,
+          64.53055556
+        ]
+      },
+      "properties": {
+        "label": "Hanhikivi Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q743467",
+        "country_qid": "Q33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.34722223,
+          60.37222223
+        ]
+      },
+      "properties": {
+        "label": "Loviisa Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1061884",
+        "country_qid": "Q33"
+      }
+    }
+  ]
+}

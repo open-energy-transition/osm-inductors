@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.901944444,
+          10.155277777
+        ]
+      },
+      "properties": {
+        "label": "Hòn Sóc mountain",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q113289473",
+        "country_qid": "Q881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.549722222,
+          22.266666666
+        ]
+      },
+      "properties": {
+        "label": "Đông Pao mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16969035",
+        "country_qid": "Q881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.846162,
+          21.021324
+        ]
+      },
+      "properties": {
+        "label": "Charbonnages de Yên-Lâp",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q120692154",
+        "country_qid": "Q881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4257,
+          21.0649
+        ]
+      },
+      "properties": {
+        "label": "Société des charbonnages de Kebao",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q120718293",
+        "country_qid": "Q881"
+      }
+    }
+  ]
+}

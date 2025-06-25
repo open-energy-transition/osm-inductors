@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.320055555,
+          -2.068583333
+        ]
+      },
+      "properties": {
+        "label": "KivuWatt Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q22079959",
+        "country_qid": "Q1037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.33833333,
+          -2.05583333
+        ]
+      },
+      "properties": {
+        "label": "Kibuye Power Plant 1",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q23058516",
+        "country_qid": "Q1037"
+      }
+    }
+  ]
+}

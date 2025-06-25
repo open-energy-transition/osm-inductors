@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4608035,
+          24.7020028
+        ]
+      },
+      "properties": {
+        "label": "Sutiakhali Solar Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q102848366",
+        "country_qid": "Q902"
+      }
+    }
+  ]
+}

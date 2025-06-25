@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2538179,
+          47.0592674
+        ]
+      },
+      "properties": {
+        "label": "Pylon 301",
+        "type": "Transmission tower (pylon)",
+        "entity": "http://www.wikidata.org/entity/Q133847899",
+        "country_qid": "Q39"
+      }
+    }
+  ]
+}

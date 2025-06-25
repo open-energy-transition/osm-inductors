@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.09144444,
+          60.44725
+        ]
+      },
+      "properties": {
+        "label": "Naantali refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q18660939",
+        "country_qid": "Q33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.525,
+          60.31416667
+        ]
+      },
+      "properties": {
+        "label": "Porvoo refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q18689092",
+        "country_qid": "Q33"
+      }
+    }
+  ]
+}

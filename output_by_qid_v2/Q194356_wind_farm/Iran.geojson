@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.38833333,
+          35.99194444
+        ]
+      },
+      "properties": {
+        "label": "Binalood wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q4913851",
+        "country_qid": "Q794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.394166666,
+          36.734444444
+        ]
+      },
+      "properties": {
+        "label": "Manjil Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q13033790",
+        "country_qid": "Q794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1053129,
+          38.0053177
+        ]
+      },
+      "properties": {
+        "label": "Q5755789",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q5755789",
+        "country_qid": "Q794"
+      }
+    }
+  ]
+}

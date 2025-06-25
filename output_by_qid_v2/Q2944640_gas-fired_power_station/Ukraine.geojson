@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7647305,
+          48.8719556
+        ]
+      },
+      "properties": {
+        "label": "Slovianska thermal power plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3443767",
+        "country_qid": "Q212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.26238889,
+          48.74781389
+        ]
+      },
+      "properties": {
+        "label": "Luhansk power station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3443758",
+        "country_qid": "Q212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.525,
+          49.585
+        ]
+      },
+      "properties": {
+        "label": "Zmiivska power plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3443751",
+        "country_qid": "Q212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.602777777,
+          44.554166666
+        ]
+      },
+      "properties": {
+        "label": "Balaklavskaya TPS",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q21644346",
+        "country_qid": "Q212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.004705,
+          47.799118
+        ]
+      },
+      "properties": {
+        "label": "Starobesheve thermal power station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3443445",
+        "country_qid": "Q212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6256,
+          47.5086
+        ]
+      },
+      "properties": {
+        "label": "Zaporizhzhia thermal power station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3365756",
+        "country_qid": "Q212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.22222,
+          44.94194
+        ]
+      },
+      "properties": {
+        "label": "Tavricheskaya TPS",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q48922473",
+        "country_qid": "Q212"
+      }
+    }
+  ]
+}

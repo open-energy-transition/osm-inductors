@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.030833333,
+          12.144722222
+        ]
+      },
+      "properties": {
+        "label": "N'Djamena Amea Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q108782215",
+        "country_qid": "Q657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.036666666,
+          12.386666666
+        ]
+      },
+      "properties": {
+        "label": "D'jermaya Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q108782310",
+        "country_qid": "Q657"
+      }
+    }
+  ]
+}

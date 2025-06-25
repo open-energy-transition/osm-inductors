@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.452555555,
+          -28.7795
+        ]
+      },
+      "properties": {
+        "label": "Q56374019",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q56374019",
+        "country_qid": "Q1013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.165,
+          -30.309722222
+        ]
+      },
+      "properties": {
+        "label": "Lake Letsie",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q108087572",
+        "country_qid": "Q1013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.85,
+          -29.29
+        ]
+      },
+      "properties": {
+        "label": "Polihali Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q125523161",
+        "country_qid": "Q1013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.50603056,
+          -29.33708333
+        ]
+      },
+      "properties": {
+        "label": "Katse Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q1433794",
+        "country_qid": "Q1013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.09583333,
+          -29.45666667
+        ]
+      },
+      "properties": {
+        "label": "Mohale Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q665301",
+        "country_qid": "Q1013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.77689,
+          -29.336
+        ]
+      },
+      "properties": {
+        "label": "Metolong Dam Site",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27480485",
+        "country_qid": "Q1013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.620479,
+          -28.98575
+        ]
+      },
+      "properties": {
+        "label": "Lighobong diamond mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16977680",
+        "country_qid": "Q1013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.86194444,
+          -29.00027778
+        ]
+      },
+      "properties": {
+        "label": "Letseng diamond mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q3642234",
+        "country_qid": "Q1013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.859166666,
+          -29.006111111
+        ]
+      },
+      "properties": {
+        "label": "Q27480704",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27480704",
+        "country_qid": "Q1013"
+      }
+    }
+  ]
+}

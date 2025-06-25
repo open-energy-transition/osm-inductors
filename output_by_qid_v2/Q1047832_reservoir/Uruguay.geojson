@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.683333333,
+          -23.7
+        ]
+      },
+      "properties": {
+        "label": "Guarantaani Aquifer",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q344888",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.193944444,
+          -34.911944444
+        ]
+      },
+      "properties": {
+        "label": "Gasómetro de Montevideo",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q124047481",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0,
+          -32.666666666
+        ]
+      },
+      "properties": {
+        "label": "Rincón del Bonete Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3276492",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.333333333,
+          -32.75
+        ]
+      },
+      "properties": {
+        "label": "Represa Doctor Gabriel Terra",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q32007227",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.241388888,
+          -34.445833333
+        ]
+      },
+      "properties": {
+        "label": "Q32465579",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q32465579",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.310555555,
+          -33.093055555
+        ]
+      },
+      "properties": {
+        "label": "Q31913626",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q31913626",
+        "country_qid": "Q77"
+      }
+    }
+  ]
+}

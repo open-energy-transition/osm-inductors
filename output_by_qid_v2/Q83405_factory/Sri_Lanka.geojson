@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.958333333,
+          6.965833333
+        ]
+      },
+      "properties": {
+        "label": "Sapugaskanda Refinery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q61761953",
+        "country_qid": "Q854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0725,
+          6.121388888
+        ]
+      },
+      "properties": {
+        "label": "Hambantota Refinery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q65084514",
+        "country_qid": "Q854"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.2,
+          14.8
+        ]
+      },
+      "properties": {
+        "label": "Thiaroye Aquifer",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q134314382",
+        "country_qid": "Q1041"
+      }
+    }
+  ]
+}

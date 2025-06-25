@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.28019444,
+          43.58030556
+        ]
+      },
+      "properties": {
+        "label": "Mesihovina wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q56026061",
+        "country_qid": "Q225"
+      }
+    }
+  ]
+}

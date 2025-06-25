@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.190833333,
+          34.609166666
+        ]
+      },
+      "properties": {
+        "label": "Bear Creek Fishweir No. 2",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q85746150",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.21377,
+          40.0492
+        ]
+      },
+      "properties": {
+        "label": "Livezey Dam",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q114776093",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0215764,
+          39.9030782
+        ]
+      },
+      "properties": {
+        "label": "Wallworth Lake Dam",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q130303484",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.30392,
+          46.08977
+        ]
+      },
+      "properties": {
+        "label": "Warren Falls",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q116035903",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8715,
+          36.6529
+        ]
+      },
+      "properties": {
+        "label": "Martinsville Fish Dam",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q16894708",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1825,
+          34.595833333
+        ]
+      },
+      "properties": {
+        "label": "Bear Creek Fishweir No. 1",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q85746147",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.64357,
+          38.76462
+        ]
+      },
+      "properties": {
+        "label": "Fremont Weir",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q49612971",
+        "country_qid": "Q30"
+      }
+    }
+  ]
+}

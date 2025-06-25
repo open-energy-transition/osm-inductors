@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.666666666,
+          15.033333333
+        ]
+      },
+      "properties": {
+        "label": "Q25287197",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q25287197",
+        "country_qid": "Q783"
+      }
+    }
+  ]
+}

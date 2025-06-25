@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.15277778,
+          -37.54388889
+        ]
+      },
+      "properties": {
+        "label": "Huntly Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q5945709",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.06833333,
+          -37.31416667
+        ]
+      },
+      "properties": {
+        "label": "Meremere Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q6819028",
+        "country_qid": "Q664"
+      }
+    }
+  ]
+}

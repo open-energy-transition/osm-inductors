@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.587986111,
+          -28.280163888
+        ]
+      },
+      "properties": {
+        "label": "Ingula Pumped Storage Scheme",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q1663455",
+        "country_qid": "Q258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.898333333,
+          -34.152222222
+        ]
+      },
+      "properties": {
+        "label": "Steenbras Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q113114958",
+        "country_qid": "Q258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9741,
+          -34.1978
+        ]
+      },
+      "properties": {
+        "label": "Palmiet Pumped Storage Scheme",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q7128394",
+        "country_qid": "Q258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0869,
+          -28.5731
+        ]
+      },
+      "properties": {
+        "label": "Drakensberg Pumped Storage Scheme",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q5305652",
+        "country_qid": "Q258"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.179528,
+          10.718467
+        ]
+      },
+      "properties": {
+        "label": "Miravalles Solar Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q96393430",
+        "country_qid": "Q800"
+      }
+    }
+  ]
+}

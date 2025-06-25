@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.12361111,
+          47.27777778
+        ]
+      },
+      "properties": {
+        "label": "Dubăsari Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q1987011",
+        "country_qid": "Q217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.22417,
+          47.83861
+        ]
+      },
+      "properties": {
+        "label": "Q12729969",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q12729969",
+        "country_qid": "Q217"
+      }
+    }
+  ]
+}

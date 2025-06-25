@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.26,
+          30.05
+        ]
+      },
+      "properties": {
+        "label": "Dar al-Kiswa",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q110621552",
+        "country_qid": "Q12560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.91666667,
+          48.70388889
+        ]
+      },
+      "properties": {
+        "label": "Turkish State Mint",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q48792590",
+        "country_qid": "Q12560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.000604995,
+          39.420422962
+        ]
+      },
+      "properties": {
+        "label": "Kütahya railway station",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q43398771",
+        "country_qid": "Q12560"
+      }
+    }
+  ]
+}

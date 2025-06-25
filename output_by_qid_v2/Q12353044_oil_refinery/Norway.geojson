@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.495662,
+          59.258424
+        ]
+      },
+      "properties": {
+        "label": "Q28719627",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q28719627",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.02979,
+          60.81022
+        ]
+      },
+      "properties": {
+        "label": "Mongstad Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q59199378",
+        "country_qid": "Q20"
+      }
+    }
+  ]
+}

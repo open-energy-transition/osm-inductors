@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.741222222,
+          46.450083333
+        ]
+      },
+      "properties": {
+        "label": "Odesa television tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q13668706",
+        "country_qid": "Q15180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.530686,
+          48.741446
+        ]
+      },
+      "properties": {
+        "label": "Volgograd TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q134426527",
+        "country_qid": "Q15180"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.542252,
+          41.193498
+        ]
+      },
+      "properties": {
+        "label": "Pinhão substation",
+        "type": "Electrical substation",
+        "entity": "http://www.wikidata.org/entity/Q111146446",
+        "country_qid": "Q45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.802912,
+          39.743027
+        ]
+      },
+      "properties": {
+        "label": "Electrical substation of Leiria",
+        "type": "Electrical substation",
+        "entity": "http://www.wikidata.org/entity/Q109461969",
+        "country_qid": "Q45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.78348,
+          32.72912
+        ]
+      },
+      "properties": {
+        "label": "Posto de Transformação do Caramanchão",
+        "type": "Electrical substation",
+        "entity": "http://www.wikidata.org/entity/Q68133347",
+        "country_qid": "Q45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.82956,
+          32.77177
+        ]
+      },
+      "properties": {
+        "label": "Posto de Transformação do Porto da Cruz",
+        "type": "Electrical substation",
+        "entity": "http://www.wikidata.org/entity/Q68112706",
+        "country_qid": "Q45"
+      }
+    }
+  ]
+}

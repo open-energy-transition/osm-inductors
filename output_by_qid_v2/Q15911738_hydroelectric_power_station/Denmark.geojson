@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.60225,
+          56.354
+        ]
+      },
+      "properties": {
+        "label": "Tangevaerket Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q12005185",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6386,
+          56.3519
+        ]
+      },
+      "properties": {
+        "label": "Q125626104",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q125626104",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.37357,
+          55.23794
+        ]
+      },
+      "properties": {
+        "label": "Tørning Mill",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q12340025",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5769,
+          55.64974
+        ]
+      },
+      "properties": {
+        "label": "Karlsgårdeværket",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q12321414",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.38739,
+          55.23292
+        ]
+      },
+      "properties": {
+        "label": "Christiansdal Vandkraftværk",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q56243419",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.42434,
+          55.50252
+        ]
+      },
+      "properties": {
+        "label": "Harteværket",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q12315753",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.70047,
+          55.97681
+        ]
+      },
+      "properties": {
+        "label": "Vestbirk hydropower plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q12340751",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.18692,
+          57.53898
+        ]
+      },
+      "properties": {
+        "label": "Bindslev Old Hydroelectric   Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q56243622",
+        "country_qid": "Q35"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.75055,
+          51.27286
+        ]
+      },
+      "properties": {
+        "label": "spillway S3 of Peel-Raam Line",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q17604987",
+        "country_qid": "Q55"
+      }
+    }
+  ]
+}

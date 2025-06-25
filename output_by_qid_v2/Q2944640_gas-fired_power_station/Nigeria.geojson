@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.575388888,
+          5.709111111
+        ]
+      },
+      "properties": {
+        "label": "Okpai Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11993280",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.915111111,
+          5.539888888
+        ]
+      },
+      "properties": {
+        "label": "Ughelli Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q25047484",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.615194444,
+          6.563194444
+        ]
+      },
+      "properties": {
+        "label": "Egbin Thermal Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q16890934",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.679555555,
+          6.405027777
+        ]
+      },
+      "properties": {
+        "label": "Azura-Edo IPP",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q25230511",
+        "country_qid": "Q1033"
+      }
+    }
+  ]
+}

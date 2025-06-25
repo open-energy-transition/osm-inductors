@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.80196,
+          41.706829
+        ]
+      },
+      "properties": {
+        "label": "Q96213663",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q96213663",
+        "country_qid": "Q45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.09,
+          38.43
+        ]
+      },
+      "properties": {
+        "label": "Meteorological station in Lisbon Center",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q3971741",
+        "country_qid": "Q45"
+      }
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.46027778,
+          -33.59222222
+        ]
+      },
+      "properties": {
+        "label": "Ankerlig Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q4766031",
+        "country_qid": "Q258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.604166666,
+          -33.750833333
+        ]
+      },
+      "properties": {
+        "label": "Bio2Watt Malmesbury Thermal Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q111946009",
+        "country_qid": "Q258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.672861111,
+          -33.743805555
+        ]
+      },
+      "properties": {
+        "label": "Dedisa Peaking Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q56374120",
+        "country_qid": "Q258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.984635,
+          -27.844207
+        ]
+      },
+      "properties": {
+        "label": "Newcastle Cogeneration Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q73041825",
+        "country_qid": "Q258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.158833333,
+          -29.417916666
+        ]
+      },
+      "properties": {
+        "label": "Avon Peaking Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q56374119",
+        "country_qid": "Q258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.53546,
+          -33.88328
+        ]
+      },
+      "properties": {
+        "label": "Acacia Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q21037265",
+        "country_qid": "Q258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.88106,
+          -33.0286
+        ]
+      },
+      "properties": {
+        "label": "Port Rex Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q21037298",
+        "country_qid": "Q258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.02688,
+          -26.20711
+        ]
+      },
+      "properties": {
+        "label": "John Ware Gas Turbine Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q125535155",
+        "country_qid": "Q258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9606,
+          -34.1666
+        ]
+      },
+      "properties": {
+        "label": "Gourikwa Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11972408",
+        "country_qid": "Q258"
+      }
+    }
+  ]
+}

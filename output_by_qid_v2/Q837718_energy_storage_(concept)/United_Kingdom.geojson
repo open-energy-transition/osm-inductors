@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.113889,
+          53.6603
+        ]
+      },
+      "properties": {
+        "label": "Rough",
+        "type": "Energy storage (concept)",
+        "entity": "http://www.wikidata.org/entity/Q7370797",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

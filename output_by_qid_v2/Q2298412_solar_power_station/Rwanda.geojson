@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.37722222,
+          -2.02611111
+        ]
+      },
+      "properties": {
+        "label": "Rwamagana Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q25043508",
+        "country_qid": "Q1037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.016117,
+          -1.884781
+        ]
+      },
+      "properties": {
+        "label": "Kigali Solaire",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q6405916",
+        "country_qid": "Q1037"
+      }
+    }
+  ]
+}

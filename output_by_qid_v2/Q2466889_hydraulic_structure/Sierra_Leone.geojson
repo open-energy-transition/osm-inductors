@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.213333333,
+          8.413611111
+        ]
+      },
+      "properties": {
+        "label": "Kongo Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q34861075",
+        "country_qid": "Q1044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.398611111,
+          7.772777777
+        ]
+      },
+      "properties": {
+        "label": "Nitti",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q34963855",
+        "country_qid": "Q1044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.73544,
+          9.05377
+        ]
+      },
+      "properties": {
+        "label": "Bumbana Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q32830732",
+        "country_qid": "Q1044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.5,
+          7.533333333
+        ]
+      },
+      "properties": {
+        "label": "Bonthe",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111387485",
+        "country_qid": "Q1044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.21037222,
+          8.49366944
+        ]
+      },
+      "properties": {
+        "label": "Port of Freetown",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q7270368",
+        "country_qid": "Q1044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.05,
+          8.583333333
+        ]
+      },
+      "properties": {
+        "label": "Pepel",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111387463",
+        "country_qid": "Q1044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.199166666,
+          8.359722222
+        ]
+      },
+      "properties": {
+        "label": "Guma Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q34821984",
+        "country_qid": "Q1044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.7229,
+          9.07149
+        ]
+      },
+      "properties": {
+        "label": "Bumbuna Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q16828547",
+        "country_qid": "Q1044"
+      }
+    }
+  ]
+}

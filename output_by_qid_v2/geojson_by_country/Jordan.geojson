@@ -1,0 +1,821 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.143024,
+          32.1424241
+        ]
+      },
+      "properties": {
+        "label": "Samra Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q19387520",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.798055555,
+          32.19
+        ]
+      },
+      "properties": {
+        "label": "King Talal Dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q2898401",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0508132,
+          32.3297857
+        ]
+      },
+      "properties": {
+        "label": "Rehab Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q11997414",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3610983,
+          29.7365007
+        ]
+      },
+      "properties": {
+        "label": "Quweira Solar Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q55390714",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5687,
+          32.6334
+        ]
+      },
+      "properties": {
+        "label": "First Jordan Hydro-Electric Power House",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q90052545",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.01861111,
+          31.22222222
+        ]
+      },
+      "properties": {
+        "label": "Al Qatrana Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q4704648",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9768424,
+          29.3779681
+        ]
+      },
+      "properties": {
+        "label": "Aqaba Thermal Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q2944645",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.07977778,
+          31.89905556
+        ]
+      },
+      "properties": {
+        "label": "Amman East Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q4747132",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2140154,
+          31.8764985
+        ]
+      },
+      "properties": {
+        "label": "Baynouna Solar Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q125497396",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0112683,
+          32.5724377
+        ]
+      },
+      "properties": {
+        "label": "Risha Gas Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q105083372",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.82455556,
+          30.151
+        ]
+      },
+      "properties": {
+        "label": "Shams Ma'an Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q27536726",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4477336,
+          31.2688904
+        ]
+      },
+      "properties": {
+        "label": "Attarat Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q4818129",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6783,
+          30.7005
+        ]
+      },
+      "properties": {
+        "label": "Tafila Wind Farm",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q21775908",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.821666666,
+          31.440277777
+        ]
+      },
+      "properties": {
+        "label": "Mujib Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q16895507",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23672,
+          30.16038
+        ]
+      },
+      "properties": {
+        "label": "Q31866580",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q31866580",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.67759,
+          31.85215
+        ]
+      },
+      "properties": {
+        "label": "Al Kafrein Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q12215578",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.968055555,
+          29.396944444
+        ]
+      },
+      "properties": {
+        "label": "Q27125467",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27125467",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0131,
+          31.08111
+        ]
+      },
+      "properties": {
+        "label": "Q27125441",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27125441",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.00333333,
+          32.335
+        ]
+      },
+      "properties": {
+        "label": "Jawa Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q2453710",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.02031,
+          31.00402
+        ]
+      },
+      "properties": {
+        "label": "Al Abyad Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27126178",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0,
+          29.5167
+        ]
+      },
+      "properties": {
+        "label": "Port of Aqaba",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q13217686",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.63467,
+          32.61798
+        ]
+      },
+      "properties": {
+        "label": "Wadi Al Arab Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27126105",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.99772,
+          29.51686
+        ]
+      },
+      "properties": {
+        "label": "Q27125468",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27125468",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.80443,
+          31.56801
+        ]
+      },
+      "properties": {
+        "label": "Q31866637",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q31866637",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.71342,
+          30.97268
+        ]
+      },
+      "properties": {
+        "label": "Al Tannur Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27126194",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.99358,
+          29.504
+        ]
+      },
+      "properties": {
+        "label": "Q31866613",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q31866613",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.71961794,
+          30.96954766
+        ]
+      },
+      "properties": {
+        "label": "Q28715066",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q28715066",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.62047,
+          32.52587
+        ]
+      },
+      "properties": {
+        "label": "Sharhabil ben Hasnah Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27126103",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.01329,
+          31.2474
+        ]
+      },
+      "properties": {
+        "label": "Q27125446",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27125446",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.386317914,
+          30.672837651
+        ]
+      },
+      "properties": {
+        "label": "Fidan Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q134083032",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8175,
+          31.444444444
+        ]
+      },
+      "properties": {
+        "label": "Mujib Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q1951988",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.62922,
+          31.81352
+        ]
+      },
+      "properties": {
+        "label": "King Abdullah Canal",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q6411206",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.94503,
+          31.95522
+        ]
+      },
+      "properties": {
+        "label": "Amman",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127429530",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.926084,
+          31.930983
+        ]
+      },
+      "properties": {
+        "label": "Philadelphia",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127431020",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.703277,
+          31.183158
+        ]
+      },
+      "properties": {
+        "label": "Charach-Moba",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127429918",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.801042,
+          31.786736
+        ]
+      },
+      "properties": {
+        "label": "Esbus",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430219",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.736,
+          31.272021
+        ]
+      },
+      "properties": {
+        "label": "Rabbath-Moba",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127431105",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.892081,
+          32.276465
+        ]
+      },
+      "properties": {
+        "label": "Gerasa",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430283",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.677841,
+          32.655548
+        ]
+      },
+      "properties": {
+        "label": "Gadara",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430263",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.94503,
+          31.95522
+        ]
+      },
+      "properties": {
+        "label": "al-Urdunn",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127431760",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.932777777,
+          31.949722222
+        ]
+      },
+      "properties": {
+        "label": "Amman Filmmakers Cooperative",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q4747134",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.613423,
+          32.449809
+        ]
+      },
+      "properties": {
+        "label": "Pella",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430977",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.858043,
+          32.597779
+        ]
+      },
+      "properties": {
+        "label": "Capitolias",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127429853",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.441944,
+          30.328611
+        ]
+      },
+      "properties": {
+        "label": "Petra",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430994",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.869214,
+          32.683121
+        ]
+      },
+      "properties": {
+        "label": "Abila",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127429429",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7942,
+          31.71765
+        ]
+      },
+      "properties": {
+        "label": "Medaba",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430707",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.171944444,
+          31.541944444
+        ]
+      },
+      "properties": {
+        "label": "Daba marble quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q96471871",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.041944444,
+          31.024722222
+        ]
+      },
+      "properties": {
+        "label": "Q27125445",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27125445",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.43611111,
+          30.68055556
+        ]
+      },
+      "properties": {
+        "label": "Khirbat en-Nahas",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q6401745",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.030555555,
+          30.825277777
+        ]
+      },
+      "properties": {
+        "label": "Q27125477",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27125477",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.031666666,
+          30.9875
+        ]
+      },
+      "properties": {
+        "label": "Q27125432",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27125432",
+        "country_qid": "Q810"
+      }
+    }
+  ]
+}

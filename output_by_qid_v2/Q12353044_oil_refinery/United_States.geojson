@@ -1,0 +1,613 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.766,
+          45.6597
+        ]
+      },
+      "properties": {
+        "label": "Laurel Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q19605583",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.49,
+          45.7803
+        ]
+      },
+      "properties": {
+        "label": "Billings Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q4911959",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0106,
+          29.739
+        ]
+      },
+      "properties": {
+        "label": "Baytown Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q4874965",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.56694444,
+          48.49666667
+        ]
+      },
+      "properties": {
+        "label": "Tesoro Anacortes Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q25004713",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.88333333,
+          46.85
+        ]
+      },
+      "properties": {
+        "label": "Mandan Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q56062979",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.132,
+          29.7196
+        ]
+      },
+      "properties": {
+        "label": "Deer Park Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q85756189",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.55944444,
+          48.47027778
+        ]
+      },
+      "properties": {
+        "label": "Shell Anacortes Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q22101996",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.427083333,
+          35.487888888
+        ]
+      },
+      "properties": {
+        "label": "Gallup Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q98098276",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6309,
+          39.5809
+        ]
+      },
+      "properties": {
+        "label": "Delaware City Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q5253248",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.058,
+          41.64
+        ]
+      },
+      "properties": {
+        "label": "Lemont Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q116921929",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.066,
+          38.841
+        ]
+      },
+      "properties": {
+        "label": "Wood River Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q8032265",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9625,
+          29.885
+        ]
+      },
+      "properties": {
+        "label": "Port Arthur Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q7230488",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.291,
+          47.5239
+        ]
+      },
+      "properties": {
+        "label": "Calumet Montana Refining",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q19600644",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.45047,
+          60.18737
+        ]
+      },
+      "properties": {
+        "label": "Chilkat Oil Company Refinery Site",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q17509112",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4861104,
+          30.3436203
+        ]
+      },
+      "properties": {
+        "label": "Pascagoula Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q117884114",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.258663,
+          38.046042
+        ]
+      },
+      "properties": {
+        "label": "Rodeo San Francisco Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q7356555",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0417,
+          44.7667
+        ]
+      },
+      "properties": {
+        "label": "Pine Bend Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q7195062",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.947545,
+          39.80355
+        ]
+      },
+      "properties": {
+        "label": "Commerce City Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q101584493",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.606243,
+          33.198399
+        ]
+      },
+      "properties": {
+        "label": "Tuscaloosa Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q101473274",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.682689,
+          38.711989
+        ]
+      },
+      "properties": {
+        "label": "Indian Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q121299824",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5986,
+          38.3742
+        ]
+      },
+      "properties": {
+        "label": "Catlettsburg Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q5053561",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1396,
+          38.07209
+        ]
+      },
+      "properties": {
+        "label": "Benicia Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q4887938",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1806,
+          30.4836
+        ]
+      },
+      "properties": {
+        "label": "Baton Rouge Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q4869481",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2144,
+          40.6372
+        ]
+      },
+      "properties": {
+        "label": "Bayway Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q3014399",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.450298,
+          39.118789
+        ]
+      },
+      "properties": {
+        "label": "Sugar Creek refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q126213000",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4477,
+          37.2127
+        ]
+      },
+      "properties": {
+        "label": "Yorktown Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q8055808",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.434,
+          45.8117
+        ]
+      },
+      "properties": {
+        "label": "Billings Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q19460532",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.26546,
+          39.84511
+        ]
+      },
+      "properties": {
+        "label": "Paulsboro Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q35287721",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5981,
+          30.0597
+        ]
+      },
+      "properties": {
+        "label": "Garyville Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q5526240",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.932833333,
+          29.3775
+        ]
+      },
+      "properties": {
+        "label": "Galveston Bay Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q114397358",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.071907,
+          38.033363
+        ]
+      },
+      "properties": {
+        "label": "Golden Eagle Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q5579358",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.738,
+          48.8814
+        ]
+      },
+      "properties": {
+        "label": "Cherry Point Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q5092452",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.881666666,
+          35.955
+        ]
+      },
+      "properties": {
+        "label": "McKee Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q47310208",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.266,
+          40.535
+        ]
+      },
+      "properties": {
+        "label": "Perth Amboy Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q7170816",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4153854,
+          32.2704151
+        ]
+      },
+      "properties": {
+        "label": "Big Spring Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q124672559",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.40444444,
+          39.82222222
+        ]
+      },
+      "properties": {
+        "label": "Trainer Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q24259683",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6943,
+          48.8304
+        ]
+      },
+      "properties": {
+        "label": "Ferndale Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q22022474",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.249,
+          40.564
+        ]
+      },
+      "properties": {
+        "label": "Port Reading Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q7230873",
+        "country_qid": "Q30"
+      }
+    }
+  ]
+}

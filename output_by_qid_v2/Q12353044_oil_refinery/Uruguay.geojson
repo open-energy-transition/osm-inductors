@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.22998,
+          -34.87515
+        ]
+      },
+      "properties": {
+        "label": "La Teja Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q110722911",
+        "country_qid": "Q77"
+      }
+    }
+  ]
+}

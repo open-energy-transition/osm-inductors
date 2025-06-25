@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87194,
+          51.5189
+        ]
+      },
+      "properties": {
+        "label": "St.-Antony ironworks",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q2315987",
+        "country_qid": "Q27306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9597,
+          50.3014
+        ]
+      },
+      "properties": {
+        "label": "Huta Kościuszko",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q9295161",
+        "country_qid": "Q27306"
+      }
+    }
+  ]
+}

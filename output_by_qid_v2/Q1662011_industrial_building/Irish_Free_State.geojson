@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2375,
+          53.339
+        ]
+      },
+      "properties": {
+        "label": "Grand Canal Street Works",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q62225405",
+        "country_qid": "Q31747"
+      }
+    }
+  ]
+}

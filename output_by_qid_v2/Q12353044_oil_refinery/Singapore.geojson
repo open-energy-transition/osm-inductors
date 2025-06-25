@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.702,
+          1.27448
+        ]
+      },
+      "properties": {
+        "label": "ExxonMobil Singapore Chemical Plant",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q16510567",
+        "country_qid": "Q334"
+      }
+    }
+  ]
+}

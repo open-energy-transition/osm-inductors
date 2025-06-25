@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.0475,
+          -25.972222222
+        ]
+      },
+      "properties": {
+        "label": "Namaacha Wind Power Station",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q108822188",
+        "country_qid": "Q1029"
+      }
+    }
+  ]
+}

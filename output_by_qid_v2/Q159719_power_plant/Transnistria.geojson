@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.12361111,
+          47.27777778
+        ]
+      },
+      "properties": {
+        "label": "Dubăsari Dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q1987011",
+        "country_qid": "Q907112"
+      }
+    }
+  ]
+}

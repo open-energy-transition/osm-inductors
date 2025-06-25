@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.943631933,
+          4.880036145
+        ]
+      },
+      "properties": {
+        "label": "Sungai Kebun Fire Station",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q107702415",
+        "country_qid": "Q921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.301521565,
+          4.605718382
+        ]
+      },
+      "properties": {
+        "label": "Seria Fire Station",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q109853105",
+        "country_qid": "Q921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.203146381,
+          4.577118033
+        ]
+      },
+      "properties": {
+        "label": "Kuala Belait Fire Station",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q109852948",
+        "country_qid": "Q921"
+      }
+    }
+  ]
+}

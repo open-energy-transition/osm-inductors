@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.530556,
+          37.974722
+        ]
+      },
+      "properties": {
+        "label": "Chomsongdae",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q12583238",
+        "country_qid": "Q423"
+      }
+    }
+  ]
+}

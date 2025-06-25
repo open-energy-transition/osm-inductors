@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.683,
+          19.68459
+        ]
+      },
+      "properties": {
+        "label": "Duqm Refinery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q111710552",
+        "country_qid": "Q842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.5922,
+          23.61387
+        ]
+      },
+      "properties": {
+        "label": "Muscat",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430774",
+        "country_qid": "Q842"
+      }
+    }
+  ]
+}

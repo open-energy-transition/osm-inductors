@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99957,
+          54.1287
+        ]
+      },
+      "properties": {
+        "label": "Bell-mouth spillway, Silent Valley Reservoir",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q17861620",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

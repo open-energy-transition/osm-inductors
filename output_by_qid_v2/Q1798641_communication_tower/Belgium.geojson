@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.40167,
+          50.853
+        ]
+      },
+      "properties": {
+        "label": "Reyers Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q23819517",
+        "country_qid": "Q31"
+      }
+    }
+  ]
+}

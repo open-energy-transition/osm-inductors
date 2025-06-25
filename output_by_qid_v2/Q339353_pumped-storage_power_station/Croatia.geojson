@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7536,
+          44.2081
+        ]
+      },
+      "properties": {
+        "label": "Velebit Pumped Storage Power Plant",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q3376828",
+        "country_qid": "Q224"
+      }
+    }
+  ]
+}

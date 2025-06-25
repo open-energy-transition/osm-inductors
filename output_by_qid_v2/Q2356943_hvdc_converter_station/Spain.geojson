@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.506393,
+          39.533885
+        ]
+      },
+      "properties": {
+        "label": "Santa Ponça converter station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q18624991",
+        "country_qid": "Q29"
+      }
+    }
+  ]
+}

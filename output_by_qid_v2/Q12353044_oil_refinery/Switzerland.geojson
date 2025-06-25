@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.951792,
+          46.285052
+        ]
+      },
+      "properties": {
+        "label": "Raffinerie Collombey",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q2127126",
+        "country_qid": "Q39"
+      }
+    }
+  ]
+}

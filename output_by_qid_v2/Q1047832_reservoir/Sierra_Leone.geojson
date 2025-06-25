@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.203888888,
+          8.365
+        ]
+      },
+      "properties": {
+        "label": "Guma Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34888212",
+        "country_qid": "Q1044"
+      }
+    }
+  ]
+}

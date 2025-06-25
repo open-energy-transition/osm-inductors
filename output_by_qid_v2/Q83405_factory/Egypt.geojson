@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.909773,
+          31.201435
+        ]
+      },
+      "properties": {
+        "label": "Alexandria",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127429500",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.95527,
+          31.21564
+        ]
+      },
+      "properties": {
+        "label": "al-Iskandariyah",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431739",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.591777,
+          30.90071
+        ]
+      },
+      "properties": {
+        "label": "Naucratis",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430801",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.24967,
+          30.06263
+        ]
+      },
+      "properties": {
+        "label": "Al-Mu'izziyah al-Qahirah",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127429488",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.24967,
+          30.06263
+        ]
+      },
+      "properties": {
+        "label": "al-Fustat",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431736",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.24967,
+          30.06263
+        ]
+      },
+      "properties": {
+        "label": "al-Maghrib (Abbasid)",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431741",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.24967,
+          30.06263
+        ]
+      },
+      "properties": {
+        "label": "al-Qahirah",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431750",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.24967,
+          30.06263
+        ]
+      },
+      "properties": {
+        "label": "al-Qahirah al-Mahrusah",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431751",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.250917,
+          29.844667
+        ]
+      },
+      "properties": {
+        "label": "Memphis",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430720",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.223416666,
+          30.091888888
+        ]
+      },
+      "properties": {
+        "label": "Chairs Factory",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q98093012",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.225777,
+          31.297428
+        ]
+      },
+      "properties": {
+        "label": "Raphia",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431109",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.24967,
+          30.06263
+        ]
+      },
+      "properties": {
+        "label": "Cairo",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127429832",
+        "country_qid": "Q79"
+      }
+    }
+  ]
+}

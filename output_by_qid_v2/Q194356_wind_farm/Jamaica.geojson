@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.697,
+          17.94
+        ]
+      },
+      "properties": {
+        "label": "BMR Jamaica Wind Limited",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q117284447",
+        "country_qid": "Q766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.53,
+          17.92
+        ]
+      },
+      "properties": {
+        "label": "Wigton Windfarm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q117263013",
+        "country_qid": "Q766"
+      }
+    }
+  ]
+}

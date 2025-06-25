@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9032,
+          53.451
+        ]
+      },
+      "properties": {
+        "label": "Q1737253",
+        "type": "Energy storage (concept)",
+        "entity": "http://www.wikidata.org/entity/Q1737253",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.072035551,
+          48.510182936
+        ]
+      },
+      "properties": {
+        "label": "Gasspeicher",
+        "type": "Energy storage (concept)",
+        "entity": "http://www.wikidata.org/entity/Q128535349",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.630207,
+          49.584433
+        ]
+      },
+      "properties": {
+        "label": "Gasspeicher Eschenfelden",
+        "type": "Energy storage (concept)",
+        "entity": "http://www.wikidata.org/entity/Q114268362",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4937,
+          52.616
+        ]
+      },
+      "properties": {
+        "label": "Q111685892",
+        "type": "Energy storage (concept)",
+        "entity": "http://www.wikidata.org/entity/Q111685892",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.65082,
+          52.3396
+        ]
+      },
+      "properties": {
+        "label": "Empelde gas caverns",
+        "type": "Energy storage (concept)",
+        "entity": "http://www.wikidata.org/entity/Q22674558",
+        "country_qid": "Q183"
+      }
+    }
+  ]
+}

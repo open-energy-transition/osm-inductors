@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.345833333,
+          11.268333333
+        ]
+      },
+      "properties": {
+        "label": "Koukoutamba Hydroelectric Power Station",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q108502779",
+        "country_qid": "Q1006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.251305555,
+          10.424555555
+        ]
+      },
+      "properties": {
+        "label": "Souapiti Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q46963910",
+        "country_qid": "Q1006"
+      }
+    }
+  ]
+}

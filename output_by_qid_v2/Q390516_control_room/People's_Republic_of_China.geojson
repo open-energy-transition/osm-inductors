@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.25709167,
+          40.07198889
+        ]
+      },
+      "properties": {
+        "label": "Beijing Aerospace Flight Control Center",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q3664824",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.92183333,
+          22.30530556
+        ]
+      },
+      "properties": {
+        "label": "Hong Kong Flight Information Region",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q106861520",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.149880409,
+          22.449794587
+        ]
+      },
+      "properties": {
+        "label": "PCY S/R Alternative Incident Control Room",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q127241677",
+        "country_qid": "Q148"
+      }
+    }
+  ]
+}

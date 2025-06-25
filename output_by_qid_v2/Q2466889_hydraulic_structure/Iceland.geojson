@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.673797222,
+          65.224708333
+        ]
+      },
+      "properties": {
+        "label": "Blanda Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q24886953",
+        "country_qid": "Q189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.438918,
+          64.395097
+        ]
+      },
+      "properties": {
+        "label": "Hvalfjörður whaling station",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q16428527",
+        "country_qid": "Q189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.05,
+          64.05
+        ]
+      },
+      "properties": {
+        "label": "Straumsvik",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386459",
+        "country_qid": "Q189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.556632,
+          64.008681
+        ]
+      },
+      "properties": {
+        "label": "Grófin",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q134881375",
+        "country_qid": "Q189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.516666666,
+          65.983333333
+        ]
+      },
+      "properties": {
+        "label": "Dalvik",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386461",
+        "country_qid": "Q189"
+      }
+    }
+  ]
+}

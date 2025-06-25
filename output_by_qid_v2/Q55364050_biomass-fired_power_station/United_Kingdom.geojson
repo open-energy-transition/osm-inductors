@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.996389,
+          53.7358
+        ]
+      },
+      "properties": {
+        "label": "Drax power station",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1629859",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

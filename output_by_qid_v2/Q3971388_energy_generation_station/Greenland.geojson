@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3489,
+          67.1136
+        ]
+      },
+      "properties": {
+        "label": "Sisimiut Hydro Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q7530815",
+        "country_qid": "Q223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.6694,
+          65.6281
+        ]
+      },
+      "properties": {
+        "label": "Tasiilaq Hydro Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q19721313",
+        "country_qid": "Q223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.2971,
+          69.4803
+        ]
+      },
+      "properties": {
+        "label": "Q16324306",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q16324306",
+        "country_qid": "Q223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.89055556,
+          63.92111111
+        ]
+      },
+      "properties": {
+        "label": "Buksefjord hydroelectric power plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q1366227",
+        "country_qid": "Q223"
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.865,
+          -36.9512
+        ]
+      },
+      "properties": {
+        "label": "Otahuhu Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7108372",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.15277778,
+          -37.54388889
+        ]
+      },
+      "properties": {
+        "label": "Huntly Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q5945709",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.728143,
+          -37.207636
+        ]
+      },
+      "properties": {
+        "label": "Glenbrook Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q5568199",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.217,
+          -37.7164
+        ]
+      },
+      "properties": {
+        "label": "Te Rapa cogeneration",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7690951",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.319,
+          -39.3322
+        ]
+      },
+      "properties": {
+        "label": "Stratford Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7621980",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.485,
+          -36.64333333
+        ]
+      },
+      "properties": {
+        "label": "Rodney Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7357038",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.827,
+          -36.9276
+        ]
+      },
+      "properties": {
+        "label": "Southdown Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q12002141",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.336,
+          -39.0977
+        ]
+      },
+      "properties": {
+        "label": "McKee power station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q6801737",
+        "country_qid": "Q664"
+      }
+    }
+  ]
+}

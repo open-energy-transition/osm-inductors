@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8543,
+          49.24399
+        ]
+      },
+      "properties": {
+        "label": "LD-Steelworks Völklingen",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q114679470",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2408,
+          52.3158
+        ]
+      },
+      "properties": {
+        "label": "Peiner Träger",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q1638205",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.068055555,
+          52.2725
+        ]
+      },
+      "properties": {
+        "label": "Stahlwerk Osnabrück",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q101239562",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.087995,
+          49.20737
+        ]
+      },
+      "properties": {
+        "label": "Maxhütte",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q22671827",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7842,
+          49.2769
+        ]
+      },
+      "properties": {
+        "label": "Stahlwerk Bous",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q108552359",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.506,
+          52.4168
+        ]
+      },
+      "properties": {
+        "label": "Industriemuseum Brandenburg",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q1248357",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.17083,
+          49.3478
+        ]
+      },
+      "properties": {
+        "label": "Steel plant in Neunkirchen",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q14515932",
+        "country_qid": "Q183"
+      }
+    }
+  ]
+}

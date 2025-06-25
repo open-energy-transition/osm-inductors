@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.362777777,
+          -4.2425
+        ]
+      },
+      "properties": {
+        "label": "Q30744074",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q30744074",
+        "country_qid": "Q971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.147222222,
+          -4.373888888
+        ]
+      },
+      "properties": {
+        "label": "Mpassa-Mines",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q22561642",
+        "country_qid": "Q971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.475,
+          -1.978611111
+        ]
+      },
+      "properties": {
+        "label": "Mine d‘or de la Nyanga",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q22517380",
+        "country_qid": "Q971"
+      }
+    }
+  ]
+}

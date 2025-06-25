@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4420984,
+          27.760333
+        ]
+      },
+      "properties": {
+        "label": "Green Duba power plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q105029835",
+        "country_qid": "Q851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.860343,
+          31.6511623
+        ]
+      },
+      "properties": {
+        "label": "Waad Al Shamal Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q105023710",
+        "country_qid": "Q851"
+      }
+    }
+  ]
+}

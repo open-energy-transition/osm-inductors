@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.53,
+          31.635
+        ]
+      },
+      "properties": {
+        "label": "Dorad power station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q5297464",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.367543686,
+          32.633511261
+        ]
+      },
+      "properties": {
+        "label": "Alon Tavor power plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q61127044",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.040419444,
+          32.617338888
+        ]
+      },
+      "properties": {
+        "label": "David Levi Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q51765875",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.915833,
+          31.914167
+        ]
+      },
+      "properties": {
+        "label": "Gezer Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11971930",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.814188888,
+          31.154397222
+        ]
+      },
+      "properties": {
+        "label": "Ramat Hohav Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q19386164",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.021777777,
+          32.81175
+        ]
+      },
+      "properties": {
+        "label": "Haifa Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q16131092",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77888889,
+          32.10277778
+        ]
+      },
+      "properties": {
+        "label": "Reading Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q2904388",
+        "country_qid": "Q801"
+      }
+    }
+  ]
+}

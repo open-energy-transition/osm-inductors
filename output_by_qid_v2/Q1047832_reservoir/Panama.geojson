@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9,
+          9.2
+        ]
+      },
+      "properties": {
+        "label": "Gatun Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q313637",
+        "country_qid": "Q804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.57444,
+          9.2353
+        ]
+      },
+      "properties": {
+        "label": "Lake Alajuela",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1416924",
+        "country_qid": "Q804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.76,
+          9.15
+        ]
+      },
+      "properties": {
+        "label": "Bayano Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2031187",
+        "country_qid": "Q804"
+      }
+    }
+  ]
+}

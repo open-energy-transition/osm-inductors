@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.641388888,
+          51.605833333
+        ]
+      },
+      "properties": {
+        "label": "Aust Severn Powerline Crossing",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q1515236",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.296666666,
+          51.464722222
+        ]
+      },
+      "properties": {
+        "label": "400 kV Thames Crossing",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q228060",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7407,
+          56.0716
+        ]
+      },
+      "properties": {
+        "label": "Kincardine Forth power line crossing",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q4637291",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

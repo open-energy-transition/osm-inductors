@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6976169,
+          21.2662517
+        ]
+      },
+      "properties": {
+        "label": "Boulenouar Wind Power Station",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q104858943",
+        "country_qid": "Q1025"
+      }
+    }
+  ]
+}

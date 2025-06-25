@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.8495,
+          37.027777777
+        ]
+      },
+      "properties": {
+        "label": "Summit Myojo Power Corporation Itoigawa Biomass-fired Power Station",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11305138",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.367777777,
+          44.335555555
+        ]
+      },
+      "properties": {
+        "label": "Q40836142",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q40836142",
+        "country_qid": "Q17"
+      }
+    }
+  ]
+}

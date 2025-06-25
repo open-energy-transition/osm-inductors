@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.41555556,
+          0.50527778
+        ]
+      },
+      "properties": {
+        "label": "Mayuge Thermal Power Station",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q20894753",
+        "country_qid": "Q1036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4831,
+          0.936389
+        ]
+      },
+      "properties": {
+        "label": "Kaliro Power Station",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q18386727",
+        "country_qid": "Q1036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.60555556,
+          1.63555556
+        ]
+      },
+      "properties": {
+        "label": "Kinyara Power Station",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q6414458",
+        "country_qid": "Q1036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.945,
+          0.38
+        ]
+      },
+      "properties": {
+        "label": "Lugazi Power Station",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q6699741",
+        "country_qid": "Q1036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.29,
+          0.50888889
+        ]
+      },
+      "properties": {
+        "label": "Kakira Power Station",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q6349473",
+        "country_qid": "Q1036"
+      }
+    }
+  ]
+}

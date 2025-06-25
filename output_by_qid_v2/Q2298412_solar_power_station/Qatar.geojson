@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.015416666,
+          25.239611111
+        ]
+      },
+      "properties": {
+        "label": "Al-Kharsaah Solar Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q134278642",
+        "country_qid": "Q846"
+      }
+    }
+  ]
+}

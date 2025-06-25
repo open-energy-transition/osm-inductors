@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.40638889,
+          53.02861111
+        ]
+      },
+      "properties": {
+        "label": "Turlough Hill Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q17985032",
+        "country_qid": "Q27"
+      }
+    }
+  ]
+}

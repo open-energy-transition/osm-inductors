@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.31815,
+          49.75901
+        ]
+      },
+      "properties": {
+        "label": "Q131629343",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q131629343",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.151260844,
+          49.661238118
+        ]
+      },
+      "properties": {
+        "label": "Walferdange Gypsum Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q125054411",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.878697,
+          49.524256
+        ]
+      },
+      "properties": {
+        "label": "Mine Thillebierg",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q118218712",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.958043186,
+          49.921992584
+        ]
+      },
+      "properties": {
+        "label": "Antimony mine Goesdorf",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q13102920",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3641,
+          49.46187
+        ]
+      },
+      "properties": {
+        "label": "Q122866824",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q122866824",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.168467,
+          49.964114
+        ]
+      },
+      "properties": {
+        "label": "copper mine of Stolzembourg",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16763895",
+        "country_qid": "Q32"
+      }
+    }
+  ]
+}

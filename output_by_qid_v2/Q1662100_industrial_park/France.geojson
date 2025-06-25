@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.854198421,
+          50.519983342
+        ]
+      },
+      "properties": {
+        "label": "Q118351666",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q118351666",
+        "country_qid": "Q142"
+      }
+    }
+  ]
+}

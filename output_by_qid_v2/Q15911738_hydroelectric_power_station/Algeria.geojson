@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.329083333,
+          36.555222222
+        ]
+      },
+      "properties": {
+        "label": "Darguina Power Plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q56372900",
+        "country_qid": "Q262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.576754683,
+          36.58202332
+        ]
+      },
+      "properties": {
+        "label": "Erraguene Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q12215567",
+        "country_qid": "Q262"
+      }
+    }
+  ]
+}

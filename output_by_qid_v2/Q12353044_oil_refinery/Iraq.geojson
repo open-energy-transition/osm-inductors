@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.4275,
+          33.27527778
+        ]
+      },
+      "properties": {
+        "label": "Power Plant in Dora",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q28936282",
+        "country_qid": "Q796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.49431,
+          35.01156
+        ]
+      },
+      "properties": {
+        "label": "Baiji oil refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q17991536",
+        "country_qid": "Q796"
+      }
+    }
+  ]
+}

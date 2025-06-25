@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.43194444,
+          -33.67666667
+        ]
+      },
+      "properties": {
+        "label": "Koeberg Nuclear Power Station",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q941797",
+        "country_qid": "Q258"
+      }
+    }
+  ]
+}

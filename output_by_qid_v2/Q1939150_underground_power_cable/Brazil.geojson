@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.760676,
+          -1.586588
+        ]
+      },
+      "properties": {
+        "label": "Tucuruí transmission line",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q26710879",
+        "country_qid": "Q155"
+      }
+    }
+  ]
+}

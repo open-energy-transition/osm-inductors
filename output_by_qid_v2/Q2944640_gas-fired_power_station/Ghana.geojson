@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0382589,
+          5.0794053
+        ]
+      },
+      "properties": {
+        "label": "Osagyefo Barge",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7105531",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.047388888,
+          5.680388888
+        ]
+      },
+      "properties": {
+        "label": "Sonon Asogli Thermal Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q25102069",
+        "country_qid": "Q117"
+      }
+    }
+  ]
+}

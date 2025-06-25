@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1047464,
+          18.2277617
+        ]
+      },
+      "properties": {
+        "label": "Eight Rivers Energy",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q117270382",
+        "country_qid": "Q766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3087525,
+          17.9439001
+        ]
+      },
+      "properties": {
+        "label": "Content Solar",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q117270372",
+        "country_qid": "Q766"
+      }
+    }
+  ]
+}

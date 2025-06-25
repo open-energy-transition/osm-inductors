@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.56,
+          55.604444
+        ]
+      },
+      "properties": {
+        "label": "Ignalina Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q847687",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5758419,
+          55.60569944
+        ]
+      },
+      "properties": {
+        "label": "Visaginas Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1537471",
+        "country_qid": "Q37"
+      }
+    }
+  ]
+}

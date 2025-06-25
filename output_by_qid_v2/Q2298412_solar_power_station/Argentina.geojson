@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7138216,
+          -24.1016899
+        ]
+      },
+      "properties": {
+        "label": "Cauchari Solar Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q110683135",
+        "country_qid": "Q414"
+      }
+    }
+  ]
+}

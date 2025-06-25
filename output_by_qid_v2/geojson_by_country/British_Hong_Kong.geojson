@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.147521,
+          22.243717
+        ]
+      },
+      "properties": {
+        "label": "Ap Lei Chau Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q11173913",
+        "country_qid": "Q1054923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.181572,
+          22.27826
+        ]
+      },
+      "properties": {
+        "label": "Russell Street Tram Depot",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q7203329",
+        "country_qid": "Q1054923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.000768,
+          22.363145
+        ]
+      },
+      "properties": {
+        "label": "Lok On Pai Desalination Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q11120776",
+        "country_qid": "Q1054923"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2007005,
+          41.980682
+        ]
+      },
+      "properties": {
+        "label": "Možura Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q105975515",
+        "country_qid": "Q236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.117,
+          42.8738
+        ]
+      },
+      "properties": {
+        "label": "Krnovo Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q97193445",
+        "country_qid": "Q236"
+      }
+    }
+  ]
+}

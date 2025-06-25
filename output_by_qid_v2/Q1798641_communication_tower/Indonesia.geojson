@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.766544,
+          -6.193351
+        ]
+      },
+      "properties": {
+        "label": "Indosiar Television Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q841981",
+        "country_qid": "Q252"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7976,
+          13.43477
+        ]
+      },
+      "properties": {
+        "label": "Q49313660",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q49313660",
+        "country_qid": "Q424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.906708333,
+          13.431
+        ]
+      },
+      "properties": {
+        "label": "Srah Srang",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q609935",
+        "country_qid": "Q424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9666667,
+          13.35
+        ]
+      },
+      "properties": {
+        "label": "Q4077641",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4077641",
+        "country_qid": "Q424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.92191667,
+          13.44755556
+        ]
+      },
+      "properties": {
+        "label": "East Baray",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q307080",
+        "country_qid": "Q424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.800588,
+          13.434245
+        ]
+      },
+      "properties": {
+        "label": "West Baray",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1074982",
+        "country_qid": "Q424"
+      }
+    }
+  ]
+}

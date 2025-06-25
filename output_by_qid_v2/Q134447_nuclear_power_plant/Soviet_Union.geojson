@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.79,
+          49.08944444
+        ]
+      },
+      "properties": {
+        "label": "Chyhyryn Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q4515680",
+        "country_qid": "Q15180"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1753,
+          18.9396
+        ]
+      },
+      "properties": {
+        "label": "Pueblo Viejo mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q3128312",
+        "country_qid": "Q786"
+      }
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0625,
+          47.79027778
+        ]
+      },
+      "properties": {
+        "label": "Mátra Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q168477",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.055561111,
+          47.463177777
+        ]
+      },
+      "properties": {
+        "label": "Kelenföld power station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q20440045",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.165,
+          47.456667
+        ]
+      },
+      "properties": {
+        "label": "Kispesti Erőmű",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1111392",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.91732,
+          47.32802
+        ]
+      },
+      "properties": {
+        "label": "Dunamenti Erőmű Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q911400",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9698966,
+          47.9394231
+        ]
+      },
+      "properties": {
+        "label": "Sajószöged Gas Turbine Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q106413862",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0525,
+          47.428
+        ]
+      },
+      "properties": {
+        "label": "Csepel II power plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11964226",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0142776,
+          47.1076159
+        ]
+      },
+      "properties": {
+        "label": "Litér Gas Turbine Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q106413860",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.803306,
+          47.738389
+        ]
+      },
+      "properties": {
+        "label": "Gönyű power plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q30973081",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.101944,
+          47.553889
+        ]
+      },
+      "properties": {
+        "label": "Újpest Gas Turbine Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q18107922",
+        "country_qid": "Q28"
+      }
+    }
+  ]
+}

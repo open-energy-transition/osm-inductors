@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.54469,
+          52.51736
+        ]
+      },
+      "properties": {
+        "label": "Rhino",
+        "type": "Battery storage power station",
+        "entity": "http://www.wikidata.org/entity/Q124629751",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.97634,
+          53.31061
+        ]
+      },
+      "properties": {
+        "label": "Leopard",
+        "type": "Battery storage power station",
+        "entity": "http://www.wikidata.org/entity/Q124629753",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.54568,
+          52.51736
+        ]
+      },
+      "properties": {
+        "label": "Buffalo",
+        "type": "Battery storage power station",
+        "entity": "http://www.wikidata.org/entity/Q124629752",
+        "country_qid": "Q55"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.85,
+          -29.29
+        ]
+      },
+      "properties": {
+        "label": "Polihali Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q125523161",
+        "country_qid": "Q1013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.50603056,
+          -29.33708333
+        ]
+      },
+      "properties": {
+        "label": "Katse Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q1433794",
+        "country_qid": "Q1013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.09583333,
+          -29.45666667
+        ]
+      },
+      "properties": {
+        "label": "Mohale Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q665301",
+        "country_qid": "Q1013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.77689,
+          -29.336
+        ]
+      },
+      "properties": {
+        "label": "Metolong Dam Site",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27480485",
+        "country_qid": "Q1013"
+      }
+    }
+  ]
+}

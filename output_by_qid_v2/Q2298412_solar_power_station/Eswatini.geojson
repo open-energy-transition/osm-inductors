@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.309722222,
+          -26.571111111
+        ]
+      },
+      "properties": {
+        "label": "Edwaleni Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q112683435",
+        "country_qid": "Q1050"
+      }
+    }
+  ]
+}

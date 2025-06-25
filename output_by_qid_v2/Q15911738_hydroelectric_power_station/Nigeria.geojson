@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.761944444,
+          6.874166666
+        ]
+      },
+      "properties": {
+        "label": "Kashimbila Hydroelectric Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q111947964",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.787778,
+          9.135556
+        ]
+      },
+      "properties": {
+        "label": "Jebba Hydroelectric Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q1115086",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.61333333,
+          9.8625
+        ]
+      },
+      "properties": {
+        "label": "Kainji Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q15043618",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.15,
+          6.66666667
+        ]
+      },
+      "properties": {
+        "label": "Q19383005",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q19383005",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.691944444,
+          9.613888888
+        ]
+      },
+      "properties": {
+        "label": "Gurara II Hydroelectric Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q112169063",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.18333333,
+          12.51194444
+        ]
+      },
+      "properties": {
+        "label": "Bakolori Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q4849501",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.83444444,
+          9.975
+        ]
+      },
+      "properties": {
+        "label": "Shiroro Hydroelectric Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q7498956",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.118333333,
+          6.823055555
+        ]
+      },
+      "properties": {
+        "label": "Mambilla Hydroelectric Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q6745515",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.285722222,
+          9.901888888
+        ]
+      },
+      "properties": {
+        "label": "Zungeru Hydro Power Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q56372694",
+        "country_qid": "Q1033"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0689,
+          53.0756
+        ]
+      },
+      "properties": {
+        "label": "Bydgoszcz Industrial and Technological Park",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q9182600",
+        "country_qid": "Q36"
+      }
+    }
+  ]
+}

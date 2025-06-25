@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.866094,
+          32.402474
+        ]
+      },
+      "properties": {
+        "label": "Abu Zabura Port",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q87751771",
+        "country_qid": "Q193714"
+      }
+    }
+  ]
+}

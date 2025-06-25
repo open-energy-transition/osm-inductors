@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.489722222,
+          4.869444444
+        ]
+      },
+      "properties": {
+        "label": "Juba Solar Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q112609908",
+        "country_qid": "Q958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.634722222,
+          4.843888888
+        ]
+      },
+      "properties": {
+        "label": "Juba Thermal Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q85772250",
+        "country_qid": "Q958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.64999962,
+          9.33333015
+        ]
+      },
+      "properties": {
+        "label": "Q20915424",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q20915424",
+        "country_qid": "Q958"
+      }
+    }
+  ]
+}

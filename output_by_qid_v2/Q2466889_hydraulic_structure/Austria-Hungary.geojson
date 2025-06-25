@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.759867,
+          45.646867
+        ]
+      },
+      "properties": {
+        "label": "metres above the Adriatic",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q23202",
+        "country_qid": "Q28513"
+      }
+    }
+  ]
+}

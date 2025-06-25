@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.434638888,
+          40.10625
+        ]
+      },
+      "properties": {
+        "label": "Çanakkale TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q19613310",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.856111111,
+          39.886111111
+        ]
+      },
+      "properties": {
+        "label": "Atakule",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q753230",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.068462,
+          41.026078
+        ]
+      },
+      "properties": {
+        "label": "Çamlıca TRT Television Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1407350",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.065472222,
+          41.016444444
+        ]
+      },
+      "properties": {
+        "label": "Çamlıca Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q28657490",
+        "country_qid": "Q43"
+      }
+    }
+  ]
+}

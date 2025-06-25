@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0796118,
+          13.6218802
+        ]
+      },
+      "properties": {
+        "label": "Ilijan Combined-Cycle Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q20861495",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.03472222,
+          13.77027778
+        ]
+      },
+      "properties": {
+        "label": "Q19387544",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q19387544",
+        "country_qid": "Q928"
+      }
+    }
+  ]
+}

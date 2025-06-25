@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2335634,
+          23.3695199
+        ]
+      },
+      "properties": {
+        "label": "Ibri II Solar Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q114356180",
+        "country_qid": "Q842"
+      }
+    }
+  ]
+}

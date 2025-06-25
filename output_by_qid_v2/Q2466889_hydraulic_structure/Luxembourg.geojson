@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1368573,
+          49.607652
+        ]
+      },
+      "properties": {
+        "label": "Grund Lock",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q16763637",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.43858,
+          49.67259
+        ]
+      },
+      "properties": {
+        "label": "Q13105102",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q13105102",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.92277778,
+          49.91166667
+        ]
+      },
+      "properties": {
+        "label": "Esch-sur-Sûre Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q1366851",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.36668,
+          49.46697
+        ]
+      },
+      "properties": {
+        "label": "Écluse d'Apach-Schengen",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q13105104",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.869722222,
+          50.104722222
+        ]
+      },
+      "properties": {
+        "label": "Bernistap Tunnel",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q48753",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.36499,
+          49.56767
+        ]
+      },
+      "properties": {
+        "label": "Staustuf Stadbriedemes-Palzem",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q13105109",
+        "country_qid": "Q32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.205883,
+          49.941242
+        ]
+      },
+      "properties": {
+        "label": "Barrage de Vianden",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q2685627",
+        "country_qid": "Q32"
+      }
+    }
+  ]
+}

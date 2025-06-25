@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.98425,
+          34.332166666
+        ]
+      },
+      "properties": {
+        "label": "Chūshi Powerline Crossing",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q5119028",
+        "country_qid": "Q17"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.73245,
+          17.27695
+        ]
+      },
+      "properties": {
+        "label": "Westlake-Mollejon Line",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q126369961",
+        "country_qid": "Q242"
+      }
+    }
+  ]
+}

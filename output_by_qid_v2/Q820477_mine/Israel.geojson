@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.175179,
+          31.201956
+        ]
+      },
+      "properties": {
+        "label": "Barir Field Phosphate Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q97205572",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.949722222,
+          29.590833333
+        ]
+      },
+      "properties": {
+        "label": "Q26769273",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q26769273",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.418444444,
+          32.518805555
+        ]
+      },
+      "properties": {
+        "label": "Q6957497",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q6957497",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.511097,
+          33.098197
+        ]
+      },
+      "properties": {
+        "label": "Malkia Quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q92149947",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0541,
+          32.7601
+        ]
+      },
+      "properties": {
+        "label": "Nesher Old Quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q125145334",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.458499,
+          31.421679
+        ]
+      },
+      "properties": {
+        "label": "Sulfur Quarry of Be'eri",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q12409040",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.283333333,
+          31.15
+        ]
+      },
+      "properties": {
+        "label": "Gurim anticline",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q24500126",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.033503,
+          32.779756
+        ]
+      },
+      "properties": {
+        "label": "Q127247821",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q127247821",
+        "country_qid": "Q801"
+      }
+    }
+  ]
+}

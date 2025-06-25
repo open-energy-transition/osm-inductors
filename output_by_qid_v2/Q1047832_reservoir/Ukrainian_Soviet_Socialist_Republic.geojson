@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2363369,
+          48.763431
+        ]
+      },
+      "properties": {
+        "label": "Q122728269",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q122728269",
+        "country_qid": "Q133356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2429228,
+          48.766
+        ]
+      },
+      "properties": {
+        "label": "Q122728279",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q122728279",
+        "country_qid": "Q133356"
+      }
+    }
+  ]
+}

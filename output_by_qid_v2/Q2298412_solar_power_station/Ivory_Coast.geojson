@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.476666666,
+          9.568611111
+        ]
+      },
+      "properties": {
+        "label": "Boundiali Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q107803423",
+        "country_qid": "Q1008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.223888888,
+          9.529722222
+        ]
+      },
+      "properties": {
+        "label": "Sokhoro Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q124504852",
+        "country_qid": "Q1008"
+      }
+    }
+  ]
+}

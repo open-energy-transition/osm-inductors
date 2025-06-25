@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.536944444,
+          38.020277777
+        ]
+      },
+      "properties": {
+        "label": "Yangyang Pumped Storage Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q8048665",
+        "country_qid": "Q884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7725,
+          35.255277777
+        ]
+      },
+      "properties": {
+        "label": "Sancheong pumped-storage power station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q11999351",
+        "country_qid": "Q884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.4235114,
+          36.7535726
+        ]
+      },
+      "properties": {
+        "label": "Yecheon pumped-storage power station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q12010964",
+        "country_qid": "Q884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0147413,
+          36.4056074
+        ]
+      },
+      "properties": {
+        "label": "Cheongsong pumped-storage power station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q11963514",
+        "country_qid": "Q884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.4877778,
+          37.7425
+        ]
+      },
+      "properties": {
+        "label": "Cheongpyeong pumped-storage power station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q11963512",
+        "country_qid": "Q884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.8783726,
+          35.4128776
+        ]
+      },
+      "properties": {
+        "label": "Samrangjin pumped-storage power station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q19387521",
+        "country_qid": "Q884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7023818,
+          35.9615618
+        ]
+      },
+      "properties": {
+        "label": "Muju pumped-storage power plant",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q11990169",
+        "country_qid": "Q884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.77388889,
+          36.58472222
+        ]
+      },
+      "properties": {
+        "label": "Andong Dam",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q4754530",
+        "country_qid": "Q884"
+      }
+    }
+  ]
+}

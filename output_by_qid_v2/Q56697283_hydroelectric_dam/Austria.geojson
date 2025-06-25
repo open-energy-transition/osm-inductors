@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.720079913,
+          47.167619361
+        ]
+      },
+      "properties": {
+        "label": "Q2885166",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q2885166",
+        "country_qid": "Q40"
+      }
+    }
+  ]
+}

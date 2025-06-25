@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.13333333,
+          -9.6
+        ]
+      },
+      "properties": {
+        "label": "Gold Ridge",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q5578832",
+        "country_qid": "Q685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.45,
+          -7.633333333
+        ]
+      },
+      "properties": {
+        "label": "Choiseul mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16258188",
+        "country_qid": "Q685"
+      }
+    }
+  ]
+}

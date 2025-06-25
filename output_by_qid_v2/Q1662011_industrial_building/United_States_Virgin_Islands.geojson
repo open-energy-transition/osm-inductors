@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.75527778,
+          17.70444444
+        ]
+      },
+      "properties": {
+        "label": "Hovensa",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q5917063",
+        "country_qid": "Q11703"
+      }
+    }
+  ]
+}

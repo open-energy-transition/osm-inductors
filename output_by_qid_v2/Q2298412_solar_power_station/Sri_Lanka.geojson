@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.08555556,
+          6.23166667
+        ]
+      },
+      "properties": {
+        "label": "Sagasolar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q48727856",
+        "country_qid": "Q854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.23611111,
+          7.975
+        ]
+      },
+      "properties": {
+        "label": "Solar One Ceylon Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q48727853",
+        "country_qid": "Q854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.076388888,
+          6.226111111
+        ]
+      },
+      "properties": {
+        "label": "Hambantota Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q5001029",
+        "country_qid": "Q854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.08,
+          6.22972222
+        ]
+      },
+      "properties": {
+        "label": "Laugfs Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q48727250",
+        "country_qid": "Q854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.202777777,
+          7.619444444
+        ]
+      },
+      "properties": {
+        "label": "Maduru Oya Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q65090482",
+        "country_qid": "Q854"
+      }
+    }
+  ]
+}

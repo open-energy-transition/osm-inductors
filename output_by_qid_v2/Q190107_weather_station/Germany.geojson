@@ -1,0 +1,373 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8759374,
+          50.3126083
+        ]
+      },
+      "properties": {
+        "label": "German Weather Service - Weather Station Hof-Hohensaas",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q115434298",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.618083333,
+          51.798611111
+        ]
+      },
+      "properties": {
+        "label": "Wetterstation Brocken",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q48074764",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.083349952,
+          49.46347064
+        ]
+      },
+      "properties": {
+        "label": "Q123182646",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q123182646",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0097,
+          47.8014
+        ]
+      },
+      "properties": {
+        "label": "Hohenpeißenberg Meteorological Observatory",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q1925278",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.141,
+          51.7836
+        ]
+      },
+      "properties": {
+        "label": "Wetterhäuschen",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q2565967",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.805491,
+          50.987092
+        ]
+      },
+      "properties": {
+        "label": "Der Frosch",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q49458231",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.31,
+          52.52
+        ]
+      },
+      "properties": {
+        "label": "Wetterstation Lingen",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q66466368",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9878153,
+          49.2332841
+        ]
+      },
+      "properties": {
+        "label": "Meteorological column Saarbrücken",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q98971862",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.465517,
+          50.184946
+        ]
+      },
+      "properties": {
+        "label": "Wettersäule",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q18521601",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.387137,
+          49.010694
+        ]
+      },
+      "properties": {
+        "label": "Q117080606",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q117080606",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.07941,
+          49.4418
+        ]
+      },
+      "properties": {
+        "label": "Clock tower on Aufseßplatz",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q41427595",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.024155555,
+          50.798713888
+        ]
+      },
+      "properties": {
+        "label": "Wetterwarte Aachen",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q27926492",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.707198,
+          53.871521
+        ]
+      },
+      "properties": {
+        "label": "Wetterwarte Cuxhaven",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q83274413",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.712844444,
+          49.984813888
+        ]
+      },
+      "properties": {
+        "label": "Weather radar station Dreieich-Offenthal",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q123093713",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1189,
+          52.2097
+        ]
+      },
+      "properties": {
+        "label": "Lindenberg Meteorological Observatory",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q1090073",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.07799,
+          49.45067
+        ]
+      },
+      "properties": {
+        "label": "Q122965359",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q122965359",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.35,
+          50.03
+        ]
+      },
+      "properties": {
+        "label": "Meteorologische Station Frankfurt/Main",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q3971669",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7695,
+          50.654932
+        ]
+      },
+      "properties": {
+        "label": "weather station Schmücke",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q104537358",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.992261,
+          49.467142
+        ]
+      },
+      "properties": {
+        "label": "Q41419666",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q41419666",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.30403,
+          48.7418
+        ]
+      },
+      "properties": {
+        "label": "Wettersäule (Esslingen)",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q1395846",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.149298,
+          50.679857
+        ]
+      },
+      "properties": {
+        "label": "Wettersäule",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q2566056",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.29065,
+          47.94682
+        ]
+      },
+      "properties": {
+        "label": "Q41235042",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q41235042",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.042583131,
+          49.352002704
+        ]
+      },
+      "properties": {
+        "label": "Q123182681",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q123182681",
+        "country_qid": "Q183"
+      }
+    }
+  ]
+}

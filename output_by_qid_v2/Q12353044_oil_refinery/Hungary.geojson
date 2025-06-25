@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.02869,
+          47.89235
+        ]
+      },
+      "properties": {
+        "label": "Q118453851",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q118453851",
+        "country_qid": "Q28"
+      }
+    }
+  ]
+}

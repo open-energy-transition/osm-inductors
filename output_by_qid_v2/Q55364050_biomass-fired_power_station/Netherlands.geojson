@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.58083,
+          51.68806
+        ]
+      },
+      "properties": {
+        "label": "biomass power station Moerdijk",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3212088",
+        "country_qid": "Q55"
+      }
+    }
+  ]
+}

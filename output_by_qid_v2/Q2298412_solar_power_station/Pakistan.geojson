@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.823661,
+          29.319046
+        ]
+      },
+      "properties": {
+        "label": "Quaid-e-Azam Solar Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q18389850",
+        "country_qid": "Q843"
+      }
+    }
+  ]
+}

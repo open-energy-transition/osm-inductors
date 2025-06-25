@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.27225,
+          5.749277777
+        ]
+      },
+      "properties": {
+        "label": "Datasur",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q127164861",
+        "country_qid": "Q730"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.300833,
+          51.870556
+        ]
+      },
+      "properties": {
+        "label": "Esso refinery in Botlek",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q2569045",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.346191,
+          51.876281
+        ]
+      },
+      "properties": {
+        "label": "Shell Pernis",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q2035024",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7304163,
+          51.444951
+        ]
+      },
+      "properties": {
+        "label": "Zeeland Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q14525812",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.105152777,
+          51.946363888
+        ]
+      },
+      "properties": {
+        "label": "BP Europoort",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q2935831",
+        "country_qid": "Q55"
+      }
+    }
+  ]
+}

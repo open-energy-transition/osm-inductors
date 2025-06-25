@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.095555555,
+          13.618333333
+        ]
+      },
+      "properties": {
+        "label": "Canal De Dioro",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27694012",
+        "country_qid": "Q912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.078611111,
+          13.740555555
+        ]
+      },
+      "properties": {
+        "label": "Canal Coste-Ongoïba",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27694011",
+        "country_qid": "Q912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.082777777,
+          13.738888888
+        ]
+      },
+      "properties": {
+        "label": "Canal du Sahel",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27689708",
+        "country_qid": "Q912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.075833333,
+          13.736388888
+        ]
+      },
+      "properties": {
+        "label": "Canal du Massina",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27694013",
+        "country_qid": "Q912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.429944444,
+          13.195166666
+        ]
+      },
+      "properties": {
+        "label": "Manantali Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q583804",
+        "country_qid": "Q912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.58194444,
+          16.94111111
+        ]
+      },
+      "properties": {
+        "label": "Taoussa dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q2885451",
+        "country_qid": "Q912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2294419,
+          11.6383587
+        ]
+      },
+      "properties": {
+        "label": "Sélingué Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q2885448",
+        "country_qid": "Q912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7275,
+          13.670833333
+        ]
+      },
+      "properties": {
+        "label": "Canal du Pondori",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27690628",
+        "country_qid": "Q912"
+      }
+    }
+  ]
+}

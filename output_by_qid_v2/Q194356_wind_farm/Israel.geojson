@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.83333333,
+          33.08333333
+        ]
+      },
+      "properties": {
+        "label": "Golan Heights Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q1145092",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.846944444,
+          32.953888888
+        ]
+      },
+      "properties": {
+        "label": "Q118342723",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q118342723",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.796944444,
+          33.163333333
+        ]
+      },
+      "properties": {
+        "label": "Vale of tears wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q97204759",
+        "country_qid": "Q801"
+      }
+    }
+  ]
+}

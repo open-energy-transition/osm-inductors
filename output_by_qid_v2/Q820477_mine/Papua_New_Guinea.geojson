@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.42483889,
+          -6.96788611
+        ]
+      },
+      "properties": {
+        "label": "Wafi-Golpu mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q2538998",
+        "country_qid": "Q691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.641388888,
+          -3.131944444
+        ]
+      },
+      "properties": {
+        "label": "Lihir mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16979086",
+        "country_qid": "Q691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.18366111,
+          -5.24053611
+        ]
+      },
+      "properties": {
+        "label": "Ok Tedi Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q7081683",
+        "country_qid": "Q691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.646666666,
+          -7.2
+        ]
+      },
+      "properties": {
+        "label": "Bulolo",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q612403",
+        "country_qid": "Q691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.42483889,
+          -6.96788611
+        ]
+      },
+      "properties": {
+        "label": "Hidden Valley mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q1617309",
+        "country_qid": "Q691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.722,
+          -4.70873889
+        ]
+      },
+      "properties": {
+        "label": "Frieda River Project",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q5503642",
+        "country_qid": "Q691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.495,
+          -6.315
+        ]
+      },
+      "properties": {
+        "label": "Panguna mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q17060798",
+        "country_qid": "Q691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1048,
+          -5.4646
+        ]
+      },
+      "properties": {
+        "label": "Porgera Gold Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q2104436",
+        "country_qid": "Q691"
+      }
+    }
+  ]
+}

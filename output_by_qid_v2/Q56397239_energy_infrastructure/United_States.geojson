@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.201388888,
+          38.056388888
+        ]
+      },
+      "properties": {
+        "label": "Carquinez Strait Powerline Crossing",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q968940",
+        "country_qid": "Q30"
+      }
+    }
+  ]
+}
