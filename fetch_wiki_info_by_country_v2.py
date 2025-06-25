@@ -7,6 +7,12 @@ import hashlib
 import pickle
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+from collections import defaultdict
+
+#Global variable for all-included dataframe
+
+ALL_COORDINATES_DF = []
+
 # ------------------------
 # Configuration & Caching
 # ------------------------
@@ -126,6 +132,12 @@ def fetch_entity_counts(type_qid, type_label, output_dir=""):
         df = pd.DataFrame(all_rows)
         save_cache(cache_name, df)
 
+    
+    # Only proceed if 'count' column exists and is non-empty
+    if "count" not in df.columns or df.empty:
+        print(f"No count data returned for {type_label} ({type_qid}). Skipping.\n")
+        return pd.DataFrame()
+
     df = df[df["count"] > 0]
     if output_dir:
         os.makedirs(output_dir, exist_ok=True)
@@ -177,9 +189,11 @@ def fetch_entities_by_country(type_qid, type_label, country_qid, country_label):
         coordinates = item.get("coordinates", {}).get("value")
         lat, lon = None, None
         if coordinates and coordinates.startswith("Point("):
-            parts = coordinates.replace("Point(", "").replace(")", "").split()
-            if len(parts) == 2:
-                lon, lat = float(parts[0]), float(parts[1])
+            try:
+                lon_str, lat_str = coordinates.replace("Point(", "").replace(")", "").split()
+                lon, lat = float(lon_str), float(lat_str)
+            except ValueError:
+                pass  # leave lat/lon as None
 
         all_rows.append({
             "country_name": country_label,
@@ -248,9 +262,30 @@ def collect_entity_data_parallel(type_qid, type_label):
     cleaned_non_empty = [df.dropna(axis=1, how="all") for df in non_empty]
     full_df = pd.concat(cleaned_non_empty, ignore_index=True) if cleaned_non_empty else pd.DataFrame()
 
-    df_with_coords = full_df[full_df["latitude"].notna() & full_df["longitude"].notna()]
-    df_without_coords = full_df[full_df["latitude"].isna() | full_df["longitude"].isna()]
-    return full_df, df_with_coords, df_without_coords
+    if full_df.empty:
+        print(f"No data returned for {type_label} ({type_qid}). Skipping.\n")
+        return full_df, pd.DataFrame(), pd.DataFrame()
+
+   
+    coord_cols_exist = all(col in full_df.columns for col in ["latitude", "longitude"])
+    if coord_cols_exist:
+        full_df["latitude"] = pd.to_numeric(full_df["latitude"], errors="coerce")
+        full_df["longitude"] = pd.to_numeric(full_df["longitude"], errors="coerce")
+
+        df_coords = full_df[
+            full_df["latitude"].notna() &
+            full_df["longitude"].notna() &
+            full_df["type"].notna()
+        ].copy()
+
+        df_without_coords = full_df[~full_df.index.isin(df_coords.index)].copy()
+    else:
+        print(f"Skipping {type_label} ({type_qid}) due to missing coordinate columns.")
+        df_without_coords = full_df.copy()
+        return full_df, pd.DataFrame(), df_without_coords
+
+
+    return full_df, df_coords, df_without_coords
 
 # -----------------------------
 # Step 4: Export GeoJSON Outputs
@@ -301,6 +336,7 @@ def export_geojson_by_country(df_with_coords, country_counts, type_label, type_q
         with open(filepath, "w", encoding="utf-8") as f:
             json.dump(geojson, f, ensure_ascii=False, indent=2)
 
+
         generated_files += 1
 
     print(f"\n{type_label}: {generated_files} GeoJSON files saved to '{output_dir}'")
@@ -312,25 +348,6 @@ def export_geojson_by_country(df_with_coords, country_counts, type_label, type_q
             print(f" - {country}")
 
 
-def prepare_output_folder(type_qid, type_label, version="v2"):
-    """
-    Prepares and returns the output directory for a given infrastructure QID and label.
-    
-    Args:
-        type_qid (str): The Wikidata QID of the infrastructure type.
-        type_label (str): Human-readable label for the infrastructure.
-        version (str): Folder suffix to differentiate script versions. Default is 'v2'.
-    
-    Returns:
-        tuple: (output_dir, folder_name, base_name)
-    """
-    base_name = type_label.lower().replace(" ", "_")
-    folder_name = f"{type_qid}_{base_name}"
-    output_dir = os.path.join(f"output_by_qid_{version}", folder_name)
-    os.makedirs(output_dir, exist_ok=True)
-    return output_dir, folder_name, base_name
-
-    
 def process_infrastructure_type(type_qid, type_label, version="v2"):
     """
     Executes the full data retrieval and export workflow for a given infrastructure type.
@@ -340,23 +357,102 @@ def process_infrastructure_type(type_qid, type_label, version="v2"):
         type_label (str): Human-readable label for the infrastructure type.
         version (str): Version label for the output directory structure (e.g., 'v2').
     """
-    output_dir, folder_name, base_name = prepare_output_folder(type_qid, type_label, version)
+    base_name = type_label.lower().replace(" ", "_")
+    folder_name = f"{type_qid}_{base_name}"
+    output_dir = os.path.join("output_by_qid_v2", folder_name)
+    os.makedirs(output_dir, exist_ok=True)
 
     # Step 1: Fetch per-country counts
     summary = fetch_entity_counts(type_qid, type_label, output_dir)
 
+    if summary.empty:
+        print(f"No count data returned for {type_label} ({type_qid}). Skipping.\n")
+        return
+
+    os.makedirs(output_dir, exist_ok=True)
+
     # Step 2: Fetch entities using parallel country-level calls
     df_all, df_coords, df_missing = collect_entity_data_parallel(type_qid, type_label)
+
+    if df_all.empty:
+        print(f"No entity data returned for {type_label} ({type_qid}). Skipping.\n")
+        return
 
     # Step 3: Save all results to CSV
     df_all.to_csv(os.path.join(output_dir, f"wikidata_{base_name}_full.csv"), index=False)
     df_coords.to_csv(os.path.join(output_dir, f"wikidata_{base_name}_with_coordinates.csv"), index=False)
     df_missing.to_csv(os.path.join(output_dir, f"wikidata_{base_name}_without_coordinates.csv"), index=False)
 
+    if df_coords.empty:
+        print(f"No coordinate data for {type_label} ({type_qid}). GeoJSON not created.\n")
+        return
+
+    ALL_COORDINATES_DF.append(df_coords.copy())
+
     # Step 4: Export GeoJSON
     export_geojson_by_country(df_coords, summary, type_label, type_qid, output_dir)
 
     print(f"\nFinished processing {type_label}")
+
+
+def generate_combined_geojson_by_country(df_list, output_root="output_by_qid_v2"):
+    """
+    Combines all per-QID coordinate dataframes, removes duplicates, and generates a merged 
+    CSV and per-country GeoJSON files containing all infrastructure types.
+
+    Args:
+        df_list (list): List of pd.DataFrame objects (df_coords) from each QID run.
+        output_root (str): Root directory to store the output files.
+    """
+    if not df_list:
+        print("No coordinate data found across all QIDs. Nothing to merge.")
+        return
+
+    print("\nMerging all coordinate dataframes from all QIDs...")
+    combined_df = pd.concat(df_list, ignore_index=True)
+    combined_df = combined_df.drop_duplicates(subset="entity")
+
+    # Save combined CSV
+    csv_path = os.path.join(output_root, "wikidata_all_qids_with_coordinates.csv")
+    combined_df.to_csv(csv_path, index=False)
+    print(f"Combined CSV saved at {csv_path}")
+
+    # Generate per-country GeoJSONs
+    print("Generating merged GeoJSONs by country...")
+    geojson_dir = os.path.join(output_root, "geojson_by_country")
+    os.makedirs(geojson_dir, exist_ok=True)
+
+    for country, group in combined_df.groupby("country_name"):
+        features = []
+        for _, row in group.iterrows():
+            if pd.notna(row["latitude"]) and pd.notna(row["longitude"]):
+                features.append({
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [row["longitude"], row["latitude"]]
+                    },
+                    "properties": {
+                        "label": row.get("label", ""),
+                        "type": row.get("type", ""),
+                        "entity": row.get("entity", ""),
+                        "country_qid": row.get("country_qid", ""),
+                    }
+                })
+
+        if features:
+            geojson = {
+                "type": "FeatureCollection",
+                "features": features
+            }
+            safe_filename = country.replace("/", "_").replace("\\", "_").replace(" ", "_")
+            filepath = os.path.join(geojson_dir, f"{safe_filename}.geojson")
+            with open(filepath, "w", encoding="utf-8") as f:
+                json.dump(geojson, f, ensure_ascii=False, indent=2)
+
+    print(f"\nAggregated country GeoJSONs saved to: {geojson_dir}")
+
+
 
 # -----------------------------
 # Main Execution
@@ -364,3 +460,6 @@ def process_infrastructure_type(type_qid, type_label, version="v2"):
 if __name__ == "__main__":
     for type_qid, info in INFRA_TYPES.items():
         process_infrastructure_type(type_qid, info["label"])
+
+    generate_combined_geojson_by_country(ALL_COORDINATES_DF)
+    print('Qid processing ended successfuly')
