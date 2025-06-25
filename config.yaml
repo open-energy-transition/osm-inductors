@@ -259,3 +259,44 @@ infrastructure_types:
     label: "Control room"
   Q207696:
     label: "Uninterruptible power supply (UPS)"
+status_values:
+  Q811683:
+    label: "proposed building or structure"
+  Q170584:
+    label: "project"
+  Q3875186:
+    label: "construction"
+  Q30108381:
+    label: "cancelled"
+prime_properties:
+  P10689:
+    label: "OpenStreetMap way ID"
+  P402:
+    label: "OpenStreetMap relation ID"
+  P11693:
+    label: "OpenStreetMap node ID"
+  P2436:
+    label: "voltage"
+  P2144:
+    label: "frequency"
+  P625:
+    label: "coordinate location"
+  P17:
+    label: "country"
+  P131:
+    label: "located in the administrative territorial entity"
+    comment: "Supposed to be included in P276"
+  P276:
+    label: "location of the object"
+    comment: "Supposed to include P131"
+  P2109:
+    label: "nominal power output"
+  P137:
+    label: "operator"
+  P729:
+    label: "service entry"
+  P31:
+    label: "instance of"
+  P1448:
+    label: "official name"
+
