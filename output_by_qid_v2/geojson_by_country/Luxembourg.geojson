@@ -216,27 +216,10 @@
       },
       "properties": {
         "label": "Grund Lock",
-        "type": "Hydraulic structure",
+        "type": "Weir",
         "entity": "http://www.wikidata.org/entity/Q16763637",
         "country_qid": "Q32",
         "Wikidata Qid": "Q16763637"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.205883,
-          49.941242
-        ]
-      },
-      "properties": {
-        "label": "Barrage de Vianden",
-        "type": "Hydraulic structure",
-        "entity": "http://www.wikidata.org/entity/Q2685627",
-        "country_qid": "Q32",
-        "Wikidata Qid": "Q2685627"
       }
     },
     {
