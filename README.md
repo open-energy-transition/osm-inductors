@@ -1,4 +1,4 @@
-# OSM-WIKIDATA Toolset
+# osm-wikidata-toolset
 This repository contains a set of tools to extract, transform and analyze wikidata electricity infrastructure information and asses its potential integration to Open Street Map.
 
 Currently, the repository contains the following python scripts and folders :
