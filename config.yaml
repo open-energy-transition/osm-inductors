@@ -201,8 +201,8 @@ infrastructure_types:
     label: "Reservoir"
   Q911379:
     label: "Spillway"
-  Q2466889:
-    label: "Hydraulic structure"
+  # Q2466889:
+  #   label: "Hydraulic structure" #lots of false positives in OSM for mapping
   Q1066997:
     label: "Weir"
   Q1662011:
