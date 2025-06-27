@@ -60,9 +60,9 @@ This script fetches and organizes infrastructure-related entities from Wikidata 
 
 ### Output Structure
 
-All output files are organized by QID in the `output_by_qid/` folder:
+All output files are organized by QID in either `output_by_qid/` or `output_by_qid_V2/`  folder:
 
-![image](https://github.com/user-attachments/assets/8bf000ea-e435-4659-9079-e198e5b935f2)
+![image](https://github.com/user-attachments/assets/226b3abb-ade7-49d4-a90a-4320a09060f7)
 
 ## Wikidata Power Substation Extraction
 
