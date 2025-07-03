@@ -193,6 +193,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          29.966666666,
+          46.6
+        ]
+      },
+      "properties": {
+        "label": "Cuciurgan Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2651567",
+        "country_qid": "Q217",
+        "Wikidata Qid": "Q2651567"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           28.713888888,
           47.1
         ]
@@ -220,6 +237,23 @@
         "entity": "http://www.wikidata.org/entity/Q30247654",
         "country_qid": "Q217",
         "Wikidata Qid": "Q30247654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.23333333,
+          47.85833333
+        ]
+      },
+      "properties": {
+        "label": "Q3272045",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3272045",
+        "country_qid": "Q217",
+        "Wikidata Qid": "Q3272045"
       }
     },
     {
