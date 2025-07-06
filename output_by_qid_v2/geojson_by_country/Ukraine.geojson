@@ -1621,6 +1621,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.095722222,
+          44.948611111
+        ]
+      },
+      "properties": {
+        "label": "Transformer substation and electricity pylons",
+        "type": "Electrical substation",
+        "entity": "http://www.wikidata.org/entity/Q25443355",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q25443355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           30.7367513,
           46.4714804
         ]
@@ -3134,6 +3151,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          30.499444444,
+          50.906388888
+        ]
+      },
+      "properties": {
+        "label": "Kyiv Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1425651",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q1425651"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           30.338888888,
           46.499722222
         ]
@@ -3161,6 +3195,23 @@
         "entity": "http://www.wikidata.org/entity/Q34909571",
         "country_qid": "Q212",
         "Wikidata Qid": "Q34909571"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.966666666,
+          46.6
+        ]
+      },
+      "properties": {
+        "label": "Cuciurgan Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2651567",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q2651567"
       }
     },
     {
@@ -3406,6 +3457,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          30.2363369,
+          48.763431
+        ]
+      },
+      "properties": {
+        "label": "Q122728269",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q122728269",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q122728269"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           25.580833333,
           49.564444444
         ]
@@ -3433,6 +3501,23 @@
         "entity": "http://www.wikidata.org/entity/Q4395638",
         "country_qid": "Q212",
         "Wikidata Qid": "Q4395638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2429228,
+          48.766
+        ]
+      },
+      "properties": {
+        "label": "Q122728279",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q122728279",
+        "country_qid": "Q212",
+        "Wikidata Qid": "Q122728279"
       }
     },
     {
@@ -5531,23 +5616,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.5206,
-          44.6116
-        ]
-      },
-      "properties": {
-        "label": "Chernomorets design studio",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q86685442",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q86685442"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           33.510555555,
           47.986388888
         ]
@@ -6306,23 +6374,6 @@
         "entity": "http://www.wikidata.org/entity/Q4220239",
         "country_qid": "Q212",
         "Wikidata Qid": "Q4220239"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.266,
-          44.974
-        ]
-      },
-      "properties": {
-        "label": "Koktebel winery",
-        "type": "Industrial building",
-        "entity": "http://www.wikidata.org/entity/Q4183131",
-        "country_qid": "Q212",
-        "Wikidata Qid": "Q4183131"
       }
     },
     {
