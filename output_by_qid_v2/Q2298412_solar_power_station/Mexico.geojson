@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7,
+          29.91666667
+        ]
+      },
+      "properties": {
+        "label": "SEGH-CFE 1",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q7389668",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.045,
+          25.5859
+        ]
+      },
+      "properties": {
+        "label": "Villanueva Solar Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q123503776",
+        "country_qid": "Q96"
+      }
+    }
+  ]
+}

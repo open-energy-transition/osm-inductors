@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.225,
+          22.495
+        ]
+      },
+      "properties": {
+        "label": "Kaptai Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q1734089",
+        "country_qid": "Q902"
+      }
+    }
+  ]
+}

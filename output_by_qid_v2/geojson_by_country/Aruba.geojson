@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.889888888,
+          12.432333333
+        ]
+      },
+      "properties": {
+        "label": "Sunrise Solar Park",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q124096683",
+        "country_qid": "Q21203",
+        "Wikidata Qid": "Q124096683"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.046819,
+          12.563573
+        ]
+      },
+      "properties": {
+        "label": "De Oude Molen",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q19277907",
+        "country_qid": "Q21203",
+        "Wikidata Qid": "Q19277907"
+      }
+    }
+  ]
+}

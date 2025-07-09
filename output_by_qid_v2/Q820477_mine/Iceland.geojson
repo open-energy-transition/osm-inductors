@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.428629,
+          64.391888
+        ]
+      },
+      "properties": {
+        "label": "Quarry near Þyrill",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q134374022",
+        "country_qid": "Q189"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.35083333,
+          26.90083333
+        ]
+      },
+      "properties": {
+        "label": "Al-Fadhili back to back HVDC converter station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q1485743",
+        "country_qid": "Q851"
+      }
+    }
+  ]
+}

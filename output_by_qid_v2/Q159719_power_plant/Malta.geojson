@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.498333333,
+          35.881944444
+        ]
+      },
+      "properties": {
+        "label": "Marsa Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q1786154",
+        "country_qid": "Q233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.55592,
+          35.83281
+        ]
+      },
+      "properties": {
+        "label": "Delimara Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q1786082",
+        "country_qid": "Q233"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.492878,
+          7.066947
+        ]
+      },
+      "properties": {
+        "label": "Hawassa Industrial Park",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q114434343",
+        "country_qid": "Q115"
+      }
+    }
+  ]
+}

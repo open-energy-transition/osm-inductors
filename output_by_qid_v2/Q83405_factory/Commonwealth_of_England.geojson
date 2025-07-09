@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.89931,
+          52.4979
+        ]
+      },
+      "properties": {
+        "label": "Aston Furnace",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q110656871",
+        "country_qid": "Q330362"
+      }
+    }
+  ]
+}

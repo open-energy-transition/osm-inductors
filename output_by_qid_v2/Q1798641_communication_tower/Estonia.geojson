@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.67805556,
+          58.0975
+        ]
+      },
+      "properties": {
+        "label": "Valgjärve TV Mast",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q571961",
+        "country_qid": "Q191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8875,
+          59.471111
+        ]
+      },
+      "properties": {
+        "label": "Tallinn TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1365010",
+        "country_qid": "Q191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.575555555,
+          58.3775
+        ]
+      },
+      "properties": {
+        "label": "Pärnu TV mast",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q16411204",
+        "country_qid": "Q191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.19805556,
+          59.34583333
+        ]
+      },
+      "properties": {
+        "label": "Kohtla-Nõmme TV mast",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q2270372",
+        "country_qid": "Q191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.056389,
+          58.974722
+        ]
+      },
+      "properties": {
+        "label": "Koeru TV Mast",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q622646",
+        "country_qid": "Q191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.70194444,
+          58.36194444
+        ]
+      },
+      "properties": {
+        "label": "Tartu TV Mast",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q12376496",
+        "country_qid": "Q191"
+      }
+    }
+  ]
+}

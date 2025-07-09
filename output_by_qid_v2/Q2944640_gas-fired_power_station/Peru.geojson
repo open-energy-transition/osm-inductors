@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4927629,
+          -9.0287806
+        ]
+      },
+      "properties": {
+        "label": "Aguaytía Thermal Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q12005595",
+        "country_qid": "Q419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0112044,
+          -12.0398452
+        ]
+      },
+      "properties": {
+        "label": "Santa Rosa thermal power station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q124425922",
+        "country_qid": "Q419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7287409,
+          -12.5029849
+        ]
+      },
+      "properties": {
+        "label": "Chilca Thermal Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11963543",
+        "country_qid": "Q419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.11819,
+          -11.9360616
+        ]
+      },
+      "properties": {
+        "label": "Ventanilla Thermal Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q12009289",
+        "country_qid": "Q419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9771165,
+          -17.0392298
+        ]
+      },
+      "properties": {
+        "label": "Puerto Bravo thermal power station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q124425916",
+        "country_qid": "Q419"
+      }
+    }
+  ]
+}

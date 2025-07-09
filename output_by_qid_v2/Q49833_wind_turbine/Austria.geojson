@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0223,
+          47.83
+        ]
+      },
+      "properties": {
+        "label": "Windpark Andau/Halbturn",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q2583823",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2036,
+          47.6086
+        ]
+      },
+      "properties": {
+        "label": "Q1796385",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q1796385",
+        "country_qid": "Q40"
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6125,
+          14.770277777
+        ]
+      },
+      "properties": {
+        "label": "Mai Meralkat",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23942451",
+        "country_qid": "Q986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.263611111,
+          14.730833333
+        ]
+      },
+      "properties": {
+        "label": "Dirte",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23942572",
+        "country_qid": "Q986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.365277777,
+          14.812222222
+        ]
+      },
+      "properties": {
+        "label": "Mai Artez",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23942520",
+        "country_qid": "Q986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.694166666,
+          14.566666666
+        ]
+      },
+      "properties": {
+        "label": "Mai Tseb",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23942479",
+        "country_qid": "Q986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.315833333,
+          14.873888888
+        ]
+      },
+      "properties": {
+        "label": "Mai Gumo",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23942533",
+        "country_qid": "Q986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.396111111,
+          14.84
+        ]
+      },
+      "properties": {
+        "label": "Mai Sur",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23942516",
+        "country_qid": "Q986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.640277777,
+          14.531666666
+        ]
+      },
+      "properties": {
+        "label": "Mai Shema",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23942480",
+        "country_qid": "Q986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.685,
+          14.789166666
+        ]
+      },
+      "properties": {
+        "label": "Daddo Lae",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23945343",
+        "country_qid": "Q986"
+      }
+    }
+  ]
+}

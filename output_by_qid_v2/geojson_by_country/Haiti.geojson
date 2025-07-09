@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0,
+          18.908333
+        ]
+      },
+      "properties": {
+        "label": "Lake Péligre",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3038517",
+        "country_qid": "Q790",
+        "Wikidata Qid": "Q3038517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.176395,
+          19.713643
+        ]
+      },
+      "properties": {
+        "label": "Distillerie Larue",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q24050947",
+        "country_qid": "Q790",
+        "Wikidata Qid": "Q24050947"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.166666666,
+          18.4
+        ]
+      },
+      "properties": {
+        "label": "Q26225020",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q26225020",
+        "country_qid": "Q790",
+        "Wikidata Qid": "Q26225020"
+      }
+    }
+  ]
+}

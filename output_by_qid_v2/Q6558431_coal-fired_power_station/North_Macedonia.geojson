@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.001666666,
+          41.581944444
+        ]
+      },
+      "properties": {
+        "label": "TPP Oslomej",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q104849389",
+        "country_qid": "Q221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.482777777,
+          41.056944444
+        ]
+      },
+      "properties": {
+        "label": "Bitola power plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q109894770",
+        "country_qid": "Q221"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.704189823,
+          13.804068961
+        ]
+      },
+      "properties": {
+        "label": "Bangchan Industrial Estate",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q133539790",
+        "country_qid": "Q869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.790048408,
+          13.758205622
+        ]
+      },
+      "properties": {
+        "label": "Lat Krabung Industrial Estate",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q133539696",
+        "country_qid": "Q869"
+      }
+    }
+  ]
+}

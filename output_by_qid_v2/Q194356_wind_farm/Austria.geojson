@@ -1,0 +1,645 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6729,
+          48.25248
+        ]
+      },
+      "properties": {
+        "label": "wind farm Glinzendorf III",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115568562",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0067,
+          48.0547
+        ]
+      },
+      "properties": {
+        "label": "wind farm Pama",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115468542",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.952,
+          47.9226
+        ]
+      },
+      "properties": {
+        "label": "wind farm Pannonia Gols",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115468528",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0521,
+          48.0727
+        ]
+      },
+      "properties": {
+        "label": "wind farm Kittsee",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115468539",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9057,
+          48.0276
+        ]
+      },
+      "properties": {
+        "label": "wind farm Neudorf",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115468535",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6746,
+          48.2435
+        ]
+      },
+      "properties": {
+        "label": "wind farm Marchfeld Mitte",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115568560",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.026,
+          48.0911
+        ]
+      },
+      "properties": {
+        "label": "wind farm Berg",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115468541",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.620677196,
+          47.579975483
+        ]
+      },
+      "properties": {
+        "label": "windpark Deutschkreutz",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q112337910",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9617,
+          47.9005
+        ]
+      },
+      "properties": {
+        "label": "wind farm Mönchhof",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115468531",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.578955555,
+          47.487747222
+        ]
+      },
+      "properties": {
+        "label": "Hochpürschtling wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q58205924",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7649,
+          47.5591
+        ]
+      },
+      "properties": {
+        "label": "Pretul wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q58214341",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.678083772,
+          47.557786651
+        ]
+      },
+      "properties": {
+        "label": "windpark Nikitsch",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q112337912",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3625263,
+          47.932617
+        ]
+      },
+      "properties": {
+        "label": "wind farm Pottendorf",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q106620887",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3616,
+          47.9546
+        ]
+      },
+      "properties": {
+        "label": "wind farm Oberwaltersdorf",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115468525",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.055555555,
+          46.909166666
+        ]
+      },
+      "properties": {
+        "label": "Freiländeralm Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q61740531",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9746,
+          47.9428
+        ]
+      },
+      "properties": {
+        "label": "wind farm Zurndorf II",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115468533",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6565,
+          48.2603
+        ]
+      },
+      "properties": {
+        "label": "wind farm Markgrafneusiedl III",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115568559",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6673,
+          48.2544
+        ]
+      },
+      "properties": {
+        "label": "wind farm Glinzendorf I+II",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115568561",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9845,
+          47.9694
+        ]
+      },
+      "properties": {
+        "label": "wind farm Zurndorf",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115468534",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.231309,
+          48.579041
+        ]
+      },
+      "properties": {
+        "label": "Windpark Sternwald",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q104726269",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6788,
+          48.1892
+        ]
+      },
+      "properties": {
+        "label": "wind farm Andlersdorf/Orth",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115568563",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9897,
+          47.8965
+        ]
+      },
+      "properties": {
+        "label": "wind farm Edmundshof",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115468526",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8991,
+          47.9546
+        ]
+      },
+      "properties": {
+        "label": "wind farm Neusiedl-Weiden",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115468537",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7018821,
+          48.5512484
+        ]
+      },
+      "properties": {
+        "label": "Q131299219",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q131299219",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3544,
+          47.9458
+        ]
+      },
+      "properties": {
+        "label": "wind farm Tattendorf",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115468524",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.71079,
+          48.45071
+        ]
+      },
+      "properties": {
+        "label": "Q105074303",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q105074303",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9528,
+          47.9353
+        ]
+      },
+      "properties": {
+        "label": "wind farm Gols IV-V",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115468538",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7326,
+          48.0328
+        ]
+      },
+      "properties": {
+        "label": "Windpark Bruck an der Leitha",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q2583840",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0191,
+          47.909
+        ]
+      },
+      "properties": {
+        "label": "wind farm Mönchhof-Halbturn-Nickelsdorf",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115468527",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6896,
+          48.2773
+        ]
+      },
+      "properties": {
+        "label": "wind farm Obersiebenbrunn II",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115568556",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6976,
+          48.286
+        ]
+      },
+      "properties": {
+        "label": "wind farm Obersiebenbrunn I",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115568555",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9368,
+          47.9268
+        ]
+      },
+      "properties": {
+        "label": "wind farm Gols",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115468529",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6578,
+          48.2684
+        ]
+      },
+      "properties": {
+        "label": "wind farm Markgrafneusiedl I+II",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115568557",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.621892,
+          48.61019
+        ]
+      },
+      "properties": {
+        "label": "Q105079977",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q105079977",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.52063,
+          48.26243
+        ]
+      },
+      "properties": {
+        "label": "wind farm Breitenlee",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115568581",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.32459,
+          48.10961
+        ]
+      },
+      "properties": {
+        "label": "wind farm Vösendorf",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115568967",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3878,
+          47.2728
+        ]
+      },
+      "properties": {
+        "label": "Tauern wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q2396856",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4293,
+          48.1244
+        ]
+      },
+      "properties": {
+        "label": "wind farm Unterlaa",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115568966",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0657,
+          47.9138
+        ]
+      },
+      "properties": {
+        "label": "wind farm Nickelsdorf 1",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q115468532",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3867623,
+          47.9982166
+        ]
+      },
+      "properties": {
+        "label": "wind farm Trumau",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q111843404",
+        "country_qid": "Q40"
+      }
+    }
+  ]
+}

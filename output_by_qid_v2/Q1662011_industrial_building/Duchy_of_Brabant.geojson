@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.354166944,
+          50.849583055
+        ]
+      },
+      "properties": {
+        "label": "Hôtel Ostrevent",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q120837071",
+        "country_qid": "Q159856"
+      }
+    }
+  ]
+}

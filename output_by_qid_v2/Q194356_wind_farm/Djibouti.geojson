@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.496388888,
+          11.53
+        ]
+      },
+      "properties": {
+        "label": "Ghoubet Wind Power Station",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q108809582",
+        "country_qid": "Q977"
+      }
+    }
+  ]
+}

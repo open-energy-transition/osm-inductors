@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.480833333,
+          6.231944444
+        ]
+      },
+      "properties": {
+        "label": "Adelphi Water Tank",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q25248689",
+        "country_qid": "Q734"
+      }
+    }
+  ]
+}

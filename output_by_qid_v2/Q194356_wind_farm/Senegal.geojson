@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.881111111,
+          15.049444444
+        ]
+      },
+      "properties": {
+        "label": "Taiba N'Diaye Wind Power Station",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q96407595",
+        "country_qid": "Q1041"
+      }
+    }
+  ]
+}

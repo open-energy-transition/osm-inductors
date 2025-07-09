@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.312527777,
+          24.128722222
+        ]
+      },
+      "properties": {
+        "label": "Gujarat Hybrid Renewable Energy Park",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q104434232",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.872222222,
+          26.944444444
+        ]
+      },
+      "properties": {
+        "label": "Jaisalmer Wind Park",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q6124268",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.59,
+          8.25
+        ]
+      },
+      "properties": {
+        "label": "Muppandal Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q55624152",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8331,
+          17.4561
+        ]
+      },
+      "properties": {
+        "label": "Vankusawade Wind Park",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q7915069",
+        "country_qid": "Q668"
+      }
+    }
+  ]
+}

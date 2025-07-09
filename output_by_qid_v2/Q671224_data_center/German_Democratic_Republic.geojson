@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.053455,
+          52.395901
+        ]
+      },
+      "properties": {
+        "label": "Rechenzentrum Potsdam",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q104649226",
+        "country_qid": "Q16957"
+      }
+    }
+  ]
+}

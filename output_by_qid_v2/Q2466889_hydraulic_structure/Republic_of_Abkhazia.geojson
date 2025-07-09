@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.426666666,
+          42.7425
+        ]
+      },
+      "properties": {
+        "label": "Russian Military Naval Base",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q4340647",
+        "country_qid": "Q31354462"
+      }
+    }
+  ]
+}

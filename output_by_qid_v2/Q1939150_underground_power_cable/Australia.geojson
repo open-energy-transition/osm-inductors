@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.841,
+          -37.733
+        ]
+      },
+      "properties": {
+        "label": "Heywood interconnector",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q65532259",
+        "country_qid": "Q408"
+      }
+    }
+  ]
+}

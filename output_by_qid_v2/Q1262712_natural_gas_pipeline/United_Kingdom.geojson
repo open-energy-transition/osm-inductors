@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.072222222,
+          51.717222222
+        ]
+      },
+      "properties": {
+        "label": "South Wales Gas Pipeline",
+        "type": "Natural gas pipeline",
+        "entity": "http://www.wikidata.org/entity/Q7568769",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

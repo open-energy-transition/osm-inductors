@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.91489,
+          43.2797
+        ]
+      },
+      "properties": {
+        "label": "Épanchoir des Patiasses",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q16891048",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.144174,
+          47.855097
+        ]
+      },
+      "properties": {
+        "label": "Spillway of Jargeau",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q23647197",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.66618611,
+          43.25111111
+        ]
+      },
+      "properties": {
+        "label": "Argent-Double Aqueduct",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q3396387",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.66719,
+          43.2503
+        ]
+      },
+      "properties": {
+        "label": "Épanchoir d'Argentdouble",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q8078339",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3201,
+          43.2274
+        ]
+      },
+      "properties": {
+        "label": "Épanchoir de Foucaud",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q8078340",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.95463,
+          43.42983
+        ]
+      },
+      "properties": {
+        "label": "Épanchoir du Laudot",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q22976682",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9559,
+          43.2477
+        ]
+      },
+      "properties": {
+        "label": "Q22976276",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q22976276",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38409,
+          43.2433
+        ]
+      },
+      "properties": {
+        "label": "Épanchoir de Charques",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q16891047",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.015412,
+          43.329392
+        ]
+      },
+      "properties": {
+        "label": "Q22996614",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q22996614",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.943305,
+          45.495284
+        ]
+      },
+      "properties": {
+        "label": "Q131225717",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q131225717",
+        "country_qid": "Q142"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.26464,
+          -25.42996
+        ]
+      },
+      "properties": {
+        "label": "Q125522170",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q125522170",
+        "country_qid": "Q733"
+      }
+    }
+  ]
+}

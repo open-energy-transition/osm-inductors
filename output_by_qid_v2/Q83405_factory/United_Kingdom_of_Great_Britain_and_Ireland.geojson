@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.89931,
+          52.4979
+        ]
+      },
+      "properties": {
+        "label": "Aston Furnace",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q110656871",
+        "country_qid": "Q174193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.186236,
+          55.970903
+        ]
+      },
+      "properties": {
+        "label": "Bonnington Chemical Works",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q101004222",
+        "country_qid": "Q174193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.079689,
+          57.145967
+        ]
+      },
+      "properties": {
+        "label": "Footdee Iron Works",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q105761078",
+        "country_qid": "Q174193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.370607,
+          53.210732
+        ]
+      },
+      "properties": {
+        "label": "Lleweni bleach works",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q29560275",
+        "country_qid": "Q174193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.10419,
+          51.853344
+        ]
+      },
+      "properties": {
+        "label": "Llangenny Mill",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q28859133",
+        "country_qid": "Q174193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.798269444,
+          56.022838888
+        ]
+      },
+      "properties": {
+        "label": "Carron Company",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q2940338",
+        "country_qid": "Q174193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.11438,
+          52.543528
+        ]
+      },
+      "properties": {
+        "label": "Sarah Hughes Brewery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q41535562",
+        "country_qid": "Q174193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.126169444,
+          55.635488888
+        ]
+      },
+      "properties": {
+        "label": "Lagavulin Distillery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q280",
+        "country_qid": "Q174193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.08713,
+          51.93064
+        ]
+      },
+      "properties": {
+        "label": "Pelham Brewery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q117808804",
+        "country_qid": "Q174193"
+      }
+    }
+  ]
+}

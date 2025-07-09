@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.955942,
+          49.500834
+        ]
+      },
+      "properties": {
+        "label": "Adolf-Emil-Hütte",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q360553",
+        "country_qid": "Q32"
+      }
+    }
+  ]
+}

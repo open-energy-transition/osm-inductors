@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8561,
+          50.8919
+        ]
+      },
+      "properties": {
+        "label": "Parallelweg-Noord",
+        "type": "Frontage road (service road)",
+        "entity": "http://www.wikidata.org/entity/Q19405960",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8214,
+          50.9715
+        ]
+      },
+      "properties": {
+        "label": "Parallelweg",
+        "type": "Frontage road (service road)",
+        "entity": "http://www.wikidata.org/entity/Q19405769",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8614,
+          51.0056
+        ]
+      },
+      "properties": {
+        "label": "Parallelweg",
+        "type": "Frontage road (service road)",
+        "entity": "http://www.wikidata.org/entity/Q19405887",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9214,
+          50.9414
+        ]
+      },
+      "properties": {
+        "label": "Parallelstraat",
+        "type": "Frontage road (service road)",
+        "entity": "http://www.wikidata.org/entity/Q19405683",
+        "country_qid": "Q55"
+      }
+    }
+  ]
+}

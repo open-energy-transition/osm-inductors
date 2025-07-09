@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.21666667,
+          47.81666667
+        ]
+      },
+      "properties": {
+        "label": "South Ukraine Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q186223",
+        "country_qid": "Q212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.79,
+          49.08944444
+        ]
+      },
+      "properties": {
+        "label": "Chyhyryn Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q4515680",
+        "country_qid": "Q212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.591666666,
+          47.508333333
+        ]
+      },
+      "properties": {
+        "label": "Zaporizhzhia Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q909477",
+        "country_qid": "Q212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.89166667,
+          51.32777778
+        ]
+      },
+      "properties": {
+        "label": "Rivne Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q301915",
+        "country_qid": "Q212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.099147,
+          51.389553
+        ]
+      },
+      "properties": {
+        "label": "Chernobyl Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q215419",
+        "country_qid": "Q212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.645,
+          50.305
+        ]
+      },
+      "properties": {
+        "label": "Khmelnytskyi Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1037144",
+        "country_qid": "Q212"
+      }
+    }
+  ]
+}

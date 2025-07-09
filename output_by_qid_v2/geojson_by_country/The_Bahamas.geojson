@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.348385083,
+          25.074661148
+        ]
+      },
+      "properties": {
+        "label": "John Watling's Distillery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q126409376",
+        "country_qid": "Q778",
+        "Wikidata Qid": "Q126409376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.47833,
+          25.06417
+        ]
+      },
+      "properties": {
+        "label": "Compass Point Studios",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q600140",
+        "country_qid": "Q778",
+        "Wikidata Qid": "Q600140"
+      }
+    }
+  ]
+}

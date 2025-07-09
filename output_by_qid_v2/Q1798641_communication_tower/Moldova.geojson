@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.565,
+          47.12138889
+        ]
+      },
+      "properties": {
+        "label": "Strășeni TV Mast",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q378593",
+        "country_qid": "Q217"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.16023,
+          12.64467
+        ]
+      },
+      "properties": {
+        "label": "BLCP Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11959919",
+        "country_qid": "Q869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.7513716,
+          18.2953706
+        ]
+      },
+      "properties": {
+        "label": "Mae Moh Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11987728",
+        "country_qid": "Q869"
+      }
+    }
+  ]
+}

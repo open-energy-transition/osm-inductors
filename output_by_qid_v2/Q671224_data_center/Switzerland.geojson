@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.25417,
+          46.4856
+        ]
+      },
+      "properties": {
+        "label": "Swiss Fort Knox",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q520438",
+        "country_qid": "Q39"
+      }
+    }
+  ]
+}

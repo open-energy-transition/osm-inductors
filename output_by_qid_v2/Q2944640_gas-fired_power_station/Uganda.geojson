@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.93,
+          1.5
+        ]
+      },
+      "properties": {
+        "label": "Nzizi Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7071349",
+        "country_qid": "Q1036"
+      }
+    }
+  ]
+}

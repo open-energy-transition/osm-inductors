@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.043527777,
+          -9.322472222
+        ]
+      },
+      "properties": {
+        "label": "Port Moresby Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q106362947",
+        "country_qid": "Q691",
+        "Wikidata Qid": "Q106362947"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.667611111,
+          -7.112777777
+        ]
+      },
+      "properties": {
+        "label": "Baime Hydro Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q123291594",
+        "country_qid": "Q691",
+        "Wikidata Qid": "Q123291594"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.303861111,
+          -5.340527777
+        ]
+      },
+      "properties": {
+        "label": "Q61448283",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q61448283",
+        "country_qid": "Q691",
+        "Wikidata Qid": "Q61448283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.478055555,
+          -9.502777777
+        ]
+      },
+      "properties": {
+        "label": "Sirinumu Dam",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34924082",
+        "country_qid": "Q691",
+        "Wikidata Qid": "Q34924082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.406666666,
+          -2.043333333
+        ]
+      },
+      "properties": {
+        "label": "USS ABSD-4",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q60772516",
+        "country_qid": "Q691",
+        "Wikidata Qid": "Q60772516"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.42483889,
+          -6.96788611
+        ]
+      },
+      "properties": {
+        "label": "Wafi-Golpu mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q2538998",
+        "country_qid": "Q691",
+        "Wikidata Qid": "Q2538998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.641388888,
+          -3.131944444
+        ]
+      },
+      "properties": {
+        "label": "Lihir mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16979086",
+        "country_qid": "Q691",
+        "Wikidata Qid": "Q16979086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.18366111,
+          -5.24053611
+        ]
+      },
+      "properties": {
+        "label": "Ok Tedi Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q7081683",
+        "country_qid": "Q691",
+        "Wikidata Qid": "Q7081683"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.646666666,
+          -7.2
+        ]
+      },
+      "properties": {
+        "label": "Bulolo",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q612403",
+        "country_qid": "Q691",
+        "Wikidata Qid": "Q612403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.42483889,
+          -6.96788611
+        ]
+      },
+      "properties": {
+        "label": "Hidden Valley mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q1617309",
+        "country_qid": "Q691",
+        "Wikidata Qid": "Q1617309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.722,
+          -4.70873889
+        ]
+      },
+      "properties": {
+        "label": "Frieda River Project",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q5503642",
+        "country_qid": "Q691",
+        "Wikidata Qid": "Q5503642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.495,
+          -6.315
+        ]
+      },
+      "properties": {
+        "label": "Panguna mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q17060798",
+        "country_qid": "Q691",
+        "Wikidata Qid": "Q17060798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1048,
+          -5.4646
+        ]
+      },
+      "properties": {
+        "label": "Porgera Gold Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q2104436",
+        "country_qid": "Q691",
+        "Wikidata Qid": "Q2104436"
+      }
+    }
+  ]
+}

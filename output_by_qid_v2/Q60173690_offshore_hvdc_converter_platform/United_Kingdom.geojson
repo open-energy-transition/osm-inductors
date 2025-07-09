@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.86005,
+          54.7833
+        ]
+      },
+      "properties": {
+        "label": "Dogger Bank A Offshore Substation",
+        "type": "Offshore HVDC converter platform",
+        "entity": "http://www.wikidata.org/entity/Q131560727",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25928,
+          54.99518
+        ]
+      },
+      "properties": {
+        "label": "Sofia Offshore Converter Platform",
+        "type": "Offshore HVDC converter platform",
+        "entity": "http://www.wikidata.org/entity/Q131572461",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.65343,
+          54.98462
+        ]
+      },
+      "properties": {
+        "label": "Dogger Bank B Offshore Substation",
+        "type": "Offshore HVDC converter platform",
+        "entity": "http://www.wikidata.org/entity/Q131560777",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.71059,
+          55.02233
+        ]
+      },
+      "properties": {
+        "label": "Dogger Bank C Offshore Substation",
+        "type": "Offshore HVDC converter platform",
+        "entity": "http://www.wikidata.org/entity/Q134731299",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

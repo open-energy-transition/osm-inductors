@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.557602,
+          -8.1968785
+        ]
+      },
+      "properties": {
+        "label": "Nova Olinda Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q56346983",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.902,
+          -17.413
+        ]
+      },
+      "properties": {
+        "label": "Pirapora Solar Complex",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q61001448",
+        "country_qid": "Q155"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0,
+          51.285
+        ]
+      },
+      "properties": {
+        "label": "Total Refinery Mitteldeutschland",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q111976857",
+        "country_qid": "Q16957"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.24,
+          53.1
+        ]
+      },
+      "properties": {
+        "label": "PCK refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q14524622",
+        "country_qid": "Q16957"
+      }
+    }
+  ]
+}

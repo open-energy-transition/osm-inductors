@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.406666666,
+          -2.043333333
+        ]
+      },
+      "properties": {
+        "label": "USS ABSD-4",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q60772516",
+        "country_qid": "Q691"
+      }
+    }
+  ]
+}

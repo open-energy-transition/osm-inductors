@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16365,
+          33.60348
+        ]
+      },
+      "properties": {
+        "label": "Communication Tower Telenor Headoffice, Islamabad",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q124466621",
+        "country_qid": "Q843"
+      }
+    }
+  ]
+}

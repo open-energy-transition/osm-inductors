@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.506393,
+          39.533885
+        ]
+      },
+      "properties": {
+        "label": "Santa Ponça converter station",
+        "type": "HVDC converter station",
+        "substation": "http://www.wikidata.org/entity/Q18624991",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.158055555,
+          39.581944444
+        ]
+      },
+      "properties": {
+        "label": "Es Bessons substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q54857408",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.744444444,
+          39.600277777
+        ]
+      },
+      "properties": {
+        "label": "Son Orlandis substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q54858023",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.015277777,
+          39.978333333
+        ]
+      },
+      "properties": {
+        "label": "El Ingenio substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q54858709",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.936666666,
+          41.789444444
+        ]
+      },
+      "properties": {
+        "label": "La Mudarra substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q54866482",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.338333333,
+          39.483333333
+        ]
+      },
+      "properties": {
+        "label": "Algirós substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q55080405",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.421111111,
+          36.895
+        ]
+      },
+      "properties": {
+        "label": "Órgiva substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q62561362",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.571488686,
+          37.69266803
+        ]
+      },
+      "properties": {
+        "label": "Subestación Eléctrica",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q97628400",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.593790183,
+          37.700031345
+        ]
+      },
+      "properties": {
+        "label": "Q98060357",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q98060357",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.369175,
+          39.459061111
+        ]
+      },
+      "properties": {
+        "label": "Substation 802 of Electra Valenciana",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q108460191",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.828722,
+          40.363566286
+        ]
+      },
+      "properties": {
+        "label": "Switchyard",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113325072",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.820664644,
+          40.361694221
+        ]
+      },
+      "properties": {
+        "label": "Old switchyard",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113325092",
+        "country_qid": "Q29"
+      }
+    }
+  ]
+}

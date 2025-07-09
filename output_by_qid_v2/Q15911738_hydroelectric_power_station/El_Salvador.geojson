@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.468972,
+          14.230467
+        ]
+      },
+      "properties": {
+        "label": "Guajoyo hydroelectric power station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q15815535",
+        "country_qid": "Q792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.469166666,
+          13.999722222
+        ]
+      },
+      "properties": {
+        "label": "Planta Hidroelectrica San Luis No. 2",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q31937056",
+        "country_qid": "Q792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9020485,
+          13.9396746
+        ]
+      },
+      "properties": {
+        "label": "Cerrón Grande Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q3433688",
+        "country_qid": "Q792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.478333333,
+          13.992777777
+        ]
+      },
+      "properties": {
+        "label": "Planta Hidroelectrica San Luis No. 1",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q31937049",
+        "country_qid": "Q792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.757555555,
+          13.990916666
+        ]
+      },
+      "properties": {
+        "label": "5 de Noviembre hydroelectric power station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q15815534",
+        "country_qid": "Q792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.560111111,
+          13.623111111
+        ]
+      },
+      "properties": {
+        "label": "15 de Septiembre hydroelectric power station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q15815533",
+        "country_qid": "Q792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.355805555,
+          13.868472222
+        ]
+      },
+      "properties": {
+        "label": "3 de Febrero hydroelectric power station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q61448228",
+        "country_qid": "Q792"
+      }
+    }
+  ]
+}

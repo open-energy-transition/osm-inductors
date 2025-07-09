@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.697638888,
+          9.519388888
+        ]
+      },
+      "properties": {
+        "label": "Kaloum power plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56372824",
+        "country_qid": "Q1006"
+      }
+    }
+  ]
+}

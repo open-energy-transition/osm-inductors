@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2,
+          13.066666666
+        ]
+      },
+      "properties": {
+        "label": "Numgambakkam",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q108953426",
+        "country_qid": "Q668"
+      }
+    }
+  ]
+}

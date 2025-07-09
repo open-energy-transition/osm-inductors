@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.466402,
+          -4.632283
+        ]
+      },
+      "properties": {
+        "label": "Roche Caiman Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q127592213",
+        "country_qid": "Q1042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.756305555,
+          -4.339777777
+        ]
+      },
+      "properties": {
+        "label": "Praslin Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q124338460",
+        "country_qid": "Q1042"
+      }
+    }
+  ]
+}

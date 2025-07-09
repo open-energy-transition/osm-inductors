@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.375333333,
+          35.744611111
+        ]
+      },
+      "properties": {
+        "label": "Milad Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q622796",
+        "country_qid": "Q794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.39125,
+          36.844583333
+        ]
+      },
+      "properties": {
+        "label": "Gorgan Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q28599718",
+        "country_qid": "Q794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.771305555,
+          25.638638888
+        ]
+      },
+      "properties": {
+        "label": "Black and White Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q5875701",
+        "country_qid": "Q794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.570472222,
+          32.647777777
+        ]
+      },
+      "properties": {
+        "label": "Qorban Tower (Isfahan)",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q105978574",
+        "country_qid": "Q794"
+      }
+    }
+  ]
+}

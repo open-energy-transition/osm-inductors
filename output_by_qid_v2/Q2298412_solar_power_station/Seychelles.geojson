@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.471277777,
+          -4.626861111
+        ]
+      },
+      "properties": {
+        "label": "Ile de Romainville Solar Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q123310350",
+        "country_qid": "Q1042"
+      }
+    }
+  ]
+}

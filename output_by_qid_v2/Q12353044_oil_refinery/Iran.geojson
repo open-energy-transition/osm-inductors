@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.274805555,
+          30.345972222
+        ]
+      },
+      "properties": {
+        "label": "Abadan Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q4118481",
+        "country_qid": "Q794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.476111111,
+          34.003333333
+        ]
+      },
+      "properties": {
+        "label": "Shazand Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q97165770",
+        "country_qid": "Q794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.103055555,
+          34.351944444
+        ]
+      },
+      "properties": {
+        "label": "Kermanshah Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q5699698",
+        "country_qid": "Q794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.425833333,
+          35.54
+        ]
+      },
+      "properties": {
+        "label": "Tehran Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q5715313",
+        "country_qid": "Q794"
+      }
+    }
+  ]
+}

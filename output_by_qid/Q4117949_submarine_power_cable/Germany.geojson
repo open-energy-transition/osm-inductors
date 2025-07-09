@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.42062,
+          53.9957
+        ]
+      },
+      "properties": {
+        "label": "DolWin3",
+        "type": "submarine power cable",
+        "entity": "http://www.wikidata.org/entity/Q19599433",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.23561,
+          56.20835
+        ]
+      },
+      "properties": {
+        "label": "NORD.LINK",
+        "type": "submarine power cable",
+        "entity": "http://www.wikidata.org/entity/Q1961296",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.92315,
+          53.97851
+        ]
+      },
+      "properties": {
+        "label": "DolWin2",
+        "type": "submarine power cable",
+        "entity": "http://www.wikidata.org/entity/Q19599432",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4206,
+          53.9968
+        ]
+      },
+      "properties": {
+        "label": "DolWin1",
+        "type": "submarine power cable",
+        "entity": "http://www.wikidata.org/entity/Q5636198",
+        "country_qid": "Q183"
+      }
+    }
+  ]
+}

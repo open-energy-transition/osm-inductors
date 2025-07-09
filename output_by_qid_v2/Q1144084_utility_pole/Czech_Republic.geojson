@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7353894,
+          50.2905497
+        ]
+      },
+      "properties": {
+        "label": "Q131823723",
+        "type": "Utility pole",
+        "entity": "http://www.wikidata.org/entity/Q131823723",
+        "country_qid": "Q213"
+      }
+    }
+  ]
+}

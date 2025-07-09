@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.702633,
+          48.239161
+        ]
+      },
+      "properties": {
+        "label": "Zuckerfabrik Leopoldsdorf",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q98651759",
+        "country_qid": "Q533534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.313154,
+          48.086459
+        ]
+      },
+      "properties": {
+        "label": "Q123266337",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q123266337",
+        "country_qid": "Q533534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5875,
+          48.404611111
+        ]
+      },
+      "properties": {
+        "label": "Tabakfabrik Krems-Stein",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q104533832",
+        "country_qid": "Q533534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.938332,
+          48.146655
+        ]
+      },
+      "properties": {
+        "label": "Hainburg Austria Tabakwerke",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q70590153",
+        "country_qid": "Q533534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.754467,
+          48.022857
+        ]
+      },
+      "properties": {
+        "label": "Q97602026",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q97602026",
+        "country_qid": "Q533534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.311743,
+          46.618976
+        ]
+      },
+      "properties": {
+        "label": "Q106044900",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q106044900",
+        "country_qid": "Q533534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.229022222,
+          48.249258333
+        ]
+      },
+      "properties": {
+        "label": "Brauerei Raschhofer",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q126520355",
+        "country_qid": "Q533534"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.899972222,
+          -39.565777777
+        ]
+      },
+      "properties": {
+        "label": "Valdivia Pulp Mill",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7909434",
+        "country_qid": "Q298"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.32021,
+          -40.50826
+        ]
+      },
+      "properties": {
+        "label": "Moutoa Floodway",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q32291747",
+        "country_qid": "Q664"
+      }
+    }
+  ]
+}

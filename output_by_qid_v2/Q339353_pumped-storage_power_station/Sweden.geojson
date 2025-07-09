@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.895944444,
+          59.926944444
+        ]
+      },
+      "properties": {
+        "label": "Q10551387",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q10551387",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.687138888,
+          60.734083333
+        ]
+      },
+      "properties": {
+        "label": "Q56374714",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q56374714",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2301,
+          65.2902
+        ]
+      },
+      "properties": {
+        "label": "Q18291062",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q18291062",
+        "country_qid": "Q34"
+      }
+    }
+  ]
+}

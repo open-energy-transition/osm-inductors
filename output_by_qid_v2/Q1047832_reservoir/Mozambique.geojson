@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.09,
+          -19.111944444
+        ]
+      },
+      "properties": {
+        "label": "Albufeira de Chicamba Real",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34868697",
+        "country_qid": "Q1029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.833333333,
+          -15.666666666
+        ]
+      },
+      "properties": {
+        "label": "Cahora Bassa Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q755015",
+        "country_qid": "Q1029"
+      }
+    }
+  ]
+}

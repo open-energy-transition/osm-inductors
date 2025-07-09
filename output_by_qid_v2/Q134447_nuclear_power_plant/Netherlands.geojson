@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.686111,
+          51.899444
+        ]
+      },
+      "properties": {
+        "label": "Dodewaard nuclear power plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q575275",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.716667,
+          51.431944
+        ]
+      },
+      "properties": {
+        "label": "Borssele Nuclear Power Station",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1381790",
+        "country_qid": "Q55"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.688483222,
+          6.215192777
+        ]
+      },
+      "properties": {
+        "label": "Delta State Broadcasting Station, Asaba, Delta State",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q110826181",
+        "country_qid": "Q1033"
+      }
+    }
+  ]
+}

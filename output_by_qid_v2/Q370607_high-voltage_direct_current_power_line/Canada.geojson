@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1942,
+          46.7047
+        ]
+      },
+      "properties": {
+        "label": "Levis De-Icer",
+        "type": "high-voltage direct current power line",
+        "entity": "http://www.wikidata.org/entity/Q1758867",
+        "country_qid": "Q16"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1665,
+          55.1933
+        ]
+      },
+      "properties": {
+        "label": "Vitebsk TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q7937013",
+        "country_qid": "Q184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.571944444,
+          53.909583333
+        ]
+      },
+      "properties": {
+        "label": "Minsk TV tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q4295196",
+        "country_qid": "Q184"
+      }
+    }
+  ]
+}

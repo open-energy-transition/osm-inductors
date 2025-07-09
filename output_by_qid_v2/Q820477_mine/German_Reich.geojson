@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3133,
+          51.4289
+        ]
+      },
+      "properties": {
+        "label": "Mine Nachtigall",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q183891",
+        "country_qid": "Q1206012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.318,
+          51.4217
+        ]
+      },
+      "properties": {
+        "label": "Mine Herberholz",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q183697",
+        "country_qid": "Q1206012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3162,
+          51.4138
+        ]
+      },
+      "properties": {
+        "label": "Mine Fortuna",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q169816",
+        "country_qid": "Q1206012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.08611,
+          51.4931
+        ]
+      },
+      "properties": {
+        "label": "Dahlbusch Verwaltungs-AG",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q169747",
+        "country_qid": "Q1206012"
+      }
+    }
+  ]
+}

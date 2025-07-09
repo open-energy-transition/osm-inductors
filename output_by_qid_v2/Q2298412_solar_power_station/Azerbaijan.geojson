@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.44719,
+          39.33867
+        ]
+      },
+      "properties": {
+        "label": "Babek solar power station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q25540932",
+        "country_qid": "Q227"
+      }
+    }
+  ]
+}

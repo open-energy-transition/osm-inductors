@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6976169,
+          21.2662517
+        ]
+      },
+      "properties": {
+        "label": "Boulenouar Wind Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q104858943",
+        "country_qid": "Q1025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.974972222,
+          18.04625
+        ]
+      },
+      "properties": {
+        "label": "Arafat Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q56372898",
+        "country_qid": "Q1025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.971861111,
+          18.17775
+        ]
+      },
+      "properties": {
+        "label": "Nouakchott North Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q56372899",
+        "country_qid": "Q1025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.057222222,
+          20.895388888
+        ]
+      },
+      "properties": {
+        "label": "Nouadhibou Thermal Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q56372897",
+        "country_qid": "Q1025"
+      }
+    }
+  ]
+}

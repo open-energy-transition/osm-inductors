@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.163333,
+          35.948611
+        ]
+      },
+      "properties": {
+        "label": "Iran–Turkmenistan Friendship Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q3437475",
+        "country_qid": "Q874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.2895,
+          37.427111111
+        ]
+      },
+      "properties": {
+        "label": "Hindu Kush Hydroelectric Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q55663165",
+        "country_qid": "Q874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.4052,
+          41.2134
+        ]
+      },
+      "properties": {
+        "label": "Tuyamuyun Hydro Complex",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q19876795",
+        "country_qid": "Q874"
+      }
+    }
+  ]
+}

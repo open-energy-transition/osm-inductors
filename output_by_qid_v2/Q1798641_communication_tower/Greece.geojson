@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.860206,
+          38.150314
+        ]
+      },
+      "properties": {
+        "label": "Athens ERA-1 transmitter",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1275726",
+        "country_qid": "Q41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.954486,
+          40.626214
+        ]
+      },
+      "properties": {
+        "label": "OTE Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q383061",
+        "country_qid": "Q41"
+      }
+    }
+  ]
+}

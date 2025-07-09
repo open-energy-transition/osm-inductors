@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.45833333,
+          -23.00833333
+        ]
+      },
+      "properties": {
+        "label": "Angra Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q740586",
+        "country_qid": "Q155"
+      }
+    }
+  ]
+}

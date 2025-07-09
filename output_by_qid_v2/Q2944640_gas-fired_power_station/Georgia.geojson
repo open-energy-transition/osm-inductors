@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0605214,
+          41.4704591
+        ]
+      },
+      "properties": {
+        "label": "Tbilsresi",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q12864975",
+        "country_qid": "Q230"
+      }
+    }
+  ]
+}

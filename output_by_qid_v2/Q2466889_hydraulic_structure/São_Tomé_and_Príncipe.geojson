@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7375,
+          0.3472
+        ]
+      },
+      "properties": {
+        "label": "Port of São Tomé",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q10351964",
+        "country_qid": "Q1039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.45,
+          1.65
+        ]
+      },
+      "properties": {
+        "label": "Santo Antonio",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386595",
+        "country_qid": "Q1039"
+      }
+    }
+  ]
+}

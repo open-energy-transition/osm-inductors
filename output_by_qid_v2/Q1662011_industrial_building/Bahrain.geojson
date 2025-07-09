@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6236058,
+          26.1832971
+        ]
+      },
+      "properties": {
+        "label": "Sitra power and water station",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q104937568",
+        "country_qid": "Q398"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6620789,
+          26.222587
+        ]
+      },
+      "properties": {
+        "label": "Al Hidd power and water station",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q11957205",
+        "country_qid": "Q398"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.608267,
+          25.971199
+        ]
+      },
+      "properties": {
+        "label": "Al Dur Power and Water Station",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q97202829",
+        "country_qid": "Q398"
+      }
+    }
+  ]
+}

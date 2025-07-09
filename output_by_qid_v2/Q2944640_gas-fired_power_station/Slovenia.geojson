@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0614,
+          46.1258
+        ]
+      },
+      "properties": {
+        "label": "Trbovlje Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q12804020",
+        "country_qid": "Q215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.479722222,
+          45.997222222
+        ]
+      },
+      "properties": {
+        "label": "Brestanica Thermoelectric Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q12804023",
+        "country_qid": "Q215"
+      }
+    }
+  ]
+}

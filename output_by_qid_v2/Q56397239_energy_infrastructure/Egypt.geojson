@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.58333333,
+          29.99638889
+        ]
+      },
+      "properties": {
+        "label": "Suez Canal overhead powerline crossing",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q205193",
+        "country_qid": "Q79"
+      }
+    }
+  ]
+}

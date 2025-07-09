@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.22,
+          53.21806
+        ]
+      },
+      "properties": {
+        "label": "K13 Alpha",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q4534905",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.274833333,
+          51.998
+        ]
+      },
+      "properties": {
+        "label": "Europlatform",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q25212222",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.860347222,
+          52.374808333
+        ]
+      },
+      "properties": {
+        "label": "Air Quality Measuring Station Jan van Galenstraat",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q63153017",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.149388888,
+          53.194361111
+        ]
+      },
+      "properties": {
+        "label": "Weatherstation Nieuw Beerta",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q134252960",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.18333,
+          52.1
+        ]
+      },
+      "properties": {
+        "label": "De Bilt",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q35251493",
+        "country_qid": "Q55"
+      }
+    }
+  ]
+}

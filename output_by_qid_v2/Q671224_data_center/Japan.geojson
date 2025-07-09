@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.491381,
+          34.695447
+        ]
+      },
+      "properties": {
+        "label": "NTT Telepark Dojima",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q11236058",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.3,
+          43.17777778
+        ]
+      },
+      "properties": {
+        "label": "Q24863647",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q24863647",
+        "country_qid": "Q17"
+      }
+    }
+  ]
+}

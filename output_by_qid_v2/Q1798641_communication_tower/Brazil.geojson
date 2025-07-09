@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.665555555,
+          -23.555555555
+        ]
+      },
+      "properties": {
+        "label": "Torre TV Bandeirantes",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1569524",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.829569,
+          -15.699269
+        ]
+      },
+      "properties": {
+        "label": "Brasilia Digital TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q627859",
+        "country_qid": "Q155"
+      }
+    }
+  ]
+}

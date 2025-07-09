@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.683333333,
+          -30.583333333
+        ]
+      },
+      "properties": {
+        "label": "El Arrayán Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q30686752",
+        "country_qid": "Q298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.593361111,
+          -30.8375
+        ]
+      },
+      "properties": {
+        "label": "Talinay wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q17090157",
+        "country_qid": "Q298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.459851,
+          -28.876649
+        ]
+      },
+      "properties": {
+        "label": "Parque eólico San Juan",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q95533040",
+        "country_qid": "Q298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.930158333,
+          -42.284363888
+        ]
+      },
+      "properties": {
+        "label": "San Pedro Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q96404906",
+        "country_qid": "Q298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.04805556,
+          -29.36722222
+        ]
+      },
+      "properties": {
+        "label": "Punta Colorada wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q16616341",
+        "country_qid": "Q298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.623630588,
+          -34.041859976
+        ]
+      },
+      "properties": {
+        "label": "Q111597361",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q111597361",
+        "country_qid": "Q298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.28,
+          -25.24
+        ]
+      },
+      "properties": {
+        "label": "Taltal wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q16901108",
+        "country_qid": "Q298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.61611111,
+          -31.06611111
+        ]
+      },
+      "properties": {
+        "label": "Monte-Redondo wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q5547643",
+        "country_qid": "Q298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.594444444,
+          -31.322916666
+        ]
+      },
+      "properties": {
+        "label": "Totoral Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q7828407",
+        "country_qid": "Q298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.806017407,
+          -22.485928422
+        ]
+      },
+      "properties": {
+        "label": "Q114776399",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q114776399",
+        "country_qid": "Q298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.995625,
+          -41.884613888
+        ]
+      },
+      "properties": {
+        "label": "Chiloé Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q96374910",
+        "country_qid": "Q298"
+      }
+    }
+  ]
+}

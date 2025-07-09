@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.987222222,
+          -3.374722222
+        ]
+      },
+      "properties": {
+        "label": "Mubuga Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q112274344",
+        "country_qid": "Q967"
+      }
+    }
+  ]
+}

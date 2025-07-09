@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.472417,
+          52.505194
+        ]
+      },
+      "properties": {
+        "label": "Computer Uitwijk Centrum",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q97023425",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.907180555,
+          51.502163888
+        ]
+      },
+      "properties": {
+        "label": "Bunker Kloetinge",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q63127225",
+        "country_qid": "Q55"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.253259,
+          53.898649
+        ]
+      },
+      "properties": {
+        "label": "Świna power line crossing",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q1547482",
+        "country_qid": "Q36"
+      }
+    }
+  ]
+}

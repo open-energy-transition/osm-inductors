@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.315277777,
+          55.531944444
+        ]
+      },
+      "properties": {
+        "label": "Herslev converter station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q29810885",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.50520833,
+          55.36600278
+        ]
+      },
+      "properties": {
+        "label": "Fraugde substation and converter station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q29810871",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5671,
+          56.4785
+        ]
+      },
+      "properties": {
+        "label": "Tjele substation and converter station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q29084840",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.09,
+          57.062777777
+        ]
+      },
+      "properties": {
+        "label": "Vester Hassing substation and converter station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q63152313",
+        "country_qid": "Q35"
+      }
+    }
+  ]
+}

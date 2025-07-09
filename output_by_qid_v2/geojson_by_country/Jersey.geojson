@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1088,
+          49.1748
+        ]
+      },
+      "properties": {
+        "label": "La Collette Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q5994970",
+        "country_qid": "Q785",
+        "Wikidata Qid": "Q5994970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.16144444,
+          49.20863889
+        ]
+      },
+      "properties": {
+        "label": "Quetivel Mill",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q1958397",
+        "country_qid": "Q785",
+        "Wikidata Qid": "Q1958397"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.229722222,
+          49.234444444
+        ]
+      },
+      "properties": {
+        "label": "La Thiebaut",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27118248",
+        "country_qid": "Q785",
+        "Wikidata Qid": "Q27118248"
+      }
+    }
+  ]
+}

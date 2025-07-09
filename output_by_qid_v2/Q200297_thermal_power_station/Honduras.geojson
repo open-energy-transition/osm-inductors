@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4675,
+          16.346805555
+        ]
+      },
+      "properties": {
+        "label": "Roatán Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56374155",
+        "country_qid": "Q783"
+      }
+    }
+  ]
+}

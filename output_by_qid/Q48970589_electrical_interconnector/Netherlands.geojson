@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.716667,
+          51.44
+        ]
+      },
+      "properties": {
+        "label": "BritNed",
+        "type": "electrical interconnector",
+        "entity": "http://www.wikidata.org/entity/Q918000",
+        "country_qid": "Q55"
+      }
+    }
+  ]
+}

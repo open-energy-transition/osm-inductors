@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.234676004,
+          41.987056093
+        ]
+      },
+      "properties": {
+        "label": "Zletovo",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q67081001",
+        "country_qid": "Q103251"
+      }
+    }
+  ]
+}

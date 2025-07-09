@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.825,
+          1.2647
+        ]
+      },
+      "properties": {
+        "label": "St James Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7593503",
+        "country_qid": "Q334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6677057,
+          1.2763845
+        ]
+      },
+      "properties": {
+        "label": "Tembusu Multi-Utilities Complex",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q116735026",
+        "country_qid": "Q334"
+      }
+    }
+  ]
+}

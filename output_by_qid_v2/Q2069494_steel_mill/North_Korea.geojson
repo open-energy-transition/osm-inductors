@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.57222222,
+          38.92194444
+        ]
+      },
+      "properties": {
+        "label": "Chollima Steel Complex",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q21334982",
+        "country_qid": "Q423"
+      }
+    }
+  ]
+}

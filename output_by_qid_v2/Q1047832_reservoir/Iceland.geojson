@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.58535248,
+          65.180366137
+        ]
+      },
+      "properties": {
+        "label": "Blöndulón",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q887140",
+        "country_qid": "Q189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.867303428,
+          64.828983336
+        ]
+      },
+      "properties": {
+        "label": "Hálslón reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q174970",
+        "country_qid": "Q189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.48,
+          64.209444444
+        ]
+      },
+      "properties": {
+        "label": "Sultartangalón",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q555119",
+        "country_qid": "Q189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.411571362,
+          64.510534216
+        ]
+      },
+      "properties": {
+        "label": "Skorradalsvatn",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1416444",
+        "country_qid": "Q189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.571666666,
+          64.564444444
+        ]
+      },
+      "properties": {
+        "label": "Kvíslavatn",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1121686",
+        "country_qid": "Q189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.055277777,
+          64.152222222
+        ]
+      },
+      "properties": {
+        "label": "Sigöldulón",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1503138",
+        "country_qid": "Q189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.872927609,
+          64.282023427
+        ]
+      },
+      "properties": {
+        "label": "Þórisvatn",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q335940",
+        "country_qid": "Q189"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.817202777,
+          13.919986111
+        ]
+      },
+      "properties": {
+        "label": "Central Geotérmica Ahuachapán",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q85528607",
+        "country_qid": "Q792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.201016,
+          13.779068
+        ]
+      },
+      "properties": {
+        "label": "Q15836496",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q15836496",
+        "country_qid": "Q792"
+      }
+    }
+  ]
+}

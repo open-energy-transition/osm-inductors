@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.43004,
+          -20.25559
+        ]
+      },
+      "properties": {
+        "label": "La Ferme Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34897072",
+        "country_qid": "Q1027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.46146,
+          -20.37891
+        ]
+      },
+      "properties": {
+        "label": "Mare Longue Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34905830",
+        "country_qid": "Q1027"
+      }
+    }
+  ]
+}

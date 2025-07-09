@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9183237,
+          23.4308042
+        ]
+      },
+      "properties": {
+        "label": "Q48789797",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q48789797",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7914125,
+          16.5738455
+        ]
+      },
+      "properties": {
+        "label": "Q28503135",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q28503135",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.96644722,
+          16.55253611
+        ]
+      },
+      "properties": {
+        "label": "Q6062899",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q6062899",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.95388889,
+          16.54027778
+        ]
+      },
+      "properties": {
+        "label": "Eurus Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q3734971",
+        "country_qid": "Q96"
+      }
+    }
+  ]
+}

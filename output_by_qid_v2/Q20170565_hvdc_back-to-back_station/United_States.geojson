@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8441,
+          33.0583
+        ]
+      },
+      "properties": {
+        "label": "Welsh HVDC Converter Station",
+        "type": "HVDC back-to-back station",
+        "entity": "http://www.wikidata.org/entity/Q7981907",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.083,
+          34.4
+        ]
+      },
+      "properties": {
+        "label": "Tres Amigas SuperStation",
+        "type": "HVDC back-to-back station",
+        "entity": "http://www.wikidata.org/entity/Q7838703",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.988,
+          41.1642
+        ]
+      },
+      "properties": {
+        "label": "Virginia Smith Converter Station",
+        "type": "HVDC back-to-back station",
+        "entity": "http://www.wikidata.org/entity/Q7934519",
+        "country_qid": "Q30"
+      }
+    }
+  ]
+}

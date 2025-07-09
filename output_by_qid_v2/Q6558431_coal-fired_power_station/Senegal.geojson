@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.21762778,
+          14.68906389
+        ]
+      },
+      "properties": {
+        "label": "Sendou power station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7450246",
+        "country_qid": "Q1041"
+      }
+    }
+  ]
+}

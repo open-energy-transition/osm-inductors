@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5920475,
+          13.2775386
+        ]
+      },
+      "properties": {
+        "label": "St. Nicholas Abbey",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q17104883",
+        "country_qid": "Q244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.575,
+          13.26833333
+        ]
+      },
+      "properties": {
+        "label": "Morgan Lewis Windmill",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q3325651",
+        "country_qid": "Q244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.612,
+          13.291
+        ]
+      },
+      "properties": {
+        "label": "Mount Gay distilleries",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q65113400",
+        "country_qid": "Q244"
+      }
+    }
+  ]
+}

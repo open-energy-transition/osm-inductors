@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.546694,
+          11.4769
+        ]
+      },
+      "properties": {
+        "label": "Bagre Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q20089011",
+        "country_qid": "Q965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6998,
+          11.0821
+        ]
+      },
+      "properties": {
+        "label": "Kompienga Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q6428603",
+        "country_qid": "Q965"
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.79861111,
+          8.16
+        ]
+      },
+      "properties": {
+        "label": "Caruachi Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q668922",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.66805556,
+          8.30388889
+        ]
+      },
+      "properties": {
+        "label": "Macagua Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q1328571",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.71472222,
+          7.85341667
+        ]
+      },
+      "properties": {
+        "label": "Q65194833",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q65194833",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.51466667,
+          8.82516667
+        ]
+      },
+      "properties": {
+        "label": "Q65194776",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q65194776",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.46672222,
+          7.74725
+        ]
+      },
+      "properties": {
+        "label": "Q65194811",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q65194811",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.988611111,
+          7.769444444
+        ]
+      },
+      "properties": {
+        "label": "Guri Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q143529",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.02638889,
+          7.90694444
+        ]
+      },
+      "properties": {
+        "label": "Tocoma Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q1356919",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.03972222,
+          8.892
+        ]
+      },
+      "properties": {
+        "label": "Q65195470",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q65195470",
+        "country_qid": "Q717"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3732,
+          14.9424
+        ]
+      },
+      "properties": {
+        "label": "Singburi Mill",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q22032370",
+        "country_qid": "Q869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.61759167,
+          14.00978333
+        ]
+      },
+      "properties": {
+        "label": "Royal Thai Mint",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q4923103",
+        "country_qid": "Q869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.549008914,
+          13.754583593
+        ]
+      },
+      "properties": {
+        "label": "Makkasan Workshop",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q132174962",
+        "country_qid": "Q869"
+      }
+    }
+  ]
+}

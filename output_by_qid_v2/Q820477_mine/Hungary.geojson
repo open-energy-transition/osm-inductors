@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.32,
+          46.16
+        ]
+      },
+      "properties": {
+        "label": "Köves Hill",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q29020027",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2411,
+          46.1088
+        ]
+      },
+      "properties": {
+        "label": "Karolina-külfejtés",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q61362761",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289101873,
+          46.189815604
+        ]
+      },
+      "properties": {
+        "label": "Zobak coal mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16969069",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.137222,
+          47.485
+        ]
+      },
+      "properties": {
+        "label": "Kőbánya cellar system",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q1126598",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.062532,
+          47.739508
+        ]
+      },
+      "properties": {
+        "label": "Visonta coal mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16976140",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.215277777,
+          48.374944444
+        ]
+      },
+      "properties": {
+        "label": "Q28722995",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q28722995",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.64299,
+          47.72597
+        ]
+      },
+      "properties": {
+        "label": "Fertőrákos Quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q62091206",
+        "country_qid": "Q28"
+      }
+    }
+  ]
+}

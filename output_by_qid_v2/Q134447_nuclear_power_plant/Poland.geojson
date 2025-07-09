@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7875,
+          54.7961
+        ]
+      },
+      "properties": {
+        "label": "Choczewo Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q124313589",
+        "country_qid": "Q36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4958,
+          52.7941
+        ]
+      },
+      "properties": {
+        "label": "\"Warta\" Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q9252499",
+        "country_qid": "Q36"
+      }
+    }
+  ]
+}

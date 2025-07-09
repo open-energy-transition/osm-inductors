@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.367222222,
+          -24.074166666
+        ]
+      },
+      "properties": {
+        "label": "Campo Mourão substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q53797578",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.5425,
+          -25.466111111
+        ]
+      },
+      "properties": {
+        "label": "Foz do Iguaçu substation and converter station",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q53843430",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.5425,
+          -25.466111111
+        ]
+      },
+      "properties": {
+        "label": "Foz do Iguaçu substation and converter station",
+        "type": "HVDC converter station",
+        "substation": "http://www.wikidata.org/entity/Q53843430",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.881269736,
+          -23.192225772
+        ]
+      },
+      "properties": {
+        "label": "Estação de Energia da Empresa Luz e Força",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q100155025",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.303070783,
+          -23.951145687
+        ]
+      },
+      "properties": {
+        "label": "Historical electrical substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113325168",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6350406,
+          -23.5909502
+        ]
+      },
+      "properties": {
+        "label": "Q116943412",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q116943412",
+        "country_qid": "Q155"
+      }
+    }
+  ]
+}

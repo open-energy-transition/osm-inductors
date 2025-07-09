@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.49638889,
+          59.41555556
+        ]
+      },
+      "properties": {
+        "label": "Q19374774",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q19374774",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3997,
+          59.0608
+        ]
+      },
+      "properties": {
+        "label": "Kvitsøy Vessel Traffic Service Centre",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q19378591",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6981,
+          60.7801
+        ]
+      },
+      "properties": {
+        "label": "Fedje Vessel Traffic Service Centre",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q22570292",
+        "country_qid": "Q20"
+      }
+    }
+  ]
+}

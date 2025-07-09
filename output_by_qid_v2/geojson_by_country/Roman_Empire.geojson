@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.262892,
+          32.220859
+        ]
+      },
+      "properties": {
+        "label": "Mint of Neapolis",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430814",
+        "country_qid": "Q2277",
+        "Wikidata Qid": "Q127430814"
+      }
+    }
+  ]
+}

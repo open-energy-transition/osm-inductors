@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.226296,
+          19.598715
+        ]
+      },
+      "properties": {
+        "label": "Port Sudan Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q7230962",
+        "country_qid": "Q1049"
+      }
+    }
+  ]
+}

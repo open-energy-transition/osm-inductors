@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.43135,
+          40.911489
+        ]
+      },
+      "properties": {
+        "label": "Lori 1 Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q10858391",
+        "country_qid": "Q399"
+      }
+    }
+  ]
+}

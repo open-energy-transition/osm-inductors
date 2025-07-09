@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.563,
+          41.228722222
+        ]
+      },
+      "properties": {
+        "label": "Bogdanci wind turbines",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q20569290",
+        "country_qid": "Q221"
+      }
+    }
+  ]
+}

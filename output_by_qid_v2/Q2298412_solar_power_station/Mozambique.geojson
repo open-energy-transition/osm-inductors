@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8811435,
+          -13.1300117
+        ]
+      },
+      "properties": {
+        "label": "Metoro Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q107803538",
+        "country_qid": "Q1029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.720277777,
+          -14.4825
+        ]
+      },
+      "properties": {
+        "label": "Nacala Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q108444520",
+        "country_qid": "Q1029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.666944444,
+          -13.306111111
+        ]
+      },
+      "properties": {
+        "label": "Balama Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q111945486",
+        "country_qid": "Q1029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.232222222,
+          -13.298888888
+        ]
+      },
+      "properties": {
+        "label": "Lichinga Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q109237692",
+        "country_qid": "Q1029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.401388888,
+          -17.778055555
+        ]
+      },
+      "properties": {
+        "label": "Chimuara Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q113297956",
+        "country_qid": "Q1029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.034722222,
+          -16.822777777
+        ]
+      },
+      "properties": {
+        "label": "Mocuba Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q104880823",
+        "country_qid": "Q1029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5031266,
+          -14.7997789
+        ]
+      },
+      "properties": {
+        "label": "Cuamba Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q107203380",
+        "country_qid": "Q1029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.706388888,
+          -19.586944444
+        ]
+      },
+      "properties": {
+        "label": "Dondo Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q107088030",
+        "country_qid": "Q1029"
+      }
+    }
+  ]
+}

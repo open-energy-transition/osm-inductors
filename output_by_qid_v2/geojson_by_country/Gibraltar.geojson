@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.35594,
+          36.13493
+        ]
+      },
+      "properties": {
+        "label": "Queensway Quay Marina, Gibraltar",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q7271121",
+        "country_qid": "Q1410",
+        "Wikidata Qid": "Q7271121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.365557635,
+          36.149162652
+        ]
+      },
+      "properties": {
+        "label": "Gibraltar LNG terminal",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q104518980",
+        "country_qid": "Q1410",
+        "Wikidata Qid": "Q104518980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3548,
+          36.1478
+        ]
+      },
+      "properties": {
+        "label": "Ocean Village Marina, Gibraltar",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q7076114",
+        "country_qid": "Q1410",
+        "Wikidata Qid": "Q7076114"
+      }
+    }
+  ]
+}

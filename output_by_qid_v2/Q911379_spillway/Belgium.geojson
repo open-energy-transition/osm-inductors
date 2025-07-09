@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.30308,
+          50.81875
+        ]
+      },
+      "properties": {
+        "label": "Déversoir d'Aa - Aa Overlaat",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q108059008",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.756717,
+          51.136044
+        ]
+      },
+      "properties": {
+        "label": "Q56641004",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q56641004",
+        "country_qid": "Q31"
+      }
+    }
+  ]
+}

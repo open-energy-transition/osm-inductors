@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.781557186,
+          61.167269046
+        ]
+      },
+      "properties": {
+        "label": "Iron Lady Memorial",
+        "type": "Transmission tower (pylon)",
+        "entity": "http://www.wikidata.org/entity/Q113385086",
+        "country_qid": "Q33"
+      }
+    }
+  ]
+}

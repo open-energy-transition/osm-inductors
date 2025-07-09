@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1972114,
+          -34.8858878
+        ]
+      },
+      "properties": {
+        "label": "José Batlle y Ordóñez power plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q11979305",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.236635,
+          -34.826503
+        ]
+      },
+      "properties": {
+        "label": "La Tablada Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q11982886",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.2581592,
+          -33.1165623
+        ]
+      },
+      "properties": {
+        "label": "UPM Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q111466667",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.541722,
+          -34.751167
+        ]
+      },
+      "properties": {
+        "label": "Punta del Tigre Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q30973056",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0550891,
+          -34.2261431
+        ]
+      },
+      "properties": {
+        "label": "Montes del Plata Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q111466599",
+        "country_qid": "Q77"
+      }
+    }
+  ]
+}

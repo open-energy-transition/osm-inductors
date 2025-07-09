@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.54111111,
+          36.14444444
+        ]
+      },
+      "properties": {
+        "label": "Akkuyu Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1630042",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0,
+          42.0
+        ]
+      },
+      "properties": {
+        "label": "Sinop Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q13220866",
+        "country_qid": "Q43"
+      }
+    }
+  ]
+}

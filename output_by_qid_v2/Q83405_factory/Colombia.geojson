@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07361111,
+          4.59666667
+        ]
+      },
+      "properties": {
+        "label": "Casa de Moneda de Colombia",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q3279784",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14651,
+          4.40076
+        ]
+      },
+      "properties": {
+        "label": "Fábrica de Moneda",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q124980863",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.49722222,
+          10.315
+        ]
+      },
+      "properties": {
+        "label": "Cartagena Refinery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q3417387",
+        "country_qid": "Q739"
+      }
+    }
+  ]
+}

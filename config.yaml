@@ -1,0 +1,322 @@
+wikidata_endpoint: "https://query.wikidata.org/sparql"
+user_agent: "PowerPlantDataCollector/1.0"
+reset_cache: false  # Set to true to force-refresh all cached data
+
+infrastructure_types:
+  Q159719:
+    label: "Power plant"
+  Q134447:
+    label: "Nuclear power plant"
+  Q15911738:
+    label: "Hydroelectric power station"
+  Q194356:
+    label: "Wind farm"
+  Q2298412:
+    label: "Solar power station"
+  Q30565277:
+    label: "Geothermal power station"
+  Q200297:
+    label: "Thermal power station" 
+  Q55364050:
+    label: "Biomass-fired power station"
+  Q56397239:
+    label: "Energy infrastructure"
+  Q2944640:
+    label: "Gas-fired power station"
+  Q6558431:
+    label: "Coal-fired power station"
+  Q25509593:
+    label: "Tidal power station"
+  Q810924:
+    label: "Battery storage power station"
+  Q901551:
+    label: "Lithium iron phosphate battery"
+  Q907511:
+    label: "Flow battery"
+  Q1538992:
+    label: "Flywheel energy storage"
+  Q1260916:
+    label: "Compressed air energy storage"
+  Q339353:
+    label: "Pumped-storage power station"
+  Q837718:
+    label: "Energy storage (concept)"
+  Q1832610:
+    label: "Grid energy storage"
+  Q174814:
+    label: "Electrical substation"
+  Q11658:
+    label: "Transformer"
+  Q4419282:
+    label: "power transformer"
+  Q565668:
+    label: "autotransformer"
+  Q7834127:
+    label: "transformer type"
+  Q1489990:
+    label: "generator transformer"
+  Q198468:
+    label: "zigzag transformer"
+  Q1258026:
+    label: "delta-wye transformer"
+  Q1273786:
+    label: "Switchgear"
+  Q1030817:
+    label: "Busbar"
+  Q211058:
+    label: "Circuit breaker"
+  Q10860300:
+    label: "Disconnector (disconnect switch)"
+  Q14190856:
+    label: "Surge arrester"
+  Q856535:
+    label: "Current transformer"
+  Q1288234:
+    label: "Voltage transformer"
+  Q2144320:
+    label: "Overhead power line"
+  Q1939150:
+    label: "Underground power cable"
+  Q4117949:
+    label: "Submarine power cable"
+  Q48970589:
+    label: "Interconnector (electricity)"
+  Q914711:
+    label: "Transmission tower (pylon)"
+  Q178150:
+    label: "Electrical insulator"
+  Q7973:
+    label: "Lightning rod"
+  Q1144084:
+    label: "Utility pole"
+  Q1756067:
+    label: "Power-system protection"
+  Q503732:
+    label: "Protective relay"
+  Q17498:
+    label: "SCADA"
+  Q8290:
+    label: "Phasor Measurement Unit (PMU)"
+  Q7915736:
+    label: "variable shunt reactor"
+  Q851210:
+    label: "voltage regulator"
+  Q2333754:
+    label: "Static Synchronous Compensator (STATCOM)"
+  Q839922:
+    label: "Static VAR Compensator (SVC)"
+  Q2260944:
+    label: "Synchronous condenser"
+  Q1129933:
+    label: "Phase-shifting transformer"
+  Q2333754:
+    label: "Unified Power Flow Controller (UPFC)"
+  Q49833:
+    label: "Wind turbine"
+  Q217941:
+    label: "Solar cell panel"
+  Q129316:
+    label: "Solar inverter"
+  Q131502:
+    label: "Electrical generator"
+  Q189859:
+    label: "Steam turbine"
+  Q193470:
+    label: "Gas turbine"
+  Q963375:
+    label: "Diesel generator"
+  Q7123882:
+    label: "Pad-mounted transformer"
+  Q27876009:
+    label: "Earthing transformer"
+  Q48799168:
+    label: "Ring Main Unit (RMU)"
+  Q182221:
+    label: "Fuse cutout"
+  Q1907989:
+    label: "Distribution transformer"
+  Q618740:
+    label: "Recloser"
+  Q1936022:
+    label: "Transfer switch"
+  Q25220241:
+    label: "Oil circuit breaker"
+  Q2507647:
+    label: "Vacuum circuit breaker"
+  Q685646:
+    label: "Gas-insulated switchgear (GIS)"
+  Q370607:
+    label: "High-voltage direct current power line"
+  Q5636221:
+    label: "HVDC converter (equipment)"
+  Q2356943:
+    label: "HVDC converter station"
+  Q20170565:
+    label: "HVDC back-to-back station"
+  Q370607:
+    label: "high-voltage direct current power line"
+  Q60173690:
+    label: "Offshore HVDC converter platform"
+  Q200928:
+    label: "Electric power transmission"
+  Q29585403:
+    label: "transmission of electricity"
+  Q844861:
+    label: "Electric power distribution"
+  Q112165528:
+    label: "electricity distribution"
+  Q1096907:
+    label: "Electrical grid"
+  Q25342:
+    label: "Electric power (rate of energy transfer)"
+  Q56397239:
+    label: "Energy infrastructure"
+  Q1262712:
+    label: "Natural gas pipeline"
+  Q1805337:
+    label: "Energy policy"
+  Q1341346:
+    label: "Energy mix"
+  Q3971388:
+    label: "Energy generation station"
+  Q5762595:
+    label: "Microgrid"
+  Q12748:
+    label: "Fossil fuel"
+  Q40858:
+    label: "Natural gas"
+  Q24489:
+    label: "Coal"
+  Q180253:
+    label: "Fuel cell"
+  Q167947:
+    label: "Biodiesel"
+  Q7313121:
+    label: "Renewable fuels"
+  Q39558:
+    label: "Gasoline"
+  Q56697283:
+    label: "Hydroelectric dam"
+  Q1047832:
+    label: "Reservoir"
+  Q911379:
+    label: "Spillway"
+  # Q2466889:
+  #   label: "Hydraulic structure" #lots of false positives in OSM for mapping
+  Q1066997:
+    label: "Weir"
+  Q1662011:
+    label: "Industrial building"
+  Q83405:
+    label: "Factory"
+  Q12353044:
+    label: "Oil refinery"
+  Q2069494:
+    label: "Steel mill"
+  Q671224:
+    label: "Data center"
+  Q820477:
+    label: "Mine"
+  Q1662100:
+    label: "Industrial park"
+  Q402893:
+    label: "Sodium–sulfur battery"
+  Q898377:
+    label: "Nickel–cadmium battery"
+  Q1059714:
+    label: "Primary energy"
+  Q568469:
+    label: "Secondary energy (energy carrier)"
+  Q112046:
+    label: "transmission system operator (TSO)"
+  Q472093:
+    label: "distribution system operator (DSO)"
+  Q613992:
+    label: "Energy balance"
+  Q2140665:
+    label: "Electric vehicle charging station"
+  Q5255048:
+    label: "Demand response"
+  Q3393666:
+    label: "Peak demand"
+  Q689855:
+    label: "Smart grid"
+  Q10749567:
+    label: "Advanced Metering Infrastructure (AMI)"
+  Q3503672:
+    label: "Automatic meter reading (AMR)"
+  Q1185136:
+    label: "Energy demand management (DSM)"
+  Q5283196:
+    label: "Distribution management system"
+  Q1798641:
+    label: "Communication tower"
+  Q190107:
+    label: "Weather station"
+  Q2881503:
+    label: "Frontage road (service road)"
+  Q390516:
+    label: "Control room"
+  Q207696:
+    label: "Uninterruptible power supply (UPS)"
+status_values:
+  Q56557118:
+   label: "use status" 
+   comment: "Main category of all following status"
+  Q811683:
+    label: "proposed building or structure"
+  Q170584:
+    label: "project"
+  Q3875186:
+    label: "construction"
+  Q30108381:
+    label: "cancelled"
+  Q11639308:
+    label: "decommissioned"
+  Q12377751:
+    label: "building or structure under construction"
+  Q12913148:
+    label: "inactive"
+  Q29415466:
+    label: "active"
+  Q20734200:
+    label: "not completed"
+  Q30108381:
+    label: "cancelled"
+  Q29933838:
+    label: "service retirement"
+prime_properties:
+  P10689:
+    label: "OpenStreetMap way ID"
+  P402:
+    label: "OpenStreetMap relation ID"
+  P11693:
+    label: "OpenStreetMap node ID"
+  P2436:
+    label: "voltage"
+  P2144:
+    label: "frequency"
+  P625:
+    label: "coordinate location"
+  P17:
+    label: "country"
+  P131:
+    label: "located in the administrative territorial entity"
+    comment: "Supposed to be included in P276"
+  P276:
+    label: "location of the object"
+    comment: "Supposed to include P131"
+  P2109:
+    label: "nominal power output"
+  P137:
+    label: "operator"
+  P729:
+    label: "service entry"
+  P31:
+    label: "instance of"
+  P1448:
+    label: "official name"
+  P582:
+    label: "end time"
+    include: "P3999"
+    qid: "Q24575125"

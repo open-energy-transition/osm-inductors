@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.553594444,
+          42.515030555
+        ]
+      },
+      "properties": {
+        "label": "Escaldes Hydroelectric Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q19902246",
+        "country_qid": "Q228",
+        "Wikidata Qid": "Q19902246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5183,
+          42.578
+        ]
+      },
+      "properties": {
+        "label": "mola del Mas d'en Soler",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q64547813",
+        "country_qid": "Q228",
+        "Wikidata Qid": "Q64547813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.521039,
+          42.546181
+        ]
+      },
+      "properties": {
+        "label": "Farga Rossell",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q2912615",
+        "country_qid": "Q228",
+        "Wikidata Qid": "Q2912615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.517838888,
+          42.576871111
+        ]
+      },
+      "properties": {
+        "label": "mola i serradora de Cal Pal",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q21042956",
+        "country_qid": "Q228",
+        "Wikidata Qid": "Q21042956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.532777777,
+          42.599722222
+        ]
+      },
+      "properties": {
+        "label": "Q20103734",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q20103734",
+        "country_qid": "Q228",
+        "Wikidata Qid": "Q20103734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.563055555,
+          42.576111111
+        ]
+      },
+      "properties": {
+        "label": "Q21330018",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21330018",
+        "country_qid": "Q228",
+        "Wikidata Qid": "Q21330018"
+      }
+    }
+  ]
+}

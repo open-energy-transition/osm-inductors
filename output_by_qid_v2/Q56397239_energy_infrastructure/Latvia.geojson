@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.37,
+          56.838055555
+        ]
+      },
+      "properties": {
+        "label": "Riga Hydroelectric Power Plant Crossing Pylon",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q7333334",
+        "country_qid": "Q211"
+      }
+    }
+  ]
+}

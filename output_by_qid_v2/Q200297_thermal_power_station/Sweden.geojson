@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.890517,
+          57.692618
+        ]
+      },
+      "properties": {
+        "label": "Rya Kraftvärmeverk",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q10658170",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.174289,
+          55.695119
+        ]
+      },
+      "properties": {
+        "label": "Q134293493",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q134293493",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.201685,
+          58.59311
+        ]
+      },
+      "properties": {
+        "label": "Bråvallaverket",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q10437028",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.83277778,
+          58.55305556
+        ]
+      },
+      "properties": {
+        "label": "R4 nuclear reactor",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q4357537",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8325,
+          56.15222222
+        ]
+      },
+      "properties": {
+        "label": "Karlshamn Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q289958",
+        "country_qid": "Q34"
+      }
+    }
+  ]
+}

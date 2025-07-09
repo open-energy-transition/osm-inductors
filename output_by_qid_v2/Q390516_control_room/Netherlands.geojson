@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.31423,
+          51.88975
+        ]
+      },
+      "properties": {
+        "label": "vessel traffic service Rotterdam",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q2132241",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762453,
+          52.307514
+        ]
+      },
+      "properties": {
+        "label": "Schipholtoren",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q2052814",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.717888888,
+          52.331694444
+        ]
+      },
+      "properties": {
+        "label": "Controltower Schiphol West",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q88111312",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.098198,
+          52.084156
+        ]
+      },
+      "properties": {
+        "label": "Q2005585",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q2005585",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.750945,
+          52.224957
+        ]
+      },
+      "properties": {
+        "label": "Air Operations Control Station Nieuw Milligen",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q56311179",
+        "country_qid": "Q55"
+      }
+    }
+  ]
+}

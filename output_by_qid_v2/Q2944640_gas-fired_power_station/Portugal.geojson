@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.460406,
+          41.067704
+        ]
+      },
+      "properties": {
+        "label": "Tapada do Outeiro",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q19391970",
+        "country_qid": "Q45"
+      }
+    }
+  ]
+}

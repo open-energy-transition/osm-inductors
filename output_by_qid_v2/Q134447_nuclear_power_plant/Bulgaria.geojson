@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.77050556,
+          43.74613889
+        ]
+      },
+      "properties": {
+        "label": "Kozloduy Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1032792",
+        "country_qid": "Q219"
+      }
+    }
+  ]
+}

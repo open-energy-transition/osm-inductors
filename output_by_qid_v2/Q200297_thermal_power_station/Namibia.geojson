@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.708333333,
+          -19.223888888
+        ]
+      },
+      "properties": {
+        "label": "Tsumeb Biomass Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q126923294",
+        "country_qid": "Q1030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.427,
+          -28.551
+        ]
+      },
+      "properties": {
+        "label": "Kudu Power Project",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q6441779",
+        "country_qid": "Q1030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.078916666,
+          -22.514
+        ]
+      },
+      "properties": {
+        "label": "Van Eck Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56373999",
+        "country_qid": "Q1030"
+      }
+    }
+  ]
+}

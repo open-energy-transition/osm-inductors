@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6875,
+          -40.782222222
+        ]
+      },
+      "properties": {
+        "label": "Onekaka Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q124636218",
+        "country_qid": "Q664"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.262,
+          49.1108
+        ]
+      },
+      "properties": {
+        "label": "Tourbe Converter Station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q122970397",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1973,
+          48.4432
+        ]
+      },
+      "properties": {
+        "label": "La Martyre Converter Station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q122969276",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7806,
+          50.9202
+        ]
+      },
+      "properties": {
+        "label": "Peuplingues Converter Station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q122975893",
+        "country_qid": "Q142"
+      }
+    }
+  ]
+}

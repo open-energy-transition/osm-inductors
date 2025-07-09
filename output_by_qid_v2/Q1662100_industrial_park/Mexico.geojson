@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.388663812,
+          18.109664026
+        ]
+      },
+      "properties": {
+        "label": "Pajaritos Petrochemical Complex",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q124611460",
+        "country_qid": "Q96"
+      }
+    }
+  ]
+}

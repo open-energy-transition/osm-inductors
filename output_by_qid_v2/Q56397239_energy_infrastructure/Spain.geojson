@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.26228,
+          36.5083
+        ]
+      },
+      "properties": {
+        "label": "Pylons of Cádiz",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q478135",
+        "country_qid": "Q29"
+      }
+    }
+  ]
+}

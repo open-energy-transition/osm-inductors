@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.63527778,
+          4.12583333
+        ]
+      },
+      "properties": {
+        "label": "Gran Olo hydroelectric power plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q25230867",
+        "country_qid": "Q730",
+        "Wikidata Qid": "Q25230867"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.9922,
+          4.98224
+        ]
+      },
+      "properties": {
+        "label": "Afobaka Dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q16001998",
+        "country_qid": "Q730",
+        "Wikidata Qid": "Q16001998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.63166667,
+          4.12333333
+        ]
+      },
+      "properties": {
+        "label": "Puketi hydroelectric power plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q25064115",
+        "country_qid": "Q730",
+        "Wikidata Qid": "Q25064115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.073055555,
+          4.840555555
+        ]
+      },
+      "properties": {
+        "label": "Brokopondo Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q926100",
+        "country_qid": "Q730",
+        "Wikidata Qid": "Q926100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.143333333,
+          5.829722222
+        ]
+      },
+      "properties": {
+        "label": "Surinaamsch Rumhuis",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q71669308",
+        "country_qid": "Q730",
+        "Wikidata Qid": "Q71669308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.148888888,
+          5.763888888
+        ]
+      },
+      "properties": {
+        "label": "Tout Lui Faut-refinery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q128819405",
+        "country_qid": "Q730",
+        "Wikidata Qid": "Q128819405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.404166666,
+          5.618055555
+        ]
+      },
+      "properties": {
+        "label": "Tembe Recording Studio",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q67510145",
+        "country_qid": "Q730",
+        "Wikidata Qid": "Q67510145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.27225,
+          5.749277777
+        ]
+      },
+      "properties": {
+        "label": "Datasur",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q127164861",
+        "country_qid": "Q730",
+        "Wikidata Qid": "Q127164861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.15583333,
+          5.07694444
+        ]
+      },
+      "properties": {
+        "label": "Rosebel Gold Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q15273305",
+        "country_qid": "Q730",
+        "Wikidata Qid": "Q15273305"
+      }
+    }
+  ]
+}

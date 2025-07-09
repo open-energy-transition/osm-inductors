@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.16144444,
+          49.20863889
+        ]
+      },
+      "properties": {
+        "label": "Quetivel Mill",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q1958397",
+        "country_qid": "Q785"
+      }
+    }
+  ]
+}

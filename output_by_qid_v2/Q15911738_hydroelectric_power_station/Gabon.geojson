@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.407388888,
+          0.62325
+        ]
+      },
+      "properties": {
+        "label": "Q30899173",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q30899173",
+        "country_qid": "Q1000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.148055555,
+          0.180277777
+        ]
+      },
+      "properties": {
+        "label": "Ngoulmendjim Hydrolectric Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q109974473",
+        "country_qid": "Q1000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.286472222,
+          0.457888888
+        ]
+      },
+      "properties": {
+        "label": "Q28501310",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q28501310",
+        "country_qid": "Q1000"
+      }
+    }
+  ]
+}

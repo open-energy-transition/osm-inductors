@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5736,
+          30.4747
+        ]
+      },
+      "properties": {
+        "label": "Ras Lanuf Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q7278341",
+        "country_qid": "Q1016"
+      }
+    }
+  ]
+}

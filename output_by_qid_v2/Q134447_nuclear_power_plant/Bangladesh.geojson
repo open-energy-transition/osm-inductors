@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0461556,
+          24.0701411
+        ]
+      },
+      "properties": {
+        "label": "Rooppur Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q7380438",
+        "country_qid": "Q902"
+      }
+    }
+  ]
+}

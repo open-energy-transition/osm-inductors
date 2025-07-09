@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.195,
+          11.74666667
+        ]
+      },
+      "properties": {
+        "label": "Paraguaná Refinery Complex",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q2219131",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6204,
+          10.2219
+        ]
+      },
+      "properties": {
+        "label": "Puerto la Cruz refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q6103449",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.195,
+          11.74666667
+        ]
+      },
+      "properties": {
+        "label": "Amuay refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q5779930",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.118611111,
+          10.4825
+        ]
+      },
+      "properties": {
+        "label": "El Palito oil refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q5779953",
+        "country_qid": "Q717"
+      }
+    }
+  ]
+}

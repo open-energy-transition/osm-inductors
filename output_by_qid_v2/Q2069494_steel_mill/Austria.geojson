@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0646,
+          47.3803
+        ]
+      },
+      "properties": {
+        "label": "Donawitz steelworks",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q1241057",
+        "country_qid": "Q40"
+      }
+    }
+  ]
+}

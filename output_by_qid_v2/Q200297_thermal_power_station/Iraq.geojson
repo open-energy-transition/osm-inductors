@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.378034,
+          33.257213
+        ]
+      },
+      "properties": {
+        "label": "Doura power plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q11965973",
+        "country_qid": "Q796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.055514,
+          32.401964
+        ]
+      },
+      "properties": {
+        "label": "Al Khairat Thermal Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q123333647",
+        "country_qid": "Q796"
+      }
+    }
+  ]
+}

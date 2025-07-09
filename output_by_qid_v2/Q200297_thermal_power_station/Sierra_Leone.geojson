@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.247388888,
+          8.492888888
+        ]
+      },
+      "properties": {
+        "label": "Kingtom Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56373380",
+        "country_qid": "Q1044"
+      }
+    }
+  ]
+}

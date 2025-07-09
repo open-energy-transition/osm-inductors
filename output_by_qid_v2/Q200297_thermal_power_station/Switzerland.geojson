@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.44423,
+          46.94073
+        ]
+      },
+      "properties": {
+        "label": "Dampfzentrale",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q1158892",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649462,
+          47.587108
+        ]
+      },
+      "properties": {
+        "label": "Q132473388",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q132473388",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.965833,
+          46.253611
+        ]
+      },
+      "properties": {
+        "label": "Q97182264",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q97182264",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.06808,
+          47.42348
+        ]
+      },
+      "properties": {
+        "label": "Bazenheid incineration plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q122200320",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.56455,
+          47.41421
+        ]
+      },
+      "properties": {
+        "label": "Hagenholz waste-to-energy plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q21037202",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87861,
+          46.3469
+        ]
+      },
+      "properties": {
+        "label": "Thermal power plant of Vouvry",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q1359353",
+        "country_qid": "Q39"
+      }
+    }
+  ]
+}

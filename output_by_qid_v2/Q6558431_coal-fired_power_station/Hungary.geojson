@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0625,
+          47.79027778
+        ]
+      },
+      "properties": {
+        "label": "Mátra Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q168477",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.05574,
+          47.90531
+        ]
+      },
+      "properties": {
+        "label": "Power Plant Tiszapalkonya",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q19392588",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.684722,
+          48.234722
+        ]
+      },
+      "properties": {
+        "label": "Borsod Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q4946672",
+        "country_qid": "Q28"
+      }
+    }
+  ]
+}

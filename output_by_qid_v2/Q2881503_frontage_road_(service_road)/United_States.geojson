@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.808327907,
+          37.821805572
+        ]
+      },
+      "properties": {
+        "label": "Great Sierra Wagon Road",
+        "type": "Frontage road (service road)",
+        "entity": "http://www.wikidata.org/entity/Q5599960",
+        "country_qid": "Q30"
+      }
+    }
+  ]
+}

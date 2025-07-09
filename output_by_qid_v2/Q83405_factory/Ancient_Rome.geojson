@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.591119,
+          37.142392
+        ]
+      },
+      "properties": {
+        "label": "Ipses",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q10303507",
+        "country_qid": "Q1747689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.95,
+          40.633333
+        ]
+      },
+      "properties": {
+        "label": "Thessalonica",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q4024000",
+        "country_qid": "Q1747689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.892255,
+          40.381323
+        ]
+      },
+      "properties": {
+        "label": "Cyzicus",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q4023987",
+        "country_qid": "Q1747689"
+      }
+    }
+  ]
+}

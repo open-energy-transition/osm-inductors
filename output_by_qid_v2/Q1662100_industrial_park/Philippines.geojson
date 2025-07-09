@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1332,
+          14.1971
+        ]
+      },
+      "properties": {
+        "label": "Calamba Premiere International Park",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q5018400",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.127104,
+          14.1750265
+        ]
+      },
+      "properties": {
+        "label": "Carmelray Industrial Park 2",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q30590822",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.07111111,
+          14.19194444
+        ]
+      },
+      "properties": {
+        "label": "Carmelray Industrial Park 1",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q23048142",
+        "country_qid": "Q928"
+      }
+    }
+  ]
+}

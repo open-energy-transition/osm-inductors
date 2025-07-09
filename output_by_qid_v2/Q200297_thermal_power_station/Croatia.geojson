@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.16492,
+          45.13647
+        ]
+      },
+      "properties": {
+        "label": "Plomin Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q656885",
+        "country_qid": "Q224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9469339,
+          45.8558286
+        ]
+      },
+      "properties": {
+        "label": "Q85516428",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q85516428",
+        "country_qid": "Q224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.520555555,
+          45.286111111
+        ]
+      },
+      "properties": {
+        "label": "Rijeka power station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q2384103",
+        "country_qid": "Q224"
+      }
+    }
+  ]
+}

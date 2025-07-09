@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.75165,
+          55.592
+        ]
+      },
+      "properties": {
+        "label": "Crossbridge Energy",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q12335113",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.096944444,
+          55.655
+        ]
+      },
+      "properties": {
+        "label": "Kalundborg Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q12336918",
+        "country_qid": "Q35"
+      }
+    }
+  ]
+}

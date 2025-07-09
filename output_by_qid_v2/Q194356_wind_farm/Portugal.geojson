@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0566,
+          41.6864
+        ]
+      },
+      "properties": {
+        "label": "WindFloat Atlantic",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q122975603",
+        "country_qid": "Q45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1526509,
+          40.6090321
+        ]
+      },
+      "properties": {
+        "label": "Q10345550",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q10345550",
+        "country_qid": "Q45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.392,
+          42.029
+        ]
+      },
+      "properties": {
+        "label": "Alto Minho Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q3613302",
+        "country_qid": "Q45"
+      }
+    }
+  ]
+}

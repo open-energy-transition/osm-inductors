@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.602361111,
+          25.195444444
+        ]
+      },
+      "properties": {
+        "label": "Sihuangziping Pilot Geothermal Power Plant",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q119518290",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.99933333,
+          22.69
+        ]
+      },
+      "properties": {
+        "label": "Rainbow Resort Geothermal Power Plant",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q60995444",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.509463957,
+          24.546956204
+        ]
+      },
+      "properties": {
+        "label": "Q118583117",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q118583117",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.636972222,
+          24.612305555
+        ]
+      },
+      "properties": {
+        "label": "Qingshui Geothermal Power Plant",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q15901473",
+        "country_qid": "Q865"
+      }
+    }
+  ]
+}

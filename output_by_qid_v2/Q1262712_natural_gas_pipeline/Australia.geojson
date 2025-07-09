@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.77,
+          -20.62
+        ]
+      },
+      "properties": {
+        "label": "Dampier to Bunbury Natural Gas Pipeline",
+        "type": "Natural gas pipeline",
+        "entity": "http://www.wikidata.org/entity/Q1158896",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.505,
+          -34.763055555
+        ]
+      },
+      "properties": {
+        "label": "SEAGas pipeline",
+        "type": "Natural gas pipeline",
+        "entity": "http://www.wikidata.org/entity/Q7389541",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.194920135,
+          -22.624826467
+        ]
+      },
+      "properties": {
+        "label": "Goldfields Gas Pipeline",
+        "type": "Natural gas pipeline",
+        "entity": "http://www.wikidata.org/entity/Q5580140",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.21,
+          -28.11
+        ]
+      },
+      "properties": {
+        "label": "Moomba to Sydney Pipeline",
+        "type": "Natural gas pipeline",
+        "entity": "http://www.wikidata.org/entity/Q28220345",
+        "country_qid": "Q408"
+      }
+    }
+  ]
+}

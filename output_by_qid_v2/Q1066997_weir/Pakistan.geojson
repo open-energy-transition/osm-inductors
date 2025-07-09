@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.830888888,
+          34.550669444
+        ]
+      },
+      "properties": {
+        "label": "Kutton Waterfall",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q97383148",
+        "country_qid": "Q843"
+      }
+    }
+  ]
+}

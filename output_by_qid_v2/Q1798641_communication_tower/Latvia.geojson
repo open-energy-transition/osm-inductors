@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.072222222,
+          56.936944444
+        ]
+      },
+      "properties": {
+        "label": "Āgenskalns TV tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q97317368",
+        "country_qid": "Q211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.136111111,
+          56.923611111
+        ]
+      },
+      "properties": {
+        "label": "Riga Radio and TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q830319",
+        "country_qid": "Q211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.28241667,
+          56.938
+        ]
+      },
+      "properties": {
+        "label": "Riga LVRTC Transmitter",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1798444",
+        "country_qid": "Q211"
+      }
+    }
+  ]
+}

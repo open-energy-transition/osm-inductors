@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9342087,
+          49.0420538
+        ]
+      },
+      "properties": {
+        "label": "Uhřice Gas Storage",
+        "type": "Energy storage (concept)",
+        "entity": "http://www.wikidata.org/entity/Q113990095",
+        "country_qid": "Q213"
+      }
+    }
+  ]
+}

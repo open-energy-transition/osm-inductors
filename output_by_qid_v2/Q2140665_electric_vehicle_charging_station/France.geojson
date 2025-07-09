@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.023093,
+          50.393692
+        ]
+      },
+      "properties": {
+        "label": "Q115102135",
+        "type": "Electric vehicle charging station",
+        "entity": "http://www.wikidata.org/entity/Q115102135",
+        "country_qid": "Q142"
+      }
+    }
+  ]
+}

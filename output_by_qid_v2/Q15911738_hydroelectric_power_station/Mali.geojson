@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.34927,
+          14.35767
+        ]
+      },
+      "properties": {
+        "label": "Félou Hydroelectric Plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q18712236",
+        "country_qid": "Q912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.429944444,
+          13.195166666
+        ]
+      },
+      "properties": {
+        "label": "Manantali Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q583804",
+        "country_qid": "Q912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.58194444,
+          16.94111111
+        ]
+      },
+      "properties": {
+        "label": "Taoussa dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q2885451",
+        "country_qid": "Q912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.1098,
+          14.014
+        ]
+      },
+      "properties": {
+        "label": "Gouina Hydroelectric Plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q19895188",
+        "country_qid": "Q912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2294419,
+          11.6383587
+        ]
+      },
+      "properties": {
+        "label": "Sélingué Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q2885448",
+        "country_qid": "Q912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.785833333,
+          12.641944444
+        ]
+      },
+      "properties": {
+        "label": "Kenié Hydroelectric Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q112109185",
+        "country_qid": "Q912"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.30555556,
+          53.77
+        ]
+      },
+      "properties": {
+        "label": "Zeya Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q730412",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.340223,
+          59.912879
+        ]
+      },
+      "properties": {
+        "label": "Volkhov Hydroelectric Station",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q800130",
+        "country_qid": "Q159"
+      }
+    }
+  ]
+}

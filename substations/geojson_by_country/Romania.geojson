@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.540241003,
+          45.419012665
+        ]
+      },
+      "properties": {
+        "label": "Busteni Hydroelectric substation building (Electrica)",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q118467485",
+        "country_qid": "Q218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.793715119,
+          45.026311573
+        ]
+      },
+      "properties": {
+        "label": "Florești electrical substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113321706",
+        "country_qid": "Q218"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.23,
+          49.78722222
+        ]
+      },
+      "properties": {
+        "label": "Pumped-storage hydroelectricity Żar",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q609296",
+        "country_qid": "Q36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0529,
+          51.9896
+        ]
+      },
+      "properties": {
+        "label": "Dychów hydroelectric plant",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q9390227",
+        "country_qid": "Q36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.08222222,
+          54.72222222
+        ]
+      },
+      "properties": {
+        "label": "Żarnowiec Pumped Storage Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q1727941",
+        "country_qid": "Q36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.324138888,
+          49.418027777
+        ]
+      },
+      "properties": {
+        "label": "Q9252496",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q9252496",
+        "country_qid": "Q36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.70694444,
+          54.025
+        ]
+      },
+      "properties": {
+        "label": "Elektrownia Żydowo",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q1799539",
+        "country_qid": "Q36"
+      }
+    }
+  ]
+}

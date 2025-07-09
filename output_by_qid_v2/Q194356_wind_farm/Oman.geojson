@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.59,
+          17.81
+        ]
+      },
+      "properties": {
+        "label": "Dhofar Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q114359009",
+        "country_qid": "Q842"
+      }
+    }
+  ]
+}

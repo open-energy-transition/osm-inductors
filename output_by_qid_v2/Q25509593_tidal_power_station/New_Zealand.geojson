@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.16666667,
+          -36.41666667
+        ]
+      },
+      "properties": {
+        "label": "Kaipara Tidal Power Station",
+        "type": "Tidal power station",
+        "entity": "http://www.wikidata.org/entity/Q6348190",
+        "country_qid": "Q664"
+      }
+    }
+  ]
+}

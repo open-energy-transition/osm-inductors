@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.083055555,
+          62.170833333
+        ]
+      },
+      "properties": {
+        "label": "Mýrarnar",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q29100290",
+        "country_qid": "Q4628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.15,
+          62.166666666
+        ]
+      },
+      "properties": {
+        "label": "Lomundaroyri",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q29100373",
+        "country_qid": "Q4628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.083333333,
+          62.166666666
+        ]
+      },
+      "properties": {
+        "label": "Heljareyge",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q29100728",
+        "country_qid": "Q4628"
+      }
+    }
+  ]
+}

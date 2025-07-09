@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6783,
+          30.7005
+        ]
+      },
+      "properties": {
+        "label": "Tafila Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q21775908",
+        "country_qid": "Q810"
+      }
+    }
+  ]
+}

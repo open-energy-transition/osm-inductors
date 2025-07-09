@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.049534,
+          48.520625
+        ]
+      },
+      "properties": {
+        "label": "Schweickhardt’sche Kunstmühle",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q15867762",
+        "country_qid": "Q159626"
+      }
+    }
+  ]
+}

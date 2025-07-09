@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8,
+          72.516666666
+        ]
+      },
+      "properties": {
+        "label": "Klinck Automatic Weather Station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q111384404",
+        "country_qid": "Q223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.5406,
+          73.4911
+        ]
+      },
+      "properties": {
+        "label": "Myggbukta",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q11276748",
+        "country_qid": "Q223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.6644,
+          83.6275
+        ]
+      },
+      "properties": {
+        "label": "Cape Morris Jesup",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q917353",
+        "country_qid": "Q223"
+      }
+    }
+  ]
+}

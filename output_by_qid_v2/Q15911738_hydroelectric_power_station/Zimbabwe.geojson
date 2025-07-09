@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7614,
+          -16.5217
+        ]
+      },
+      "properties": {
+        "label": "Kariba Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q1367609",
+        "country_qid": "Q954"
+      }
+    }
+  ]
+}

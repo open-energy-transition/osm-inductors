@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.821,
+          44.851
+        ]
+      },
+      "properties": {
+        "label": "Q12565163",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q12565163",
+        "country_qid": "Q15180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.32755425,
+          53.838879469
+        ]
+      },
+      "properties": {
+        "label": "Q119153657",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q119153657",
+        "country_qid": "Q15180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.147877,
+          58.776317
+        ]
+      },
+      "properties": {
+        "label": "Chermoz iron works",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q110273358",
+        "country_qid": "Q15180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.208053885,
+          54.759889758
+        ]
+      },
+      "properties": {
+        "label": "Q114398443",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q114398443",
+        "country_qid": "Q15180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.811093,
+          56.494063
+        ]
+      },
+      "properties": {
+        "label": "Q119931281",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q119931281",
+        "country_qid": "Q15180"
+      }
+    }
+  ]
+}

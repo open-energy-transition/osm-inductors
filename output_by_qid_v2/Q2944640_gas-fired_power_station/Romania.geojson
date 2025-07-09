@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.99896,
+          44.880334
+        ]
+      },
+      "properties": {
+        "label": "Petrom Brazi Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q15266078",
+        "country_qid": "Q218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.86666667,
+          44.85833333
+        ]
+      },
+      "properties": {
+        "label": "Q11995771",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11995771",
+        "country_qid": "Q218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.06277778,
+          44.44027778
+        ]
+      },
+      "properties": {
+        "label": "Grozăvești Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q5611794",
+        "country_qid": "Q218"
+      }
+    }
+  ]
+}

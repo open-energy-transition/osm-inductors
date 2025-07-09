@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.17361111,
+          0.64166667
+        ]
+      },
+      "properties": {
+        "label": "Tororo Wind Power Station",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q25230637",
+        "country_qid": "Q1036"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.42435,
+          52.60751
+        ]
+      },
+      "properties": {
+        "label": "Moneypoint power station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q6899351",
+        "country_qid": "Q27"
+      }
+    }
+  ]
+}

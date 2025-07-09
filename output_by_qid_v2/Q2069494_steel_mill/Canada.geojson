@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0727,
+          42.8107
+        ]
+      },
+      "properties": {
+        "label": "Stelco Lake Erie Works",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q7606972",
+        "country_qid": "Q16"
+      }
+    }
+  ]
+}

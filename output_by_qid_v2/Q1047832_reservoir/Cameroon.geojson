@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.833333333,
+          8.883333333
+        ]
+      },
+      "properties": {
+        "label": "Lagdo Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1375368",
+        "country_qid": "Q1009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8117,
+          6.3722
+        ]
+      },
+      "properties": {
+        "label": "Mbakaou Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q19972176",
+        "country_qid": "Q1009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.792386,
+          10.78549
+        ]
+      },
+      "properties": {
+        "label": "Douvar Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q118383470",
+        "country_qid": "Q1009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5,
+          5.833333333
+        ]
+      },
+      "properties": {
+        "label": "Lac de Bamendjing",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23677421",
+        "country_qid": "Q1009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.500833,
+          5.698611
+        ]
+      },
+      "properties": {
+        "label": "Bamendjing Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q27349576",
+        "country_qid": "Q1009"
+      }
+    }
+  ]
+}

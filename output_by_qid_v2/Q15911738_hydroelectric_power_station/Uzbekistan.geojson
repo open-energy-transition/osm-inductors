@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.86430556,
+          41.59947222
+        ]
+      },
+      "properties": {
+        "label": "Khojakent HPP",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q65196835",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.80116667,
+          41.57869444
+        ]
+      },
+      "properties": {
+        "label": "Gazalkent HPP",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q86679411",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.96583333,
+          41.62888889
+        ]
+      },
+      "properties": {
+        "label": "Q4507350",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q4507350",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.06111111,
+          40.76916667
+        ]
+      },
+      "properties": {
+        "label": "Andijan Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q4065326",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.16138889,
+          40.22194444
+        ]
+      },
+      "properties": {
+        "label": "Farkhad Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q2855719",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.15111111,
+          39.02555556
+        ]
+      },
+      "properties": {
+        "label": "Hissarak HPP",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q4138992",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.61088889,
+          41.50369444
+        ]
+      },
+      "properties": {
+        "label": "Q65196880",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q65196880",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.66713889,
+          41.55036111
+        ]
+      },
+      "properties": {
+        "label": "Tavaksayska HPP",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q65196768",
+        "country_qid": "Q265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.4052,
+          41.2134
+        ]
+      },
+      "properties": {
+        "label": "Tuyamuyun Hydro Complex",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q19876795",
+        "country_qid": "Q265"
+      }
+    }
+  ]
+}

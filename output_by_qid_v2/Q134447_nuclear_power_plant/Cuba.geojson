@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5092,
+          22.0669
+        ]
+      },
+      "properties": {
+        "label": "Juragua Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1520114",
+        "country_qid": "Q241"
+      }
+    }
+  ]
+}

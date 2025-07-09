@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.89931,
+          52.4979
+        ]
+      },
+      "properties": {
+        "label": "Aston Furnace",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q110656871",
+        "country_qid": "Q174193",
+        "Wikidata Qid": "Q110656871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2375,
+          53.339
+        ]
+      },
+      "properties": {
+        "label": "Grand Canal Street Works",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q62225405",
+        "country_qid": "Q174193",
+        "Wikidata Qid": "Q62225405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.370607,
+          53.210732
+        ]
+      },
+      "properties": {
+        "label": "Lleweni bleach works",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q29560275",
+        "country_qid": "Q174193",
+        "Wikidata Qid": "Q29560275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.10419,
+          51.853344
+        ]
+      },
+      "properties": {
+        "label": "Llangenny Mill",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q28859133",
+        "country_qid": "Q174193",
+        "Wikidata Qid": "Q28859133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.275,
+          53.357
+        ]
+      },
+      "properties": {
+        "label": "Broadstone Works",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q30116186",
+        "country_qid": "Q174193",
+        "Wikidata Qid": "Q30116186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.156388888,
+          51.518888888
+        ]
+      },
+      "properties": {
+        "label": "Elliott & Fry",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q3502848",
+        "country_qid": "Q174193",
+        "Wikidata Qid": "Q3502848"
+      }
+    }
+  ]
+}

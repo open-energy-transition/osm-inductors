@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0,
+          -17.0
+        ]
+      },
+      "properties": {
+        "label": "Lake Kariba",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1047206",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.843888888,
+          -14.633888888
+        ]
+      },
+      "properties": {
+        "label": "Mulungushi Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q31961016",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.885833333,
+          -15.8875
+        ]
+      },
+      "properties": {
+        "label": "Kabulamwanda Dam",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q31928687",
+        "country_qid": "Q953"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.00562,
+          5.67304
+        ]
+      },
+      "properties": {
+        "label": "Tema Oil Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q7697962",
+        "country_qid": "Q117"
+      }
+    }
+  ]
+}

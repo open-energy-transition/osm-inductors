@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.43368,
+          33.65793
+        ]
+      },
+      "properties": {
+        "label": "Kyūshū-denryoku Kashii Electrical Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q123368464",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.405388888,
+          33.597527777
+        ]
+      },
+      "properties": {
+        "label": "Komondo Electrical Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q126180639",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.456944444,
+          35.605
+        ]
+      },
+      "properties": {
+        "label": "West Tokyo substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q55106416",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.421278,
+          35.735333
+        ]
+      },
+      "properties": {
+        "label": "Former Hitachi Aircraft Tachikawa Factory Transformer Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q11511064",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.901834924,
+          35.17755443
+        ]
+      },
+      "properties": {
+        "label": "Chūō Shinkansen Meijō electrical substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q115365898",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.88277778,
+          36.13722222
+        ]
+      },
+      "properties": {
+        "label": "Shin Shinano",
+        "type": "HVDC back-to-back station",
+        "substation": "http://www.wikidata.org/entity/Q7497226",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.96111111,
+          37.35972222
+        ]
+      },
+      "properties": {
+        "label": "Shin Fukushima substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q11503879",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.799194,
+          35.08225
+        ]
+      },
+      "properties": {
+        "label": "Sakuma Frequency Converter Station",
+        "type": "HVDC back-to-back station",
+        "substation": "http://www.wikidata.org/entity/Q11382696",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.223611111,
+          36.579166666
+        ]
+      },
+      "properties": {
+        "label": "Higashi-Gunma substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q56089170",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.915854,
+          36.496187
+        ]
+      },
+      "properties": {
+        "label": "Minami-Fukumitsu",
+        "type": "HVDC back-to-back station",
+        "substation": "http://www.wikidata.org/entity/Q6862860",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5,
+          35.05805556
+        ]
+      },
+      "properties": {
+        "label": "Higashi-Shimizu Frequency Converter",
+        "type": "HVDC back-to-back station",
+        "substation": "http://www.wikidata.org/entity/Q1617659",
+        "country_qid": "Q17"
+      }
+    }
+  ]
+}

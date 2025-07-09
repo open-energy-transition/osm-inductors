@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.225833333,
+          36.076111111
+        ]
+      },
+      "properties": {
+        "label": "Q20925869",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q20925869",
+        "country_qid": "Q233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.208333333,
+          36.069722222
+        ]
+      },
+      "properties": {
+        "label": "Q20925878",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q20925878",
+        "country_qid": "Q233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.208333333,
+          36.069722222
+        ]
+      },
+      "properties": {
+        "label": "Q20925877",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q20925877",
+        "country_qid": "Q233"
+      }
+    }
+  ]
+}

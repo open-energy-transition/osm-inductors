@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.663799,
+          40.17769
+        ]
+      },
+      "properties": {
+        "label": "Comportas de Regadio do Poço de Cal",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q66943473",
+        "country_qid": "Q45"
+      }
+    }
+  ]
+}

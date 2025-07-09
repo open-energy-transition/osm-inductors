@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.03182,
+          40.56324
+        ]
+      },
+      "properties": {
+        "label": "Federico II power station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3664518",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.758437,
+          42.127432
+        ]
+      },
+      "properties": {
+        "label": "Torrevaldaliga Nord coal-fired power plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3664649",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9789503,
+          40.6438532
+        ]
+      },
+      "properties": {
+        "label": "Edipower Brindisi power plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3664640",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2467364,
+          45.4305635
+        ]
+      },
+      "properties": {
+        "label": "Andrea Palladio power plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3664639",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.87444444,
+          44.11083333
+        ]
+      },
+      "properties": {
+        "label": "Eugenio Montale thermoelectric plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3664641",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4308229,
+          44.2758371
+        ]
+      },
+      "properties": {
+        "label": "Vado Ligure power plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q12008789",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.30515,
+          40.847838888
+        ]
+      },
+      "properties": {
+        "label": "Fiume Santo coal-fired power plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q17772520",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4004104,
+          39.1963096
+        ]
+      },
+      "properties": {
+        "label": "Sulcis power plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q12003920",
+        "country_qid": "Q38"
+      }
+    }
+  ]
+}

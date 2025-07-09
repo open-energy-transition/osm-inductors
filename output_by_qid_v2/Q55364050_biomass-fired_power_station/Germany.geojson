@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.46615,
+          51.6212
+        ]
+      },
+      "properties": {
+        "label": "Lünen biomass power station",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q864563",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2102,
+          53.3404
+        ]
+      },
+      "properties": {
+        "label": "Emden power station",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q20671817",
+        "country_qid": "Q183"
+      }
+    }
+  ]
+}

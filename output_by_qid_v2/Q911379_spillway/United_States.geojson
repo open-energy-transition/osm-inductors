@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.460278,
+          42.246111
+        ]
+      },
+      "properties": {
+        "label": "Ashland Dam and Spillway",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q4805243",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.876111,
+          42.155
+        ]
+      },
+      "properties": {
+        "label": "Stone Spillway, National Defense Stockpile Center",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q7619029",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.278888888,
+          40.971388888
+        ]
+      },
+      "properties": {
+        "label": "Pompton Dam",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q7227519",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.582297,
+          38.749445
+        ]
+      },
+      "properties": {
+        "label": "Montserrat Recreation Demonstration Area Dam and Spillway",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q98959436",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.684722222,
+          37.455277777
+        ]
+      },
+      "properties": {
+        "label": "Dam and Spillway in the Hatchery Area at Montauk State Park",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q64657913",
+        "country_qid": "Q30"
+      }
+    }
+  ]
+}

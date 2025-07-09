@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.029628,
+          31.255294
+        ]
+      },
+      "properties": {
+        "label": "McIntosh (CAES) Plant",
+        "type": "Compressed air energy storage",
+        "entity": "http://www.wikidata.org/entity/Q1700030",
+        "country_qid": "Q30"
+      }
+    }
+  ]
+}

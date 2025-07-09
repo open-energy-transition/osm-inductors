@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.965736111,
+          -25.375119444
+        ]
+      },
+      "properties": {
+        "label": "Represa de Yguasu",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q5760708",
+        "country_qid": "Q733",
+        "Wikidata Qid": "Q5760708"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.608888888,
+          -25.42
+        ]
+      },
+      "properties": {
+        "label": "Itaipu right bank substation",
+        "type": "Electrical substation",
+        "entity": "http://www.wikidata.org/entity/Q53679310",
+        "country_qid": "Q733",
+        "Wikidata Qid": "Q53679310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.25,
+          -25.25
+        ]
+      },
+      "properties": {
+        "label": "Yguazú Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34897308",
+        "country_qid": "Q733",
+        "Wikidata Qid": "Q34897308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6039085,
+          -25.3869172
+        ]
+      },
+      "properties": {
+        "label": "Villa Elisa Refinery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q7930312",
+        "country_qid": "Q733",
+        "Wikidata Qid": "Q7930312"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.26464,
+          -25.42996
+        ]
+      },
+      "properties": {
+        "label": "Q125522170",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q125522170",
+        "country_qid": "Q733",
+        "Wikidata Qid": "Q125522170"
+      }
+    }
+  ]
+}

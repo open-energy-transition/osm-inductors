@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.469759821,
+          55.875735161
+        ]
+      },
+      "properties": {
+        "label": "Noginsk Lenina square 1",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q123668167",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.462491035,
+          55.877682182
+        ]
+      },
+      "properties": {
+        "label": "Foundry plant of Glukhovo factory",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q123689929",
+        "country_qid": "Q159"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.56154,
+          46.247318
+        ]
+      },
+      "properties": {
+        "label": "Q130214588",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q130214588",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.36668,
+          49.46697
+        ]
+      },
+      "properties": {
+        "label": "Écluse d'Apach-Schengen",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q13105104",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5118972,
+          45.6262662
+        ]
+      },
+      "properties": {
+        "label": "Q133798585",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q133798585",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1203796,
+          45.9294269
+        ]
+      },
+      "properties": {
+        "label": "Q130262497",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q130262497",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.425916,
+          49.154691
+        ]
+      },
+      "properties": {
+        "label": "Q130532526",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q130532526",
+        "country_qid": "Q142"
+      }
+    }
+  ]
+}

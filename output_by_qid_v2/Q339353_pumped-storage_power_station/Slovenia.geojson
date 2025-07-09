@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.67069444,
+          46.10258333
+        ]
+      },
+      "properties": {
+        "label": "Q65194772",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q65194772",
+        "country_qid": "Q215"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.8333,
+          32.3264
+        ]
+      },
+      "properties": {
+        "label": "Royal Naval Dockyard, Bermuda",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q3398678",
+        "country_qid": "Q23635",
+        "Wikidata Qid": "Q3398678"
+      }
+    }
+  ]
+}

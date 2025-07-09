@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.336555555,
+          15.327
+        ]
+      },
+      "properties": {
+        "label": "Laudat Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q61448243",
+        "country_qid": "Q784",
+        "Wikidata Qid": "Q61448243"
+      }
+    }
+  ]
+}

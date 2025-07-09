@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.359722,
+          29.609722
+        ]
+      },
+      "properties": {
+        "label": "Mitraba",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q6882358",
+        "country_qid": "Q817"
+      }
+    }
+  ]
+}

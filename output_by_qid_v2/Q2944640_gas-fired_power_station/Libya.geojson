@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6735,
+          32.788305555
+        ]
+      },
+      "properties": {
+        "label": "Zawiya combined cycle power plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q12011162",
+        "country_qid": "Q1016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.244055555,
+          32.332416666
+        ]
+      },
+      "properties": {
+        "label": "Misrata Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q56373387",
+        "country_qid": "Q1016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.131916666,
+          32.201972222
+        ]
+      },
+      "properties": {
+        "label": "Benghazi North Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11960548",
+        "country_qid": "Q1016"
+      }
+    }
+  ]
+}

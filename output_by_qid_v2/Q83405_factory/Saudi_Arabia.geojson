@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1079,
+          26.6919
+        ]
+      },
+      "properties": {
+        "label": "Ras Tanura Refinery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q16510565",
+        "country_qid": "Q851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.077057,
+          25.945388
+        ]
+      },
+      "properties": {
+        "label": "Gerrha",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430290",
+        "country_qid": "Q851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.16797,
+          29.46224
+        ]
+      },
+      "properties": {
+        "label": "Dunaysir",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430149",
+        "country_qid": "Q851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.32775,
+          24.18211
+        ]
+      },
+      "properties": {
+        "label": "al-Yamamah",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431761",
+        "country_qid": "Q851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.82563,
+          21.42664
+        ]
+      },
+      "properties": {
+        "label": "Mecca",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430706",
+        "country_qid": "Q851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.952778,
+          26.791667
+        ]
+      },
+      "properties": {
+        "label": "Hegra",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430349",
+        "country_qid": "Q851"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3036987,
+          21.9974615
+        ]
+      },
+      "properties": {
+        "label": "Payra Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q28225221",
+        "country_qid": "Q902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3093123,
+          22.0245655
+        ]
+      },
+      "properties": {
+        "label": "Patuakhali power plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q111265821",
+        "country_qid": "Q902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8903673,
+          21.9761506
+        ]
+      },
+      "properties": {
+        "label": "Banshkhali power plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q111265768",
+        "country_qid": "Q902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.068888888,
+          21.965277777
+        ]
+      },
+      "properties": {
+        "label": "Barisal Electric Power Company Limited",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q111265773",
+        "country_qid": "Q902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0,
+          21.8
+        ]
+      },
+      "properties": {
+        "label": "Matarbari Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q28225223",
+        "country_qid": "Q902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9494,
+          25.5541
+        ]
+      },
+      "properties": {
+        "label": "Barapukuria Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q16253289",
+        "country_qid": "Q902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.55402778,
+          22.595556
+        ]
+      },
+      "properties": {
+        "label": "Rampal Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q15071638",
+        "country_qid": "Q902"
+      }
+    }
+  ]
+}

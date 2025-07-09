@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.021294444,
+          39.982163888
+        ]
+      },
+      "properties": {
+        "label": "centrale del Mercure",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q16538823",
+        "country_qid": "Q38"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.56767324,
+          25.29147459
+        ]
+      },
+      "properties": {
+        "label": "Jinshan Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q712574",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.66286004,
+          25.2029346
+        ]
+      },
+      "properties": {
+        "label": "Kuosheng Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q711929",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9241153,
+          25.03832756
+        ]
+      },
+      "properties": {
+        "label": "Longmen Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q707536",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.751612,
+          21.958092
+        ]
+      },
+      "properties": {
+        "label": "Maanshan Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q712797",
+        "country_qid": "Q865"
+      }
+    }
+  ]
+}

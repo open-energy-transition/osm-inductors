@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.83333333,
+          33.08333333
+        ]
+      },
+      "properties": {
+        "label": "Golan Heights Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q1145092",
+        "country_qid": "Q858"
+      }
+    }
+  ]
+}

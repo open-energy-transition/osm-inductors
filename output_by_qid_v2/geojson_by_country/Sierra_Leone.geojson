@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.6675,
+          7.788611111
+        ]
+      },
+      "properties": {
+        "label": "Baomahun Hybrid Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q124693293",
+        "country_qid": "Q1044",
+        "Wikidata Qid": "Q124693293"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.798611111,
+          8.185555555
+        ]
+      },
+      "properties": {
+        "label": "Baoma Solar Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q121734230",
+        "country_qid": "Q1044",
+        "Wikidata Qid": "Q121734230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.247388888,
+          8.492888888
+        ]
+      },
+      "properties": {
+        "label": "Kingtom Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q56373380",
+        "country_qid": "Q1044",
+        "Wikidata Qid": "Q56373380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.7225,
+          9.071944444
+        ]
+      },
+      "properties": {
+        "label": "Bumbuna II Hydroelectric Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q108444781",
+        "country_qid": "Q1044",
+        "Wikidata Qid": "Q108444781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.7229,
+          9.07149
+        ]
+      },
+      "properties": {
+        "label": "Bumbuna Dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q16828547",
+        "country_qid": "Q1044",
+        "Wikidata Qid": "Q16828547"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.203888888,
+          8.365
+        ]
+      },
+      "properties": {
+        "label": "Guma Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34888212",
+        "country_qid": "Q1044",
+        "Wikidata Qid": "Q34888212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.514722222,
+          8.678611111
+        ]
+      },
+      "properties": {
+        "label": "Q49429563",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q49429563",
+        "country_qid": "Q1044",
+        "Wikidata Qid": "Q49429563"
+      }
+    }
+  ]
+}

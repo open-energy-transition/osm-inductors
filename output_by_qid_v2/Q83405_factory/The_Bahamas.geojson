@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.348385083,
+          25.074661148
+        ]
+      },
+      "properties": {
+        "label": "John Watling's Distillery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q126409376",
+        "country_qid": "Q778"
+      }
+    }
+  ]
+}

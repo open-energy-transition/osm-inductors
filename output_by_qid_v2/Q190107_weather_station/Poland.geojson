@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.031173214,
+          51.104583799
+        ]
+      },
+      "properties": {
+        "label": "Meteorological column in Wrocław",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q30059797",
+        "country_qid": "Q36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.446747933,
+          53.930961271
+        ]
+      },
+      "properties": {
+        "label": "Meteorological column in Międzyzdroje",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q109973411",
+        "country_qid": "Q36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9818,
+          49.2325
+        ]
+      },
+      "properties": {
+        "label": "Q9380266",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q9380266",
+        "country_qid": "Q36"
+      }
+    }
+  ]
+}

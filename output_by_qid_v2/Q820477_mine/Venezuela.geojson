@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.033888888,
+          6.028888888
+        ]
+      },
+      "properties": {
+        "label": "Mina de Piojo",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q31955524",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.2175,
+          9.939722222
+        ]
+      },
+      "properties": {
+        "label": "Pedrera El Roble",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q31985262",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.455833333,
+          10.420833333
+        ]
+      },
+      "properties": {
+        "label": "Cantera Piedra Lisa",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q31889029",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.198888888,
+          7.723888888
+        ]
+      },
+      "properties": {
+        "label": "Mina Potosi",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q31955529",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.119444444,
+          7.988333333
+        ]
+      },
+      "properties": {
+        "label": "Campamento Minero",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q31888249",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.276111111,
+          9.930833333
+        ]
+      },
+      "properties": {
+        "label": "Cantera El Totumo",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q31889020",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.4,
+          7.5
+        ]
+      },
+      "properties": {
+        "label": "Cerro Bolívar",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q5064865",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.89408333,
+          10.43194444
+        ]
+      },
+      "properties": {
+        "label": "Aroa mines",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q28220331",
+        "country_qid": "Q717"
+      }
+    }
+  ]
+}

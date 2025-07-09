@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.802912,
+          39.743027
+        ]
+      },
+      "properties": {
+        "label": "Electrical substation of Leiria",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q109461969",
+        "country_qid": "Q45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.542252,
+          41.193498
+        ]
+      },
+      "properties": {
+        "label": "Pinhão substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q111146446",
+        "country_qid": "Q45"
+      }
+    }
+  ]
+}

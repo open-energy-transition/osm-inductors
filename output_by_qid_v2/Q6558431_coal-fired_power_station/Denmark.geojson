@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.07894444,
+          55.66130556
+        ]
+      },
+      "properties": {
+        "label": "Asnæs Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3432984",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5881,
+          55.7133
+        ]
+      },
+      "properties": {
+        "label": "Svanemølle Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3432599",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4401,
+          55.0215
+        ]
+      },
+      "properties": {
+        "label": "Ensted Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3432315",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55696389,
+          55.65685278
+        ]
+      },
+      "properties": {
+        "label": "H. C. Ørsted Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3432898",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.45530556,
+          55.45458333
+        ]
+      },
+      "properties": {
+        "label": "Esbjerg Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1140285",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47925,
+          55.602761
+        ]
+      },
+      "properties": {
+        "label": "Avedøre Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3432240",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.62611111,
+          55.68555556
+        ]
+      },
+      "properties": {
+        "label": "Amager power station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q12301241",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.344444444,
+          56.251388888
+        ]
+      },
+      "properties": {
+        "label": "Studstrup Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1355591",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.041,
+          57.0745
+        ]
+      },
+      "properties": {
+        "label": "Nordjylland Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3432980",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.411,
+          55.42980556
+        ]
+      },
+      "properties": {
+        "label": "Fyn Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3432295",
+        "country_qid": "Q35"
+      }
+    }
+  ]
+}

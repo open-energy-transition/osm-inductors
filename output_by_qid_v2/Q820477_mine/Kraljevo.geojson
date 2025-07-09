@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.416288,
+          43.650157
+        ]
+      },
+      "properties": {
+        "label": "Kozjak",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q91246886",
+        "country_qid": "Q206317"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.49347,
+          43.58653
+        ]
+      },
+      "properties": {
+        "label": "Russian solar panel at Cité de l'Espace",
+        "type": "Solar cell panel",
+        "entity": "http://www.wikidata.org/entity/Q124613498",
+        "country_qid": "Q142"
+      }
+    }
+  ]
+}

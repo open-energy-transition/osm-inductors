@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5061592,
+          44.5485164
+        ]
+      },
+      "properties": {
+        "label": "Q133894420",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q133894420",
+        "country_qid": "Q225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.872278,
+          43.619654
+        ]
+      },
+      "properties": {
+        "label": "Daorsia",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430094",
+        "country_qid": "Q225"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.55,
+          40.06666667
+        ]
+      },
+      "properties": {
+        "label": "Ponghwa Chemical Factory",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q25105079",
+        "country_qid": "Q423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.34861111,
+          42.31194444
+        ]
+      },
+      "properties": {
+        "label": "Sungri Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q25105078",
+        "country_qid": "Q423"
+      }
+    }
+  ]
+}

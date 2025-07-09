@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.920277777,
+          13.643611111
+        ]
+      },
+      "properties": {
+        "label": "Minas San Sebastián",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q31935560",
+        "country_qid": "Q792"
+      }
+    }
+  ]
+}

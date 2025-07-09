@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1555727,
+          10.4882834
+        ]
+      },
+      "properties": {
+        "label": "Q107263757",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q107263757",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1706433,
+          11.7517478
+        ]
+      },
+      "properties": {
+        "label": "Q5857712",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q5857712",
+        "country_qid": "Q717"
+      }
+    }
+  ]
+}

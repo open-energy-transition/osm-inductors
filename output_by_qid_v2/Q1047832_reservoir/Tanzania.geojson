@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.94416667,
+          -5.955
+        ]
+      },
+      "properties": {
+        "label": "Q46270832",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q46270832",
+        "country_qid": "Q924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8532,
+          -7.02457
+        ]
+      },
+      "properties": {
+        "label": "Mtera Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34908976",
+        "country_qid": "Q924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.915277777,
+          -5.033333333
+        ]
+      },
+      "properties": {
+        "label": "Mabayani Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1882341",
+        "country_qid": "Q924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.420833333,
+          -3.727222222
+        ]
+      },
+      "properties": {
+        "label": "Nyumba ya Mungu Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2006242",
+        "country_qid": "Q924"
+      }
+    }
+  ]
+}

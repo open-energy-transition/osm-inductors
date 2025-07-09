@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.721944444,
+          6.9075
+        ]
+      },
+      "properties": {
+        "label": "Wolayta Sodo Converter Station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q56083538",
+        "country_qid": "Q115"
+      }
+    }
+  ]
+}

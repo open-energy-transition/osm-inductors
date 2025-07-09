@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.996416666,
+          27.952555555
+        ]
+      },
+      "properties": {
+        "label": "Tarfaya Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q18642054",
+        "country_qid": "Q1028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.0,
+          27.9567
+        ]
+      },
+      "properties": {
+        "label": "Akhfenir Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q18729667",
+        "country_qid": "Q1028"
+      }
+    }
+  ]
+}

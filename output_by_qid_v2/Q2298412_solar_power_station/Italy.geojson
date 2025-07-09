@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.57222222,
+          45.03583333
+        ]
+      },
+      "properties": {
+        "label": "Rovigo Photovoltaic Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q7371716",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.65333333,
+          44.94305556
+        ]
+      },
+      "properties": {
+        "label": "Serenissima Solar Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q7453211",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.96666667,
+          40.46666667
+        ]
+      },
+      "properties": {
+        "label": "Cellino San Marco Solar Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q5058285",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.13345,
+          42.9594
+        ]
+      },
+      "properties": {
+        "label": "Q3895611",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q3895611",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.15,
+          44.51666667
+        ]
+      },
+      "properties": {
+        "label": "Sant'Alberto Solar Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q7419045",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.98333333,
+          44.56666667
+        ]
+      },
+      "properties": {
+        "label": "Alfonsine Solar Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q4721980",
+        "country_qid": "Q38"
+      }
+    }
+  ]
+}

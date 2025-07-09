@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.130332,
+          34.712354
+        ]
+      },
+      "properties": {
+        "label": "Amathus",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127429520",
+        "country_qid": "Q229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8877,
+          34.6642
+        ]
+      },
+      "properties": {
+        "label": "Curium",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430069",
+        "country_qid": "Q229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.436032,
+          35.037245
+        ]
+      },
+      "properties": {
+        "label": "Marium",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430692",
+        "country_qid": "Q229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.347297,
+          35.157167
+        ]
+      },
+      "properties": {
+        "label": "Nicosia",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430846",
+        "country_qid": "Q229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.629471,
+          34.929597
+        ]
+      },
+      "properties": {
+        "label": "Citium",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127429949",
+        "country_qid": "Q229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.407565,
+          34.759931
+        ]
+      },
+      "properties": {
+        "label": "Paphos",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430949",
+        "country_qid": "Q229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.546609,
+          35.065649
+        ]
+      },
+      "properties": {
+        "label": "Golgoi",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430297",
+        "country_qid": "Q229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.412994,
+          35.019966
+        ]
+      },
+      "properties": {
+        "label": "Idalium",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430429",
+        "country_qid": "Q229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.044167,
+          34.674722
+        ]
+      },
+      "properties": {
+        "label": "Limassol",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430604",
+        "country_qid": "Q229"
+      }
+    }
+  ]
+}

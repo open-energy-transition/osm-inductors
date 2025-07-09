@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5635,
+          45.498594
+        ]
+      },
+      "properties": {
+        "label": "Lyon–Moutiers DC transmission scheme",
+        "type": "Overhead power line",
+        "entity": "http://www.wikidata.org/entity/Q1530363",
+        "country_qid": "Q142"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.58,
+          52.914
+        ]
+      },
+      "properties": {
+        "label": "IJmuiden Ver Beta Offshore Converter Station",
+        "type": "Offshore HVDC converter platform",
+        "entity": "http://www.wikidata.org/entity/Q131714396",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4809,
+          52.8107
+        ]
+      },
+      "properties": {
+        "label": "IJmuiden Ver Alpha Offshore Converter Station",
+        "type": "Offshore HVDC converter platform",
+        "entity": "http://www.wikidata.org/entity/Q131713025",
+        "country_qid": "Q55"
+      }
+    }
+  ]
+}

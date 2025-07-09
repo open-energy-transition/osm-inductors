@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.39,
+          48.2575
+        ]
+      },
+      "properties": {
+        "label": "400-kV-Nordeinspeisung Wien",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q231423",
+        "country_qid": "Q40"
+      }
+    }
+  ]
+}

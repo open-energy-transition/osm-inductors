@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.288611111,
+          6.149722222
+        ]
+      },
+      "properties": {
+        "label": "Kékéli Thermal Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q106880702",
+        "country_qid": "Q945"
+      }
+    }
+  ]
+}

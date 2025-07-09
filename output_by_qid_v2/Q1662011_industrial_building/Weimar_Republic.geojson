@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.379154587,
+          52.567664038
+        ]
+      },
+      "properties": {
+        "label": "Ostdeutsche Spritfabrik GmbH",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q118091674",
+        "country_qid": "Q41304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385534079,
+          52.568024035
+        ]
+      },
+      "properties": {
+        "label": "Q118113443",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q118113443",
+        "country_qid": "Q41304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7442467,
+          52.3642717
+        ]
+      },
+      "properties": {
+        "label": "Q124694021",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q124694021",
+        "country_qid": "Q41304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.367995219,
+          52.56872715
+        ]
+      },
+      "properties": {
+        "label": "Q118669324",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q118669324",
+        "country_qid": "Q41304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.692,
+          52.4195
+        ]
+      },
+      "properties": {
+        "label": "Waldemar Pruss Armaturenfabrik GmbH",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q124370619",
+        "country_qid": "Q41304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.998261571,
+          49.680256145
+        ]
+      },
+      "properties": {
+        "label": "Continental-Gelatine-Industrie",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q125869182",
+        "country_qid": "Q41304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.366728649,
+          51.366741108
+        ]
+      },
+      "properties": {
+        "label": "Q129652226",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q129652226",
+        "country_qid": "Q41304"
+      }
+    }
+  ]
+}

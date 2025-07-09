@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.657222222,
+          -10.584444444
+        ]
+      },
+      "properties": {
+        "label": "Lake Nzilo",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3214837",
+        "country_qid": "Q974"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.059444444,
+          -10.860277777
+        ]
+      },
+      "properties": {
+        "label": "Lake Tshangalele",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2436192",
+        "country_qid": "Q974"
+      }
+    }
+  ]
+}

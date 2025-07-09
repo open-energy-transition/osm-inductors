@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.239382,
+          53.3426
+        ]
+      },
+      "properties": {
+        "label": "Irish Centre for High-End Computing",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q17088113",
+        "country_qid": "Q27"
+      }
+    }
+  ]
+}

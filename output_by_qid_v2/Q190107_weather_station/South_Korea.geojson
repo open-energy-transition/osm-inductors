@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.023055555,
+          35.103888888
+        ]
+      },
+      "properties": {
+        "label": "former Busan temporary weather station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q31177356",
+        "country_qid": "Q884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.854863,
+          37.805094
+        ]
+      },
+      "properties": {
+        "label": "Gangwon Regional Office of Meteorology",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q12583035",
+        "country_qid": "Q884"
+      }
+    }
+  ]
+}

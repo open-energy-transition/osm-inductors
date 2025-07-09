@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.533611111,
+          10.174166666
+        ]
+      },
+      "properties": {
+        "label": "Kaleo Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q113859825",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.693333333,
+          5.372777777
+        ]
+      },
+      "properties": {
+        "label": "BXC Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q108101904",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.41972222,
+          6.15555556
+        ]
+      },
+      "properties": {
+        "label": "Nzema Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q25226949",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.10277778,
+          10.88
+        ]
+      },
+      "properties": {
+        "label": "Navrongo Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q25226950",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.703333333,
+          5.346111111
+        ]
+      },
+      "properties": {
+        "label": "Gomoa Onyaadze Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q108084629",
+        "country_qid": "Q117"
+      }
+    }
+  ]
+}

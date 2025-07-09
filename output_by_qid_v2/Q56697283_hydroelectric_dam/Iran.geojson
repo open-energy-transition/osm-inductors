@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.032936,
+          39.179338
+        ]
+      },
+      "properties": {
+        "label": "Giz Galasi Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q20110407",
+        "country_qid": "Q794"
+      }
+    }
+  ]
+}

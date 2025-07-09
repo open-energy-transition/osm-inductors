@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1541812,
+          29.0337244
+        ]
+      },
+      "properties": {
+        "label": "Shuaiba power station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q97939448",
+        "country_qid": "Q817",
+        "Wikidata Qid": "Q97939448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7905917,
+          29.3676461
+        ]
+      },
+      "properties": {
+        "label": "Doha power station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q11965838",
+        "country_qid": "Q817",
+        "Wikidata Qid": "Q11965838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.3800688,
+          28.7133354
+        ]
+      },
+      "properties": {
+        "label": "Az Zour North power station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q98080477",
+        "country_qid": "Q817",
+        "Wikidata Qid": "Q98080477"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.169351944,
+          29.566126944
+        ]
+      },
+      "properties": {
+        "label": "Subbiya Power And Water Distillation Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q22915211",
+        "country_qid": "Q817",
+        "Wikidata Qid": "Q22915211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.3705282,
+          28.7071696
+        ]
+      },
+      "properties": {
+        "label": "Al-Zor South Power And Water Distillation Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q11959877",
+        "country_qid": "Q817",
+        "Wikidata Qid": "Q11959877"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9398974,
+          29.3511294
+        ]
+      },
+      "properties": {
+        "label": "Shuwaikh Power Station and Water Distillation Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q12239389",
+        "country_qid": "Q817",
+        "Wikidata Qid": "Q12239389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.274487,
+          29.433698
+        ]
+      },
+      "properties": {
+        "label": "Failaka",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430235",
+        "country_qid": "Q817",
+        "Wikidata Qid": "Q127430235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.274487,
+          29.433698
+        ]
+      },
+      "properties": {
+        "label": "Icarus",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430424",
+        "country_qid": "Q817",
+        "Wikidata Qid": "Q127430424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.359722,
+          29.609722
+        ]
+      },
+      "properties": {
+        "label": "Mitraba",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q6882358",
+        "country_qid": "Q817",
+        "Wikidata Qid": "Q6882358"
+      }
+    }
+  ]
+}

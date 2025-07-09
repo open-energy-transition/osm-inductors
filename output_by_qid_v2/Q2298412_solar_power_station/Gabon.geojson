@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.018611111,
+          0.473611111
+        ]
+      },
+      "properties": {
+        "label": "Ayémé Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q111941176",
+        "country_qid": "Q1000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.551111111,
+          1.596388888
+        ]
+      },
+      "properties": {
+        "label": "Oyem Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q111165317",
+        "country_qid": "Q1000"
+      }
+    }
+  ]
+}

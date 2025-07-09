@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9186,
+          60.6803
+        ]
+      },
+      "properties": {
+        "label": "Vyborg HVDC scheme",
+        "type": "HVDC back-to-back station",
+        "entity": "http://www.wikidata.org/entity/Q1411764",
+        "country_qid": "Q159"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4633,
+          37.8556
+        ]
+      },
+      "properties": {
+        "label": "Gümüşköy Geothermal Power Plant",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q16060094",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8431,
+          37.95
+        ]
+      },
+      "properties": {
+        "label": "Kızıldere Geothermal Power Plant",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q16893510",
+        "country_qid": "Q43"
+      }
+    }
+  ]
+}

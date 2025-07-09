@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.281102777,
+          46.781336111
+        ]
+      },
+      "properties": {
+        "label": "Data center of Université Laval",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q65963874",
+        "country_qid": "Q16"
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.464,
+          1.6369
+        ]
+      },
+      "properties": {
+        "label": "Sejingkat Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q116628936",
+        "country_qid": "Q833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.322,
+          3.117
+        ]
+      },
+      "properties": {
+        "label": "Sultan Salahuddin Abdul Aziz Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7441454",
+        "country_qid": "Q833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7304373,
+          2.5934859
+        ]
+      },
+      "properties": {
+        "label": "Jimah East Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q116696059",
+        "country_qid": "Q833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5422,
+          1.334
+        ]
+      },
+      "properties": {
+        "label": "Tanjung Bin Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q12005196",
+        "country_qid": "Q833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.64292,
+          4.163069
+        ]
+      },
+      "properties": {
+        "label": "Manjung Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q19380991",
+        "country_qid": "Q833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.3234,
+          2.969
+        ]
+      },
+      "properties": {
+        "label": "Mukah Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q116654839",
+        "country_qid": "Q833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7243433,
+          2.5923391
+        ]
+      },
+      "properties": {
+        "label": "Jimah Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11978589",
+        "country_qid": "Q833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.47461,
+          2.7375301
+        ]
+      },
+      "properties": {
+        "label": "Balingian Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q116628728",
+        "country_qid": "Q833"
+      }
+    }
+  ]
+}

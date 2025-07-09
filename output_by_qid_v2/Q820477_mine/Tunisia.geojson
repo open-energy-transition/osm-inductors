@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.368333333,
+          36.205833333
+        ]
+      },
+      "properties": {
+        "label": "Sakiet Sidi Youssef mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q49432664",
+        "country_qid": "Q948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.082222222,
+          36.893611111
+        ]
+      },
+      "properties": {
+        "label": "Q49460180",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q49460180",
+        "country_qid": "Q948"
+      }
+    }
+  ]
+}

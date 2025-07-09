@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.48775,
+          50.61038889
+        ]
+      },
+      "properties": {
+        "label": "Kyiv Pumped Storage Power Plant",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q4220145",
+        "country_qid": "Q212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.45055556,
+          49.85194444
+        ]
+      },
+      "properties": {
+        "label": "Kaniv Pumped Storage Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q4212381",
+        "country_qid": "Q212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.473333,
+          48.513611
+        ]
+      },
+      "properties": {
+        "label": "Dniester Pumped Storage Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q1153545",
+        "country_qid": "Q212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.18083333,
+          47.79661111
+        ]
+      },
+      "properties": {
+        "label": "Tashlyk Pumped-Storage Power Plant",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q4453055",
+        "country_qid": "Q212"
+      }
+    }
+  ]
+}

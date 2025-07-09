@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.390292806,
+          42.503507969
+        ]
+      },
+      "properties": {
+        "label": "Barskunes",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q10751701",
+        "country_qid": "Q216791",
+        "Wikidata Qid": "Q10751701"
+      }
+    }
+  ]
+}

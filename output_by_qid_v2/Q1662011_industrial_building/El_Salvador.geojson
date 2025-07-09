@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.233225206,
+          13.693738159
+        ]
+      },
+      "properties": {
+        "label": "La Radio Tomada",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q121141081",
+        "country_qid": "Q792"
+      }
+    }
+  ]
+}

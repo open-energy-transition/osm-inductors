@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.631227777,
+          -43.535136111
+        ]
+      },
+      "properties": {
+        "label": "Oxford-Tuam Zone Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q115548216",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.602580555,
+          -43.538963888
+        ]
+      },
+      "properties": {
+        "label": "Addington substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q123523132",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.203,
+          -41.671
+        ]
+      },
+      "properties": {
+        "label": "Argyle Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q125822992",
+        "country_qid": "Q664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.770292,
+          -36.893061
+        ]
+      },
+      "properties": {
+        "label": "Auckland Electric Power Board Substation (Former)",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q76859509",
+        "country_qid": "Q664"
+      }
+    }
+  ]
+}

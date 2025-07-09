@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.155277777,
+          19.964444444
+        ]
+      },
+      "properties": {
+        "label": "Fang Geothermal Power Plant",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q130599993",
+        "country_qid": "Q869"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6536,
+          55.5579
+        ]
+      },
+      "properties": {
+        "label": "Google Data Center Fredericia",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q115674884",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.48479,
+          55.36668
+        ]
+      },
+      "properties": {
+        "label": "Facebook Odense Data Center",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q106859609",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5739,
+          56.4834
+        ]
+      },
+      "properties": {
+        "label": "Foulum Data Center",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q19721053",
+        "country_qid": "Q35"
+      }
+    }
+  ]
+}

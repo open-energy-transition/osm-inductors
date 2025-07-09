@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.04166667,
+          -16.39861111
+        ]
+      },
+      "properties": {
+        "label": "Inkachaka Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q1195935",
+        "country_qid": "Q750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.11542,
+          -16.38281
+        ]
+      },
+      "properties": {
+        "label": "Represa de Chacaltaya",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q102391452",
+        "country_qid": "Q750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3301,
+          -17.0968
+        ]
+      },
+      "properties": {
+        "label": "Misicuni Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q6875655",
+        "country_qid": "Q750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.735278,
+          -18.983889
+        ]
+      },
+      "properties": {
+        "label": "Q60825248",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q60825248",
+        "country_qid": "Q750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.956722222,
+          -18.164027777
+        ]
+      },
+      "properties": {
+        "label": "La Tuna Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q109312723",
+        "country_qid": "Q750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.238642495,
+          -16.186923071
+        ]
+      },
+      "properties": {
+        "label": "Condoriri Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q114429609",
+        "country_qid": "Q750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.7,
+          -19.0
+        ]
+      },
+      "properties": {
+        "label": "Tamengo canal",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q2935954",
+        "country_qid": "Q750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.7078,
+          -18.9857
+        ]
+      },
+      "properties": {
+        "label": "Puerto Aguirre",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q9292671",
+        "country_qid": "Q750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.916666666,
+          -17.25
+        ]
+      },
+      "properties": {
+        "label": "Q21807646",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q21807646",
+        "country_qid": "Q750"
+      }
+    }
+  ]
+}

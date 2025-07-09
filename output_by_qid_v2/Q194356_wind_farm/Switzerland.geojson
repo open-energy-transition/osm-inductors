@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0188,
+          47.1833
+        ]
+      },
+      "properties": {
+        "label": "Windkraftwerk Juvent",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q24576041",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.96277778,
+          47.20222222
+        ]
+      },
+      "properties": {
+        "label": "Q27902997",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q27902997",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.374444,
+          46.463056
+        ]
+      },
+      "properties": {
+        "label": "Windpark Gries",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q27131286",
+        "country_qid": "Q39"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.96612,
+          -29.97174
+        ]
+      },
+      "properties": {
+        "label": "Sapref oil refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q131757270",
+        "country_qid": "Q258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.98419,
+          -29.9491
+        ]
+      },
+      "properties": {
+        "label": "Engen refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q121308044",
+        "country_qid": "Q258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.16575,
+          -26.553694444
+        ]
+      },
+      "properties": {
+        "label": "Secunda CTL",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q2369624",
+        "country_qid": "Q258"
+      }
+    }
+  ]
+}

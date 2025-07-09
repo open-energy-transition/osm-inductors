@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.078165,
+          47.853692
+        ]
+      },
+      "properties": {
+        "label": "Q225724",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q225724",
+        "country_qid": "Q212"
+      }
+    }
+  ]
+}

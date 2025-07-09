@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.426388888,
+          6.165
+        ]
+      },
+      "properties": {
+        "label": "Ashama Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q105986034",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.178055555,
+          10.504166666
+        ]
+      },
+      "properties": {
+        "label": "ABIBA Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q113213023",
+        "country_qid": "Q1033"
+      }
+    }
+  ]
+}

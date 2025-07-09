@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.672222222,
+          45.666111111
+        ]
+      },
+      "properties": {
+        "label": "Seuil à Elizabeth",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q22564927",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.07283,
+          50.99866
+        ]
+      },
+      "properties": {
+        "label": "O'Shaughnessy Falls",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q111906842",
+        "country_qid": "Q16"
+      }
+    }
+  ]
+}

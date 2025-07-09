@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.468972,
+          14.230467
+        ]
+      },
+      "properties": {
+        "label": "Guajoyo hydroelectric power station",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q15815535",
+        "country_qid": "Q792"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4144548,
+          58.028867
+        ]
+      },
+      "properties": {
+        "label": "Lairg Dam and Power Station, Shin Hydro Electric Scheme",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q77782006",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

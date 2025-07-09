@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.836381554,
+          50.726245025
+        ]
+      },
+      "properties": {
+        "label": "Trafoturm",
+        "type": "Transformer",
+        "entity": "http://www.wikidata.org/entity/Q118732548",
+        "country_qid": "Q36"
+      }
+    }
+  ]
+}

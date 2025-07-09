@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6948,
+          51.0484
+        ]
+      },
+      "properties": {
+        "label": "Green Turtle",
+        "type": "Battery storage power station",
+        "entity": "http://www.wikidata.org/entity/Q124629755",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7742,
+          51.1236
+        ]
+      },
+      "properties": {
+        "label": "Blue Marlin",
+        "type": "Battery storage power station",
+        "entity": "http://www.wikidata.org/entity/Q124629754",
+        "country_qid": "Q31"
+      }
+    }
+  ]
+}

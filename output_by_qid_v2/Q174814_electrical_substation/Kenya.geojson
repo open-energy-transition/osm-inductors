@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.359722222,
+          -1.062222222
+        ]
+      },
+      "properties": {
+        "label": "Suswa converter station",
+        "type": "Electrical substation",
+        "entity": "http://www.wikidata.org/entity/Q56083697",
+        "country_qid": "Q114"
+      }
+    }
+  ]
+}

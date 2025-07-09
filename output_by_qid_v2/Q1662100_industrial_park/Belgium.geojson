@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.87508392,
+          50.763184
+        ]
+      },
+      "properties": {
+        "label": "Unal",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q1884733",
+        "country_qid": "Q31"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.604167,
+          33.969167
+        ]
+      },
+      "properties": {
+        "label": "Zouk Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q12011275",
+        "country_qid": "Q822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.894167,
+          34.465
+        ]
+      },
+      "properties": {
+        "label": "Deir Ammar Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q17765170",
+        "country_qid": "Q822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.338056,
+          33.496111
+        ]
+      },
+      "properties": {
+        "label": "Zahrani Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q97177456",
+        "country_qid": "Q822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.399722,
+          33.6475
+        ]
+      },
+      "properties": {
+        "label": "Jiyeh Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q97177385",
+        "country_qid": "Q822"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.083333333,
+          18.016666666
+        ]
+      },
+      "properties": {
+        "label": "Coles Bay Oil Terminal",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386669",
+        "country_qid": "Q26273",
+        "Wikidata Qid": "Q111386669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.033333333,
+          18.016666666
+        ]
+      },
+      "properties": {
+        "label": "Q49253105",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q49253105",
+        "country_qid": "Q26273",
+        "Wikidata Qid": "Q49253105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.045972222,
+          18.012
+        ]
+      },
+      "properties": {
+        "label": "Port St. Maarten",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q84708559",
+        "country_qid": "Q26273",
+        "Wikidata Qid": "Q84708559"
+      }
+    }
+  ]
+}

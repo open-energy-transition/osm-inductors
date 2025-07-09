@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.027777777,
+          -21.496944444
+        ]
+      },
+      "properties": {
+        "label": "Erongo Battery Energy Storage System",
+        "type": "Battery storage power station",
+        "entity": "http://www.wikidata.org/entity/Q110933453",
+        "country_qid": "Q1030"
+      }
+    }
+  ]
+}

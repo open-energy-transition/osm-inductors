@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.75416667,
+          -19.58861111
+        ]
+      },
+      "properties": {
+        "label": "National Mint of Bolivia",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q847038",
+        "country_qid": "Q750"
+      }
+    }
+  ]
+}

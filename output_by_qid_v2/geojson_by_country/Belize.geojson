@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.042611111,
+          16.985805555
+        ]
+      },
+      "properties": {
+        "label": "Q61448230",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q61448230",
+        "country_qid": "Q242",
+        "Wikidata Qid": "Q61448230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.73245,
+          17.27695
+        ]
+      },
+      "properties": {
+        "label": "Westlake-Mollejon Line",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q126369961",
+        "country_qid": "Q242",
+        "Wikidata Qid": "Q126369961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.214302,
+          17.510534
+        ]
+      },
+      "properties": {
+        "label": "Travellers Liquors",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q7836061",
+        "country_qid": "Q242",
+        "Wikidata Qid": "Q7836061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.45015,
+          17.38758
+        ]
+      },
+      "properties": {
+        "label": "Rockville Quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21867350",
+        "country_qid": "Q242",
+        "Wikidata Qid": "Q21867350"
+      }
+    }
+  ]
+}

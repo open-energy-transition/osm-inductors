@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.37466,
+          7.5177
+        ]
+      },
+      "properties": {
+        "label": "Mangbeto Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34905537",
+        "country_qid": "Q945"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.623611111,
+          44.036666666
+        ]
+      },
+      "properties": {
+        "label": "Techirghiol TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q7692206",
+        "country_qid": "Q218"
+      }
+    }
+  ]
+}

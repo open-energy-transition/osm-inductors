@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.05854,
+          6.29892
+        ]
+      },
+      "properties": {
+        "label": "Akosombo Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q1282314",
+        "country_qid": "Q117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.125,
+          6.12
+        ]
+      },
+      "properties": {
+        "label": "Kpong Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q6435738",
+        "country_qid": "Q117"
+      }
+    }
+  ]
+}

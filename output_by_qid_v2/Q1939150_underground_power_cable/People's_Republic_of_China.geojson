@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.024,
+          29.9342
+        ]
+      },
+      "properties": {
+        "label": "Zhoushan Island Overhead Powerline Tie",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q1622323",
+        "country_qid": "Q148"
+      }
+    }
+  ]
+}

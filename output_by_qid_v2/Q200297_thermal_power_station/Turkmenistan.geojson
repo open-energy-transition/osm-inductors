@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.32694444,
+          39.51055556
+        ]
+      },
+      "properties": {
+        "label": "Q110259604",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q110259604",
+        "country_qid": "Q874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.384111111,
+          37.8285
+        ]
+      },
+      "properties": {
+        "label": "Ashgabat Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q110259603",
+        "country_qid": "Q874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.16666667,
+          38.05888889
+        ]
+      },
+      "properties": {
+        "label": "Q110259602",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q110259602",
+        "country_qid": "Q874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.846083333,
+          40.011444444
+        ]
+      },
+      "properties": {
+        "label": "Avaza Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q124077554",
+        "country_qid": "Q874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.84361111,
+          37.5
+        ]
+      },
+      "properties": {
+        "label": "Q110259599",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q110259599",
+        "country_qid": "Q874"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.4733,
+          11.57984
+        ]
+      },
+      "properties": {
+        "label": "Armazéns da Casa Gouveia",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q54494442",
+        "country_qid": "Q1007"
+      }
+    }
+  ]
+}

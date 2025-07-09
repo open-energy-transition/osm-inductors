@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.869444444,
+          47.798611111
+        ]
+      },
+      "properties": {
+        "label": "Bălți substation",
+        "type": "Electrical substation",
+        "entity": "http://www.wikidata.org/entity/Q57548806",
+        "country_qid": "Q217"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.711,
+          45.561
+        ]
+      },
+      "properties": {
+        "label": "Swan Island Industrial Park",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q65718353",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.79,
+          38.404166666
+        ]
+      },
+      "properties": {
+        "label": "EastPark, Kentucky",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q5327592",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.185833333,
+          25.9875
+        ]
+      },
+      "properties": {
+        "label": "Starbase",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q16950811",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.899581,
+          40.841211
+        ]
+      },
+      "properties": {
+        "label": "Bathgate Industrial Park",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q29468939",
+        "country_qid": "Q30"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.38647222,
+          43.87247222
+        ]
+      },
+      "properties": {
+        "label": "Hum Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q24970077",
+        "country_qid": "Q225"
+      }
+    }
+  ]
+}

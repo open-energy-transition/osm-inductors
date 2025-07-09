@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.30943097,
+          35.89000179
+        ]
+      },
+      "properties": {
+        "label": "Porto del Rei",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q106615564",
+        "country_qid": "Q200464",
+        "Wikidata Qid": "Q106615564"
+      }
+    }
+  ]
+}

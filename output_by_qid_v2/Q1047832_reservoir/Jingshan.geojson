@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.08305556,
+          31.01972222
+        ]
+      },
+      "properties": {
+        "label": "Huiting Shuiku",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q11073330",
+        "country_qid": "Q1199327"
+      }
+    }
+  ]
+}

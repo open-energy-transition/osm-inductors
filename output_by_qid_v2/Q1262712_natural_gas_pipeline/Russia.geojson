@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.40176667,
+          43.01486111
+        ]
+      },
+      "properties": {
+        "label": "Dzuarikau–Tskhinvali pipeline",
+        "type": "Natural gas pipeline",
+        "entity": "http://www.wikidata.org/entity/Q2043650",
+        "country_qid": "Q159"
+      }
+    }
+  ]
+}

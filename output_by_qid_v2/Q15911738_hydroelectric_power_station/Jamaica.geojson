@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7515,
+          18.137888888
+        ]
+      },
+      "properties": {
+        "label": "Maggoty Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q61448236",
+        "country_qid": "Q766"
+      }
+    }
+  ]
+}

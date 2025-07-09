@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9399731,
+          -2.6670832
+        ]
+      },
+      "properties": {
+        "label": "Gishoma Thermal Power Station",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q25221452",
+        "country_qid": "Q1037"
+      }
+    }
+  ]
+}

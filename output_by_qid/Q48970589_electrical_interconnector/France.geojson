@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5563,
+          51.0658
+        ]
+      },
+      "properties": {
+        "label": "HVDC Cross-Channel",
+        "type": "electrical interconnector",
+        "entity": "http://www.wikidata.org/entity/Q1563624",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.515,
+          50.088
+        ]
+      },
+      "properties": {
+        "label": "IFA-2",
+        "type": "electrical interconnector",
+        "entity": "http://www.wikidata.org/entity/Q28231939",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4967,
+          51.0147
+        ]
+      },
+      "properties": {
+        "label": "ElecLink",
+        "type": "electrical interconnector",
+        "entity": "http://www.wikidata.org/entity/Q85932728",
+        "country_qid": "Q142"
+      }
+    }
+  ]
+}

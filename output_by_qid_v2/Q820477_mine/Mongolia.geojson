@@ -1,0 +1,517 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2375,
+          49.2264
+        ]
+      },
+      "properties": {
+        "label": "Ulaan-Uul mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16969190",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.028056,
+          47.386667
+        ]
+      },
+      "properties": {
+        "label": "Chandgana coal mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16257662",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.833,
+          46.9667
+        ]
+      },
+      "properties": {
+        "label": "Khuut coal mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16976275",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.63388889,
+          48.63583333
+        ]
+      },
+      "properties": {
+        "label": "Gatsuurt Gold Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q5527496",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.16944444,
+          48.74583333
+        ]
+      },
+      "properties": {
+        "label": "Boroo Gold Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q1535942",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.872,
+          45.5778
+        ]
+      },
+      "properties": {
+        "label": "Ovdog Hudag coal mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16977117",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.700833333,
+          46.738611111
+        ]
+      },
+      "properties": {
+        "label": "Bürentsogt Tungsten Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q5005303",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.84333333,
+          43.00861111
+        ]
+      },
+      "properties": {
+        "label": "Oyu Tolgoi mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q1059067",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.974,
+          50.3178
+        ]
+      },
+      "properties": {
+        "label": "Ulaan Ovoo coal mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16969156",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.336,
+          43.8611
+        ]
+      },
+      "properties": {
+        "label": "Tsagaan Suvarga mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16966164",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.872222,
+          45.577778
+        ]
+      },
+      "properties": {
+        "label": "Uvdug Khudag coal mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16977271",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8897,
+          49.8533
+        ]
+      },
+      "properties": {
+        "label": "Nuurst Khotgor coal mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16977369",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.993055555,
+          46.118333333
+        ]
+      },
+      "properties": {
+        "label": "Eldev Coal Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q5353999",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.096388888,
+          46.924166666
+        ]
+      },
+      "properties": {
+        "label": "Tugrugnuur coal mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16977025",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.3056,
+          46.8033
+        ]
+      },
+      "properties": {
+        "label": "Khushuut coal mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16969099",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.04444444,
+          49.02777778
+        ]
+      },
+      "properties": {
+        "label": "Erdenet Mining Corporation",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q933606",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.467,
+          50.1167
+        ]
+      },
+      "properties": {
+        "label": "Tavt mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16964450",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.474166666,
+          43.625
+        ]
+      },
+      "properties": {
+        "label": "Tavan Tolgoi",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q1139934",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.326388888,
+          46.7825
+        ]
+      },
+      "properties": {
+        "label": "Tömörtiin Ovoo Zinc Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q7862338",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.6172,
+          45.545
+        ]
+      },
+      "properties": {
+        "label": "Tayan Nuur mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q7689751",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.044444,
+          49.027778
+        ]
+      },
+      "properties": {
+        "label": "Erdenet mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16963650",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.129,
+          45.9953
+        ]
+      },
+      "properties": {
+        "label": "Tevshiin Govi coal mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16977398",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.916666666,
+          48.533333333
+        ]
+      },
+      "properties": {
+        "label": "Neprimetnyi pegmatite",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27489429",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.537,
+          48.125
+        ]
+      },
+      "properties": {
+        "label": "Aduunchuluun coal mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16001894",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.260556,
+          43.002222
+        ]
+      },
+      "properties": {
+        "label": "Ovoot Tolgoi coal mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16979515",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.25,
+          47.5889
+        ]
+      },
+      "properties": {
+        "label": "Tamirgol mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16965146",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3667,
+          48.3
+        ]
+      },
+      "properties": {
+        "label": "Khukh-Adar mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16965461",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.9,
+          47.1167
+        ]
+      },
+      "properties": {
+        "label": "Tsaidam Lake coal mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16977195",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.26055556,
+          43.00222222
+        ]
+      },
+      "properties": {
+        "label": "Nariin Sukhait Coal Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q6965922",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.83694444,
+          48.72416667
+        ]
+      },
+      "properties": {
+        "label": "Khovd Gol Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q25048974",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.293388888,
+          47.755333333
+        ]
+      },
+      "properties": {
+        "label": "Nalaikh Coal Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q123460854",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.419,
+          48.805
+        ]
+      },
+      "properties": {
+        "label": "Saikhan-Ovoo coal mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16977167",
+        "country_qid": "Q711"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.023611111,
+          4.170972222
+        ]
+      },
+      "properties": {
+        "label": "Kikot Hydroelectric Power Station",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q123058670",
+        "country_qid": "Q1009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1280135,
+          3.812917
+        ]
+      },
+      "properties": {
+        "label": "Edea Hydroelectric Power Station",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q5336726",
+        "country_qid": "Q1009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6894039,
+          9.0604553
+        ]
+      },
+      "properties": {
+        "label": "Q11982932",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q11982932",
+        "country_qid": "Q1009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.465083333,
+          4.078111111
+        ]
+      },
+      "properties": {
+        "label": "Song Loulou Hydroelectric Power Station",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q7561017",
+        "country_qid": "Q1009"
+      }
+    }
+  ]
+}

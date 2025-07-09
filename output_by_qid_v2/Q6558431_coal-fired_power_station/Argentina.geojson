@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2312,
+          -51.5464
+        ]
+      },
+      "properties": {
+        "label": "Río Turbio power plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q19387191",
+        "country_qid": "Q414"
+      }
+    }
+  ]
+}

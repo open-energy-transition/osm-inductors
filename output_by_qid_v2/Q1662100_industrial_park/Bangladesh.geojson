@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.514594,
+          23.728398
+        ]
+      },
+      "properties": {
+        "label": "BSCIC Jamdani Village",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q117791880",
+        "country_qid": "Q902"
+      }
+    }
+  ]
+}

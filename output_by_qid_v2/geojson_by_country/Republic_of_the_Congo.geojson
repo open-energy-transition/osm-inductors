@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9154561,
+          -4.8901778
+        ]
+      },
+      "properties": {
+        "label": "Q99439481",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q99439481",
+        "country_qid": "Q971",
+        "Wikidata Qid": "Q99439481"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.178333333,
+          1.435277777
+        ]
+      },
+      "properties": {
+        "label": "Liouesso Hydroelectric Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q112317373",
+        "country_qid": "Q971",
+        "Wikidata Qid": "Q112317373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2065425,
+          -4.301868
+        ]
+      },
+      "properties": {
+        "label": "Djoue hydro power plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q22399693",
+        "country_qid": "Q971",
+        "Wikidata Qid": "Q22399693"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.936194444,
+          -4.915388888
+        ]
+      },
+      "properties": {
+        "label": "Q56371886",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q56371886",
+        "country_qid": "Q971",
+        "Wikidata Qid": "Q56371886"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0370457,
+          -2.936521
+        ]
+      },
+      "properties": {
+        "label": "Imboulou Dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q2885029",
+        "country_qid": "Q971",
+        "Wikidata Qid": "Q2885029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7655339,
+          -3.9011895
+        ]
+      },
+      "properties": {
+        "label": "Barrage de Moukoukoulo",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q2885233",
+        "country_qid": "Q971",
+        "Wikidata Qid": "Q2885233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.362777777,
+          -4.2425
+        ]
+      },
+      "properties": {
+        "label": "Q30744074",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q30744074",
+        "country_qid": "Q971",
+        "Wikidata Qid": "Q30744074"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.147222222,
+          -4.373888888
+        ]
+      },
+      "properties": {
+        "label": "Mpassa-Mines",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q22561642",
+        "country_qid": "Q971",
+        "Wikidata Qid": "Q22561642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.475,
+          -1.978611111
+        ]
+      },
+      "properties": {
+        "label": "Mine d‘or de la Nyanga",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q22517380",
+        "country_qid": "Q971",
+        "Wikidata Qid": "Q22517380"
+      }
+    }
+  ]
+}

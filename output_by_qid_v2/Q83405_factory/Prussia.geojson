@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.466666666,
+          53.65
+        ]
+      },
+      "properties": {
+        "label": "Glashütte Gelguhnen",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q56682440",
+        "country_qid": "Q38872"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.201666666,
+          14.903611111
+        ]
+      },
+      "properties": {
+        "label": "Savannah Tarka Wind Power Station",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q111943578",
+        "country_qid": "Q1032"
+      }
+    }
+  ]
+}

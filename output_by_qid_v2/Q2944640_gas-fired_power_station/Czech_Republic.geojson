@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.986666666,
+          50.645
+        ]
+      },
+      "properties": {
+        "label": "Trmice Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q12007471",
+        "country_qid": "Q213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2093,
+          50.029991666
+        ]
+      },
+      "properties": {
+        "label": "Kolín Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q104535226",
+        "country_qid": "Q213"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.161111111,
+          46.083055555
+        ]
+      },
+      "properties": {
+        "label": "Žirovski Vrh Uranium Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q118525607",
+        "country_qid": "Q83286",
+        "Wikidata Qid": "Q118525607"
+      }
+    }
+  ]
+}

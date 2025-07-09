@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.701944444,
+          19.273333333
+        ]
+      },
+      "properties": {
+        "label": "Embalse Tavera",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23760008",
+        "country_qid": "Q786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.754722222,
+          19.297222222
+        ]
+      },
+      "properties": {
+        "label": "Embalse de Bao",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23778961",
+        "country_qid": "Q786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.25654,
+          18.41146
+        ]
+      },
+      "properties": {
+        "label": "Valdisia Resevoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23779692",
+        "country_qid": "Q786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.416388888,
+          19.074722222
+        ]
+      },
+      "properties": {
+        "label": "Embalse de Rincón",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q23763426",
+        "country_qid": "Q786"
+      }
+    }
+  ]
+}

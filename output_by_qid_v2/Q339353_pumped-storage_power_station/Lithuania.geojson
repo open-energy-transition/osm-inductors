@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.26416667,
+          54.799
+        ]
+      },
+      "properties": {
+        "label": "Kruonis Pumped Storage Plant",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q1580291",
+        "country_qid": "Q37"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.65205278,
+          42.94031111
+        ]
+      },
+      "properties": {
+        "label": "Gazivoda Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q17076027",
+        "country_qid": "Q1246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.21118,
+          42.94753
+        ]
+      },
+      "properties": {
+        "label": "Q27345779",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q27345779",
+        "country_qid": "Q1246"
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6148,
+          55.5117
+        ]
+      },
+      "properties": {
+        "label": "Skærbæk Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q12001324",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5881,
+          55.7133
+        ]
+      },
+      "properties": {
+        "label": "Svanemølle Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3432599",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55696389,
+          55.65685278
+        ]
+      },
+      "properties": {
+        "label": "H. C. Ørsted Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3432898",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5587362,
+          56.2006744
+        ]
+      },
+      "properties": {
+        "label": "Silkeborg power station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q106094691",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4148,
+          56.4738
+        ]
+      },
+      "properties": {
+        "label": "Viborg Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7924621",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47925,
+          55.602761
+        ]
+      },
+      "properties": {
+        "label": "Avedøre Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3432240",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.88,
+          55.8123
+        ]
+      },
+      "properties": {
+        "label": "Kyndby power station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11982744",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3112,
+          55.9075
+        ]
+      },
+      "properties": {
+        "label": "Q11975375",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11975375",
+        "country_qid": "Q35"
+      }
+    }
+  ]
+}

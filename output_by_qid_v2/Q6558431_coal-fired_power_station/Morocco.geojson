@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2805,
+          32.148138888
+        ]
+      },
+      "properties": {
+        "label": "Safi Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q18214312",
+        "country_qid": "Q1028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.636694444,
+          33.104805555
+        ]
+      },
+      "properties": {
+        "label": "Jorf Lasfar Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q20828761",
+        "country_qid": "Q1028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.433805555,
+          33.682
+        ]
+      },
+      "properties": {
+        "label": "Mohammedia Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11989768",
+        "country_qid": "Q1028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.190805555,
+          34.309611111
+        ]
+      },
+      "properties": {
+        "label": "Jerada Thermal Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11978473",
+        "country_qid": "Q1028"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7639,
+          -36.85414
+        ]
+      },
+      "properties": {
+        "label": "Mayoral Drive Exchange",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q111679093",
+        "country_qid": "Q664"
+      }
+    }
+  ]
+}

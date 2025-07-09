@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.008,
+          45.9089
+        ]
+      },
+      "properties": {
+        "label": "Grangeville Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q122349789",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.491111111,
+          35.083055555
+        ]
+      },
+      "properties": {
+        "label": "Ocoee Dam No. 2",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q7076590",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.869501785,
+          40.992897578
+        ]
+      },
+      "properties": {
+        "label": "Pit 5 Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q54958935",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.863888888,
+          30.708611111
+        ]
+      },
+      "properties": {
+        "label": "Jim Woodruff Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q2884964",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9584,
+          35.4349
+        ]
+      },
+      "properties": {
+        "label": "Cowans Ford Hydroelectric Station",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q5179465",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.004,
+          36.4169
+        ]
+      },
+      "properties": {
+        "label": "Terminus Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q7702863",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.0,
+          65.35
+        ]
+      },
+      "properties": {
+        "label": "Rampart Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q3418573",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.356944444,
+          47.593888888
+        ]
+      },
+      "properties": {
+        "label": "Thompson Falls Hydroelectric Dam Historic District",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q39050134",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.721111111,
+          44.464444444
+        ]
+      },
+      "properties": {
+        "label": "Loud Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q33131181",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6442,
+          42.2655
+        ]
+      },
+      "properties": {
+        "label": "Superior Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q96406823",
+        "country_qid": "Q30"
+      }
+    }
+  ]
+}

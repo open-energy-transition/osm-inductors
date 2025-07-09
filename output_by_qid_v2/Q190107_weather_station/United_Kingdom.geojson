@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.496194444,
+          -54.283763888
+        ]
+      },
+      "properties": {
+        "label": "Argentine Meteorological station in Grytviken",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q17416503",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.003416666,
+          56.796416666
+        ]
+      },
+      "properties": {
+        "label": "Ben Nevis Observatory",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q108783706",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.623,
+          55.407
+        ]
+      },
+      "properties": {
+        "label": "RAF Boulmer",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q7275191",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.892,
+          52.303
+        ]
+      },
+      "properties": {
+        "label": "Pitsford Hall weather station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q7199045",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.12,
+          52.7
+        ]
+      },
+      "properties": {
+        "label": "Penkridge weather station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q7163073",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.58575,
+          51.91111
+        ]
+      },
+      "properties": {
+        "label": "Ross-on-Wye weather station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q48814660",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.095833333,
+          49.463333333
+        ]
+      },
+      "properties": {
+        "label": "Dudelange Radio Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q250541",
+        "country_qid": "Q32"
+      }
+    }
+  ]
+}

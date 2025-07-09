@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.541111111,
+          7.578333333
+        ]
+      },
+      "properties": {
+        "label": "Kahatagaha Graphite Mines",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27445170",
+        "country_qid": "Q854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.31,
+          7.115833333
+        ]
+      },
+      "properties": {
+        "label": "Bogala Graphite Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q106130215",
+        "country_qid": "Q854"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.32694444,
+          43.33397222
+        ]
+      },
+      "properties": {
+        "label": "Pljevlja Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7205045",
+        "country_qid": "Q236"
+      }
+    }
+  ]
+}

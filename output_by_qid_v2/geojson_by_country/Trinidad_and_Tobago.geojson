@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.666666666,
+          11.227777777
+        ]
+      },
+      "properties": {
+        "label": "Hillsborough Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q5763721",
+        "country_qid": "Q754",
+        "Wikidata Qid": "Q5763721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.183333333,
+          10.7
+        ]
+      },
+      "properties": {
+        "label": "Hollis Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q7346437",
+        "country_qid": "Q754",
+        "Wikidata Qid": "Q7346437"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4744027,
+          10.6493863
+        ]
+      },
+      "properties": {
+        "label": "House of Angostura",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q5914657",
+        "country_qid": "Q754",
+        "Wikidata Qid": "Q5914657"
+      }
+    }
+  ]
+}

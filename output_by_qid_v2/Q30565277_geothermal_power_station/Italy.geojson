@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.884598,
+          43.231888
+        ]
+      },
+      "properties": {
+        "label": "Larderello geothermal power plant",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q100705202",
+        "country_qid": "Q38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.558572546,
+          42.841802636
+        ]
+      },
+      "properties": {
+        "label": "Bagnore 3",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q107636622",
+        "country_qid": "Q38"
+      }
+    }
+  ]
+}

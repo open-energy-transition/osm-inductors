@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6365,
+          -32.2218
+        ]
+      },
+      "properties": {
+        "label": "Rio Grande Hydroelectric Complex",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q8348759",
+        "country_qid": "Q414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.64168,
+          -34.60193
+        ]
+      },
+      "properties": {
+        "label": "Los Reyunos Dam",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q9068117",
+        "country_qid": "Q414"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.365633215,
+          -7.933185092
+        ]
+      },
+      "properties": {
+        "label": "Bendung Tegal",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q116142286",
+        "country_qid": "Q252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.675833333,
+          -7.581666666
+        ]
+      },
+      "properties": {
+        "label": "Bendung Kaligending",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q25118638",
+        "country_qid": "Q252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.0235655,
+          -7.7644972
+        ]
+      },
+      "properties": {
+        "label": "Waru Turi weir",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q104570963",
+        "country_qid": "Q252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.696347344,
+          -7.684482636
+        ]
+      },
+      "properties": {
+        "label": "Dam Pesucen",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q25115836",
+        "country_qid": "Q252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83705,
+          -6.63336
+        ]
+      },
+      "properties": {
+        "label": "Katulampa floodgate",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q12475712",
+        "country_qid": "Q252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.676829278,
+          -3.688006334
+        ]
+      },
+      "properties": {
+        "label": "Benteng weir",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q109404571",
+        "country_qid": "Q252"
+      }
+    }
+  ]
+}

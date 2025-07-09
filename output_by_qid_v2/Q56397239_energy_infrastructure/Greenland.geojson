@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.237777777,
+          64.105
+        ]
+      },
+      "properties": {
+        "label": "Ameralik Span",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q4742455",
+        "country_qid": "Q223"
+      }
+    }
+  ]
+}

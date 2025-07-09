@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.362,
+          49.4934
+        ]
+      },
+      "properties": {
+        "label": "Remerschen nuclear power station",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q13101619",
+        "country_qid": "Q32"
+      }
+    }
+  ]
+}

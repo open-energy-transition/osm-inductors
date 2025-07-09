@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3513,
+          -3.372177
+        ]
+      },
+      "properties": {
+        "label": "Bujumbura Thermal Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q130349024",
+        "country_qid": "Q967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.351183,
+          -3.371464
+        ]
+      },
+      "properties": {
+        "label": "Interpetrol Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q130348990",
+        "country_qid": "Q967"
+      }
+    }
+  ]
+}

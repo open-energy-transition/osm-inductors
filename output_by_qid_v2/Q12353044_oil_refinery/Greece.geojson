@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5984,
+          38.0323
+        ]
+      },
+      "properties": {
+        "label": "Aspropyrgos Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q4034479",
+        "country_qid": "Q41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0707,
+          37.9222
+        ]
+      },
+      "properties": {
+        "label": "Corinth Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q5170669",
+        "country_qid": "Q41"
+      }
+    }
+  ]
+}

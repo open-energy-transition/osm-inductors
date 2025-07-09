@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.67154,
+          16.49261
+        ]
+      },
+      "properties": {
+        "label": "Autonagar",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q22906581",
+        "country_qid": "Q668"
+      }
+    }
+  ]
+}

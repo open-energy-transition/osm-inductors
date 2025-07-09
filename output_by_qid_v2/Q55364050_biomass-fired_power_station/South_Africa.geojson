@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.664722222,
+          -25.575555555
+        ]
+      },
+      "properties": {
+        "label": "Ngodwana Biomass Power Station",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q107241996",
+        "country_qid": "Q258"
+      }
+    }
+  ]
+}

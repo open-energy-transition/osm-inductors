@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.912,
+          18.8824
+        ]
+      },
+      "properties": {
+        "label": "Phu Kham mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q15283842",
+        "country_qid": "Q819"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.526,
+          17.9528
+        ]
+      },
+      "properties": {
+        "label": "Nong Xun mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16965894",
+        "country_qid": "Q819"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.999,
+          16.9603
+        ]
+      },
+      "properties": {
+        "label": "Sepon mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q15283846",
+        "country_qid": "Q819"
+      }
+    }
+  ]
+}

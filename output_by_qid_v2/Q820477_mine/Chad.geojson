@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.99,
+          23.44
+        ]
+      },
+      "properties": {
+        "label": "Kouri Bougoudi gold mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q134596692",
+        "country_qid": "Q657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5689,
+          10.1723
+        ]
+      },
+      "properties": {
+        "label": "Tele-Nugar Iron Mines",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q7695700",
+        "country_qid": "Q657"
+      }
+    }
+  ]
+}

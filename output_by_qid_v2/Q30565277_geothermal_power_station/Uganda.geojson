@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.16694444,
+          0.83305556
+        ]
+      },
+      "properties": {
+        "label": "Buranga Geothermal Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q25226994",
+        "country_qid": "Q1036"
+      }
+    }
+  ]
+}

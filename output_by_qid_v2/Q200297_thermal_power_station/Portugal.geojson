@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.460406,
+          41.067704
+        ]
+      },
+      "properties": {
+        "label": "Tapada do Outeiro",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q19391970",
+        "country_qid": "Q45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.491018,
+          37.778989
+        ]
+      },
+      "properties": {
+        "label": "Campo Geotérmico da Ribeira Grande",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q105725776",
+        "country_qid": "Q45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.194977,
+          38.695823
+        ]
+      },
+      "properties": {
+        "label": "Tejo Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q968458",
+        "country_qid": "Q45"
+      }
+    }
+  ]
+}

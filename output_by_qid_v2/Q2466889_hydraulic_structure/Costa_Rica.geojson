@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.58021944,
+          10.06556944
+        ]
+      },
+      "properties": {
+        "label": "Reventazón Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q21159726",
+        "country_qid": "Q800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.29555556,
+          9.08222222
+        ]
+      },
+      "properties": {
+        "label": "El Diquís Hydroelectric Project",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q939077",
+        "country_qid": "Q800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.716666666,
+          9.943333333
+        ]
+      },
+      "properties": {
+        "label": "Caldera",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q1026433",
+        "country_qid": "Q800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.804058333,
+          9.840136111
+        ]
+      },
+      "properties": {
+        "label": "Cachí Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q110684438",
+        "country_qid": "Q800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.71814,
+          9.912799
+        ]
+      },
+      "properties": {
+        "label": "Puerto Caldera",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q105967064",
+        "country_qid": "Q800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.036231,
+          9.995647
+        ]
+      },
+      "properties": {
+        "label": "Puerto Limon",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111386657",
+        "country_qid": "Q800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35825,
+          10.28748
+        ]
+      },
+      "properties": {
+        "label": "Puerto de Carño Blanco",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q23747044",
+        "country_qid": "Q800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.761,
+          10.475
+        ]
+      },
+      "properties": {
+        "label": "Presa Sangregado Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q7240706",
+        "country_qid": "Q800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.396944444,
+          9.508055555
+        ]
+      },
+      "properties": {
+        "label": "Canal F",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q23741789",
+        "country_qid": "Q800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.17015171,
+          8.636369
+        ]
+      },
+      "properties": {
+        "label": "Golfito",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q111387031",
+        "country_qid": "Q800"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.604000775,
+          -3.83438931
+        ]
+      },
+      "properties": {
+        "label": "Fruta del Norte mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16971533",
+        "country_qid": "Q736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78638889,
+          -4.07055556
+        ]
+      },
+      "properties": {
+        "label": "Q5856049",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q5856049",
+        "country_qid": "Q736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.947777777,
+          -4.072222222
+        ]
+      },
+      "properties": {
+        "label": "Lastre",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q23886169",
+        "country_qid": "Q736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.435555555,
+          -3.578055555
+        ]
+      },
+      "properties": {
+        "label": "Mirador mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16966020",
+        "country_qid": "Q736"
+      }
+    }
+  ]
+}

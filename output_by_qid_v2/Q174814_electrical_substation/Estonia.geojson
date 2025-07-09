@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.041111111,
+          59.360555555
+        ]
+      },
+      "properties": {
+        "label": "Aruküla substation",
+        "type": "Electrical substation",
+        "entity": "http://www.wikidata.org/entity/Q52489842",
+        "country_qid": "Q191"
+      }
+    }
+  ]
+}

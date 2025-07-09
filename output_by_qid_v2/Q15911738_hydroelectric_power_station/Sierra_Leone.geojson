@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.7229,
+          9.07149
+        ]
+      },
+      "properties": {
+        "label": "Bumbuna Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q16828547",
+        "country_qid": "Q1044"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5288889,
+          50.6577778
+        ]
+      },
+      "properties": {
+        "label": "Évacuateur de Manouane",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q115066830",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7625,
+          46.530278
+        ]
+      },
+      "properties": {
+        "label": "Trou du Diable",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q115109528",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44091,
+          53.7972
+        ]
+      },
+      "properties": {
+        "label": "Robert-Bourassa spillway",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q22444757",
+        "country_qid": "Q16"
+      }
+    }
+  ]
+}

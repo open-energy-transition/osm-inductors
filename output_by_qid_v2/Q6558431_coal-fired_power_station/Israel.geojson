@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.886111,
+          32.466667
+        ]
+      },
+      "properties": {
+        "label": "Orot Rabin",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1931760",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.51611111,
+          31.6275
+        ]
+      },
+      "properties": {
+        "label": "Rutenberg",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q2904076",
+        "country_qid": "Q801"
+      }
+    }
+  ]
+}

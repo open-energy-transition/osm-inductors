@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.4442,
+          48.0181
+        ]
+      },
+      "properties": {
+        "label": "Eel River Converter Station",
+        "type": "HVDC back-to-back station",
+        "entity": "http://www.wikidata.org/entity/Q5347061",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5236,
+          47.5086
+        ]
+      },
+      "properties": {
+        "label": "Madawaska HVDC",
+        "type": "HVDC back-to-back station",
+        "entity": "http://www.wikidata.org/entity/Q14875550",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.446312,
+          45.600152
+        ]
+      },
+      "properties": {
+        "label": "Outaouais HVDC back-to-back station",
+        "type": "HVDC back-to-back station",
+        "entity": "http://www.wikidata.org/entity/Q113939125",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.024,
+          50.5989
+        ]
+      },
+      "properties": {
+        "label": "McNeill HVDC Back-to-back station",
+        "type": "HVDC back-to-back station",
+        "entity": "http://www.wikidata.org/entity/Q6802531",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8694,
+          45.2531
+        ]
+      },
+      "properties": {
+        "label": "Châteauguay HVDC-back-to-back station",
+        "type": "HVDC back-to-back station",
+        "entity": "http://www.wikidata.org/entity/Q1090757",
+        "country_qid": "Q16"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.26238889,
+          48.74781389
+        ]
+      },
+      "properties": {
+        "label": "Luhansk power station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3443758",
+        "country_qid": "Q15180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.051944444,
+          50.046666666
+        ]
+      },
+      "properties": {
+        "label": "Qarağandı 2 CHP station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q16432066",
+        "country_qid": "Q15180"
+      }
+    }
+  ]
+}

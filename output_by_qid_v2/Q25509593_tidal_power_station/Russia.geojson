@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.959336,
+          69.186745
+        ]
+      },
+      "properties": {
+        "label": "Q4412067",
+        "type": "Tidal power station",
+        "entity": "http://www.wikidata.org/entity/Q4412067",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.0,
+          61.0
+        ]
+      },
+      "properties": {
+        "label": "Penzhin Tidal Power Plant Project",
+        "type": "Tidal power station",
+        "entity": "http://www.wikidata.org/entity/Q4348447",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.075628,
+          69.377471
+        ]
+      },
+      "properties": {
+        "label": "Kislaya Guba Tidal Power Station",
+        "type": "Tidal power station",
+        "entity": "http://www.wikidata.org/entity/Q1521166",
+        "country_qid": "Q159"
+      }
+    }
+  ]
+}

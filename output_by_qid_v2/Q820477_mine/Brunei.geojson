@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.05,
+          5.03333
+        ]
+      },
+      "properties": {
+        "label": "Brooketon Colliery",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q169700",
+        "country_qid": "Q921"
+      }
+    }
+  ]
+}

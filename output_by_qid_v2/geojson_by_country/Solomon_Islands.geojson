@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.027277777,
+          -9.434944444
+        ]
+      },
+      "properties": {
+        "label": "Lungga Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q123509316",
+        "country_qid": "Q685",
+        "Wikidata Qid": "Q123509316"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.084305555,
+          -9.5435
+        ]
+      },
+      "properties": {
+        "label": "Q61448259",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q61448259",
+        "country_qid": "Q685",
+        "Wikidata Qid": "Q61448259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.13333333,
+          -9.6
+        ]
+      },
+      "properties": {
+        "label": "Gold Ridge",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q5578832",
+        "country_qid": "Q685",
+        "Wikidata Qid": "Q5578832"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.45,
+          -7.633333333
+        ]
+      },
+      "properties": {
+        "label": "Choiseul mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16258188",
+        "country_qid": "Q685",
+        "Wikidata Qid": "Q16258188"
+      }
+    }
+  ]
+}

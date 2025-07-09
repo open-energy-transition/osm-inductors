@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.51111111,
+          59.27555556
+        ]
+      },
+      "properties": {
+        "label": "Kårstø Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q6453647",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.03694444,
+          60.80888889
+        ]
+      },
+      "properties": {
+        "label": "Mongstad Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q6899813",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6578,
+          63.4097
+        ]
+      },
+      "properties": {
+        "label": "Tjeldbergodden Reserve Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7810606",
+        "country_qid": "Q20"
+      }
+    }
+  ]
+}

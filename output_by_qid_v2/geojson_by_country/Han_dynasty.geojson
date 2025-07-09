@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.348888888,
+          30.721666666
+        ]
+      },
+      "properties": {
+        "label": "Hanjin",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q109412946",
+        "country_qid": "Q7209",
+        "Wikidata Qid": "Q109412946"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.181471,
+          56.933098
+        ]
+      },
+      "properties": {
+        "label": "Augstsprieguma tīkls",
+        "type": "transmission system operator (TSO)",
+        "entity": "http://www.wikidata.org/entity/Q16822050",
+        "country_qid": "Q211"
+      }
+    }
+  ]
+}

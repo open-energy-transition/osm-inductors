@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.716667,
+          51.44
+        ]
+      },
+      "properties": {
+        "label": "BritNed",
+        "type": "high-voltage direct current power line",
+        "entity": "http://www.wikidata.org/entity/Q918000",
+        "country_qid": "Q55"
+      }
+    }
+  ]
+}

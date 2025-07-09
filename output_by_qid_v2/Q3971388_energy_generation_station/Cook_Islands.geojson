@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.800097222,
+          -21.201177777
+        ]
+      },
+      "properties": {
+        "label": "Te Mana O Te Ra solar farm",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q97474480",
+        "country_qid": "Q26988"
+      }
+    }
+  ]
+}

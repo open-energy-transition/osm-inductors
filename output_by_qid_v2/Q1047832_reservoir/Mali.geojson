@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.344,
+          13.158
+        ]
+      },
+      "properties": {
+        "label": "Lake Manantali",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3658491",
+        "country_qid": "Q912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.233333333,
+          11.616666666
+        ]
+      },
+      "properties": {
+        "label": "Lake Sélingué",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2723824",
+        "country_qid": "Q912"
+      }
+    }
+  ]
+}

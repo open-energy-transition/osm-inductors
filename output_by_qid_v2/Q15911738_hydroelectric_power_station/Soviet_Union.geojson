@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.16667,
+          54.53333
+        ]
+      },
+      "properties": {
+        "label": "Q48941890",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q48941890",
+        "country_qid": "Q15180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.07083333,
+          50.4
+        ]
+      },
+      "properties": {
+        "label": "Shulbinsk Hydroelectric Power Plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q4527522",
+        "country_qid": "Q15180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.7183,
+          49.8997
+        ]
+      },
+      "properties": {
+        "label": "Ust-Kamenogorsk Hydroelectric Power Plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q3433599",
+        "country_qid": "Q15180"
+      }
+    }
+  ]
+}

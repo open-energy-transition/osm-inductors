@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.505570545,
+          46.04360555
+        ]
+      },
+      "properties": {
+        "label": "Q60357063",
+        "type": "Electrical substation",
+        "entity": "http://www.wikidata.org/entity/Q60357063",
+        "country_qid": "Q215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.523995002,
+          46.048737666
+        ]
+      },
+      "properties": {
+        "label": "Q60357048",
+        "type": "Electrical substation",
+        "entity": "http://www.wikidata.org/entity/Q60357048",
+        "country_qid": "Q215"
+      }
+    }
+  ]
+}

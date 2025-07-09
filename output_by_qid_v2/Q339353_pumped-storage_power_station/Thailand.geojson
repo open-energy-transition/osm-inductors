@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5452844,
+          14.8074236
+        ]
+      },
+      "properties": {
+        "label": "Lamtakong Jolabha Vadhana Power Plant",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q109673479",
+        "country_qid": "Q869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.128333333,
+          14.409444444
+        ]
+      },
+      "properties": {
+        "label": "Srinagarind Dam",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q638635",
+        "country_qid": "Q869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.972222222,
+          17.242777777
+        ]
+      },
+      "properties": {
+        "label": "Bhumibol Dam",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q855098",
+        "country_qid": "Q869"
+      }
+    }
+  ]
+}

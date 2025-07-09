@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.716666666,
+          53.306388888
+        ]
+      },
+      "properties": {
+        "label": "Morlais",
+        "type": "Tidal power station",
+        "entity": "http://www.wikidata.org/entity/Q124296504",
+        "country_qid": "Q25"
+      }
+    }
+  ]
+}

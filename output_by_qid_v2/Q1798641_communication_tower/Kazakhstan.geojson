@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.974224,
+          52.29173
+        ]
+      },
+      "properties": {
+        "label": "Pavlodar TV tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q44585528",
+        "country_qid": "Q232"
+      }
+    }
+  ]
+}

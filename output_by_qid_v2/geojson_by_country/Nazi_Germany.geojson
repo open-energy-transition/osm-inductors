@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.23088889,
+          53.42592611
+        ]
+      },
+      "properties": {
+        "label": "Q13583396",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q13583396",
+        "country_qid": "Q7318",
+        "Wikidata Qid": "Q13583396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9280671,
+          52.2852593
+        ]
+      },
+      "properties": {
+        "label": "Heeresmunitionsanstalt Sehnde",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q125317026",
+        "country_qid": "Q7318",
+        "Wikidata Qid": "Q125317026"
+      }
+    }
+  ]
+}

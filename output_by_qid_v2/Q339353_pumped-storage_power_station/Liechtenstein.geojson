@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.524777777,
+          47.130194444
+        ]
+      },
+      "properties": {
+        "label": "Samina Kraftwerk",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q20830816",
+        "country_qid": "Q347"
+      }
+    }
+  ]
+}

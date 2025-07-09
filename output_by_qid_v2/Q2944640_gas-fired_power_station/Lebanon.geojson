@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.894167,
+          34.465
+        ]
+      },
+      "properties": {
+        "label": "Deir Ammar Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q17765170",
+        "country_qid": "Q822"
+      }
+    }
+  ]
+}

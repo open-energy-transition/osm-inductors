@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.97,
+          5.205
+        ]
+      },
+      "properties": {
+        "label": "Itu nuclear power plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q48795688",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.69,
+          7.57
+        ]
+      },
+      "properties": {
+        "label": "Geregu nuclear power plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q48795655",
+        "country_qid": "Q1033"
+      }
+    }
+  ]
+}

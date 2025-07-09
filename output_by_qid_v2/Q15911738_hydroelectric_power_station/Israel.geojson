@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.56855556,
+          32.63336111
+        ]
+      },
+      "properties": {
+        "label": "Q97178216",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q97178216",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.450762471,
+          32.46998976
+        ]
+      },
+      "properties": {
+        "label": "Q20502942",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q20502942",
+        "country_qid": "Q801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.517283,
+          32.601733
+        ]
+      },
+      "properties": {
+        "label": "Kokhav Hayarden Pumped Storage Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q116980507",
+        "country_qid": "Q801"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.74174,
+          -43.62454
+        ]
+      },
+      "properties": {
+        "label": "Stoddart Weirs",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q98989416",
+        "country_qid": "Q664"
+      }
+    }
+  ]
+}

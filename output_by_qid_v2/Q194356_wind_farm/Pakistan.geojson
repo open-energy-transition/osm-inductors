@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.47,
+          24.65833333
+        ]
+      },
+      "properties": {
+        "label": "HydroChina Dawood Wind Power Project",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q25230972",
+        "country_qid": "Q843"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.44416667,
+          24.59666667
+        ]
+      },
+      "properties": {
+        "label": "Gharo Wind Power Plant",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q5555787",
+        "country_qid": "Q843"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.01666667,
+          25.01666667
+        ]
+      },
+      "properties": {
+        "label": "Jhimpir Wind Power Plant",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q6191076",
+        "country_qid": "Q843"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.936388888,
+          25.136944444
+        ]
+      },
+      "properties": {
+        "label": "Sachal Wind Power Project",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q106298195",
+        "country_qid": "Q843"
+      }
+    }
+  ]
+}

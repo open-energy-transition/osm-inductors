@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.866666666,
+          49.9
+        ]
+      },
+      "properties": {
+        "label": "Upper Sûre Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2621998",
+        "country_qid": "Q32"
+      }
+    }
+  ]
+}

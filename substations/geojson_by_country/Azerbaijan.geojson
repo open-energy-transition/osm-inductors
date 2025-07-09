@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.442746632,
+          41.23536668
+        ]
+      },
+      "properties": {
+        "label": "Poylu Power Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q134589318",
+        "country_qid": "Q227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.178542711,
+          41.392927959
+        ]
+      },
+      "properties": {
+        "label": "Boyuk Kasik Electical Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q134589445",
+        "country_qid": "Q227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.444383759,
+          41.116495322
+        ]
+      },
+      "properties": {
+        "label": "Aghstafa City Electrical Substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q134599772",
+        "country_qid": "Q227"
+      }
+    }
+  ]
+}

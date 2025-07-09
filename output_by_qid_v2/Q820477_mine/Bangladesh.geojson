@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.960722222,
+          25.547555555
+        ]
+      },
+      "properties": {
+        "label": "Barapukuria coal mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q31725001",
+        "country_qid": "Q902"
+      }
+    }
+  ]
+}

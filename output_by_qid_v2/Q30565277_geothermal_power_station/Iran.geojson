@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.741256,
+          38.256435
+        ]
+      },
+      "properties": {
+        "label": "Meshkinshahr Geothermal Power Plant",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q6821299",
+        "country_qid": "Q794"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5,
+          35.05805556
+        ]
+      },
+      "properties": {
+        "label": "Higashi-Shimizu Frequency Converter",
+        "type": "HVDC back-to-back station",
+        "entity": "http://www.wikidata.org/entity/Q1617659",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.915854,
+          36.496187
+        ]
+      },
+      "properties": {
+        "label": "Minami-Fukumitsu",
+        "type": "HVDC back-to-back station",
+        "entity": "http://www.wikidata.org/entity/Q6862860",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.88277778,
+          36.13722222
+        ]
+      },
+      "properties": {
+        "label": "Shin Shinano",
+        "type": "HVDC back-to-back station",
+        "entity": "http://www.wikidata.org/entity/Q7497226",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.799194,
+          35.08225
+        ]
+      },
+      "properties": {
+        "label": "Sakuma Frequency Converter Station",
+        "type": "HVDC back-to-back station",
+        "entity": "http://www.wikidata.org/entity/Q11382696",
+        "country_qid": "Q17"
+      }
+    }
+  ]
+}

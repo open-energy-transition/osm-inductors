@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.06,
+          13.021111111
+        ]
+      },
+      "properties": {
+        "label": "Oumarou Kanazoé Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q85791389",
+        "country_qid": "Q965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.40111,
+          12.49222
+        ]
+      },
+      "properties": {
+        "label": "Barrage de Loumbila",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q21774220",
+        "country_qid": "Q965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.546694,
+          11.4769
+        ]
+      },
+      "properties": {
+        "label": "Bagre Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q20089011",
+        "country_qid": "Q965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6998,
+          11.0821
+        ]
+      },
+      "properties": {
+        "label": "Kompienga Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q6428603",
+        "country_qid": "Q965"
+      }
+    }
+  ]
+}

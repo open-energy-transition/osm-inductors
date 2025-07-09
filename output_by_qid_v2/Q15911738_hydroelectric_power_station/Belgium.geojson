@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3867077,
+          50.1886837
+        ]
+      },
+      "properties": {
+        "label": "Plate-Taille hydro power plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q84761452",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.861736,
+          50.384969
+        ]
+      },
+      "properties": {
+        "label": "Coo-Trois-Ponts Hydroelectric Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q1639208",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6313944,
+          50.6531763
+        ]
+      },
+      "properties": {
+        "label": "Monsin hydro power plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q84761425",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.717777777,
+          50.456111111
+        ]
+      },
+      "properties": {
+        "label": "Heid-de-Goreux",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q105280084",
+        "country_qid": "Q31"
+      }
+    }
+  ]
+}

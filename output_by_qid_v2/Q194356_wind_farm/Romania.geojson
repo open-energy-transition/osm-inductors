@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.63183333,
+          44.65577778
+        ]
+      },
+      "properties": {
+        "label": "Eolica Mihai Viteazu Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q5381774",
+        "country_qid": "Q218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.34044444,
+          44.49625
+        ]
+      },
+      "properties": {
+        "label": "Q56026040",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q56026040",
+        "country_qid": "Q218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.113055555,
+          44.315277777
+        ]
+      },
+      "properties": {
+        "label": "EDP Cernavodă Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q5322864",
+        "country_qid": "Q218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.68972222,
+          44.90166667
+        ]
+      },
+      "properties": {
+        "label": "Babadag Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q4837422",
+        "country_qid": "Q218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.04733333,
+          44.21008333
+        ]
+      },
+      "properties": {
+        "label": "EDP Peștera Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q5322865",
+        "country_qid": "Q218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.56527778,
+          44.59027778
+        ]
+      },
+      "properties": {
+        "label": "Fântânele-Cogealac Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q760828",
+        "country_qid": "Q218"
+      }
+    }
+  ]
+}

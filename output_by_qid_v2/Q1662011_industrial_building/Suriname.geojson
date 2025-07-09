@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.143333333,
+          5.829722222
+        ]
+      },
+      "properties": {
+        "label": "Surinaamsch Rumhuis",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q71669308",
+        "country_qid": "Q730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.148888888,
+          5.763888888
+        ]
+      },
+      "properties": {
+        "label": "Tout Lui Faut-refinery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q128819405",
+        "country_qid": "Q730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.404166666,
+          5.618055555
+        ]
+      },
+      "properties": {
+        "label": "Tembe Recording Studio",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q67510145",
+        "country_qid": "Q730"
+      }
+    }
+  ]
+}

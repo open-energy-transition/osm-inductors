@@ -1,0 +1,4533 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.216666666,
+          -31.983333333
+        ]
+      },
+      "properties": {
+        "label": "Mundaring Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21886847",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.316666666,
+          -33.533333333
+        ]
+      },
+      "properties": {
+        "label": "Gum Flat Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21891546",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.666666666,
+          -34.433333333
+        ]
+      },
+      "properties": {
+        "label": "Yorke Valley Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21881400",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.79678,
+          -33.6045
+        ]
+      },
+      "properties": {
+        "label": "Coolanie Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21892202",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.75,
+          -35.0
+        ]
+      },
+      "properties": {
+        "label": "Burrinjuck Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21915192",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.97328,
+          -32.70015
+        ]
+      },
+      "properties": {
+        "label": "Nectar Brook Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21887103",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.41,
+          -41.8
+        ]
+      },
+      "properties": {
+        "label": "Argent Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953590",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.92188,
+          -27.44688
+        ]
+      },
+      "properties": {
+        "label": "Enoggera Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21913076",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.51,
+          -41.18
+        ]
+      },
+      "properties": {
+        "label": "Appleby Creek Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953591",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.483333333,
+          -30.733333333
+        ]
+      },
+      "properties": {
+        "label": "Mount Charlotte Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21886719",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.29203,
+          -37.59803
+        ]
+      },
+      "properties": {
+        "label": "Pikes Creek Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21904217",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.05,
+          -32.2
+        ]
+      },
+      "properties": {
+        "label": "Hiltaba Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21890080",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.433333333,
+          -32.95
+        ]
+      },
+      "properties": {
+        "label": "Pilepudla Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21884290",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.0,
+          -33.866666666
+        ]
+      },
+      "properties": {
+        "label": "Bute Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21894972",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82704,
+          -33.59994
+        ]
+      },
+      "properties": {
+        "label": "Pungarra Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21884600",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.21382,
+          -33.18279
+        ]
+      },
+      "properties": {
+        "label": "Beetaloo Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21893958",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.84752,
+          -34.47868
+        ]
+      },
+      "properties": {
+        "label": "Tod River Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21883463",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.433333333,
+          -32.433333333
+        ]
+      },
+      "properties": {
+        "label": "Yartoo Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21881307",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.833333333,
+          -33.666666666
+        ]
+      },
+      "properties": {
+        "label": "Ullabidnie Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21883779",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.53401,
+          -33.02005
+        ]
+      },
+      "properties": {
+        "label": "Polda Rock Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21884444",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.54153,
+          -37.71653
+        ]
+      },
+      "properties": {
+        "label": "Melton Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21908617",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.54669,
+          -33.69071
+        ]
+      },
+      "properties": {
+        "label": "Yeldulknie Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21881330",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.716666666,
+          -32.383333333
+        ]
+      },
+      "properties": {
+        "label": "Thurlga Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21883377",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0,
+          -37.36667
+        ]
+      },
+      "properties": {
+        "label": "Hepburn Lagoon",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21909212",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.45,
+          -41.79
+        ]
+      },
+      "properties": {
+        "label": "Vaucluse Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953602",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.383333333,
+          -32.95
+        ]
+      },
+      "properties": {
+        "label": "Yumburra Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21881440",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.55,
+          -33.2
+        ]
+      },
+      "properties": {
+        "label": "Curtinye Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21892571",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2,
+          -32.85
+        ]
+      },
+      "properties": {
+        "label": "Tcharkuldu Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21883214",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.621944444,
+          -34.503055555
+        ]
+      },
+      "properties": {
+        "label": "Urania Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21883824",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.316666666,
+          -32.833333333
+        ]
+      },
+      "properties": {
+        "label": "Wirrigenda Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21880936",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.666666666,
+          -34.7
+        ]
+      },
+      "properties": {
+        "label": "South Para Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21885805",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.10319,
+          -38.28847
+        ]
+      },
+      "properties": {
+        "label": "Devilbend Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21913868",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8467,
+          -30.98677
+        ]
+      },
+      "properties": {
+        "label": "Bullabulling Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21894819",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.40396,
+          -33.13151
+        ]
+      },
+      "properties": {
+        "label": "Roora Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21885085",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.70765,
+          -33.27808
+        ]
+      },
+      "properties": {
+        "label": "Yalanda Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21881196",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1642,
+          -30.93899
+        ]
+      },
+      "properties": {
+        "label": "Toorak Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21883514",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.783333333,
+          -34.616666666
+        ]
+      },
+      "properties": {
+        "label": "Lamb Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21888903",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.566666666,
+          -34.816666666
+        ]
+      },
+      "properties": {
+        "label": "Nowra Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21905634",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.2,
+          -33.083333333
+        ]
+      },
+      "properties": {
+        "label": "Ash Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21897202",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.683333333,
+          -33.65
+        ]
+      },
+      "properties": {
+        "label": "Yabmana Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21881176",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.32991,
+          -33.06044
+        ]
+      },
+      "properties": {
+        "label": "Cortlinye Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21892367",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.14287,
+          -32.17008
+        ]
+      },
+      "properties": {
+        "label": "Canning Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21895108",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.316666666,
+          -33.533333333
+        ]
+      },
+      "properties": {
+        "label": "Duffer Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21893122",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.68737,
+          -34.87459
+        ]
+      },
+      "properties": {
+        "label": "Thorndon Park Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21883342",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.15,
+          -22.633333333
+        ]
+      },
+      "properties": {
+        "label": "Anna Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21897064",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.75,
+          -34.033333333
+        ]
+      },
+      "properties": {
+        "label": "Boor Plains Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21894477",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.87973,
+          -27.45945
+        ]
+      },
+      "properties": {
+        "label": "Gold Creek Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21911881",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3,
+          -33.733333333
+        ]
+      },
+      "properties": {
+        "label": "Finger Post Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21890673",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.616666666,
+          -37.15
+        ]
+      },
+      "properties": {
+        "label": "Fyans Lake Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21911474",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.466666666,
+          -33.0
+        ]
+      },
+      "properties": {
+        "label": "Pygery Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21884629",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.94,
+          -42.44
+        ]
+      },
+      "properties": {
+        "label": "Rosedale Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953653",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.983333333,
+          -33.95
+        ]
+      },
+      "properties": {
+        "label": "Wyangala Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21897547",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.39337,
+          -33.40355
+        ]
+      },
+      "properties": {
+        "label": "Bosanquet Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21894508",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.12729,
+          -32.96941
+        ]
+      },
+      "properties": {
+        "label": "Pinkawillinie Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21884356",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.08308,
+          -33.46321
+        ]
+      },
+      "properties": {
+        "label": "Monument Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21886549",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.85673,
+          -34.30177
+        ]
+      },
+      "properties": {
+        "label": "Kapunda Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21888456",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.86667,
+          -31.5
+        ]
+      },
+      "properties": {
+        "label": "Cobar Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21916241",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.766666666,
+          -23.833333333
+        ]
+      },
+      "properties": {
+        "label": "Thomas Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21883327",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.05,
+          -33.366666666
+        ]
+      },
+      "properties": {
+        "label": "Pine Hill Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21884330",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.583333333,
+          -33.016666666
+        ]
+      },
+      "properties": {
+        "label": "Whyalla Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21882723",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.066666666,
+          -33.3
+        ]
+      },
+      "properties": {
+        "label": "Moorowie Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21886629",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.133333333,
+          -33.266666666
+        ]
+      },
+      "properties": {
+        "label": "Dare Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21892657",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.233333333,
+          -33.766666666
+        ]
+      },
+      "properties": {
+        "label": "Kenwyn Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21888556",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83453,
+          -34.46314
+        ]
+      },
+      "properties": {
+        "label": "Knott Hill Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21888696",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6899,
+          -34.09797
+        ]
+      },
+      "properties": {
+        "label": "Teatree Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21883226",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.333333333,
+          -33.383333333
+        ]
+      },
+      "properties": {
+        "label": "Hog Back Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21890104",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.85565,
+          -34.11655
+        ]
+      },
+      "properties": {
+        "label": "Brooker Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21894677",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.116666666,
+          -33.383333333
+        ]
+      },
+      "properties": {
+        "label": "Scrub Dam Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21885434",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0181,
+          -20.6221
+        ]
+      },
+      "properties": {
+        "label": "Lake Dalrymple",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21923972",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.17569,
+          -36.72903
+        ]
+      },
+      "properties": {
+        "label": "Goulburn Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21912006",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.1486,
+          -32.90479
+        ]
+      },
+      "properties": {
+        "label": "Moongi Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21886594",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.58333,
+          -34.33333
+        ]
+      },
+      "properties": {
+        "label": "Napean Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21906807",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.266666666,
+          -33.0
+        ]
+      },
+      "properties": {
+        "label": "Bascomb Rock Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21893828",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.316666666,
+          -33.05
+        ]
+      },
+      "properties": {
+        "label": "Aldermans Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21896901",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.083333333,
+          -36.006111111
+        ]
+      },
+      "properties": {
+        "label": "Yarrawonga Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953434",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.266666666,
+          -33.45
+        ]
+      },
+      "properties": {
+        "label": "Carappee Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21895142",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.233333333,
+          -33.266666666
+        ]
+      },
+      "properties": {
+        "label": "Moonabie Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21930048",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.49212,
+          -33.25014
+        ]
+      },
+      "properties": {
+        "label": "Malgra Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21889474",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.533333333,
+          -33.166666666
+        ]
+      },
+      "properties": {
+        "label": "Wild Dog Hill Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21882748",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.037049362,
+          -32.029677186
+        ]
+      },
+      "properties": {
+        "label": "Bickley Brook Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21153545",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.40958,
+          -38.02708
+        ]
+      },
+      "properties": {
+        "label": "Beaconsfield Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21917426",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.916666666,
+          -33.533333333
+        ]
+      },
+      "properties": {
+        "label": "Minbrie Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21886379",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.540277777,
+          -33.461388888
+        ]
+      },
+      "properties": {
+        "label": "Bundaleer Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21894876",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.69658,
+          -33.5937
+        ]
+      },
+      "properties": {
+        "label": "Terre Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21883285",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.92105,
+          -35.3126
+        ]
+      },
+      "properties": {
+        "label": "Cotter Storage Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21913142",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.35431,
+          -37.79014
+        ]
+      },
+      "properties": {
+        "label": "Olinda Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21905844",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0693,
+          -32.04433
+        ]
+      },
+      "properties": {
+        "label": "Victoria Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21931992",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.75,
+          -34.366666666
+        ]
+      },
+      "properties": {
+        "label": "Lake Cordeaux",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21921412",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7,
+          -32.25
+        ]
+      },
+      "properties": {
+        "label": "Chichester Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21916004",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3,
+          -33.783333333
+        ]
+      },
+      "properties": {
+        "label": "Neales Flat Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21887093",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.366666666,
+          -42.833333333
+        ]
+      },
+      "properties": {
+        "label": "Flagstaff Gully Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21911110",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.3,
+          -32.916666666
+        ]
+      },
+      "properties": {
+        "label": "Cunyarie Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21892541",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.0639,
+          -32.91816
+        ]
+      },
+      "properties": {
+        "label": "Baroota Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21893787",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.59957,
+          -33.1297
+        ]
+      },
+      "properties": {
+        "label": "Barna Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21893764",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.1,
+          -33.666666666
+        ]
+      },
+      "properties": {
+        "label": "Tuckey Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21883636",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.07836,
+          -33.29297
+        ]
+      },
+      "properties": {
+        "label": "Poolgarra Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21884480",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.216666666,
+          -33.3
+        ]
+      },
+      "properties": {
+        "label": "Caralue Bluff Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21895139",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.9,
+          -34.416666666
+        ]
+      },
+      "properties": {
+        "label": "Clay Gully Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21891957",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.916666666,
+          -37.183333333
+        ]
+      },
+      "properties": {
+        "label": "Eildon Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21912893",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.17168,
+          -27.53507
+        ]
+      },
+      "properties": {
+        "label": "Tingalpa Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21954531",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.684722222,
+          -32.231666666
+        ]
+      },
+      "properties": {
+        "label": "Chichester Storage Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21960611",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0729,
+          -32.21211
+        ]
+      },
+      "properties": {
+        "label": "Wungong Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21961598",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.213333333,
+          -36.790833333
+        ]
+      },
+      "properties": {
+        "label": "McCallsay Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21960845",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.93,
+          -42.48
+        ]
+      },
+      "properties": {
+        "label": "Rostrevor Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21983703",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.209722222,
+          -31.823611111
+        ]
+      },
+      "properties": {
+        "label": "Umberumberka Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21963435",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.040833333,
+          -38.286388888
+        ]
+      },
+      "properties": {
+        "label": "Wurdiboluc Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21960876",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.19119,
+          -37.82229
+        ]
+      },
+      "properties": {
+        "label": "Mitcham Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21973000",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.32,
+          -41.19
+        ]
+      },
+      "properties": {
+        "label": "Williams Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21983695",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.593055555,
+          -36.580277777
+        ]
+      },
+      "properties": {
+        "label": "Lake Dartmouth",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21960802",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.33,
+          -42.8
+        ]
+      },
+      "properties": {
+        "label": "Risdon Brook Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953656",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.25882,
+          -35.48609
+        ]
+      },
+      "properties": {
+        "label": "Blowering Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21961949",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.38,
+          -42.86
+        ]
+      },
+      "properties": {
+        "label": "Mornington Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21983691",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.05,
+          -42.83
+        ]
+      },
+      "properties": {
+        "label": "Illa Brook Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953906",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.36999,
+          -42.84
+        ]
+      },
+      "properties": {
+        "label": "Flagstaff Gully Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21960570",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.26993,
+          -36.05743
+        ]
+      },
+      "properties": {
+        "label": "Tooma Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21960800",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.73829,
+          -26.43868
+        ]
+      },
+      "properties": {
+        "label": "Gordonbrook Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21963307",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.94,
+          -27.38583
+        ]
+      },
+      "properties": {
+        "label": "Cooby Creek Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21963308",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.89,
+          -42.49
+        ]
+      },
+      "properties": {
+        "label": "Bradys Creek Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953969",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2,
+          -41.78
+        ]
+      },
+      "properties": {
+        "label": "Lake Rowallan",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21983747",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.616388888,
+          -28.131666666
+        ]
+      },
+      "properties": {
+        "label": "Maroon Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21963482",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.29094,
+          -42.91746
+        ]
+      },
+      "properties": {
+        "label": "Ridgeway Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21973513",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.491111111,
+          -37.622222222
+        ]
+      },
+      "properties": {
+        "label": "Merrimu Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21960879",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9346,
+          -34.1152
+        ]
+      },
+      "properties": {
+        "label": "Lake Woronora",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21955145",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.6512,
+          -35.7485
+        ]
+      },
+      "properties": {
+        "label": "Tantangara Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21961945",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.60001,
+          -42.8
+        ]
+      },
+      "properties": {
+        "label": "Gordons Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953920",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.59,
+          -42.71
+        ]
+      },
+      "properties": {
+        "label": "Pawleena Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953675",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9,
+          -41.13
+        ]
+      },
+      "properties": {
+        "label": "Howell Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953908",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.23,
+          -42.85
+        ]
+      },
+      "properties": {
+        "label": "Knights Creek Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953898",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.22292,
+          -36.82014
+        ]
+      },
+      "properties": {
+        "label": "Crusoe Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21960885",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.37736,
+          -37.20458
+        ]
+      },
+      "properties": {
+        "label": "Malmsbury Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21960883",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.17708,
+          -37.60292
+        ]
+      },
+      "properties": {
+        "label": "Bostock Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21960878",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.786111111,
+          -32.762222222
+        ]
+      },
+      "properties": {
+        "label": "Lake Windamere",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21954823",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3,
+          -41.5
+        ]
+      },
+      "properties": {
+        "label": "Chimney Saddle Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953959",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.31,
+          -42.54
+        ]
+      },
+      "properties": {
+        "label": "Colebrook Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953955",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.266666666,
+          -35.441944444
+        ]
+      },
+      "properties": {
+        "label": "Googong Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21961920",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.86542,
+          -37.10903
+        ]
+      },
+      "properties": {
+        "label": "Tullaroop Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21960891",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0075,
+          -33.79
+        ]
+      },
+      "properties": {
+        "label": "Lake Parramatta",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21957564",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.78,
+          -41.19
+        ]
+      },
+      "properties": {
+        "label": "Beaconsfield Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953977",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.89,
+          -41.13
+        ]
+      },
+      "properties": {
+        "label": "Lauriston Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953736",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.31524,
+          -36.29987
+        ]
+      },
+      "properties": {
+        "label": "Geehi Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21960797",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.25,
+          -42.86
+        ]
+      },
+      "properties": {
+        "label": "Limekiln Gully Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953733",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.319166666,
+          -35.6825
+        ]
+      },
+      "properties": {
+        "label": "Talbingo Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21961946",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.864166666,
+          -36.853333333
+        ]
+      },
+      "properties": {
+        "label": "Laancoorie Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21960889",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.06181,
+          -37.65875
+        ]
+      },
+      "properties": {
+        "label": "Lal Lal Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21960880",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.08569,
+          -37.51069
+        ]
+      },
+      "properties": {
+        "label": "Moorabool Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21960881",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.25,
+          -42.85
+        ]
+      },
+      "properties": {
+        "label": "Lower Glenorchy Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953721",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.706944444,
+          -30.517222222
+        ]
+      },
+      "properties": {
+        "label": "Split Rock Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21961528",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.367777777,
+          -34.598611111
+        ]
+      },
+      "properties": {
+        "label": "Jugiong Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21957567",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.123055555,
+          -31.359722222
+        ]
+      },
+      "properties": {
+        "label": "Chaffey Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21961527",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.132222222,
+          -32.408333333
+        ]
+      },
+      "properties": {
+        "label": "Serpentine Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21961597",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.38958,
+          -37.29153
+        ]
+      },
+      "properties": {
+        "label": "Upper Coliban Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21960882",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.92,
+          -43.18
+        ]
+      },
+      "properties": {
+        "label": "Rileys Creek Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953658",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.94,
+          -41.1
+        ]
+      },
+      "properties": {
+        "label": "Curries River Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953947",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.308,
+          -24.0753
+        ]
+      },
+      "properties": {
+        "label": "Lake Awoonga",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1255523",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.045,
+          -20.8397
+        ]
+      },
+      "properties": {
+        "label": "Corella Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q47496702",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.806,
+          -37.675
+        ]
+      },
+      "properties": {
+        "label": "O'Shannassy Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2043409",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.94,
+          -20.75
+        ]
+      },
+      "properties": {
+        "label": "Gattonvale Offstream Storage",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q5527526",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.200661,
+          -34.815548
+        ]
+      },
+      "properties": {
+        "label": "Historic horse trough, Coolamon",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q117017591",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.125,
+          -33.899
+        ]
+      },
+      "properties": {
+        "label": "Ashfield Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q56057074",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.166666666,
+          -42.95
+        ]
+      },
+      "properties": {
+        "label": "Lake Gordon",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q366813",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.214,
+          -33.881
+        ]
+      },
+      "properties": {
+        "label": "Crown Street Reservoir & Site",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q56049807",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.991,
+          -33.3977
+        ]
+      },
+      "properties": {
+        "label": "Wellington Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q478067",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1141,
+          -33.7193
+        ]
+      },
+      "properties": {
+        "label": "Wahroonga Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q58202931",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.95846,
+          -32.3227
+        ]
+      },
+      "properties": {
+        "label": "Hyden Humps Dam",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q5953780",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1558,
+          -33.8962
+        ]
+      },
+      "properties": {
+        "label": "Petersham Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q58201173",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4102,
+          -37.9637
+        ]
+      },
+      "properties": {
+        "label": "Cardinia Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1035747",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.6,
+          -36.116666666
+        ]
+      },
+      "properties": {
+        "label": "Lake Eucumbene",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1573337",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.783,
+          -20.7806
+        ]
+      },
+      "properties": {
+        "label": "Lake Mary Kathleen",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q946652",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.016666666,
+          -26.266666666
+        ]
+      },
+      "properties": {
+        "label": "Lake Cootharaba",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3214813",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.1657,
+          -12.96
+        ]
+      },
+      "properties": {
+        "label": "Lake Bennett",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q745195",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.49815862,
+          -34.6419868
+        ]
+      },
+      "properties": {
+        "label": "Fitzroy Falls Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q15110750",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.152,
+          -37.4754
+        ]
+      },
+      "properties": {
+        "label": "Toorourrong Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q7824220",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.557,
+          -27.1144
+        ]
+      },
+      "properties": {
+        "label": "Lake Somerset",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1801083",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.607,
+          -41.696
+        ]
+      },
+      "properties": {
+        "label": "Lake Huntsman",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q18344849",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.076944444,
+          -31.944166666
+        ]
+      },
+      "properties": {
+        "label": "Pipehead Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1450886",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1044,
+          -38.2876
+        ]
+      },
+      "properties": {
+        "label": "Devilbend Natural Features Reserve",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q5267358",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1,
+          -36.55
+        ]
+      },
+      "properties": {
+        "label": "Waranga Basin",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q7331220",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.905,
+          -37.6316
+        ]
+      },
+      "properties": {
+        "label": "Greenvale Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1544811",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.988,
+          -25.2014
+        ]
+      },
+      "properties": {
+        "label": "Wuruma Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1236150",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2411,
+          -33.8904
+        ]
+      },
+      "properties": {
+        "label": "Woollahra Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q58202668",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.861691542,
+          -35.021796881
+        ]
+      },
+      "properties": {
+        "label": "Albany Seaboard Bulk Fuel Oil Depot",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q111912286",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.959,
+          -26.4714
+        ]
+      },
+      "properties": {
+        "label": "Neil Turner Weir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6989439",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.890807,
+          -33.950287
+        ]
+      },
+      "properties": {
+        "label": "Preston Resevoir - WS172",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q116214651",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57,
+          -20.5826
+        ]
+      },
+      "properties": {
+        "label": "Lake Moondarra",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1609461",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.601296,
+          -35.470982
+        ]
+      },
+      "properties": {
+        "label": "Hindmarsh Valley Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q85766603",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.066666666,
+          -35.233333333
+        ]
+      },
+      "properties": {
+        "label": "Lake Ginninderra",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1800934",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.391,
+          -37.254
+        ]
+      },
+      "properties": {
+        "label": "Lauriston Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6501861",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.3826,
+          -38.08537
+        ]
+      },
+      "properties": {
+        "label": "Moondarra Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1946715",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.666666666,
+          -42.116666666
+        ]
+      },
+      "properties": {
+        "label": "Lake Burbury",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q891714",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.14119,
+          -33.21271
+        ]
+      },
+      "properties": {
+        "label": "Lake Ballingall",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1800856",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.75278,
+          -31.84335
+        ]
+      },
+      "properties": {
+        "label": "Crowdy Head Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q124422385",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.897870635,
+          -33.907973692
+        ]
+      },
+      "properties": {
+        "label": "Mount Pritchard Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q117454419",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.096,
+          -35.719
+        ]
+      },
+      "properties": {
+        "label": "Middle River Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q24190269",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.153,
+          -33.855
+        ]
+      },
+      "properties": {
+        "label": "Drummoyne Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q55610032",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.861,
+          -34.697
+        ]
+      },
+      "properties": {
+        "label": "South Para Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q7333643",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0327,
+          -33.8936
+        ]
+      },
+      "properties": {
+        "label": "Potts Hill Reservoirs 1 and 2",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q55630332",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.879166666,
+          -25.358055555
+        ]
+      },
+      "properties": {
+        "label": "Lake Paradise",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q14644034",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.117432,
+          -12.860717
+        ]
+      },
+      "properties": {
+        "label": "Manton Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1891318",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2386,
+          -33.8913
+        ]
+      },
+      "properties": {
+        "label": "Centennial Park Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q58202675",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.244672468,
+          -35.192804955
+        ]
+      },
+      "properties": {
+        "label": "Uranquinty silos",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q106910158",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.442,
+          -35.395
+        ]
+      },
+      "properties": {
+        "label": "Myponga Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1956725",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.772411111,
+          -31.93235
+        ]
+      },
+      "properties": {
+        "label": "Bold Park Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4939061",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.71388889,
+          -41.33638889
+        ]
+      },
+      "properties": {
+        "label": "Companion Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1121239",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.633333333,
+          -36.433333333
+        ]
+      },
+      "properties": {
+        "label": "Lake Jindabyne",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1413161",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.777777777,
+          -32.930277777
+        ]
+      },
+      "properties": {
+        "label": "Newcastle Reservoirs",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q96395428",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.479,
+          -36.623
+        ]
+      },
+      "properties": {
+        "label": "Murtoa No 1 Grain Store",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q38148758",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.7245,
+          -34.7439
+        ]
+      },
+      "properties": {
+        "label": "Little Para Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6651285",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.498,
+          -23.3608
+        ]
+      },
+      "properties": {
+        "label": "Fitzroy River Barrage",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q5455714",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.547222222,
+          -17.163611111
+        ]
+      },
+      "properties": {
+        "label": "Lake Tinaroo",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3215232",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.983333333,
+          -37.05
+        ]
+      },
+      "properties": {
+        "label": "Cairn Curran Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q5017661",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.533,
+          -28.05
+        ]
+      },
+      "properties": {
+        "label": "Lake Moogerah",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6476988",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.133333333,
+          -32.666666666
+        ]
+      },
+      "properties": {
+        "label": "Lake Burrendong",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6475111",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.533,
+          -42.0
+        ]
+      },
+      "properties": {
+        "label": "Lake Margaret",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1800995",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.777010654,
+          -33.992708685
+        ]
+      },
+      "properties": {
+        "label": "Tank 7 lookout",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q116313868",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.766666666,
+          -34.866666666
+        ]
+      },
+      "properties": {
+        "label": "Kangaroo Creek Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6362523",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.916666666,
+          -37.683333333
+        ]
+      },
+      "properties": {
+        "label": "Upper Yarra Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2499799",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.212,
+          -19.6097
+        ]
+      },
+      "properties": {
+        "label": "Lake Mary Ann",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6476815",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7617,
+          -41.23502
+        ]
+      },
+      "properties": {
+        "label": "Guide Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1553457",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.583,
+          -41.7333
+        ]
+      },
+      "properties": {
+        "label": "Lake Rosebery",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1790845",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.49620862,
+          -34.55691036
+        ]
+      },
+      "properties": {
+        "label": "Wingecarribee Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q14645981",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.72767009,
+          -36.48421019
+        ]
+      },
+      "properties": {
+        "label": "Brogo Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q925116",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3051,
+          -37.6749
+        ]
+      },
+      "properties": {
+        "label": "Sugarloaf Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q7635020",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4359,
+          -34.00838
+        ]
+      },
+      "properties": {
+        "label": "Lake Burragorang",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1210845",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.780072222,
+          -34.409058333
+        ]
+      },
+      "properties": {
+        "label": "Upper Cordeaux No. 2 Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q125857122",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1391,
+          -33.7413
+        ]
+      },
+      "properties": {
+        "label": "Pymble Reservoirs No. 1 and No. 2",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q58202939",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.54129,
+          -41.46389
+        ]
+      },
+      "properties": {
+        "label": "Waratah Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2548958",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.031111111,
+          -36.108333333
+        ]
+      },
+      "properties": {
+        "label": "Lake Hume",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1780129",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.952,
+          -27.2576
+        ]
+      },
+      "properties": {
+        "label": "Lake Kurwongbah",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6476514",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9234784,
+          -37.008459
+        ]
+      },
+      "properties": {
+        "label": "Boundary Gully Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q33129636",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.133333333,
+          -42.933333333
+        ]
+      },
+      "properties": {
+        "label": "Lake Pedder",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q653152",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.572,
+          -35.073
+        ]
+      },
+      "properties": {
+        "label": "Happy Valley Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q5653139",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.477,
+          -34.726
+        ]
+      },
+      "properties": {
+        "label": "Bendeela Pondage (reservoir)",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q125918765",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.28005,
+          -36.96556
+        ]
+      },
+      "properties": {
+        "label": "Barkers Creek Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q33129394",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.351,
+          -27.5151
+        ]
+      },
+      "properties": {
+        "label": "Lake Clarendon",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6475401",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.273888888,
+          -33.994444444
+        ]
+      },
+      "properties": {
+        "label": "Lake Victoria",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q941703",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.83,
+          -41.15
+        ]
+      },
+      "properties": {
+        "label": "Pet Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2073139",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.8,
+          -42.0167
+        ]
+      },
+      "properties": {
+        "label": "Lake Leake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1800982",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.6566925,
+          -35.77088988
+        ]
+      },
+      "properties": {
+        "label": "Tantangara Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q46672946",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.82679,
+          -33.889869
+        ]
+      },
+      "properties": {
+        "label": "Liverpool Offtake Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q17011248",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.1845567,
+          -32.7333368
+        ]
+      },
+      "properties": {
+        "label": "Peak Hill Silo",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q111904253",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.092875,
+          -36.00936
+        ]
+      },
+      "properties": {
+        "label": "Lake Mulwala",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3215071",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.066666666,
+          -35.408333333
+        ]
+      },
+      "properties": {
+        "label": "Lake Tuggeranong",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q137788",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9576116,
+          -27.4945695
+        ]
+      },
+      "properties": {
+        "label": "Green Hill Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q24090134",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.216666666,
+          -33.933333333
+        ]
+      },
+      "properties": {
+        "label": "Botany Sands Aquifer",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q114315923",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.416666666,
+          -37.833333333
+        ]
+      },
+      "properties": {
+        "label": "Silvan Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2286425",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.701,
+          -35.12
+        ]
+      },
+      "properties": {
+        "label": "Mount Bold Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6919772",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.756111111,
+          -32.017777777
+        ]
+      },
+      "properties": {
+        "label": "Buckland Hill Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4983288",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.256,
+          -33.895
+        ]
+      },
+      "properties": {
+        "label": "Waverley Reservoirs",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q55637472",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.833333333,
+          -37.55
+        ]
+      },
+      "properties": {
+        "label": "Lake Wendouree",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4256116",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.898317196,
+          -33.908251348
+        ]
+      },
+      "properties": {
+        "label": "Liverpool (Mount Misery) Reservoir (WS 0061)",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q115728283",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.563055555,
+          -37.634722222
+        ]
+      },
+      "properties": {
+        "label": "Maroondah Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1672003",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6289,
+          -26.70011
+        ]
+      },
+      "properties": {
+        "label": "Reedy Creek Dam",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q24189711",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.683,
+          -34.85
+        ]
+      },
+      "properties": {
+        "label": "Hope Valley Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q5899580",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.8,
+          -34.833333333
+        ]
+      },
+      "properties": {
+        "label": "Millbrook Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6858627",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.566666666,
+          -38.45
+        ]
+      },
+      "properties": {
+        "label": "Candowie Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q107377056",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.73998839,
+          -30.27524256
+        ]
+      },
+      "properties": {
+        "label": "Malpas Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1887729",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.916666666,
+          -34.716666666
+        ]
+      },
+      "properties": {
+        "label": "Warren Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q18166831",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.893,
+          -33.823
+        ]
+      },
+      "properties": {
+        "label": "Prospect Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3407726",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.777,
+          -37.0686
+        ]
+      },
+      "properties": {
+        "label": "Carisbrook Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q33129638",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.849,
+          -34.65
+        ]
+      },
+      "properties": {
+        "label": "Barossa Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4863061",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.351083333,
+          -28.631722222
+        ]
+      },
+      "properties": {
+        "label": "Rocky Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q125861752",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.566666666,
+          -36.883333333
+        ]
+      },
+      "properties": {
+        "label": "Lake Eppalock",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3214866",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.182238888,
+          -33.858944444
+        ]
+      },
+      "properties": {
+        "label": "Balmain Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4852343",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.25,
+          -41.783333333
+        ]
+      },
+      "properties": {
+        "label": "Lake Pieman",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1801040",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.69326,
+          -41.83428
+        ]
+      },
+      "properties": {
+        "label": "Lake Murchison",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1801016",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.08003,
+          -33.4175
+        ]
+      },
+      "properties": {
+        "label": "Wallerawang Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2542729",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9,
+          -41.07
+        ]
+      },
+      "properties": {
+        "label": "Romaine Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21953654",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.933,
+          -38.0167
+        ]
+      },
+      "properties": {
+        "label": "Tarago Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q7373833",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.941,
+          -33.9492
+        ]
+      },
+      "properties": {
+        "label": "Wattle Grove Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q14935034",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.616583333,
+          -18.733544444
+        ]
+      },
+      "properties": {
+        "label": "Bamboo Dam Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q103842921",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3834808,
+          -37.4421437
+        ]
+      },
+      "properties": {
+        "label": "Beaufort Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q33129635",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.133333333,
+          -37.55
+        ]
+      },
+      "properties": {
+        "label": "Yan Yean Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2599293",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.97,
+          -33.798
+        ]
+      },
+      "properties": {
+        "label": "Mount Dorothy Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q56052125",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.435,
+          -26.0963
+        ]
+      },
+      "properties": {
+        "label": "Lake Boondooma",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1800872",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.29,
+          -24.8885
+        ]
+      },
+      "properties": {
+        "label": "Ben Anderson Barrage",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4885227",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.718847,
+          -32.497427
+        ]
+      },
+      "properties": {
+        "label": "Karlgarin Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6372497",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.073611111,
+          -37.270277777
+        ]
+      },
+      "properties": {
+        "label": "Rocklands Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2160716",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.931,
+          -37.214
+        ]
+      },
+      "properties": {
+        "label": "Lake Eildon",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1164222",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.216944444,
+          -41.366666666
+        ]
+      },
+      "properties": {
+        "label": "Lake Barrington",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q1332906",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.688679,
+          -28.34794
+        ]
+      },
+      "properties": {
+        "label": "Iron Tank on Stand",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q66975437",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.582,
+          -31.874
+        ]
+      },
+      "properties": {
+        "label": "Stephens Creek Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q7610952",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.390277777,
+          -36.920555555
+        ]
+      },
+      "properties": {
+        "label": "Lake William Hovell",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6478495",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.620750434,
+          -28.651233305
+        ]
+      },
+      "properties": {
+        "label": "Water Tank with Painted Mural",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q130426653",
+        "country_qid": "Q408"
+      }
+    }
+  ]
+}

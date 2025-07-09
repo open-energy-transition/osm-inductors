@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.96666667,
+          -46.8
+        ]
+      },
+      "properties": {
+        "label": "Q6062895",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q6062895",
+        "country_qid": "Q414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.56666667,
+          -45.91666667
+        ]
+      },
+      "properties": {
+        "label": "Q6062906",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q6062906",
+        "country_qid": "Q414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.5,
+          -45.85
+        ]
+      },
+      "properties": {
+        "label": "Antonio Morán Wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q6062881",
+        "country_qid": "Q414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.5,
+          -45.85
+        ]
+      },
+      "properties": {
+        "label": "El Tordillo wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q6062915",
+        "country_qid": "Q414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.66666667,
+          -45.76666667
+        ]
+      },
+      "properties": {
+        "label": "Q6062892",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q6062892",
+        "country_qid": "Q414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.16666667,
+          -43.33333333
+        ]
+      },
+      "properties": {
+        "label": "Rawson Wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q6062909",
+        "country_qid": "Q414"
+      }
+    }
+  ]
+}

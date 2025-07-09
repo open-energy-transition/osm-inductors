@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.311916666,
+          -18.854416666
+        ]
+      },
+      "properties": {
+        "label": "Ambatovy Nickel power station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56374151",
+        "country_qid": "Q1019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.598444444,
+          -18.931916666
+        ]
+      },
+      "properties": {
+        "label": "Q56374154",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56374154",
+        "country_qid": "Q1019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5985,
+          -18.929666666
+        ]
+      },
+      "properties": {
+        "label": "Q56374153",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56374153",
+        "country_qid": "Q1019"
+      }
+    }
+  ]
+}

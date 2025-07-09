@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.753686,
+          -35.126244
+        ]
+      },
+      "properties": {
+        "label": "Jervis Bay Nuclear Power Plant proposal",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1000969",
+        "country_qid": "Q408"
+      }
+    }
+  ]
+}

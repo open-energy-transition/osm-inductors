@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.099534,
+          45.008763
+        ]
+      },
+      "properties": {
+        "label": "Nikolinci",
+        "type": "Natural gas",
+        "entity": "http://www.wikidata.org/entity/Q91240434",
+        "country_qid": "Q403"
+      }
+    }
+  ]
+}

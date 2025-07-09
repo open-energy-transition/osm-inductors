@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.21443,
+          22.32648
+        ]
+      },
+      "properties": {
+        "label": "Amoycan Industrial Centre",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q5812239",
+        "country_qid": "Q1054923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.181572,
+          22.27826
+        ]
+      },
+      "properties": {
+        "label": "Russell Street Tram Depot",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q7203329",
+        "country_qid": "Q1054923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.201,
+          22.399
+        ]
+      },
+      "properties": {
+        "label": "MTR Ho Tung Lau depot",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q15952407",
+        "country_qid": "Q1054923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.000768,
+          22.363145
+        ]
+      },
+      "properties": {
+        "label": "Lok On Pai Desalination Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q11120776",
+        "country_qid": "Q1054923"
+      }
+    }
+  ]
+}

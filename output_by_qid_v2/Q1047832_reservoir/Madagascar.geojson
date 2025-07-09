@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.86667,
+          -19.25
+        ]
+      },
+      "properties": {
+        "label": "Tobindranon' i Tsiazompaniry",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34930690",
+        "country_qid": "Q1019"
+      }
+    }
+  ]
+}

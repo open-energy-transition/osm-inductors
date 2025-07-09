@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.064414,
+          47.811318
+        ]
+      },
+      "properties": {
+        "label": "Q122818755",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q122818755",
+        "country_qid": "Q217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.864818,
+          47.057349
+        ]
+      },
+      "properties": {
+        "label": "Mezon",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q132263145",
+        "country_qid": "Q217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.463537483,
+          47.617364016
+        ]
+      },
+      "properties": {
+        "label": "Hydroelectric power plant in Căzănești",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q108260943",
+        "country_qid": "Q217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.484246,
+          47.674488
+        ]
+      },
+      "properties": {
+        "label": "Q108260931",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q108260931",
+        "country_qid": "Q217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.12361111,
+          47.27777778
+        ]
+      },
+      "properties": {
+        "label": "Dubăsari Dam",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q1987011",
+        "country_qid": "Q217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2270182,
+          47.839837
+        ]
+      },
+      "properties": {
+        "label": "Stânca-Costești Dam",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q7629892",
+        "country_qid": "Q217"
+      }
+    }
+  ]
+}

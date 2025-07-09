@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6286203,
+          49.1657892
+        ]
+      },
+      "properties": {
+        "label": "Former limestone quarry Bobrovecká Vápenica",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q115726873",
+        "country_qid": "Q214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.461111111,
+          48.903888888
+        ]
+      },
+      "properties": {
+        "label": "Dubník mines",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q28807715",
+        "country_qid": "Q214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.27553,
+          48.97924
+        ]
+      },
+      "properties": {
+        "label": "Salt-works in Solivar",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q13537646",
+        "country_qid": "Q214"
+      }
+    }
+  ]
+}

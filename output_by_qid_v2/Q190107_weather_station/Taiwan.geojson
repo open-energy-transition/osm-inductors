@@ -1,0 +1,277 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.289,
+          24.407
+        ]
+      },
+      "properties": {
+        "label": "Kinmen Weather Station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q55753053",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55861111,
+          22.03694444
+        ]
+      },
+      "properties": {
+        "label": "Lanyu Weather Station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q15934235",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.01416667,
+          24.82805556
+        ]
+      },
+      "properties": {
+        "label": "Q11084032",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q11084032",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.36527778,
+          23.09916667
+        ]
+      },
+      "properties": {
+        "label": "Chenggong Weather Station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q22965963",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.89555556,
+          22.3575
+        ]
+      },
+      "properties": {
+        "label": "Dawu Weather Station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q24836837",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.669,
+          23.258179
+        ]
+      },
+      "properties": {
+        "label": "Dongjidao Weather Station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q98398622",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.563606,
+          23.565325
+        ]
+      },
+      "properties": {
+        "label": "Penghu Weather Station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q98174237",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.856666666,
+          24.596666666
+        ]
+      },
+      "properties": {
+        "label": "Q124055039",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q124055039",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.772778,
+          25.072778
+        ]
+      },
+      "properties": {
+        "label": "Wufenshan Weather Radar Station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q109232226",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.847222222,
+          21.985833333
+        ]
+      },
+      "properties": {
+        "label": "Kenting Weather Radar Station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q98704361",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44229,
+          24.99754
+        ]
+      },
+      "properties": {
+        "label": "New Taipei Weather Station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q115978567",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.205,
+          22.9937
+        ]
+      },
+      "properties": {
+        "label": "Former Tainan Weather Observatory",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q10911185",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.154694875,
+          22.752193064
+        ]
+      },
+      "properties": {
+        "label": "Q22774272",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q22774272",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.813305555,
+          23.508416666
+        ]
+      },
+      "properties": {
+        "label": "Alishan Weather Station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q101889780",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.95944444,
+          23.48722222
+        ]
+      },
+      "properties": {
+        "label": "Yushan Weather Station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q15922453",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.923083333,
+          26.16925
+        ]
+      },
+      "properties": {
+        "label": "Matsu Weather Station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q124101761",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68416667,
+          24.14583333
+        ]
+      },
+      "properties": {
+        "label": "Q15926562",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q15926562",
+        "country_qid": "Q865"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.976546764,
+          40.630809215
+        ]
+      },
+      "properties": {
+        "label": "Tsovagyugh electrical substation",
+        "type": "Electrical substation",
+        "entity": "http://www.wikidata.org/entity/Q113501389",
+        "country_qid": "Q399"
+      }
+    }
+  ]
+}

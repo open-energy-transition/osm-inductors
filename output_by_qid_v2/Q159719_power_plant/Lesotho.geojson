@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.452555555,
+          -28.7795
+        ]
+      },
+      "properties": {
+        "label": "Q56374019",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q56374019",
+        "country_qid": "Q1013"
+      }
+    }
+  ]
+}

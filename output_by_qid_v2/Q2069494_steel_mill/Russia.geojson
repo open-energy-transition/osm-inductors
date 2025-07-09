@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.661865307,
+          57.977814684
+        ]
+      },
+      "properties": {
+        "label": "Q112052829",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q112052829",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.147877,
+          58.776317
+        ]
+      },
+      "properties": {
+        "label": "Chermoz iron works",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q110273358",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.545,
+          56.85
+        ]
+      },
+      "properties": {
+        "label": "VIZ-Stal",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q7907101",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.811093,
+          56.494063
+        ]
+      },
+      "properties": {
+        "label": "Q119931281",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q119931281",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.742819,
+          55.890425
+        ]
+      },
+      "properties": {
+        "label": "Kasli Metallurgical Plant",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q107344305",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.081274268,
+          59.083668647
+        ]
+      },
+      "properties": {
+        "label": "Pozhvinsky plant",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q4368702",
+        "country_qid": "Q159"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.43681111,
+          -8.09959722
+        ]
+      },
+      "properties": {
+        "label": "Bali–Java Powerline",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q4851044",
+        "country_qid": "Q252"
+      }
+    }
+  ]
+}

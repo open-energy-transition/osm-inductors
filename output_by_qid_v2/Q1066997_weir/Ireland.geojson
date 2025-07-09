@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.69582,
+          53.65624
+        ]
+      },
+      "properties": {
+        "label": "Millbrook Weir",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q55047477",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.98351,
+          52.98689
+        ]
+      },
+      "properties": {
+        "label": "River Barrow Weir",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q55028475",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.91764,
+          53.73952
+        ]
+      },
+      "properties": {
+        "label": "Termonbarry Weir",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q55050778",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.43634,
+          53.36763
+        ]
+      },
+      "properties": {
+        "label": "Anna Liffey Weir",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q55049419",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3309,
+          53.28913
+        ]
+      },
+      "properties": {
+        "label": "Firhouse Weir",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q55049472",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.05596,
+          53.2756
+        ]
+      },
+      "properties": {
+        "label": "Salmon Weir Bridge",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q55028307",
+        "country_qid": "Q27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.075972,
+          53.174902
+        ]
+      },
+      "properties": {
+        "label": "Meelick weir",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q64415904",
+        "country_qid": "Q27"
+      }
+    }
+  ]
+}

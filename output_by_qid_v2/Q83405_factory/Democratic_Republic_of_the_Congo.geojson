@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3430528,
+          -4.3257944
+        ]
+      },
+      "properties": {
+        "label": "Bracongo",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q2923371",
+        "country_qid": "Q974"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3031,
+          -4.3322
+        ]
+      },
+      "properties": {
+        "label": "Q123819614",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q123819614",
+        "country_qid": "Q974"
+      }
+    }
+  ]
+}

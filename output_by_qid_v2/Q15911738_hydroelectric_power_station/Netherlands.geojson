@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.425,
+          51.973611
+        ]
+      },
+      "properties": {
+        "label": "hydroelectric power station Maurik",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q70328990",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.07851,
+          52.45288
+        ]
+      },
+      "properties": {
+        "label": "Hezenbergerstuw",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q125536814",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.354186,
+          51.632898
+        ]
+      },
+      "properties": {
+        "label": "Dommelstroom",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q91201052",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.40917,
+          51.97472
+        ]
+      },
+      "properties": {
+        "label": "Sluis- en Stuwcomplex Amerongen",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q1527987",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.453527777,
+          51.811083333
+        ]
+      },
+      "properties": {
+        "label": "Lith/Alphen power plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q56372292",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.75,
+          51.273056
+        ]
+      },
+      "properties": {
+        "label": "Hydroelectric power plant Roeven",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q2112523",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.922468,
+          51.169377
+        ]
+      },
+      "properties": {
+        "label": "weir and lock complex Linne",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q28912425",
+        "country_qid": "Q55"
+      }
+    }
+  ]
+}

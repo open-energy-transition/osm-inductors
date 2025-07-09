@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.146938888,
+          51.308608333
+        ]
+      },
+      "properties": {
+        "label": "Groeve Maalbeek (Belfeld)",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q126963646",
+        "country_qid": "Q29999",
+        "Wikidata Qid": "Q126963646"
+      }
+    }
+  ]
+}

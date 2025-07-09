@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.38532778,
+          43.36882222
+        ]
+      },
+      "properties": {
+        "label": "Maritime traffic control tower in A Coruña",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q28169249",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.46657181,
+          36.830595834
+        ]
+      },
+      "properties": {
+        "label": "Q112342655",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q112342655",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.41421,
+          39.52064
+        ]
+      },
+      "properties": {
+        "label": "Railway control tower in Godella",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q17195252",
+        "country_qid": "Q29"
+      }
+    }
+  ]
+}

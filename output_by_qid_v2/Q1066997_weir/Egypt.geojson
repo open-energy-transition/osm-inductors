@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.185615,
+          27.195571
+        ]
+      },
+      "properties": {
+        "label": "Asyut head regulator",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q67180173",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.811302,
+          27.558908
+        ]
+      },
+      "properties": {
+        "label": "Dairut regulator",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q66776578",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.971472,
+          29.206626
+        ]
+      },
+      "properties": {
+        "label": "Illahun regulator",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q66774303",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.556267,
+          25.31762
+        ]
+      },
+      "properties": {
+        "label": "New Esna dam",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q23950069",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.24058342,
+          30.74374962
+        ]
+      },
+      "properties": {
+        "label": "Zifta dam",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q16740403",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.182917,
+          27.177211
+        ]
+      },
+      "properties": {
+        "label": "al-Magdhub barrage",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q29514083",
+        "country_qid": "Q79"
+      }
+    }
+  ]
+}

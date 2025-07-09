@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.033,
+          12.233
+        ]
+      },
+      "properties": {
+        "label": "Parque eólico Jepírachi",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q18776171",
+        "country_qid": "Q739"
+      }
+    }
+  ]
+}

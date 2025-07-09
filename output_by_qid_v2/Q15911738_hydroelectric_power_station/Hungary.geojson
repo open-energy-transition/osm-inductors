@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.081688,
+          48.261813
+        ]
+      },
+      "properties": {
+        "label": "Hydropower plant Felsődobsza",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q121863498",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.033205161,
+          47.995969766
+        ]
+      },
+      "properties": {
+        "label": "Kesznyéten Hydroelectric Power Plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q110664364",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.51556944,
+          47.49296111
+        ]
+      },
+      "properties": {
+        "label": "Tisza Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q17025650",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.599021,
+          47.001024
+        ]
+      },
+      "properties": {
+        "label": "Q99571590",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q99571590",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1635,
+          48.317944
+        ]
+      },
+      "properties": {
+        "label": "Gibárt Hydroelectric Power Plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q56391938",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4995,
+          46.891
+        ]
+      },
+      "properties": {
+        "label": "Békésszentandrás Weir",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q854153",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.934138,
+          47.2173015
+        ]
+      },
+      "properties": {
+        "label": "Ikervár Hydroelectric Power Plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q1096292",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3078761,
+          48.0251409
+        ]
+      },
+      "properties": {
+        "label": "Tiszalök Hydroelectric Power Pant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q28830084",
+        "country_qid": "Q28"
+      }
+    }
+  ]
+}

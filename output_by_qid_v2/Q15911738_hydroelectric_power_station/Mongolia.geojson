@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.664944444,
+          46.693833333
+        ]
+      },
+      "properties": {
+        "label": "Taishir hydroelectric power plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q12005076",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.807305555,
+          48.326138888
+        ]
+      },
+      "properties": {
+        "label": "Dorgon hydroelectric power plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q61448321",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.2743,
+          46.5931
+        ]
+      },
+      "properties": {
+        "label": "Guulin Hydro Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q133190139",
+        "country_qid": "Q711"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.795444444,
+          24.61275
+        ]
+      },
+      "properties": {
+        "label": "Kom Ombo photovoltaic power plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q97280299",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.739,
+          24.456
+        ]
+      },
+      "properties": {
+        "label": "Benban Solar Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q48989519",
+        "country_qid": "Q79"
+      }
+    }
+  ]
+}

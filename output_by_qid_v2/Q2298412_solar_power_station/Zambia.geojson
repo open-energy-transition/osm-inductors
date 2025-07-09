@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.431666666,
+          -15.511666666
+        ]
+      },
+      "properties": {
+        "label": "Bangweulu Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q108673091",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.236388888,
+          -12.807222222
+        ]
+      },
+      "properties": {
+        "label": "Zambia Riverside Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q111941340",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.094722222,
+          -12.724166666
+        ]
+      },
+      "properties": {
+        "label": "Kalulushi Concentrated Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q109255287",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.03,
+          -16.775
+        ]
+      },
+      "properties": {
+        "label": "Choma Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q126052714",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.577222222,
+          -12.758055555
+        ]
+      },
+      "properties": {
+        "label": "Serenje Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q107694663",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.428888888,
+          -15.5175
+        ]
+      },
+      "properties": {
+        "label": "Ngonye Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q108770726",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.180833333,
+          -12.695
+        ]
+      },
+      "properties": {
+        "label": "Itimpi Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q125843745",
+        "country_qid": "Q953"
+      }
+    }
+  ]
+}

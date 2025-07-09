@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3233,
+          48.2997
+        ]
+      },
+      "properties": {
+        "label": "Q1266917",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1266917",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.589164674,
+          48.013102003
+        ]
+      },
+      "properties": {
+        "label": "Q19392536",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q19392536",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4339,
+          48.2767
+        ]
+      },
+      "properties": {
+        "label": "Leopoldau power station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1495004",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4921,
+          46.9086
+        ]
+      },
+      "properties": {
+        "label": "Mellach CC power plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1495007",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4633,
+          48.1992
+        ]
+      },
+      "properties": {
+        "label": "Donaustadt power station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1158820",
+        "country_qid": "Q40"
+      }
+    }
+  ]
+}

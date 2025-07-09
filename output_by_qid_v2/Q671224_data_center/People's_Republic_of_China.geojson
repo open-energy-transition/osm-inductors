@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.38861111,
+          23.07305556
+        ]
+      },
+      "properties": {
+        "label": "National Supercomputing Center in Guangzhou (NSCC-GZ)",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q13518432",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3800568,
+          39.9079038
+        ]
+      },
+      "properties": {
+        "label": "Telegraph Building",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q10902368",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.938211,
+          28.176403
+        ]
+      },
+      "properties": {
+        "label": "National Supercomputing Center in Changsha",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q17023539",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.720672,
+          39.042342
+        ]
+      },
+      "properties": {
+        "label": "National Supercomputing Center of Tianjin",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q6978768",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.385246268,
+          40.004644434
+        ]
+      },
+      "properties": {
+        "label": "National Astronomical Data Center",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q113648846",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.125847,
+          36.673356
+        ]
+      },
+      "properties": {
+        "label": "National Supercomputing Center in Jinan",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q17023538",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.984467,
+          22.599314
+        ]
+      },
+      "properties": {
+        "label": "National Supercomputing Center in Shenzhen",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q6978767",
+        "country_qid": "Q148"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.6989885,
+          28.4671068
+        ]
+      },
+      "properties": {
+        "label": "Carbón II thermal power station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11963104",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.6904054,
+          28.4856666
+        ]
+      },
+      "properties": {
+        "label": "José López Portillo thermal power station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11963103",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.1154389,
+          17.98365
+        ]
+      },
+      "properties": {
+        "label": "Petacalco thermal power station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q19818968",
+        "country_qid": "Q96"
+      }
+    }
+  ]
+}

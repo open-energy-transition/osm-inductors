@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.879444444,
+          -21.955277777
+        ]
+      },
+      "properties": {
+        "label": "Selebi-Phikwe Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q114069409",
+        "country_qid": "Q963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.612222222,
+          -21.439722222
+        ]
+      },
+      "properties": {
+        "label": "Letlhakane Concentrated Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q114120077",
+        "country_qid": "Q963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.968611,
+          -24.573611
+        ]
+      },
+      "properties": {
+        "label": "Phakalane power station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q60775544",
+        "country_qid": "Q963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.698611111,
+          -21.861944444
+        ]
+      },
+      "properties": {
+        "label": "Mmadinare Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q124117115",
+        "country_qid": "Q963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.804444444,
+          -21.52
+        ]
+      },
+      "properties": {
+        "label": "Tati Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q108281341",
+        "country_qid": "Q963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.715937,
+          -26.605593
+        ]
+      },
+      "properties": {
+        "label": "Jwaneng Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q130130713",
+        "country_qid": "Q963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.406111111,
+          -20.037222222
+        ]
+      },
+      "properties": {
+        "label": "Maun Concentrated Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q114069386",
+        "country_qid": "Q963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.012777777,
+          -22.489722222
+        ]
+      },
+      "properties": {
+        "label": "Palapye Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q124739833",
+        "country_qid": "Q963"
+      }
+    }
+  ]
+}

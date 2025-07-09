@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.735187084,
+          10.321291603
+        ]
+      },
+      "properties": {
+        "label": "Sholayar Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q17089992",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.373055555,
+          25.098055555
+        ]
+      },
+      "properties": {
+        "label": "Matatila Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q6786153",
+        "country_qid": "Q668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.880490453,
+          10.29927341
+        ]
+      },
+      "properties": {
+        "label": "Solaiyar Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q3446230",
+        "country_qid": "Q668"
+      }
+    }
+  ]
+}

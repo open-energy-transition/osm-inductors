@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.206,
+          -33.8669
+        ]
+      },
+      "properties": {
+        "label": "AWA Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q300206",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.097777777,
+          -35.275555555
+        ]
+      },
+      "properties": {
+        "label": "Black Mountain Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q880443",
+        "country_qid": "Q408"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.650555555,
+          -17.188055555
+        ]
+      },
+      "properties": {
+        "label": "Baynes Hydroelectric Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q96373288",
+        "country_qid": "Q1030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.22266,
+          -17.39348
+        ]
+      },
+      "properties": {
+        "label": "Ruacana Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q7375640",
+        "country_qid": "Q1030"
+      }
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.264166666,
+          42.181111111
+        ]
+      },
+      "properties": {
+        "label": "Fierza Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q15062919",
+        "country_qid": "Q222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.62639,
+          42.06472
+        ]
+      },
+      "properties": {
+        "label": "Lake Vau i Dejës",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q22007584",
+        "country_qid": "Q222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.606944444,
+          42.006944444
+        ]
+      },
+      "properties": {
+        "label": "Spathara Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q100893886",
+        "country_qid": "Q222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.830497402,
+          41.691323599
+        ]
+      },
+      "properties": {
+        "label": "Q31668326",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q31668326",
+        "country_qid": "Q222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.866485,
+          41.801789
+        ]
+      },
+      "properties": {
+        "label": "Qafë Mollë Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q116668028",
+        "country_qid": "Q222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8425,
+          40.859166666
+        ]
+      },
+      "properties": {
+        "label": "Ujembledhesi i Thanes",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q22007539",
+        "country_qid": "Q222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.86666667,
+          41.44527778
+        ]
+      },
+      "properties": {
+        "label": "Bovilla reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q895359",
+        "country_qid": "Q222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.933333333,
+          40.833333333
+        ]
+      },
+      "properties": {
+        "label": "Gorajt Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q22009524",
+        "country_qid": "Q222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.455555555,
+          40.6875
+        ]
+      },
+      "properties": {
+        "label": "Moglicë Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q132726163",
+        "country_qid": "Q222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.898888888,
+          42.218611111
+        ]
+      },
+      "properties": {
+        "label": "Lake Koman",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q22012027",
+        "country_qid": "Q222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.91667,
+          41.68333
+        ]
+      },
+      "properties": {
+        "label": "Lake Ulza",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q22007568",
+        "country_qid": "Q222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3785433,
+          42.296908
+        ]
+      },
+      "properties": {
+        "label": "Letaj Water Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q117126835",
+        "country_qid": "Q222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.083333333,
+          40.956944444
+        ]
+      },
+      "properties": {
+        "label": "Lake Banja",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q99519088",
+        "country_qid": "Q222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.817222222,
+          41.311388888
+        ]
+      },
+      "properties": {
+        "label": "Tirana Artificial Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q22011884",
+        "country_qid": "Q222"
+      }
+    }
+  ]
+}

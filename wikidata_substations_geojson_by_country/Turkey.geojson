@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.789444444,
+          41.068333333
+        ]
+      },
+      "properties": {
+        "label": "İkitelli substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q52454542",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.955,
+          41.06
+        ]
+      },
+      "properties": {
+        "label": "Yıldıztepe substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q52457069",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2425,
+          40.996388888
+        ]
+      },
+      "properties": {
+        "label": "Paşaköy substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q52460991",
+        "country_qid": "Q43"
+      }
+    }
+  ]
+}

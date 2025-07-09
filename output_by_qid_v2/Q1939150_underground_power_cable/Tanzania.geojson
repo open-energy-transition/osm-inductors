@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.762777777,
+          -8.770555555
+        ]
+      },
+      "properties": {
+        "label": "Iringa–Sumbawanga High Voltage Power Line",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q104876200",
+        "country_qid": "Q924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8,
+          -1.995
+        ]
+      },
+      "properties": {
+        "label": "Isinya–Singida High Voltage Power Line",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q28223352",
+        "country_qid": "Q924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.414444444,
+          -0.9975
+        ]
+      },
+      "properties": {
+        "label": "Masaka–Mutukula–Mwanza High Voltage Power Line",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q48813338",
+        "country_qid": "Q924"
+      }
+    }
+  ]
+}

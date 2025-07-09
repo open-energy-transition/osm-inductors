@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.02427,
+          41.09009
+        ]
+      },
+      "properties": {
+        "label": "Elbasan steelworks",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q13040918",
+        "country_qid": "Q222"
+      }
+    }
+  ]
+}

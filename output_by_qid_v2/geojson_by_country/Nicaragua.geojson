@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0514477,
+          13.1065331
+        ]
+      },
+      "properties": {
+        "label": "Central America Hydroelectric Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q117749778",
+        "country_qid": "Q811",
+        "Wikidata Qid": "Q117749778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.407,
+          13.0086
+        ]
+      },
+      "properties": {
+        "label": "Tumarín Dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q17103523",
+        "country_qid": "Q811",
+        "Wikidata Qid": "Q17103523"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.976427777,
+          13.194497222
+        ]
+      },
+      "properties": {
+        "label": "Lago de Apanás",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3017786",
+        "country_qid": "Q811",
+        "Wikidata Qid": "Q3017786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.902975,
+          12.363083333
+        ]
+      },
+      "properties": {
+        "label": "Presa Las Canoas",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q106827659",
+        "country_qid": "Q811",
+        "Wikidata Qid": "Q106827659"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4861159,
+          14.3860022
+        ]
+      },
+      "properties": {
+        "label": "Mina Santa Rosa",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21053449",
+        "country_qid": "Q811",
+        "Wikidata Qid": "Q21053449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1181784,
+          11.733507
+        ]
+      },
+      "properties": {
+        "label": "Mina Las Cuevas",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21052722",
+        "country_qid": "Q811",
+        "Wikidata Qid": "Q21052722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0476417,
+          13.7688249
+        ]
+      },
+      "properties": {
+        "label": "Mineral Carvi",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21053452",
+        "country_qid": "Q811",
+        "Wikidata Qid": "Q21053452"
+      }
+    }
+  ]
+}

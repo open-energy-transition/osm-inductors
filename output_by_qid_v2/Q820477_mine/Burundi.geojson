@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.277222222,
+          -2.765555555
+        ]
+      },
+      "properties": {
+        "label": "Masaka gold mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q28125240",
+        "country_qid": "Q967"
+      }
+    }
+  ]
+}

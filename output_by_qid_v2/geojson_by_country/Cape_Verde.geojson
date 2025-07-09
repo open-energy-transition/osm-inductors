@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5071,
+          14.9199
+        ]
+      },
+      "properties": {
+        "label": "Porto da Praia",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q23007049",
+        "country_qid": "Q1011",
+        "Wikidata Qid": "Q23007049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.646082271,
+          15.150587905
+        ]
+      },
+      "properties": {
+        "label": "Q132891778",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q132891778",
+        "country_qid": "Q1011",
+        "Wikidata Qid": "Q132891778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.05936237,
+          17.01592814
+        ]
+      },
+      "properties": {
+        "label": "Q125921541",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q125921541",
+        "country_qid": "Q1011",
+        "Wikidata Qid": "Q125921541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.553958333,
+          15.075652777
+        ]
+      },
+      "properties": {
+        "label": "Barragem de Poilão",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q9649141",
+        "country_qid": "Q1011",
+        "Wikidata Qid": "Q9649141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.50363,
+          14.92036
+        ]
+      },
+      "properties": {
+        "label": "Vale de Cavaleiros",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q30621712",
+        "country_qid": "Q1011",
+        "Wikidata Qid": "Q30621712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.54996,
+          15.07973
+        ]
+      },
+      "properties": {
+        "label": "Poilao Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q23006616",
+        "country_qid": "Q1011",
+        "Wikidata Qid": "Q23006616"
+      }
+    }
+  ]
+}

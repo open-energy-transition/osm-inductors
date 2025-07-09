@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.004444444,
+          47.373055555
+        ]
+      },
+      "properties": {
+        "label": "Lakihegy Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q366333",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.031566666,
+          46.834308333
+        ]
+      },
+      "properties": {
+        "label": "Transmitter Solt",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1289873",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7755435,
+          48.0994114
+        ]
+      },
+      "properties": {
+        "label": "Avas TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q627845",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.14533611,
+          46.27101389
+        ]
+      },
+      "properties": {
+        "label": "Telefontorony",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q16523231",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.588746309,
+          47.563467229
+        ]
+      },
+      "properties": {
+        "label": "Communication tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q113329588",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8125,
+          46.81361111
+        ]
+      },
+      "properties": {
+        "label": "Bazita Peak TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1407345",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2825,
+          46.62388889
+        ]
+      },
+      "properties": {
+        "label": "Q16522954",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q16522954",
+        "country_qid": "Q28"
+      }
+    }
+  ]
+}

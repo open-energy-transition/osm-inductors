@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.766666666,
+          11.583333333
+        ]
+      },
+      "properties": {
+        "label": "Q21773367",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21773367",
+        "country_qid": "Q965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0732565,
+          14.3848
+        ]
+      },
+      "properties": {
+        "label": "Essakane Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16509232",
+        "country_qid": "Q965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.90302,
+          12.22527
+        ]
+      },
+      "properties": {
+        "label": "Q21774105",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21774105",
+        "country_qid": "Q965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0527778,
+          14.7503
+        ]
+      },
+      "properties": {
+        "label": "Tambao",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q7681006",
+        "country_qid": "Q965"
+      }
+    }
+  ]
+}

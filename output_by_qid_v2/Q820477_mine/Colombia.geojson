@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6667,
+          7.75
+        ]
+      },
+      "properties": {
+        "label": "Cerro Matoso mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16256976",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5825,
+          6.8225
+        ]
+      },
+      "properties": {
+        "label": "Minas Peñas Blancas",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q23711658",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0093,
+          5.01876
+        ]
+      },
+      "properties": {
+        "label": "Salt Cathedral of Zipaquirá",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q2565876",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.605277777,
+          6.456944444
+        ]
+      },
+      "properties": {
+        "label": "Minas de Cal Argos",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q23704582",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.620277777,
+          3.196388888
+        ]
+      },
+      "properties": {
+        "label": "Mina Burana Río Clara",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q23702966",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.32121,
+          11.90099
+        ]
+      },
+      "properties": {
+        "label": "San Jorge",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q23727754",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.560833333,
+          7.427777777
+        ]
+      },
+      "properties": {
+        "label": "Mina de Guayacanes",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q23690123",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.73261111,
+          5.33447222
+        ]
+      },
+      "properties": {
+        "label": "Quinchía mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16968802",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.67527778,
+          11.08944444
+        ]
+      },
+      "properties": {
+        "label": "Cerrejón",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q1323960",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.500277777,
+          6.465833333
+        ]
+      },
+      "properties": {
+        "label": "Mina de Oro Santa Lucia",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q23727373",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.21861111,
+          5.55777778
+        ]
+      },
+      "properties": {
+        "label": "Las Pavas",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q28163783",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.661388888,
+          7.128888888
+        ]
+      },
+      "properties": {
+        "label": "La Colorada",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q23688334",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.148888888,
+          5.543888888
+        ]
+      },
+      "properties": {
+        "label": "Minas Tequendama",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q23705372",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.31964,
+          11.89042
+        ]
+      },
+      "properties": {
+        "label": "Salina Uakii",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q23727753",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.686388888,
+          6.283611111
+        ]
+      },
+      "properties": {
+        "label": "Mina Calizas Nare",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q23703972",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.376666666,
+          4.849444444
+        ]
+      },
+      "properties": {
+        "label": "Esmeraldas de Chivor",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q23691402",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.666111111,
+          7.121111111
+        ]
+      },
+      "properties": {
+        "label": "La Reina",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q23687457",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.383333333,
+          4.843888888
+        ]
+      },
+      "properties": {
+        "label": "Esmeraldas de Buenavista",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q23691401",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.144722222,
+          5.54
+        ]
+      },
+      "properties": {
+        "label": "Mina El Chulo",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q23705642",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7675,
+          7.734166666
+        ]
+      },
+      "properties": {
+        "label": "Bajos de Cagüi",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q23696535",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.77402778,
+          9.67127778
+        ]
+      },
+      "properties": {
+        "label": "La Francia",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q28163706",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.369166666,
+          4.805833333
+        ]
+      },
+      "properties": {
+        "label": "Esmeraldas La Providencia",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q23691403",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.47,
+          7.578333333
+        ]
+      },
+      "properties": {
+        "label": "Minas La Mariposa",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q23688513",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06666667,
+          5.56666667
+        ]
+      },
+      "properties": {
+        "label": "La Pita",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q28163791",
+        "country_qid": "Q739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5,
+          4.41667
+        ]
+      },
+      "properties": {
+        "label": "La Colosa mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q3314819",
+        "country_qid": "Q739"
+      }
+    }
+  ]
+}

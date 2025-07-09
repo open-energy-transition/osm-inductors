@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.96555556,
+          -2.70138889
+        ]
+      },
+      "properties": {
+        "label": "Ruzizi III Hydroelectric Power Station",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q38250595",
+        "country_qid": "Q974"
+      }
+    }
+  ]
+}

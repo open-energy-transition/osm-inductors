@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7053653,
+          -33.1297119
+        ]
+      },
+      "properties": {
+        "label": "Binningup Desalination Plant  electrical substation",
+        "type": "Electrical substation",
+        "entity": "http://www.wikidata.org/entity/Q134289835",
+        "country_qid": "Q125372661"
+      }
+    }
+  ]
+}

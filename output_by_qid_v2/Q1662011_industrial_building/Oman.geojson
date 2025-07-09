@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.9842707,
+          23.7076948
+        ]
+      },
+      "properties": {
+        "label": "Barka I integrated water and power plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q11956637",
+        "country_qid": "Q842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.633333333,
+          24.472222222
+        ]
+      },
+      "properties": {
+        "label": "Sohar I integrated water and power plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q12001754",
+        "country_qid": "Q842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.683,
+          19.68459
+        ]
+      },
+      "properties": {
+        "label": "Duqm Refinery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q111710552",
+        "country_qid": "Q842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.5922,
+          23.61387
+        ]
+      },
+      "properties": {
+        "label": "Muscat",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430774",
+        "country_qid": "Q842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.4905551,
+          17.0379695
+        ]
+      },
+      "properties": {
+        "label": "Salalah integrated water and power plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q114359144",
+        "country_qid": "Q842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.9814846,
+          23.7076042
+        ]
+      },
+      "properties": {
+        "label": "Barka II Power Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q114358771",
+        "country_qid": "Q842"
+      }
+    }
+  ]
+}

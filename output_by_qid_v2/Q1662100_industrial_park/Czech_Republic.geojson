@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3251197,
+          49.7263472
+        ]
+      },
+      "properties": {
+        "label": "CTPark Pilsen",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q109933501",
+        "country_qid": "Q213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4797144,
+          50.1132958
+        ]
+      },
+      "properties": {
+        "label": "Areál Pekařka",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q110856874",
+        "country_qid": "Q213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4965156,
+          50.100775
+        ]
+      },
+      "properties": {
+        "label": "Pražírny Vysočany",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q113116036",
+        "country_qid": "Q213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4909853,
+          50.0887292
+        ]
+      },
+      "properties": {
+        "label": "Centrum Jarov",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q112770092",
+        "country_qid": "Q213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3607817,
+          50.0629578
+        ]
+      },
+      "properties": {
+        "label": "Areál Tellus",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q113757852",
+        "country_qid": "Q213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.353005404,
+          49.527672651
+        ]
+      },
+      "properties": {
+        "label": "CTPark Humpolec",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q46206233",
+        "country_qid": "Q213"
+      }
+    }
+  ]
+}

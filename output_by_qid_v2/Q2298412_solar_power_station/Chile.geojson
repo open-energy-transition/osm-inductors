@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.41666667,
+          -22.16666667
+        ]
+      },
+      "properties": {
+        "label": "María Elena Solar Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q15249886",
+        "country_qid": "Q298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.430555555,
+          -27.162944444
+        ]
+      },
+      "properties": {
+        "label": "Tama Te Ra'a Photovoltaic Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q123357928",
+        "country_qid": "Q298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.822034998,
+          -22.484843201
+        ]
+      },
+      "properties": {
+        "label": "Q114775986",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q114775986",
+        "country_qid": "Q298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.31666667,
+          -27.35
+        ]
+      },
+      "properties": {
+        "label": "Copiapó Solar Project",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q21044364",
+        "country_qid": "Q298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.899111111,
+          -29.131361111
+        ]
+      },
+      "properties": {
+        "label": "Q76824177",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q76824177",
+        "country_qid": "Q298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9616,
+          -26.2765
+        ]
+      },
+      "properties": {
+        "label": "Q107963014",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q107963014",
+        "country_qid": "Q298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.47994,
+          -22.77191
+        ]
+      },
+      "properties": {
+        "label": "Cerro Dominador Solar Thermal Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q16890173",
+        "country_qid": "Q298"
+      }
+    }
+  ]
+}

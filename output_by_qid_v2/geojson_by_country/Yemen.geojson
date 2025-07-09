@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.771666666,
+          15.552
+        ]
+      },
+      "properties": {
+        "label": "Marib Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q123384153",
+        "country_qid": "Q805",
+        "Wikidata Qid": "Q123384153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.029,
+          12.7743
+        ]
+      },
+      "properties": {
+        "label": "Cisterns of Tawila",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q5122310",
+        "country_qid": "Q805",
+        "Wikidata Qid": "Q5122310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.20667,
+          15.35472
+        ]
+      },
+      "properties": {
+        "label": "Sana'a",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127431187",
+        "country_qid": "Q805",
+        "Wikidata Qid": "Q127431187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0236,
+          15.3689
+        ]
+      },
+      "properties": {
+        "label": "Shaqir",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127431262",
+        "country_qid": "Q805",
+        "Wikidata Qid": "Q127431262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.133333,
+          14.533333
+        ]
+      },
+      "properties": {
+        "label": "al-Mukalla",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127431749",
+        "country_qid": "Q805",
+        "Wikidata Qid": "Q127431749"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.793817,
+          14.986325
+        ]
+      },
+      "properties": {
+        "label": "Harib",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430339",
+        "country_qid": "Q805",
+        "Wikidata Qid": "Q127430339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.03667,
+          12.77944
+        ]
+      },
+      "properties": {
+        "label": "Aden",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127429450",
+        "country_qid": "Q805",
+        "Wikidata Qid": "Q127429450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.905555555,
+          15.315
+        ]
+      },
+      "properties": {
+        "label": "Milḩ Kharwah",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q31279476",
+        "country_qid": "Q805",
+        "Wikidata Qid": "Q31279476"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0625,
+          32.69
+        ]
+      },
+      "properties": {
+        "label": "Huainan Luohe Powerline Crossing",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q1877549",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.051,
+          31.9617
+        ]
+      },
+      "properties": {
+        "label": "Jiangyin Yangtze power line crossing",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q71684121",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.6255,
+          31.9579
+        ]
+      },
+      "properties": {
+        "label": "Nanjing Yangtze power line crossing",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q71861727",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1273,
+          30.3604
+        ]
+      },
+      "properties": {
+        "label": "Wuhan Yangtze power line crossing",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q71738586",
+        "country_qid": "Q148"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.454861111,
+          48.992305555
+        ]
+      },
+      "properties": {
+        "label": "Chemická továrna",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q106683433",
+        "country_qid": "Q33946"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.545202734,
+          49.86561681
+        ]
+      },
+      "properties": {
+        "label": "Q117812226",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q117812226",
+        "country_qid": "Q33946"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2884072,
+          49.8288017
+        ]
+      },
+      "properties": {
+        "label": "Q21490705",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q21490705",
+        "country_qid": "Q33946"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4803414,
+          50.0845508
+        ]
+      },
+      "properties": {
+        "label": "Microphona bratří Knotků",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q36315560",
+        "country_qid": "Q33946"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4031994,
+          50.0762222
+        ]
+      },
+      "properties": {
+        "label": "Q121255375",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q121255375",
+        "country_qid": "Q33946"
+      }
+    }
+  ]
+}

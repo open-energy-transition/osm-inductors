@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.761578161,
+          11.487246341
+        ]
+      },
+      "properties": {
+        "label": "Porto Novo Iron Works",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q125544500",
+        "country_qid": "Q129286"
+      }
+    }
+  ]
+}

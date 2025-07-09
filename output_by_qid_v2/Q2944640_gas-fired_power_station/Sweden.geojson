@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.890517,
+          57.692618
+        ]
+      },
+      "properties": {
+        "label": "Rya Kraftvärmeverk",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q10658170",
+        "country_qid": "Q34"
+      }
+    }
+  ]
+}

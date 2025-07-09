@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.854833333,
+          54.250138888
+        ]
+      },
+      "properties": {
+        "label": "Windpark Sipsdorf",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q129262605",
+        "country_qid": "Q1194"
+      }
+    }
+  ]
+}

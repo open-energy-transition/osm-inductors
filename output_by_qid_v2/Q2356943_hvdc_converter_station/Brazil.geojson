@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.5425,
+          -25.466111111
+        ]
+      },
+      "properties": {
+        "label": "Foz do Iguaçu substation and converter station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q53843430",
+        "country_qid": "Q155"
+      }
+    }
+  ]
+}

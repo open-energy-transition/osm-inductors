@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.95222222,
+          41.00466667
+        ]
+      },
+      "properties": {
+        "label": "Harbour of Eleutherios",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q3288771",
+        "country_qid": "Q12544"
+      }
+    }
+  ]
+}

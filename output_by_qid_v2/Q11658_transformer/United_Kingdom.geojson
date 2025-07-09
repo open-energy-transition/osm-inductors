@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.52559,
+          53.36214
+        ]
+      },
+      "properties": {
+        "label": "Electric transformer at junction with High Cliffe Road",
+        "type": "Transformer",
+        "entity": "http://www.wikidata.org/entity/Q26560549",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.528774,
+          53.371878
+        ]
+      },
+      "properties": {
+        "label": "Electric transformer at junction with Belgrave Road",
+        "type": "Transformer",
+        "entity": "http://www.wikidata.org/entity/Q26560896",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

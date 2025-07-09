@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0475,
+          42.031666666
+        ]
+      },
+      "properties": {
+        "label": "Gori TV Broadcasting Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q5586423",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.784722222,
+          41.695833333
+        ]
+      },
+      "properties": {
+        "label": "Tbilisi TV Broadcasting Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1407344",
+        "country_qid": "Q230"
+      }
+    }
+  ]
+}

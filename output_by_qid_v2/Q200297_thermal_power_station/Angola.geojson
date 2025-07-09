@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.308166666,
+          -8.814638888
+        ]
+      },
+      "properties": {
+        "label": "Cazenga Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56373856",
+        "country_qid": "Q916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.278722222,
+          -8.784472222
+        ]
+      },
+      "properties": {
+        "label": "Q56373879",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56373879",
+        "country_qid": "Q916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.276722222,
+          -8.828111111
+        ]
+      },
+      "properties": {
+        "label": "CFL power plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56373878",
+        "country_qid": "Q916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3245305,
+          -6.1822569
+        ]
+      },
+      "properties": {
+        "label": "Soyo I Thermal Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56373857",
+        "country_qid": "Q916"
+      }
+    }
+  ]
+}

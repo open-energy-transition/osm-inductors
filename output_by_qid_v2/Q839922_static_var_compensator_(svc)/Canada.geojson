@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1942,
+          46.7047
+        ]
+      },
+      "properties": {
+        "label": "Levis De-Icer",
+        "type": "Static VAR Compensator (SVC)",
+        "entity": "http://www.wikidata.org/entity/Q1758867",
+        "country_qid": "Q16"
+      }
+    }
+  ]
+}

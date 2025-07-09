@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.209722222,
+          38.163888888
+        ]
+      },
+      "properties": {
+        "label": "Q25476853",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q25476853",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6097,
+          36.8658
+        ]
+      },
+      "properties": {
+        "label": "Greenway CSP Mersin Solar Tower Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q18639255",
+        "country_qid": "Q43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.584722222,
+          37.790833333
+        ]
+      },
+      "properties": {
+        "label": "Karapınar Photovoltaic Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q30595343",
+        "country_qid": "Q43"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.213825,
+          53.2657
+        ]
+      },
+      "properties": {
+        "label": "De Boerenzwaluw",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q61018270",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.82149,
+          53.16796
+        ]
+      },
+      "properties": {
+        "label": "Windmotor Goutum 2",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q17600677",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.22298241,
+          52.595501
+        ]
+      },
+      "properties": {
+        "label": "Het Vliegend Hert",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q64898797",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.01192,
+          51.96234
+        ]
+      },
+      "properties": {
+        "label": "Haliade-X",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q107498903",
+        "country_qid": "Q55"
+      }
+    }
+  ]
+}

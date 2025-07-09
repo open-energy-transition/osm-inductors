@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.632388888,
+          13.125694444
+        ]
+      },
+      "properties": {
+        "label": "Spring Garden Generating Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q118414866",
+        "country_qid": "Q244"
+      }
+    }
+  ]
+}

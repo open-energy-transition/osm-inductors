@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.98711,
+          14.61281
+        ]
+      },
+      "properties": {
+        "label": "Kandadji Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q6361166",
+        "country_qid": "Q1032"
+      }
+    }
+  ]
+}

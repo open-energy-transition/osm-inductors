@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2312,
+          42.1573
+        ]
+      },
+      "properties": {
+        "label": "Kalin Hydroelectric Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q115574408",
+        "country_qid": "Q219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.447606395,
+          41.940656162
+        ]
+      },
+      "properties": {
+        "label": "Orphey Hydroelectric Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q7103997",
+        "country_qid": "Q219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8612693,
+          42.1602779
+        ]
+      },
+      "properties": {
+        "label": "Chaira Hydro Power Plant",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q3441810",
+        "country_qid": "Q219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.858333333,
+          42.199444444
+        ]
+      },
+      "properties": {
+        "label": "Belmeken Hydro Power Plant",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q3441540",
+        "country_qid": "Q219"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2938349,
+          27.5170888
+        ]
+      },
+      "properties": {
+        "label": "Sephu Solar Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q123375874",
+        "country_qid": "Q917"
+      }
+    }
+  ]
+}

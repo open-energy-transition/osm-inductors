@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6958,
+          24.6433
+        ]
+      },
+      "properties": {
+        "label": "Riyadh TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1407325",
+        "country_qid": "Q851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1996,
+          21.473
+        ]
+      },
+      "properties": {
+        "label": "Jeddah TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1407285",
+        "country_qid": "Q851"
+      }
+    }
+  ]
+}

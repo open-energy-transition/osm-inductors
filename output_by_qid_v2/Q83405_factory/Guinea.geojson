@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.57824,
+          10.38698
+        ]
+      },
+      "properties": {
+        "label": "Fria aluminum factory",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q117409275",
+        "country_qid": "Q1006"
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.255555555,
+          39.734722222
+        ]
+      },
+      "properties": {
+        "label": "Q21405120",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21405120",
+        "country_qid": "Q399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.971666666,
+          40.234444444
+        ]
+      },
+      "properties": {
+        "label": "Zod gold mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q1133665",
+        "country_qid": "Q399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.05,
+          39.970833333
+        ]
+      },
+      "properties": {
+        "label": "Q21404265",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21404265",
+        "country_qid": "Q399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8463,
+          41.0881
+        ]
+      },
+      "properties": {
+        "label": "Teghut copper-molybdenum deposit",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q4456930",
+        "country_qid": "Q399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.137979,
+          39.145131
+        ]
+      },
+      "properties": {
+        "label": "Kajaran copper-molybdenum deposit",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q4207242",
+        "country_qid": "Q399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.65,
+          40.3
+        ]
+      },
+      "properties": {
+        "label": "Abovyan mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q4054814",
+        "country_qid": "Q399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7995,
+          40.57716
+        ]
+      },
+      "properties": {
+        "label": "Hrazdan mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16976683",
+        "country_qid": "Q399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.136489583,
+          39.144500061
+        ]
+      },
+      "properties": {
+        "label": "Kapan mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q17056907",
+        "country_qid": "Q399"
+      }
+    }
+  ]
+}

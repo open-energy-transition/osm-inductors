@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.989193,
+          31.83926
+        ]
+      },
+      "properties": {
+        "label": "Nicopolis",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430840",
+        "country_qid": "Q219060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.458046,
+          31.510975
+        ]
+      },
+      "properties": {
+        "label": "Gaza",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430277",
+        "country_qid": "Q219060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.195,
+          32.276389
+        ]
+      },
+      "properties": {
+        "label": "Samaria",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431179",
+        "country_qid": "Q219060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.47975,
+          31.536326
+        ]
+      },
+      "properties": {
+        "label": "Anthedon",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127429558",
+        "country_qid": "Q219060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.46667,
+          31.5
+        ]
+      },
+      "properties": {
+        "label": "Ghaza",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430292",
+        "country_qid": "Q219060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.299805555,
+          31.952916666
+        ]
+      },
+      "properties": {
+        "label": "Taybeh Brewery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q1575609",
+        "country_qid": "Q219060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.195158,
+          32.276172
+        ]
+      },
+      "properties": {
+        "label": "Sebaste",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431220",
+        "country_qid": "Q219060"
+      }
+    }
+  ]
+}

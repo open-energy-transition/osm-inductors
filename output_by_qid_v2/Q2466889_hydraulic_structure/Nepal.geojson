@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9269,
+          26.5263
+        ]
+      },
+      "properties": {
+        "label": "Koshi Barrage",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q6433103",
+        "country_qid": "Q837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.275940009,
+          27.482445482
+        ]
+      },
+      "properties": {
+        "label": "Central Canal",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q108544614",
+        "country_qid": "Q837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.19413889,
+          27.51094444
+        ]
+      },
+      "properties": {
+        "label": "Arun III",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q4802090",
+        "country_qid": "Q837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.316666666,
+          26.95
+        ]
+      },
+      "properties": {
+        "label": "Jhānj Canal",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q34711591",
+        "country_qid": "Q837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4006,
+          26.80403
+        ]
+      },
+      "properties": {
+        "label": "Manuṣmārā Canal",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q34731685",
+        "country_qid": "Q837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.152777777,
+          27.608333333
+        ]
+      },
+      "properties": {
+        "label": "Kulekhani Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q13179342",
+        "country_qid": "Q837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.433333333,
+          26.933333333
+        ]
+      },
+      "properties": {
+        "label": "Q49252776",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q49252776",
+        "country_qid": "Q837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.929722222,
+          26.741388888
+        ]
+      },
+      "properties": {
+        "label": "Chandra Canal",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q30594976",
+        "country_qid": "Q837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7711,
+          29.3589
+        ]
+      },
+      "properties": {
+        "label": "West Seti Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q7986465",
+        "country_qid": "Q837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4534783,
+          27.805765
+        ]
+      },
+      "properties": {
+        "label": "Dhap Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q113882900",
+        "country_qid": "Q837"
+      }
+    }
+  ]
+}

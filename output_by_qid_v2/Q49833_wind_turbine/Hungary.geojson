@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1952,
+          47.204
+        ]
+      },
+      "properties": {
+        "label": "Q1097217",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q1097217",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.57576,
+          47.01823
+        ]
+      },
+      "properties": {
+        "label": "Wind turbine in Mezőtúr",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q1176581",
+        "country_qid": "Q28"
+      }
+    }
+  ]
+}

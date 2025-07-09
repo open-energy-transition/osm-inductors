@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.183305555,
+          36.381388888
+        ]
+      },
+      "properties": {
+        "label": "Tishrin Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q594024",
+        "country_qid": "Q858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.566666666,
+          35.872222222
+        ]
+      },
+      "properties": {
+        "label": "Tabqa Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q372823",
+        "country_qid": "Q858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.74722222,
+          35.88527778
+        ]
+      },
+      "properties": {
+        "label": "Freedom Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q2885439",
+        "country_qid": "Q858"
+      }
+    }
+  ]
+}

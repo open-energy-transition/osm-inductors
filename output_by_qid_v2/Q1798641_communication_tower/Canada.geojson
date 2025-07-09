@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7752,
+          43.2075
+        ]
+      },
+      "properties": {
+        "label": "CHCH Television Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q5011067",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.387147222,
+          43.642752777
+        ]
+      },
+      "properties": {
+        "label": "CN Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q134883",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6516,
+          46.4926
+        ]
+      },
+      "properties": {
+        "label": "CBC Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q3543516",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7765,
+          46.09
+        ]
+      },
+      "properties": {
+        "label": "Bell Aliant Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q4883108",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2644,
+          42.9497
+        ]
+      },
+      "properties": {
+        "label": "CFPL Television Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q5010762",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6347,
+          43.4047
+        ]
+      },
+      "properties": {
+        "label": "Baden Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q4840769",
+        "country_qid": "Q16"
+      }
+    }
+  ]
+}

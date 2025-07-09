@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1079,
+          26.6919
+        ]
+      },
+      "properties": {
+        "label": "Ras Tanura Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q16510565",
+        "country_qid": "Q851"
+      }
+    }
+  ]
+}

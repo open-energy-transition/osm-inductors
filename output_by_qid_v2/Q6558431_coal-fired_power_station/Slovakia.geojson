@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.53333333,
+          48.69861111
+        ]
+      },
+      "properties": {
+        "label": "Nováky Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1583581",
+        "country_qid": "Q214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9781,
+          48.5536
+        ]
+      },
+      "properties": {
+        "label": "Vojany Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1163149",
+        "country_qid": "Q214"
+      }
+    }
+  ]
+}

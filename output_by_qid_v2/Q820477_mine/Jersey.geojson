@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.229722222,
+          49.234444444
+        ]
+      },
+      "properties": {
+        "label": "La Thiebaut",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27118248",
+        "country_qid": "Q785"
+      }
+    }
+  ]
+}

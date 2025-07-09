@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22,
+          13.925
+        ]
+      },
+      "properties": {
+        "label": "Cerro de Hula wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q16616331",
+        "country_qid": "Q783"
+      }
+    }
+  ]
+}

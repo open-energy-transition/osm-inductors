@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.666133,
+          39.866721
+        ]
+      },
+      "properties": {
+        "label": "Q21532228",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q21532228",
+        "country_qid": "Q399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.40576,
+          39.20754
+        ]
+      },
+      "properties": {
+        "label": "Ma'dan",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430643",
+        "country_qid": "Q399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.57943,
+          39.886613
+        ]
+      },
+      "properties": {
+        "label": "Artaxata",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127429648",
+        "country_qid": "Q399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.501653,
+          40.156131
+        ]
+      },
+      "properties": {
+        "label": "Transistor Yerevan",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q131564901",
+        "country_qid": "Q399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.508103,
+          40.183665
+        ]
+      },
+      "properties": {
+        "label": "Dargett Craft Beer",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q59573998",
+        "country_qid": "Q399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.623457,
+          40.28181
+        ]
+      },
+      "properties": {
+        "label": "Sirius",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q132349043",
+        "country_qid": "Q399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.58376,
+          40.01984
+        ]
+      },
+      "properties": {
+        "label": "Irminiyah (Dwin)",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430460",
+        "country_qid": "Q399"
+      }
+    }
+  ]
+}

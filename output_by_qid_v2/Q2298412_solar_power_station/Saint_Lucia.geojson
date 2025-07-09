@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.961027777,
+          13.737527777
+        ]
+      },
+      "properties": {
+        "label": "Vieux Fort Solar Farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q118418687",
+        "country_qid": "Q760"
+      }
+    }
+  ]
+}

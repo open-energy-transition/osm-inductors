@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.968425,
+          45.8012442
+        ]
+      },
+      "properties": {
+        "label": "HOPS",
+        "type": "transmission system operator (TSO)",
+        "entity": "http://www.wikidata.org/entity/Q88774656",
+        "country_qid": "Q224"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6039085,
+          -25.3869172
+        ]
+      },
+      "properties": {
+        "label": "Villa Elisa Refinery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q7930312",
+        "country_qid": "Q733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.608888888,
+          -25.42
+        ]
+      },
+      "properties": {
+        "label": "Itaipu right bank substation",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q53679310",
+        "country_qid": "Q733"
+      }
+    }
+  ]
+}

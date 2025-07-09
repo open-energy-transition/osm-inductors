@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.692323,
+          42.135867
+        ]
+      },
+      "properties": {
+        "label": "Phasis",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127431013",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.01843,
+          42.12009
+        ]
+      },
+      "properties": {
+        "label": "Zestaponi Ferroalloy Factory",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q16369632",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.761294126,
+          41.823533303
+        ]
+      },
+      "properties": {
+        "label": "Zahesi electrical substation",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q113496842",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.003076,
+          42.993299
+        ]
+      },
+      "properties": {
+        "label": "Dioscurias",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430134",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.77407217,
+          41.740049545
+        ]
+      },
+      "properties": {
+        "label": "Didube electrical substation",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q113496830",
+        "country_qid": "Q230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.83368,
+          41.69411
+        ]
+      },
+      "properties": {
+        "label": "Tiflis",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127431427",
+        "country_qid": "Q230"
+      }
+    }
+  ]
+}

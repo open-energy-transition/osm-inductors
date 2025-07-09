@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9228,
+          54.5975
+        ]
+      },
+      "properties": {
+        "label": "Gedser wind turbine",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q3432978",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.28001,
+          56.256
+        ]
+      },
+      "properties": {
+        "label": "Tvindkraft Wind Turbine",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q11626695",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0831,
+          55.5659
+        ]
+      },
+      "properties": {
+        "label": "Aeromøllen Bogense",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q12300630",
+        "country_qid": "Q35"
+      }
+    }
+  ]
+}

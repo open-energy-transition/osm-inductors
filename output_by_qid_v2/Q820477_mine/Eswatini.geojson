@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.03138889,
+          -26.19777778
+        ]
+      },
+      "properties": {
+        "label": "Ngwenya Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q2558479",
+        "country_qid": "Q1050"
+      }
+    }
+  ]
+}

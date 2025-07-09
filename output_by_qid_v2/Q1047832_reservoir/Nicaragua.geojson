@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.976427777,
+          13.194497222
+        ]
+      },
+      "properties": {
+        "label": "Lago de Apanás",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3017786",
+        "country_qid": "Q811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.902975,
+          12.363083333
+        ]
+      },
+      "properties": {
+        "label": "Presa Las Canoas",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q106827659",
+        "country_qid": "Q811"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.347361111,
+          22.529388888
+        ]
+      },
+      "properties": {
+        "label": "Dalin Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q16928890",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.194888888,
+          23.792333333
+        ]
+      },
+      "properties": {
+        "label": "Mailiao Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q7215612",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.308,
+          25.0334
+        ]
+      },
+      "properties": {
+        "label": "Taoyuan oil refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q17028074",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.303683577,
+          22.704435912
+        ]
+      },
+      "properties": {
+        "label": "Kaohsiung Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q15909831",
+        "country_qid": "Q865"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.62475,
+          24.96219
+        ]
+      },
+      "properties": {
+        "label": "Yide Meteorological Observation Institute",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q109346435",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.172480702,
+          22.311678969
+        ]
+      },
+      "properties": {
+        "label": "King's Park Meteorological Station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q131472262",
+        "country_qid": "Q148"
+      }
+    }
+  ]
+}

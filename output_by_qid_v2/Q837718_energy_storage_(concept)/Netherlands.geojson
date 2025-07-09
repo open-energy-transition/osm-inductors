@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71653,
+          52.65045
+        ]
+      },
+      "properties": {
+        "label": "Bergermeer gas storage",
+        "type": "Energy storage (concept)",
+        "entity": "http://www.wikidata.org/entity/Q2149566",
+        "country_qid": "Q55"
+      }
+    }
+  ]
+}

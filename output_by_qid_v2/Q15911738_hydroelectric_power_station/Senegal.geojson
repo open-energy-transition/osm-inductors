@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.196666666,
+          12.399166666
+        ]
+      },
+      "properties": {
+        "label": "Sambangalou Hydroelectric Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q104880424",
+        "country_qid": "Q1041"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.723888888,
+          0.053333333
+        ]
+      },
+      "properties": {
+        "label": "Nkenda–Mpondwe–Beni High Voltage Power Line",
+        "type": "Overhead power line",
+        "entity": "http://www.wikidata.org/entity/Q48811981",
+        "country_qid": "Q974"
+      }
+    }
+  ]
+}

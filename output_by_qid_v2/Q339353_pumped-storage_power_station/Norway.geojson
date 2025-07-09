@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.56658,
+          60.80095
+        ]
+      },
+      "properties": {
+        "label": "Q17749553",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q17749553",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.89335,
+          59.11916
+        ]
+      },
+      "properties": {
+        "label": "Duge Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q17768168",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9106,
+          63.39044
+        ]
+      },
+      "properties": {
+        "label": "Q12005672",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q12005672",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.86239,
+          61.56622
+        ]
+      },
+      "properties": {
+        "label": "Q11975232",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q11975232",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.08482,
+          61.00381
+        ]
+      },
+      "properties": {
+        "label": "Q19399287",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q19399287",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.67265,
+          59.48277
+        ]
+      },
+      "properties": {
+        "label": "Saurdal power station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q4576004",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.05628,
+          60.89335
+        ]
+      },
+      "properties": {
+        "label": "Q19384138",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q19384138",
+        "country_qid": "Q20"
+      }
+    }
+  ]
+}

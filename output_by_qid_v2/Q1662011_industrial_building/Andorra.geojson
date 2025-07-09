@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5183,
+          42.578
+        ]
+      },
+      "properties": {
+        "label": "mola del Mas d'en Soler",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q64547813",
+        "country_qid": "Q228"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.521039,
+          42.546181
+        ]
+      },
+      "properties": {
+        "label": "Farga Rossell",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q2912615",
+        "country_qid": "Q228"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.517838888,
+          42.576871111
+        ]
+      },
+      "properties": {
+        "label": "mola i serradora de Cal Pal",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q21042956",
+        "country_qid": "Q228"
+      }
+    }
+  ]
+}

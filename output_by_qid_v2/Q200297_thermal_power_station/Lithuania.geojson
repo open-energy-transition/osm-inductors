@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64277778,
+          54.77083333
+        ]
+      },
+      "properties": {
+        "label": "Elektrėnai Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q2632924",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.38638889,
+          55.74722222
+        ]
+      },
+      "properties": {
+        "label": "Panevėžys Combined Heat and Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q15630955",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.98944444,
+          54.89083333
+        ]
+      },
+      "properties": {
+        "label": "Petrašiūnai thermal power station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q12669310",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.33583333,
+          55.08083333
+        ]
+      },
+      "properties": {
+        "label": "Achema Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q15889898",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1842,
+          56.3842
+        ]
+      },
+      "properties": {
+        "label": "Mažeikiai Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q14437362",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1569,
+          54.6678
+        ]
+      },
+      "properties": {
+        "label": "Vilnius Combined Heat and Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q3366071",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.20111111,
+          55.68388889
+        ]
+      },
+      "properties": {
+        "label": "Klaipėda Geothermal Demonstration Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q6419605",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0169,
+          54.9206
+        ]
+      },
+      "properties": {
+        "label": "Kaunas Combined Heat and Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q15630628",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.156666666,
+          54.667777777
+        ]
+      },
+      "properties": {
+        "label": "Vilnius Biofuel Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q31198639",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.231666666,
+          54.663611111
+        ]
+      },
+      "properties": {
+        "label": "Vilnius Heat Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q7931192",
+        "country_qid": "Q37"
+      }
+    }
+  ]
+}

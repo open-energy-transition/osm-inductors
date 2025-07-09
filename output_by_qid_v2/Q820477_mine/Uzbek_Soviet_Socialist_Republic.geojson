@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.5775,
+          41.49583
+        ]
+      },
+      "properties": {
+        "label": "Muruntau mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q17489307",
+        "country_qid": "Q484578"
+      }
+    }
+  ]
+}

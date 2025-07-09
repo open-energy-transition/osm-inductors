@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.306555555,
+          6.425361111
+        ]
+      },
+      "properties": {
+        "label": "Maria Gleta Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56372001",
+        "country_qid": "Q962"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.184583333,
+          30.698444444
+        ]
+      },
+      "properties": {
+        "label": "Q56372923",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q56372923",
+        "country_qid": "Q1028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.53083333,
+          32.20666667
+        ]
+      },
+      "properties": {
+        "label": "Afourer Pumped Storage Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q3460110",
+        "country_qid": "Q1028"
+      }
+    }
+  ]
+}

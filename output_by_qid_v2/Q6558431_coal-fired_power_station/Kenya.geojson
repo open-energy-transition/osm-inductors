@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.90333333,
+          -2.15361111
+        ]
+      },
+      "properties": {
+        "label": "Lamu Coal Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q24236214",
+        "country_qid": "Q114"
+      }
+    }
+  ]
+}

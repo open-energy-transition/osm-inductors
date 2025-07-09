@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.11305556,
+          56.40638889
+        ]
+      },
+      "properties": {
+        "label": "Cruachan Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q15212096",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.483527777,
+          57.262111111
+        ]
+      },
+      "properties": {
+        "label": "Foyers Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q11969812",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.96889,
+          52.9808
+        ]
+      },
+      "properties": {
+        "label": "Ffestiniog Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q5446209",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.107341766,
+          53.117842582
+        ]
+      },
+      "properties": {
+        "label": "Dinorwig Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q1146238",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.209,
+          57.078
+        ]
+      },
+      "properties": {
+        "label": "Fearna Storage project",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q130279783",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.164,
+          56.3
+        ]
+      },
+      "properties": {
+        "label": "Balliemeanoch Pumped Storage Hydro",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q130377142",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8847,
+          48.3544
+        ]
+      },
+      "properties": {
+        "label": "Zwentendorf Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q593463",
+        "country_qid": "Q40"
+      }
+    }
+  ]
+}

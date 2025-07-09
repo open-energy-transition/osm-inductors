@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.640972222,
+          51.004333333
+        ]
+      },
+      "properties": {
+        "label": "VEB Steinkohlenwerk Freital",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q103868520",
+        "country_qid": "Q16957"
+      }
+    }
+  ]
+}

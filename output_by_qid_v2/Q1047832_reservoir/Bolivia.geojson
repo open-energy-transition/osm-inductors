@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.204722,
+          -17.183333
+        ]
+      },
+      "properties": {
+        "label": "Q116153859",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q116153859",
+        "country_qid": "Q750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.716667,
+          -18.820833
+        ]
+      },
+      "properties": {
+        "label": "Represa Tacagua",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q105968560",
+        "country_qid": "Q750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.959444444,
+          -16.363888888
+        ]
+      },
+      "properties": {
+        "label": "Q13191154",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q13191154",
+        "country_qid": "Q750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.018888888,
+          -16.414444444
+        ]
+      },
+      "properties": {
+        "label": "Q131361255",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q131361255",
+        "country_qid": "Q750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.041666666,
+          -16.340277777
+        ]
+      },
+      "properties": {
+        "label": "Q131360323",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q131360323",
+        "country_qid": "Q750"
+      }
+    }
+  ]
+}

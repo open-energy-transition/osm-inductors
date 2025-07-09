@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.171944444,
+          31.541944444
+        ]
+      },
+      "properties": {
+        "label": "Daba marble quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q96471871",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.041944444,
+          31.024722222
+        ]
+      },
+      "properties": {
+        "label": "Q27125445",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27125445",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.43611111,
+          30.68055556
+        ]
+      },
+      "properties": {
+        "label": "Khirbat en-Nahas",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q6401745",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.030555555,
+          30.825277777
+        ]
+      },
+      "properties": {
+        "label": "Q27125477",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27125477",
+        "country_qid": "Q810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.031666666,
+          30.9875
+        ]
+      },
+      "properties": {
+        "label": "Q27125432",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q27125432",
+        "country_qid": "Q810"
+      }
+    }
+  ]
+}

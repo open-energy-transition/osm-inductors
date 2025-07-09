@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.41666667,
+          58.34805556
+        ]
+      },
+      "properties": {
+        "label": "Preemraff Lysekil",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q1184868",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.002777777,
+          59.957222222
+        ]
+      },
+      "properties": {
+        "label": "Engelsbergs oljefabrik",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q493050",
+        "country_qid": "Q34"
+      }
+    }
+  ]
+}

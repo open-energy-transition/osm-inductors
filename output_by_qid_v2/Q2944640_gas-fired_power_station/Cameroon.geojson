@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.97675001,
+          3.025460557
+        ]
+      },
+      "properties": {
+        "label": "Kribi Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q6436963",
+        "country_qid": "Q1009"
+      }
+    }
+  ]
+}

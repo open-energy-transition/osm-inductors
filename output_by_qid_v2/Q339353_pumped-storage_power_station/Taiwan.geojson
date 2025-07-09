@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.86805556,
+          23.83611111
+        ]
+      },
+      "properties": {
+        "label": "Mingtan Pumped Storage Hydro Power Plant",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q24835688",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.87083333,
+          23.85416667
+        ]
+      },
+      "properties": {
+        "label": "Minhu Pumped Storage Hydro Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q22773950",
+        "country_qid": "Q865"
+      }
+    }
+  ]
+}

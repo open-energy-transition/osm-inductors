@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.6786,
+          64.1668
+        ]
+      },
+      "properties": {
+        "label": "Sundlaugin",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q1109456",
+        "country_qid": "Q189"
+      }
+    }
+  ]
+}

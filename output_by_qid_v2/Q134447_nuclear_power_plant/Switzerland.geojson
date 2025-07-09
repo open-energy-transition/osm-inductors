@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74889,
+          47.54
+        ]
+      },
+      "properties": {
+        "label": "Kaiseraugst Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1480246",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.27028,
+          46.9708
+        ]
+      },
+      "properties": {
+        "label": "Mühleberg Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q686931",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.18375,
+          47.6013
+        ]
+      },
+      "properties": {
+        "label": "Leibstadt Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q281837",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.96889,
+          47.3658
+        ]
+      },
+      "properties": {
+        "label": "Gösgen Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q687422",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.97423,
+          47.3659
+        ]
+      },
+      "properties": {
+        "label": "Niederamt Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q663406",
+        "country_qid": "Q39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.22778,
+          47.5522
+        ]
+      },
+      "properties": {
+        "label": "Beznau Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q686800",
+        "country_qid": "Q39"
+      }
+    }
+  ]
+}

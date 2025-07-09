@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.48333333,
+          9.11666667
+        ]
+      },
+      "properties": {
+        "label": "India–Sri Lanka HVDC Interconnection",
+        "type": "high-voltage direct current power line",
+        "entity": "http://www.wikidata.org/entity/Q6019736",
+        "country_qid": "Q854"
+      }
+    }
+  ]
+}

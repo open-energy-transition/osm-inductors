@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.58861111,
+          -34.04138889
+        ]
+      },
+      "properties": {
+        "label": "Rapel Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q4563104",
+        "country_qid": "Q298"
+      }
+    }
+  ]
+}

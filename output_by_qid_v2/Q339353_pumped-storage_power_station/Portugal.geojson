@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.19666667,
+          40.34027778
+        ]
+      },
+      "properties": {
+        "label": "Aguieira Dam",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q9648934",
+        "country_qid": "Q45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.422777777,
+          41.218805555
+        ]
+      },
+      "properties": {
+        "label": "Foz Tua Dam",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q9649153",
+        "country_qid": "Q45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.02525,
+          41.695166666
+        ]
+      },
+      "properties": {
+        "label": "Frades I Hydroelectric Power Plant",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q56371701",
+        "country_qid": "Q45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.02525,
+          41.695166666
+        ]
+      },
+      "properties": {
+        "label": "Frades II Hydroelectric Power Plant",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q56371707",
+        "country_qid": "Q45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2611227,
+          41.09740448
+        ]
+      },
+      "properties": {
+        "label": "Barragem de Torrão",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q9649056",
+        "country_qid": "Q45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.726111111,
+          41.492277777
+        ]
+      },
+      "properties": {
+        "label": "Gouvães Dam",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q56371722",
+        "country_qid": "Q45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.01211,
+          41.22925
+        ]
+      },
+      "properties": {
+        "label": "Q56016450",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q56016450",
+        "country_qid": "Q45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.1189,
+          32.754269444
+        ]
+      },
+      "properties": {
+        "label": "Barragem do Pico da Urze",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q131414381",
+        "country_qid": "Q45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.85777778,
+          41.73972222
+        ]
+      },
+      "properties": {
+        "label": "Alto Rabagão Dam",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q9649091",
+        "country_qid": "Q45"
+      }
+    }
+  ]
+}

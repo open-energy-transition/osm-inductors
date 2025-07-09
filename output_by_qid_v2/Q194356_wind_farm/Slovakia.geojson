@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.385,
+          48.57
+        ]
+      },
+      "properties": {
+        "label": "Cerová wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q46228249",
+        "country_qid": "Q214"
+      }
+    }
+  ]
+}

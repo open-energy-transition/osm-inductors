@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1652861,
+          49.1180017
+        ]
+      },
+      "properties": {
+        "label": "Meteorological Column (Ľubochňa)",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q115450936",
+        "country_qid": "Q214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2234,
+          49.1405
+        ]
+      },
+      "properties": {
+        "label": "Q112101304",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q112101304",
+        "country_qid": "Q214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8375,
+          48.58917
+        ]
+      },
+      "properties": {
+        "label": "Meteorological Column in Piešťany",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q130262103",
+        "country_qid": "Q214"
+      }
+    }
+  ]
+}

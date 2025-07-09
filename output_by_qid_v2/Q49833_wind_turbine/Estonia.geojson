@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.585929,
+          59.088513
+        ]
+      },
+      "properties": {
+        "label": "Q65255535",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q65255535",
+        "country_qid": "Q191"
+      }
+    }
+  ]
+}

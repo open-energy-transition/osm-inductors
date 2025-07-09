@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.02222222,
+          -21.86583333
+        ]
+      },
+      "properties": {
+        "label": "Q106515584",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q106515584",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.2482728,
+          -21.5859451
+        ]
+      },
+      "properties": {
+        "label": "Q106515587",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q106515587",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6102418,
+          -20.5982356
+        ]
+      },
+      "properties": {
+        "label": "Q106515577",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q106515577",
+        "country_qid": "Q155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.62027778,
+          -17.695
+        ]
+      },
+      "properties": {
+        "label": "Q106515583",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q106515583",
+        "country_qid": "Q155"
+      }
+    }
+  ]
+}

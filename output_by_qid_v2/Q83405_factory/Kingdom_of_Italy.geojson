@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1271444,
+          43.9352569
+        ]
+      },
+      "properties": {
+        "label": "Lanificio Forti de La Briglia",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q109324748",
+        "country_qid": "Q172579"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.77278,
+          38.61028
+        ]
+      },
+      "properties": {
+        "label": "Dushanbe-2 Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q28669320",
+        "country_qid": "Q863"
+      }
+    }
+  ]
+}

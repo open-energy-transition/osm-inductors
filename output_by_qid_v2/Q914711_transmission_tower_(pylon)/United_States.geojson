@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.574183333,
+          28.30385
+        ]
+      },
+      "properties": {
+        "label": "Mickey pylon",
+        "type": "Transmission tower (pylon)",
+        "entity": "http://www.wikidata.org/entity/Q27919255",
+        "country_qid": "Q30"
+      }
+    }
+  ]
+}

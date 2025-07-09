@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5,
+          29.5
+        ]
+      },
+      "properties": {
+        "label": "Qattara Depression Project",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q7267185",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.183333333,
+          27.2
+        ]
+      },
+      "properties": {
+        "label": "Assiut Barrage",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q4809094",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.14638889,
+          26.15361111
+        ]
+      },
+      "properties": {
+        "label": "Naga-Hammadi-Staustufe",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q1682687",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.556638888,
+          25.317638888
+        ]
+      },
+      "properties": {
+        "label": "Q56358273",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q56358273",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.256944444,
+          29.964166666
+        ]
+      },
+      "properties": {
+        "label": "Attaqa Mountain Pumped Storage Power Plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q106298499",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8658,
+          24.0339
+        ]
+      },
+      "properties": {
+        "label": "Aswan Low Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q921582",
+        "country_qid": "Q79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.880192,
+          23.971431
+        ]
+      },
+      "properties": {
+        "label": "Aswan Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q38891",
+        "country_qid": "Q79"
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.066666666,
+          54.933333333
+        ]
+      },
+      "properties": {
+        "label": "Ufaneftekhim",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q654845",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.758722222,
+          57.100027777
+        ]
+      },
+      "properties": {
+        "label": "JSC Antipinsky Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q104857611",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.145,
+          55.6125
+        ]
+      },
+      "properties": {
+        "label": "Chernigov Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q16829348",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.127777777,
+          57.916666666
+        ]
+      },
+      "properties": {
+        "label": "Perm refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q112960399",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.748055555,
+          54.564722222
+        ]
+      },
+      "properties": {
+        "label": "Ryazan Oil Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q55664215",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1,
+          54.85
+        ]
+      },
+      "properties": {
+        "label": "Ufimsky refinery plant",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q4479115",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.625778,
+          48.493744
+        ]
+      },
+      "properties": {
+        "label": "Volgograd Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q108817949",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.94388889,
+          51.45055556
+        ]
+      },
+      "properties": {
+        "label": "Saratov Oil Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q4408468",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.821944444,
+          44.881666666
+        ]
+      },
+      "properties": {
+        "label": "Afipsky refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q112960406",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.514986,
+          51.247733
+        ]
+      },
+      "properties": {
+        "label": "Orsk Oil Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q4337084",
+        "country_qid": "Q159"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.83031,
+          37.59378
+        ]
+      },
+      "properties": {
+        "label": "Marw",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430696",
+        "country_qid": "Q874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.150076,
+          38.227122
+        ]
+      },
+      "properties": {
+        "label": "Nisa Mithradatkart",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430850",
+        "country_qid": "Q874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.180303,
+          37.668441
+        ]
+      },
+      "properties": {
+        "label": "Antiocheia of Margiana",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127429580",
+        "country_qid": "Q874"
+      }
+    }
+  ]
+}

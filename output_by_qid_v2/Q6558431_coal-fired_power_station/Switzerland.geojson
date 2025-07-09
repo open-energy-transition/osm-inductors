@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.44423,
+          46.94073
+        ]
+      },
+      "properties": {
+        "label": "Dampfzentrale",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1158892",
+        "country_qid": "Q39"
+      }
+    }
+  ]
+}

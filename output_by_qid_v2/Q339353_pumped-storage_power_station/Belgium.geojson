@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3867077,
+          50.1886837
+        ]
+      },
+      "properties": {
+        "label": "Plate-Taille hydro power plant",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q84761452",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.861736,
+          50.384969
+        ]
+      },
+      "properties": {
+        "label": "Coo-Trois-Ponts Hydroelectric Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q1639208",
+        "country_qid": "Q31"
+      }
+    }
+  ]
+}

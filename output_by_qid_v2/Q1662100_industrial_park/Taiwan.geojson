@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.466916666,
+          23.639361111
+        ]
+      },
+      "properties": {
+        "label": "Fengtian Industry Park",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q128624974",
+        "country_qid": "Q865"
+      }
+    }
+  ]
+}

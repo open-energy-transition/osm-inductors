@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3569,
+          46.3958
+        ]
+      },
+      "properties": {
+        "label": "Gentilly Nuclear Generating Station",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1111040",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6,
+          44.3333
+        ]
+      },
+      "properties": {
+        "label": "Douglas Point Nuclear Generating Station",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q946530",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7197,
+          43.8728
+        ]
+      },
+      "properties": {
+        "label": "Darlington Nuclear Generating Station",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1739391",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0658,
+          43.8117
+        ]
+      },
+      "properties": {
+        "label": "Pickering Nuclear Generating Station",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1739455",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5994,
+          44.3253
+        ]
+      },
+      "properties": {
+        "label": "Bruce Nuclear Generating Stationc",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q795104",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3558333,
+          46.395
+        ]
+      },
+      "properties": {
+        "label": "Gentilly-2 Generating Station",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q115100127",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6578,
+          46.1867
+        ]
+      },
+      "properties": {
+        "label": "Nuclear Power Demonstration",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q948689",
+        "country_qid": "Q16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.45555556,
+          45.06944444
+        ]
+      },
+      "properties": {
+        "label": "Point Lepreau Nuclear Generating Station",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1391137",
+        "country_qid": "Q16"
+      }
+    }
+  ]
+}

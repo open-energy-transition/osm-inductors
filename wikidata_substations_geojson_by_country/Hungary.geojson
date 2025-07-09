@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.041661,
+          47.439902
+        ]
+      },
+      "properties": {
+        "label": "Albertfalva substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q24067620",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.600784063,
+          47.566500504
+        ]
+      },
+      "properties": {
+        "label": "Electrical substation debrecen",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113329582",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.679211854,
+          47.930893821
+        ]
+      },
+      "properties": {
+        "label": "Nyiregyhaza substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113329600",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.844166666,
+          47.473888888
+        ]
+      },
+      "properties": {
+        "label": "Biatorbágy substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q53040126",
+        "country_qid": "Q28"
+      }
+    }
+  ]
+}

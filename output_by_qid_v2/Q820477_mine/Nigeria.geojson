@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.450833333,
+          6.400833333
+        ]
+      },
+      "properties": {
+        "label": "Q49437883",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q49437883",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.489903229,
+          9.074618842
+        ]
+      },
+      "properties": {
+        "label": "Nigerian Mines and Steel Development Ministry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q7032929",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.496666666,
+          9.134166666
+        ]
+      },
+      "properties": {
+        "label": "Crushed Rock, Mpape",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q104880333",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.152984619,
+          9.69814332
+        ]
+      },
+      "properties": {
+        "label": "Ropp Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q126188664",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.529722222,
+          5.995555555
+        ]
+      },
+      "properties": {
+        "label": "Q49460216",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q49460216",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.450555555,
+          6.449166666
+        ]
+      },
+      "properties": {
+        "label": "Q49420892",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q49420892",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.317862,
+          7.61848
+        ]
+      },
+      "properties": {
+        "label": "Itakpe mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16969355",
+        "country_qid": "Q1033"
+      }
+    }
+  ]
+}

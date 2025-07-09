@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.136388888,
+          -25.985833333
+        ]
+      },
+      "properties": {
+        "label": "Kokerboom–Auas High Voltage Power Line",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q106630931",
+        "country_qid": "Q1030"
+      }
+    }
+  ]
+}

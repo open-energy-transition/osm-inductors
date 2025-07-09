@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.73376,
+          40.60487
+        ]
+      },
+      "properties": {
+        "label": "Brackenridge Works",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q4953675",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62666667,
+          41.45527778
+        ]
+      },
+      "properties": {
+        "label": "Cleveland Rolling Mill",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q29564960",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0793236,
+          41.5400793
+        ]
+      },
+      "properties": {
+        "label": "Joliet Iron and Steel Works",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q14687689",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90393,
+          40.33637
+        ]
+      },
+      "properties": {
+        "label": "Mon Valley Works - Irvin Plant",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q17022381",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.911111,
+          40.411111
+        ]
+      },
+      "properties": {
+        "label": "Homestead Steel Works",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q1985872",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.923,
+          40.336
+        ]
+      },
+      "properties": {
+        "label": "Cambria Iron Company",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q3651200",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7407622,
+          40.3121745
+        ]
+      },
+      "properties": {
+        "label": "Geneva Steel",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q3552596",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.854,
+          40.392
+        ]
+      },
+      "properties": {
+        "label": "Edgar Thomson Steel Works",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q5337490",
+        "country_qid": "Q30"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.627305555,
+          -20.472833333
+        ]
+      },
+      "properties": {
+        "label": "Q56374165",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56374165",
+        "country_qid": "Q1027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.476777777,
+          -20.163388888
+        ]
+      },
+      "properties": {
+        "label": "Q56374164",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56374164",
+        "country_qid": "Q1027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.479194444,
+          -20.177805555
+        ]
+      },
+      "properties": {
+        "label": "Q56374162",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56374162",
+        "country_qid": "Q1027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.492805555,
+          -20.14575
+        ]
+      },
+      "properties": {
+        "label": "Q56374163",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56374163",
+        "country_qid": "Q1027"
+      }
+    }
+  ]
+}

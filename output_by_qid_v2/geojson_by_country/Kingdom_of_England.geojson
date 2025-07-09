@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.181666666,
+          51.4825
+        ]
+      },
+      "properties": {
+        "label": "Erith Dockyard",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q60787624",
+        "country_qid": "Q179876",
+        "Wikidata Qid": "Q60787624"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6728,
+          48.4918
+        ]
+      },
+      "properties": {
+        "label": "Bohunice A1 Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q13419743",
+        "country_qid": "Q214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.68055556,
+          48.49444444
+        ]
+      },
+      "properties": {
+        "label": "Bohunice Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q833602",
+        "country_qid": "Q214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.45694444,
+          48.26388889
+        ]
+      },
+      "properties": {
+        "label": "Mochovce Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1085951",
+        "country_qid": "Q214"
+      }
+    }
+  ]
+}

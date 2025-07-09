@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.994579,
+          56.357843
+        ]
+      },
+      "properties": {
+        "label": "Cultybraggan nuclear bunker",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q113557752",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6383,
+          53.3446
+        ]
+      },
+      "properties": {
+        "label": "Hartree Centre",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q24993366",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.005613739,
+          51.51112753
+        ]
+      },
+      "properties": {
+        "label": "East India Dock House, Former Financial Times Print Works",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q26263559",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.174,
+          55.9217
+        ]
+      },
+      "properties": {
+        "label": "EPCC",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q54869682",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

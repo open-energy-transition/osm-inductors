@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.34222222,
+          37.49666667
+        ]
+      },
+      "properties": {
+        "label": "Incheon Tidal Power Station",
+        "type": "Tidal power station",
+        "entity": "http://www.wikidata.org/entity/Q6014462",
+        "country_qid": "Q884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.31,
+          34.565555555
+        ]
+      },
+      "properties": {
+        "label": "Uldolmok Tidal Power Station",
+        "type": "Tidal power station",
+        "entity": "http://www.wikidata.org/entity/Q7878823",
+        "country_qid": "Q884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.612282,
+          37.313656
+        ]
+      },
+      "properties": {
+        "label": "Sihwa Lake Tidal Power Station",
+        "type": "Tidal power station",
+        "entity": "http://www.wikidata.org/entity/Q562741",
+        "country_qid": "Q884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.322611,
+          36.9585
+        ]
+      },
+      "properties": {
+        "label": "Garorim Bay Tidal Power Station",
+        "type": "Tidal power station",
+        "entity": "http://www.wikidata.org/entity/Q5523745",
+        "country_qid": "Q884"
+      }
+    }
+  ]
+}

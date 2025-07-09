@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.776111,
+          51.134722
+        ]
+      },
+      "properties": {
+        "label": "Rodenhuize Power Plant",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11998171",
+        "country_qid": "Q31"
+      }
+    }
+  ]
+}

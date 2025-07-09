@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.134449,
+          -27.4034
+        ]
+      },
+      "properties": {
+        "label": "Bulwer Island oil refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q98399618",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.765,
+          -32.2295
+        ]
+      },
+      "properties": {
+        "label": "Kwinana Oil Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q6450451",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.85,
+          -37.85
+        ]
+      },
+      "properties": {
+        "label": "Altona oil refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q77023721",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.471234,
+          -35.110204
+        ]
+      },
+      "properties": {
+        "label": "Port Stanvac Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q7230956",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.157,
+          -27.415
+        ]
+      },
+      "properties": {
+        "label": "Lytton oil refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q77023949",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.233,
+          -33.971
+        ]
+      },
+      "properties": {
+        "label": "Matraville Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q106019141",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.273,
+          -26.668
+        ]
+      },
+      "properties": {
+        "label": "Eromanga Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q106159442",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2164,
+          -34.0173
+        ]
+      },
+      "properties": {
+        "label": "Kurnell Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q6446212",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.213,
+          -38.349
+        ]
+      },
+      "properties": {
+        "label": "Westernport Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q105988813",
+        "country_qid": "Q408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3821741,
+          -38.0777744
+        ]
+      },
+      "properties": {
+        "label": "Geelong oil refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q77024153",
+        "country_qid": "Q408"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1088,
+          49.1748
+        ]
+      },
+      "properties": {
+        "label": "La Collette Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q5994970",
+        "country_qid": "Q785"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.455256358,
+          35.758556031
+        ]
+      },
+      "properties": {
+        "label": "Żarrābḵāna-ye šāhanšāhi",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q116919655",
+        "country_qid": "Q107258515"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.123611111,
+          0.545555555
+        ]
+      },
+      "properties": {
+        "label": "Kisangani Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q107389169",
+        "country_qid": "Q974"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.667777777,
+          -4.788611111
+        ]
+      },
+      "properties": {
+        "label": "Green Giant Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q124830289",
+        "country_qid": "Q974"
+      }
+    }
+  ]
+}

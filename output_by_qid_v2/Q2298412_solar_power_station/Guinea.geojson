@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.682222222,
+          11.7675
+        ]
+      },
+      "properties": {
+        "label": "Khoumagueli Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q107223266",
+        "country_qid": "Q1006"
+      }
+    }
+  ]
+}

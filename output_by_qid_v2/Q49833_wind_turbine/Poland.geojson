@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.86411111,
+          50.99361111
+        ]
+      },
+      "properties": {
+        "label": "Rębielice Królewskie Wind Turbine",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q2583657",
+        "country_qid": "Q36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5838,
+          49.6919
+        ]
+      },
+      "properties": {
+        "label": "Q9252544",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q9252544",
+        "country_qid": "Q36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.15305556,
+          52.29472222
+        ]
+      },
+      "properties": {
+        "label": "Nowy Tomyśl Wind Turbines",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q9004322",
+        "country_qid": "Q36"
+      }
+    }
+  ]
+}

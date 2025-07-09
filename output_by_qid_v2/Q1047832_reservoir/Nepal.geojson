@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.101388888,
+          27.62
+        ]
+      },
+      "properties": {
+        "label": "Jagdishpur Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6122354",
+        "country_qid": "Q837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.32342,
+          27.71346
+        ]
+      },
+      "properties": {
+        "label": "Naag Pokhari",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q19679607",
+        "country_qid": "Q837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.315447,
+          27.707847
+        ]
+      },
+      "properties": {
+        "label": "Ranipokhari",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q5300315",
+        "country_qid": "Q837"
+      }
+    }
+  ]
+}

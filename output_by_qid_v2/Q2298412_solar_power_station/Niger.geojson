@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.120833333,
+          13.425555555
+        ]
+      },
+      "properties": {
+        "label": "Gourou Banda Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q108685227",
+        "country_qid": "Q1032"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.057222222,
+          39.050555555
+        ]
+      },
+      "properties": {
+        "label": "Germi Meteorological Station",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q96379415",
+        "country_qid": "Q794"
+      }
+    }
+  ]
+}

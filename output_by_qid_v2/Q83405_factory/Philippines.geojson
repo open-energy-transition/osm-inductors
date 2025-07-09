@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.672544452,
+          18.278414801
+        ]
+      },
+      "properties": {
+        "label": "Camalaniugan horno",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q123900501",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.066027777,
+          13.722083333
+        ]
+      },
+      "properties": {
+        "label": "Tabangao Refinery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q104848936",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.729140011,
+          17.607438432
+        ]
+      },
+      "properties": {
+        "label": "Tuguegarao horno ruins",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q123900551",
+        "country_qid": "Q928"
+      }
+    }
+  ]
+}

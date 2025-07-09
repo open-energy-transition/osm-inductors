@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.93888889,
+          46.63416667
+        ]
+      },
+      "properties": {
+        "label": "Cuciurgan power station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q2022944",
+        "country_qid": "Q217"
+      }
+    }
+  ]
+}

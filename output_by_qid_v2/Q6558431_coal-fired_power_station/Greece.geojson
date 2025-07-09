@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7281568,
+          40.4807487
+        ]
+      },
+      "properties": {
+        "label": "Ptolemaida Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q11996445",
+        "country_qid": "Q41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.786,
+          40.41
+        ]
+      },
+      "properties": {
+        "label": "Kardia Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q19376943",
+        "country_qid": "Q41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.60111111,
+          40.81194444
+        ]
+      },
+      "properties": {
+        "label": "Meliti thermal power station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1786096",
+        "country_qid": "Q41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6829133,
+          40.6193112
+        ]
+      },
+      "properties": {
+        "label": "Amyntaio Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3438365",
+        "country_qid": "Q41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.925106,
+          40.393757
+        ]
+      },
+      "properties": {
+        "label": "Agios Dimitrios Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q954726",
+        "country_qid": "Q41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1075,
+          37.4177
+        ]
+      },
+      "properties": {
+        "label": "Megalopoli Power Plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3443962",
+        "country_qid": "Q41"
+      }
+    }
+  ]
+}

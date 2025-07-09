@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.55944444,
+          -30.94138889
+        ]
+      },
+      "properties": {
+        "label": "Rivera HVDC Back-to-back station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q7338051",
+        "country_qid": "Q77"
+      }
+    }
+  ]
+}

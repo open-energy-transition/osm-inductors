@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.274487,
+          29.433698
+        ]
+      },
+      "properties": {
+        "label": "Failaka",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430235",
+        "country_qid": "Q817"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.274487,
+          29.433698
+        ]
+      },
+      "properties": {
+        "label": "Icarus",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127430424",
+        "country_qid": "Q817"
+      }
+    }
+  ]
+}

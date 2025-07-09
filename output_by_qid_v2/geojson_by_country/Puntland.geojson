@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.325833333,
+          6.942777777
+        ]
+      },
+      "properties": {
+        "label": "Gara'ad Port",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q114839019",
+        "country_qid": "Q485112",
+        "Wikidata Qid": "Q114839019"
+      }
+    }
+  ]
+}

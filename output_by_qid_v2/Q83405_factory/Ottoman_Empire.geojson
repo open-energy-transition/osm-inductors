@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.91666667,
+          48.70388889
+        ]
+      },
+      "properties": {
+        "label": "Turkish State Mint",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q48792590",
+        "country_qid": "Q12560"
+      }
+    }
+  ]
+}

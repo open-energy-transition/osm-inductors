@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.823051,
+          50.462503
+        ]
+      },
+      "properties": {
+        "label": "Q108786850",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q108786850",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.598616,
+          51.078102
+        ]
+      },
+      "properties": {
+        "label": "Q122957256",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q122957256",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.870138,
+          50.395133
+        ]
+      },
+      "properties": {
+        "label": "Q97500466",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q97500466",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.891817,
+          50.589588
+        ]
+      },
+      "properties": {
+        "label": "Parking photovoltaïque de Pairi Daiza",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q108775915",
+        "country_qid": "Q31"
+      }
+    }
+  ]
+}

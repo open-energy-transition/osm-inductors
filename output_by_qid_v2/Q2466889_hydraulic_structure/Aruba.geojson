@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.05,
+          12.516666666
+        ]
+      },
+      "properties": {
+        "label": "Port of Oranjestad",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q21972949",
+        "country_qid": "Q21203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.99156,
+          12.48202
+        ]
+      },
+      "properties": {
+        "label": "Barcadera, Aruba",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q106673125",
+        "country_qid": "Q21203"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.704,
+          -25.992
+        ]
+      },
+      "properties": {
+        "label": "Sand River Dam",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q60774869",
+        "country_qid": "Q1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.923611111,
+          -26.773611111
+        ]
+      },
+      "properties": {
+        "label": "Van Eck Dam",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q60997898",
+        "country_qid": "Q1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.666666666,
+          -26.166666666
+        ]
+      },
+      "properties": {
+        "label": "Mnjoli Dam",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34907952",
+        "country_qid": "Q1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.95861111,
+          -27.40222222
+        ]
+      },
+      "properties": {
+        "label": "Pongolapoort Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q113719037",
+        "country_qid": "Q1050"
+      }
+    }
+  ]
+}

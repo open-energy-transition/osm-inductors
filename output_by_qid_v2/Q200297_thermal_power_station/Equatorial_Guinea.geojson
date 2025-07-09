@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.719611111,
+          3.773972222
+        ]
+      },
+      "properties": {
+        "label": "Turbogas Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q56373810",
+        "country_qid": "Q983"
+      }
+    }
+  ]
+}

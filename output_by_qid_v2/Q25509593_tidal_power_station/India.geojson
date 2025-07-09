@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4158,
+          21.4558
+        ]
+      },
+      "properties": {
+        "label": "Kalpasar Project",
+        "type": "Tidal power station",
+        "entity": "http://www.wikidata.org/entity/Q6354384",
+        "country_qid": "Q668"
+      }
+    }
+  ]
+}

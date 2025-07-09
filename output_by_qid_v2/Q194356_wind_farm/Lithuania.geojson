@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.17416667,
+          55.91
+        ]
+      },
+      "properties": {
+        "label": "Vydmantai Wind Park",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q23286032",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.676666666,
+          55.240277777
+        ]
+      },
+      "properties": {
+        "label": "Q30973257",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q30973257",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.38722222,
+          55.49055556
+        ]
+      },
+      "properties": {
+        "label": "Čiūteliai Wind Park",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q23311161",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.02416667,
+          55.16583333
+        ]
+      },
+      "properties": {
+        "label": "Pagėgiai 13",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q23284458",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.22888889,
+          56.09527778
+        ]
+      },
+      "properties": {
+        "label": "Benaičiai-1 Wind Park",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q23311272",
+        "country_qid": "Q37"
+      }
+    }
+  ]
+}

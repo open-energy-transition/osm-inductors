@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.183824539,
+          -34.786580557
+        ]
+      },
+      "properties": {
+        "label": "Electrical substation Montevideo-Norte",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q114005983",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.55944444,
+          -30.94138889
+        ]
+      },
+      "properties": {
+        "label": "Rivera HVDC Back-to-back station",
+        "type": "HVDC back-to-back station",
+        "substation": "http://www.wikidata.org/entity/Q7338051",
+        "country_qid": "Q77"
+      }
+    }
+  ]
+}

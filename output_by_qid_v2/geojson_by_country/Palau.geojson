@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.475027777,
+          7.443472222
+        ]
+      },
+      "properties": {
+        "label": "Aimeliik Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q106346218",
+        "country_qid": "Q695",
+        "Wikidata Qid": "Q106346218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.456496,
+          7.334683
+        ]
+      },
+      "properties": {
+        "label": "Malakal Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q106346228",
+        "country_qid": "Q695",
+        "Wikidata Qid": "Q106346228"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5613,
+          7.3658
+        ]
+      },
+      "properties": {
+        "label": "Chelechol ra Orrak",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q65096031",
+        "country_qid": "Q695",
+        "Wikidata Qid": "Q65096031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.566944444,
+          7.348055555
+        ]
+      },
+      "properties": {
+        "label": "Daob ma Uet el Beluu",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q65096074",
+        "country_qid": "Q695",
+        "Wikidata Qid": "Q65096074"
+      }
+    }
+  ]
+}

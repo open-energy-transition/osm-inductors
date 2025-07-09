@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.688888888,
+          11.123055555
+        ]
+      },
+      "properties": {
+        "label": "Amea Grand Bara Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q122574608",
+        "country_qid": "Q977"
+      }
+    }
+  ]
+}

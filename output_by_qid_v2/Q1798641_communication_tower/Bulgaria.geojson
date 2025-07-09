@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.677775,
+          41.636494
+        ]
+      },
+      "properties": {
+        "label": "Snezhanka Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q2295819",
+        "country_qid": "Q219"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.379687,
+          30.707268
+        ]
+      },
+      "properties": {
+        "label": "Darkhovin Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1353243",
+        "country_qid": "Q794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.88722222,
+          28.82888889
+        ]
+      },
+      "properties": {
+        "label": "Bushehr Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q204637",
+        "country_qid": "Q794"
+      }
+    }
+  ]
+}

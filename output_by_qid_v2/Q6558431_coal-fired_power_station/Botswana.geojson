@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.774952,
+          -23.609295
+        ]
+      },
+      "properties": {
+        "label": "Mmamabula",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q6885794",
+        "country_qid": "Q963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.03666667,
+          -22.52
+        ]
+      },
+      "properties": {
+        "label": "Morupule Power Station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q915912",
+        "country_qid": "Q963"
+      }
+    }
+  ]
+}

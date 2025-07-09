@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.145216666,
+          16.836772222
+        ]
+      },
+      "properties": {
+        "label": "Inya Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q864297",
+        "country_qid": "Q836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.166561111,
+          16.795486111
+        ]
+      },
+      "properties": {
+        "label": "Kandawgyi Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q385991",
+        "country_qid": "Q836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.031111111,
+          20.833055555
+        ]
+      },
+      "properties": {
+        "label": "Minhla Tank",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34907797",
+        "country_qid": "Q836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.974444444,
+          20.812777777
+        ]
+      },
+      "properties": {
+        "label": "Kyibyu Kan",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34896799",
+        "country_qid": "Q836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.843888888,
+          21.143888888
+        ]
+      },
+      "properties": {
+        "label": "Sinbyingyi Tank",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34923867",
+        "country_qid": "Q836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.820555555,
+          21.116666666
+        ]
+      },
+      "properties": {
+        "label": "Tagundaing Tank",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34929613",
+        "country_qid": "Q836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.187777777,
+          21.749444444
+        ]
+      },
+      "properties": {
+        "label": "Minhla Kan",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34907784",
+        "country_qid": "Q836"
+      }
+    }
+  ]
+}

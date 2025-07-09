@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.583055555,
+          9.921111111
+        ]
+      },
+      "properties": {
+        "label": "Ancien Canal de Ham",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q31979672",
+        "country_qid": "Q657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0655,
+          10.8277
+        ]
+      },
+      "properties": {
+        "label": "Maga Dam",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q6729568",
+        "country_qid": "Q657"
+      }
+    }
+  ]
+}

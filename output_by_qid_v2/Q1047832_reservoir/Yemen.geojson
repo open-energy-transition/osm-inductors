@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.029,
+          12.7743
+        ]
+      },
+      "properties": {
+        "label": "Cisterns of Tawila",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q5122310",
+        "country_qid": "Q805"
+      }
+    }
+  ]
+}

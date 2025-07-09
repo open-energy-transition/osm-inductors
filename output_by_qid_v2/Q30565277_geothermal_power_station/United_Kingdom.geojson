@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.127,
+          54.575
+        ]
+      },
+      "properties": {
+        "label": "Whitetail Clean Energy",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q108167126",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

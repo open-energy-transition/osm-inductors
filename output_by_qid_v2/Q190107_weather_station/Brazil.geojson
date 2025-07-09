@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.487104,
+          -14.072612
+        ]
+      },
+      "properties": {
+        "label": "Q115790753",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q115790753",
+        "country_qid": "Q155"
+      }
+    }
+  ]
+}

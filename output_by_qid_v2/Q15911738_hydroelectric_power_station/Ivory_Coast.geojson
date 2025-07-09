@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.940555555,
+          6.080555555
+        ]
+      },
+      "properties": {
+        "label": "Singrobo Hydroelectric Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q108113438",
+        "country_qid": "Q1008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.655833333,
+          5.8025
+        ]
+      },
+      "properties": {
+        "label": "Soubré Hydroelectric Power Plant",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q36698303",
+        "country_qid": "Q1008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.473333333,
+          7.031111111
+        ]
+      },
+      "properties": {
+        "label": "Kossou Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q843524",
+        "country_qid": "Q1008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.571888888,
+          5.719027777
+        ]
+      },
+      "properties": {
+        "label": "Q56373400",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q56373400",
+        "country_qid": "Q1008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.04501,
+          6.24246
+        ]
+      },
+      "properties": {
+        "label": "Buyo Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q3444380",
+        "country_qid": "Q1008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.571388888,
+          5.698055555
+        ]
+      },
+      "properties": {
+        "label": "Gribo–Popoli Hydroelectric Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q112061788",
+        "country_qid": "Q1008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.084,
+          6.210444444
+        ]
+      },
+      "properties": {
+        "label": "Taabo Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q7672797",
+        "country_qid": "Q1008"
+      }
+    }
+  ]
+}

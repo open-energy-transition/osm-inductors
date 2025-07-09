@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.19793,
+          -6.16394
+        ]
+      },
+      "properties": {
+        "label": "Zanjibar",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431713",
+        "country_qid": "Q924"
+      }
+    }
+  ]
+}

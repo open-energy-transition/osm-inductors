@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.219,
+          -6.94778
+        ]
+      },
+      "properties": {
+        "label": "Upper Cisokan Pumped Storage Power Plant",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q7898565",
+        "country_qid": "Q252"
+      }
+    }
+  ]
+}

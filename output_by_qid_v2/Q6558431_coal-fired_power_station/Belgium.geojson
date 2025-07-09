@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.49059972,
+          50.9405
+        ]
+      },
+      "properties": {
+        "label": "Langerlo power station",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q22032595",
+        "country_qid": "Q31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.489722,
+          50.783056
+        ]
+      },
+      "properties": {
+        "label": "Ruien power plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q2367229",
+        "country_qid": "Q31"
+      }
+    }
+  ]
+}

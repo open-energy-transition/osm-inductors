@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.114166666,
+          45.594166666
+        ]
+      },
+      "properties": {
+        "label": "Pacific DC Intertie",
+        "type": "high-voltage direct current power line",
+        "entity": "http://www.wikidata.org/entity/Q2045524",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6797,
+          42.8781
+        ]
+      },
+      "properties": {
+        "label": "HVDC Mechanicville–Schenectady",
+        "type": "high-voltage direct current power line",
+        "entity": "http://www.wikidata.org/entity/Q5636205",
+        "country_qid": "Q30"
+      }
+    }
+  ]
+}

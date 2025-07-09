@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.986805555,
+          35.589
+        ]
+      },
+      "properties": {
+        "label": "Tahaddart Thermal Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q8343554",
+        "country_qid": "Q1028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.10472222,
+          34.06833333
+        ]
+      },
+      "properties": {
+        "label": "Ain Beni Mathar Integrated Thermo Solar Combined Cycle Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q15178583",
+        "country_qid": "Q1028"
+      }
+    }
+  ]
+}

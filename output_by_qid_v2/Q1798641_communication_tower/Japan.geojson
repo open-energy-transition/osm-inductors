@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3515,
+          33.593305555
+        ]
+      },
+      "properties": {
+        "label": "Fukuoka Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q847033",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.908403,
+          35.172381
+        ]
+      },
+      "properties": {
+        "label": "Nagoya TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q283373",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.356388888,
+          43.061111111
+        ]
+      },
+      "properties": {
+        "label": "Sapporo TV Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1063319",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.39777778,
+          33.60444444
+        ]
+      },
+      "properties": {
+        "label": "Hakata Port Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1568000",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.810722222,
+          35.710055555
+        ]
+      },
+      "properties": {
+        "label": "Tokyo Skytree",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q57965",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.983889,
+          37.636611
+        ]
+      },
+      "properties": {
+        "label": "Haramachi Radio Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q11495265",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.4655,
+          34.97430556
+        ]
+      },
+      "properties": {
+        "label": "Nihondaira Digital Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q11508062",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70325,
+          35.684361111
+        ]
+      },
+      "properties": {
+        "label": "NTT Docomo Yoyogi Building",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q2090752",
+        "country_qid": "Q17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630017,
+          35.459814
+        ]
+      },
+      "properties": {
+        "label": "Yokohama Media Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q11542897",
+        "country_qid": "Q17"
+      }
+    }
+  ]
+}

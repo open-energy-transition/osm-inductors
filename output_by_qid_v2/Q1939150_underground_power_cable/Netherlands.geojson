@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.716667,
+          51.44
+        ]
+      },
+      "properties": {
+        "label": "BritNed",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q918000",
+        "country_qid": "Q55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.57259,
+          53.0118
+        ]
+      },
+      "properties": {
+        "label": "Q17468554",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q17468554",
+        "country_qid": "Q55"
+      }
+    }
+  ]
+}

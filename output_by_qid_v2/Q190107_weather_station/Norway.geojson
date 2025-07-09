@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.51916667,
+          80.04861111
+        ]
+      },
+      "properties": {
+        "label": "Haudegen",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q11974436",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.01333333,
+          76.51
+        ]
+      },
+      "properties": {
+        "label": "Hopen Radio",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q15225057",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.99833333,
+          74.50388889
+        ]
+      },
+      "properties": {
+        "label": "Herwighamna",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q65297378",
+        "country_qid": "Q20"
+      }
+    }
+  ]
+}

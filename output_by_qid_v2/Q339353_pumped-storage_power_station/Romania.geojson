@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2686,
+          46.7139
+        ]
+      },
+      "properties": {
+        "label": "Tarnița – Lăpuștești Hydroelectric Power Station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q7686424",
+        "country_qid": "Q218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.59525,
+          45.671416666
+        ]
+      },
+      "properties": {
+        "label": "Q30973983",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q30973983",
+        "country_qid": "Q218"
+      }
+    }
+  ]
+}

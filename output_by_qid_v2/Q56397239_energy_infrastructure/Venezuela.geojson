@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.90225,
+          8.27547222
+        ]
+      },
+      "properties": {
+        "label": "Orinoco River Crossing",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q2030837",
+        "country_qid": "Q717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.629429,
+          10.786141
+        ]
+      },
+      "properties": {
+        "label": "Lake Maracaibo power line crossing",
+        "type": "Energy infrastructure",
+        "entity": "http://www.wikidata.org/entity/Q15810463",
+        "country_qid": "Q717"
+      }
+    }
+  ]
+}

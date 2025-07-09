@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.001388888,
+          5.362388888
+        ]
+      },
+      "properties": {
+        "label": "Q61448253",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q61448253",
+        "country_qid": "Q734"
+      }
+    }
+  ]
+}

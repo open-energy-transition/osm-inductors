@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2901406,
+          34.7274216
+        ]
+      },
+      "properties": {
+        "label": "Vasilikos Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q7780731",
+        "country_qid": "Q229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.74583333,
+          34.98027778
+        ]
+      },
+      "properties": {
+        "label": "Dhekelia Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q5269505",
+        "country_qid": "Q229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1825,
+          34.71055556
+        ]
+      },
+      "properties": {
+        "label": "Moni Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q6899855",
+        "country_qid": "Q229"
+      }
+    }
+  ]
+}

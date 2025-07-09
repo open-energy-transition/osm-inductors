@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9332,
+          12.1343
+        ]
+      },
+      "properties": {
+        "label": "Isla",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q6103445",
+        "country_qid": "Q25279",
+        "Wikidata Qid": "Q6103445"
+      }
+    }
+  ]
+}

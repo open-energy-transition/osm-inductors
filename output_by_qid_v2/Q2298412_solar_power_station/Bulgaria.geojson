@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.54166667,
+          43.52111111
+        ]
+      },
+      "properties": {
+        "label": "Pobeda Solar Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q7206193",
+        "country_qid": "Q219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.32166667,
+          42.10472222
+        ]
+      },
+      "properties": {
+        "label": "Karadzhalovo Solar Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q6367866",
+        "country_qid": "Q219"
+      }
+    }
+  ]
+}

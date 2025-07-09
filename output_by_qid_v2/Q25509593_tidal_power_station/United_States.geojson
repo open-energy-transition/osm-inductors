@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.964167,
+          40.750898
+        ]
+      },
+      "properties": {
+        "label": "Q1502218",
+        "type": "Tidal power station",
+        "entity": "http://www.wikidata.org/entity/Q1502218",
+        "country_qid": "Q30"
+      }
+    }
+  ]
+}

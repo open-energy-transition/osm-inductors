@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.693055555,
+          33.565277777
+        ]
+      },
+      "properties": {
+        "label": "Lake Qaraoun",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q2306372",
+        "country_qid": "Q822"
+      }
+    }
+  ]
+}

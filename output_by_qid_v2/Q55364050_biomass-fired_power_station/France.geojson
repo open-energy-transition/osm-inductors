@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.486111111,
+          43.469438888
+        ]
+      },
+      "properties": {
+        "label": "Provence Power Station",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1839493",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.32694,
+          -20.93056
+        ]
+      },
+      "properties": {
+        "label": "Port-Est bioenergy power plant",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q2944719",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6351399,
+          -20.9142559
+        ]
+      },
+      "properties": {
+        "label": "Q65923053",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q65923053",
+        "country_qid": "Q142"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.154444444,
+          35.809166666
+        ]
+      },
+      "properties": {
+        "label": "Kairouan Solar Power Station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q123111932",
+        "country_qid": "Q948"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.933333333,
+          10.533333333
+        ]
+      },
+      "properties": {
+        "label": "Lake Arenal",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q31938",
+        "country_qid": "Q800"
+      }
+    }
+  ]
+}

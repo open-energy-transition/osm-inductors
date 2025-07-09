@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.86005,
+          54.7833
+        ]
+      },
+      "properties": {
+        "label": "Dogger Bank A Offshore Substation",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q131560727",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1447,
+          51.0984
+        ]
+      },
+      "properties": {
+        "label": "Folkestone Converter Station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q122975912",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.194,
+          50.818
+        ]
+      },
+      "properties": {
+        "label": "Daedalus Converter Station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q122971586",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25928,
+          54.99518
+        ]
+      },
+      "properties": {
+        "label": "Sofia Offshore Converter Platform",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q131572461",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3446422,
+          51.3106091
+        ]
+      },
+      "properties": {
+        "label": "Richborough Energy Park",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q7330376",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.65343,
+          54.98462
+        ]
+      },
+      "properties": {
+        "label": "Dogger Bank B Offshore Substation",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q131560777",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.980833333,
+          55.069722222
+        ]
+      },
+      "properties": {
+        "label": "Auchencrosh Converter Station",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q63148605",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.71059,
+          55.02233
+        ]
+      },
+      "properties": {
+        "label": "Dogger Bank C Offshore Substation",
+        "type": "HVDC converter station",
+        "entity": "http://www.wikidata.org/entity/Q134731299",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

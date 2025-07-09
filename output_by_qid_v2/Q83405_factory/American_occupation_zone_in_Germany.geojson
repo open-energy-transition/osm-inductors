@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.998261571,
+          49.680256145
+        ]
+      },
+      "properties": {
+        "label": "Continental-Gelatine-Industrie",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q125869182",
+        "country_qid": "Q55304"
+      }
+    }
+  ]
+}

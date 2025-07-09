@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.92428,
+          59.45168
+        ]
+      },
+      "properties": {
+        "label": "Iru Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3440702",
+        "country_qid": "Q191"
+      }
+    }
+  ]
+}

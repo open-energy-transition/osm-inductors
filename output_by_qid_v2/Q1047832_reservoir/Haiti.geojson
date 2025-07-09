@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0,
+          18.908333
+        ]
+      },
+      "properties": {
+        "label": "Lake Péligre",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3038517",
+        "country_qid": "Q790"
+      }
+    }
+  ]
+}

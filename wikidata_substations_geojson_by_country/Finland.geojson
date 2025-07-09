@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.947503681,
+          60.16474444
+        ]
+      },
+      "properties": {
+        "label": "Q18659892",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q18659892",
+        "country_qid": "Q33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.775253295,
+          61.165223599
+        ]
+      },
+      "properties": {
+        "label": "Imatra electrical substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q113329669",
+        "country_qid": "Q33"
+      }
+    }
+  ]
+}

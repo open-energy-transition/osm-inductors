@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3251,
+          48.0735
+        ]
+      },
+      "properties": {
+        "label": "Industriezentrum Niederösterreich Süd",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q1396626",
+        "country_qid": "Q40"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.001666666,
+          33.560277777
+        ]
+      },
+      "properties": {
+        "label": "Q21578386",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21578386",
+        "country_qid": "Q822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.20006,
+          33.99914
+        ]
+      },
+      "properties": {
+        "label": "Baalbek quarry",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q109526949",
+        "country_qid": "Q822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.351111111,
+          33.233055555
+        ]
+      },
+      "properties": {
+        "label": "Q21577240",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21577240",
+        "country_qid": "Q822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.475833333,
+          33.7475
+        ]
+      },
+      "properties": {
+        "label": "Q21578648",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21578648",
+        "country_qid": "Q822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.890277777,
+          34.140833333
+        ]
+      },
+      "properties": {
+        "label": "Q21582936",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21582936",
+        "country_qid": "Q822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.605277777,
+          33.910555555
+        ]
+      },
+      "properties": {
+        "label": "El Kassarat",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21579473",
+        "country_qid": "Q822"
+      }
+    }
+  ]
+}

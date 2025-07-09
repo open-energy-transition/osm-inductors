@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.940944444,
+          49.400416666
+        ]
+      },
+      "properties": {
+        "label": "Darkhan Solar Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q121734065",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.826722222,
+          43.725111111
+        ]
+      },
+      "properties": {
+        "label": "Gegeen Solar Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q123125240",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.210444444,
+          49.610416666
+        ]
+      },
+      "properties": {
+        "label": "Murun 10MW Solar Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q123347136",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.726972222,
+          47.620166666
+        ]
+      },
+      "properties": {
+        "label": "Bukhug Solar Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q121608554",
+        "country_qid": "Q711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.197833333,
+          44.910416666
+        ]
+      },
+      "properties": {
+        "label": "Gobi Solar Power Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q131562028",
+        "country_qid": "Q711"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.69972,
+          46.42556
+        ]
+      },
+      "properties": {
+        "label": "Q25386935",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q25386935",
+        "country_qid": "Q232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.94222,
+          47.081861
+        ]
+      },
+      "properties": {
+        "label": "Q25390300",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q25390300",
+        "country_qid": "Q232"
+      }
+    }
+  ]
+}

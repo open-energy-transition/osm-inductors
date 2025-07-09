@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.412305555,
+          43.9625
+        ]
+      },
+      "properties": {
+        "label": "Bajina Bašta pumped-storage power station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q11960010",
+        "country_qid": "Q403"
+      }
+    }
+  ]
+}

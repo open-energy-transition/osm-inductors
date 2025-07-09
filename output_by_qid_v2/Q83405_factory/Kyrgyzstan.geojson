@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.30068,
+          40.76994
+        ]
+      },
+      "properties": {
+        "label": "Uzkand",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q127431669",
+        "country_qid": "Q813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.606,
+          42.847
+        ]
+      },
+      "properties": {
+        "label": "Q4155175",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q4155175",
+        "country_qid": "Q813"
+      }
+    }
+  ]
+}

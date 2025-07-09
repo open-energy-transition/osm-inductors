@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9469339,
+          45.8558286
+        ]
+      },
+      "properties": {
+        "label": "Q85516428",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q85516428",
+        "country_qid": "Q224"
+      }
+    }
+  ]
+}

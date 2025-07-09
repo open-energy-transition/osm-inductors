@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3245305,
+          -6.1822569
+        ]
+      },
+      "properties": {
+        "label": "Soyo I Thermal Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q56373857",
+        "country_qid": "Q916"
+      }
+    }
+  ]
+}

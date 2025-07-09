@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.662,
+          10.529
+        ]
+      },
+      "properties": {
+        "label": "Garafiri Hydroelectric Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q24853719",
+        "country_qid": "Q1006",
+        "Wikidata Qid": "Q24853719"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.682222222,
+          11.7675
+        ]
+      },
+      "properties": {
+        "label": "Khoumagueli Solar Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q107223266",
+        "country_qid": "Q1006",
+        "Wikidata Qid": "Q107223266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.281,
+          10.464111111
+        ]
+      },
+      "properties": {
+        "label": "Barrage de Kaléta",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q30744033",
+        "country_qid": "Q1006",
+        "Wikidata Qid": "Q30744033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2819,
+          10.4634
+        ]
+      },
+      "properties": {
+        "label": "Kaleta Hydropower Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q104856249",
+        "country_qid": "Q1006",
+        "Wikidata Qid": "Q104856249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.697638888,
+          9.519388888
+        ]
+      },
+      "properties": {
+        "label": "Kaloum power plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q56372824",
+        "country_qid": "Q1006",
+        "Wikidata Qid": "Q56372824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.345833333,
+          11.268333333
+        ]
+      },
+      "properties": {
+        "label": "Koukoutamba Hydroelectric Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q108502779",
+        "country_qid": "Q1006",
+        "Wikidata Qid": "Q108502779"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.251305555,
+          10.424555555
+        ]
+      },
+      "properties": {
+        "label": "Souapiti Dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q46963910",
+        "country_qid": "Q1006",
+        "Wikidata Qid": "Q46963910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.64,
+          10.884166666
+        ]
+      },
+      "properties": {
+        "label": "Pita Hydroelectric Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q108695986",
+        "country_qid": "Q1006",
+        "Wikidata Qid": "Q108695986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.501718,
+          9.722947
+        ]
+      },
+      "properties": {
+        "label": "Q108421709",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q108421709",
+        "country_qid": "Q1006",
+        "Wikidata Qid": "Q108421709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.57824,
+          10.38698
+        ]
+      },
+      "properties": {
+        "label": "Fria aluminum factory",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q117409275",
+        "country_qid": "Q1006",
+        "Wikidata Qid": "Q117409275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9,
+          8.516666666
+        ]
+      },
+      "properties": {
+        "label": "Simandou mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q16969455",
+        "country_qid": "Q1006",
+        "Wikidata Qid": "Q16969455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.766666666,
+          11.1
+        ]
+      },
+      "properties": {
+        "label": "Q24848822",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q24848822",
+        "country_qid": "Q1006",
+        "Wikidata Qid": "Q24848822"
+      }
+    }
+  ]
+}

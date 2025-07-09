@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.596611111,
+          1.431777777
+        ]
+      },
+      "properties": {
+        "label": "Nusajaya Tech Park",
+        "type": "Industrial park",
+        "entity": "http://www.wikidata.org/entity/Q120081354",
+        "country_qid": "Q833"
+      }
+    }
+  ]
+}

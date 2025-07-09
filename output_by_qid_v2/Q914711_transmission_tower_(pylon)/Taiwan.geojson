@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.710196,
+          23.832658
+        ]
+      },
+      "properties": {
+        "label": "921 earthquake memorial pylon",
+        "type": "Transmission tower (pylon)",
+        "entity": "http://www.wikidata.org/entity/Q95090846",
+        "country_qid": "Q865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.296,
+          22.6515
+        ]
+      },
+      "properties": {
+        "label": "Tower of Light",
+        "type": "Transmission tower (pylon)",
+        "entity": "http://www.wikidata.org/entity/Q10890030",
+        "country_qid": "Q865"
+      }
+    }
+  ]
+}

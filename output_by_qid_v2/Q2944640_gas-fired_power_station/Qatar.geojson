@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6132311,
+          25.1148504
+        ]
+      },
+      "properties": {
+        "label": "Umm Al Houl power and desalination plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q104896345",
+        "country_qid": "Q846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5471489,
+          25.9251405
+        ]
+      },
+      "properties": {
+        "label": "Ras Laffan B power and desalination plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q17561167",
+        "country_qid": "Q846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6164303,
+          25.1988254
+        ]
+      },
+      "properties": {
+        "label": "Ras Abu Fontas Power and Desalination Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q19386236",
+        "country_qid": "Q846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5781344,
+          24.9748874
+        ]
+      },
+      "properties": {
+        "label": "Mesaieed Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q104896165",
+        "country_qid": "Q846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5452099,
+          25.9230652
+        ]
+      },
+      "properties": {
+        "label": "Ras Laffan A power and desalination plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q104895760",
+        "country_qid": "Q846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.58110046,
+          24.97130013
+        ]
+      },
+      "properties": {
+        "label": "Qatalum Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q21036854",
+        "country_qid": "Q846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.52222222,
+          25.93694444
+        ]
+      },
+      "properties": {
+        "label": "Ras Girtas Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7294671",
+        "country_qid": "Q846"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.205689,
+          -25.766158
+        ]
+      },
+      "properties": {
+        "label": "Lukasrand Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q1702028",
+        "country_qid": "Q258"
+      }
+    }
+  ]
+}

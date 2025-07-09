@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.171111111,
+          36.0
+        ]
+      },
+      "properties": {
+        "label": "Lake Raqqa",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q979315",
+        "country_qid": "Q858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9077,
+          35.7722
+        ]
+      },
+      "properties": {
+        "label": "Baloran Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q12196355",
+        "country_qid": "Q858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.69882,
+          34.93736
+        ]
+      },
+      "properties": {
+        "label": "Q21592855",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q21592855",
+        "country_qid": "Q858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5728,
+          34.6434
+        ]
+      },
+      "properties": {
+        "label": "Lake Homs",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6476202",
+        "country_qid": "Q858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.94758,
+          35.65538
+        ]
+      },
+      "properties": {
+        "label": "Buḩayrat Sittat ‘Ashar Tishrīn",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q12196107",
+        "country_qid": "Q858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.71,
+          34.937
+        ]
+      },
+      "properties": {
+        "label": "Q12196231",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q12196231",
+        "country_qid": "Q858"
+      }
+    }
+  ]
+}

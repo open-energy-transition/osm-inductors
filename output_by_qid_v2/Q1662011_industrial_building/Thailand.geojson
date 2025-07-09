@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924722222,
+          12.629083333
+        ]
+      },
+      "properties": {
+        "label": "Sattahip Naval Base",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q61365977",
+        "country_qid": "Q869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3732,
+          14.9424
+        ]
+      },
+      "properties": {
+        "label": "Singburi Mill",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q22032370",
+        "country_qid": "Q869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.61759167,
+          14.00978333
+        ]
+      },
+      "properties": {
+        "label": "Royal Thai Mint",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q4923103",
+        "country_qid": "Q869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.549008914,
+          13.754583593
+        ]
+      },
+      "properties": {
+        "label": "Makkasan Workshop",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132174962",
+        "country_qid": "Q869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.914123,
+          8.070904
+        ]
+      },
+      "properties": {
+        "label": "Beads Production Building",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q50656445",
+        "country_qid": "Q869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.961787,
+          12.568211
+        ]
+      },
+      "properties": {
+        "label": "The Railway Hotel",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q7759299",
+        "country_qid": "Q869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.928003,
+          12.627146
+        ]
+      },
+      "properties": {
+        "label": "Mahidol Adulyadej Naval Dockyard",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q30589737",
+        "country_qid": "Q869"
+      }
+    }
+  ]
+}

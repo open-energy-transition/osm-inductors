@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.65111111,
+          6.51027778
+        ]
+      },
+      "properties": {
+        "label": "Mount Coffee Hydropower Project",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q1950287",
+        "country_qid": "Q1014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.30219444,
+          6.29747222
+        ]
+      },
+      "properties": {
+        "label": "Firestone hydroelectric power station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q1419013",
+        "country_qid": "Q1014"
+      }
+    }
+  ]
+}

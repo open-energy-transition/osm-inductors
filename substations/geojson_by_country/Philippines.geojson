@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.616944444,
+          15.3775
+        ]
+      },
+      "properties": {
+        "label": "Concepcion substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q56241454",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.936388888,
+          15.028888888
+        ]
+      },
+      "properties": {
+        "label": "San Rafael substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q56247221",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.650277777,
+          16.063888888
+        ]
+      },
+      "properties": {
+        "label": "San Manuel substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q56245035",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.076111111,
+          14.330833333
+        ]
+      },
+      "properties": {
+        "label": "Biñan substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q56241638",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.716388888,
+          15.054166666
+        ]
+      },
+      "properties": {
+        "label": "Mexico substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q56241614",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.651944444,
+          16.060277777
+        ]
+      },
+      "properties": {
+        "label": "Nagsaag EHV substation",
+        "type": "electrical substation",
+        "substation": "http://www.wikidata.org/entity/Q56245466",
+        "country_qid": "Q928"
+      }
+    }
+  ]
+}

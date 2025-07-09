@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.52784,
+          47.086
+        ]
+      },
+      "properties": {
+        "label": "Lawena Kraftwerk",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q21036935",
+        "country_qid": "Q347"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.53097,
+          47.26423
+        ]
+      },
+      "properties": {
+        "label": "Liechtensteiner Binnenkanal",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q63684450",
+        "country_qid": "Q347"
+      }
+    }
+  ]
+}

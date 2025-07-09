@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.501172222,
+          -20.159705555
+        ]
+      },
+      "properties": {
+        "label": "Windmill",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q130435662",
+        "country_qid": "Q1027"
+      }
+    }
+  ]
+}

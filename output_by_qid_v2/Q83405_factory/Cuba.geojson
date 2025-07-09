@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.275,
+          23.04
+        ]
+      },
+      "properties": {
+        "label": "Q5831761",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q5831761",
+        "country_qid": "Q241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8305,
+          20.03586
+        ]
+      },
+      "properties": {
+        "label": "Santiago de Cuba Brewery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q115466648",
+        "country_qid": "Q241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.360629,
+          23.134246
+        ]
+      },
+      "properties": {
+        "label": "Real Fabrica de Tabacos Partagás",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q7300912",
+        "country_qid": "Q241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.94194444,
+          23.12944444
+        ]
+      },
+      "properties": {
+        "label": "Camilo Cienfuegos (Hershey)",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q20170744",
+        "country_qid": "Q241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.411111111,
+          23.106666666
+        ]
+      },
+      "properties": {
+        "label": "La Tropical Brewery",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q116694462",
+        "country_qid": "Q241"
+      }
+    }
+  ]
+}

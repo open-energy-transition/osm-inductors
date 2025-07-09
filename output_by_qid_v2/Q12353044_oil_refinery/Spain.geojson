@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.22514,
+          41.102141
+        ]
+      },
+      "properties": {
+        "label": "Complex Petroquímic de Tarragona",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q19826580",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.39897,
+          36.1858
+        ]
+      },
+      "properties": {
+        "label": "Gibraltar-San Roque Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q5790595",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.923484268,
+          37.572855082
+        ]
+      },
+      "properties": {
+        "label": "Escombreras oil refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q107392586",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.898670095,
+          37.185631601
+        ]
+      },
+      "properties": {
+        "label": "La Rábida oil refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q97627632",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.10870556,
+          43.32767222
+        ]
+      },
+      "properties": {
+        "label": "Oil refinery of Muskiz",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q25905848",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.440411746,
+          43.351206705
+        ]
+      },
+      "properties": {
+        "label": "A Coruña oil refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q12398795",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.26472222,
+          28.45277778
+        ]
+      },
+      "properties": {
+        "label": "Refinería de Santa Cruz de Tenerife",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q3929289",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.465347,
+          38.354502
+        ]
+      },
+      "properties": {
+        "label": "Q87069547",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q87069547",
+        "country_qid": "Q29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.053828267,
+          38.671432948
+        ]
+      },
+      "properties": {
+        "label": "Puertollano Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q6103453",
+        "country_qid": "Q29"
+      }
+    }
+  ]
+}

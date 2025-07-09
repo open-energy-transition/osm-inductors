@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2258,
+          33.2419
+        ]
+      },
+      "properties": {
+        "label": "Tabas power plant",
+        "type": "Coal-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q16053842",
+        "country_qid": "Q794"
+      }
+    }
+  ]
+}

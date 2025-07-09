@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.43594,
+          -20.026363
+        ]
+      },
+      "properties": {
+        "label": "Kalahari Kanvas",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132560799",
+        "country_qid": "Q963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.454651,
+          -20.0439
+        ]
+      },
+      "properties": {
+        "label": "Bio-Flash Investment",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132560911",
+        "country_qid": "Q963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.821044,
+          -21.9736
+        ]
+      },
+      "properties": {
+        "label": "SPEDU",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132413370",
+        "country_qid": "Q963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.448132,
+          -20.03957
+        ]
+      },
+      "properties": {
+        "label": "Trans Timbers Logistics",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q132560924",
+        "country_qid": "Q963"
+      }
+    }
+  ]
+}

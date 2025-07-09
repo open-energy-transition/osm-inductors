@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.315861,
+          48.123548
+        ]
+      },
+      "properties": {
+        "label": "Oil refinery Vösendorf",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q1781733",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4983,
+          48.145387
+        ]
+      },
+      "properties": {
+        "label": "OMV Oil refinery Schwechat",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q20740205",
+        "country_qid": "Q40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4079,
+          48.2611
+        ]
+      },
+      "properties": {
+        "label": "Q2127134",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q2127134",
+        "country_qid": "Q40"
+      }
+    }
+  ]
+}

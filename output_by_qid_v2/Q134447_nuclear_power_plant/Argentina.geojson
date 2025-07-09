@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.2058638,
+          -33.9675265
+        ]
+      },
+      "properties": {
+        "label": "Atucha Nuclear Power Plant",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q1756456",
+        "country_qid": "Q414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.443,
+          -32.232
+        ]
+      },
+      "properties": {
+        "label": "Embalse Nuclear Power Station",
+        "type": "Nuclear power plant",
+        "entity": "http://www.wikidata.org/entity/Q597821",
+        "country_qid": "Q414"
+      }
+    }
+  ]
+}

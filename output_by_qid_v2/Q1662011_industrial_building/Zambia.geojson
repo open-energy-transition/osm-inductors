@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.68,
+          -13.039166666
+        ]
+      },
+      "properties": {
+        "label": "Indeni Petroleum Refinery",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q96382026",
+        "country_qid": "Q953"
+      }
+    }
+  ]
+}

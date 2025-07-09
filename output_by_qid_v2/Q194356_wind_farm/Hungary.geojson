@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.907675,
+          48.097814
+        ]
+      },
+      "properties": {
+        "label": "Q999642",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q999642",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.918333333,
+          47.071666666
+        ]
+      },
+      "properties": {
+        "label": "Kulcsi wind farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q1121741",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.86888889,
+          47.20083333
+        ]
+      },
+      "properties": {
+        "label": "Ikervár Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q15228183",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.17694444,
+          47.81583333
+        ]
+      },
+      "properties": {
+        "label": "Q1472869",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q1472869",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.06599,
+          47.31146
+        ]
+      },
+      "properties": {
+        "label": "Q97343012",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q97343012",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.07111111,
+          47.67472222
+        ]
+      },
+      "properties": {
+        "label": "Kisigmánd Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q6416710",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.17583333,
+          47.81544444
+        ]
+      },
+      "properties": {
+        "label": "Q1179341",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q1179341",
+        "country_qid": "Q28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.44625,
+          47.1432
+        ]
+      },
+      "properties": {
+        "label": "Törökszentmiklós Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q1328584",
+        "country_qid": "Q28"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.22444444,
+          30.04583333
+        ]
+      },
+      "properties": {
+        "label": "Cairo Tower",
+        "type": "Communication tower",
+        "entity": "http://www.wikidata.org/entity/Q614684",
+        "country_qid": "Q79"
+      }
+    }
+  ]
+}

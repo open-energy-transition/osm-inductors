@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8141,
+          -6.13569
+        ]
+      },
+      "properties": {
+        "label": "tiger canal",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q121436189",
+        "country_qid": "Q188161",
+        "Wikidata Qid": "Q121436189"
+      }
+    }
+  ]
+}

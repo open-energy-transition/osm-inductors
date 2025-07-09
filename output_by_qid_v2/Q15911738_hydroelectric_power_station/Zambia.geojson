@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.02126,
+          -15.75987
+        ]
+      },
+      "properties": {
+        "label": "Itezhi-Tezhi Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q1461688",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8603,
+          -17.9308
+        ]
+      },
+      "properties": {
+        "label": "Victoria Falls Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q859752",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.13083333,
+          -17.91972222
+        ]
+      },
+      "properties": {
+        "label": "Batoka Gorge Hydroelectric Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q17002870",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.42083333,
+          -15.80833333
+        ]
+      },
+      "properties": {
+        "label": "Kafue Gorge Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q1462385",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1922,
+          -11.1239
+        ]
+      },
+      "properties": {
+        "label": "Zengamina",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q8069072",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.914444444,
+          -10.118888888
+        ]
+      },
+      "properties": {
+        "label": "Chishimba Hydroelectric Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q112182696",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7614,
+          -16.5217
+        ]
+      },
+      "properties": {
+        "label": "Kariba Dam",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q1367609",
+        "country_qid": "Q953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5591504,
+          -15.896147
+        ]
+      },
+      "properties": {
+        "label": "Kafue Gorge Lower Power Station",
+        "type": "Hydroelectric power station",
+        "entity": "http://www.wikidata.org/entity/Q56373922",
+        "country_qid": "Q953"
+      }
+    }
+  ]
+}

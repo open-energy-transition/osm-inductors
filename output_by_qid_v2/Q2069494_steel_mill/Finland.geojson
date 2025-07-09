@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.502777777,
+          60.018194444
+        ]
+      },
+      "properties": {
+        "label": "Dalsbruk steelworks",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q63433233",
+        "country_qid": "Q33"
+      }
+    }
+  ]
+}

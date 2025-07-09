@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.08,
+          55.39
+        ]
+      },
+      "properties": {
+        "label": "Q43380434",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q43380434",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.616024508,
+          56.941565184
+        ]
+      },
+      "properties": {
+        "label": "Q132036324",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q132036324",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.804883333,
+          57.683822222
+        ]
+      },
+      "properties": {
+        "label": "Q60970199",
+        "type": "Wind turbine",
+        "entity": "http://www.wikidata.org/entity/Q60970199",
+        "country_qid": "Q34"
+      }
+    }
+  ]
+}

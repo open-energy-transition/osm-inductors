@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6033917,
+          40.5253657
+        ]
+      },
+      "properties": {
+        "label": "Red Eléctrica de España",
+        "type": "transmission system operator (TSO)",
+        "entity": "http://www.wikidata.org/entity/Q1551220",
+        "country_qid": "Q29"
+      }
+    }
+  ]
+}

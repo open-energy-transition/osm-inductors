@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.81397,
+          27.95666
+        ]
+      },
+      "properties": {
+        "label": "Pyramid International Laboratory-Observatory",
+        "type": "Weather station",
+        "entity": "http://www.wikidata.org/entity/Q61963236",
+        "country_qid": "Q837"
+      }
+    }
+  ]
+}

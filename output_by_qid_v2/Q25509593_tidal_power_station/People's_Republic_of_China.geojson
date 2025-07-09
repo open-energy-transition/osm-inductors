@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.16136,
+          28.21254
+        ]
+      },
+      "properties": {
+        "label": "Q58295716",
+        "type": "Tidal power station",
+        "entity": "http://www.wikidata.org/entity/Q58295716",
+        "country_qid": "Q148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.24027778,
+          28.34277778
+        ]
+      },
+      "properties": {
+        "label": "Jiangxia Tidal Power Station",
+        "type": "Tidal power station",
+        "entity": "http://www.wikidata.org/entity/Q116918",
+        "country_qid": "Q148"
+      }
+    }
+  ]
+}

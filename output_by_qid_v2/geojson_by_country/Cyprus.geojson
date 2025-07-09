@@ -1,0 +1,702 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2901406,
+          34.7274216
+        ]
+      },
+      "properties": {
+        "label": "Vasilikos Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q7780731",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q7780731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.74583333,
+          34.98027778
+        ]
+      },
+      "properties": {
+        "label": "Dhekelia Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q5269505",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q5269505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1825,
+          34.71055556
+        ]
+      },
+      "properties": {
+        "label": "Moni Power Station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q6899855",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q6899855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.408648,
+          34.857502
+        ]
+      },
+      "properties": {
+        "label": "Mavrokolimpos Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q76826052",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q76826052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.737781,
+          34.87727
+        ]
+      },
+      "properties": {
+        "label": "Arminou Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q81644936",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q81644936"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.541601,
+          35.11721
+        ]
+      },
+      "properties": {
+        "label": "Ayia Marina Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q81843224",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q81843224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.82597276,
+          35.00425394
+        ]
+      },
+      "properties": {
+        "label": "Kalopanagiotis Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q82523478",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q82523478"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.55914396,
+          34.73547478
+        ]
+      },
+      "properties": {
+        "label": "Asprokremmos Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q4808219",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q4808219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.576061,
+          35.143056
+        ]
+      },
+      "properties": {
+        "label": "Pomos Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q81704063",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q81704063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.92437328,
+          34.74954479
+        ]
+      },
+      "properties": {
+        "label": "Kouris Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q6434705",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q6434705"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.98692161,
+          34.72089612
+        ]
+      },
+      "properties": {
+        "label": "Polemidia Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q62923206",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q62923206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.90289,
+          35.066792
+        ]
+      },
+      "properties": {
+        "label": "Solea Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q83295762",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q83295762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.247771,
+          35.014033
+        ]
+      },
+      "properties": {
+        "label": "Tamasos Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q83288227",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q83288227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.70275,
+          35.023393
+        ]
+      },
+      "properties": {
+        "label": "Tsakistra Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q83479403",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q83479403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.81153664,
+          35.05323974
+        ]
+      },
+      "properties": {
+        "label": "Achna Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q22991968",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q22991968"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.029008,
+          35.061861
+        ]
+      },
+      "properties": {
+        "label": "Vyzakia Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q81924287",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q81924287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.172871,
+          35.032018
+        ]
+      },
+      "properties": {
+        "label": "Klirou Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q83396721",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q83396721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.471666666,
+          34.964444444
+        ]
+      },
+      "properties": {
+        "label": "Evretou Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q5418789",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q5418789"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.08707207,
+          34.74807153
+        ]
+      },
+      "properties": {
+        "label": "Germasogeia Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q62856371",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q62856371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.35780352,
+          34.85486685
+        ]
+      },
+      "properties": {
+        "label": "Dipotamos Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q62618929",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q62618929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.25922753,
+          34.80500163
+        ]
+      },
+      "properties": {
+        "label": "Kalavasos Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q62607262",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q62607262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.036997,
+          35.008131
+        ]
+      },
+      "properties": {
+        "label": "Xyliatos Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q82316715",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q82316715"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.29322086,
+          34.89365473
+        ]
+      },
+      "properties": {
+        "label": "Lefkara Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q62663509",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q62663509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.59081921,
+          34.92991626
+        ]
+      },
+      "properties": {
+        "label": "Kannaviou Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q62027136",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q62027136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.503142,
+          35.048473
+        ]
+      },
+      "properties": {
+        "label": "Argaka Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q81698527",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q81698527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.130332,
+          34.712354
+        ]
+      },
+      "properties": {
+        "label": "Amathus",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127429520",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q127429520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8877,
+          34.6642
+        ]
+      },
+      "properties": {
+        "label": "Curium",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430069",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q127430069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.436032,
+          35.037245
+        ]
+      },
+      "properties": {
+        "label": "Marium",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430692",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q127430692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.347297,
+          35.157167
+        ]
+      },
+      "properties": {
+        "label": "Nicosia",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430846",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q127430846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.629471,
+          34.929597
+        ]
+      },
+      "properties": {
+        "label": "Citium",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127429949",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q127429949"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.407565,
+          34.759931
+        ]
+      },
+      "properties": {
+        "label": "Paphos",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430949",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q127430949"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.546609,
+          35.065649
+        ]
+      },
+      "properties": {
+        "label": "Golgoi",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430297",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q127430297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.412994,
+          35.019966
+        ]
+      },
+      "properties": {
+        "label": "Idalium",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430429",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q127430429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.044167,
+          34.674722
+        ]
+      },
+      "properties": {
+        "label": "Limassol",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q127430604",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q127430604"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2575,
+          34.791388888
+        ]
+      },
+      "properties": {
+        "label": "Metalleio Kalavaso",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q22988426",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q22988426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4625,
+          35.05
+        ]
+      },
+      "properties": {
+        "label": "Metalleio Limnis",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q22988469",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q22988469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.845833333,
+          35.104166666
+        ]
+      },
+      "properties": {
+        "label": "Mavrovouni Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q22988479",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q22988479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9131508,
+          34.920845
+        ]
+      },
+      "properties": {
+        "label": "Amiandos Asbestos Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21833108",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q21833108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.512222222,
+          35.029444444
+        ]
+      },
+      "properties": {
+        "label": "Q22987339",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q22987339",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q22987339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.116666666,
+          35.0375
+        ]
+      },
+      "properties": {
+        "label": "Q22985505",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q22985505",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q22985505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.891944444,
+          35.095
+        ]
+      },
+      "properties": {
+        "label": "Skouriotissa mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q22988530",
+        "country_qid": "Q229",
+        "Wikidata Qid": "Q22988530"
+      }
+    }
+  ]
+}

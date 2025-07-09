@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.74222222,
+          -2.41638889
+        ]
+      },
+      "properties": {
+        "label": "Lamu Wind Power Station",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q28223323",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.672,
+          -1.741
+        ]
+      },
+      "properties": {
+        "label": "Kipeto Wind Power Station",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q24236364",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9,
+          2.6
+        ]
+      },
+      "properties": {
+        "label": "Lake Turkana Wind Power Station",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q16746823",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.818611111,
+          -3.821111111
+        ]
+      },
+      "properties": {
+        "label": "Mombasa Cement Wind Power Station",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q112242022",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.59166667,
+          0.32972222
+        ]
+      },
+      "properties": {
+        "label": "Meru Wind Power Station",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q24236381",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.55535278,
+          -0.82811667
+        ]
+      },
+      "properties": {
+        "label": "Kinangop Wind Park",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q24236387",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.63555556,
+          -1.38111111
+        ]
+      },
+      "properties": {
+        "label": "Ngong Hills Wind Farm",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q17110713",
+        "country_qid": "Q114"
+      }
+    }
+  ]
+}

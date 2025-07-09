@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64277778,
+          54.77083333
+        ]
+      },
+      "properties": {
+        "label": "Elektrėnai Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q2632924",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.38638889,
+          55.74722222
+        ]
+      },
+      "properties": {
+        "label": "Panevėžys Combined Heat and Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q15630955",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.33583333,
+          55.08083333
+        ]
+      },
+      "properties": {
+        "label": "Achema Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q15889898",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1842,
+          56.3842
+        ]
+      },
+      "properties": {
+        "label": "Mažeikiai Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q14437362",
+        "country_qid": "Q37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0169,
+          54.9206
+        ]
+      },
+      "properties": {
+        "label": "Kaunas Combined Heat and Power Plant",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q15630628",
+        "country_qid": "Q37"
+      }
+    }
+  ]
+}

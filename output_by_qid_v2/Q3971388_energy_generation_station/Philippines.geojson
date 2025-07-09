@@ -1,0 +1,805 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.73083333,
+          10.86611111
+        ]
+      },
+      "properties": {
+        "label": "SaCaSol I",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q18391815",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.92935,
+          13.0601
+        ]
+      },
+      "properties": {
+        "label": "BacMan Geothermal Production Field",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q23048102",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.602986,
+          14.520056
+        ]
+      },
+      "properties": {
+        "label": "Q113514754",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q113514754",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.19614,
+          8.17754
+        ]
+      },
+      "properties": {
+        "label": "Agus VI Hydroelectric Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q11957060",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.64944444,
+          11.15194444
+        ]
+      },
+      "properties": {
+        "label": "Malitbog Geothermal Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q6743831",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.2963983,
+          10.9207839
+        ]
+      },
+      "properties": {
+        "label": "Cadiz Solar Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q23048127",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7565823,
+          14.2286837
+        ]
+      },
+      "properties": {
+        "label": "Q19385979",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q19385979",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.0236667,
+          7.7158265
+        ]
+      },
+      "properties": {
+        "label": "Pulangi IV Hydroelectric Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q7259179",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.101,
+          16.125
+        ]
+      },
+      "properties": {
+        "label": "Sual Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q7630459",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6701,
+          13.9233
+        ]
+      },
+      "properties": {
+        "label": "Calatagan Solar Farm",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q23048129",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.536583333,
+          14.424777777
+        ]
+      },
+      "properties": {
+        "label": "Q113128639",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q113128639",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.42111111,
+          10.51
+        ]
+      },
+      "properties": {
+        "label": "San Carlos BioPower",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q25247992",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.16,
+          14.90805556
+        ]
+      },
+      "properties": {
+        "label": "Angat Dam",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q164717",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.31361111,
+          14.62916667
+        ]
+      },
+      "properties": {
+        "label": "Bataan Nuclear Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q2805405",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.05194444,
+          14.4475
+        ]
+      },
+      "properties": {
+        "label": "Sucat Thermal Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q25049153",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98896,
+          14.5886
+        ]
+      },
+      "properties": {
+        "label": "Manila Thermal Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q6749710",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.93666667,
+          10.42277778
+        ]
+      },
+      "properties": {
+        "label": "SaCaSol II",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q18391818",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6525,
+          18.531944444
+        ]
+      },
+      "properties": {
+        "label": "Burgos Wind Farm",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q4998672",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2708333,
+          8.0527778
+        ]
+      },
+      "properties": {
+        "label": "Q17748295",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q17748295",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.745317,
+          13.8940148
+        ]
+      },
+      "properties": {
+        "label": "Pagbilao Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q104857140",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.71388889,
+          18.52777778
+        ]
+      },
+      "properties": {
+        "label": "Bangui Wind Farm",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q4855634",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.195142,
+          8.1700818
+        ]
+      },
+      "properties": {
+        "label": "Q11957061",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q11957061",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9227372,
+          15.5639239
+        ]
+      },
+      "properties": {
+        "label": "Masinloc Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q11988604",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.598722222,
+          14.542722222
+        ]
+      },
+      "properties": {
+        "label": "Limay CCGT Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q117480262",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.259354755,
+          12.574185235
+        ]
+      },
+      "properties": {
+        "label": "Romblon Wind Farm",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q108542450",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.953,
+          13.5022
+        ]
+      },
+      "properties": {
+        "label": "Wind Energy Power System",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q8023922",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.826861111,
+          13.919083333
+        ]
+      },
+      "properties": {
+        "label": "SLTEC Calaca Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q123982775",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1915201,
+          8.1936414
+        ]
+      },
+      "properties": {
+        "label": "Q84761346",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q84761346",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.536583333,
+          14.424777777
+        ]
+      },
+      "properties": {
+        "label": "Mariveles Coal-Fired Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q21852409",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0796118,
+          13.6218802
+        ]
+      },
+      "properties": {
+        "label": "Ilijan Combined-Cycle Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q20861495",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.603472222,
+          14.519861111
+        ]
+      },
+      "properties": {
+        "label": "Limay Coal Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q117480272",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3523699,
+          14.4813921
+        ]
+      },
+      "properties": {
+        "label": "Pililla Wind Farm",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q25052031",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.74105556,
+          16.45933333
+        ]
+      },
+      "properties": {
+        "label": "Q84761283",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q84761283",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.28626,
+          8.00387
+        ]
+      },
+      "properties": {
+        "label": "Agus I Hydro-electric Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q31796010",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.744885,
+          16.460419
+        ]
+      },
+      "properties": {
+        "label": "Ambuklao Dam",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q4741937",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.649472222,
+          13.465694444
+        ]
+      },
+      "properties": {
+        "label": "Tiwi Geothermal Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q117480284",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.023561111,
+          15.414694444
+        ]
+      },
+      "properties": {
+        "label": "Nueva Ecija Solar Farm",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q109849386",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.218583333,
+          14.091222222
+        ]
+      },
+      "properties": {
+        "label": "Mak–Ban Geothermal Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q118900615",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.16722222,
+          10.94472222
+        ]
+      },
+      "properties": {
+        "label": "North Negros BioPower",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q25112256",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2008571,
+          8.1350022
+        ]
+      },
+      "properties": {
+        "label": "Agus IV",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q398724",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8103036,
+          18.6224745
+        ]
+      },
+      "properties": {
+        "label": "Caparispisan Wind Farm",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q23048138",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.16555556,
+          10.94805556
+        ]
+      },
+      "properties": {
+        "label": "islaSol II",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q23808071",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7548,
+          14.2276
+        ]
+      },
+      "properties": {
+        "label": "San Buenaventura Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q65040760",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.93694444,
+          10.42305556
+        ]
+      },
+      "properties": {
+        "label": "South Negros BioPower",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q25112260",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58338889,
+          16.85097222
+        ]
+      },
+      "properties": {
+        "label": "Q84766545",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q84766545",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.22,
+          7.013
+        ]
+      },
+      "properties": {
+        "label": "Mount Apo Geothermal Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q19818687",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.859408,
+          18.615403
+        ]
+      },
+      "properties": {
+        "label": "Pagudpud Wind Farm",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q124201788",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.32712,
+          16.49042
+        ]
+      },
+      "properties": {
+        "label": "Bauang Diesel Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q104857157",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.03472222,
+          13.77027778
+        ]
+      },
+      "properties": {
+        "label": "Q19387544",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q19387544",
+        "country_qid": "Q928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.171694444,
+          9.2935
+        ]
+      },
+      "properties": {
+        "label": "Palinpinon Geothermal Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q118901881",
+        "country_qid": "Q928"
+      }
+    }
+  ]
+}

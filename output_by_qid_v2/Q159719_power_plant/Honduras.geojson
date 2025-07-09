@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.981861111,
+          15.040361111
+        ]
+      },
+      "properties": {
+        "label": "Río Lindo hydroelectric power station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q61448213",
+        "country_qid": "Q783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22,
+          13.925
+        ]
+      },
+      "properties": {
+        "label": "Cerro de Hula wind farm",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q16616331",
+        "country_qid": "Q783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75,
+          15.03333333
+        ]
+      },
+      "properties": {
+        "label": "El Cajón Dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q1242251",
+        "country_qid": "Q783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4675,
+          16.346805555
+        ]
+      },
+      "properties": {
+        "label": "Roatán Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q56374155",
+        "country_qid": "Q783"
+      }
+    }
+  ]
+}

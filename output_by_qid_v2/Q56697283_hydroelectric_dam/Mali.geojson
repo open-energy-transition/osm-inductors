@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2294419,
+          11.6383587
+        ]
+      },
+      "properties": {
+        "label": "Sélingué Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q2885448",
+        "country_qid": "Q912"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.435666666,
+          40.49025
+        ]
+      },
+      "properties": {
+        "label": "Vlora Power Plant",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q30973779",
+        "country_qid": "Q222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.55111111,
+          40.70111111
+        ]
+      },
+      "properties": {
+        "label": "Fier Power Station",
+        "type": "Thermal power station",
+        "entity": "http://www.wikidata.org/entity/Q5447261",
+        "country_qid": "Q222"
+      }
+    }
+  ]
+}

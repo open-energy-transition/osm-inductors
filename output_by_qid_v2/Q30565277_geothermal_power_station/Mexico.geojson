@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4562514,
+          19.6714131
+        ]
+      },
+      "properties": {
+        "label": "Los Humeros Geothermal Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q122853721",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.244,
+          32.4111
+        ]
+      },
+      "properties": {
+        "label": "Cerro Prieto Geothermal Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q3624174",
+        "country_qid": "Q96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.666305555,
+          19.790277777
+        ]
+      },
+      "properties": {
+        "label": "Los Azufres Geothermal Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q121427626",
+        "country_qid": "Q96"
+      }
+    }
+  ]
+}

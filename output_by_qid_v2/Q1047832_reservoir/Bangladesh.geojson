@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.229166666,
+          22.495833333
+        ]
+      },
+      "properties": {
+        "label": "Kaptai Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q10995968",
+        "country_qid": "Q902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.17944444,
+          23.46444444
+        ]
+      },
+      "properties": {
+        "label": "Dharmasagar",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q15213881",
+        "country_qid": "Q902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5719,
+          22.8168
+        ]
+      },
+      "properties": {
+        "label": "Mahamaya Chhara Irrigation Extension Project",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q20613002",
+        "country_qid": "Q902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7941,
+          22.3697
+        ]
+      },
+      "properties": {
+        "label": "Foy's Lake",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q3348078",
+        "country_qid": "Q902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.357222222,
+          24.513333333
+        ]
+      },
+      "properties": {
+        "label": "Komlaranir Dighi",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q25586611",
+        "country_qid": "Q902"
+      }
+    }
+  ]
+}

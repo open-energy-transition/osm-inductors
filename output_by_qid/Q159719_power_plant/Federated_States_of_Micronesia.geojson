@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.20677,
+          6.92016
+        ]
+      },
+      "properties": {
+        "label": "Q24574988",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q24574988",
+        "country_qid": "Q702"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.20666667,
+          6.95972222
+        ]
+      },
+      "properties": {
+        "label": "Japanese Hydro-electric Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q23581230",
+        "country_qid": "Q702"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.214722222,
+          6.91825
+        ]
+      },
+      "properties": {
+        "label": "Q61448272",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q61448272",
+        "country_qid": "Q702"
+      }
+    }
+  ]
+}

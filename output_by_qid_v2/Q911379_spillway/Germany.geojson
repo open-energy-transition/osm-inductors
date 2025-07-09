@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.44962,
+          49.13898
+        ]
+      },
+      "properties": {
+        "label": "Hochwasserentlastung bei Breitenfurt",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q97016927",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.73619,
+          48.3954
+        ]
+      },
+      "properties": {
+        "label": "Fudt",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q115971403",
+        "country_qid": "Q183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9985736,
+          47.7075562
+        ]
+      },
+      "properties": {
+        "label": "Entlastung Isnyer Ach",
+        "type": "Spillway",
+        "entity": "http://www.wikidata.org/entity/Q131754394",
+        "country_qid": "Q183"
+      }
+    }
+  ]
+}

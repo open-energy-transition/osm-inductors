@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.08825,
+          59.354
+        ]
+      },
+      "properties": {
+        "label": "Ellevios teknikhus",
+        "type": "Electrical substation",
+        "entity": "http://www.wikidata.org/entity/Q19977715",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.023611,
+          59.308611
+        ]
+      },
+      "properties": {
+        "label": "Q18331530",
+        "type": "Electrical substation",
+        "entity": "http://www.wikidata.org/entity/Q18331530",
+        "country_qid": "Q34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.192833333,
+          59.350333333
+        ]
+      },
+      "properties": {
+        "label": "Breviks vatten- och elverk",
+        "type": "Electrical substation",
+        "entity": "http://www.wikidata.org/entity/Q107491430",
+        "country_qid": "Q34"
+      }
+    }
+  ]
+}

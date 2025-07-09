@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.35194444,
+          33.12472222
+        ]
+      },
+      "properties": {
+        "label": "Hassi R'Mel integrated solar combined cycle power station",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q835854",
+        "country_qid": "Q262"
+      }
+    }
+  ]
+}

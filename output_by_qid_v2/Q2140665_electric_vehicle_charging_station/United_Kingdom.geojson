@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12169,
+          51.49504
+        ]
+      },
+      "properties": {
+        "label": "Lambeth Pier",
+        "type": "Electric vehicle charging station",
+        "entity": "http://www.wikidata.org/entity/Q28005104",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

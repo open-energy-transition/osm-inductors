@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.805755,
+          43.020296
+        ]
+      },
+      "properties": {
+        "label": "Q16601451",
+        "type": "Control room",
+        "entity": "http://www.wikidata.org/entity/Q16601451",
+        "country_qid": "Q38"
+      }
+    }
+  ]
+}

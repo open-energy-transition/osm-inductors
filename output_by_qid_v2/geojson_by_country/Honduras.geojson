@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.981861111,
+          15.040361111
+        ]
+      },
+      "properties": {
+        "label": "Río Lindo hydroelectric power station",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q61448213",
+        "country_qid": "Q783",
+        "Wikidata Qid": "Q61448213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22,
+          13.925
+        ]
+      },
+      "properties": {
+        "label": "Cerro de Hula wind farm",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q16616331",
+        "country_qid": "Q783",
+        "Wikidata Qid": "Q16616331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75,
+          15.03333333
+        ]
+      },
+      "properties": {
+        "label": "El Cajón Dam",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q1242251",
+        "country_qid": "Q783",
+        "Wikidata Qid": "Q1242251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4675,
+          16.346805555
+        ]
+      },
+      "properties": {
+        "label": "Roatán Power Plant",
+        "type": "power plant",
+        "entity": "http://www.wikidata.org/entity/Q56374155",
+        "country_qid": "Q783",
+        "Wikidata Qid": "Q56374155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.666666666,
+          15.033333333
+        ]
+      },
+      "properties": {
+        "label": "Q25287197",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q25287197",
+        "country_qid": "Q783",
+        "Wikidata Qid": "Q25287197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.022222222,
+          13.281944444
+        ]
+      },
+      "properties": {
+        "label": "Clavo Rico",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q25282552",
+        "country_qid": "Q783",
+        "Wikidata Qid": "Q25282552"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9373,
+          14.761
+        ]
+      },
+      "properties": {
+        "label": "Q19951150",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q19951150",
+        "country_qid": "Q783",
+        "Wikidata Qid": "Q19951150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.596388888,
+          13.514444444
+        ]
+      },
+      "properties": {
+        "label": "Q25284528",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q25284528",
+        "country_qid": "Q783",
+        "Wikidata Qid": "Q25284528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.135555555,
+          13.764444444
+        ]
+      },
+      "properties": {
+        "label": "Mineral de Yeso",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q25283907",
+        "country_qid": "Q783",
+        "Wikidata Qid": "Q25283907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08333,
+          14.83333
+        ]
+      },
+      "properties": {
+        "label": "El Mochito mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q5351608",
+        "country_qid": "Q783",
+        "Wikidata Qid": "Q5351608"
+      }
+    }
+  ]
+}

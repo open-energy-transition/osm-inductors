@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.346583333,
+          43.338555555
+        ]
+      },
+      "properties": {
+        "label": "ex U-Boot-Bunker Martha",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q23787696",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1379,
+          49.05378
+        ]
+      },
+      "properties": {
+        "label": "OPCORE DC5",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q110914894",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37929,
+          48.77487
+        ]
+      },
+      "properties": {
+        "label": "OPCORE DC3",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q110914855",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.41181,
+          48.79476
+        ]
+      },
+      "properties": {
+        "label": "OPCORE DC2",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q110910028",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29597,
+          48.82949
+        ]
+      },
+      "properties": {
+        "label": "Scaleway DC4",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q110914878",
+        "country_qid": "Q142"
+      }
+    }
+  ]
+}

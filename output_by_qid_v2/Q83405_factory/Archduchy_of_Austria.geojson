@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.229022222,
+          48.249258333
+        ]
+      },
+      "properties": {
+        "label": "Brauerei Raschhofer",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q126520355",
+        "country_qid": "Q699964"
+      }
+    }
+  ]
+}

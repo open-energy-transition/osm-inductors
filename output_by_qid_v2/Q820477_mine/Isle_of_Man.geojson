@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.31761,
+          54.29861
+        ]
+      },
+      "properties": {
+        "label": "Ballajora Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q38251151",
+        "country_qid": "Q9676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.31761,
+          54.29861
+        ]
+      },
+      "properties": {
+        "label": "Dhyrnane Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q38251312",
+        "country_qid": "Q9676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.31761,
+          54.29861
+        ]
+      },
+      "properties": {
+        "label": "Maughold Head Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q38251237",
+        "country_qid": "Q9676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.462,
+          54.263
+        ]
+      },
+      "properties": {
+        "label": "Snaefell Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q29025815",
+        "country_qid": "Q9676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6394,
+          54.1693
+        ]
+      },
+      "properties": {
+        "label": "Foxdale Mines",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q38251481",
+        "country_qid": "Q9676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.40627778,
+          54.23994444
+        ]
+      },
+      "properties": {
+        "label": "Laxey Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q29026814",
+        "country_qid": "Q9676"
+      }
+    }
+  ]
+}

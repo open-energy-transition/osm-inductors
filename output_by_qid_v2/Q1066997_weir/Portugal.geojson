@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4401339,
+          40.2154844
+        ]
+      },
+      "properties": {
+        "label": "Q9641501",
+        "type": "Weir",
+        "entity": "http://www.wikidata.org/entity/Q9641501",
+        "country_qid": "Q45"
+      }
+    }
+  ]
+}

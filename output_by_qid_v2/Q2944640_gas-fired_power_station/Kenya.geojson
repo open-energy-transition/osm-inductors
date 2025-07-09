@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7539,
+          0.511667
+        ]
+      },
+      "properties": {
+        "label": "Baringo Thermal Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q19903437",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.60916667,
+          -4.06472222
+        ]
+      },
+      "properties": {
+        "label": "Dongo Kundu Thermal Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q24236360",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4319,
+          -0.693611
+        ]
+      },
+      "properties": {
+        "label": "Biojoule Biogas Power Station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q19903519",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.636972222,
+          -4.038055555
+        ]
+      },
+      "properties": {
+        "label": "Kipevu gas turbine power station",
+        "type": "Gas-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q56373797",
+        "country_qid": "Q114"
+      }
+    }
+  ]
+}

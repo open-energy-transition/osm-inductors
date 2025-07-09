@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.987471,
+          45.092868
+        ]
+      },
+      "properties": {
+        "label": "Q4332503",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q4332503",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7725,
+          43.99222222
+        ]
+      },
+      "properties": {
+        "label": "Q4290374",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q4290374",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.81166667,
+          51.46527778
+        ]
+      },
+      "properties": {
+        "label": "Pauzhetskaya Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q4347147",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.20166667,
+          52.53861111
+        ]
+      },
+      "properties": {
+        "label": "Mutnovskaya Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q2219238",
+        "country_qid": "Q159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.237672,
+          52.551404
+        ]
+      },
+      "properties": {
+        "label": "Verhne-Mutnovskaya Power Station",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q4108285",
+        "country_qid": "Q159"
+      }
+    }
+  ]
+}

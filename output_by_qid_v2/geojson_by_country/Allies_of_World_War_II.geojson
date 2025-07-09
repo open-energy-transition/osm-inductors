@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.804056,
+          -5.08904
+        ]
+      },
+      "properties": {
+        "label": "Naval Base Alexishafen",
+        "type": "Hydraulic structure",
+        "entity": "http://www.wikidata.org/entity/Q114352551",
+        "country_qid": "Q329888",
+        "Wikidata Qid": "Q114352551"
+      }
+    }
+  ]
+}

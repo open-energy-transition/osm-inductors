@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.96786,
+          35.21891
+        ]
+      },
+      "properties": {
+        "label": "Baniyas Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q114316894",
+        "country_qid": "Q858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.63893,
+          34.71738
+        ]
+      },
+      "properties": {
+        "label": "Homs Petroleum Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q12243474",
+        "country_qid": "Q858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.959444444,
+          35.216944444
+        ]
+      },
+      "properties": {
+        "label": "Baniyas Refinery",
+        "type": "Oil refinery",
+        "entity": "http://www.wikidata.org/entity/Q12243472",
+        "country_qid": "Q858"
+      }
+    }
+  ]
+}

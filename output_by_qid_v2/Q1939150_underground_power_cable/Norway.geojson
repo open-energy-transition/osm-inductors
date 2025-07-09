@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.618,
+          57.6477
+        ]
+      },
+      "properties": {
+        "label": "Skagerrak",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q264054",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.23561,
+          56.20835
+        ]
+      },
+      "properties": {
+        "label": "NORD.LINK",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q1961296",
+        "country_qid": "Q20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6769,
+          57.5672
+        ]
+      },
+      "properties": {
+        "label": "North Sea Link",
+        "type": "Underground power cable",
+        "entity": "http://www.wikidata.org/entity/Q5636209",
+        "country_qid": "Q20"
+      }
+    }
+  ]
+}

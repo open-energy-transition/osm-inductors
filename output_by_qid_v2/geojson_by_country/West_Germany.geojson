@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.969280123,
+          48.555080226
+        ]
+      },
+      "properties": {
+        "label": "Kelter Entringen",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q106350077",
+        "country_qid": "Q713750",
+        "Wikidata Qid": "Q106350077"
+      }
+    }
+  ]
+}

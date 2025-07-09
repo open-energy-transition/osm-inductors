@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.440136421,
+          20.748752579
+        ]
+      },
+      "properties": {
+        "label": "Maui High Performance Computing Center",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q51078337",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.115887155,
+          43.012101013
+        ]
+      },
+      "properties": {
+        "label": "Syracuse University Green Data Center",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q125698075",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.239,
+          32.8844
+        ]
+      },
+      "properties": {
+        "label": "San Diego Supercomputer Center",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q3947008",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.933092,
+          40.43153
+        ]
+      },
+      "properties": {
+        "label": "Utah Data Center",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q12857142",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.581047222,
+          39.100808333
+        ]
+      },
+      "properties": {
+        "label": "Bryant Building",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q113134265",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8974,
+          41.1289
+        ]
+      },
+      "properties": {
+        "label": "NCAR-Wyoming Supercomputing Center",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q24259253",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0012,
+          40.7108
+        ]
+      },
+      "properties": {
+        "label": "375 Pearl Street",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q227873",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.607933,
+          42.202521
+        ]
+      },
+      "properties": {
+        "label": "Massachusetts Green High Performance Computing Center",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q6784277",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.949326,
+          40.445566
+        ]
+      },
+      "properties": {
+        "label": "Pittsburgh Supercomputing Center",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q7199401",
+        "country_qid": "Q30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6973,
+          42.6805
+        ]
+      },
+      "properties": {
+        "label": "Computational Center for Nanotechnology Innovations",
+        "type": "Data center",
+        "entity": "http://www.wikidata.org/entity/Q5157282",
+        "country_qid": "Q30"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.2581592,
+          -33.1165623
+        ]
+      },
+      "properties": {
+        "label": "UPM Power Plant",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q111466667",
+        "country_qid": "Q77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0550891,
+          -34.2261431
+        ]
+      },
+      "properties": {
+        "label": "Montes del Plata Power Plant",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q111466599",
+        "country_qid": "Q77"
+      }
+    }
+  ]
+}

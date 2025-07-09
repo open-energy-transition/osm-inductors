@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.997222222,
+          38.799333333
+        ]
+      },
+      "properties": {
+        "label": "Bayramhacı Dam",
+        "type": "Hydroelectric dam",
+        "entity": "http://www.wikidata.org/entity/Q116676991",
+        "country_qid": "Q43"
+      }
+    }
+  ]
+}

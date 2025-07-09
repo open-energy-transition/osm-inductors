@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3733462,
+          48.8324076
+        ]
+      },
+      "properties": {
+        "label": "Dobšiná hydroelectric power station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q30973032",
+        "country_qid": "Q214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.91235,
+          49.0088
+        ]
+      },
+      "properties": {
+        "label": "Čierny Váh pumped storage hydroelectric power station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q31927442",
+        "country_qid": "Q214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.508333333,
+          49.192777777
+        ]
+      },
+      "properties": {
+        "label": "Mikšová II hydroelectric power station",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q30973083",
+        "country_qid": "Q214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4837111,
+          49.097658
+        ]
+      },
+      "properties": {
+        "label": "Liptovská Mara Dam",
+        "type": "Pumped-storage power station",
+        "entity": "http://www.wikidata.org/entity/Q30973075",
+        "country_qid": "Q214"
+      }
+    }
+  ]
+}

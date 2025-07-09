@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.478055555,
+          -9.502777777
+        ]
+      },
+      "properties": {
+        "label": "Sirinumu Dam",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q34924082",
+        "country_qid": "Q691"
+      }
+    }
+  ]
+}

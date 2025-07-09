@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.477369,
+          51.57851
+        ]
+      },
+      "properties": {
+        "label": "Larks Green Solar Farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q118144516",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.01414,
+          51.12491
+        ]
+      },
+      "properties": {
+        "label": "Worsted Solar Farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q111038921",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3646,
+          52.241
+        ]
+      },
+      "properties": {
+        "label": "Staughton Airfield Solar Farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q120402427",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.361,
+          52.287
+        ]
+      },
+      "properties": {
+        "label": "Breach Solar Farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q120401888",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7765,
+          52.1937
+        ]
+      },
+      "properties": {
+        "label": "Drayton Manor Farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q116038318",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.302,
+          52.283
+        ]
+      },
+      "properties": {
+        "label": "Burwell Solar Farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q120401692",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.41,
+          51.78
+        ]
+      },
+      "properties": {
+        "label": "Aurora Solar Farm",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q120401957",
+        "country_qid": "Q145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9429,
+          51.3344
+        ]
+      },
+      "properties": {
+        "label": "Cleve Hill Solar Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q96375108",
+        "country_qid": "Q145"
+      }
+    }
+  ]
+}

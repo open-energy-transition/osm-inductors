@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.393454943,
+          10.47483621
+        ]
+      },
+      "properties": {
+        "label": "Flour Mill Kaduna",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q131298341",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.583330596,
+          7.809589287
+        ]
+      },
+      "properties": {
+        "label": "CAPSFEED LIMITED",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q114651535",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.416110867,
+          10.479068691
+        ]
+      },
+      "properties": {
+        "label": "Nigeria Breweries Plc, Makera Road, Kaduna",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q131278111",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.526099,
+          12.000853
+        ]
+      },
+      "properties": {
+        "label": "Kofar Mata Dye Pits",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q109265005",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8945888,
+          8.1360841
+        ]
+      },
+      "properties": {
+        "label": "Mopa Breweries, Ltd.",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q6908771",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.205389,
+          5.621115
+        ]
+      },
+      "properties": {
+        "label": "Escravos GTL",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q5397421",
+        "country_qid": "Q1033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.919449989,
+          5.00869714
+        ]
+      },
+      "properties": {
+        "label": "Champion breweries",
+        "type": "Factory",
+        "entity": "http://www.wikidata.org/entity/Q55606946",
+        "country_qid": "Q1033"
+      }
+    }
+  ]
+}

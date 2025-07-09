@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.32272,
+          47.11629
+        ]
+      },
+      "properties": {
+        "label": "BESS Walenstadt",
+        "type": "Battery storage power station",
+        "entity": "http://www.wikidata.org/entity/Q123414212",
+        "country_qid": "Q39"
+      }
+    }
+  ]
+}

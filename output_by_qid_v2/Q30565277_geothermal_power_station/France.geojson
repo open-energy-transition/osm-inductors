@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.866318,
+          48.930839
+        ]
+      },
+      "properties": {
+        "label": "Q132473275",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q132473275",
+        "country_qid": "Q142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.769074204,
+          16.127306612
+        ]
+      },
+      "properties": {
+        "label": "Geothermal power plant of Bouillante",
+        "type": "Geothermal power station",
+        "entity": "http://www.wikidata.org/entity/Q2944535",
+        "country_qid": "Q142"
+      }
+    }
+  ]
+}

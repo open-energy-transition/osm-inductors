@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.621666666,
+          49.452777777
+        ]
+      },
+      "properties": {
+        "label": "Saint Saviour Reservoir",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q24695936",
+        "country_qid": "Q25230"
+      }
+    }
+  ]
+}

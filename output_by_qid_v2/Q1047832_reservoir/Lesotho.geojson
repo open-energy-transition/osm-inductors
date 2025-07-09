@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.165,
+          -30.309722222
+        ]
+      },
+      "properties": {
+        "label": "Lake Letsie",
+        "type": "Reservoir",
+        "entity": "http://www.wikidata.org/entity/Q108087572",
+        "country_qid": "Q1013"
+      }
+    }
+  ]
+}

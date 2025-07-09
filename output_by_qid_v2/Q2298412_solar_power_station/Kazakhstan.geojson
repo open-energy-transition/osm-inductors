@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1870764,
+          49.2251092
+        ]
+      },
+      "properties": {
+        "label": "Zhangiztobe Solar Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q106281571",
+        "country_qid": "Q232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1132516,
+          43.9682643
+        ]
+      },
+      "properties": {
+        "label": "Kapshagay Solar Plant",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q106298395",
+        "country_qid": "Q232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8714132,
+          49.8114871
+        ]
+      },
+      "properties": {
+        "label": "SES Saran",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q97317043",
+        "country_qid": "Q232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.113055555,
+          43.968361111
+        ]
+      },
+      "properties": {
+        "label": "Nurgisa 100 MW Solar Park",
+        "type": "Solar power station",
+        "entity": "http://www.wikidata.org/entity/Q122799735",
+        "country_qid": "Q232"
+      }
+    }
+  ]
+}

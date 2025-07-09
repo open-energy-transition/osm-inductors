@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.821,
+          44.851
+        ]
+      },
+      "properties": {
+        "label": "Q12565163",
+        "type": "Steel mill",
+        "entity": "http://www.wikidata.org/entity/Q12565163",
+        "country_qid": "Q232"
+      }
+    }
+  ]
+}

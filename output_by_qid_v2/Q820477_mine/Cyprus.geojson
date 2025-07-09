@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2575,
+          34.791388888
+        ]
+      },
+      "properties": {
+        "label": "Metalleio Kalavaso",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q22988426",
+        "country_qid": "Q229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4625,
+          35.05
+        ]
+      },
+      "properties": {
+        "label": "Metalleio Limnis",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q22988469",
+        "country_qid": "Q229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.845833333,
+          35.104166666
+        ]
+      },
+      "properties": {
+        "label": "Mavrovouni Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q22988479",
+        "country_qid": "Q229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9131508,
+          34.920845
+        ]
+      },
+      "properties": {
+        "label": "Amiandos Asbestos Mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q21833108",
+        "country_qid": "Q229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.512222222,
+          35.029444444
+        ]
+      },
+      "properties": {
+        "label": "Q22987339",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q22987339",
+        "country_qid": "Q229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.116666666,
+          35.0375
+        ]
+      },
+      "properties": {
+        "label": "Q22985505",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q22985505",
+        "country_qid": "Q229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.891944444,
+          35.095
+        ]
+      },
+      "properties": {
+        "label": "Skouriotissa mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q22988530",
+        "country_qid": "Q229"
+      }
+    }
+  ]
+}

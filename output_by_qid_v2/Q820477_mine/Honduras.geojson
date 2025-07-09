@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.022222222,
+          13.281944444
+        ]
+      },
+      "properties": {
+        "label": "Clavo Rico",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q25282552",
+        "country_qid": "Q783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9373,
+          14.761
+        ]
+      },
+      "properties": {
+        "label": "Q19951150",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q19951150",
+        "country_qid": "Q783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.596388888,
+          13.514444444
+        ]
+      },
+      "properties": {
+        "label": "Q25284528",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q25284528",
+        "country_qid": "Q783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.135555555,
+          13.764444444
+        ]
+      },
+      "properties": {
+        "label": "Mineral de Yeso",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q25283907",
+        "country_qid": "Q783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08333,
+          14.83333
+        ]
+      },
+      "properties": {
+        "label": "El Mochito mine",
+        "type": "Mine",
+        "entity": "http://www.wikidata.org/entity/Q5351608",
+        "country_qid": "Q783"
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.662,
+          10.529
+        ]
+      },
+      "properties": {
+        "label": "Garafiri Hydroelectric Power Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q24853719",
+        "country_qid": "Q1006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.682222222,
+          11.7675
+        ]
+      },
+      "properties": {
+        "label": "Khoumagueli Solar Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q107223266",
+        "country_qid": "Q1006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.281,
+          10.464111111
+        ]
+      },
+      "properties": {
+        "label": "Barrage de Kaléta",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q30744033",
+        "country_qid": "Q1006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2819,
+          10.4634
+        ]
+      },
+      "properties": {
+        "label": "Kaleta Hydropower Plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q104856249",
+        "country_qid": "Q1006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.697638888,
+          9.519388888
+        ]
+      },
+      "properties": {
+        "label": "Kaloum power plant",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q56372824",
+        "country_qid": "Q1006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.345833333,
+          11.268333333
+        ]
+      },
+      "properties": {
+        "label": "Koukoutamba Hydroelectric Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q108502779",
+        "country_qid": "Q1006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.251305555,
+          10.424555555
+        ]
+      },
+      "properties": {
+        "label": "Souapiti Dam",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q46963910",
+        "country_qid": "Q1006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.64,
+          10.884166666
+        ]
+      },
+      "properties": {
+        "label": "Pita Hydroelectric Power Station",
+        "type": "Energy generation station",
+        "entity": "http://www.wikidata.org/entity/Q108695986",
+        "country_qid": "Q1006"
+      }
+    }
+  ]
+}

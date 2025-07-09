@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.00694,
+          56.1213
+        ]
+      },
+      "properties": {
+        "label": "Herning Power Station",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q7719474",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.07894444,
+          55.66130556
+        ]
+      },
+      "properties": {
+        "label": "Asnæs Power Station",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3432984",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6148,
+          55.5117
+        ]
+      },
+      "properties": {
+        "label": "Skærbæk Power Station",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q12001324",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47925,
+          55.602761
+        ]
+      },
+      "properties": {
+        "label": "Avedøre Power Station",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q3432240",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.62611111,
+          55.68555556
+        ]
+      },
+      "properties": {
+        "label": "Amager power station",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q12301241",
+        "country_qid": "Q35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.344444444,
+          56.251388888
+        ]
+      },
+      "properties": {
+        "label": "Studstrup Power Station",
+        "type": "Biomass-fired power station",
+        "entity": "http://www.wikidata.org/entity/Q1355591",
+        "country_qid": "Q35"
+      }
+    }
+  ]
+}

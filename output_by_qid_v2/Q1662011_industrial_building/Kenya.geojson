@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.359722222,
+          -1.062222222
+        ]
+      },
+      "properties": {
+        "label": "Suswa converter station",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q56083697",
+        "country_qid": "Q114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.761388888,
+          -3.961944444
+        ]
+      },
+      "properties": {
+        "label": "Mombasa Mainland Desalination Plant",
+        "type": "Industrial building",
+        "entity": "http://www.wikidata.org/entity/Q60762149",
+        "country_qid": "Q114"
+      }
+    }
+  ]
+}

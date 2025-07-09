@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.43112,
+          40.72922
+        ]
+      },
+      "properties": {
+        "label": "Q20586079",
+        "type": "Wind farm",
+        "entity": "http://www.wikidata.org/entity/Q20586079",
+        "country_qid": "Q227"
+      }
+    }
+  ]
+}
