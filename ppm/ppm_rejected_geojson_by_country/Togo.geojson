@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3062611196310725,
+          6.155905952033945
+        ]
+      },
+      "properties": {
+        "id": "way/871984937",
+        "element_id": 871984937,
+        "element_type": "way",
+        "country": "Togo",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:51:06.770126",
+        "url": "https://www.openstreetmap.org/way/871984937"
+      }
+    }
+  ]
+}

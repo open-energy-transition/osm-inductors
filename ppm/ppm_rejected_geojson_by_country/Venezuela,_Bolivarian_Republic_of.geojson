@@ -1,0 +1,1677 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.18698483241559,
+          11.682555107797056
+        ]
+      },
+      "properties": {
+        "id": "way/138713416",
+        "element_id": 138713416,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'designation': 'Planta Electrica \"Las Margaritas\"', 'landuse': 'industrial', 'name': 'Punto Fijo Power Plant', 'operator': 'CORPOELEC', 'power': 'plant', 'source': 'https://www.industryabout.com/country-territories-3/3157-venezuela/fossil-fuels-energy/54316-punto-fijo-gas-power-plant', 'substation': 'distribution'}",
+        "timestamp": "2025-07-07 18:55:10.662665",
+        "url": "https://www.openstreetmap.org/way/138713416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.60741276265034,
+          10.226994435482876
+        ]
+      },
+      "properties": {
+        "id": "way/219936532",
+        "element_id": 219936532,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "120",
+        "details": "Tag 'plant:output:electricity' has value '120' which could not be parsed",
+        "timestamp": "2025-07-07 18:55:10.662665",
+        "url": "https://www.openstreetmap.org/way/219936532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.71478142093788,
+          7.853127753136692
+        ]
+      },
+      "properties": {
+        "id": "way/252437675",
+        "element_id": 252437675,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:55:10.662665",
+        "url": "https://www.openstreetmap.org/way/252437675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.33319393030285,
+          10.198700566930674
+        ]
+      },
+      "properties": {
+        "id": "way/262119499",
+        "element_id": 262119499,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Las Morochas Power Plant', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.663851",
+        "url": "https://www.openstreetmap.org/way/262119499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.66775565138376,
+          8.304691844493439
+        ]
+      },
+      "properties": {
+        "id": "way/265095243",
+        "element_id": 265095243,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:55:10.663851",
+        "url": "https://www.openstreetmap.org/way/265095243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.45320024218371,
+          9.390572696110109
+        ]
+      },
+      "properties": {
+        "id": "way/265139245",
+        "element_id": 265139245,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.663851",
+        "url": "https://www.openstreetmap.org/way/265139245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.61453053672753,
+          10.598731453600845
+        ]
+      },
+      "properties": {
+        "id": "way/447072192",
+        "element_id": 447072192,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:55:10.664866",
+        "url": "https://www.openstreetmap.org/way/447072192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.61453053672753,
+          10.598731453600845
+        ]
+      },
+      "properties": {
+        "id": "way/447072192",
+        "element_id": 447072192,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Planta Termoeléctrica Ramón Laguna', 'name:en': 'Ramon Laguna Power Plant', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.667079",
+        "url": "https://www.openstreetmap.org/way/447072192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.94638149189113,
+          10.177227512201029
+        ]
+      },
+      "properties": {
+        "id": "way/485233507",
+        "element_id": 485233507,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Valencia', 'addr:postcode': '2001', 'addr:street': 'Avenida Ernesto Branger', 'landuse': 'industrial', 'name': 'Pedro Camejo', 'operator': 'Corpoelect', 'power': 'plant', 'substation': 'distribution'}",
+        "timestamp": "2025-07-07 18:55:10.667079",
+        "url": "https://www.openstreetmap.org/way/485233507"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.79689630348568,
+          8.159026391328625
+        ]
+      },
+      "properties": {
+        "id": "way/497224777",
+        "element_id": 497224777,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:55:10.667079",
+        "url": "https://www.openstreetmap.org/way/497224777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.21411064826279,
+          10.0116078750102
+        ]
+      },
+      "properties": {
+        "id": "way/510482104",
+        "element_id": 510482104,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.668088",
+        "url": "https://www.openstreetmap.org/way/510482104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.95338067510096,
+          10.188187505863626
+        ]
+      },
+      "properties": {
+        "id": "way/538639941",
+        "element_id": 538639941,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.668088",
+        "url": "https://www.openstreetmap.org/way/538639941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.538060268893695,
+          8.133972196879395
+        ]
+      },
+      "properties": {
+        "id": "way/556441645",
+        "element_id": 556441645,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.668088",
+        "url": "https://www.openstreetmap.org/way/556441645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.538060268893695,
+          8.133972196879395
+        ]
+      },
+      "properties": {
+        "id": "way/556441645",
+        "element_id": 556441645,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.668088",
+        "url": "https://www.openstreetmap.org/way/556441645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.03405768138026,
+          10.87792060188626
+        ]
+      },
+      "properties": {
+        "id": "way/575144571",
+        "element_id": 575144571,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.668088",
+        "url": "https://www.openstreetmap.org/way/575144571"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.88899479673859,
+          10.938446661391293
+        ]
+      },
+      "properties": {
+        "id": "way/577836163",
+        "element_id": 577836163,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.668088",
+        "url": "https://www.openstreetmap.org/way/577836163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.63587861247153,
+          10.487950467684705
+        ]
+      },
+      "properties": {
+        "id": "way/675648048",
+        "element_id": 675648048,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Termozulia II Power Plant', 'power': 'plant', 'source': 'http://globalenergyobservatory.org/geoid/43125'}",
+        "timestamp": "2025-07-07 18:55:10.669091",
+        "url": "https://www.openstreetmap.org/way/675648048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.63488651758223,
+          10.49067576703723
+        ]
+      },
+      "properties": {
+        "id": "way/675648049",
+        "element_id": 675648049,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:55:10.669091",
+        "url": "https://www.openstreetmap.org/way/675648049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.63488651758223,
+          10.49067576703723
+        ]
+      },
+      "properties": {
+        "id": "way/675648049",
+        "element_id": 675648049,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Termozulia I Power Plant', 'plant:source': 'oil', 'power': 'plant', 'source': 'http://globalenergyobservatory.org/geoid/43124'}",
+        "timestamp": "2025-07-07 18:55:10.671351",
+        "url": "https://www.openstreetmap.org/way/675648049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6330227058883,
+          10.485594469135844
+        ]
+      },
+      "properties": {
+        "id": "way/675648050",
+        "element_id": 675648050,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Termozulia III Power Plant', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.671351",
+        "url": "https://www.openstreetmap.org/way/675648050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.526584861435325,
+          8.108533240555687
+        ]
+      },
+      "properties": {
+        "id": "way/677091252",
+        "element_id": 677091252,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.672351",
+        "url": "https://www.openstreetmap.org/way/677091252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.66487148875586,
+          8.301139204133165
+        ]
+      },
+      "properties": {
+        "id": "way/677304875",
+        "element_id": 677304875,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:55:10.672351",
+        "url": "https://www.openstreetmap.org/way/677304875"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.71508124745189,
+          11.38098034864582
+        ]
+      },
+      "properties": {
+        "id": "way/701730705",
+        "element_id": 701730705,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'Coro Power Plant', 'power': 'plant', 'source': 'https://www.industryabout.com/country-territories-3/3157-venezuela/fossil-fuels-energy/54308-coro-gas-power-plant'}",
+        "timestamp": "2025-07-07 18:55:10.672351",
+        "url": "https://www.openstreetmap.org/way/701730705"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15547081028264,
+          10.490868788642308
+        ]
+      },
+      "properties": {
+        "id": "way/704227276",
+        "element_id": 704227276,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "gas;fuel oil",
+        "details": "Source value 'gas;fuel oil' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:55:10.672351",
+        "url": "https://www.openstreetmap.org/way/704227276"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.03972400557313,
+          8.892150367193812
+        ]
+      },
+      "properties": {
+        "id": "way/707629103",
+        "element_id": 707629103,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:55:10.673351",
+        "url": "https://www.openstreetmap.org/way/707629103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.68300029428966,
+          11.953218039303149
+        ]
+      },
+      "properties": {
+        "id": "way/764226803",
+        "element_id": 764226803,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.673351",
+        "url": "https://www.openstreetmap.org/way/764226803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.68300029428966,
+          11.953218039303149
+        ]
+      },
+      "properties": {
+        "id": "way/764226803",
+        "element_id": 764226803,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.673351",
+        "url": "https://www.openstreetmap.org/way/764226803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.59862156848584,
+          5.680001442218121
+        ]
+      },
+      "properties": {
+        "id": "way/791506103",
+        "element_id": 791506103,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.673351",
+        "url": "https://www.openstreetmap.org/way/791506103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.59862156848584,
+          5.680001442218121
+        ]
+      },
+      "properties": {
+        "id": "way/791506103",
+        "element_id": 791506103,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.675353",
+        "url": "https://www.openstreetmap.org/way/791506103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.4680375,
+          7.8746234
+        ]
+      },
+      "properties": {
+        "id": "way/791541104",
+        "element_id": 791541104,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.676352",
+        "url": "https://www.openstreetmap.org/way/791541104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.4680375,
+          7.8746234
+        ]
+      },
+      "properties": {
+        "id": "way/791541104",
+        "element_id": 791541104,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.676352",
+        "url": "https://www.openstreetmap.org/way/791541104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.83586465763547,
+          10.632231290191616
+        ]
+      },
+      "properties": {
+        "id": "way/796298571",
+        "element_id": 796298571,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'CORPOELEC', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.676352",
+        "url": "https://www.openstreetmap.org/way/796298571"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.83586465763547,
+          10.632231290191616
+        ]
+      },
+      "properties": {
+        "id": "way/796298571",
+        "element_id": 796298571,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'CORPOELEC', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.676352",
+        "url": "https://www.openstreetmap.org/way/796298571"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67904159369807,
+          10.704219965945263
+        ]
+      },
+      "properties": {
+        "id": "way/801725360",
+        "element_id": 801725360,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:55:10.676352",
+        "url": "https://www.openstreetmap.org/way/801725360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67904159369807,
+          10.704219965945263
+        ]
+      },
+      "properties": {
+        "id": "way/801725360",
+        "element_id": 801725360,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.676352",
+        "url": "https://www.openstreetmap.org/way/801725360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67904159369807,
+          10.704219965945263
+        ]
+      },
+      "properties": {
+        "id": "way/801725360",
+        "element_id": 801725360,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.678794",
+        "url": "https://www.openstreetmap.org/way/801725360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14859555163896,
+          10.484089254644005
+        ]
+      },
+      "properties": {
+        "id": "way/802192831",
+        "element_id": 802192831,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "gas;fuel oil",
+        "details": "Source value 'gas;fuel oil' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:55:10.678794",
+        "url": "https://www.openstreetmap.org/way/802192831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0705010475873,
+          9.786727325885956
+        ]
+      },
+      "properties": {
+        "id": "way/875859271",
+        "element_id": 875859271,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Planta Eléctrica de San Lorenzo', 'operator': 'PSVSA', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.679800",
+        "url": "https://www.openstreetmap.org/way/875859271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09247528850109,
+          9.91443964735135
+        ]
+      },
+      "properties": {
+        "id": "way/878400579",
+        "element_id": 878400579,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.679800",
+        "url": "https://www.openstreetmap.org/way/878400579"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09247528850109,
+          9.91443964735135
+        ]
+      },
+      "properties": {
+        "id": "way/878400579",
+        "element_id": 878400579,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.679800",
+        "url": "https://www.openstreetmap.org/way/878400579"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.60111370947993,
+          5.70314855928222
+        ]
+      },
+      "properties": {
+        "id": "way/895645364",
+        "element_id": 895645364,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Planta Sidor', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.679800",
+        "url": "https://www.openstreetmap.org/way/895645364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.30953652530219,
+          10.56204104350492
+        ]
+      },
+      "properties": {
+        "id": "way/916768957",
+        "element_id": 916768957,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.680801",
+        "url": "https://www.openstreetmap.org/way/916768957"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6142025,
+          10.222195050000003
+        ]
+      },
+      "properties": {
+        "id": "way/916786346",
+        "element_id": 916786346,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.680801",
+        "url": "https://www.openstreetmap.org/way/916786346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.52939317954049,
+          10.769345010126225
+        ]
+      },
+      "properties": {
+        "id": "way/931552038",
+        "element_id": 931552038,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.680801",
+        "url": "https://www.openstreetmap.org/way/931552038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.52939317954049,
+          10.769345010126225
+        ]
+      },
+      "properties": {
+        "id": "way/931552038",
+        "element_id": 931552038,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.680801",
+        "url": "https://www.openstreetmap.org/way/931552038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.20893215887176,
+          8.698148486717056
+        ]
+      },
+      "properties": {
+        "id": "way/936904471",
+        "element_id": 936904471,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.680801",
+        "url": "https://www.openstreetmap.org/way/936904471"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.49695878770841,
+          9.369926550944466
+        ]
+      },
+      "properties": {
+        "id": "way/940882324",
+        "element_id": 940882324,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.680801",
+        "url": "https://www.openstreetmap.org/way/940882324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.49695878770841,
+          9.369926550944466
+        ]
+      },
+      "properties": {
+        "id": "way/940882324",
+        "element_id": 940882324,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.680801",
+        "url": "https://www.openstreetmap.org/way/940882324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.53586931482967,
+          10.764690473949775
+        ]
+      },
+      "properties": {
+        "id": "way/944488446",
+        "element_id": 944488446,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Complejo el Tablazo Power Station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.680801",
+        "url": "https://www.openstreetmap.org/way/944488446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.58086364365869,
+          10.234937735459834
+        ]
+      },
+      "properties": {
+        "id": "way/944885524",
+        "element_id": 944885524,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.682123",
+        "url": "https://www.openstreetmap.org/way/944885524"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.96959105538754,
+          10.180418928992143
+        ]
+      },
+      "properties": {
+        "id": "way/945273679",
+        "element_id": 945273679,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.682123",
+        "url": "https://www.openstreetmap.org/way/945273679"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.76860436318984,
+          8.559819347426021
+        ]
+      },
+      "properties": {
+        "id": "way/948860707",
+        "element_id": 948860707,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Don Luis Zambrano Power Plant', 'power': 'plant', 'source': 'https://www.industryabout.com/country-territories-3/3157-venezuela/fossil-fuels-energy/54293-don-luis-zambrano-gas-power-plant'}",
+        "timestamp": "2025-07-07 18:55:10.682123",
+        "url": "https://www.openstreetmap.org/way/948860707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.21881587196084,
+          11.638192295004815
+        ]
+      },
+      "properties": {
+        "id": "way/949272673",
+        "element_id": 949272673,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Cardon Genevapca Power Plant', 'power': 'plant', 'source': 'http://globalenergyobservatory.org/geoid/42210'}",
+        "timestamp": "2025-07-07 18:55:10.682123",
+        "url": "https://www.openstreetmap.org/way/949272673"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06193558941783,
+          9.783502368312686
+        ]
+      },
+      "properties": {
+        "id": "way/969660306",
+        "element_id": 969660306,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.682123",
+        "url": "https://www.openstreetmap.org/way/969660306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.19534736432406,
+          9.973212062050605
+        ]
+      },
+      "properties": {
+        "id": "way/981395075",
+        "element_id": 981395075,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Pueblo Viejo Marav Power Plant', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.682123",
+        "url": "https://www.openstreetmap.org/way/981395075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.84769477866007,
+          6.243817535378189
+        ]
+      },
+      "properties": {
+        "id": "way/1007453568",
+        "element_id": 1007453568,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:55:10.683124",
+        "url": "https://www.openstreetmap.org/way/1007453568"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.84769477866007,
+          6.243817535378189
+        ]
+      },
+      "properties": {
+        "id": "way/1007453568",
+        "element_id": 1007453568,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'image': 'https://photos.app.goo.gl/UnXNnFwVosioudGp6', 'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.683124",
+        "url": "https://www.openstreetmap.org/way/1007453568"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.84769477866007,
+          6.243817535378189
+        ]
+      },
+      "properties": {
+        "id": "way/1007453568",
+        "element_id": 1007453568,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.683124",
+        "url": "https://www.openstreetmap.org/way/1007453568"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.07934768879544,
+          10.592341449224042
+        ]
+      },
+      "properties": {
+        "id": "way/1077800616",
+        "element_id": 1077800616,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'MARGARITA/RUFINA BARGE', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.683124",
+        "url": "https://www.openstreetmap.org/way/1077800616"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.63293575369177,
+          10.488041861384657
+        ]
+      },
+      "properties": {
+        "id": "way/1080604699",
+        "element_id": 1080604699,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Termozulia IV Power Plant', 'power': 'plant', 'source': 'https://www.bnamericas.com/en/news/cadafe-powers-up-termozulia-iv'}",
+        "timestamp": "2025-07-07 18:55:10.683124",
+        "url": "https://www.openstreetmap.org/way/1080604699"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.63444467912116,
+          10.488740507828789
+        ]
+      },
+      "properties": {
+        "id": "way/1080612339",
+        "element_id": 1080612339,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Termozulia Rafael Urdaneta Thermoelectric Complex', 'power': 'plant', 'source': 'https://energia12.com/2015/01/20/complejo-termozulia-venezuela-toda-una-realidad/'}",
+        "timestamp": "2025-07-07 18:55:10.683124",
+        "url": "https://www.openstreetmap.org/way/1080612339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.07960880823823,
+          10.587710055705022
+        ]
+      },
+      "properties": {
+        "id": "way/1098640774",
+        "element_id": 1098640774,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Central Eléctrica Josefa Joaquina Sánchez Bastidas', 'name:en': 'Josefa Joaquina Sánchez Bastidas power station', 'name:es': 'Central Eléctrica Josefa Joaquina Sánchez Bastidas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.683124",
+        "url": "https://www.openstreetmap.org/way/1098640774"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.10364897501063,
+          8.839850339778193
+        ]
+      },
+      "properties": {
+        "id": "way/1132534507",
+        "element_id": 1132534507,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Morichal PDVSA Petrolera Sinovensa Power Station', 'power': 'plant', 'source': 'http://www.pdvsa.com/images/contrataciones_nueva/SERVICIO-A-073-19-0102.pdf'}",
+        "timestamp": "2025-07-07 18:55:10.683124",
+        "url": "https://www.openstreetmap.org/way/1132534507"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6759034506069,
+          10.254334678899786
+        ]
+      },
+      "properties": {
+        "id": "way/1132550858",
+        "element_id": 1132550858,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'La Cabrera (José Félix Ribas) Power Plant', 'power': 'plant', 'source': 'https://www.gem.wiki/La_Cabrera_power_station'}",
+        "timestamp": "2025-07-07 18:55:10.684123",
+        "url": "https://www.openstreetmap.org/way/1132550858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.12553090516053,
+          8.412359922778476
+        ]
+      },
+      "properties": {
+        "id": "way/1146076424",
+        "element_id": 1146076424,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Santa Ines Cominsi (Agroindustrial Complex) Power Plant', 'power': 'plant', 'source': 'http://www.minci.gob.ve/construccion-de-planta-electrica-de-santa-ines-en-barinas-presenta-71-de-construccion/'}",
+        "timestamp": "2025-07-07 18:55:10.684123",
+        "url": "https://www.openstreetmap.org/way/1146076424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.22853266302363,
+          8.168097582642103
+        ]
+      },
+      "properties": {
+        "id": "way/1188729644",
+        "element_id": 1188729644,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.684123",
+        "url": "https://www.openstreetmap.org/way/1188729644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.07104605868709,
+          10.158597547663662
+        ]
+      },
+      "properties": {
+        "id": "way/1190708547",
+        "element_id": 1190708547,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Enelbar Power Station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.684123",
+        "url": "https://www.openstreetmap.org/way/1190708547"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.56604045980252,
+          8.67903278019057
+        ]
+      },
+      "properties": {
+        "id": "way/1216900807",
+        "element_id": 1216900807,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Planta Termoeléctrica Casigua', 'name:en': 'Casigua El Cubo Power Plant', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.684123",
+        "url": "https://www.openstreetmap.org/way/1216900807"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.41920397059815,
+          10.3356182525968
+        ]
+      },
+      "properties": {
+        "id": "way/1223302486",
+        "element_id": 1223302486,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'Punta Gorda Power Plant', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.684123",
+        "url": "https://www.openstreetmap.org/way/1223302486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.8606418380091,
+          10.071069522291882
+        ]
+      },
+      "properties": {
+        "id": "way/1223565771",
+        "element_id": 1223565771,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.684123",
+        "url": "https://www.openstreetmap.org/way/1223565771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.26736623962034,
+          9.847067803018032
+        ]
+      },
+      "properties": {
+        "id": "way/1223915819",
+        "element_id": 1223915819,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.684123",
+        "url": "https://www.openstreetmap.org/way/1223915819"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.09896335,
+          8.83623455
+        ]
+      },
+      "properties": {
+        "id": "way/1288439273",
+        "element_id": 1288439273,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Central Hidroelectrica Masparro', 'plant:method': 'water-storage', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.687564",
+        "url": "https://www.openstreetmap.org/way/1288439273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.76325965,
+          10.4958178
+        ]
+      },
+      "properties": {
+        "id": "way/1294775842",
+        "element_id": 1294775842,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:55:10.690562",
+        "url": "https://www.openstreetmap.org/way/1294775842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.76325965,
+          10.4958178
+        ]
+      },
+      "properties": {
+        "id": "way/1294775842",
+        "element_id": 1294775842,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.690562",
+        "url": "https://www.openstreetmap.org/way/1294775842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.63699527248859,
+          10.493564320391926
+        ]
+      },
+      "properties": {
+        "id": "way/1307580462",
+        "element_id": 1307580462,
+        "element_type": "way",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:10.690562",
+        "url": "https://www.openstreetmap.org/way/1307580462"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.814801,
+          5.067419
+        ]
+      },
+      "properties": {
+        "id": "node/1215469160",
+        "element_id": 1215469160,
+        "element_type": "node",
+        "country": "Venezuela, Bolivarian Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Planta Eléctrica', 'note': 'Planta Eléctrica, Isla Ratón, Autana, Amazonas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:10.691562",
+        "url": "https://www.openstreetmap.org/node/1215469160"
+      }
+    }
+  ]
+}

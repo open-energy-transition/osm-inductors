@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.00160321112186,
+          36.83392217312847
+        ]
+      },
+      "properties": {
+        "id": "way/158528075",
+        "element_id": 158528075,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:51:30.555252",
+        "url": "https://www.openstreetmap.org/way/158528075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.00160321112186,
+          36.83392217312847
+        ]
+      },
+      "properties": {
+        "id": "way/158528075",
+        "element_id": 158528075,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:30.555252",
+        "url": "https://www.openstreetmap.org/way/158528075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.00160321112186,
+          36.83392217312847
+        ]
+      },
+      "properties": {
+        "id": "way/158528075",
+        "element_id": 158528075,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:30.556297",
+        "url": "https://www.openstreetmap.org/way/158528075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.397038895671566,
+          36.59005129313142
+        ]
+      },
+      "properties": {
+        "id": "way/172827257",
+        "element_id": 172827257,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 14 tags but none specify technology",
+        "timestamp": "2025-07-07 18:51:30.557450",
+        "url": "https://www.openstreetmap.org/way/172827257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.021389181082087,
+          31.39394822232846
+        ]
+      },
+      "properties": {
+        "id": "way/691743933",
+        "element_id": 691743933,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'combustion', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:30.559448",
+        "url": "https://www.openstreetmap.org/way/691743933"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.021389181082087,
+          31.39394822232846
+        ]
+      },
+      "properties": {
+        "id": "way/691743933",
+        "element_id": 691743933,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'combustion', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:30.559448",
+        "url": "https://www.openstreetmap.org/way/691743933"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.351062708476018,
+          36.08266026373022
+        ]
+      },
+      "properties": {
+        "id": "way/1084645998",
+        "element_id": 1084645998,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:30.561614",
+        "url": "https://www.openstreetmap.org/way/1084645998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.351062708476018,
+          36.08266026373022
+        ]
+      },
+      "properties": {
+        "id": "way/1084645998",
+        "element_id": 1084645998,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:51:30.561614",
+        "url": "https://www.openstreetmap.org/way/1084645998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.463643200366004,
+          33.05044007940374
+        ]
+      },
+      "properties": {
+        "id": "way/1085421165",
+        "element_id": 1085421165,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:30.561614",
+        "url": "https://www.openstreetmap.org/way/1085421165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.463643200366004,
+          33.05044007940374
+        ]
+      },
+      "properties": {
+        "id": "way/1085421165",
+        "element_id": 1085421165,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:51:30.561614",
+        "url": "https://www.openstreetmap.org/way/1085421165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.160276426052858,
+          36.705775867163325
+        ]
+      },
+      "properties": {
+        "id": "way/1178423853",
+        "element_id": 1178423853,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:30.561614",
+        "url": "https://www.openstreetmap.org/way/1178423853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.160276426052858,
+          36.705775867163325
+        ]
+      },
+      "properties": {
+        "id": "way/1178423853",
+        "element_id": 1178423853,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:30.561614",
+        "url": "https://www.openstreetmap.org/way/1178423853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.064927717425649,
+          31.00115650117084
+        ]
+      },
+      "properties": {
+        "id": "way/1215158630",
+        "element_id": 1215158630,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:51:30.561614",
+        "url": "https://www.openstreetmap.org/way/1215158630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.17556863304223,
+          34.88226892370669
+        ]
+      },
+      "properties": {
+        "id": "way/1300748630",
+        "element_id": 1300748630,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:30.562617",
+        "url": "https://www.openstreetmap.org/way/1300748630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.17556863304223,
+          34.88226892370669
+        ]
+      },
+      "properties": {
+        "id": "way/1300748630",
+        "element_id": 1300748630,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:51:30.562617",
+        "url": "https://www.openstreetmap.org/way/1300748630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.121520967118782,
+          36.89875412504677
+        ]
+      },
+      "properties": {
+        "id": "way/1388220832",
+        "element_id": 1388220832,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:51:30.562617",
+        "url": "https://www.openstreetmap.org/way/1388220832"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.121520967118782,
+          36.89875412504677
+        ]
+      },
+      "properties": {
+        "id": "way/1388220832",
+        "element_id": 1388220832,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:30.562617",
+        "url": "https://www.openstreetmap.org/way/1388220832"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.121520967118782,
+          36.89875412504677
+        ]
+      },
+      "properties": {
+        "id": "way/1388220832",
+        "element_id": 1388220832,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:30.564615",
+        "url": "https://www.openstreetmap.org/way/1388220832"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.335889750000002,
+          33.656698850000005
+        ]
+      },
+      "properties": {
+        "id": "way/1396805600",
+        "element_id": 1396805600,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:51:30.564615",
+        "url": "https://www.openstreetmap.org/way/1396805600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.335889750000002,
+          33.656698850000005
+        ]
+      },
+      "properties": {
+        "id": "way/1396805600",
+        "element_id": 1396805600,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'solar', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:30.564615",
+        "url": "https://www.openstreetmap.org/way/1396805600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.335889750000002,
+          33.656698850000005
+        ]
+      },
+      "properties": {
+        "id": "way/1396805600",
+        "element_id": 1396805600,
+        "element_type": "way",
+        "country": "Tunisia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'solar', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:30.566614",
+        "url": "https://www.openstreetmap.org/way/1396805600"
+      }
+    }
+  ]
+}

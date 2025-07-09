@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.47874669758174,
+          6.946012609861303
+        ]
+      },
+      "properties": {
+        "id": "way/1312667072",
+        "element_id": 1312667072,
+        "element_type": "way",
+        "country": "Guyana",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Guyana Power & Light Corporation - Wakenaam', 'operator': 'Guyana Power & Light Corporation', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:34:02.666777",
+        "url": "https://www.openstreetmap.org/way/1312667072"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.31917570049786,
+          2.4425613166762643
+        ]
+      },
+      "properties": {
+        "id": "way/1321958527",
+        "element_id": 1321958527,
+        "element_type": "way",
+        "country": "Guyana",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:02.666777",
+        "url": "https://www.openstreetmap.org/way/1321958527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.31917570049786,
+          2.4425613166762643
+        ]
+      },
+      "properties": {
+        "id": "way/1321958527",
+        "element_id": 1321958527,
+        "element_type": "way",
+        "country": "Guyana",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:34:02.666777",
+        "url": "https://www.openstreetmap.org/way/1321958527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.200266049598014,
+          6.634770783594707
+        ]
+      },
+      "properties": {
+        "id": "way/997245676",
+        "element_id": 997245676,
+        "element_type": "way",
+        "country": "Guyana",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:02.666777",
+        "url": "https://www.openstreetmap.org/way/997245676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.31917570049786,
+          2.4425613166762643
+        ]
+      },
+      "properties": {
+        "id": "way/1321958527",
+        "element_id": 1321958527,
+        "element_type": "way",
+        "country": "Guyana",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:34:02.667779",
+        "url": "https://www.openstreetmap.org/way/1321958527"
+      }
+    }
+  ]
+}

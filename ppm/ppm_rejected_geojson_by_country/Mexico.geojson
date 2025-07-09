@@ -1,0 +1,4889 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0935798805837,
+          32.574481950185564
+        ]
+      },
+      "properties": {
+        "id": "relation/15577002",
+        "element_id": 15577002,
+        "element_type": "relation",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.473711",
+        "url": "https://www.openstreetmap.org/relation/15577002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.562145,
+          31.3402682
+        ]
+      },
+      "properties": {
+        "id": "relation/15577574",
+        "element_id": 15577574,
+        "element_type": "relation",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.473711",
+        "url": "https://www.openstreetmap.org/relation/15577574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.66327360583404,
+          19.799433673867217
+        ]
+      },
+      "properties": {
+        "id": "relation/15925528",
+        "element_id": 15925528,
+        "element_type": "relation",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.476767",
+        "url": "https://www.openstreetmap.org/relation/15925528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4603388,
+          25.7196139
+        ]
+      },
+      "properties": {
+        "id": "node/11214364966",
+        "element_id": 11214364966,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4642012,
+          25.7215954
+        ]
+      },
+      "properties": {
+        "id": "node/11214364967",
+        "element_id": 11214364967,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4653063,
+          25.7250267
+        ]
+      },
+      "properties": {
+        "id": "node/11214364968",
+        "element_id": 11214364968,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364968"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4852083,
+          25.7402585
+        ]
+      },
+      "properties": {
+        "id": "node/11214364969",
+        "element_id": 11214364969,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4826441,
+          25.7375042
+        ]
+      },
+      "properties": {
+        "id": "node/11214364970",
+        "element_id": 11214364970,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4803696,
+          25.7345468
+        ]
+      },
+      "properties": {
+        "id": "node/11214364971",
+        "element_id": 11214364971,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4742541,
+          25.731773
+        ]
+      },
+      "properties": {
+        "id": "node/11214364972",
+        "element_id": 11214364972,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364972"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4723122,
+          25.7285255
+        ]
+      },
+      "properties": {
+        "id": "node/11214364973",
+        "element_id": 11214364973,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364973"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4687288,
+          25.7269501
+        ]
+      },
+      "properties": {
+        "id": "node/11214364974",
+        "element_id": 11214364974,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364974"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5662647,
+          25.7787739
+        ]
+      },
+      "properties": {
+        "id": "node/11214364975",
+        "element_id": 11214364975,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5589261,
+          25.7755664
+        ]
+      },
+      "properties": {
+        "id": "node/11214364976",
+        "element_id": 11214364976,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364976"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5541196,
+          25.7699627
+        ]
+      },
+      "properties": {
+        "id": "node/11214364977",
+        "element_id": 11214364977,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5525532,
+          25.7666776
+        ]
+      },
+      "properties": {
+        "id": "node/11214364978",
+        "element_id": 11214364978,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364978"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5498495,
+          25.7640108
+        ]
+      },
+      "properties": {
+        "id": "node/11214364979",
+        "element_id": 11214364979,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364979"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5053034,
+          25.7346338
+        ]
+      },
+      "properties": {
+        "id": "node/11214364980",
+        "element_id": 11214364980,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.503737,
+          25.7308452
+        ]
+      },
+      "properties": {
+        "id": "node/11214364981",
+        "element_id": 11214364981,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364981"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5013445,
+          25.7277813
+        ]
+      },
+      "properties": {
+        "id": "node/11214364982",
+        "element_id": 11214364982,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364982"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4995527,
+          25.7241955
+        ]
+      },
+      "properties": {
+        "id": "node/11214364983",
+        "element_id": 11214364983,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4945746,
+          25.7198459
+        ]
+      },
+      "properties": {
+        "id": "node/11214364984",
+        "element_id": 11214364984,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364984"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4904118,
+          25.7171007
+        ]
+      },
+      "properties": {
+        "id": "node/11214364985",
+        "element_id": 11214364985,
+        "element_type": "node",
+        "country": "Mexico",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/node/11214364985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.78608772046888,
+          19.622238943810544
+        ]
+      },
+      "properties": {
+        "id": "relation/16329431",
+        "element_id": 16329431,
+        "element_type": "relation",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/relation/16329431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.78608772046888,
+          19.622238943810544
+        ]
+      },
+      "properties": {
+        "id": "relation/16329431",
+        "element_id": 16329431,
+        "element_type": "relation",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/relation/16329431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.50742367899264,
+          25.738323208267865
+        ]
+      },
+      "properties": {
+        "id": "relation/16370496",
+        "element_id": 16370496,
+        "element_type": "relation",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.494794",
+        "url": "https://www.openstreetmap.org/relation/16370496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.26719581446578,
+          31.316721869304303
+        ]
+      },
+      "properties": {
+        "id": "relation/17766325",
+        "element_id": 17766325,
+        "element_type": "relation",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.510010",
+        "url": "https://www.openstreetmap.org/relation/17766325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0690104065351,
+          32.36900448082206
+        ]
+      },
+      "properties": {
+        "id": "way/50924040",
+        "element_id": 50924040,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.510010",
+        "url": "https://www.openstreetmap.org/way/50924040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0980439408269,
+          29.09447206380069
+        ]
+      },
+      "properties": {
+        "id": "way/57837216",
+        "element_id": 57837216,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.511007",
+        "url": "https://www.openstreetmap.org/way/57837216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.33531870972304,
+          21.019125670473056
+        ]
+      },
+      "properties": {
+        "id": "way/109358960",
+        "element_id": 109358960,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.513006",
+        "url": "https://www.openstreetmap.org/way/109358960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3441936369026,
+          18.92524869442969
+        ]
+      },
+      "properties": {
+        "id": "way/99900800",
+        "element_id": 99900800,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.513006",
+        "url": "https://www.openstreetmap.org/way/99900800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3441936369026,
+          18.92524869442969
+        ]
+      },
+      "properties": {
+        "id": "way/99900800",
+        "element_id": 99900800,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.513006",
+        "url": "https://www.openstreetmap.org/way/99900800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3441936369026,
+          18.92524869442969
+        ]
+      },
+      "properties": {
+        "id": "way/99900800",
+        "element_id": 99900800,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.513006",
+        "url": "https://www.openstreetmap.org/way/99900800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.06827636400222,
+          18.84572090977728
+        ]
+      },
+      "properties": {
+        "id": "way/114182718",
+        "element_id": 114182718,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.515469",
+        "url": "https://www.openstreetmap.org/way/114182718"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.17596651339905,
+          18.028113978934496
+        ]
+      },
+      "properties": {
+        "id": "way/177480180",
+        "element_id": 177480180,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.518942",
+        "url": "https://www.openstreetmap.org/way/177480180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.93449544080308,
+          21.83266219129217
+        ]
+      },
+      "properties": {
+        "id": "way/189209319",
+        "element_id": 189209319,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.519942",
+        "url": "https://www.openstreetmap.org/way/189209319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.69129225154302,
+          29.90951347446084
+        ]
+      },
+      "properties": {
+        "id": "way/191580098",
+        "element_id": 191580098,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.519942",
+        "url": "https://www.openstreetmap.org/way/191580098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.16917363126149,
+          26.558407835812798
+        ]
+      },
+      "properties": {
+        "id": "way/303498754",
+        "element_id": 303498754,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.522967",
+        "url": "https://www.openstreetmap.org/way/303498754"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.46246645948398,
+          17.44579053366063
+        ]
+      },
+      "properties": {
+        "id": "way/319026921",
+        "element_id": 319026921,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.522967",
+        "url": "https://www.openstreetmap.org/way/319026921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.23404634472992,
+          25.7392653003837
+        ]
+      },
+      "properties": {
+        "id": "way/328331090",
+        "element_id": 328331090,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.525976",
+        "url": "https://www.openstreetmap.org/way/328331090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.09997967582984,
+          25.719718420771528
+        ]
+      },
+      "properties": {
+        "id": "way/328331097",
+        "element_id": 328331097,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.525976",
+        "url": "https://www.openstreetmap.org/way/328331097"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3600298109678,
+          25.678701330360727
+        ]
+      },
+      "properties": {
+        "id": "way/328371980",
+        "element_id": 328371980,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.525976",
+        "url": "https://www.openstreetmap.org/way/328371980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.33582331733837,
+          20.72569155079122
+        ]
+      },
+      "properties": {
+        "id": "way/331470783",
+        "element_id": 331470783,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.525976",
+        "url": "https://www.openstreetmap.org/way/331470783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.33582331733837,
+          20.72569155079122
+        ]
+      },
+      "properties": {
+        "id": "way/331470783",
+        "element_id": 331470783,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.525976",
+        "url": "https://www.openstreetmap.org/way/331470783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.41309612962986,
+          27.64025281053652
+        ]
+      },
+      "properties": {
+        "id": "way/334053425",
+        "element_id": 334053425,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.526976",
+        "url": "https://www.openstreetmap.org/way/334053425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.41309612962986,
+          27.64025281053652
+        ]
+      },
+      "properties": {
+        "id": "way/334053425",
+        "element_id": 334053425,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.526976",
+        "url": "https://www.openstreetmap.org/way/334053425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1475057138707,
+          19.6859040029495
+        ]
+      },
+      "properties": {
+        "id": "way/371292086",
+        "element_id": 371292086,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.527977",
+        "url": "https://www.openstreetmap.org/way/371292086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2943433171633,
+          19.961816391029483
+        ]
+      },
+      "properties": {
+        "id": "way/426376483",
+        "element_id": 426376483,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.530976",
+        "url": "https://www.openstreetmap.org/way/426376483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.25542734454793,
+          24.19877995531786
+        ]
+      },
+      "properties": {
+        "id": "way/539895538",
+        "element_id": 539895538,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Central de Combustión Interna Baja California Sur', 'name:en': 'CFE Baja California Sur Power Plant', 'operator': 'CFE', 'operator:wikidata': 'Q1114680', 'plant:output:electricity': '209.6 MW', 'power': 'plant', 'source': 'https://www.energiaadebate.com/electricidad/adiciona-cfe-182-mw-de-capacidad-en-baja-california-sur/'}",
+        "timestamp": "2025-07-07 18:40:46.530976",
+        "url": "https://www.openstreetmap.org/way/539895538"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.58924985641372,
+          31.26452265020257
+        ]
+      },
+      "properties": {
+        "id": "way/544618269",
+        "element_id": 544618269,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "photovoltaic;combustion",
+        "details": "\"photovoltaic;combustion\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Natural Gas\"",
+        "timestamp": "2025-07-07 18:40:46.530976",
+        "url": "https://www.openstreetmap.org/way/544618269"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.14581755000002,
+          20.577462300000004
+        ]
+      },
+      "properties": {
+        "id": "way/558640840",
+        "element_id": 558640840,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.530976",
+        "url": "https://www.openstreetmap.org/way/558640840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.38127458340033,
+          22.5882042447618
+        ]
+      },
+      "properties": {
+        "id": "way/558930295",
+        "element_id": 558930295,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.531976",
+        "url": "https://www.openstreetmap.org/way/558930295"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5870079178564,
+          31.265223934785503
+        ]
+      },
+      "properties": {
+        "id": "way/597844945",
+        "element_id": 597844945,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:40:46.532976",
+        "url": "https://www.openstreetmap.org/way/597844945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8168698365705,
+          18.88533202603916
+        ]
+      },
+      "properties": {
+        "id": "way/692107009",
+        "element_id": 692107009,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.534977",
+        "url": "https://www.openstreetmap.org/way/692107009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8168698365705,
+          18.88533202603916
+        ]
+      },
+      "properties": {
+        "id": "way/692107009",
+        "element_id": 692107009,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'industrial': 'factory', 'landuse': 'industrial', 'name': 'Central Energética Atoyac', 'plant:source': 'biomass', 'power': 'plant', 'source': 'survey; Esri', 'source:date': '05-23-2019'}",
+        "timestamp": "2025-07-07 18:40:46.535976",
+        "url": "https://www.openstreetmap.org/way/692107009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.05761783373852,
+          25.74538295205515
+        ]
+      },
+      "properties": {
+        "id": "way/694147233",
+        "element_id": 694147233,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.535976",
+        "url": "https://www.openstreetmap.org/way/694147233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.54661398448214,
+          19.62689180527581
+        ]
+      },
+      "properties": {
+        "id": "way/703860926",
+        "element_id": 703860926,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.535976",
+        "url": "https://www.openstreetmap.org/way/703860926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.4059485564863,
+          22.825210241727834
+        ]
+      },
+      "properties": {
+        "id": "way/704708465",
+        "element_id": 704708465,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Antena Telmex', 'operator': 'Telmex', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.535976",
+        "url": "https://www.openstreetmap.org/way/704708465"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.55642685,
+          19.18184245
+        ]
+      },
+      "properties": {
+        "id": "way/738920597",
+        "element_id": 738920597,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.536976",
+        "url": "https://www.openstreetmap.org/way/738920597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.55642685,
+          19.18184245
+        ]
+      },
+      "properties": {
+        "id": "way/738920597",
+        "element_id": 738920597,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.536976",
+        "url": "https://www.openstreetmap.org/way/738920597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.51582840277304,
+          31.43447881943136
+        ]
+      },
+      "properties": {
+        "id": "way/823907425",
+        "element_id": 823907425,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.539976",
+        "url": "https://www.openstreetmap.org/way/823907425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.51582840277304,
+          31.43447881943136
+        ]
+      },
+      "properties": {
+        "id": "way/823907425",
+        "element_id": 823907425,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.539976",
+        "url": "https://www.openstreetmap.org/way/823907425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8044417638764,
+          17.831003187435627
+        ]
+      },
+      "properties": {
+        "id": "way/823966892",
+        "element_id": 823966892,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.539976",
+        "url": "https://www.openstreetmap.org/way/823966892"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9966959092504,
+          25.851802006721886
+        ]
+      },
+      "properties": {
+        "id": "way/862087682",
+        "element_id": 862087682,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.540978",
+        "url": "https://www.openstreetmap.org/way/862087682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.26392860871192,
+          18.61053628936597
+        ]
+      },
+      "properties": {
+        "id": "way/880781633",
+        "element_id": 880781633,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Nitrógeno de Cantarete', 'name:en': 'Cantarell Nitrogen Power Station', 'power': 'plant', 'source': 'https://www.gasworld.com/download?ac=1010339'}",
+        "timestamp": "2025-07-07 18:40:46.540978",
+        "url": "https://www.openstreetmap.org/way/880781633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2956922227347,
+          25.851956342169917
+        ]
+      },
+      "properties": {
+        "id": "way/904731618",
+        "element_id": 904731618,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Planta de Biogás a Energía', 'plant:method': 'combustion', 'plant:source': 'biogas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.542976",
+        "url": "https://www.openstreetmap.org/way/904731618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.98724599873896,
+          20.216894517677503
+        ]
+      },
+      "properties": {
+        "id": "way/909144843",
+        "element_id": 909144843,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.544976",
+        "url": "https://www.openstreetmap.org/way/909144843"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9777701664182,
+          20.381185604459677
+        ]
+      },
+      "properties": {
+        "id": "way/915963078",
+        "element_id": 915963078,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.544976",
+        "url": "https://www.openstreetmap.org/way/915963078"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9777701664182,
+          20.381185604459677
+        ]
+      },
+      "properties": {
+        "id": "way/915963078",
+        "element_id": 915963078,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.544976",
+        "url": "https://www.openstreetmap.org/way/915963078"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.16476920787706,
+          14.99433001795694
+        ]
+      },
+      "properties": {
+        "id": "way/925338063",
+        "element_id": 925338063,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'CFE', 'operator': 'CFE', 'operator:wikidata': 'Q1114680', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.545975",
+        "url": "https://www.openstreetmap.org/way/925338063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.04860109999998,
+          23.6262892
+        ]
+      },
+      "properties": {
+        "id": "way/931567936",
+        "element_id": 931567936,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.545975",
+        "url": "https://www.openstreetmap.org/way/931567936"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.04860109999998,
+          23.6262892
+        ]
+      },
+      "properties": {
+        "id": "way/931567936",
+        "element_id": 931567936,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.545975",
+        "url": "https://www.openstreetmap.org/way/931567936"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1885691205854,
+          20.15237509155256
+        ]
+      },
+      "properties": {
+        "id": "way/946660593",
+        "element_id": 946660593,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.546978",
+        "url": "https://www.openstreetmap.org/way/946660593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1885691205854,
+          20.15237509155256
+        ]
+      },
+      "properties": {
+        "id": "way/946660593",
+        "element_id": 946660593,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.546978",
+        "url": "https://www.openstreetmap.org/way/946660593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.16352125001345,
+          19.410913408756063
+        ]
+      },
+      "properties": {
+        "id": "way/1017222704",
+        "element_id": 1017222704,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'man_made': 'works', 'name': 'Energía de Apizaco', 'plant:output:electricity': '40.5 MW', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.549977",
+        "url": "https://www.openstreetmap.org/way/1017222704"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.37023396061238,
+          26.845699903402497
+        ]
+      },
+      "properties": {
+        "id": "way/1020145296",
+        "element_id": 1020145296,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.550976",
+        "url": "https://www.openstreetmap.org/way/1020145296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.56344199999998,
+          17.116978800000002
+        ]
+      },
+      "properties": {
+        "id": "way/1020358675",
+        "element_id": 1020358675,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.551976",
+        "url": "https://www.openstreetmap.org/way/1020358675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.89899485,
+          27.82074545
+        ]
+      },
+      "properties": {
+        "id": "way/1020371349",
+        "element_id": 1020371349,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.553294",
+        "url": "https://www.openstreetmap.org/way/1020371349"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.14829363232415,
+          26.822362733758272
+        ]
+      },
+      "properties": {
+        "id": "way/1056057541",
+        "element_id": 1056057541,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "342 KW/h",
+        "details": "Tag 'plant:output:electricity' has value '342 KW/h' which could not be parsed",
+        "timestamp": "2025-07-07 18:40:46.554303",
+        "url": "https://www.openstreetmap.org/way/1056057541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.22866421595413,
+          20.565476075849407
+        ]
+      },
+      "properties": {
+        "id": "way/1059698755",
+        "element_id": 1059698755,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.555303",
+        "url": "https://www.openstreetmap.org/way/1059698755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.04128814235844,
+          19.726820707426057
+        ]
+      },
+      "properties": {
+        "id": "way/1071141817",
+        "element_id": 1071141817,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.556303",
+        "url": "https://www.openstreetmap.org/way/1071141817"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.04177141990074,
+          19.726817522050087
+        ]
+      },
+      "properties": {
+        "id": "way/1071141818",
+        "element_id": 1071141818,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.556303",
+        "url": "https://www.openstreetmap.org/way/1071141818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.98861848862296,
+          19.736069793333087
+        ]
+      },
+      "properties": {
+        "id": "way/1075095328",
+        "element_id": 1075095328,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.556303",
+        "url": "https://www.openstreetmap.org/way/1075095328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3234845586206,
+          19.53974252061171
+        ]
+      },
+      "properties": {
+        "id": "way/1081622164",
+        "element_id": 1081622164,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.562303",
+        "url": "https://www.openstreetmap.org/way/1081622164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.76464149812756,
+          19.579673701379157
+        ]
+      },
+      "properties": {
+        "id": "way/1082157023",
+        "element_id": 1082157023,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.563303",
+        "url": "https://www.openstreetmap.org/way/1082157023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.76464149812756,
+          19.579673701379157
+        ]
+      },
+      "properties": {
+        "id": "way/1082157023",
+        "element_id": 1082157023,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.563303",
+        "url": "https://www.openstreetmap.org/way/1082157023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.99022264651744,
+          19.7615117246232
+        ]
+      },
+      "properties": {
+        "id": "way/1082588901",
+        "element_id": 1082588901,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.564302",
+        "url": "https://www.openstreetmap.org/way/1082588901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.99022264651744,
+          19.7615117246232
+        ]
+      },
+      "properties": {
+        "id": "way/1082588901",
+        "element_id": 1082588901,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.564302",
+        "url": "https://www.openstreetmap.org/way/1082588901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.44050151104292,
+          31.10716642303233
+        ]
+      },
+      "properties": {
+        "id": "way/1102474869",
+        "element_id": 1102474869,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.565306",
+        "url": "https://www.openstreetmap.org/way/1102474869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.44050151104292,
+          31.10716642303233
+        ]
+      },
+      "properties": {
+        "id": "way/1102474869",
+        "element_id": 1102474869,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.565306",
+        "url": "https://www.openstreetmap.org/way/1102474869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.43926467651492,
+          31.10727739219458
+        ]
+      },
+      "properties": {
+        "id": "way/1102474870",
+        "element_id": 1102474870,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.565306",
+        "url": "https://www.openstreetmap.org/way/1102474870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.43926467651492,
+          31.10727739219458
+        ]
+      },
+      "properties": {
+        "id": "way/1102474870",
+        "element_id": 1102474870,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.565306",
+        "url": "https://www.openstreetmap.org/way/1102474870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.44013911451296,
+          31.107805618291312
+        ]
+      },
+      "properties": {
+        "id": "way/1102474871",
+        "element_id": 1102474871,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.565306",
+        "url": "https://www.openstreetmap.org/way/1102474871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.44013911451296,
+          31.107805618291312
+        ]
+      },
+      "properties": {
+        "id": "way/1102474871",
+        "element_id": 1102474871,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.565306",
+        "url": "https://www.openstreetmap.org/way/1102474871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.43946540823916,
+          31.107832794348568
+        ]
+      },
+      "properties": {
+        "id": "way/1102474872",
+        "element_id": 1102474872,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.565306",
+        "url": "https://www.openstreetmap.org/way/1102474872"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.43946540823916,
+          31.107832794348568
+        ]
+      },
+      "properties": {
+        "id": "way/1102474872",
+        "element_id": 1102474872,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.565306",
+        "url": "https://www.openstreetmap.org/way/1102474872"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.47177290626996,
+          28.755185443504978
+        ]
+      },
+      "properties": {
+        "id": "way/1120183132",
+        "element_id": 1120183132,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.568303",
+        "url": "https://www.openstreetmap.org/way/1120183132"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.47177290626996,
+          28.755185443504978
+        ]
+      },
+      "properties": {
+        "id": "way/1120183132",
+        "element_id": 1120183132,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.570302",
+        "url": "https://www.openstreetmap.org/way/1120183132"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.35270166366502,
+          28.34386653069936
+        ]
+      },
+      "properties": {
+        "id": "way/1120396540",
+        "element_id": 1120396540,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.570302",
+        "url": "https://www.openstreetmap.org/way/1120396540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.35270166366502,
+          28.34386653069936
+        ]
+      },
+      "properties": {
+        "id": "way/1120396540",
+        "element_id": 1120396540,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.572557",
+        "url": "https://www.openstreetmap.org/way/1120396540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3449757147164,
+          28.345659972529493
+        ]
+      },
+      "properties": {
+        "id": "way/1120396541",
+        "element_id": 1120396541,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.572557",
+        "url": "https://www.openstreetmap.org/way/1120396541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3449757147164,
+          28.345659972529493
+        ]
+      },
+      "properties": {
+        "id": "way/1120396541",
+        "element_id": 1120396541,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.574557",
+        "url": "https://www.openstreetmap.org/way/1120396541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.33526337419494,
+          28.336677714140084
+        ]
+      },
+      "properties": {
+        "id": "way/1120396542",
+        "element_id": 1120396542,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.575557",
+        "url": "https://www.openstreetmap.org/way/1120396542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.33526337419494,
+          28.336677714140084
+        ]
+      },
+      "properties": {
+        "id": "way/1120396542",
+        "element_id": 1120396542,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.576559",
+        "url": "https://www.openstreetmap.org/way/1120396542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3252091051012,
+          24.272789440584997
+        ]
+      },
+      "properties": {
+        "id": "way/1121001676",
+        "element_id": 1121001676,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.576559",
+        "url": "https://www.openstreetmap.org/way/1121001676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3252091051012,
+          24.272789440584997
+        ]
+      },
+      "properties": {
+        "id": "way/1121001676",
+        "element_id": 1121001676,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.576559",
+        "url": "https://www.openstreetmap.org/way/1121001676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3252091051012,
+          24.272789440584997
+        ]
+      },
+      "properties": {
+        "id": "way/1121001676",
+        "element_id": 1121001676,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.578571",
+        "url": "https://www.openstreetmap.org/way/1121001676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.74111195727824,
+          20.03570101442013
+        ]
+      },
+      "properties": {
+        "id": "way/1125143834",
+        "element_id": 1125143834,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.578571",
+        "url": "https://www.openstreetmap.org/way/1125143834"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.74111195727824,
+          20.03570101442013
+        ]
+      },
+      "properties": {
+        "id": "way/1125143834",
+        "element_id": 1125143834,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.578571",
+        "url": "https://www.openstreetmap.org/way/1125143834"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.74111195727824,
+          20.03570101442013
+        ]
+      },
+      "properties": {
+        "id": "way/1125143834",
+        "element_id": 1125143834,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.580572",
+        "url": "https://www.openstreetmap.org/way/1125143834"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.83795477486017,
+          27.322615884651658
+        ]
+      },
+      "properties": {
+        "id": "way/1126035430",
+        "element_id": 1126035430,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.580572",
+        "url": "https://www.openstreetmap.org/way/1126035430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.83795477486017,
+          27.322615884651658
+        ]
+      },
+      "properties": {
+        "id": "way/1126035430",
+        "element_id": 1126035430,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.580572",
+        "url": "https://www.openstreetmap.org/way/1126035430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.46621457605428,
+          24.997495406774995
+        ]
+      },
+      "properties": {
+        "id": "way/1144335709",
+        "element_id": 1144335709,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.581571",
+        "url": "https://www.openstreetmap.org/way/1144335709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.46621457605428,
+          24.997495406774995
+        ]
+      },
+      "properties": {
+        "id": "way/1144335709",
+        "element_id": 1144335709,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.583572",
+        "url": "https://www.openstreetmap.org/way/1144335709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.66601343457693,
+          22.923530090880035
+        ]
+      },
+      "properties": {
+        "id": "way/1149257021",
+        "element_id": 1149257021,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'note': 'I guess this is Parque Solar Calera, 73 MW, oper. Mitre Calera Solar. Can anyone confirm? https://www.pv-magazine-mexico.com/2022/05/19/construyendo-caminos-hacia-calera-solar/, source: only solar park in Calera,the size is about right for power rating.', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.583572",
+        "url": "https://www.openstreetmap.org/way/1149257021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.66601343457693,
+          22.923530090880035
+        ]
+      },
+      "properties": {
+        "id": "way/1149257021",
+        "element_id": 1149257021,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'note': 'I guess this is Parque Solar Calera, 73 MW, oper. Mitre Calera Solar. Can anyone confirm? https://www.pv-magazine-mexico.com/2022/05/19/construyendo-caminos-hacia-calera-solar/, source: only solar park in Calera,the size is about right for power rating.', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.585570",
+        "url": "https://www.openstreetmap.org/way/1149257021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.26497260434998,
+          20.704729318239277
+        ]
+      },
+      "properties": {
+        "id": "way/1165944448",
+        "element_id": 1165944448,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.586570",
+        "url": "https://www.openstreetmap.org/way/1165944448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.24468943027604,
+          20.700785996728523
+        ]
+      },
+      "properties": {
+        "id": "way/1165944451",
+        "element_id": 1165944451,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.587570",
+        "url": "https://www.openstreetmap.org/way/1165944451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.87990236521831,
+          21.427130934081774
+        ]
+      },
+      "properties": {
+        "id": "way/1174831424",
+        "element_id": 1174831424,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Central Electrica', 'operator': 'CFE', 'operator:wikidata': 'Q1114680', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.587570",
+        "url": "https://www.openstreetmap.org/way/1174831424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.58830511287854,
+          18.541356521091465
+        ]
+      },
+      "properties": {
+        "id": "way/1187792751",
+        "element_id": 1187792751,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.591809",
+        "url": "https://www.openstreetmap.org/way/1187792751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.58830511287854,
+          18.541356521091465
+        ]
+      },
+      "properties": {
+        "id": "way/1187792751",
+        "element_id": 1187792751,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.594161",
+        "url": "https://www.openstreetmap.org/way/1187792751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.93204943817896,
+          29.18849985353113
+        ]
+      },
+      "properties": {
+        "id": "way/1189496404",
+        "element_id": 1189496404,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.594161",
+        "url": "https://www.openstreetmap.org/way/1189496404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.93204943817896,
+          29.18849985353113
+        ]
+      },
+      "properties": {
+        "id": "way/1189496404",
+        "element_id": 1189496404,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.594161",
+        "url": "https://www.openstreetmap.org/way/1189496404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.1129848982559,
+          19.41773147668946
+        ]
+      },
+      "properties": {
+        "id": "way/1190225058",
+        "element_id": 1190225058,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Comunidad Indígena Nuevo San Juan Parangaricutiro', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.594161",
+        "url": "https://www.openstreetmap.org/way/1190225058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.1129848982559,
+          19.41773147668946
+        ]
+      },
+      "properties": {
+        "id": "way/1190225058",
+        "element_id": 1190225058,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.594161",
+        "url": "https://www.openstreetmap.org/way/1190225058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.53294080867148,
+          17.983663633218836
+        ]
+      },
+      "properties": {
+        "id": "way/1191933901",
+        "element_id": 1191933901,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Central de Energía de la Refineria Lázaro Cárdenas', 'plant:method': 'combustion', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.594161",
+        "url": "https://www.openstreetmap.org/way/1191933901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4614119536416,
+          18.845147967971062
+        ]
+      },
+      "properties": {
+        "id": "way/1205454923",
+        "element_id": 1205454923,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.595162",
+        "url": "https://www.openstreetmap.org/way/1205454923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.94122015989736,
+          31.127373101928715
+        ]
+      },
+      "properties": {
+        "id": "way/1207800267",
+        "element_id": 1207800267,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.595162",
+        "url": "https://www.openstreetmap.org/way/1207800267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.94122015989736,
+          31.127373101928715
+        ]
+      },
+      "properties": {
+        "id": "way/1207800267",
+        "element_id": 1207800267,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.595162",
+        "url": "https://www.openstreetmap.org/way/1207800267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.92988418082406,
+          25.59900262864436
+        ]
+      },
+      "properties": {
+        "id": "way/1210460840",
+        "element_id": 1210460840,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.596284",
+        "url": "https://www.openstreetmap.org/way/1210460840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.05480221878916,
+          19.01997613967762
+        ]
+      },
+      "properties": {
+        "id": "way/1211153101",
+        "element_id": 1211153101,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.598414",
+        "url": "https://www.openstreetmap.org/way/1211153101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.22665725,
+          15.024010000000004
+        ]
+      },
+      "properties": {
+        "id": "way/1211703749",
+        "element_id": 1211703749,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.598414",
+        "url": "https://www.openstreetmap.org/way/1211703749"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.17495949346036,
+          19.98307153898032
+        ]
+      },
+      "properties": {
+        "id": "way/1211706864",
+        "element_id": 1211706864,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.599440",
+        "url": "https://www.openstreetmap.org/way/1211706864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.99202101179505,
+          19.402145702736856
+        ]
+      },
+      "properties": {
+        "id": "way/1211707350",
+        "element_id": 1211707350,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.599440",
+        "url": "https://www.openstreetmap.org/way/1211707350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0258328370242,
+          16.956837800010238
+        ]
+      },
+      "properties": {
+        "id": "way/1211709888",
+        "element_id": 1211709888,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.599440",
+        "url": "https://www.openstreetmap.org/way/1211709888"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94775680000002,
+          20.2100446
+        ]
+      },
+      "properties": {
+        "id": "way/1212548857",
+        "element_id": 1212548857,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.599440",
+        "url": "https://www.openstreetmap.org/way/1212548857"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.89227259938096,
+          20.238357833807505
+        ]
+      },
+      "properties": {
+        "id": "way/1212548859",
+        "element_id": 1212548859,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.599440",
+        "url": "https://www.openstreetmap.org/way/1212548859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4277464956246,
+          16.31420792263088
+        ]
+      },
+      "properties": {
+        "id": "way/1212557924",
+        "element_id": 1212557924,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.599440",
+        "url": "https://www.openstreetmap.org/way/1212557924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.52750870887706,
+          27.407073732913307
+        ]
+      },
+      "properties": {
+        "id": "way/1212574286",
+        "element_id": 1212574286,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Central Fotovoltaica Santa Rosalía', 'operator': 'CFE', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.601842",
+        "url": "https://www.openstreetmap.org/way/1212574286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.35646973202044,
+          18.089534361561885
+        ]
+      },
+      "properties": {
+        "id": "way/1218078821",
+        "element_id": 1218078821,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.603886",
+        "url": "https://www.openstreetmap.org/way/1218078821"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.35646973202044,
+          18.089534361561885
+        ]
+      },
+      "properties": {
+        "id": "way/1218078821",
+        "element_id": 1218078821,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'Ingenio Santa Rosalia Biomass Power Station', 'plant:source': 'biomass', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.603886",
+        "url": "https://www.openstreetmap.org/way/1218078821"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.59741445293098,
+          18.039486507774622
+        ]
+      },
+      "properties": {
+        "id": "way/1222359481",
+        "element_id": 1222359481,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.605390",
+        "url": "https://www.openstreetmap.org/way/1222359481"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7060195272346,
+          21.803669330666825
+        ]
+      },
+      "properties": {
+        "id": "way/1234642085",
+        "element_id": 1234642085,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.605390",
+        "url": "https://www.openstreetmap.org/way/1234642085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7060195272346,
+          21.803669330666825
+        ]
+      },
+      "properties": {
+        "id": "way/1234642085",
+        "element_id": 1234642085,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Comisión Federal de Electricidad', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.605390",
+        "url": "https://www.openstreetmap.org/way/1234642085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7060195272346,
+          21.803669330666825
+        ]
+      },
+      "properties": {
+        "id": "way/1234642085",
+        "element_id": 1234642085,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Comisión Federal de Electricidad', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.606395",
+        "url": "https://www.openstreetmap.org/way/1234642085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4514015427794,
+          22.05481053040984
+        ]
+      },
+      "properties": {
+        "id": "way/1251490361",
+        "element_id": 1251490361,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.606395",
+        "url": "https://www.openstreetmap.org/way/1251490361"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4514015427794,
+          22.05481053040984
+        ]
+      },
+      "properties": {
+        "id": "way/1251490361",
+        "element_id": 1251490361,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Comisión Federal de Electricidad', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.606395",
+        "url": "https://www.openstreetmap.org/way/1251490361"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4514015427794,
+          22.05481053040984
+        ]
+      },
+      "properties": {
+        "id": "way/1251490361",
+        "element_id": 1251490361,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Comisión Federal de Electricidad', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.607398",
+        "url": "https://www.openstreetmap.org/way/1251490361"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.45573305875396,
+          22.04044649149807
+        ]
+      },
+      "properties": {
+        "id": "way/1251919107",
+        "element_id": 1251919107,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.608737",
+        "url": "https://www.openstreetmap.org/way/1251919107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.45573305875396,
+          22.04044649149807
+        ]
+      },
+      "properties": {
+        "id": "way/1251919107",
+        "element_id": 1251919107,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Comisión Federal de Electricidad', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.608737",
+        "url": "https://www.openstreetmap.org/way/1251919107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.45573305875396,
+          22.04044649149807
+        ]
+      },
+      "properties": {
+        "id": "way/1251919107",
+        "element_id": 1251919107,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Comisión Federal de Electricidad', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.609735",
+        "url": "https://www.openstreetmap.org/way/1251919107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46570633798943,
+          18.54435000980205
+        ]
+      },
+      "properties": {
+        "id": "way/1257210327",
+        "element_id": 1257210327,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Turbogas Xul-Ha', 'plant:method': 'combustion', 'plant:source': 'diesel', 'power': 'plant', 'source': 'https://www.cre.gob.mx/documento/E_1641_GEN_2015.PDF'}",
+        "timestamp": "2025-07-07 18:40:46.611735",
+        "url": "https://www.openstreetmap.org/way/1257210327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.77854350403152,
+          17.80335484373743
+        ]
+      },
+      "properties": {
+        "id": "way/1264577610",
+        "element_id": 1264577610,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Comisión Federal de Electricidad', 'operator': 'CFE', 'operator:wikidata': 'Q1114680', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.612735",
+        "url": "https://www.openstreetmap.org/way/1264577610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.11668657130718,
+          20.379762082862264
+        ]
+      },
+      "properties": {
+        "id": "way/1273430399",
+        "element_id": 1273430399,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.612735",
+        "url": "https://www.openstreetmap.org/way/1273430399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.64209490933128,
+          28.976672417990795
+        ]
+      },
+      "properties": {
+        "id": "way/1280951637",
+        "element_id": 1280951637,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.613735",
+        "url": "https://www.openstreetmap.org/way/1280951637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.64209490933128,
+          28.976672417990795
+        ]
+      },
+      "properties": {
+        "id": "way/1280951637",
+        "element_id": 1280951637,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.613735",
+        "url": "https://www.openstreetmap.org/way/1280951637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.42300170339016,
+          17.485424962982673
+        ]
+      },
+      "properties": {
+        "id": "way/1285349016",
+        "element_id": 1285349016,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.613735",
+        "url": "https://www.openstreetmap.org/way/1285349016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.42300170339016,
+          17.485424962982673
+        ]
+      },
+      "properties": {
+        "id": "way/1285349016",
+        "element_id": 1285349016,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.613735",
+        "url": "https://www.openstreetmap.org/way/1285349016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.37324321673296,
+          18.919083808306254
+        ]
+      },
+      "properties": {
+        "id": "way/1294794948",
+        "element_id": 1294794948,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.613735",
+        "url": "https://www.openstreetmap.org/way/1294794948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.37324321673296,
+          18.919083808306254
+        ]
+      },
+      "properties": {
+        "id": "way/1294794948",
+        "element_id": 1294794948,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.613735",
+        "url": "https://www.openstreetmap.org/way/1294794948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.37324321673296,
+          18.919083808306254
+        ]
+      },
+      "properties": {
+        "id": "way/1294794948",
+        "element_id": 1294794948,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.613735",
+        "url": "https://www.openstreetmap.org/way/1294794948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.72778843244006,
+          28.48089645857461
+        ]
+      },
+      "properties": {
+        "id": "way/1303572158",
+        "element_id": 1303572158,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'Generadora Pondercel power station', 'power': 'plant', 'source': 'https://www.gem.wiki/Generadora_Pondercel_power_station'}",
+        "timestamp": "2025-07-07 18:40:46.613735",
+        "url": "https://www.openstreetmap.org/way/1303572158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.64194499929974,
+          24.350452425804416
+        ]
+      },
+      "properties": {
+        "id": "way/1304665053",
+        "element_id": 1304665053,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.614734",
+        "url": "https://www.openstreetmap.org/way/1304665053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.8923567404663,
+          23.17722075043003
+        ]
+      },
+      "properties": {
+        "id": "way/1307616757",
+        "element_id": 1307616757,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.614734",
+        "url": "https://www.openstreetmap.org/way/1307616757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.87908233762774,
+          21.097742199872137
+        ]
+      },
+      "properties": {
+        "id": "way/1311070100",
+        "element_id": 1311070100,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.614734",
+        "url": "https://www.openstreetmap.org/way/1311070100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.87908233762774,
+          21.097742199872137
+        ]
+      },
+      "properties": {
+        "id": "way/1311070100",
+        "element_id": 1311070100,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.614734",
+        "url": "https://www.openstreetmap.org/way/1311070100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.87908233762774,
+          21.097742199872137
+        ]
+      },
+      "properties": {
+        "id": "way/1311070100",
+        "element_id": 1311070100,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.615735",
+        "url": "https://www.openstreetmap.org/way/1311070100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.06021833397352,
+          18.84655783801978
+        ]
+      },
+      "properties": {
+        "id": "way/1322329666",
+        "element_id": 1322329666,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.616734",
+        "url": "https://www.openstreetmap.org/way/1322329666"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.75098309515262,
+          27.69399308644005
+        ]
+      },
+      "properties": {
+        "id": "way/1330054246",
+        "element_id": 1330054246,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.616734",
+        "url": "https://www.openstreetmap.org/way/1330054246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.75098309515262,
+          27.69399308644005
+        ]
+      },
+      "properties": {
+        "id": "way/1330054246",
+        "element_id": 1330054246,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.616734",
+        "url": "https://www.openstreetmap.org/way/1330054246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.71470686295208,
+          32.41809751258148
+        ]
+      },
+      "properties": {
+        "id": "way/1333587582",
+        "element_id": 1333587582,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.616734",
+        "url": "https://www.openstreetmap.org/way/1333587582"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.59192202313668,
+          31.265104450532373
+        ]
+      },
+      "properties": {
+        "id": "way/1340678023",
+        "element_id": 1340678023,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.616734",
+        "url": "https://www.openstreetmap.org/way/1340678023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.59192202313668,
+          31.265104450532373
+        ]
+      },
+      "properties": {
+        "id": "way/1340678023",
+        "element_id": 1340678023,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.616734",
+        "url": "https://www.openstreetmap.org/way/1340678023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.95709462469206,
+          20.474915456160826
+        ]
+      },
+      "properties": {
+        "id": "way/1342579415",
+        "element_id": 1342579415,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Turbogas Chankanaab', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.617734",
+        "url": "https://www.openstreetmap.org/way/1342579415"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2728721508393,
+          25.612464825523915
+        ]
+      },
+      "properties": {
+        "id": "way/1376019284",
+        "element_id": 1376019284,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Central turbogas Tecnológico', 'plant:method': 'gas_turbine', 'plant:output:electricity': '26 MW', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.618735",
+        "url": "https://www.openstreetmap.org/way/1376019284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9449756164593,
+          25.80017861818612
+        ]
+      },
+      "properties": {
+        "id": "way/1378738622",
+        "element_id": 1378738622,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.618735",
+        "url": "https://www.openstreetmap.org/way/1378738622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9449756164593,
+          25.80017861818612
+        ]
+      },
+      "properties": {
+        "id": "way/1378738622",
+        "element_id": 1378738622,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.618735",
+        "url": "https://www.openstreetmap.org/way/1378738622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94514190892583,
+          25.800599950590662
+        ]
+      },
+      "properties": {
+        "id": "way/1378738631",
+        "element_id": 1378738631,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.618735",
+        "url": "https://www.openstreetmap.org/way/1378738631"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94514190892583,
+          25.800599950590662
+        ]
+      },
+      "properties": {
+        "id": "way/1378738631",
+        "element_id": 1378738631,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.618735",
+        "url": "https://www.openstreetmap.org/way/1378738631"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94487940891582,
+          25.80048710060973
+        ]
+      },
+      "properties": {
+        "id": "way/1378738632",
+        "element_id": 1378738632,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.618735",
+        "url": "https://www.openstreetmap.org/way/1378738632"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94487940891582,
+          25.80048710060973
+        ]
+      },
+      "properties": {
+        "id": "way/1378738632",
+        "element_id": 1378738632,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.618735",
+        "url": "https://www.openstreetmap.org/way/1378738632"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94461120891582,
+          25.80037360060973
+        ]
+      },
+      "properties": {
+        "id": "way/1378738633",
+        "element_id": 1378738633,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.618735",
+        "url": "https://www.openstreetmap.org/way/1378738633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94461120891582,
+          25.80037360060973
+        ]
+      },
+      "properties": {
+        "id": "way/1378738633",
+        "element_id": 1378738633,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.618735",
+        "url": "https://www.openstreetmap.org/way/1378738633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94517160892586,
+          25.800547150590663
+        ]
+      },
+      "properties": {
+        "id": "way/1378738634",
+        "element_id": 1378738634,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.619735",
+        "url": "https://www.openstreetmap.org/way/1378738634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94517160892586,
+          25.800547150590663
+        ]
+      },
+      "properties": {
+        "id": "way/1378738634",
+        "element_id": 1378738634,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.619735",
+        "url": "https://www.openstreetmap.org/way/1378738634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94490910891584,
+          25.80043430060973
+        ]
+      },
+      "properties": {
+        "id": "way/1378738635",
+        "element_id": 1378738635,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.619735",
+        "url": "https://www.openstreetmap.org/way/1378738635"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94490910891584,
+          25.80043430060973
+        ]
+      },
+      "properties": {
+        "id": "way/1378738635",
+        "element_id": 1378738635,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.619735",
+        "url": "https://www.openstreetmap.org/way/1378738635"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94464090891582,
+          25.80032080060973
+        ]
+      },
+      "properties": {
+        "id": "way/1378738636",
+        "element_id": 1378738636,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.619735",
+        "url": "https://www.openstreetmap.org/way/1378738636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94464090891582,
+          25.80032080060973
+        ]
+      },
+      "properties": {
+        "id": "way/1378738636",
+        "element_id": 1378738636,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.619735",
+        "url": "https://www.openstreetmap.org/way/1378738636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94519975899932,
+          25.800498850618634
+        ]
+      },
+      "properties": {
+        "id": "way/1378738637",
+        "element_id": 1378738637,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.619735",
+        "url": "https://www.openstreetmap.org/way/1378738637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94519975899932,
+          25.800498850618634
+        ]
+      },
+      "properties": {
+        "id": "way/1378738637",
+        "element_id": 1378738637,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.619735",
+        "url": "https://www.openstreetmap.org/way/1378738637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9449373089158,
+          25.80038600060973
+        ]
+      },
+      "properties": {
+        "id": "way/1378738638",
+        "element_id": 1378738638,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.619735",
+        "url": "https://www.openstreetmap.org/way/1378738638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9449373089158,
+          25.80038600060973
+        ]
+      },
+      "properties": {
+        "id": "way/1378738638",
+        "element_id": 1378738638,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.619735",
+        "url": "https://www.openstreetmap.org/way/1378738638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94466910959102,
+          25.800272510582356
+        ]
+      },
+      "properties": {
+        "id": "way/1378738639",
+        "element_id": 1378738639,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.619735",
+        "url": "https://www.openstreetmap.org/way/1378738639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94466910959102,
+          25.800272510582356
+        ]
+      },
+      "properties": {
+        "id": "way/1378738639",
+        "element_id": 1378738639,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.619735",
+        "url": "https://www.openstreetmap.org/way/1378738639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94523865899932,
+          25.80043125061864
+        ]
+      },
+      "properties": {
+        "id": "way/1378738640",
+        "element_id": 1378738640,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.619735",
+        "url": "https://www.openstreetmap.org/way/1378738640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94523865899932,
+          25.80043125061864
+        ]
+      },
+      "properties": {
+        "id": "way/1378738640",
+        "element_id": 1378738640,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.619735",
+        "url": "https://www.openstreetmap.org/way/1378738640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9449761506504,
+          25.800318359965345
+        ]
+      },
+      "properties": {
+        "id": "way/1378738641",
+        "element_id": 1378738641,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.620735",
+        "url": "https://www.openstreetmap.org/way/1378738641"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9449761506504,
+          25.800318359965345
+        ]
+      },
+      "properties": {
+        "id": "way/1378738641",
+        "element_id": 1378738641,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.620735",
+        "url": "https://www.openstreetmap.org/way/1378738641"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9447079,
+          25.800204849999997
+        ]
+      },
+      "properties": {
+        "id": "way/1378738642",
+        "element_id": 1378738642,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.620735",
+        "url": "https://www.openstreetmap.org/way/1378738642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9447079,
+          25.800204849999997
+        ]
+      },
+      "properties": {
+        "id": "way/1378738642",
+        "element_id": 1378738642,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.620735",
+        "url": "https://www.openstreetmap.org/way/1378738642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94526815899933,
+          25.800382950618637
+        ]
+      },
+      "properties": {
+        "id": "way/1378738643",
+        "element_id": 1378738643,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.620735",
+        "url": "https://www.openstreetmap.org/way/1378738643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94526815899933,
+          25.800382950618637
+        ]
+      },
+      "properties": {
+        "id": "way/1378738643",
+        "element_id": 1378738643,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.620735",
+        "url": "https://www.openstreetmap.org/way/1378738643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9450056506504,
+          25.800270059965342
+        ]
+      },
+      "properties": {
+        "id": "way/1378738644",
+        "element_id": 1378738644,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.620735",
+        "url": "https://www.openstreetmap.org/way/1378738644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9450056506504,
+          25.800270059965342
+        ]
+      },
+      "properties": {
+        "id": "way/1378738644",
+        "element_id": 1378738644,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.620735",
+        "url": "https://www.openstreetmap.org/way/1378738644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9447374506504,
+          25.800156559965345
+        ]
+      },
+      "properties": {
+        "id": "way/1378738645",
+        "element_id": 1378738645,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.620735",
+        "url": "https://www.openstreetmap.org/way/1378738645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9447374506504,
+          25.800156559965345
+        ]
+      },
+      "properties": {
+        "id": "way/1378738645",
+        "element_id": 1378738645,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.620735",
+        "url": "https://www.openstreetmap.org/way/1378738645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9452976,
+          25.800331000000003
+        ]
+      },
+      "properties": {
+        "id": "way/1378738646",
+        "element_id": 1378738646,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.620735",
+        "url": "https://www.openstreetmap.org/way/1378738646"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9452976,
+          25.800331000000003
+        ]
+      },
+      "properties": {
+        "id": "way/1378738646",
+        "element_id": 1378738646,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.620735",
+        "url": "https://www.openstreetmap.org/way/1378738646"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94503515,
+          25.80021815
+        ]
+      },
+      "properties": {
+        "id": "way/1378738647",
+        "element_id": 1378738647,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.620735",
+        "url": "https://www.openstreetmap.org/way/1378738647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.94503515,
+          25.80021815
+        ]
+      },
+      "properties": {
+        "id": "way/1378738647",
+        "element_id": 1378738647,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.620735",
+        "url": "https://www.openstreetmap.org/way/1378738647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9447669506504,
+          25.800104659965346
+        ]
+      },
+      "properties": {
+        "id": "way/1378738648",
+        "element_id": 1378738648,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.620735",
+        "url": "https://www.openstreetmap.org/way/1378738648"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9447669506504,
+          25.800104659965346
+        ]
+      },
+      "properties": {
+        "id": "way/1378738648",
+        "element_id": 1378738648,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.620735",
+        "url": "https://www.openstreetmap.org/way/1378738648"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.89171834000472,
+          21.451325486073085
+        ]
+      },
+      "properties": {
+        "id": "way/1382158274",
+        "element_id": 1382158274,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.621734",
+        "url": "https://www.openstreetmap.org/way/1382158274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.89171834000472,
+          21.451325486073085
+        ]
+      },
+      "properties": {
+        "id": "way/1382158274",
+        "element_id": 1382158274,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.622735",
+        "url": "https://www.openstreetmap.org/way/1382158274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.90925671610724,
+          28.451278116829183
+        ]
+      },
+      "properties": {
+        "id": "way/1383636019",
+        "element_id": 1383636019,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.622735",
+        "url": "https://www.openstreetmap.org/way/1383636019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.90925671610724,
+          28.451278116829183
+        ]
+      },
+      "properties": {
+        "id": "way/1383636019",
+        "element_id": 1383636019,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.622735",
+        "url": "https://www.openstreetmap.org/way/1383636019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.93634500541032,
+          31.32599628770833
+        ]
+      },
+      "properties": {
+        "id": "way/1392253746",
+        "element_id": 1392253746,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.623734",
+        "url": "https://www.openstreetmap.org/way/1392253746"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.93634500541032,
+          31.32599628770833
+        ]
+      },
+      "properties": {
+        "id": "way/1392253746",
+        "element_id": 1392253746,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.623734",
+        "url": "https://www.openstreetmap.org/way/1392253746"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.210795,
+          21.3502949
+        ]
+      },
+      "properties": {
+        "id": "way/1392847220",
+        "element_id": 1392847220,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:46.623734",
+        "url": "https://www.openstreetmap.org/way/1392847220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.210795,
+          21.3502949
+        ]
+      },
+      "properties": {
+        "id": "way/1392847220",
+        "element_id": 1392847220,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'disused': 'yes', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:46.623734",
+        "url": "https://www.openstreetmap.org/way/1392847220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.210795,
+          21.3502949
+        ]
+      },
+      "properties": {
+        "id": "way/1392847220",
+        "element_id": 1392847220,
+        "element_type": "way",
+        "country": "Mexico",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:46.623734",
+        "url": "https://www.openstreetmap.org/way/1392847220"
+      }
+    }
+  ]
+}

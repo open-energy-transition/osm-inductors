@@ -1,0 +1,357 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.56244745643616,
+          7.756815709378946
+        ]
+      },
+      "properties": {
+        "id": "way/407077377",
+        "element_id": 407077377,
+        "element_type": "way",
+        "country": "Ethiopia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:53.438975",
+        "url": "https://www.openstreetmap.org/way/407077377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.461569533452185,
+          7.224973465904843
+        ]
+      },
+      "properties": {
+        "id": "way/407077378",
+        "element_id": 407077378,
+        "element_type": "way",
+        "country": "Ethiopia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:53.438975",
+        "url": "https://www.openstreetmap.org/way/407077378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.38885051274191,
+          11.550208060448709
+        ]
+      },
+      "properties": {
+        "id": "way/481032829",
+        "element_id": 481032829,
+        "element_type": "way",
+        "country": "Ethiopia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Tendaho Sugar Factory', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:53.438975",
+        "url": "https://www.openstreetmap.org/way/481032829"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.36852150000001,
+          7.903457950000001
+        ]
+      },
+      "properties": {
+        "id": "way/828980237",
+        "element_id": 828980237,
+        "element_type": "way",
+        "country": "Ethiopia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:53.439970",
+        "url": "https://www.openstreetmap.org/way/828980237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.79460486550053,
+          7.788566710712383
+        ]
+      },
+      "properties": {
+        "id": "way/845228293",
+        "element_id": 845228293,
+        "element_type": "way",
+        "country": "Ethiopia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:53.439970",
+        "url": "https://www.openstreetmap.org/way/845228293"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.05205003603845,
+          6.2996919825223285
+        ]
+      },
+      "properties": {
+        "id": "way/904218426",
+        "element_id": 904218426,
+        "element_type": "way",
+        "country": "Ethiopia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Gilgel Gibe V', 'natural': 'water', 'power': 'plant', 'water': 'dam'}",
+        "timestamp": "2025-07-07 18:28:53.439970",
+        "url": "https://www.openstreetmap.org/way/904218426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.73513807488751,
+          9.625444693582596
+        ]
+      },
+      "properties": {
+        "id": "way/931428402",
+        "element_id": 931428402,
+        "element_type": "way",
+        "country": "Ethiopia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:53.439970",
+        "url": "https://www.openstreetmap.org/way/931428402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7819361780156,
+          9.0450348921688
+        ]
+      },
+      "properties": {
+        "id": "way/1008647394",
+        "element_id": 1008647394,
+        "element_type": "way",
+        "country": "Ethiopia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:53.440970",
+        "url": "https://www.openstreetmap.org/way/1008647394"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7819361780156,
+          9.0450348921688
+        ]
+      },
+      "properties": {
+        "id": "way/1008647394",
+        "element_id": 1008647394,
+        "element_type": "way",
+        "country": "Ethiopia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:53.440970",
+        "url": "https://www.openstreetmap.org/way/1008647394"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.775351871804375,
+          5.5229227597833175
+        ]
+      },
+      "properties": {
+        "id": "way/1089422651",
+        "element_id": 1089422651,
+        "element_type": "way",
+        "country": "Ethiopia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:53.440970",
+        "url": "https://www.openstreetmap.org/way/1089422651"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.40478145482896,
+          7.112203258164795
+        ]
+      },
+      "properties": {
+        "id": "way/1112234152",
+        "element_id": 1112234152,
+        "element_type": "way",
+        "country": "Ethiopia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:53.440970",
+        "url": "https://www.openstreetmap.org/way/1112234152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.10192169142424,
+          8.596270435785756
+        ]
+      },
+      "properties": {
+        "id": "way/1126869657",
+        "element_id": 1126869657,
+        "element_type": "way",
+        "country": "Ethiopia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'George Shoe', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:53.440970",
+        "url": "https://www.openstreetmap.org/way/1126869657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.03233641277088,
+          8.729392857253625
+        ]
+      },
+      "properties": {
+        "id": "way/1126869658",
+        "element_id": 1126869658,
+        "element_type": "way",
+        "country": "Ethiopia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Kanoria Industry', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:53.440970",
+        "url": "https://www.openstreetmap.org/way/1126869658"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.73513807488751,
+          9.625444693582596
+        ]
+      },
+      "properties": {
+        "id": "way/931428402",
+        "element_id": 931428402,
+        "element_type": "way",
+        "country": "Ethiopia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:53.440970",
+        "url": "https://www.openstreetmap.org/way/931428402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.43454199041471,
+          7.295984770598253
+        ]
+      },
+      "properties": {
+        "id": "way/1297735663",
+        "element_id": 1297735663,
+        "element_type": "way",
+        "country": "Ethiopia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:53.441970",
+        "url": "https://www.openstreetmap.org/way/1297735663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.43454199041471,
+          7.295984770598253
+        ]
+      },
+      "properties": {
+        "id": "way/1297735663",
+        "element_id": 1297735663,
+        "element_type": "way",
+        "country": "Ethiopia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:53.441970",
+        "url": "https://www.openstreetmap.org/way/1297735663"
+      }
+    }
+  ]
+}

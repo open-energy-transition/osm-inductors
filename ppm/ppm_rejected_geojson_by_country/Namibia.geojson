@@ -1,0 +1,3129 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.042621410908058,
+          -23.562073631709563
+        ]
+      },
+      "properties": {
+        "id": "way/1047425252",
+        "element_id": 1047425252,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.640649",
+        "url": "https://www.openstreetmap.org/way/1047425252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43110497990013,
+          -20.392922027708156
+        ]
+      },
+      "properties": {
+        "id": "way/1073032545",
+        "element_id": 1073032545,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.641885",
+        "url": "https://www.openstreetmap.org/way/1073032545"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.516908062768072,
+          -22.9386591747968
+        ]
+      },
+      "properties": {
+        "id": "way/1080196149",
+        "element_id": 1080196149,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Paratus Powerstation', 'plant:method': 'combustion', 'plant:source': 'diesel', 'power': 'plant', 'source': 'https://www.nampower.com.na/Page.aspx?p=186', 'start_date': '1976'}",
+        "timestamp": "2025-07-07 18:41:36.643975",
+        "url": "https://www.openstreetmap.org/way/1080196149"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.42342731135402,
+          -28.430100185281507
+        ]
+      },
+      "properties": {
+        "id": "way/1115240963",
+        "element_id": 1115240963,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.646974",
+        "url": "https://www.openstreetmap.org/way/1115240963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.42342731135402,
+          -28.430100185281507
+        ]
+      },
+      "properties": {
+        "id": "way/1115240963",
+        "element_id": 1115240963,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.646974",
+        "url": "https://www.openstreetmap.org/way/1115240963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.401423425507172,
+          -28.35105074247506
+        ]
+      },
+      "properties": {
+        "id": "way/1115241028",
+        "element_id": 1115241028,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.647983",
+        "url": "https://www.openstreetmap.org/way/1115241028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.401423425507172,
+          -28.35105074247506
+        ]
+      },
+      "properties": {
+        "id": "way/1115241028",
+        "element_id": 1115241028,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.647983",
+        "url": "https://www.openstreetmap.org/way/1115241028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.398715711167398,
+          -28.347244677378736
+        ]
+      },
+      "properties": {
+        "id": "way/1115241044",
+        "element_id": 1115241044,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.647983",
+        "url": "https://www.openstreetmap.org/way/1115241044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.398715711167398,
+          -28.347244677378736
+        ]
+      },
+      "properties": {
+        "id": "way/1115241044",
+        "element_id": 1115241044,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.647983",
+        "url": "https://www.openstreetmap.org/way/1115241044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.48946825178833,
+          -28.66921367514685
+        ]
+      },
+      "properties": {
+        "id": "way/1115508263",
+        "element_id": 1115508263,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.647983",
+        "url": "https://www.openstreetmap.org/way/1115508263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.48946825178833,
+          -28.66921367514685
+        ]
+      },
+      "properties": {
+        "id": "way/1115508263",
+        "element_id": 1115508263,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.647983",
+        "url": "https://www.openstreetmap.org/way/1115508263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.404552858005534,
+          -28.415344214068117
+        ]
+      },
+      "properties": {
+        "id": "way/1116631495",
+        "element_id": 1116631495,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.647983",
+        "url": "https://www.openstreetmap.org/way/1116631495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.404552858005534,
+          -28.415344214068117
+        ]
+      },
+      "properties": {
+        "id": "way/1116631495",
+        "element_id": 1116631495,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.647983",
+        "url": "https://www.openstreetmap.org/way/1116631495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.32985954612844,
+          -22.378914477685864
+        ]
+      },
+      "properties": {
+        "id": "way/1205447518",
+        "element_id": 1205447518,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.649982",
+        "url": "https://www.openstreetmap.org/way/1205447518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.32985954612844,
+          -22.378914477685864
+        ]
+      },
+      "properties": {
+        "id": "way/1205447518",
+        "element_id": 1205447518,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.649982",
+        "url": "https://www.openstreetmap.org/way/1205447518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.128689707433363,
+          -22.584589399234524
+        ]
+      },
+      "properties": {
+        "id": "way/1212196634",
+        "element_id": 1212196634,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.649982",
+        "url": "https://www.openstreetmap.org/way/1212196634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.128689707433363,
+          -22.584589399234524
+        ]
+      },
+      "properties": {
+        "id": "way/1212196634",
+        "element_id": 1212196634,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.649982",
+        "url": "https://www.openstreetmap.org/way/1212196634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.410864550097866,
+          -28.401276008997897
+        ]
+      },
+      "properties": {
+        "id": "way/1212201784",
+        "element_id": 1212201784,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.650983",
+        "url": "https://www.openstreetmap.org/way/1212201784"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.410864550097866,
+          -28.401276008997897
+        ]
+      },
+      "properties": {
+        "id": "way/1212201784",
+        "element_id": 1212201784,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.650983",
+        "url": "https://www.openstreetmap.org/way/1212201784"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.22201752158213,
+          -17.39766335254029
+        ]
+      },
+      "properties": {
+        "id": "way/1216059983",
+        "element_id": 1216059983,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.650983",
+        "url": "https://www.openstreetmap.org/way/1216059983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.797269155306854,
+          -24.4902186732258
+        ]
+      },
+      "properties": {
+        "id": "way/1223756155",
+        "element_id": 1223756155,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:36.650983",
+        "url": "https://www.openstreetmap.org/way/1223756155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.797269155306854,
+          -24.4902186732258
+        ]
+      },
+      "properties": {
+        "id": "way/1223756155",
+        "element_id": 1223756155,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.650983",
+        "url": "https://www.openstreetmap.org/way/1223756155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.797269155306854,
+          -24.4902186732258
+        ]
+      },
+      "properties": {
+        "id": "way/1223756155",
+        "element_id": 1223756155,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.652985",
+        "url": "https://www.openstreetmap.org/way/1223756155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.804873096016475,
+          -24.484485877319575
+        ]
+      },
+      "properties": {
+        "id": "way/1223756899",
+        "element_id": 1223756899,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:36.652985",
+        "url": "https://www.openstreetmap.org/way/1223756899"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.804873096016475,
+          -24.484485877319575
+        ]
+      },
+      "properties": {
+        "id": "way/1223756899",
+        "element_id": 1223756899,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.652985",
+        "url": "https://www.openstreetmap.org/way/1223756899"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.804873096016475,
+          -24.484485877319575
+        ]
+      },
+      "properties": {
+        "id": "way/1223756899",
+        "element_id": 1223756899,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.653982",
+        "url": "https://www.openstreetmap.org/way/1223756899"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.557775460341375,
+          -22.840282857019112
+        ]
+      },
+      "properties": {
+        "id": "way/1227333657",
+        "element_id": 1227333657,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.654982",
+        "url": "https://www.openstreetmap.org/way/1227333657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.557775460341375,
+          -22.840282857019112
+        ]
+      },
+      "properties": {
+        "id": "way/1227333657",
+        "element_id": 1227333657,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.654982",
+        "url": "https://www.openstreetmap.org/way/1227333657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.94701361925512,
+          -24.64221572099411
+        ]
+      },
+      "properties": {
+        "id": "way/1247135540",
+        "element_id": 1247135540,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.654982",
+        "url": "https://www.openstreetmap.org/way/1247135540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510184400000004,
+          -22.76532275
+        ]
+      },
+      "properties": {
+        "id": "way/1303144227",
+        "element_id": 1303144227,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.654982",
+        "url": "https://www.openstreetmap.org/way/1303144227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510184400000004,
+          -22.76532275
+        ]
+      },
+      "properties": {
+        "id": "way/1303144227",
+        "element_id": 1303144227,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.654982",
+        "url": "https://www.openstreetmap.org/way/1303144227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510191499999998,
+          -22.76535375
+        ]
+      },
+      "properties": {
+        "id": "way/1303144228",
+        "element_id": 1303144228,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.654982",
+        "url": "https://www.openstreetmap.org/way/1303144228"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510191499999998,
+          -22.76535375
+        ]
+      },
+      "properties": {
+        "id": "way/1303144228",
+        "element_id": 1303144228,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.654982",
+        "url": "https://www.openstreetmap.org/way/1303144228"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510200349999998,
+          -22.7653823
+        ]
+      },
+      "properties": {
+        "id": "way/1303144229",
+        "element_id": 1303144229,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.655982",
+        "url": "https://www.openstreetmap.org/way/1303144229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510200349999998,
+          -22.7653823
+        ]
+      },
+      "properties": {
+        "id": "way/1303144229",
+        "element_id": 1303144229,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.655982",
+        "url": "https://www.openstreetmap.org/way/1303144229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5102074,
+          -22.7654125
+        ]
+      },
+      "properties": {
+        "id": "way/1303144230",
+        "element_id": 1303144230,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.655982",
+        "url": "https://www.openstreetmap.org/way/1303144230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5102074,
+          -22.7654125
+        ]
+      },
+      "properties": {
+        "id": "way/1303144230",
+        "element_id": 1303144230,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.655982",
+        "url": "https://www.openstreetmap.org/way/1303144230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5102135619883,
+          -22.76544188479532
+        ]
+      },
+      "properties": {
+        "id": "way/1303144231",
+        "element_id": 1303144231,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.655982",
+        "url": "https://www.openstreetmap.org/way/1303144231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5102135619883,
+          -22.76544188479532
+        ]
+      },
+      "properties": {
+        "id": "way/1303144231",
+        "element_id": 1303144231,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.655982",
+        "url": "https://www.openstreetmap.org/way/1303144231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5102207,
+          -22.765472050000003
+        ]
+      },
+      "properties": {
+        "id": "way/1303144232",
+        "element_id": 1303144232,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.655982",
+        "url": "https://www.openstreetmap.org/way/1303144232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5102207,
+          -22.765472050000003
+        ]
+      },
+      "properties": {
+        "id": "way/1303144232",
+        "element_id": 1303144232,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.655982",
+        "url": "https://www.openstreetmap.org/way/1303144232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510229512025212,
+          -22.76550388479516
+        ]
+      },
+      "properties": {
+        "id": "way/1303144233",
+        "element_id": 1303144233,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.655982",
+        "url": "https://www.openstreetmap.org/way/1303144233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510229512025212,
+          -22.76550388479516
+        ]
+      },
+      "properties": {
+        "id": "way/1303144233",
+        "element_id": 1303144233,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.655982",
+        "url": "https://www.openstreetmap.org/way/1303144233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51023526523862,
+          -22.765536500681065
+        ]
+      },
+      "properties": {
+        "id": "way/1303144234",
+        "element_id": 1303144234,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.655982",
+        "url": "https://www.openstreetmap.org/way/1303144234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51023526523862,
+          -22.765536500681065
+        ]
+      },
+      "properties": {
+        "id": "way/1303144234",
+        "element_id": 1303144234,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.655982",
+        "url": "https://www.openstreetmap.org/way/1303144234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510241899999997,
+          -22.765567500000003
+        ]
+      },
+      "properties": {
+        "id": "way/1303144235",
+        "element_id": 1303144235,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.655982",
+        "url": "https://www.openstreetmap.org/way/1303144235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510241899999997,
+          -22.765567500000003
+        ]
+      },
+      "properties": {
+        "id": "way/1303144235",
+        "element_id": 1303144235,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.655982",
+        "url": "https://www.openstreetmap.org/way/1303144235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510249412025207,
+          -22.76559728479516
+        ]
+      },
+      "properties": {
+        "id": "way/1303144236",
+        "element_id": 1303144236,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.655982",
+        "url": "https://www.openstreetmap.org/way/1303144236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510249412025207,
+          -22.76559728479516
+        ]
+      },
+      "properties": {
+        "id": "way/1303144236",
+        "element_id": 1303144236,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.656983",
+        "url": "https://www.openstreetmap.org/way/1303144236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51025875,
+          -22.7656295
+        ]
+      },
+      "properties": {
+        "id": "way/1303144237",
+        "element_id": 1303144237,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.656983",
+        "url": "https://www.openstreetmap.org/way/1303144237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51025875,
+          -22.7656295
+        ]
+      },
+      "properties": {
+        "id": "way/1303144237",
+        "element_id": 1303144237,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.656983",
+        "url": "https://www.openstreetmap.org/way/1303144237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51033748797479,
+          -22.765707915204853
+        ]
+      },
+      "properties": {
+        "id": "way/1303144238",
+        "element_id": 1303144238,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.656983",
+        "url": "https://www.openstreetmap.org/way/1303144238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51033748797479,
+          -22.765707915204853
+        ]
+      },
+      "properties": {
+        "id": "way/1303144238",
+        "element_id": 1303144238,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.656983",
+        "url": "https://www.openstreetmap.org/way/1303144238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5103286380117,
+          -22.76567691520468
+        ]
+      },
+      "properties": {
+        "id": "way/1303144239",
+        "element_id": 1303144239,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.656983",
+        "url": "https://www.openstreetmap.org/way/1303144239"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5103286380117,
+          -22.76567691520468
+        ]
+      },
+      "properties": {
+        "id": "way/1303144239",
+        "element_id": 1303144239,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.656983",
+        "url": "https://www.openstreetmap.org/way/1303144239"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510320161988307,
+          -22.76564878479532
+        ]
+      },
+      "properties": {
+        "id": "way/1303144240",
+        "element_id": 1303144240,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.656983",
+        "url": "https://www.openstreetmap.org/way/1303144240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510320161988307,
+          -22.76564878479532
+        ]
+      },
+      "properties": {
+        "id": "way/1303144240",
+        "element_id": 1303144240,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.656983",
+        "url": "https://www.openstreetmap.org/way/1303144240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510400249999993,
+          -22.765599400000006
+        ]
+      },
+      "properties": {
+        "id": "way/1303144241",
+        "element_id": 1303144241,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.656983",
+        "url": "https://www.openstreetmap.org/way/1303144241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510400249999993,
+          -22.765599400000006
+        ]
+      },
+      "properties": {
+        "id": "way/1303144241",
+        "element_id": 1303144241,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.656983",
+        "url": "https://www.openstreetmap.org/way/1303144241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51039275,
+          -22.76557045
+        ]
+      },
+      "properties": {
+        "id": "way/1303144242",
+        "element_id": 1303144242,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.656983",
+        "url": "https://www.openstreetmap.org/way/1303144242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51039275,
+          -22.76557045
+        ]
+      },
+      "properties": {
+        "id": "way/1303144242",
+        "element_id": 1303144242,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.656983",
+        "url": "https://www.openstreetmap.org/way/1303144242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510385649999996,
+          -22.765537400000003
+        ]
+      },
+      "properties": {
+        "id": "way/1303144243",
+        "element_id": 1303144243,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.656983",
+        "url": "https://www.openstreetmap.org/way/1303144243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510385649999996,
+          -22.765537400000003
+        ]
+      },
+      "properties": {
+        "id": "way/1303144243",
+        "element_id": 1303144243,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.656983",
+        "url": "https://www.openstreetmap.org/way/1303144243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510378150000005,
+          -22.76550805
+        ]
+      },
+      "properties": {
+        "id": "way/1303144244",
+        "element_id": 1303144244,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.657982",
+        "url": "https://www.openstreetmap.org/way/1303144244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510378150000005,
+          -22.76550805
+        ]
+      },
+      "properties": {
+        "id": "way/1303144244",
+        "element_id": 1303144244,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.657982",
+        "url": "https://www.openstreetmap.org/way/1303144244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5103693380117,
+          -22.765476615204683
+        ]
+      },
+      "properties": {
+        "id": "way/1303144245",
+        "element_id": 1303144245,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.657982",
+        "url": "https://www.openstreetmap.org/way/1303144245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5103693380117,
+          -22.765476615204683
+        ]
+      },
+      "properties": {
+        "id": "way/1303144245",
+        "element_id": 1303144245,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.657982",
+        "url": "https://www.openstreetmap.org/way/1303144245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510328615209406,
+          -22.76529145069707
+        ]
+      },
+      "properties": {
+        "id": "way/1303144246",
+        "element_id": 1303144246,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.657982",
+        "url": "https://www.openstreetmap.org/way/1303144246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510328615209406,
+          -22.76529145069707
+        ]
+      },
+      "properties": {
+        "id": "way/1303144246",
+        "element_id": 1303144246,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.657982",
+        "url": "https://www.openstreetmap.org/way/1303144246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5103347,
+          -22.76532145
+        ]
+      },
+      "properties": {
+        "id": "way/1303144247",
+        "element_id": 1303144247,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.657982",
+        "url": "https://www.openstreetmap.org/way/1303144247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5103347,
+          -22.76532145
+        ]
+      },
+      "properties": {
+        "id": "way/1303144247",
+        "element_id": 1303144247,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.657982",
+        "url": "https://www.openstreetmap.org/way/1303144247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510342350000002,
+          -22.7653519
+        ]
+      },
+      "properties": {
+        "id": "way/1303144248",
+        "element_id": 1303144248,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.657982",
+        "url": "https://www.openstreetmap.org/way/1303144248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510342350000002,
+          -22.7653519
+        ]
+      },
+      "properties": {
+        "id": "way/1303144248",
+        "element_id": 1303144248,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.657982",
+        "url": "https://www.openstreetmap.org/way/1303144248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51034941202521,
+          -22.765382384795156
+        ]
+      },
+      "properties": {
+        "id": "way/1303144249",
+        "element_id": 1303144249,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.657982",
+        "url": "https://www.openstreetmap.org/way/1303144249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51034941202521,
+          -22.765382384795156
+        ]
+      },
+      "properties": {
+        "id": "way/1303144249",
+        "element_id": 1303144249,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.657982",
+        "url": "https://www.openstreetmap.org/way/1303144249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51035705,
+          -22.76541235
+        ]
+      },
+      "properties": {
+        "id": "way/1303144250",
+        "element_id": 1303144250,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.657982",
+        "url": "https://www.openstreetmap.org/way/1303144250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51035705,
+          -22.76541235
+        ]
+      },
+      "properties": {
+        "id": "way/1303144250",
+        "element_id": 1303144250,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.657982",
+        "url": "https://www.openstreetmap.org/way/1303144250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510363700000003,
+          -22.76544375
+        ]
+      },
+      "properties": {
+        "id": "way/1303144251",
+        "element_id": 1303144251,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.657982",
+        "url": "https://www.openstreetmap.org/way/1303144251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510363700000003,
+          -22.76544375
+        ]
+      },
+      "properties": {
+        "id": "way/1303144251",
+        "element_id": 1303144251,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.657982",
+        "url": "https://www.openstreetmap.org/way/1303144251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510522961988304,
+          -22.76550738479532
+        ]
+      },
+      "properties": {
+        "id": "way/1303144252",
+        "element_id": 1303144252,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.658982",
+        "url": "https://www.openstreetmap.org/way/1303144252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510522961988304,
+          -22.76550738479532
+        ]
+      },
+      "properties": {
+        "id": "way/1303144252",
+        "element_id": 1303144252,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.658982",
+        "url": "https://www.openstreetmap.org/way/1303144252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510532250000004,
+          -22.7655372
+        ]
+      },
+      "properties": {
+        "id": "way/1303144253",
+        "element_id": 1303144253,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.658982",
+        "url": "https://www.openstreetmap.org/way/1303144253"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510532250000004,
+          -22.7655372
+        ]
+      },
+      "properties": {
+        "id": "way/1303144253",
+        "element_id": 1303144253,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.658982",
+        "url": "https://www.openstreetmap.org/way/1303144253"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51053995,
+          -22.76556845
+        ]
+      },
+      "properties": {
+        "id": "way/1303144254",
+        "element_id": 1303144254,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.658982",
+        "url": "https://www.openstreetmap.org/way/1303144254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51053995,
+          -22.76556845
+        ]
+      },
+      "properties": {
+        "id": "way/1303144254",
+        "element_id": 1303144254,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.658982",
+        "url": "https://www.openstreetmap.org/way/1303144254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510458649999997,
+          -22.7656185
+        ]
+      },
+      "properties": {
+        "id": "way/1303144255",
+        "element_id": 1303144255,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.658982",
+        "url": "https://www.openstreetmap.org/way/1303144255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510458649999997,
+          -22.7656185
+        ]
+      },
+      "properties": {
+        "id": "way/1303144255",
+        "element_id": 1303144255,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.658982",
+        "url": "https://www.openstreetmap.org/way/1303144255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510467915209404,
+          -22.765647650697076
+        ]
+      },
+      "properties": {
+        "id": "way/1303144256",
+        "element_id": 1303144256,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.658982",
+        "url": "https://www.openstreetmap.org/way/1303144256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510467915209404,
+          -22.765647650697076
+        ]
+      },
+      "properties": {
+        "id": "way/1303144256",
+        "element_id": 1303144256,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.658982",
+        "url": "https://www.openstreetmap.org/way/1303144256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51049725,
+          -22.76511045
+        ]
+      },
+      "properties": {
+        "id": "way/1303144257",
+        "element_id": 1303144257,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.658982",
+        "url": "https://www.openstreetmap.org/way/1303144257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51049725,
+          -22.76511045
+        ]
+      },
+      "properties": {
+        "id": "way/1303144257",
+        "element_id": 1303144257,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.658982",
+        "url": "https://www.openstreetmap.org/way/1303144257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510493010147695,
+          -22.76513956946691
+        ]
+      },
+      "properties": {
+        "id": "way/1303144258",
+        "element_id": 1303144258,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.658982",
+        "url": "https://www.openstreetmap.org/way/1303144258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510493010147695,
+          -22.76513956946691
+        ]
+      },
+      "properties": {
+        "id": "way/1303144258",
+        "element_id": 1303144258,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.658982",
+        "url": "https://www.openstreetmap.org/way/1303144258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510489129586464,
+          -22.765171170443224
+        ]
+      },
+      "properties": {
+        "id": "way/1303144259",
+        "element_id": 1303144259,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.658982",
+        "url": "https://www.openstreetmap.org/way/1303144259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510489129586464,
+          -22.765171170443224
+        ]
+      },
+      "properties": {
+        "id": "way/1303144259",
+        "element_id": 1303144259,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.658982",
+        "url": "https://www.openstreetmap.org/way/1303144259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510484149999996,
+          -22.76520065
+        ]
+      },
+      "properties": {
+        "id": "way/1303144260",
+        "element_id": 1303144260,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.659982",
+        "url": "https://www.openstreetmap.org/way/1303144260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510484149999996,
+          -22.76520065
+        ]
+      },
+      "properties": {
+        "id": "way/1303144260",
+        "element_id": 1303144260,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.659982",
+        "url": "https://www.openstreetmap.org/way/1303144260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510642810147694,
+          -22.765131769466915
+        ]
+      },
+      "properties": {
+        "id": "way/1303144261",
+        "element_id": 1303144261,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.659982",
+        "url": "https://www.openstreetmap.org/way/1303144261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510642810147694,
+          -22.765131769466915
+        ]
+      },
+      "properties": {
+        "id": "way/1303144261",
+        "element_id": 1303144261,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.659982",
+        "url": "https://www.openstreetmap.org/way/1303144261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51063825,
+          -22.765163
+        ]
+      },
+      "properties": {
+        "id": "way/1303144262",
+        "element_id": 1303144262,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.659982",
+        "url": "https://www.openstreetmap.org/way/1303144262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51063825,
+          -22.765163
+        ]
+      },
+      "properties": {
+        "id": "way/1303144262",
+        "element_id": 1303144262,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.659982",
+        "url": "https://www.openstreetmap.org/way/1303144262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510633249999998,
+          -22.765193550000003
+        ]
+      },
+      "properties": {
+        "id": "way/1303144263",
+        "element_id": 1303144263,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.659982",
+        "url": "https://www.openstreetmap.org/way/1303144263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510633249999998,
+          -22.765193550000003
+        ]
+      },
+      "properties": {
+        "id": "way/1303144263",
+        "element_id": 1303144263,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.659982",
+        "url": "https://www.openstreetmap.org/way/1303144263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510628590648377,
+          -22.765222668494857
+        ]
+      },
+      "properties": {
+        "id": "way/1303144264",
+        "element_id": 1303144264,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.659982",
+        "url": "https://www.openstreetmap.org/way/1303144264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510628590648377,
+          -22.765222668494857
+        ]
+      },
+      "properties": {
+        "id": "way/1303144264",
+        "element_id": 1303144264,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.659982",
+        "url": "https://www.openstreetmap.org/way/1303144264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51078305,
+          -22.76518255
+        ]
+      },
+      "properties": {
+        "id": "way/1303144265",
+        "element_id": 1303144265,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.659982",
+        "url": "https://www.openstreetmap.org/way/1303144265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51078305,
+          -22.76518255
+        ]
+      },
+      "properties": {
+        "id": "way/1303144265",
+        "element_id": 1303144265,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.659982",
+        "url": "https://www.openstreetmap.org/way/1303144265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510778410147694,
+          -22.76521306946691
+        ]
+      },
+      "properties": {
+        "id": "way/1303144266",
+        "element_id": 1303144266,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.659982",
+        "url": "https://www.openstreetmap.org/way/1303144266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510778410147694,
+          -22.76521306946691
+        ]
+      },
+      "properties": {
+        "id": "way/1303144266",
+        "element_id": 1303144266,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.659982",
+        "url": "https://www.openstreetmap.org/way/1303144266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510773450000006,
+          -22.76524505
+        ]
+      },
+      "properties": {
+        "id": "way/1303144267",
+        "element_id": 1303144267,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.659982",
+        "url": "https://www.openstreetmap.org/way/1303144267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510773450000006,
+          -22.76524505
+        ]
+      },
+      "properties": {
+        "id": "way/1303144267",
+        "element_id": 1303144267,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.659982",
+        "url": "https://www.openstreetmap.org/way/1303144267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510539589852307,
+          -22.765240530533088
+        ]
+      },
+      "properties": {
+        "id": "way/1303144268",
+        "element_id": 1303144268,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.660982",
+        "url": "https://www.openstreetmap.org/way/1303144268"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510539589852307,
+          -22.765240530533088
+        ]
+      },
+      "properties": {
+        "id": "way/1303144268",
+        "element_id": 1303144268,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.660982",
+        "url": "https://www.openstreetmap.org/way/1303144268"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510535589852303,
+          -22.765270830533083
+        ]
+      },
+      "properties": {
+        "id": "way/1303144269",
+        "element_id": 1303144269,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.660982",
+        "url": "https://www.openstreetmap.org/way/1303144269"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510535589852303,
+          -22.765270830533083
+        ]
+      },
+      "properties": {
+        "id": "way/1303144269",
+        "element_id": 1303144269,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.660982",
+        "url": "https://www.openstreetmap.org/way/1303144269"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510530889852305,
+          -22.76530113053309
+        ]
+      },
+      "properties": {
+        "id": "way/1303144270",
+        "element_id": 1303144270,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.660982",
+        "url": "https://www.openstreetmap.org/way/1303144270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510530889852305,
+          -22.76530113053309
+        ]
+      },
+      "properties": {
+        "id": "way/1303144270",
+        "element_id": 1303144270,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.660982",
+        "url": "https://www.openstreetmap.org/way/1303144270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510683010147698,
+          -22.76526216946692
+        ]
+      },
+      "properties": {
+        "id": "way/1303144271",
+        "element_id": 1303144271,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.660982",
+        "url": "https://www.openstreetmap.org/way/1303144271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.510683010147698,
+          -22.76526216946692
+        ]
+      },
+      "properties": {
+        "id": "way/1303144271",
+        "element_id": 1303144271,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.660982",
+        "url": "https://www.openstreetmap.org/way/1303144271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51067835,
+          -22.7652906
+        ]
+      },
+      "properties": {
+        "id": "way/1303144272",
+        "element_id": 1303144272,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.660982",
+        "url": "https://www.openstreetmap.org/way/1303144272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51067835,
+          -22.7652906
+        ]
+      },
+      "properties": {
+        "id": "way/1303144272",
+        "element_id": 1303144272,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.660982",
+        "url": "https://www.openstreetmap.org/way/1303144272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51067365,
+          -22.7653203
+        ]
+      },
+      "properties": {
+        "id": "way/1303144273",
+        "element_id": 1303144273,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.660982",
+        "url": "https://www.openstreetmap.org/way/1303144273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.51067365,
+          -22.7653203
+        ]
+      },
+      "properties": {
+        "id": "way/1303144273",
+        "element_id": 1303144273,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.660982",
+        "url": "https://www.openstreetmap.org/way/1303144273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.729910788475653,
+          -18.495584273661727
+        ]
+      },
+      "properties": {
+        "id": "way/1307971636",
+        "element_id": 1307971636,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:36.660982",
+        "url": "https://www.openstreetmap.org/way/1307971636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.729910788475653,
+          -18.495584273661727
+        ]
+      },
+      "properties": {
+        "id": "way/1307971636",
+        "element_id": 1307971636,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.660982",
+        "url": "https://www.openstreetmap.org/way/1307971636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.729910788475653,
+          -18.495584273661727
+        ]
+      },
+      "properties": {
+        "id": "way/1307971636",
+        "element_id": 1307971636,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.662982",
+        "url": "https://www.openstreetmap.org/way/1307971636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.900545425980347,
+          -24.875947476283788
+        ]
+      },
+      "properties": {
+        "id": "way/1322586861",
+        "element_id": 1322586861,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.662982",
+        "url": "https://www.openstreetmap.org/way/1322586861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.900545425980347,
+          -24.875947476283788
+        ]
+      },
+      "properties": {
+        "id": "way/1322586861",
+        "element_id": 1322586861,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.662982",
+        "url": "https://www.openstreetmap.org/way/1322586861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.633939869920162,
+          -19.21116447418572
+        ]
+      },
+      "properties": {
+        "id": "way/1324052776",
+        "element_id": 1324052776,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.662982",
+        "url": "https://www.openstreetmap.org/way/1324052776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.414745963804407,
+          -28.381643043466948
+        ]
+      },
+      "properties": {
+        "id": "way/1330168075",
+        "element_id": 1330168075,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.662982",
+        "url": "https://www.openstreetmap.org/way/1330168075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.414745963804407,
+          -28.381643043466948
+        ]
+      },
+      "properties": {
+        "id": "way/1330168075",
+        "element_id": 1330168075,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.662982",
+        "url": "https://www.openstreetmap.org/way/1330168075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.609603841495373,
+          -22.954596350977944
+        ]
+      },
+      "properties": {
+        "id": "way/1346768181",
+        "element_id": 1346768181,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Cleanergy Solutions', 'power': 'plant', 'website': 'https://www.cleanergynamibia.com/'}",
+        "timestamp": "2025-07-07 18:41:36.663982",
+        "url": "https://www.openstreetmap.org/way/1346768181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.855498167041617,
+          -19.74379554588484
+        ]
+      },
+      "properties": {
+        "id": "way/1354922540",
+        "element_id": 1354922540,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.663982",
+        "url": "https://www.openstreetmap.org/way/1354922540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.855498167041617,
+          -19.74379554588484
+        ]
+      },
+      "properties": {
+        "id": "way/1354922540",
+        "element_id": 1354922540,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.663982",
+        "url": "https://www.openstreetmap.org/way/1354922540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.738183386866048,
+          -19.71298291809835
+        ]
+      },
+      "properties": {
+        "id": "way/1354926908",
+        "element_id": 1354926908,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.663982",
+        "url": "https://www.openstreetmap.org/way/1354926908"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.738183386866048,
+          -19.71298291809835
+        ]
+      },
+      "properties": {
+        "id": "way/1354926908",
+        "element_id": 1354926908,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.663982",
+        "url": "https://www.openstreetmap.org/way/1354926908"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.74937126964421,
+          -19.470870648404272
+        ]
+      },
+      "properties": {
+        "id": "way/1381086985",
+        "element_id": 1381086985,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.664983",
+        "url": "https://www.openstreetmap.org/way/1381086985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.74937126964421,
+          -19.470870648404272
+        ]
+      },
+      "properties": {
+        "id": "way/1381086985",
+        "element_id": 1381086985,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.664983",
+        "url": "https://www.openstreetmap.org/way/1381086985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.40097043033122,
+          -19.698955641487156
+        ]
+      },
+      "properties": {
+        "id": "way/1412132577",
+        "element_id": 1412132577,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.664983",
+        "url": "https://www.openstreetmap.org/way/1412132577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.40097043033122,
+          -19.698955641487156
+        ]
+      },
+      "properties": {
+        "id": "way/1412132577",
+        "element_id": 1412132577,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.664983",
+        "url": "https://www.openstreetmap.org/way/1412132577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.400735590717392,
+          -19.700724995480936
+        ]
+      },
+      "properties": {
+        "id": "way/1412132578",
+        "element_id": 1412132578,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:36.664983",
+        "url": "https://www.openstreetmap.org/way/1412132578"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.400735590717392,
+          -19.700724995480936
+        ]
+      },
+      "properties": {
+        "id": "way/1412132578",
+        "element_id": 1412132578,
+        "element_type": "way",
+        "country": "Namibia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:36.664983",
+        "url": "https://www.openstreetmap.org/way/1412132578"
+      }
+    }
+  ]
+}

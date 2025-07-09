@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.759690736524,
+          17.125309432198453
+        ]
+      },
+      "properties": {
+        "id": "way/28070491",
+        "element_id": 28070491,
+        "element_type": "way",
+        "country": "Antigua and Barbuda",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Crabbs Power Plant', 'operator': 'APUA', 'plant:method': 'combustion', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:24.809370",
+        "url": "https://www.openstreetmap.org/way/28070491"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.74093735643158,
+          17.055674976826495
+        ]
+      },
+      "properties": {
+        "id": "way/1009396527",
+        "element_id": 1009396527,
+        "element_type": "way",
+        "country": "Antigua and Barbuda",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:24.810640",
+        "url": "https://www.openstreetmap.org/way/1009396527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.74093735643158,
+          17.055674976826495
+        ]
+      },
+      "properties": {
+        "id": "way/1009396527",
+        "element_id": 1009396527,
+        "element_type": "way",
+        "country": "Antigua and Barbuda",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:24.810640",
+        "url": "https://www.openstreetmap.org/way/1009396527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.75345990835024,
+          17.154590443317673
+        ]
+      },
+      "properties": {
+        "id": "way/1035187314",
+        "element_id": 1035187314,
+        "element_type": "way",
+        "country": "Antigua and Barbuda",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:24.810640",
+        "url": "https://www.openstreetmap.org/way/1035187314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.75345990835024,
+          17.154590443317673
+        ]
+      },
+      "properties": {
+        "id": "way/1035187314",
+        "element_id": 1035187314,
+        "element_type": "way",
+        "country": "Antigua and Barbuda",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:24.810640",
+        "url": "https://www.openstreetmap.org/way/1035187314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.75487092681509,
+          17.15484486819653
+        ]
+      },
+      "properties": {
+        "id": "way/1035187315",
+        "element_id": 1035187315,
+        "element_type": "way",
+        "country": "Antigua and Barbuda",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:24.810640",
+        "url": "https://www.openstreetmap.org/way/1035187315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.75487092681509,
+          17.15484486819653
+        ]
+      },
+      "properties": {
+        "id": "way/1035187315",
+        "element_id": 1035187315,
+        "element_type": "way",
+        "country": "Antigua and Barbuda",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:24.810640",
+        "url": "https://www.openstreetmap.org/way/1035187315"
+      }
+    }
+  ]
+}

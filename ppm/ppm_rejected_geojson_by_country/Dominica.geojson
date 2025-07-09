@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.38536823689519,
+          15.314646773118014
+        ]
+      },
+      "properties": {
+        "id": "way/369612289",
+        "element_id": 369612289,
+        "element_type": "way",
+        "country": "Dominica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:03.012912",
+        "url": "https://www.openstreetmap.org/way/369612289"
+      }
+    }
+  ]
+}

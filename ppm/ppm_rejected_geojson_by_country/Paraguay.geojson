@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.96554955177697,
+          -25.37524883377957
+        ]
+      },
+      "properties": {
+        "id": "way/262420198",
+        "element_id": 262420198,
+        "element_type": "way",
+        "country": "Paraguay",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Represa Yguazú', 'plant:method': 'water-storage', 'plant:source': 'hydro', 'power': 'plant', 'waterway': 'dam', 'wikidata': 'Q5760708'}",
+        "timestamp": "2025-07-07 18:44:01.347927",
+        "url": "https://www.openstreetmap.org/way/262420198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.62269500215721,
+          -25.45991385256937
+        ]
+      },
+      "properties": {
+        "id": "way/262532170",
+        "element_id": 262532170,
+        "element_type": "way",
+        "country": "Paraguay",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:01.349925",
+        "url": "https://www.openstreetmap.org/way/262532170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.026729893662285,
+          -26.886026777273727
+        ]
+      },
+      "properties": {
+        "id": "way/495976917",
+        "element_id": 495976917,
+        "element_type": "way",
+        "country": "Paraguay",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'ANDE Regional Misiones', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:01.349925",
+        "url": "https://www.openstreetmap.org/way/495976917"
+      }
+    }
+  ]
+}

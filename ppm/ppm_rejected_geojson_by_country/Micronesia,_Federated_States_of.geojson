@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.2915061969035,
+          6.836671090420038
+        ]
+      },
+      "properties": {
+        "id": "way/1292782033",
+        "element_id": 1292782033,
+        "element_type": "way",
+        "country": "Micronesia, Federated States of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'industrial': 'KSEL Solar Power Plant', 'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:29:04.413624",
+        "url": "https://www.openstreetmap.org/way/1292782033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.2915061969035,
+          6.836671090420038
+        ]
+      },
+      "properties": {
+        "id": "way/1292782033",
+        "element_id": 1292782033,
+        "element_type": "way",
+        "country": "Micronesia, Federated States of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:29:04.413624",
+        "url": "https://www.openstreetmap.org/way/1292782033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76357159999998,
+          10.031916349999998
+        ]
+      },
+      "properties": {
+        "id": "way/339252974",
+        "element_id": 339252974,
+        "element_type": "way",
+        "country": "Micronesia, Federated States of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:29:04.413624",
+        "url": "https://www.openstreetmap.org/way/339252974"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76357159999998,
+          10.031916349999998
+        ]
+      },
+      "properties": {
+        "id": "way/339252974",
+        "element_id": 339252974,
+        "element_type": "way",
+        "country": "Micronesia, Federated States of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'name': 'YSPSC', 'operator': 'YSPSC', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:29:04.413624",
+        "url": "https://www.openstreetmap.org/way/339252974"
+      }
+    }
+  ]
+}

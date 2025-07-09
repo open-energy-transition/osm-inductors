@@ -1,0 +1,401 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.332898575297396,
+          32.847372019861666
+        ]
+      },
+      "properties": {
+        "id": "way/161963067",
+        "element_id": 161963067,
+        "element_type": "way",
+        "country": "Libya",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'محطة كهرباء شرق طرابلس', 'name:en': 'East Tripoli power station', 'plant:output:electricity': '12 MW', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:28.411442",
+        "url": "https://www.openstreetmap.org/way/161963067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.450834,
+          29.0150687
+        ]
+      },
+      "properties": {
+        "id": "way/169562938",
+        "element_id": 169562938,
+        "element_type": "way",
+        "country": "Libya",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:28.411442",
+        "url": "https://www.openstreetmap.org/way/169562938"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.889779938174131,
+          27.221788170488868
+        ]
+      },
+      "properties": {
+        "id": "way/193765930",
+        "element_id": 193765930,
+        "element_type": "way",
+        "country": "Libya",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:28.412450",
+        "url": "https://www.openstreetmap.org/way/193765930"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.470882068413744,
+          25.94766814278095
+        ]
+      },
+      "properties": {
+        "id": "way/193807018",
+        "element_id": 193807018,
+        "element_type": "way",
+        "country": "Libya",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'تراغن', 'barrier': 'wall', 'landuse': 'industrial', 'name': 'تراغن', 'name:ar': 'تراغن', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:28.412450",
+        "url": "https://www.openstreetmap.org/way/193807018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.29005495,
+          24.121946800000003
+        ]
+      },
+      "properties": {
+        "id": "way/195230726",
+        "element_id": 195230726,
+        "element_type": "way",
+        "country": "Libya",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'combustion', 'plant:source': 'gas;oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:28.412450",
+        "url": "https://www.openstreetmap.org/way/195230726"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.29005495,
+          24.121946800000003
+        ]
+      },
+      "properties": {
+        "id": "way/195230726",
+        "element_id": 195230726,
+        "element_type": "way",
+        "country": "Libya",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'combustion', 'plant:source': 'gas;oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:28.414877",
+        "url": "https://www.openstreetmap.org/way/195230726"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.047328794561654,
+          32.35524347251451
+        ]
+      },
+      "properties": {
+        "id": "way/475585279",
+        "element_id": 475585279,
+        "element_type": "way",
+        "country": "Libya",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'شركة الكهرباء', 'name:ar': 'شركة الكهرباء', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:28.415876",
+        "url": "https://www.openstreetmap.org/way/475585279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.09582509804989,
+          26.909200930314984
+        ]
+      },
+      "properties": {
+        "id": "way/606156227",
+        "element_id": 606156227,
+        "element_type": "way",
+        "country": "Libya",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:28.415876",
+        "url": "https://www.openstreetmap.org/way/606156227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.09582509804989,
+          26.909200930314984
+        ]
+      },
+      "properties": {
+        "id": "way/606156227",
+        "element_id": 606156227,
+        "element_type": "way",
+        "country": "Libya",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:28.415876",
+        "url": "https://www.openstreetmap.org/way/606156227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.09582509804989,
+          26.909200930314984
+        ]
+      },
+      "properties": {
+        "id": "way/606156227",
+        "element_id": 606156227,
+        "element_type": "way",
+        "country": "Libya",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:28.417876",
+        "url": "https://www.openstreetmap.org/way/606156227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.012740625931077,
+          31.761800788256544
+        ]
+      },
+      "properties": {
+        "id": "way/766225226",
+        "element_id": 766225226,
+        "element_type": "way",
+        "country": "Libya",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:28.417876",
+        "url": "https://www.openstreetmap.org/way/766225226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.60057876782087,
+          27.5875328792501
+        ]
+      },
+      "properties": {
+        "id": "way/875632765",
+        "element_id": 875632765,
+        "element_type": "way",
+        "country": "Libya",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'landuse': 'industrial', 'name': 'محطة كهرباء مشروع النهر الصناعي', 'name:ar': 'محطة كهرباء مشروع النهر الصناعي', 'plant:method': 'combustion', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:28.420876",
+        "url": "https://www.openstreetmap.org/way/875632765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.330417324451385,
+          27.987333995406296
+        ]
+      },
+      "properties": {
+        "id": "way/1132089777",
+        "element_id": 1132089777,
+        "element_type": "way",
+        "country": "Libya",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'combustion', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:28.423875",
+        "url": "https://www.openstreetmap.org/way/1132089777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.330417324451385,
+          27.987333995406296
+        ]
+      },
+      "properties": {
+        "id": "way/1132089777",
+        "element_id": 1132089777,
+        "element_type": "way",
+        "country": "Libya",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'combustion', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:28.423875",
+        "url": "https://www.openstreetmap.org/way/1132089777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.81392247751034,
+          29.463778053314208
+        ]
+      },
+      "properties": {
+        "id": "way/1183741187",
+        "element_id": 1183741187,
+        "element_type": "way",
+        "country": "Libya",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:28.423875",
+        "url": "https://www.openstreetmap.org/way/1183741187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.81392247751034,
+          29.463778053314208
+        ]
+      },
+      "properties": {
+        "id": "way/1183741187",
+        "element_id": 1183741187,
+        "element_type": "way",
+        "country": "Libya",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:28.423875",
+        "url": "https://www.openstreetmap.org/way/1183741187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.51847123240553,
+          28.44953572432061
+        ]
+      },
+      "properties": {
+        "id": "way/1327770378",
+        "element_id": 1327770378,
+        "element_type": "way",
+        "country": "Libya",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:28.423875",
+        "url": "https://www.openstreetmap.org/way/1327770378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.456350485397746,
+          32.73056309837199
+        ]
+      },
+      "properties": {
+        "id": "way/1328110580",
+        "element_id": 1328110580,
+        "element_type": "way",
+        "country": "Libya",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "شركة_الكهرباء",
+        "details": "Source value 'شركة_الكهرباء' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:39:28.423875",
+        "url": "https://www.openstreetmap.org/way/1328110580"
+      }
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.92044785730262,
+          -18.34539975951763
+        ]
+      },
+      "properties": {
+        "id": "way/1028372305",
+        "element_id": 1028372305,
+        "element_type": "way",
+        "country": "Zimbabwe",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:55:46.725355",
+        "url": "https://www.openstreetmap.org/way/1028372305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.19594631501317,
+          -18.058109313582676
+        ]
+      },
+      "properties": {
+        "id": "way/936328655",
+        "element_id": 936328655,
+        "element_type": "way",
+        "country": "Zimbabwe",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:55:46.725355",
+        "url": "https://www.openstreetmap.org/way/936328655"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.84578682500551,
+          -18.437496851165783
+        ]
+      },
+      "properties": {
+        "id": "way/1081693696",
+        "element_id": 1081693696,
+        "element_type": "way",
+        "country": "Zimbabwe",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:55:46.726354",
+        "url": "https://www.openstreetmap.org/way/1081693696"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7198035515085,
+          -18.59684956042947
+        ]
+      },
+      "properties": {
+        "id": "way/1081699037",
+        "element_id": 1081699037,
+        "element_type": "way",
+        "country": "Zimbabwe",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:55:46.726354",
+        "url": "https://www.openstreetmap.org/way/1081699037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8977020200824,
+          -18.130147823048468
+        ]
+      },
+      "properties": {
+        "id": "way/1081722470",
+        "element_id": 1081722470,
+        "element_type": "way",
+        "country": "Zimbabwe",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:55:46.727354",
+        "url": "https://www.openstreetmap.org/way/1081722470"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.82428636700816,
+          -18.937770300420613
+        ]
+      },
+      "properties": {
+        "id": "way/1272744744",
+        "element_id": 1272744744,
+        "element_type": "way",
+        "country": "Zimbabwe",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:46.732507",
+        "url": "https://www.openstreetmap.org/way/1272744744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.204776197668185,
+          -17.43239718858224
+        ]
+      },
+      "properties": {
+        "id": "way/1273585788",
+        "element_id": 1273585788,
+        "element_type": "way",
+        "country": "Zimbabwe",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:46.732507",
+        "url": "https://www.openstreetmap.org/way/1273585788"
+      }
+    }
+  ]
+}

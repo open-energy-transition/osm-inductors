@@ -1,0 +1,423 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.45532709495133,
+          -16.604186454061004
+        ]
+      },
+      "properties": {
+        "id": "way/290863936",
+        "element_id": 290863936,
+        "element_type": "way",
+        "country": "Madagascar",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:50.768196",
+        "url": "https://www.openstreetmap.org/way/290863936"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.45532709495133,
+          -16.604186454061004
+        ]
+      },
+      "properties": {
+        "id": "way/290863936",
+        "element_id": 290863936,
+        "element_type": "way",
+        "country": "Madagascar",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:50.768196",
+        "url": "https://www.openstreetmap.org/way/290863936"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.94711559372951,
+          -18.9263929680552
+        ]
+      },
+      "properties": {
+        "id": "way/308371677",
+        "element_id": 308371677,
+        "element_type": "way",
+        "country": "Madagascar",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:50.768196",
+        "url": "https://www.openstreetmap.org/way/308371677"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.316475768575984,
+          -15.724780761124304
+        ]
+      },
+      "properties": {
+        "id": "way/548119582",
+        "element_id": 548119582,
+        "element_type": "way",
+        "country": "Madagascar",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'CMS Jirama', 'operator': 'JIRAMA', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:50.769192",
+        "url": "https://www.openstreetmap.org/way/548119582"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.87579503768824,
+          -25.006397926699695
+        ]
+      },
+      "properties": {
+        "id": "way/818757868",
+        "element_id": 818757868,
+        "element_type": "way",
+        "country": "Madagascar",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:50.771200",
+        "url": "https://www.openstreetmap.org/way/818757868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.59898556642265,
+          -18.93113128969894
+        ]
+      },
+      "properties": {
+        "id": "way/857377496",
+        "element_id": 857377496,
+        "element_type": "way",
+        "country": "Madagascar",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:50.771200",
+        "url": "https://www.openstreetmap.org/way/857377496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.599758821635525,
+          -18.934893238885312
+        ]
+      },
+      "properties": {
+        "id": "way/857377497",
+        "element_id": 857377497,
+        "element_type": "way",
+        "country": "Madagascar",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:50.772194",
+        "url": "https://www.openstreetmap.org/way/857377497"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.59859109767055,
+          -18.92965269512857
+        ]
+      },
+      "properties": {
+        "id": "way/857377498",
+        "element_id": 857377498,
+        "element_type": "way",
+        "country": "Madagascar",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'combustion', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:50.772194",
+        "url": "https://www.openstreetmap.org/way/857377498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.35972651693548,
+          -18.197986087157087
+        ]
+      },
+      "properties": {
+        "id": "way/1100906539",
+        "element_id": 1100906539,
+        "element_type": "way",
+        "country": "Madagascar",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Ambatovy Nickel power station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:50.773700",
+        "url": "https://www.openstreetmap.org/way/1100906539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.59859109767055,
+          -18.92965269512857
+        ]
+      },
+      "properties": {
+        "id": "way/857377498",
+        "element_id": 857377498,
+        "element_type": "way",
+        "country": "Madagascar",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'combustion', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:50.773700",
+        "url": "https://www.openstreetmap.org/way/857377498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.42184813308785,
+          -15.70328195158942
+        ]
+      },
+      "properties": {
+        "id": "way/1107226095",
+        "element_id": 1107226095,
+        "element_type": "way",
+        "country": "Madagascar",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Green Power', 'plant:method': 'photovoltaic', 'plant:output:electricity': '12 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:50.774706",
+        "url": "https://www.openstreetmap.org/way/1107226095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.78765176556236,
+          -22.8602413824145
+        ]
+      },
+      "properties": {
+        "id": "way/1239497117",
+        "element_id": 1239497117,
+        "element_type": "way",
+        "country": "Madagascar",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:50.774706",
+        "url": "https://www.openstreetmap.org/way/1239497117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.78765176556236,
+          -22.8602413824145
+        ]
+      },
+      "properties": {
+        "id": "way/1239497117",
+        "element_id": 1239497117,
+        "element_type": "way",
+        "country": "Madagascar",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:50.774706",
+        "url": "https://www.openstreetmap.org/way/1239497117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.12408656350062,
+          -24.002483262420355
+        ]
+      },
+      "properties": {
+        "id": "way/1328295550",
+        "element_id": 1328295550,
+        "element_type": "way",
+        "country": "Madagascar",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'NextSource', 'plant:method': 'combustion', 'plant:output:electricity': '3.1MW', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:50.775706",
+        "url": "https://www.openstreetmap.org/way/1328295550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.25920262126871,
+          -18.77975298634084
+        ]
+      },
+      "properties": {
+        "id": "way/1352911376",
+        "element_id": 1352911376,
+        "element_type": "way",
+        "country": "Madagascar",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:50.776707",
+        "url": "https://www.openstreetmap.org/way/1352911376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.25920262126871,
+          -18.77975298634084
+        ]
+      },
+      "properties": {
+        "id": "way/1352911376",
+        "element_id": 1352911376,
+        "element_type": "way",
+        "country": "Madagascar",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:50.777709",
+        "url": "https://www.openstreetmap.org/way/1352911376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.71584978153842,
+          -23.361638128576967
+        ]
+      },
+      "properties": {
+        "id": "way/1380280133",
+        "element_id": 1380280133,
+        "element_type": "way",
+        "country": "Madagascar",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'note': 'foldable PV panel', 'operator': 'Jirama', 'operator:wikidata': 'Q17092876', 'plant:method': 'photovoltaic', 'plant:output:electricity': '2.9 MW', 'plant:source': 'solar', 'power': 'plant', 'source:plant': 'https://lexpress.mg/21/08/2023/energie-a-toliara-les-panneaux-solaires-pliables-presentes/'}",
+        "timestamp": "2025-07-07 18:39:50.778709",
+        "url": "https://www.openstreetmap.org/way/1380280133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.71583216677083,
+          -23.36409291112215
+        ]
+      },
+      "properties": {
+        "id": "way/1380284278",
+        "element_id": 1380284278,
+        "element_type": "way",
+        "country": "Madagascar",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Centrale thermique JIRAMA', 'operator': 'Jirama', 'operator:wikidata': 'Q17092876', 'plant:method': 'combustion', 'plant:output:electricity': '9 MW', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:50.778709",
+        "url": "https://www.openstreetmap.org/way/1380284278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.31637741246018,
+          -20.275853340091004
+        ]
+      },
+      "properties": {
+        "id": "way/1380286586",
+        "element_id": 1380286586,
+        "element_type": "way",
+        "country": "Madagascar",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': '1.4 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:50.778709",
+        "url": "https://www.openstreetmap.org/way/1380286586"
+      }
+    }
+  ]
+}

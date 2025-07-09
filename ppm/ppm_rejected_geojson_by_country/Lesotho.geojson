@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.03969265887076,
+          -29.827613484421803
+        ]
+      },
+      "properties": {
+        "id": "way/320276380",
+        "element_id": 320276380,
+        "element_type": "way",
+        "country": "Lesotho",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "small_installation",
+        "details": "Tag 'plant:output:electricity' has value 'small_installation' which could not be parsed",
+        "timestamp": "2025-07-07 18:39:17.638669",
+        "url": "https://www.openstreetmap.org/way/320276380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.593461377559308,
+          -28.964128284110163
+        ]
+      },
+      "properties": {
+        "id": "way/1395395969",
+        "element_id": 1395395969,
+        "element_type": "way",
+        "country": "Lesotho",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "small_installation",
+        "details": "Tag 'plant:output:electricity' has value 'small_installation' which could not be parsed",
+        "timestamp": "2025-07-07 18:39:17.641060",
+        "url": "https://www.openstreetmap.org/way/1395395969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.890424937275032,
+          -29.24167674585189
+        ]
+      },
+      "properties": {
+        "id": "way/759476803",
+        "element_id": 759476803,
+        "element_type": "way",
+        "country": "Lesotho",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "small_installation",
+        "details": "Tag 'plant:output:electricity' has value 'small_installation' which could not be parsed",
+        "timestamp": "2025-07-07 18:39:17.641060",
+        "url": "https://www.openstreetmap.org/way/759476803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.590088114873595,
+          -29.179740488312937
+        ]
+      },
+      "properties": {
+        "id": "way/1395412945",
+        "element_id": 1395412945,
+        "element_type": "way",
+        "country": "Lesotho",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "small_installation",
+        "details": "Tag 'plant:output:electricity' has value 'small_installation' which could not be parsed",
+        "timestamp": "2025-07-07 18:39:17.642061",
+        "url": "https://www.openstreetmap.org/way/1395412945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.256512646879028,
+          -29.593110352906937
+        ]
+      },
+      "properties": {
+        "id": "way/1408857170",
+        "element_id": 1408857170,
+        "element_type": "way",
+        "country": "Lesotho",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "small_installation",
+        "details": "Tag 'plant:output:electricity' has value 'small_installation' which could not be parsed",
+        "timestamp": "2025-07-07 18:39:17.642061",
+        "url": "https://www.openstreetmap.org/way/1408857170"
+      }
+    }
+  ]
+}

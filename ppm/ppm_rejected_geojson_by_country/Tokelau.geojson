@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.85250118322546,
+          -9.196764616702993
+        ]
+      },
+      "properties": {
+        "id": "way/549285061",
+        "element_id": 549285061,
+        "element_type": "way",
+        "country": "Tokelau",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:51:14.685562",
+        "url": "https://www.openstreetmap.org/way/549285061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.51895257192206,
+          -8.534607616262985
+        ]
+      },
+      "properties": {
+        "id": "way/843572026",
+        "element_id": 843572026,
+        "element_type": "way",
+        "country": "Tokelau",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:14.685562",
+        "url": "https://www.openstreetmap.org/way/843572026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.51861410000004,
+          -8.534738500000001
+        ]
+      },
+      "properties": {
+        "id": "way/1227454305",
+        "element_id": 1227454305,
+        "element_type": "way",
+        "country": "Tokelau",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:51:14.686574",
+        "url": "https://www.openstreetmap.org/way/1227454305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.51895257192206,
+          -8.534607616262985
+        ]
+      },
+      "properties": {
+        "id": "way/843572026",
+        "element_id": 843572026,
+        "element_type": "way",
+        "country": "Tokelau",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:51:14.686574",
+        "url": "https://www.openstreetmap.org/way/843572026"
+      }
+    }
+  ]
+}

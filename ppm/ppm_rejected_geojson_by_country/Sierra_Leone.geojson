@@ -1,0 +1,357 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.7236468,
+          9.069491449999996
+        ]
+      },
+      "properties": {
+        "id": "way/220847614",
+        "element_id": 220847614,
+        "element_type": "way",
+        "country": "Sierra Leone",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:21.363275",
+        "url": "https://www.openstreetmap.org/way/220847614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.521513053552145,
+          7.523803763293862
+        ]
+      },
+      "properties": {
+        "id": "way/732635913",
+        "element_id": 732635913,
+        "element_type": "way",
+        "country": "Sierra Leone",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:21.363275",
+        "url": "https://www.openstreetmap.org/way/732635913"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.141617602664857,
+          7.948090150438983
+        ]
+      },
+      "properties": {
+        "id": "way/1059802559",
+        "element_id": 1059802559,
+        "element_type": "way",
+        "country": "Sierra Leone",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:21.364279",
+        "url": "https://www.openstreetmap.org/way/1059802559"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.242889480547635,
+          8.467947095649
+        ]
+      },
+      "properties": {
+        "id": "way/1177585045",
+        "element_id": 1177585045,
+        "element_type": "way",
+        "country": "Sierra Leone",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:21.364279",
+        "url": "https://www.openstreetmap.org/way/1177585045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.835860870106554,
+          8.75093996458732
+        ]
+      },
+      "properties": {
+        "id": "way/965603216",
+        "element_id": 965603216,
+        "element_type": "way",
+        "country": "Sierra Leone",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:21.364279",
+        "url": "https://www.openstreetmap.org/way/965603216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.835860870106554,
+          8.75093996458732
+        ]
+      },
+      "properties": {
+        "id": "way/965603216",
+        "element_id": 965603216,
+        "element_type": "way",
+        "country": "Sierra Leone",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:21.364279",
+        "url": "https://www.openstreetmap.org/way/965603216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.242889480547635,
+          8.467947095649
+        ]
+      },
+      "properties": {
+        "id": "way/1177585045",
+        "element_id": 1177585045,
+        "element_type": "way",
+        "country": "Sierra Leone",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'MILE 91', 'addr:street': 'Masiaka-Yonibama Highway', 'landuse': 'industrial', 'name': 'CUSL Power House', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:21.366279",
+        "url": "https://www.openstreetmap.org/way/1177585045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.243133180126703,
+          8.467956267043373
+        ]
+      },
+      "properties": {
+        "id": "way/1254968571",
+        "element_id": 1254968571,
+        "element_type": "way",
+        "country": "Sierra Leone",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:21.366279",
+        "url": "https://www.openstreetmap.org/way/1254968571"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.929554199023842,
+          8.645196480438907
+        ]
+      },
+      "properties": {
+        "id": "way/1284377819",
+        "element_id": 1284377819,
+        "element_type": "way",
+        "country": "Sierra Leone",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:21.367279",
+        "url": "https://www.openstreetmap.org/way/1284377819"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.929554199023842,
+          8.645196480438907
+        ]
+      },
+      "properties": {
+        "id": "way/1284377819",
+        "element_id": 1284377819,
+        "element_type": "way",
+        "country": "Sierra Leone",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:21.367279",
+        "url": "https://www.openstreetmap.org/way/1284377819"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.070945796258972,
+          8.112724825918463
+        ]
+      },
+      "properties": {
+        "id": "way/1292603644",
+        "element_id": 1292603644,
+        "element_type": "way",
+        "country": "Sierra Leone",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:21.368279",
+        "url": "https://www.openstreetmap.org/way/1292603644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.912463649556477,
+          9.123696156197193
+        ]
+      },
+      "properties": {
+        "id": "way/1292614886",
+        "element_id": 1292614886,
+        "element_type": "way",
+        "country": "Sierra Leone",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:21.368279",
+        "url": "https://www.openstreetmap.org/way/1292614886"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.960951374411795,
+          8.628080889237756
+        ]
+      },
+      "properties": {
+        "id": "way/1292697645",
+        "element_id": 1292697645,
+        "element_type": "way",
+        "country": "Sierra Leone",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:21.368279",
+        "url": "https://www.openstreetmap.org/way/1292697645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.244154922464611,
+          8.493786518256783
+        ]
+      },
+      "properties": {
+        "id": "way/1308064002",
+        "element_id": 1308064002,
+        "element_type": "way",
+        "country": "Sierra Leone",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'ship', 'name:en': 'Powership Doğan Bey power barge station', 'plant:output:electricity': '65 MW', 'power': 'plant', 'website': 'https://karpowership.com/project-sierra-leone', 'wikipedia': 'en:MV Karadeniz Powership Doğan Bey'}",
+        "timestamp": "2025-07-07 18:47:21.369279",
+        "url": "https://www.openstreetmap.org/way/1308064002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.306183511062832,
+          8.470490631970863
+        ]
+      },
+      "properties": {
+        "id": "way/1322495616",
+        "element_id": 1322495616,
+        "element_type": "way",
+        "country": "Sierra Leone",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:21.369279",
+        "url": "https://www.openstreetmap.org/way/1322495616"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.306183511062832,
+          8.470490631970863
+        ]
+      },
+      "properties": {
+        "id": "way/1322495616",
+        "element_id": 1322495616,
+        "element_type": "way",
+        "country": "Sierra Leone",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:21.369279",
+        "url": "https://www.openstreetmap.org/way/1322495616"
+      }
+    }
+  ]
+}

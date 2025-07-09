@@ -1,0 +1,929 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.64111772000021,
+          37.93034932542102
+        ]
+      },
+      "properties": {
+        "id": "relation/8213439",
+        "element_id": 8213439,
+        "element_type": "relation",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:51:54.911008",
+        "url": "https://www.openstreetmap.org/relation/8213439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.95923924110947,
+          40.032199203379854
+        ]
+      },
+      "properties": {
+        "id": "way/229820322",
+        "element_id": 229820322,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:51:54.914182",
+        "url": "https://www.openstreetmap.org/way/229820322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.85575290328711,
+          39.4306967111409
+        ]
+      },
+      "properties": {
+        "id": "way/246157356",
+        "element_id": 246157356,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:51:54.914182",
+        "url": "https://www.openstreetmap.org/way/246157356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.85575290328711,
+          39.4306967111409
+        ]
+      },
+      "properties": {
+        "id": "way/246157356",
+        "element_id": 246157356,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Seydi Power Plant', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.916183",
+        "url": "https://www.openstreetmap.org/way/246157356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.75612312780348,
+          38.61247685438411
+        ]
+      },
+      "properties": {
+        "id": "way/304371419",
+        "element_id": 304371419,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.917182",
+        "url": "https://www.openstreetmap.org/way/304371419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.75612312780348,
+          38.61247685438411
+        ]
+      },
+      "properties": {
+        "id": "way/304371419",
+        "element_id": 304371419,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.917182",
+        "url": "https://www.openstreetmap.org/way/304371419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.83974102336586,
+          37.50097974600866
+        ]
+      },
+      "properties": {
+        "id": "way/342715077",
+        "element_id": 342715077,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Mary Thermal Power Plant', 'plant:method': 'combustion', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.919182",
+        "url": "https://www.openstreetmap.org/way/342715077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.32304696068043,
+          37.97545610645132
+        ]
+      },
+      "properties": {
+        "id": "way/518999597",
+        "element_id": 518999597,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:51:54.922284",
+        "url": "https://www.openstreetmap.org/way/518999597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.84446509763444,
+          37.499329849370895
+        ]
+      },
+      "properties": {
+        "id": "way/568258868",
+        "element_id": 568258868,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:51:54.922284",
+        "url": "https://www.openstreetmap.org/way/568258868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.997008958091655,
+          40.00746086430288
+        ]
+      },
+      "properties": {
+        "id": "way/585369716",
+        "element_id": 585369716,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Котельная', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.923426",
+        "url": "https://www.openstreetmap.org/way/585369716"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.16917466528787,
+          42.32587154985234
+        ]
+      },
+      "properties": {
+        "id": "way/680987483",
+        "element_id": 680987483,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Koneurgench', 'addr:street': 'Azatlyk köçesi', 'landuse': 'industrial', 'name': 'Köneürgenç şäher Elekrtoseti', 'name:en': 'Electricity Grid', 'name:ru': 'Электросеть города Куня-Ургенч', 'power': 'plant', 'substation': 'yes'}",
+        "timestamp": "2025-07-07 18:51:54.923426",
+        "url": "https://www.openstreetmap.org/way/680987483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.16869472727075,
+          42.32604759577258
+        ]
+      },
+      "properties": {
+        "id": "way/681829053",
+        "element_id": 681829053,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.923426",
+        "url": "https://www.openstreetmap.org/way/681829053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.16869472727075,
+          42.32604759577258
+        ]
+      },
+      "properties": {
+        "id": "way/681829053",
+        "element_id": 681829053,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.923426",
+        "url": "https://www.openstreetmap.org/way/681829053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.15253577537288,
+          42.32021324653985
+        ]
+      },
+      "properties": {
+        "id": "way/682406403",
+        "element_id": 682406403,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.923426",
+        "url": "https://www.openstreetmap.org/way/682406403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.15253577537288,
+          42.32021324653985
+        ]
+      },
+      "properties": {
+        "id": "way/682406403",
+        "element_id": 682406403,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.923426",
+        "url": "https://www.openstreetmap.org/way/682406403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.999049828369095,
+          40.012928999010725
+        ]
+      },
+      "properties": {
+        "id": "way/709983504",
+        "element_id": 709983504,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Котельная', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.924437",
+        "url": "https://www.openstreetmap.org/way/709983504"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.99084582969697,
+          40.01430471409235
+        ]
+      },
+      "properties": {
+        "id": "way/712434058",
+        "element_id": 712434058,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Котельная № 64', 'name:ru': 'Котельная № 64', 'operator': 'ДОК и ТС', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.924437",
+        "url": "https://www.openstreetmap.org/way/712434058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.990523806914425,
+          40.01215555306827
+        ]
+      },
+      "properties": {
+        "id": "way/712434378",
+        "element_id": 712434378,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Котельная № 33', 'operator': 'ДОК и ТС', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.924437",
+        "url": "https://www.openstreetmap.org/way/712434378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.98800250421602,
+          40.00953609162752
+        ]
+      },
+      "properties": {
+        "id": "way/712439075",
+        "element_id": 712439075,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Котельная № 15', 'operator': 'ДОКи ТС', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.924437",
+        "url": "https://www.openstreetmap.org/way/712439075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.585359232534834,
+          39.30600677861296
+        ]
+      },
+      "properties": {
+        "id": "way/741721637",
+        "element_id": 741721637,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.924437",
+        "url": "https://www.openstreetmap.org/way/741721637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.585359232534834,
+          39.30600677861296
+        ]
+      },
+      "properties": {
+        "id": "way/741721637",
+        "element_id": 741721637,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.924437",
+        "url": "https://www.openstreetmap.org/way/741721637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9932098166603,
+          40.01262514964836
+        ]
+      },
+      "properties": {
+        "id": "way/794202756",
+        "element_id": 794202756,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.925436",
+        "url": "https://www.openstreetmap.org/way/794202756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9932098166603,
+          40.01262514964836
+        ]
+      },
+      "properties": {
+        "id": "way/794202756",
+        "element_id": 794202756,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.925436",
+        "url": "https://www.openstreetmap.org/way/794202756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.12651667667307,
+          39.40047950087474
+        ]
+      },
+      "properties": {
+        "id": "way/857462632",
+        "element_id": 857462632,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Hazar', 'addr:postcode': '745030', 'addr:street': '32 Kwartal', 'landuse': 'industrial', 'name': 'Котельная', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.925436",
+        "url": "https://www.openstreetmap.org/way/857462632"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.127145086558976,
+          39.40266362742671
+        ]
+      },
+      "properties": {
+        "id": "way/857616999",
+        "element_id": 857616999,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Hazar', 'landuse': 'industrial', 'name': 'Котельгая', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.925436",
+        "url": "https://www.openstreetmap.org/way/857616999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.13449901029252,
+          39.40529794511973
+        ]
+      },
+      "properties": {
+        "id": "way/857617011",
+        "element_id": 857617011,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Котельная', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.925436",
+        "url": "https://www.openstreetmap.org/way/857617011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.133334294520274,
+          39.403070859720174
+        ]
+      },
+      "properties": {
+        "id": "way/857623424",
+        "element_id": 857623424,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Hazar', 'addr:postcode': '745030', 'landuse': 'industrial', 'name': 'Котельная', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.925436",
+        "url": "https://www.openstreetmap.org/way/857623424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.13181501462329,
+          39.41093552147096
+        ]
+      },
+      "properties": {
+        "id": "way/858166245",
+        "element_id": 858166245,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Hazar', 'addr:street': '30 Квартал', 'landuse': 'industrial', 'name': 'Котельная', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.925436",
+        "url": "https://www.openstreetmap.org/way/858166245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.00296186726321,
+          40.0084683707663
+        ]
+      },
+      "properties": {
+        "id": "way/925198581",
+        "element_id": 925198581,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Turkmenbashy', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.925436",
+        "url": "https://www.openstreetmap.org/way/925198581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.00296186726321,
+          40.0084683707663
+        ]
+      },
+      "properties": {
+        "id": "way/925198581",
+        "element_id": 925198581,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Turkmenbashy', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.925436",
+        "url": "https://www.openstreetmap.org/way/925198581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.99459425000001,
+          40.013255750000006
+        ]
+      },
+      "properties": {
+        "id": "way/925198620",
+        "element_id": 925198620,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.926439",
+        "url": "https://www.openstreetmap.org/way/925198620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.99459425000001,
+          40.013255750000006
+        ]
+      },
+      "properties": {
+        "id": "way/925198620",
+        "element_id": 925198620,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.926439",
+        "url": "https://www.openstreetmap.org/way/925198620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9737490498412,
+          39.99915781831229
+        ]
+      },
+      "properties": {
+        "id": "way/961920556",
+        "element_id": 961920556,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'ДОК и ТС', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.926439",
+        "url": "https://www.openstreetmap.org/way/961920556"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.98413296294818,
+          40.01527303094117
+        ]
+      },
+      "properties": {
+        "id": "way/962148121",
+        "element_id": 962148121,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.926439",
+        "url": "https://www.openstreetmap.org/way/962148121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.98413296294818,
+          40.01527303094117
+        ]
+      },
+      "properties": {
+        "id": "way/962148121",
+        "element_id": 962148121,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.926439",
+        "url": "https://www.openstreetmap.org/way/962148121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.85889673833385,
+          39.98350414381136
+        ]
+      },
+      "properties": {
+        "id": "way/963918488",
+        "element_id": 963918488,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.926439",
+        "url": "https://www.openstreetmap.org/way/963918488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.85889673833385,
+          39.98350414381136
+        ]
+      },
+      "properties": {
+        "id": "way/963918488",
+        "element_id": 963918488,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.926439",
+        "url": "https://www.openstreetmap.org/way/963918488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.858869648644045,
+          39.98350839279848
+        ]
+      },
+      "properties": {
+        "id": "way/963918489",
+        "element_id": 963918489,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.926439",
+        "url": "https://www.openstreetmap.org/way/963918489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.858869648644045,
+          39.98350839279848
+        ]
+      },
+      "properties": {
+        "id": "way/963918489",
+        "element_id": 963918489,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.926439",
+        "url": "https://www.openstreetmap.org/way/963918489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.22040286407669,
+          36.12095227158884
+        ]
+      },
+      "properties": {
+        "id": "way/1071064297",
+        "element_id": 1071064297,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:51:54.927439",
+        "url": "https://www.openstreetmap.org/way/1071064297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.22040286407669,
+          36.12095227158884
+        ]
+      },
+      "properties": {
+        "id": "way/1071064297",
+        "element_id": 1071064297,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:54.927439",
+        "url": "https://www.openstreetmap.org/way/1071064297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.22040286407669,
+          36.12095227158884
+        ]
+      },
+      "properties": {
+        "id": "way/1071064297",
+        "element_id": 1071064297,
+        "element_type": "way",
+        "country": "Turkmenistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:51:54.927439",
+        "url": "https://www.openstreetmap.org/way/1071064297"
+      }
+    }
+  ]
+}

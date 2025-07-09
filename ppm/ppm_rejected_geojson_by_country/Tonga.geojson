@@ -1,0 +1,247 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.03498463832156,
+          -21.15345614768398
+        ]
+      },
+      "properties": {
+        "id": "relation/15464020",
+        "element_id": 15464020,
+        "element_type": "relation",
+        "country": "Tonga",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Manumataongo Wind Farm', 'plant:source': 'wind', 'power': 'plant', 'site': 'wind_farm', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:51:18.613802",
+        "url": "https://www.openstreetmap.org/relation/15464020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.21041487984692,
+          -21.142428450976304
+        ]
+      },
+      "properties": {
+        "id": "way/864506946",
+        "element_id": 864506946,
+        "element_type": "way",
+        "country": "Tonga",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:18.617024",
+        "url": "https://www.openstreetmap.org/way/864506946"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.21041487984692,
+          -21.142428450976304
+        ]
+      },
+      "properties": {
+        "id": "way/864506946",
+        "element_id": 864506946,
+        "element_type": "way",
+        "country": "Tonga",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:51:18.617024",
+        "url": "https://www.openstreetmap.org/way/864506946"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174.35038882413951,
+          -19.814586888924865
+        ]
+      },
+      "properties": {
+        "id": "way/1054269013",
+        "element_id": 1054269013,
+        "element_type": "way",
+        "country": "Tonga",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:18.618024",
+        "url": "https://www.openstreetmap.org/way/1054269013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174.35038882413951,
+          -19.814586888924865
+        ]
+      },
+      "properties": {
+        "id": "way/1054269013",
+        "element_id": 1054269013,
+        "element_type": "way",
+        "country": "Tonga",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:51:18.618024",
+        "url": "https://www.openstreetmap.org/way/1054269013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174.28330812317262,
+          -19.67426463040028
+        ]
+      },
+      "properties": {
+        "id": "way/1226003170",
+        "element_id": 1226003170,
+        "element_type": "way",
+        "country": "Tonga",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:18.618024",
+        "url": "https://www.openstreetmap.org/way/1226003170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174.28330812317262,
+          -19.67426463040028
+        ]
+      },
+      "properties": {
+        "id": "way/1226003170",
+        "element_id": 1226003170,
+        "element_type": "way",
+        "country": "Tonga",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:51:18.618024",
+        "url": "https://www.openstreetmap.org/way/1226003170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174.40490183392578,
+          -19.89626962367805
+        ]
+      },
+      "properties": {
+        "id": "way/1241997935",
+        "element_id": 1241997935,
+        "element_type": "way",
+        "country": "Tonga",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:18.618024",
+        "url": "https://www.openstreetmap.org/way/1241997935"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174.40490183392578,
+          -19.89626962367805
+        ]
+      },
+      "properties": {
+        "id": "way/1241997935",
+        "element_id": 1241997935,
+        "element_type": "way",
+        "country": "Tonga",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:51:18.618024",
+        "url": "https://www.openstreetmap.org/way/1241997935"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.21093837682866,
+          -21.142113401871757
+        ]
+      },
+      "properties": {
+        "id": "way/864506948",
+        "element_id": 864506948,
+        "element_type": "way",
+        "country": "Tonga",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:18.618024",
+        "url": "https://www.openstreetmap.org/way/864506948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.21093837682866,
+          -21.142113401871757
+        ]
+      },
+      "properties": {
+        "id": "way/864506948",
+        "element_id": 864506948,
+        "element_type": "way",
+        "country": "Tonga",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:51:18.618024",
+        "url": "https://www.openstreetmap.org/way/864506948"
+      }
+    }
+  ]
+}

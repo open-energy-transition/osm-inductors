@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.314440517087506,
+          -37.06453990270818
+        ]
+      },
+      "properties": {
+        "id": "way/686113767",
+        "element_id": 686113767,
+        "element_type": "way",
+        "country": "Saint Helena, Ascension and Tristan da Cunha",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:31.860855",
+        "url": "https://www.openstreetmap.org/way/686113767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.314440517087506,
+          -37.06453990270818
+        ]
+      },
+      "properties": {
+        "id": "way/686113767",
+        "element_id": 686113767,
+        "element_type": "way",
+        "country": "Saint Helena, Ascension and Tristan da Cunha",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:46:31.860855",
+        "url": "https://www.openstreetmap.org/way/686113767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.72418245493171,
+          -15.92940708013038
+        ]
+      },
+      "properties": {
+        "id": "way/917573233",
+        "element_id": 917573233,
+        "element_type": "way",
+        "country": "Saint Helena, Ascension and Tristan da Cunha",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Rifle Range Solar Farm', 'plant:method': 'photovoltaic', 'plant:output:electricity': '0.5 MW', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2015'}",
+        "timestamp": "2025-07-07 18:46:31.860855",
+        "url": "https://www.openstreetmap.org/way/917573233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.708456085408171,
+          -15.926462547089072
+        ]
+      },
+      "properties": {
+        "id": "way/918459995",
+        "element_id": 918459995,
+        "element_type": "way",
+        "country": "Saint Helena, Ascension and Tristan da Cunha",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:31.860855",
+        "url": "https://www.openstreetmap.org/way/918459995"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.708456085408171,
+          -15.926462547089072
+        ]
+      },
+      "properties": {
+        "id": "way/918459995",
+        "element_id": 918459995,
+        "element_type": "way",
+        "country": "Saint Helena, Ascension and Tristan da Cunha",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:31.860855",
+        "url": "https://www.openstreetmap.org/way/918459995"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.378913014206717,
+          -7.891981267344468
+        ]
+      },
+      "properties": {
+        "id": "way/1289352392",
+        "element_id": 1289352392,
+        "element_type": "way",
+        "country": "Saint Helena, Ascension and Tristan da Cunha",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:46:31.862135",
+        "url": "https://www.openstreetmap.org/way/1289352392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.378913014206717,
+          -7.891981267344468
+        ]
+      },
+      "properties": {
+        "id": "way/1289352392",
+        "element_id": 1289352392,
+        "element_type": "way",
+        "country": "Saint Helena, Ascension and Tristan da Cunha",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:46:31.862135",
+        "url": "https://www.openstreetmap.org/way/1289352392"
+      }
+    }
+  ]
+}

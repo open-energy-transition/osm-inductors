@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.53030875,
+          27.3226092
+        ]
+      },
+      "properties": {
+        "id": "way/188108610",
+        "element_id": 188108610,
+        "element_type": "way",
+        "country": "Bhutan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:33.389077",
+        "url": "https://www.openstreetmap.org/way/188108610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.53030875,
+          27.3226092
+        ]
+      },
+      "properties": {
+        "id": "way/188108610",
+        "element_id": 188108610,
+        "element_type": "way",
+        "country": "Bhutan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:33.389077",
+        "url": "https://www.openstreetmap.org/way/188108610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7004814865023,
+          27.17399405967567
+        ]
+      },
+      "properties": {
+        "id": "way/1067896366",
+        "element_id": 1067896366,
+        "element_type": "way",
+        "country": "Bhutan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:33.390077",
+        "url": "https://www.openstreetmap.org/way/1067896366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7004814865023,
+          27.17399405967567
+        ]
+      },
+      "properties": {
+        "id": "way/1067896366",
+        "element_id": 1067896366,
+        "element_type": "way",
+        "country": "Bhutan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:33.390077",
+        "url": "https://www.openstreetmap.org/way/1067896366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9524310520075,
+          27.31251478396574
+        ]
+      },
+      "properties": {
+        "id": "way/990280735",
+        "element_id": 990280735,
+        "element_type": "way",
+        "country": "Bhutan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:33.390077",
+        "url": "https://www.openstreetmap.org/way/990280735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9524310520075,
+          27.31251478396574
+        ]
+      },
+      "properties": {
+        "id": "way/990280735",
+        "element_id": 990280735,
+        "element_type": "way",
+        "country": "Bhutan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Punatsangchhu-II Hydroelectric Project Dam', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:33.390077",
+        "url": "https://www.openstreetmap.org/way/990280735"
+      }
+    }
+  ]
+}

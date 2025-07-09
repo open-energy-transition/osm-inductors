@@ -1,0 +1,3195 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7173805,
+          27.3076135
+        ]
+      },
+      "properties": {
+        "id": "node/1157406462",
+        "element_id": 1157406462,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.610152",
+        "url": "https://www.openstreetmap.org/node/1157406462"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.70772883725196,
+          27.3094299382068
+        ]
+      },
+      "properties": {
+        "id": "relation/15713256",
+        "element_id": 15713256,
+        "element_type": "relation",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'wind', 'power': 'plant', 'site': 'wind_farm', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:28:22.610152",
+        "url": "https://www.openstreetmap.org/relation/15713256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.70772883725196,
+          27.3094299382068
+        ]
+      },
+      "properties": {
+        "id": "relation/15713256",
+        "element_id": 15713256,
+        "element_type": "relation",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'wind', 'power': 'plant', 'site': 'wind_farm', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:28:22.610152",
+        "url": "https://www.openstreetmap.org/relation/15713256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7173805,
+          27.3076135
+        ]
+      },
+      "properties": {
+        "id": "node/1157406462",
+        "element_id": 1157406462,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.611152",
+        "url": "https://www.openstreetmap.org/node/1157406462"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7028615,
+          27.3145232
+        ]
+      },
+      "properties": {
+        "id": "node/1157406463",
+        "element_id": 1157406463,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.611152",
+        "url": "https://www.openstreetmap.org/node/1157406463"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7168399,
+          27.302583
+        ]
+      },
+      "properties": {
+        "id": "node/1157406457",
+        "element_id": 1157406457,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.612152",
+        "url": "https://www.openstreetmap.org/node/1157406457"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7028615,
+          27.3145232
+        ]
+      },
+      "properties": {
+        "id": "node/1157406463",
+        "element_id": 1157406463,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.612152",
+        "url": "https://www.openstreetmap.org/node/1157406463"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7168399,
+          27.302583
+        ]
+      },
+      "properties": {
+        "id": "node/1157406457",
+        "element_id": 1157406457,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.613324",
+        "url": "https://www.openstreetmap.org/node/1157406457"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7084863,
+          27.3118516
+        ]
+      },
+      "properties": {
+        "id": "node/1157406458",
+        "element_id": 1157406458,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.613324",
+        "url": "https://www.openstreetmap.org/node/1157406458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7084863,
+          27.3118516
+        ]
+      },
+      "properties": {
+        "id": "node/1157406458",
+        "element_id": 1157406458,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.613324",
+        "url": "https://www.openstreetmap.org/node/1157406458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7185082,
+          27.3048773
+        ]
+      },
+      "properties": {
+        "id": "node/1157406459",
+        "element_id": 1157406459,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.613324",
+        "url": "https://www.openstreetmap.org/node/1157406459"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7133953,
+          27.3088062
+        ]
+      },
+      "properties": {
+        "id": "node/1157406454",
+        "element_id": 1157406454,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.614333",
+        "url": "https://www.openstreetmap.org/node/1157406454"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7185082,
+          27.3048773
+        ]
+      },
+      "properties": {
+        "id": "node/1157406459",
+        "element_id": 1157406459,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.614333",
+        "url": "https://www.openstreetmap.org/node/1157406459"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7133953,
+          27.3088062
+        ]
+      },
+      "properties": {
+        "id": "node/1157406454",
+        "element_id": 1157406454,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.615333",
+        "url": "https://www.openstreetmap.org/node/1157406454"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7156545,
+          27.3086323
+        ]
+      },
+      "properties": {
+        "id": "node/1157406455",
+        "element_id": 1157406455,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.615333",
+        "url": "https://www.openstreetmap.org/node/1157406455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7162881,
+          27.3017969
+        ]
+      },
+      "properties": {
+        "id": "node/1157406444",
+        "element_id": 1157406444,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.616336",
+        "url": "https://www.openstreetmap.org/node/1157406444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7162881,
+          27.3017969
+        ]
+      },
+      "properties": {
+        "id": "node/1157406444",
+        "element_id": 1157406444,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.616336",
+        "url": "https://www.openstreetmap.org/node/1157406444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7101384,
+          27.3041783
+        ]
+      },
+      "properties": {
+        "id": "node/1157406446",
+        "element_id": 1157406446,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.616336",
+        "url": "https://www.openstreetmap.org/node/1157406446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7156545,
+          27.3086323
+        ]
+      },
+      "properties": {
+        "id": "node/1157406455",
+        "element_id": 1157406455,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.616336",
+        "url": "https://www.openstreetmap.org/node/1157406455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7101384,
+          27.3041783
+        ]
+      },
+      "properties": {
+        "id": "node/1157406446",
+        "element_id": 1157406446,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.617333",
+        "url": "https://www.openstreetmap.org/node/1157406446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7140302,
+          27.3062905
+        ]
+      },
+      "properties": {
+        "id": "node/1157406447",
+        "element_id": 1157406447,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.617333",
+        "url": "https://www.openstreetmap.org/node/1157406447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7140302,
+          27.3062905
+        ]
+      },
+      "properties": {
+        "id": "node/1157406447",
+        "element_id": 1157406447,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.618359",
+        "url": "https://www.openstreetmap.org/node/1157406447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7105097,
+          27.3099209
+        ]
+      },
+      "properties": {
+        "id": "node/1157406504",
+        "element_id": 1157406504,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.618359",
+        "url": "https://www.openstreetmap.org/node/1157406504"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7122786,
+          27.3072404
+        ]
+      },
+      "properties": {
+        "id": "node/1157406440",
+        "element_id": 1157406440,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.619380",
+        "url": "https://www.openstreetmap.org/node/1157406440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7122786,
+          27.3072404
+        ]
+      },
+      "properties": {
+        "id": "node/1157406440",
+        "element_id": 1157406440,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.619380",
+        "url": "https://www.openstreetmap.org/node/1157406440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7105097,
+          27.3099209
+        ]
+      },
+      "properties": {
+        "id": "node/1157406504",
+        "element_id": 1157406504,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.619380",
+        "url": "https://www.openstreetmap.org/node/1157406504"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7145699,
+          27.307072
+        ]
+      },
+      "properties": {
+        "id": "node/1157406505",
+        "element_id": 1157406505,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.619380",
+        "url": "https://www.openstreetmap.org/node/1157406505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7168572,
+          27.3068674
+        ]
+      },
+      "properties": {
+        "id": "node/1157406441",
+        "element_id": 1157406441,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.620379",
+        "url": "https://www.openstreetmap.org/node/1157406441"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7145699,
+          27.307072
+        ]
+      },
+      "properties": {
+        "id": "node/1157406505",
+        "element_id": 1157406505,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.620379",
+        "url": "https://www.openstreetmap.org/node/1157406505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7168572,
+          27.3068674
+        ]
+      },
+      "properties": {
+        "id": "node/1157406441",
+        "element_id": 1157406441,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.621379",
+        "url": "https://www.openstreetmap.org/node/1157406441"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7022146,
+          27.3139307
+        ]
+      },
+      "properties": {
+        "id": "node/1157406442",
+        "element_id": 1157406442,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.621379",
+        "url": "https://www.openstreetmap.org/node/1157406442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7022146,
+          27.3139307
+        ]
+      },
+      "properties": {
+        "id": "node/1157406442",
+        "element_id": 1157406442,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.622379",
+        "url": "https://www.openstreetmap.org/node/1157406442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7152365,
+          27.3045367
+        ]
+      },
+      "properties": {
+        "id": "node/1157406501",
+        "element_id": 1157406501,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.622379",
+        "url": "https://www.openstreetmap.org/node/1157406501"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7094866,
+          27.3085393
+        ]
+      },
+      "properties": {
+        "id": "node/8391115377",
+        "element_id": 8391115377,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.622379",
+        "url": "https://www.openstreetmap.org/node/8391115377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7094866,
+          27.3085393
+        ]
+      },
+      "properties": {
+        "id": "node/8391115377",
+        "element_id": 8391115377,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.622379",
+        "url": "https://www.openstreetmap.org/node/8391115377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7092715,
+          27.3132746
+        ]
+      },
+      "properties": {
+        "id": "node/1157406437",
+        "element_id": 1157406437,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.623380",
+        "url": "https://www.openstreetmap.org/node/1157406437"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7152365,
+          27.3045367
+        ]
+      },
+      "properties": {
+        "id": "node/1157406501",
+        "element_id": 1157406501,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.623380",
+        "url": "https://www.openstreetmap.org/node/1157406501"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7092715,
+          27.3132746
+        ]
+      },
+      "properties": {
+        "id": "node/1157406437",
+        "element_id": 1157406437,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.624383",
+        "url": "https://www.openstreetmap.org/node/1157406437"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7135917,
+          27.3022253
+        ]
+      },
+      "properties": {
+        "id": "node/1157406438",
+        "element_id": 1157406438,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.624383",
+        "url": "https://www.openstreetmap.org/node/1157406438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7129609,
+          27.3047319
+        ]
+      },
+      "properties": {
+        "id": "node/1157406432",
+        "element_id": 1157406432,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.625380",
+        "url": "https://www.openstreetmap.org/node/1157406432"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7135917,
+          27.3022253
+        ]
+      },
+      "properties": {
+        "id": "node/1157406438",
+        "element_id": 1157406438,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.625380",
+        "url": "https://www.openstreetmap.org/node/1157406438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7163067,
+          27.306086
+        ]
+      },
+      "properties": {
+        "id": "node/1157406496",
+        "element_id": 1157406496,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.625380",
+        "url": "https://www.openstreetmap.org/node/1157406496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7163067,
+          27.306086
+        ]
+      },
+      "properties": {
+        "id": "node/1157406496",
+        "element_id": 1157406496,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.625380",
+        "url": "https://www.openstreetmap.org/node/1157406496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7129609,
+          27.3047319
+        ]
+      },
+      "properties": {
+        "id": "node/1157406432",
+        "element_id": 1157406432,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.626389",
+        "url": "https://www.openstreetmap.org/node/1157406432"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7173678,
+          27.3033945
+        ]
+      },
+      "properties": {
+        "id": "node/1157406433",
+        "element_id": 1157406433,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.626389",
+        "url": "https://www.openstreetmap.org/node/1157406433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7173678,
+          27.3033945
+        ]
+      },
+      "properties": {
+        "id": "node/1157406433",
+        "element_id": 1157406433,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.627389",
+        "url": "https://www.openstreetmap.org/node/1157406433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7015279,
+          27.313356
+        ]
+      },
+      "properties": {
+        "id": "node/1157406498",
+        "element_id": 1157406498,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.627389",
+        "url": "https://www.openstreetmap.org/node/1157406498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7015279,
+          27.313356
+        ]
+      },
+      "properties": {
+        "id": "node/1157406498",
+        "element_id": 1157406498,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.627389",
+        "url": "https://www.openstreetmap.org/node/1157406498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7130714,
+          27.3014556
+        ]
+      },
+      "properties": {
+        "id": "node/1157406492",
+        "element_id": 1157406492,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.628389",
+        "url": "https://www.openstreetmap.org/node/1157406492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7130714,
+          27.3014556
+        ]
+      },
+      "properties": {
+        "id": "node/1157406492",
+        "element_id": 1157406492,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.628389",
+        "url": "https://www.openstreetmap.org/node/1157406492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7117417,
+          27.3064725
+        ]
+      },
+      "properties": {
+        "id": "node/1157406495",
+        "element_id": 1157406495,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.628389",
+        "url": "https://www.openstreetmap.org/node/1157406495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7128517,
+          27.3080446
+        ]
+      },
+      "properties": {
+        "id": "node/1157406431",
+        "element_id": 1157406431,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.629389",
+        "url": "https://www.openstreetmap.org/node/1157406431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7117417,
+          27.3064725
+        ]
+      },
+      "properties": {
+        "id": "node/1157406495",
+        "element_id": 1157406495,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.629389",
+        "url": "https://www.openstreetmap.org/node/1157406495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7128517,
+          27.3080446
+        ]
+      },
+      "properties": {
+        "id": "node/1157406431",
+        "element_id": 1157406431,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.630389",
+        "url": "https://www.openstreetmap.org/node/1157406431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7115676,
+          27.3113402
+        ]
+      },
+      "properties": {
+        "id": "node/1157406489",
+        "element_id": 1157406489,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.630389",
+        "url": "https://www.openstreetmap.org/node/1157406489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7115676,
+          27.3113402
+        ]
+      },
+      "properties": {
+        "id": "node/1157406489",
+        "element_id": 1157406489,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.630389",
+        "url": "https://www.openstreetmap.org/node/1157406489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7118993,
+          27.3031855
+        ]
+      },
+      "properties": {
+        "id": "node/1157406490",
+        "element_id": 1157406490,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.630389",
+        "url": "https://www.openstreetmap.org/node/1157406490"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7002419,
+          27.3123265
+        ]
+      },
+      "properties": {
+        "id": "node/1157406485",
+        "element_id": 1157406485,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.631394",
+        "url": "https://www.openstreetmap.org/node/1157406485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7118993,
+          27.3031855
+        ]
+      },
+      "properties": {
+        "id": "node/1157406490",
+        "element_id": 1157406490,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.631394",
+        "url": "https://www.openstreetmap.org/node/1157406490"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7002419,
+          27.3123265
+        ]
+      },
+      "properties": {
+        "id": "node/1157406485",
+        "element_id": 1157406485,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.632393",
+        "url": "https://www.openstreetmap.org/node/1157406485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7134934,
+          27.3055005
+        ]
+      },
+      "properties": {
+        "id": "node/1157406486",
+        "element_id": 1157406486,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.632393",
+        "url": "https://www.openstreetmap.org/node/1157406486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7134934,
+          27.3055005
+        ]
+      },
+      "properties": {
+        "id": "node/1157406486",
+        "element_id": 1157406486,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.633403",
+        "url": "https://www.openstreetmap.org/node/1157406486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7179031,
+          27.3041389
+        ]
+      },
+      "properties": {
+        "id": "node/1157406487",
+        "element_id": 1157406487,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.633403",
+        "url": "https://www.openstreetmap.org/node/1157406487"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.713911,
+          27.3095743
+        ]
+      },
+      "properties": {
+        "id": "node/1157406476",
+        "element_id": 1157406476,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.634403",
+        "url": "https://www.openstreetmap.org/node/1157406476"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.713911,
+          27.3095743
+        ]
+      },
+      "properties": {
+        "id": "node/1157406476",
+        "element_id": 1157406476,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.634403",
+        "url": "https://www.openstreetmap.org/node/1157406476"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7151084,
+          27.3078416
+        ]
+      },
+      "properties": {
+        "id": "node/1157406477",
+        "element_id": 1157406477,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.634403",
+        "url": "https://www.openstreetmap.org/node/1157406477"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7179031,
+          27.3041389
+        ]
+      },
+      "properties": {
+        "id": "node/1157406487",
+        "element_id": 1157406487,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.634403",
+        "url": "https://www.openstreetmap.org/node/1157406487"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7010122,
+          27.3129277
+        ]
+      },
+      "properties": {
+        "id": "node/1157406472",
+        "element_id": 1157406472,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.635403",
+        "url": "https://www.openstreetmap.org/node/1157406472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7151084,
+          27.3078416
+        ]
+      },
+      "properties": {
+        "id": "node/1157406477",
+        "element_id": 1157406477,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.635403",
+        "url": "https://www.openstreetmap.org/node/1157406477"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7010122,
+          27.3129277
+        ]
+      },
+      "properties": {
+        "id": "node/1157406472",
+        "element_id": 1157406472,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.636403",
+        "url": "https://www.openstreetmap.org/node/1157406472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7189769,
+          27.3056717
+        ]
+      },
+      "properties": {
+        "id": "node/1157406473",
+        "element_id": 1157406473,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.636403",
+        "url": "https://www.openstreetmap.org/node/1157406473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7189769,
+          27.3056717
+        ]
+      },
+      "properties": {
+        "id": "node/1157406473",
+        "element_id": 1157406473,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.637404",
+        "url": "https://www.openstreetmap.org/node/1157406473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.714156,
+          27.3029974
+        ]
+      },
+      "properties": {
+        "id": "node/1157406474",
+        "element_id": 1157406474,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.637404",
+        "url": "https://www.openstreetmap.org/node/1157406474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.714156,
+          27.3029974
+        ]
+      },
+      "properties": {
+        "id": "node/1157406474",
+        "element_id": 1157406474,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.637404",
+        "url": "https://www.openstreetmap.org/node/1157406474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7194548,
+          27.3063719
+        ]
+      },
+      "properties": {
+        "id": "node/2985336262",
+        "element_id": 2985336262,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.637404",
+        "url": "https://www.openstreetmap.org/node/2985336262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7106479,
+          27.3049382
+        ]
+      },
+      "properties": {
+        "id": "node/1157406469",
+        "element_id": 1157406469,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.638403",
+        "url": "https://www.openstreetmap.org/node/1157406469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7194548,
+          27.3063719
+        ]
+      },
+      "properties": {
+        "id": "node/2985336262",
+        "element_id": 2985336262,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.638403",
+        "url": "https://www.openstreetmap.org/node/2985336262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7106479,
+          27.3049382
+        ]
+      },
+      "properties": {
+        "id": "node/1157406469",
+        "element_id": 1157406469,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.639403",
+        "url": "https://www.openstreetmap.org/node/1157406469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7157722,
+          27.3053192
+        ]
+      },
+      "properties": {
+        "id": "node/1157406470",
+        "element_id": 1157406470,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.639403",
+        "url": "https://www.openstreetmap.org/node/1157406470"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7124281,
+          27.3039587
+        ]
+      },
+      "properties": {
+        "id": "node/1157406464",
+        "element_id": 1157406464,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.640403",
+        "url": "https://www.openstreetmap.org/node/1157406464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7124281,
+          27.3039587
+        ]
+      },
+      "properties": {
+        "id": "node/1157406464",
+        "element_id": 1157406464,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.640403",
+        "url": "https://www.openstreetmap.org/node/1157406464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7152188,
+          27.3002747
+        ]
+      },
+      "properties": {
+        "id": "node/1157406466",
+        "element_id": 1157406466,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.640403",
+        "url": "https://www.openstreetmap.org/node/1157406466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7157722,
+          27.3053192
+        ]
+      },
+      "properties": {
+        "id": "node/1157406470",
+        "element_id": 1157406470,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.640403",
+        "url": "https://www.openstreetmap.org/node/1157406470"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7152188,
+          27.3002747
+        ]
+      },
+      "properties": {
+        "id": "node/1157406466",
+        "element_id": 1157406466,
+        "element_type": "node",
+        "country": "Egypt",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '50', 'generator:method': 'wind_turbine', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:28:22.641403",
+        "url": "https://www.openstreetmap.org/node/1157406466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.61243351231482,
+          25.536974508950085
+        ]
+      },
+      "properties": {
+        "id": "way/312139349",
+        "element_id": 312139349,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.665098",
+        "url": "https://www.openstreetmap.org/way/312139349"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.61243351231482,
+          25.536974508950085
+        ]
+      },
+      "properties": {
+        "id": "way/312139349",
+        "element_id": 312139349,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.665098",
+        "url": "https://www.openstreetmap.org/way/312139349"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.19968252382102,
+          27.05752243023936
+        ]
+      },
+      "properties": {
+        "id": "way/561074049",
+        "element_id": 561074049,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.668098",
+        "url": "https://www.openstreetmap.org/way/561074049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.19968252382102,
+          27.05752243023936
+        ]
+      },
+      "properties": {
+        "id": "way/561074049",
+        "element_id": 561074049,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:22.668098",
+        "url": "https://www.openstreetmap.org/way/561074049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.360276344985788,
+          23.98082382141001
+        ]
+      },
+      "properties": {
+        "id": "way/591870157",
+        "element_id": 591870157,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.668098",
+        "url": "https://www.openstreetmap.org/way/591870157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.360276344985788,
+          23.98082382141001
+        ]
+      },
+      "properties": {
+        "id": "way/591870157",
+        "element_id": 591870157,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.668098",
+        "url": "https://www.openstreetmap.org/way/591870157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85602542496581,
+          24.43953085474255
+        ]
+      },
+      "properties": {
+        "id": "way/923817895",
+        "element_id": 923817895,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.672098",
+        "url": "https://www.openstreetmap.org/way/923817895"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85602542496581,
+          24.43953085474255
+        ]
+      },
+      "properties": {
+        "id": "way/923817895",
+        "element_id": 923817895,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:22.672098",
+        "url": "https://www.openstreetmap.org/way/923817895"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.42199919275885,
+          23.98109900181028
+        ]
+      },
+      "properties": {
+        "id": "way/1016187890",
+        "element_id": 1016187890,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.673101",
+        "url": "https://www.openstreetmap.org/way/1016187890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.42199919275885,
+          23.98109900181028
+        ]
+      },
+      "properties": {
+        "id": "way/1016187890",
+        "element_id": 1016187890,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:22.673101",
+        "url": "https://www.openstreetmap.org/way/1016187890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.47787661025408,
+          31.44956333005043
+        ]
+      },
+      "properties": {
+        "id": "way/938809536",
+        "element_id": 938809536,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.673101",
+        "url": "https://www.openstreetmap.org/way/938809536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.47787661025408,
+          31.44956333005043
+        ]
+      },
+      "properties": {
+        "id": "way/938809536",
+        "element_id": 938809536,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:22.673101",
+        "url": "https://www.openstreetmap.org/way/938809536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.555296568050128,
+          27.912694785108734
+        ]
+      },
+      "properties": {
+        "id": "way/998145018",
+        "element_id": 998145018,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.673101",
+        "url": "https://www.openstreetmap.org/way/998145018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.555296568050128,
+          27.912694785108734
+        ]
+      },
+      "properties": {
+        "id": "way/998145018",
+        "element_id": 998145018,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:22.673101",
+        "url": "https://www.openstreetmap.org/way/998145018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.96312369934557,
+          27.046833638531545
+        ]
+      },
+      "properties": {
+        "id": "way/1074623543",
+        "element_id": 1074623543,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.674098",
+        "url": "https://www.openstreetmap.org/way/1074623543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.96312369934557,
+          27.046833638531545
+        ]
+      },
+      "properties": {
+        "id": "way/1074623543",
+        "element_id": 1074623543,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:22.674098",
+        "url": "https://www.openstreetmap.org/way/1074623543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.71758260551751,
+          22.03445800925777
+        ]
+      },
+      "properties": {
+        "id": "way/1076816636",
+        "element_id": 1076816636,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.674098",
+        "url": "https://www.openstreetmap.org/way/1076816636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.71758260551751,
+          22.03445800925777
+        ]
+      },
+      "properties": {
+        "id": "way/1076816636",
+        "element_id": 1076816636,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:22.674098",
+        "url": "https://www.openstreetmap.org/way/1076816636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.76238081572254,
+          31.027886597039984
+        ]
+      },
+      "properties": {
+        "id": "way/1083333286",
+        "element_id": 1083333286,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'EL-AMERYA FTZ', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.674098",
+        "url": "https://www.openstreetmap.org/way/1083333286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.88165039873544,
+          27.06069092886229
+        ]
+      },
+      "properties": {
+        "id": "way/1086604449",
+        "element_id": 1086604449,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.674098",
+        "url": "https://www.openstreetmap.org/way/1086604449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.88165039873544,
+          27.06069092886229
+        ]
+      },
+      "properties": {
+        "id": "way/1086604449",
+        "element_id": 1086604449,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.675098",
+        "url": "https://www.openstreetmap.org/way/1086604449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.422173061037675,
+          24.197575221621054
+        ]
+      },
+      "properties": {
+        "id": "way/1120464768",
+        "element_id": 1120464768,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.675098",
+        "url": "https://www.openstreetmap.org/way/1120464768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.422173061037675,
+          24.197575221621054
+        ]
+      },
+      "properties": {
+        "id": "way/1120464768",
+        "element_id": 1120464768,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:22.675098",
+        "url": "https://www.openstreetmap.org/way/1120464768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.745075577411875,
+          31.469382617024564
+        ]
+      },
+      "properties": {
+        "id": "way/1135303467",
+        "element_id": 1135303467,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Damietta LNG Terminal Power Station', 'power': 'plant', 'source': 'https://www.bloomberg.com/press-releases/2022-11-01/mitsubishi-power-and-egypt-s-damietta-lng-sign-long-term-service'}",
+        "timestamp": "2025-07-07 18:28:22.675098",
+        "url": "https://www.openstreetmap.org/way/1135303467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.84966817343888,
+          31.00224133427693
+        ]
+      },
+      "properties": {
+        "id": "way/1137441731",
+        "element_id": 1137441731,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'El Ameriya Refinery Power Plant', 'power': 'plant', 'source': 'https://www.gem.wiki/El_Ameriya_Refinery_power_station'}",
+        "timestamp": "2025-07-07 18:28:22.675098",
+        "url": "https://www.openstreetmap.org/way/1137441731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.41049528724173,
+          24.236363075043588
+        ]
+      },
+      "properties": {
+        "id": "way/1219331952",
+        "element_id": 1219331952,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:22.676098",
+        "url": "https://www.openstreetmap.org/way/1219331952"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.41049528724173,
+          24.236363075043588
+        ]
+      },
+      "properties": {
+        "id": "way/1219331952",
+        "element_id": 1219331952,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.676098",
+        "url": "https://www.openstreetmap.org/way/1219331952"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.41049528724173,
+          24.236363075043588
+        ]
+      },
+      "properties": {
+        "id": "way/1219331952",
+        "element_id": 1219331952,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.676098",
+        "url": "https://www.openstreetmap.org/way/1219331952"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.74528505,
+          30.2643172
+        ]
+      },
+      "properties": {
+        "id": "way/1219378550",
+        "element_id": 1219378550,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:22.676098",
+        "url": "https://www.openstreetmap.org/way/1219378550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.74528505,
+          30.2643172
+        ]
+      },
+      "properties": {
+        "id": "way/1219378550",
+        "element_id": 1219378550,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.676098",
+        "url": "https://www.openstreetmap.org/way/1219378550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.74528505,
+          30.2643172
+        ]
+      },
+      "properties": {
+        "id": "way/1219378550",
+        "element_id": 1219378550,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.676098",
+        "url": "https://www.openstreetmap.org/way/1219378550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.44624259812809,
+          30.172621348326203
+        ]
+      },
+      "properties": {
+        "id": "way/1219590323",
+        "element_id": 1219590323,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.677098",
+        "url": "https://www.openstreetmap.org/way/1219590323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.44624259812809,
+          30.172621348326203
+        ]
+      },
+      "properties": {
+        "id": "way/1219590323",
+        "element_id": 1219590323,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:22.677098",
+        "url": "https://www.openstreetmap.org/way/1219590323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.00590552198614,
+          29.784531736045768
+        ]
+      },
+      "properties": {
+        "id": "way/1223816667",
+        "element_id": 1223816667,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.677098",
+        "url": "https://www.openstreetmap.org/way/1223816667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.00590552198614,
+          29.784531736045768
+        ]
+      },
+      "properties": {
+        "id": "way/1223816667",
+        "element_id": 1223816667,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:22.677098",
+        "url": "https://www.openstreetmap.org/way/1223816667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78909073433635,
+          25.24701359895783
+        ]
+      },
+      "properties": {
+        "id": "way/1239095167",
+        "element_id": 1239095167,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.677098",
+        "url": "https://www.openstreetmap.org/way/1239095167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78909073433635,
+          25.24701359895783
+        ]
+      },
+      "properties": {
+        "id": "way/1239095167",
+        "element_id": 1239095167,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:22.677098",
+        "url": "https://www.openstreetmap.org/way/1239095167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.91440796027144,
+          30.05926635716629
+        ]
+      },
+      "properties": {
+        "id": "way/1309283633",
+        "element_id": 1309283633,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.677098",
+        "url": "https://www.openstreetmap.org/way/1309283633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.91440796027144,
+          30.05926635716629
+        ]
+      },
+      "properties": {
+        "id": "way/1309283633",
+        "element_id": 1309283633,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.678098",
+        "url": "https://www.openstreetmap.org/way/1309283633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.38625129815051,
+          28.01394282989436
+        ]
+      },
+      "properties": {
+        "id": "way/1327562259",
+        "element_id": 1327562259,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:22.679102",
+        "url": "https://www.openstreetmap.org/way/1327562259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.38625129815051,
+          28.01394282989436
+        ]
+      },
+      "properties": {
+        "id": "way/1327562259",
+        "element_id": 1327562259,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.679102",
+        "url": "https://www.openstreetmap.org/way/1327562259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.38625129815051,
+          28.01394282989436
+        ]
+      },
+      "properties": {
+        "id": "way/1327562259",
+        "element_id": 1327562259,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.679102",
+        "url": "https://www.openstreetmap.org/way/1327562259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.62064117752728,
+          27.41634003474032
+        ]
+      },
+      "properties": {
+        "id": "way/1340113287",
+        "element_id": 1340113287,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.680263",
+        "url": "https://www.openstreetmap.org/way/1340113287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.62064117752728,
+          27.41634003474032
+        ]
+      },
+      "properties": {
+        "id": "way/1340113287",
+        "element_id": 1340113287,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:22.680263",
+        "url": "https://www.openstreetmap.org/way/1340113287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.73746782517497,
+          25.32155824931447
+        ]
+      },
+      "properties": {
+        "id": "way/1340142997",
+        "element_id": 1340142997,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.680263",
+        "url": "https://www.openstreetmap.org/way/1340142997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.73746782517497,
+          25.32155824931447
+        ]
+      },
+      "properties": {
+        "id": "way/1340142997",
+        "element_id": 1340142997,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:22.680263",
+        "url": "https://www.openstreetmap.org/way/1340142997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79101928250298,
+          25.239845234168552
+        ]
+      },
+      "properties": {
+        "id": "way/1340143004",
+        "element_id": 1340143004,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.680263",
+        "url": "https://www.openstreetmap.org/way/1340143004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79101928250298,
+          25.239845234168552
+        ]
+      },
+      "properties": {
+        "id": "way/1340143004",
+        "element_id": 1340143004,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:22.680263",
+        "url": "https://www.openstreetmap.org/way/1340143004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.35876208487446,
+          28.687127768674497
+        ]
+      },
+      "properties": {
+        "id": "way/1341037936",
+        "element_id": 1341037936,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.680263",
+        "url": "https://www.openstreetmap.org/way/1341037936"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.35876208487446,
+          28.687127768674497
+        ]
+      },
+      "properties": {
+        "id": "way/1341037936",
+        "element_id": 1341037936,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:22.680263",
+        "url": "https://www.openstreetmap.org/way/1341037936"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9579386,
+          27.1831913
+        ]
+      },
+      "properties": {
+        "id": "way/1353190423",
+        "element_id": 1353190423,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.680263",
+        "url": "https://www.openstreetmap.org/way/1353190423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9579386,
+          27.1831913
+        ]
+      },
+      "properties": {
+        "id": "way/1353190423",
+        "element_id": 1353190423,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:22.680263",
+        "url": "https://www.openstreetmap.org/way/1353190423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.95889991558964,
+          27.183122774851856
+        ]
+      },
+      "properties": {
+        "id": "way/1353190424",
+        "element_id": 1353190424,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.680263",
+        "url": "https://www.openstreetmap.org/way/1353190424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.95889991558964,
+          27.183122774851856
+        ]
+      },
+      "properties": {
+        "id": "way/1353190424",
+        "element_id": 1353190424,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:22.680263",
+        "url": "https://www.openstreetmap.org/way/1353190424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9587219,
+          27.18325965
+        ]
+      },
+      "properties": {
+        "id": "way/1353190425",
+        "element_id": 1353190425,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.680263",
+        "url": "https://www.openstreetmap.org/way/1353190425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9587219,
+          27.18325965
+        ]
+      },
+      "properties": {
+        "id": "way/1353190425",
+        "element_id": 1353190425,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:22.680263",
+        "url": "https://www.openstreetmap.org/way/1353190425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.97131525818028,
+          26.87586855813462
+        ]
+      },
+      "properties": {
+        "id": "way/1374700136",
+        "element_id": 1374700136,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:22.681260",
+        "url": "https://www.openstreetmap.org/way/1374700136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.97131525818028,
+          26.87586855813462
+        ]
+      },
+      "properties": {
+        "id": "way/1374700136",
+        "element_id": 1374700136,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.681260",
+        "url": "https://www.openstreetmap.org/way/1374700136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.97131525818028,
+          26.87586855813462
+        ]
+      },
+      "properties": {
+        "id": "way/1374700136",
+        "element_id": 1374700136,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.681260",
+        "url": "https://www.openstreetmap.org/way/1374700136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.96113802659185,
+          24.913073166690907
+        ]
+      },
+      "properties": {
+        "id": "way/1393672126",
+        "element_id": 1393672126,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:22.681260",
+        "url": "https://www.openstreetmap.org/way/1393672126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.96113802659185,
+          24.913073166690907
+        ]
+      },
+      "properties": {
+        "id": "way/1393672126",
+        "element_id": 1393672126,
+        "element_type": "way",
+        "country": "Egypt",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:22.681260",
+        "url": "https://www.openstreetmap.org/way/1393672126"
+      }
+    }
+  ]
+}

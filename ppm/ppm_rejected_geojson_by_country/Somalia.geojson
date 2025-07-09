@@ -1,0 +1,665 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.32403033736337,
+          2.1467405396535915
+        ]
+      },
+      "properties": {
+        "id": "relation/12641421",
+        "element_id": 12641421,
+        "element_type": "relation",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:48:01.878614",
+        "url": "https://www.openstreetmap.org/relation/12641421"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.32403033736337,
+          2.1467405396535915
+        ]
+      },
+      "properties": {
+        "id": "relation/12641421",
+        "element_id": 12641421,
+        "element_type": "relation",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:48:01.880616",
+        "url": "https://www.openstreetmap.org/relation/12641421"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3189137196635,
+          2.1073960654711152
+        ]
+      },
+      "properties": {
+        "id": "relation/12699922",
+        "element_id": 12699922,
+        "element_type": "relation",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:48:01.881612",
+        "url": "https://www.openstreetmap.org/relation/12699922"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3189137196635,
+          2.1073960654711152
+        ]
+      },
+      "properties": {
+        "id": "relation/12699922",
+        "element_id": 12699922,
+        "element_type": "relation",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:48:01.881612",
+        "url": "https://www.openstreetmap.org/relation/12699922"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.23535546852013,
+          2.120630238043201
+        ]
+      },
+      "properties": {
+        "id": "relation/12842337",
+        "element_id": 12842337,
+        "element_type": "relation",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:48:01.882612",
+        "url": "https://www.openstreetmap.org/relation/12842337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.23535546852013,
+          2.120630238043201
+        ]
+      },
+      "properties": {
+        "id": "relation/12842337",
+        "element_id": 12842337,
+        "element_type": "relation",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:48:01.882612",
+        "url": "https://www.openstreetmap.org/relation/12842337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.4095043681788,
+          8.955779765062411
+        ]
+      },
+      "properties": {
+        "id": "way/1099005893",
+        "element_id": 1099005893,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Genius Watter', 'plant:method': 'photovoltaic', 'plant:output:desalinated_water': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:48:01.883703",
+        "url": "https://www.openstreetmap.org/way/1099005893"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.175908338584975,
+          11.28218491586266
+        ]
+      },
+      "properties": {
+        "id": "way/928881115",
+        "element_id": 928881115,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Enee', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:48:01.883703",
+        "url": "https://www.openstreetmap.org/way/928881115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.343638623580816,
+          9.61808851444558
+        ]
+      },
+      "properties": {
+        "id": "way/955582285",
+        "element_id": 955582285,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:48:01.883703",
+        "url": "https://www.openstreetmap.org/way/955582285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.343638623580816,
+          9.61808851444558
+        ]
+      },
+      "properties": {
+        "id": "way/955582285",
+        "element_id": 955582285,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:48:01.883703",
+        "url": "https://www.openstreetmap.org/way/955582285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.97205979505781,
+          10.399684670172087
+        ]
+      },
+      "properties": {
+        "id": "way/965745508",
+        "element_id": 965745508,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': '7 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:48:01.883703",
+        "url": "https://www.openstreetmap.org/way/965745508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.4095043681788,
+          8.955779765062411
+        ]
+      },
+      "properties": {
+        "id": "way/1099005893",
+        "element_id": 1099005893,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Genius Watter', 'plant:method': 'photovoltaic', 'plant:output:desalinated_water': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:48:01.885700",
+        "url": "https://www.openstreetmap.org/way/1099005893"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.29249046059914,
+          2.119038486002428
+        ]
+      },
+      "properties": {
+        "id": "way/1144299755",
+        "element_id": 1144299755,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:48:01.885700",
+        "url": "https://www.openstreetmap.org/way/1144299755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.29249046059914,
+          2.119038486002428
+        ]
+      },
+      "properties": {
+        "id": "way/1144299755",
+        "element_id": 1144299755,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:48:01.885700",
+        "url": "https://www.openstreetmap.org/way/1144299755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.17791867204853,
+          11.261113364754468
+        ]
+      },
+      "properties": {
+        "id": "way/1148400143",
+        "element_id": 1148400143,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:48:01.885700",
+        "url": "https://www.openstreetmap.org/way/1148400143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.63693203229083,
+          3.1069630456510198
+        ]
+      },
+      "properties": {
+        "id": "way/1300096998",
+        "element_id": 1300096998,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:48:01.886702",
+        "url": "https://www.openstreetmap.org/way/1300096998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.09209263099622,
+          9.549019357770664
+        ]
+      },
+      "properties": {
+        "id": "way/1300098357",
+        "element_id": 1300098357,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:48:01.886702",
+        "url": "https://www.openstreetmap.org/way/1300098357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.09209263099622,
+          9.549019357770664
+        ]
+      },
+      "properties": {
+        "id": "way/1300098357",
+        "element_id": 1300098357,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:48:01.886702",
+        "url": "https://www.openstreetmap.org/way/1300098357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3168511613726,
+          8.519681036396902
+        ]
+      },
+      "properties": {
+        "id": "way/1300099151",
+        "element_id": 1300099151,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:48:01.886702",
+        "url": "https://www.openstreetmap.org/way/1300099151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.50348437823151,
+          8.398759057631139
+        ]
+      },
+      "properties": {
+        "id": "way/1300100251",
+        "element_id": 1300100251,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:48:01.886702",
+        "url": "https://www.openstreetmap.org/way/1300100251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.50348437823151,
+          8.398759057631139
+        ]
+      },
+      "properties": {
+        "id": "way/1300100251",
+        "element_id": 1300100251,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:48:01.886702",
+        "url": "https://www.openstreetmap.org/way/1300100251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2134392734173,
+          9.953345232110404
+        ]
+      },
+      "properties": {
+        "id": "way/1300101269",
+        "element_id": 1300101269,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:48:01.887769",
+        "url": "https://www.openstreetmap.org/way/1300101269"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2134392734173,
+          9.953345232110404
+        ]
+      },
+      "properties": {
+        "id": "way/1300101269",
+        "element_id": 1300101269,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:48:01.887769",
+        "url": "https://www.openstreetmap.org/way/1300101269"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2164307652088,
+          9.95238859586125
+        ]
+      },
+      "properties": {
+        "id": "way/1300101287",
+        "element_id": 1300101287,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:48:01.887769",
+        "url": "https://www.openstreetmap.org/way/1300101287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2164307652088,
+          9.95238859586125
+        ]
+      },
+      "properties": {
+        "id": "way/1300101287",
+        "element_id": 1300101287,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:48:01.887769",
+        "url": "https://www.openstreetmap.org/way/1300101287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.21977121344928,
+          9.951047792942518
+        ]
+      },
+      "properties": {
+        "id": "way/1300101315",
+        "element_id": 1300101315,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:48:01.887769",
+        "url": "https://www.openstreetmap.org/way/1300101315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.21977121344928,
+          9.951047792942518
+        ]
+      },
+      "properties": {
+        "id": "way/1300101315",
+        "element_id": 1300101315,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:48:01.887769",
+        "url": "https://www.openstreetmap.org/way/1300101315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.32837657073041,
+          10.713203166274424
+        ]
+      },
+      "properties": {
+        "id": "way/1318771262",
+        "element_id": 1318771262,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:48:01.887769",
+        "url": "https://www.openstreetmap.org/way/1318771262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.32837657073041,
+          10.713203166274424
+        ]
+      },
+      "properties": {
+        "id": "way/1318771262",
+        "element_id": 1318771262,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'FV', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:48:01.889766",
+        "url": "https://www.openstreetmap.org/way/1318771262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.55340085707234,
+          9.555696204017798
+        ]
+      },
+      "properties": {
+        "id": "way/1411991478",
+        "element_id": 1411991478,
+        "element_type": "way",
+        "country": "Somalia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:48:01.889766",
+        "url": "https://www.openstreetmap.org/way/1411991478"
+      }
+    }
+  ]
+}

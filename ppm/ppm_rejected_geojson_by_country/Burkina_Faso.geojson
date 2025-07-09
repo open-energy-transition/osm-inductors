@@ -1,0 +1,225 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5460708946914382,
+          11.476902841894084
+        ]
+      },
+      "properties": {
+        "id": "way/241542794",
+        "element_id": 241542794,
+        "element_type": "way",
+        "country": "Burkina Faso",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:24:36.446293",
+        "url": "https://www.openstreetmap.org/way/241542794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7009470735978234,
+          11.082426416616563
+        ]
+      },
+      "properties": {
+        "id": "way/246418073",
+        "element_id": 246418073,
+        "element_type": "way",
+        "country": "Burkina Faso",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:24:36.446293",
+        "url": "https://www.openstreetmap.org/way/246418073"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4224100665297816,
+          12.257449859010055
+        ]
+      },
+      "properties": {
+        "id": "way/441265449",
+        "element_id": 441265449,
+        "element_type": "way",
+        "country": "Burkina Faso",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'name': 'SONABEL', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:36.447631",
+        "url": "https://www.openstreetmap.org/way/441265449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.63635618660482,
+          12.306610627611104
+        ]
+      },
+      "properties": {
+        "id": "way/554263427",
+        "element_id": 554263427,
+        "element_type": "way",
+        "country": "Burkina Faso",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:24:36.447631",
+        "url": "https://www.openstreetmap.org/way/554263427"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5374137063541928,
+          12.35178883822343
+        ]
+      },
+      "properties": {
+        "id": "way/1085068657",
+        "element_id": 1085068657,
+        "element_type": "way",
+        "country": "Burkina Faso",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'waste', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:36.448746",
+        "url": "https://www.openstreetmap.org/way/1085068657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5374137063541928,
+          12.35178883822343
+        ]
+      },
+      "properties": {
+        "id": "way/1085068657",
+        "element_id": 1085068657,
+        "element_type": "way",
+        "country": "Burkina Faso",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:24:36.448746",
+        "url": "https://www.openstreetmap.org/way/1085068657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4114629661067943,
+          11.9888845932739
+        ]
+      },
+      "properties": {
+        "id": "way/1292854531",
+        "element_id": 1292854531,
+        "element_type": "way",
+        "country": "Burkina Faso",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:24:36.449744",
+        "url": "https://www.openstreetmap.org/way/1292854531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.384978784613332,
+          10.375282814599156
+        ]
+      },
+      "properties": {
+        "id": "way/1292854973",
+        "element_id": 1292854973,
+        "element_type": "way",
+        "country": "Burkina Faso",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:24:36.450743",
+        "url": "https://www.openstreetmap.org/way/1292854973"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.599005591657407,
+          12.376855159601751
+        ]
+      },
+      "properties": {
+        "id": "way/1292862984",
+        "element_id": 1292862984,
+        "element_type": "way",
+        "country": "Burkina Faso",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': '7 MW', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:36.450743",
+        "url": "https://www.openstreetmap.org/way/1292862984"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3676039675724247,
+          11.70279201392106
+        ]
+      },
+      "properties": {
+        "id": "way/1348538880",
+        "element_id": 1348538880,
+        "element_type": "way",
+        "country": "Burkina Faso",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'name': 'Centrale solaire de Zano', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:36.450743",
+        "url": "https://www.openstreetmap.org/way/1348538880"
+      }
+    }
+  ]
+}

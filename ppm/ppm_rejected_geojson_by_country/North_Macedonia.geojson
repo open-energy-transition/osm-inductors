@@ -1,0 +1,1083 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.298144038722324,
+          41.95283897958576
+        ]
+      },
+      "properties": {
+        "id": "relation/11907654",
+        "element_id": 11907654,
+        "element_type": "relation",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 13 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:07.273714",
+        "url": "https://www.openstreetmap.org/relation/11907654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.436804113134396,
+          42.01577321323106
+        ]
+      },
+      "properties": {
+        "id": "way/175889735",
+        "element_id": 175889735,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Топлификација', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.274997",
+        "url": "https://www.openstreetmap.org/way/175889735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.95051297313296,
+          42.02100800735774
+        ]
+      },
+      "properties": {
+        "id": "way/240259337",
+        "element_id": 240259337,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:07.276010",
+        "url": "https://www.openstreetmap.org/way/240259337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.39129240450133,
+          42.00088072538417
+        ]
+      },
+      "properties": {
+        "id": "way/344078720",
+        "element_id": 344078720,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'fence_type': 'metal', 'landuse': 'industrial', 'name': 'Топлификација', 'name:en': 'Toplifikacija', 'operator': 'Топлификација АД Скопје', 'operator:en': 'Toplifikacija AD Skopje', 'plant:output:hot_water': 'yes', 'power': 'plant', 'surveillance': 'outdoor', 'surveillance:type': 'camera'}",
+        "timestamp": "2025-07-07 18:43:07.277010",
+        "url": "https://www.openstreetmap.org/way/344078720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8388538716731,
+          41.94856696292361
+        ]
+      },
+      "properties": {
+        "id": "way/500263202",
+        "element_id": 500263202,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:07.277010",
+        "url": "https://www.openstreetmap.org/way/500263202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8388538716731,
+          41.94856696292361
+        ]
+      },
+      "properties": {
+        "id": "way/500263202",
+        "element_id": 500263202,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.277010",
+        "url": "https://www.openstreetmap.org/way/500263202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8388538716731,
+          41.94856696292361
+        ]
+      },
+      "properties": {
+        "id": "way/500263202",
+        "element_id": 500263202,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:07.277010",
+        "url": "https://www.openstreetmap.org/way/500263202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.855088929986103,
+          41.779246736973775
+        ]
+      },
+      "properties": {
+        "id": "way/612664884",
+        "element_id": 612664884,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:07.277010",
+        "url": "https://www.openstreetmap.org/way/612664884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.972029144662372,
+          41.73285936853844
+        ]
+      },
+      "properties": {
+        "id": "way/629289382",
+        "element_id": 629289382,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.278011",
+        "url": "https://www.openstreetmap.org/way/629289382"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.972029144662372,
+          41.73285936853844
+        ]
+      },
+      "properties": {
+        "id": "way/629289382",
+        "element_id": 629289382,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.278011",
+        "url": "https://www.openstreetmap.org/way/629289382"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.232593799573134,
+          41.20751881980622
+        ]
+      },
+      "properties": {
+        "id": "way/838430570",
+        "element_id": 838430570,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:07.278011",
+        "url": "https://www.openstreetmap.org/way/838430570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.434524759074787,
+          41.056888070614185
+        ]
+      },
+      "properties": {
+        "id": "way/879003148",
+        "element_id": 879003148,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.278011",
+        "url": "https://www.openstreetmap.org/way/879003148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.434524759074787,
+          41.056888070614185
+        ]
+      },
+      "properties": {
+        "id": "way/879003148",
+        "element_id": 879003148,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.280024",
+        "url": "https://www.openstreetmap.org/way/879003148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.53908968857507,
+          41.29570257597712
+        ]
+      },
+      "properties": {
+        "id": "way/898153989",
+        "element_id": 898153989,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:07.280024",
+        "url": "https://www.openstreetmap.org/way/898153989"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.722432993937428,
+          41.71605138396145
+        ]
+      },
+      "properties": {
+        "id": "way/909467750",
+        "element_id": 909467750,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:07.280024",
+        "url": "https://www.openstreetmap.org/way/909467750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.57810304765392,
+          41.97108645830749
+        ]
+      },
+      "properties": {
+        "id": "way/909636475",
+        "element_id": 909636475,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:07.281024",
+        "url": "https://www.openstreetmap.org/way/909636475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.22343205,
+          41.37001345
+        ]
+      },
+      "properties": {
+        "id": "way/909636476",
+        "element_id": 909636476,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:07.281024",
+        "url": "https://www.openstreetmap.org/way/909636476"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01068545933124,
+          41.56937965410096
+        ]
+      },
+      "properties": {
+        "id": "way/1133679802",
+        "element_id": 1133679802,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:07.282034",
+        "url": "https://www.openstreetmap.org/way/1133679802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01068545933124,
+          41.56937965410096
+        ]
+      },
+      "properties": {
+        "id": "way/1133679802",
+        "element_id": 1133679802,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': '100 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.282034",
+        "url": "https://www.openstreetmap.org/way/1133679802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.602368849959795,
+          42.01153362735742
+        ]
+      },
+      "properties": {
+        "id": "way/1205273192",
+        "element_id": 1205273192,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.282034",
+        "url": "https://www.openstreetmap.org/way/1205273192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.602368849959795,
+          42.01153362735742
+        ]
+      },
+      "properties": {
+        "id": "way/1205273192",
+        "element_id": 1205273192,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:07.282034",
+        "url": "https://www.openstreetmap.org/way/1205273192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8967409145562,
+          41.38599551133705
+        ]
+      },
+      "properties": {
+        "id": "way/1266637038",
+        "element_id": 1266637038,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:07.282034",
+        "url": "https://www.openstreetmap.org/way/1266637038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8967409145562,
+          41.38599551133705
+        ]
+      },
+      "properties": {
+        "id": "way/1266637038",
+        "element_id": 1266637038,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.282034",
+        "url": "https://www.openstreetmap.org/way/1266637038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.45391128433645,
+          41.99352917390016
+        ]
+      },
+      "properties": {
+        "id": "way/909636477",
+        "element_id": 909636477,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:07.282034",
+        "url": "https://www.openstreetmap.org/way/909636477"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8967409145562,
+          41.38599551133705
+        ]
+      },
+      "properties": {
+        "id": "way/1266637038",
+        "element_id": 1266637038,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.283342",
+        "url": "https://www.openstreetmap.org/way/1266637038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.15404710572895,
+          41.46116589558023
+        ]
+      },
+      "properties": {
+        "id": "way/1311192853",
+        "element_id": 1311192853,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:07.284352",
+        "url": "https://www.openstreetmap.org/way/1311192853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.15404710572895,
+          41.46116589558023
+        ]
+      },
+      "properties": {
+        "id": "way/1311192853",
+        "element_id": 1311192853,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.284352",
+        "url": "https://www.openstreetmap.org/way/1311192853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.15404710572895,
+          41.46116589558023
+        ]
+      },
+      "properties": {
+        "id": "way/1311192853",
+        "element_id": 1311192853,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.285351",
+        "url": "https://www.openstreetmap.org/way/1311192853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.83661788569054,
+          41.292518386387066
+        ]
+      },
+      "properties": {
+        "id": "way/1312592125",
+        "element_id": 1312592125,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.285351",
+        "url": "https://www.openstreetmap.org/way/1312592125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.83661788569054,
+          41.292518386387066
+        ]
+      },
+      "properties": {
+        "id": "way/1312592125",
+        "element_id": 1312592125,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:07.286353",
+        "url": "https://www.openstreetmap.org/way/1312592125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.97630781706071,
+          41.900981148602746
+        ]
+      },
+      "properties": {
+        "id": "way/1327210757",
+        "element_id": 1327210757,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:07.286353",
+        "url": "https://www.openstreetmap.org/way/1327210757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.97630781706071,
+          41.900981148602746
+        ]
+      },
+      "properties": {
+        "id": "way/1327210757",
+        "element_id": 1327210757,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.286353",
+        "url": "https://www.openstreetmap.org/way/1327210757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.97630781706071,
+          41.900981148602746
+        ]
+      },
+      "properties": {
+        "id": "way/1327210757",
+        "element_id": 1327210757,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.287351",
+        "url": "https://www.openstreetmap.org/way/1327210757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.992750680384987,
+          41.88158470578337
+        ]
+      },
+      "properties": {
+        "id": "way/1328391061",
+        "element_id": 1328391061,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.287351",
+        "url": "https://www.openstreetmap.org/way/1328391061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.992750680384987,
+          41.88158470578337
+        ]
+      },
+      "properties": {
+        "id": "way/1328391061",
+        "element_id": 1328391061,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:07.287351",
+        "url": "https://www.openstreetmap.org/way/1328391061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.009380880510456,
+          41.56022881391284
+        ]
+      },
+      "properties": {
+        "id": "way/1333430404",
+        "element_id": 1333430404,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:07.288351",
+        "url": "https://www.openstreetmap.org/way/1333430404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.009380880510456,
+          41.56022881391284
+        ]
+      },
+      "properties": {
+        "id": "way/1333430404",
+        "element_id": 1333430404,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.288351",
+        "url": "https://www.openstreetmap.org/way/1333430404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.009380880510456,
+          41.56022881391284
+        ]
+      },
+      "properties": {
+        "id": "way/1333430404",
+        "element_id": 1333430404,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.289358",
+        "url": "https://www.openstreetmap.org/way/1333430404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.834282002293875,
+          41.72596348764178
+        ]
+      },
+      "properties": {
+        "id": "way/1364774962",
+        "element_id": 1364774962,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.289358",
+        "url": "https://www.openstreetmap.org/way/1364774962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.834282002293875,
+          41.72596348764178
+        ]
+      },
+      "properties": {
+        "id": "way/1364774962",
+        "element_id": 1364774962,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:07.289358",
+        "url": "https://www.openstreetmap.org/way/1364774962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.840608699992224,
+          41.4276006202651
+        ]
+      },
+      "properties": {
+        "id": "way/1366537639",
+        "element_id": 1366537639,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:07.289358",
+        "url": "https://www.openstreetmap.org/way/1366537639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.840608699992224,
+          41.4276006202651
+        ]
+      },
+      "properties": {
+        "id": "way/1366537639",
+        "element_id": 1366537639,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.289358",
+        "url": "https://www.openstreetmap.org/way/1366537639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8375513,
+          41.7708911
+        ]
+      },
+      "properties": {
+        "id": "node/8445865628",
+        "element_id": 8445865628,
+        "element_type": "node",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:07.291359",
+        "url": "https://www.openstreetmap.org/node/8445865628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.840608699992224,
+          41.4276006202651
+        ]
+      },
+      "properties": {
+        "id": "way/1366537639",
+        "element_id": 1366537639,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.291359",
+        "url": "https://www.openstreetmap.org/way/1366537639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.50487439645453,
+          41.28675162032644
+        ]
+      },
+      "properties": {
+        "id": "way/1408497042",
+        "element_id": 1408497042,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:07.291359",
+        "url": "https://www.openstreetmap.org/way/1408497042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.50487439645453,
+          41.28675162032644
+        ]
+      },
+      "properties": {
+        "id": "way/1408497042",
+        "element_id": 1408497042,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:07.291359",
+        "url": "https://www.openstreetmap.org/way/1408497042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.50487439645453,
+          41.28675162032644
+        ]
+      },
+      "properties": {
+        "id": "way/1408497042",
+        "element_id": 1408497042,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:07.291359",
+        "url": "https://www.openstreetmap.org/way/1408497042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.240143580689267,
+          41.36204932123356
+        ]
+      },
+      "properties": {
+        "id": "way/1408710413",
+        "element_id": 1408710413,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:07.291359",
+        "url": "https://www.openstreetmap.org/way/1408710413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.240143580689267,
+          41.36204932123356
+        ]
+      },
+      "properties": {
+        "id": "way/1408710413",
+        "element_id": 1408710413,
+        "element_type": "way",
+        "country": "North Macedonia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:07.291359",
+        "url": "https://www.openstreetmap.org/way/1408710413"
+      }
+    }
+  ]
+}

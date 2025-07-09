@@ -1,0 +1,1765 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.82376155,
+          33.08161485000001
+        ]
+      },
+      "properties": {
+        "id": "relation/10180682",
+        "element_id": 10180682,
+        "element_type": "relation",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:53.523572",
+        "url": "https://www.openstreetmap.org/relation/10180682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.82376155,
+          33.08161485000001
+        ]
+      },
+      "properties": {
+        "id": "relation/10180682",
+        "element_id": 10180682,
+        "element_type": "relation",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:35:53.523572",
+        "url": "https://www.openstreetmap.org/relation/10180682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.82376155,
+          33.08161485000001
+        ]
+      },
+      "properties": {
+        "id": "relation/10180682",
+        "element_id": 10180682,
+        "element_type": "relation",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:35:53.525008",
+        "url": "https://www.openstreetmap.org/relation/10180682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.766037013462096,
+          30.57300503448754
+        ]
+      },
+      "properties": {
+        "id": "relation/15609761",
+        "element_id": 15609761,
+        "element_type": "relation",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Najybia Power Plant', 'power': 'plant', 'source': 'https://www.gem.wiki/Najibiya_power_station', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:35:53.526041",
+        "url": "https://www.openstreetmap.org/relation/15609761"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.26700369629612,
+          32.231835867314174
+        ]
+      },
+      "properties": {
+        "id": "relation/15613566",
+        "element_id": 15613566,
+        "element_type": "relation",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Haydariya (Heydarieh) Power Plants', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:35:53.527040",
+        "url": "https://www.openstreetmap.org/relation/15613566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.30218325501463,
+          30.913790468131804
+        ]
+      },
+      "properties": {
+        "id": "relation/19172513",
+        "element_id": 19172513,
+        "element_type": "relation",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:53.527040",
+        "url": "https://www.openstreetmap.org/relation/19172513"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3802822795748,
+          33.298379748641686
+        ]
+      },
+      "properties": {
+        "id": "way/156112959",
+        "element_id": 156112959,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.528040",
+        "url": "https://www.openstreetmap.org/way/156112959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3802822795748,
+          33.298379748641686
+        ]
+      },
+      "properties": {
+        "id": "way/156112959",
+        "element_id": 156112959,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.528040",
+        "url": "https://www.openstreetmap.org/way/156112959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.81750890000001,
+          36.6281564
+        ]
+      },
+      "properties": {
+        "id": "way/223082230",
+        "element_id": 223082230,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:53.528040",
+        "url": "https://www.openstreetmap.org/way/223082230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.108352392969,
+          36.31988781917492
+        ]
+      },
+      "properties": {
+        "id": "way/223214919",
+        "element_id": 223214919,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Mosul Power Plant', 'operator': 'Ministry of Electricity', 'plant:output:electricity': 'yes', 'power': 'plant', 'source': 'Bing Sat'}",
+        "timestamp": "2025-07-07 18:35:53.529039",
+        "url": "https://www.openstreetmap.org/way/223214919"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.75323771327518,
+          30.676869312525
+        ]
+      },
+      "properties": {
+        "id": "way/308494413",
+        "element_id": 308494413,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:53.531087",
+        "url": "https://www.openstreetmap.org/way/308494413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.70483620278152,
+          35.11142065515429
+        ]
+      },
+      "properties": {
+        "id": "way/309596920",
+        "element_id": 309596920,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:53.531087",
+        "url": "https://www.openstreetmap.org/way/309596920"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8543077,
+          34.19621755
+        ]
+      },
+      "properties": {
+        "id": "way/311556475",
+        "element_id": 311556475,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:53.531087",
+        "url": "https://www.openstreetmap.org/way/311556475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.29836031157359,
+          36.052394696786045
+        ]
+      },
+      "properties": {
+        "id": "way/317075601",
+        "element_id": 317075601,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'Al-Shemal (North) Thermal Power Plant', 'power': 'plant', 'source': 'https://www.ep-entel.com/9-1-31-completion-of-al-shemal-power-plant-construction-iraq/'}",
+        "timestamp": "2025-07-07 18:35:53.531087",
+        "url": "https://www.openstreetmap.org/way/317075601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.403245928445074,
+          34.046868772535966
+        ]
+      },
+      "properties": {
+        "id": "way/362486827",
+        "element_id": 362486827,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.532040",
+        "url": "https://www.openstreetmap.org/way/362486827"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.403245928445074,
+          34.046868772535966
+        ]
+      },
+      "properties": {
+        "id": "way/362486827",
+        "element_id": 362486827,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:53.532040",
+        "url": "https://www.openstreetmap.org/way/362486827"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.29180968767452,
+          31.028843729368027
+        ]
+      },
+      "properties": {
+        "id": "way/446199260",
+        "element_id": 446199260,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'West Qurna-2', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.534041",
+        "url": "https://www.openstreetmap.org/way/446199260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.14100180830146,
+          31.90018658078049
+        ]
+      },
+      "properties": {
+        "id": "way/446604827",
+        "element_id": 446604827,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:53.535040",
+        "url": "https://www.openstreetmap.org/way/446604827"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.14100180830146,
+          31.90018658078049
+        ]
+      },
+      "properties": {
+        "id": "way/446604827",
+        "element_id": 446604827,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'description': 'page 11/29 of source PDF link reports 48x 4.2 MW diesel units', 'landuse': 'industrial', 'name': 'North Amarah Diesel Station', 'plant:source': 'diesel', 'power': 'plant', 'source': 'https://iraqenergy.org/wp/wp-content/uploads/2018/11/Ministry-of-Electricity.pdf?d2dd45&d2dd45'}",
+        "timestamp": "2025-07-07 18:35:53.536048",
+        "url": "https://www.openstreetmap.org/way/446604827"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.127624243305775,
+          32.435492865779935
+        ]
+      },
+      "properties": {
+        "id": "way/459077509",
+        "element_id": 459077509,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "gas;oil;diesel",
+        "details": "Source value 'gas;oil;diesel' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:35:53.536048",
+        "url": "https://www.openstreetmap.org/way/459077509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.32824179551713,
+          34.642685575580494
+        ]
+      },
+      "properties": {
+        "id": "way/608646309",
+        "element_id": 608646309,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.538040",
+        "url": "https://www.openstreetmap.org/way/608646309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.32824179551713,
+          34.642685575580494
+        ]
+      },
+      "properties": {
+        "id": "way/608646309",
+        "element_id": 608646309,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.538040",
+        "url": "https://www.openstreetmap.org/way/608646309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.22710664144503,
+          31.27379515208185
+        ]
+      },
+      "properties": {
+        "id": "way/627516195",
+        "element_id": 627516195,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.538040",
+        "url": "https://www.openstreetmap.org/way/627516195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.22710664144503,
+          31.27379515208185
+        ]
+      },
+      "properties": {
+        "id": "way/627516195",
+        "element_id": 627516195,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.538040",
+        "url": "https://www.openstreetmap.org/way/627516195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.383149030879785,
+          31.975995663757065
+        ]
+      },
+      "properties": {
+        "id": "way/676421535",
+        "element_id": 676421535,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "gas;oil;diesel",
+        "details": "Source value 'gas;oil;diesel' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:35:53.538040",
+        "url": "https://www.openstreetmap.org/way/676421535"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.40442991277848,
+          32.12521310137285
+        ]
+      },
+      "properties": {
+        "id": "way/724013373",
+        "element_id": 724013373,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:53.538040",
+        "url": "https://www.openstreetmap.org/way/724013373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.81980127406637,
+          36.62859943213905
+        ]
+      },
+      "properties": {
+        "id": "way/744350529",
+        "element_id": 744350529,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:53.538040",
+        "url": "https://www.openstreetmap.org/way/744350529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.77565079369754,
+          36.57051959485364
+        ]
+      },
+      "properties": {
+        "id": "way/744350530",
+        "element_id": 744350530,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:53.538040",
+        "url": "https://www.openstreetmap.org/way/744350530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.40929056697105,
+          35.8979173278418
+        ]
+      },
+      "properties": {
+        "id": "way/777543040",
+        "element_id": 777543040,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'کارەبای ماوەت', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.539039",
+        "url": "https://www.openstreetmap.org/way/777543040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.29549880293741,
+          36.41722534742827
+        ]
+      },
+      "properties": {
+        "id": "way/800588041",
+        "element_id": 800588041,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.539039",
+        "url": "https://www.openstreetmap.org/way/800588041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.29549880293741,
+          36.41722534742827
+        ]
+      },
+      "properties": {
+        "id": "way/800588041",
+        "element_id": 800588041,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.539039",
+        "url": "https://www.openstreetmap.org/way/800588041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.31485542933628,
+          36.416520962037694
+        ]
+      },
+      "properties": {
+        "id": "way/847333307",
+        "element_id": 847333307,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'no', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.539039",
+        "url": "https://www.openstreetmap.org/way/847333307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.31485542933628,
+          36.416520962037694
+        ]
+      },
+      "properties": {
+        "id": "way/847333307",
+        "element_id": 847333307,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'no', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.539039",
+        "url": "https://www.openstreetmap.org/way/847333307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.46916797569083,
+          33.35088402803665
+        ]
+      },
+      "properties": {
+        "id": "way/876690927",
+        "element_id": 876690927,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:53.540242",
+        "url": "https://www.openstreetmap.org/way/876690927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.46916797569083,
+          33.35088402803665
+        ]
+      },
+      "properties": {
+        "id": "way/876690927",
+        "element_id": 876690927,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'محطة كهرباء الفارابي', 'name:en': 'Al-Farabi power station', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.541251",
+        "url": "https://www.openstreetmap.org/way/876690927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.973992050797605,
+          31.9946339690852
+        ]
+      },
+      "properties": {
+        "id": "way/906329478",
+        "element_id": 906329478,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'landuse': 'industrial', 'name:en': 'East Al Diwaniyah Diesel Power Plant', 'power': 'plant', 'source': 'https://www.gem.wiki/East_Al_Diwaniyah_Diesel_power_station'}",
+        "timestamp": "2025-07-07 18:35:53.542252",
+        "url": "https://www.openstreetmap.org/way/906329478"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.73472025329733,
+          30.477079220832035
+        ]
+      },
+      "properties": {
+        "id": "way/910562127",
+        "element_id": 910562127,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "1900",
+        "details": "Tag 'plant:output:electricity' has value '1900' which could not be parsed",
+        "timestamp": "2025-07-07 18:35:53.543252",
+        "url": "https://www.openstreetmap.org/way/910562127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.26769034179535,
+          32.23268113042638
+        ]
+      },
+      "properties": {
+        "id": "way/962059926",
+        "element_id": 962059926,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "gas;oil;diesel",
+        "details": "Source value 'gas;oil;diesel' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:35:53.544252",
+        "url": "https://www.openstreetmap.org/way/962059926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.31272300009437,
+          36.41308301222335
+        ]
+      },
+      "properties": {
+        "id": "way/962382735",
+        "element_id": 962382735,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.544252",
+        "url": "https://www.openstreetmap.org/way/962382735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.31272300009437,
+          36.41308301222335
+        ]
+      },
+      "properties": {
+        "id": "way/962382735",
+        "element_id": 962382735,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.544252",
+        "url": "https://www.openstreetmap.org/way/962382735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.31730819935966,
+          36.40670533020236
+        ]
+      },
+      "properties": {
+        "id": "way/962382736",
+        "element_id": 962382736,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.544252",
+        "url": "https://www.openstreetmap.org/way/962382736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.31730819935966,
+          36.40670533020236
+        ]
+      },
+      "properties": {
+        "id": "way/962382736",
+        "element_id": 962382736,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.544252",
+        "url": "https://www.openstreetmap.org/way/962382736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.37916393916368,
+          33.265877625809644
+        ]
+      },
+      "properties": {
+        "id": "way/962809450",
+        "element_id": 962809450,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:53.544252",
+        "url": "https://www.openstreetmap.org/way/962809450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.37916393916368,
+          33.265877625809644
+        ]
+      },
+      "properties": {
+        "id": "way/962809450",
+        "element_id": 962809450,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'محطة كهرباء الجادرية', 'name:ar': 'محطة كهرباء الجادرية', 'name:en': 'Power Station', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.545252",
+        "url": "https://www.openstreetmap.org/way/962809450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.25755318366076,
+          31.697063946376
+        ]
+      },
+      "properties": {
+        "id": "way/965777186",
+        "element_id": 965777186,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:53.545252",
+        "url": "https://www.openstreetmap.org/way/965777186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.25755318366076,
+          31.697063946376
+        ]
+      },
+      "properties": {
+        "id": "way/965777186",
+        "element_id": 965777186,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Al-Kahlaa Power Plant', 'plant:source': 'gas', 'power': 'plant', 'source': 'https://www.iraqoilreport.com/news/halfaya-gas-feeds-kahla-power-plant-10304/'}",
+        "timestamp": "2025-07-07 18:35:53.546251",
+        "url": "https://www.openstreetmap.org/way/965777186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.95262685,
+          35.9538822
+        ]
+      },
+      "properties": {
+        "id": "way/993324991",
+        "element_id": 993324991,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:53.547252",
+        "url": "https://www.openstreetmap.org/way/993324991"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.33313273693615,
+          36.27907701019364
+        ]
+      },
+      "properties": {
+        "id": "way/997210758",
+        "element_id": 997210758,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 13 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:53.547252",
+        "url": "https://www.openstreetmap.org/way/997210758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.92066098894535,
+          33.970814941856226
+        ]
+      },
+      "properties": {
+        "id": "way/1067700333",
+        "element_id": 1067700333,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'دائرة كهرباء', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.548252",
+        "url": "https://www.openstreetmap.org/way/1067700333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.32130324789917,
+          32.542237009826785
+        ]
+      },
+      "properties": {
+        "id": "way/1100724971",
+        "element_id": 1100724971,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "gas;oil;diesel",
+        "details": "Source value 'gas;oil;diesel' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:35:53.548252",
+        "url": "https://www.openstreetmap.org/way/1100724971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.26467239063511,
+          32.22896602154846
+        ]
+      },
+      "properties": {
+        "id": "way/1155091743",
+        "element_id": 1155091743,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': '162 MW Heydarieh Power Plant', 'power': 'plant', 'source': 'https://mapnagroup.com/projects/heidarieh-najaf-power-plant/'}",
+        "timestamp": "2025-07-07 18:35:53.549252",
+        "url": "https://www.openstreetmap.org/way/1155091743"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.90076329531337,
+          32.02976571637602
+        ]
+      },
+      "properties": {
+        "id": "way/1203013910",
+        "element_id": 1203013910,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "202",
+        "details": "Tag 'plant:output:electricity' has value '202' which could not be parsed",
+        "timestamp": "2025-07-07 18:35:53.549252",
+        "url": "https://www.openstreetmap.org/way/1203013910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.528555661623045,
+          33.39966368746249
+        ]
+      },
+      "properties": {
+        "id": "way/1218095815",
+        "element_id": 1218095815,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'محطة كهرباء العماري132', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.549252",
+        "url": "https://www.openstreetmap.org/way/1218095815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.52804900213456,
+          33.399949346445474
+        ]
+      },
+      "properties": {
+        "id": "way/1218095816",
+        "element_id": 1218095816,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'محطة البحيرة', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.549252",
+        "url": "https://www.openstreetmap.org/way/1218095816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.181527190867484,
+          35.83484012380702
+        ]
+      },
+      "properties": {
+        "id": "way/1263593035",
+        "element_id": 1263593035,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.550252",
+        "url": "https://www.openstreetmap.org/way/1263593035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.181527190867484,
+          35.83484012380702
+        ]
+      },
+      "properties": {
+        "id": "way/1263593035",
+        "element_id": 1263593035,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.550252",
+        "url": "https://www.openstreetmap.org/way/1263593035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.62459647876293,
+          34.920156072751766
+        ]
+      },
+      "properties": {
+        "id": "way/1284636176",
+        "element_id": 1284636176,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'کارەبای مەیدان', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.550252",
+        "url": "https://www.openstreetmap.org/way/1284636176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.387289508491136,
+          30.56248001478538
+        ]
+      },
+      "properties": {
+        "id": "way/1286500526",
+        "element_id": 1286500526,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.550252",
+        "url": "https://www.openstreetmap.org/way/1286500526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.387289508491136,
+          30.56248001478538
+        ]
+      },
+      "properties": {
+        "id": "way/1286500526",
+        "element_id": 1286500526,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:53.550252",
+        "url": "https://www.openstreetmap.org/way/1286500526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.09778761836616,
+          32.35637727170503
+        ]
+      },
+      "properties": {
+        "id": "way/1293533848",
+        "element_id": 1293533848,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:53.550252",
+        "url": "https://www.openstreetmap.org/way/1293533848"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.35369260636312,
+          34.64981056254715
+        ]
+      },
+      "properties": {
+        "id": "way/1295026909",
+        "element_id": 1295026909,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Kalar (132kv) Power Station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.550252",
+        "url": "https://www.openstreetmap.org/way/1295026909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.44159486121716,
+          32.50982889200765
+        ]
+      },
+      "properties": {
+        "id": "way/1296482154",
+        "element_id": 1296482154,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.550252",
+        "url": "https://www.openstreetmap.org/way/1296482154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.44159486121716,
+          32.50982889200765
+        ]
+      },
+      "properties": {
+        "id": "way/1296482154",
+        "element_id": 1296482154,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.550252",
+        "url": "https://www.openstreetmap.org/way/1296482154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.06546396198885,
+          31.763691502584507
+        ]
+      },
+      "properties": {
+        "id": "way/1303561585",
+        "element_id": 1303561585,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:53.550252",
+        "url": "https://www.openstreetmap.org/way/1303561585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.06112329079459,
+          32.70482353222822
+        ]
+      },
+      "properties": {
+        "id": "way/1305622927",
+        "element_id": 1305622927,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:53.551252",
+        "url": "https://www.openstreetmap.org/way/1305622927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.06112329079459,
+          32.70482353222822
+        ]
+      },
+      "properties": {
+        "id": "way/1305622927",
+        "element_id": 1305622927,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'محطة انتاج ديزلات كربلاء', 'name:en': 'Karbala diesel production station', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.552252",
+        "url": "https://www.openstreetmap.org/way/1305622927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.418825364460666,
+          32.46838034824599
+        ]
+      },
+      "properties": {
+        "id": "way/1305622938",
+        "element_id": 1305622938,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name:en': 'Old Hilla Power Station', 'plant:output:electricity': '50 MW', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.552252",
+        "url": "https://www.openstreetmap.org/way/1305622938"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.12563025076582,
+          36.86064299983813
+        ]
+      },
+      "properties": {
+        "id": "way/1313877342",
+        "element_id": 1313877342,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.552252",
+        "url": "https://www.openstreetmap.org/way/1313877342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.12563025076582,
+          36.86064299983813
+        ]
+      },
+      "properties": {
+        "id": "way/1313877342",
+        "element_id": 1313877342,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:53.552252",
+        "url": "https://www.openstreetmap.org/way/1313877342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1503877,
+          31.824158
+        ]
+      },
+      "properties": {
+        "id": "node/10074495193",
+        "element_id": 10074495193,
+        "element_type": "node",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'club': 'tourism', 'name': 'دار استراحة M.O.C', 'name:ar': 'دار استراحة M.O.C', 'name:en': 'Rest house of M.O.C', 'operator': 'شركة نفط ميسان', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.553252",
+        "url": "https://www.openstreetmap.org/node/10074495193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.6899901,
+          30.4348191
+        ]
+      },
+      "properties": {
+        "id": "node/4420688389",
+        "element_id": 4420688389,
+        "element_type": "node",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'محطة كهرباء الشعيبة الغازية', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.553252",
+        "url": "https://www.openstreetmap.org/node/4420688389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4605703,
+          36.392779
+        ]
+      },
+      "properties": {
+        "id": "node/4846742928",
+        "element_id": 4846742928,
+        "element_type": "node",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'محطة كهرباء تلعفر', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.553252",
+        "url": "https://www.openstreetmap.org/node/4846742928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4505844,
+          35.0553205
+        ]
+      },
+      "properties": {
+        "id": "node/4868754833",
+        "element_id": 4868754833,
+        "element_type": "node",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'المحطة الغازية', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.553252",
+        "url": "https://www.openstreetmap.org/node/4868754833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3575015,
+          32.9304511
+        ]
+      },
+      "properties": {
+        "id": "node/6255542088",
+        "element_id": 6255542088,
+        "element_type": "node",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'محطة كهرباء المعرفة', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.553252",
+        "url": "https://www.openstreetmap.org/node/6255542088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.619269260887016,
+          34.893716395155266
+        ]
+      },
+      "properties": {
+        "id": "way/1372504410",
+        "element_id": 1372504410,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'محطة كهرباء طوز', 'name:en': 'Duz Power Station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.553252",
+        "url": "https://www.openstreetmap.org/way/1372504410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.443708701105535,
+          30.98459081329724
+        ]
+      },
+      "properties": {
+        "id": "way/1409529642",
+        "element_id": 1409529642,
+        "element_type": "way",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:53.553252",
+        "url": "https://www.openstreetmap.org/way/1409529642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1846091,
+          36.3148521
+        ]
+      },
+      "properties": {
+        "id": "node/10240595829",
+        "element_id": 10240595829,
+        "element_type": "node",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'مولدة', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.554252",
+        "url": "https://www.openstreetmap.org/node/10240595829"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1765074,
+          36.3156237
+        ]
+      },
+      "properties": {
+        "id": "node/10735479158",
+        "element_id": 10735479158,
+        "element_type": "node",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'مولدة الاوائل', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:53.554252",
+        "url": "https://www.openstreetmap.org/node/10735479158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7314698,
+          30.2730338
+        ]
+      },
+      "properties": {
+        "id": "node/10747729385",
+        "element_id": 10747729385,
+        "element_type": "node",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:53.554252",
+        "url": "https://www.openstreetmap.org/node/10747729385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7314698,
+          30.2730338
+        ]
+      },
+      "properties": {
+        "id": "node/10747729385",
+        "element_id": 10747729385,
+        "element_type": "node",
+        "country": "Iraq",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Gaskraftwerk Basra', 'name:ar': 'محطه انتاج الطاقه في غاز البصره', 'name:de': 'Gaskraftwerk Basra', 'plant:source': 'gas', 'power': 'plant', 'start_date': '2015'}",
+        "timestamp": "2025-07-07 18:35:53.555501",
+        "url": "https://www.openstreetmap.org/node/10747729385"
+      }
+    }
+  ]
+}

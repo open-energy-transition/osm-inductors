@@ -1,0 +1,4273 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.29510499958645,
+          36.1578873680914
+        ]
+      },
+      "properties": {
+        "id": "relation/14187059",
+        "element_id": 14187059,
+        "element_type": "relation",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.319180",
+        "url": "https://www.openstreetmap.org/relation/14187059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.30847337243669,
+          38.24150041444065
+        ]
+      },
+      "properties": {
+        "id": "relation/14534922",
+        "element_id": 14534922,
+        "element_type": "relation",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.321180",
+        "url": "https://www.openstreetmap.org/relation/14534922"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.30847337243669,
+          38.24150041444065
+        ]
+      },
+      "properties": {
+        "id": "relation/14534922",
+        "element_id": 14534922,
+        "element_type": "relation",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'اردبیل', 'description': 'مجتمع انبارهای شرکت توزیع نیروی برق استان اردبیل', 'landuse': 'industrial', 'name': 'نیروگاه دیزلی اردبیل', 'operator': 'وزارت نیرو', 'plant:source': 'diesel', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:35:48.322179",
+        "url": "https://www.openstreetmap.org/relation/14534922"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.58358201952983,
+          37.93770386570001
+        ]
+      },
+      "properties": {
+        "id": "relation/15906987",
+        "element_id": 15906987,
+        "element_type": "relation",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:35:48.332190",
+        "url": "https://www.openstreetmap.org/relation/15906987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.58358201952983,
+          37.93770386570001
+        ]
+      },
+      "properties": {
+        "id": "relation/15906987",
+        "element_id": 15906987,
+        "element_type": "relation",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:35:48.332190",
+        "url": "https://www.openstreetmap.org/relation/15906987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.01957284768877,
+          25.88028237123025
+        ]
+      },
+      "properties": {
+        "id": "way/198532325",
+        "element_id": 198532325,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'نیروگاه برق', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.336192",
+        "url": "https://www.openstreetmap.org/way/198532325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.993318913559854,
+          34.962773881604484
+        ]
+      },
+      "properties": {
+        "id": "way/211058310",
+        "element_id": 211058310,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.337192",
+        "url": "https://www.openstreetmap.org/way/211058310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.51442635240709,
+          30.97369731273012
+        ]
+      },
+      "properties": {
+        "id": "way/318668183",
+        "element_id": 318668183,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.343192",
+        "url": "https://www.openstreetmap.org/way/318668183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.51442635240709,
+          30.97369731273012
+        ]
+      },
+      "properties": {
+        "id": "way/318668183",
+        "element_id": 318668183,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'landuse': 'industrial', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.343192",
+        "url": "https://www.openstreetmap.org/way/318668183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.51442635240709,
+          30.97369731273012
+        ]
+      },
+      "properties": {
+        "id": "way/318668183",
+        "element_id": 318668183,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'landuse': 'industrial', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.344183",
+        "url": "https://www.openstreetmap.org/way/318668183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.74078600100952,
+          38.256035205839154
+        ]
+      },
+      "properties": {
+        "id": "way/492722455",
+        "element_id": 492722455,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.349179",
+        "url": "https://www.openstreetmap.org/way/492722455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.67957727551469,
+          34.06916391409748
+        ]
+      },
+      "properties": {
+        "id": "way/519320740",
+        "element_id": 519320740,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'height': '4.3', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.349179",
+        "url": "https://www.openstreetmap.org/way/519320740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.67957727551469,
+          34.06916391409748
+        ]
+      },
+      "properties": {
+        "id": "way/519320740",
+        "element_id": 519320740,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'height': '4.3', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.349179",
+        "url": "https://www.openstreetmap.org/way/519320740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.26223696838582,
+          35.33936879565237
+        ]
+      },
+      "properties": {
+        "id": "way/598265458",
+        "element_id": 598265458,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'پارس ری انرژی بهار', 'operator:en': 'Pars Ray Energy Bahar', 'plant:method': 'photovoltaic', 'plant:output:electricity': '10 MW', 'plant:source': 'solar', 'plant:type': 'solar_photovoltaic_panel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.351179",
+        "url": "https://www.openstreetmap.org/way/598265458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.55218300854389,
+          36.69424273820973
+        ]
+      },
+      "properties": {
+        "id": "way/622575854",
+        "element_id": 622575854,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.352179",
+        "url": "https://www.openstreetmap.org/way/622575854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.85988489883951,
+          36.809323521200845
+        ]
+      },
+      "properties": {
+        "id": "way/685236308",
+        "element_id": 685236308,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.353179",
+        "url": "https://www.openstreetmap.org/way/685236308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.28004434026924,
+          38.259405914467
+        ]
+      },
+      "properties": {
+        "id": "way/688819591",
+        "element_id": 688819591,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'بالاترازمیدان مادر', 'addr:street': 'خاتم النبیین', 'building:levels': '2', 'height': '8', 'landuse': 'industrial', 'name': 'مدیریت برق اردبیل امور ۲', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.353179",
+        "url": "https://www.openstreetmap.org/way/688819591"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.26705773754923,
+          35.335361947943255
+        ]
+      },
+      "properties": {
+        "id": "way/693748748",
+        "element_id": 693748748,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'note': 'Site is selected for power plant and permissions are going to be issued.', 'operator': 'Alborz Niroo شرکت انرژی سازنده البرز نیرو', 'plant:method': 'photovoltaic', 'plant:output:electricity': '1 MW', 'plant:source': 'solar', 'plant:type': 'solar_photovoltaic_panel', 'power': 'plant', 'website': 'http://alborzniroo.com/'}",
+        "timestamp": "2025-07-07 18:35:48.353179",
+        "url": "https://www.openstreetmap.org/way/693748748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.88169799565732,
+          30.17806780533145
+        ]
+      },
+      "properties": {
+        "id": "way/710611833",
+        "element_id": 710611833,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.353179",
+        "url": "https://www.openstreetmap.org/way/710611833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.88169799565732,
+          30.17806780533145
+        ]
+      },
+      "properties": {
+        "id": "way/710611833",
+        "element_id": 710611833,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.353179",
+        "url": "https://www.openstreetmap.org/way/710611833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.18635429265378,
+          33.72980724506297
+        ]
+      },
+      "properties": {
+        "id": "way/725252377",
+        "element_id": 725252377,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.354179",
+        "url": "https://www.openstreetmap.org/way/725252377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.18635429265378,
+          33.72980724506297
+        ]
+      },
+      "properties": {
+        "id": "way/725252377",
+        "element_id": 725252377,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.354179",
+        "url": "https://www.openstreetmap.org/way/725252377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.00976898318218,
+          36.32279724698472
+        ]
+      },
+      "properties": {
+        "id": "way/771801280",
+        "element_id": 771801280,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.354179",
+        "url": "https://www.openstreetmap.org/way/771801280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.00976898318218,
+          36.32279724698472
+        ]
+      },
+      "properties": {
+        "id": "way/771801280",
+        "element_id": 771801280,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.354179",
+        "url": "https://www.openstreetmap.org/way/771801280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.32513396338156,
+          36.11541119011701
+        ]
+      },
+      "properties": {
+        "id": "way/772621327",
+        "element_id": 772621327,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.355181",
+        "url": "https://www.openstreetmap.org/way/772621327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.32513396338156,
+          36.11541119011701
+        ]
+      },
+      "properties": {
+        "id": "way/772621327",
+        "element_id": 772621327,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.355181",
+        "url": "https://www.openstreetmap.org/way/772621327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.79694546035232,
+          34.05031707272449
+        ]
+      },
+      "properties": {
+        "id": "way/772767434",
+        "element_id": 772767434,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.355181",
+        "url": "https://www.openstreetmap.org/way/772767434"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.79694546035232,
+          34.05031707272449
+        ]
+      },
+      "properties": {
+        "id": "way/772767434",
+        "element_id": 772767434,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.356179",
+        "url": "https://www.openstreetmap.org/way/772767434"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.79149799833092,
+          35.80689246396986
+        ]
+      },
+      "properties": {
+        "id": "way/774750722",
+        "element_id": 774750722,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.356179",
+        "url": "https://www.openstreetmap.org/way/774750722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.16046115,
+          35.9508343
+        ]
+      },
+      "properties": {
+        "id": "way/783834279",
+        "element_id": 783834279,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.357179",
+        "url": "https://www.openstreetmap.org/way/783834279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1314537688229,
+          32.21957197032211
+        ]
+      },
+      "properties": {
+        "id": "way/836034051",
+        "element_id": 836034051,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.358179",
+        "url": "https://www.openstreetmap.org/way/836034051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1314537688229,
+          32.21957197032211
+        ]
+      },
+      "properties": {
+        "id": "way/836034051",
+        "element_id": 836034051,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.358179",
+        "url": "https://www.openstreetmap.org/way/836034051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.20005660782056,
+          38.51987127705357
+        ]
+      },
+      "properties": {
+        "id": "way/841159287",
+        "element_id": 841159287,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.358179",
+        "url": "https://www.openstreetmap.org/way/841159287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.55092624038248,
+          27.5548556545124
+        ]
+      },
+      "properties": {
+        "id": "way/930435983",
+        "element_id": 930435983,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.360307",
+        "url": "https://www.openstreetmap.org/way/930435983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.53002362659176,
+          27.57826538574033
+        ]
+      },
+      "properties": {
+        "id": "way/931168389",
+        "element_id": 931168389,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.361315",
+        "url": "https://www.openstreetmap.org/way/931168389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.28435128838655,
+          35.63523938638237
+        ]
+      },
+      "properties": {
+        "id": "way/958639344",
+        "element_id": 958639344,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.363315",
+        "url": "https://www.openstreetmap.org/way/958639344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.73737116541098,
+          36.13784729057058
+        ]
+      },
+      "properties": {
+        "id": "way/966525802",
+        "element_id": 966525802,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': '2 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.363315",
+        "url": "https://www.openstreetmap.org/way/966525802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.59340829284286,
+          36.01573962873769
+        ]
+      },
+      "properties": {
+        "id": "way/978048342",
+        "element_id": 978048342,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.363315",
+        "url": "https://www.openstreetmap.org/way/978048342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.88942597373456,
+          35.63880802790429
+        ]
+      },
+      "properties": {
+        "id": "way/980583839",
+        "element_id": 980583839,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.364315",
+        "url": "https://www.openstreetmap.org/way/980583839"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.54851418638934,
+          31.776648289240093
+        ]
+      },
+      "properties": {
+        "id": "way/995551857",
+        "element_id": 995551857,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:method': 'photovoltaic', 'plant:output:electricity': '10 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.365317",
+        "url": "https://www.openstreetmap.org/way/995551857"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.545674355612526,
+          31.03279255488512
+        ]
+      },
+      "properties": {
+        "id": "way/995557443",
+        "element_id": 995557443,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': '200 kW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.365317",
+        "url": "https://www.openstreetmap.org/way/995557443"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.545674355612526,
+          31.03279255488512
+        ]
+      },
+      "properties": {
+        "id": "way/995557443",
+        "element_id": 995557443,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "200 kW",
+        "details": "Tag 'plant:output:electricity' has value '200 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:35:48.365317",
+        "url": "https://www.openstreetmap.org/way/995557443"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.91919001638036,
+          34.698545647585604
+        ]
+      },
+      "properties": {
+        "id": "way/995578115",
+        "element_id": 995578115,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:method': 'photovoltaic', 'plant:output:electricity': '10 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.365317",
+        "url": "https://www.openstreetmap.org/way/995578115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.27655684999999,
+          34.26339415
+        ]
+      },
+      "properties": {
+        "id": "way/995580524",
+        "element_id": 995580524,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': '1 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.365317",
+        "url": "https://www.openstreetmap.org/way/995580524"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.56385942103991,
+          35.22119282875949
+        ]
+      },
+      "properties": {
+        "id": "way/995586879",
+        "element_id": 995586879,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'نیروگاه خورشیدی برق سرکویر', 'name:en': 'Sarkavir Solar Power Plant', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.366316",
+        "url": "https://www.openstreetmap.org/way/995586879"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.49692811825262,
+          35.28755084870328
+        ]
+      },
+      "properties": {
+        "id": "way/995587491",
+        "element_id": 995587491,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': '100 kW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.367321",
+        "url": "https://www.openstreetmap.org/way/995587491"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.49692811825262,
+          35.28755084870328
+        ]
+      },
+      "properties": {
+        "id": "way/995587491",
+        "element_id": 995587491,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "100 kW",
+        "details": "Tag 'plant:output:electricity' has value '100 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:35:48.367321",
+        "url": "https://www.openstreetmap.org/way/995587491"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.98348636794476,
+          34.21920667609747
+        ]
+      },
+      "properties": {
+        "id": "way/995590858",
+        "element_id": 995590858,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': '5 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.368320",
+        "url": "https://www.openstreetmap.org/way/995590858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.69538375,
+          36.02142275
+        ]
+      },
+      "properties": {
+        "id": "way/995591847",
+        "element_id": 995591847,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.368320",
+        "url": "https://www.openstreetmap.org/way/995591847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.69538375,
+          36.02142275
+        ]
+      },
+      "properties": {
+        "id": "way/995591847",
+        "element_id": 995591847,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.369320",
+        "url": "https://www.openstreetmap.org/way/995591847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.72396882411816,
+          36.45691222039754
+        ]
+      },
+      "properties": {
+        "id": "way/995592577",
+        "element_id": 995592577,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.369320",
+        "url": "https://www.openstreetmap.org/way/995592577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.72396882411816,
+          36.45691222039754
+        ]
+      },
+      "properties": {
+        "id": "way/995592577",
+        "element_id": 995592577,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.370320",
+        "url": "https://www.openstreetmap.org/way/995592577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.40600300824463,
+          36.43681644999484
+        ]
+      },
+      "properties": {
+        "id": "way/995594801",
+        "element_id": 995594801,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.370320",
+        "url": "https://www.openstreetmap.org/way/995594801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.40600300824463,
+          36.43681644999484
+        ]
+      },
+      "properties": {
+        "id": "way/995594801",
+        "element_id": 995594801,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.371320",
+        "url": "https://www.openstreetmap.org/way/995594801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.49838209982783,
+          36.31436953329193
+        ]
+      },
+      "properties": {
+        "id": "way/995596115",
+        "element_id": 995596115,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': '10 kW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.371320",
+        "url": "https://www.openstreetmap.org/way/995596115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.49838209982783,
+          36.31436953329193
+        ]
+      },
+      "properties": {
+        "id": "way/995596115",
+        "element_id": 995596115,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "10 kW",
+        "details": "Tag 'plant:output:electricity' has value '10 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:35:48.371320",
+        "url": "https://www.openstreetmap.org/way/995596115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.95222654358561,
+          36.75131437196929
+        ]
+      },
+      "properties": {
+        "id": "way/995597145",
+        "element_id": 995597145,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'نیروگاه خورشیدی موسوی', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.372320",
+        "url": "https://www.openstreetmap.org/way/995597145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.78689292816064,
+          32.622850692202896
+        ]
+      },
+      "properties": {
+        "id": "way/995598997",
+        "element_id": 995598997,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:method': 'photovoltaic', 'plant:output:electricity': '7 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.373321",
+        "url": "https://www.openstreetmap.org/way/995598997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.04523456573439,
+          31.209291602753847
+        ]
+      },
+      "properties": {
+        "id": "way/995600368",
+        "element_id": 995600368,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.373321",
+        "url": "https://www.openstreetmap.org/way/995600368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.8844756190022,
+          30.193227466528388
+        ]
+      },
+      "properties": {
+        "id": "way/995601255",
+        "element_id": 995601255,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.374320",
+        "url": "https://www.openstreetmap.org/way/995601255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.8844756190022,
+          30.193227466528388
+        ]
+      },
+      "properties": {
+        "id": "way/995601255",
+        "element_id": 995601255,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.375321",
+        "url": "https://www.openstreetmap.org/way/995601255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.634150946541055,
+          29.561931966029302
+        ]
+      },
+      "properties": {
+        "id": "way/995662262",
+        "element_id": 995662262,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.375321",
+        "url": "https://www.openstreetmap.org/way/995662262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.634150946541055,
+          29.561931966029302
+        ]
+      },
+      "properties": {
+        "id": "way/995662262",
+        "element_id": 995662262,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.375321",
+        "url": "https://www.openstreetmap.org/way/995662262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.65592571631083,
+          30.66841154423426
+        ]
+      },
+      "properties": {
+        "id": "way/995664109",
+        "element_id": 995664109,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.375321",
+        "url": "https://www.openstreetmap.org/way/995664109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.274367435993575,
+          37.37846022533536
+        ]
+      },
+      "properties": {
+        "id": "way/995666402",
+        "element_id": 995666402,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.376320",
+        "url": "https://www.openstreetmap.org/way/995666402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.274367435993575,
+          37.37846022533536
+        ]
+      },
+      "properties": {
+        "id": "way/995666402",
+        "element_id": 995666402,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.376320",
+        "url": "https://www.openstreetmap.org/way/995666402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.274367435993575,
+          37.37846022533536
+        ]
+      },
+      "properties": {
+        "id": "way/995666402",
+        "element_id": 995666402,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.377320",
+        "url": "https://www.openstreetmap.org/way/995666402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.27986940902132,
+          38.15004632793981
+        ]
+      },
+      "properties": {
+        "id": "way/995667164",
+        "element_id": 995667164,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.377320",
+        "url": "https://www.openstreetmap.org/way/995667164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.27986940902132,
+          38.15004632793981
+        ]
+      },
+      "properties": {
+        "id": "way/995667164",
+        "element_id": 995667164,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.378320",
+        "url": "https://www.openstreetmap.org/way/995667164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.51511135637448,
+          35.650579563320505
+        ]
+      },
+      "properties": {
+        "id": "way/995673397",
+        "element_id": 995673397,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.378320",
+        "url": "https://www.openstreetmap.org/way/995673397"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.51511135637448,
+          35.650579563320505
+        ]
+      },
+      "properties": {
+        "id": "way/995673397",
+        "element_id": 995673397,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.379320",
+        "url": "https://www.openstreetmap.org/way/995673397"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.70717005810388,
+          29.387404141225257
+        ]
+      },
+      "properties": {
+        "id": "way/995713405",
+        "element_id": 995713405,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.379320",
+        "url": "https://www.openstreetmap.org/way/995713405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.70717005810388,
+          29.387404141225257
+        ]
+      },
+      "properties": {
+        "id": "way/995713405",
+        "element_id": 995713405,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.379320",
+        "url": "https://www.openstreetmap.org/way/995713405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.70723094707032,
+          29.386895811398485
+        ]
+      },
+      "properties": {
+        "id": "way/995713406",
+        "element_id": 995713406,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.380321",
+        "url": "https://www.openstreetmap.org/way/995713406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.70723094707032,
+          29.386895811398485
+        ]
+      },
+      "properties": {
+        "id": "way/995713406",
+        "element_id": 995713406,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.380321",
+        "url": "https://www.openstreetmap.org/way/995713406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.83355139459518,
+          27.516339118955745
+        ]
+      },
+      "properties": {
+        "id": "way/995716218",
+        "element_id": 995716218,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.380321",
+        "url": "https://www.openstreetmap.org/way/995716218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.83355139459518,
+          27.516339118955745
+        ]
+      },
+      "properties": {
+        "id": "way/995716218",
+        "element_id": 995716218,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.380321",
+        "url": "https://www.openstreetmap.org/way/995716218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.83355139459518,
+          27.516339118955745
+        ]
+      },
+      "properties": {
+        "id": "way/995716218",
+        "element_id": 995716218,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.380321",
+        "url": "https://www.openstreetmap.org/way/995716218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.34286434530368,
+          33.74566657792008
+        ]
+      },
+      "properties": {
+        "id": "way/1027271509",
+        "element_id": 1027271509,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'نیروگاه برق', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.381825",
+        "url": "https://www.openstreetmap.org/way/1027271509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.33189456905001,
+          27.376293450360333
+        ]
+      },
+      "properties": {
+        "id": "way/1054028101",
+        "element_id": 1054028101,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.381825",
+        "url": "https://www.openstreetmap.org/way/1054028101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.33189456905001,
+          27.376293450360333
+        ]
+      },
+      "properties": {
+        "id": "way/1054028101",
+        "element_id": 1054028101,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'نیروگاه برق سراوان', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.382829",
+        "url": "https://www.openstreetmap.org/way/1054028101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.891429,
+          32.32710645
+        ]
+      },
+      "properties": {
+        "id": "way/1055897398",
+        "element_id": 1055897398,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.382829",
+        "url": "https://www.openstreetmap.org/way/1055897398"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.891429,
+          32.32710645
+        ]
+      },
+      "properties": {
+        "id": "way/1055897398",
+        "element_id": 1055897398,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.383829",
+        "url": "https://www.openstreetmap.org/way/1055897398"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.390920469938905,
+          35.74962359214065
+        ]
+      },
+      "properties": {
+        "id": "way/1058389568",
+        "element_id": 1058389568,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.383829",
+        "url": "https://www.openstreetmap.org/way/1058389568"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.390920469938905,
+          35.74962359214065
+        ]
+      },
+      "properties": {
+        "id": "way/1058389568",
+        "element_id": 1058389568,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.383829",
+        "url": "https://www.openstreetmap.org/way/1058389568"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.42638618643894,
+          36.048731204054405
+        ]
+      },
+      "properties": {
+        "id": "way/1058396118",
+        "element_id": 1058396118,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.383829",
+        "url": "https://www.openstreetmap.org/way/1058396118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.42638618643894,
+          36.048731204054405
+        ]
+      },
+      "properties": {
+        "id": "way/1058396118",
+        "element_id": 1058396118,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.383829",
+        "url": "https://www.openstreetmap.org/way/1058396118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.05479410619673,
+          37.33996812318525
+        ]
+      },
+      "properties": {
+        "id": "way/1059578877",
+        "element_id": 1059578877,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'بناب', 'addr:street': 'خیابان امام خمینی (ره)', 'landuse': 'industrial', 'name': 'مدیریت توزیع برق شهرستان بناب', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.383829",
+        "url": "https://www.openstreetmap.org/way/1059578877"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.21967687935359,
+          36.12003228632273
+        ]
+      },
+      "properties": {
+        "id": "way/1071064277",
+        "element_id": 1071064277,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.383829",
+        "url": "https://www.openstreetmap.org/way/1071064277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.21967687935359,
+          36.12003228632273
+        ]
+      },
+      "properties": {
+        "id": "way/1071064277",
+        "element_id": 1071064277,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.383829",
+        "url": "https://www.openstreetmap.org/way/1071064277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.21967687935359,
+          36.12003228632273
+        ]
+      },
+      "properties": {
+        "id": "way/1071064277",
+        "element_id": 1071064277,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.384829",
+        "url": "https://www.openstreetmap.org/way/1071064277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.80111910163068,
+          35.22137803464336
+        ]
+      },
+      "properties": {
+        "id": "way/1074123431",
+        "element_id": 1074123431,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.384829",
+        "url": "https://www.openstreetmap.org/way/1074123431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.80111910163068,
+          35.22137803464336
+        ]
+      },
+      "properties": {
+        "id": "way/1074123431",
+        "element_id": 1074123431,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.384829",
+        "url": "https://www.openstreetmap.org/way/1074123431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.42711565833781,
+          32.243909919408416
+        ]
+      },
+      "properties": {
+        "id": "way/1078033221",
+        "element_id": 1078033221,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.384829",
+        "url": "https://www.openstreetmap.org/way/1078033221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.39968245491798,
+          39.09062181511796
+        ]
+      },
+      "properties": {
+        "id": "way/1084683391",
+        "element_id": 1084683391,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.384829",
+        "url": "https://www.openstreetmap.org/way/1084683391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.56255355,
+          36.0422596
+        ]
+      },
+      "properties": {
+        "id": "way/1095521433",
+        "element_id": 1095521433,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.385829",
+        "url": "https://www.openstreetmap.org/way/1095521433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.7411097096635,
+          29.88753358632219
+        ]
+      },
+      "properties": {
+        "id": "way/1098621597",
+        "element_id": 1098621597,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.388829",
+        "url": "https://www.openstreetmap.org/way/1098621597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.05244840302094,
+          38.8384217555288
+        ]
+      },
+      "properties": {
+        "id": "way/1102175697",
+        "element_id": 1102175697,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'نیروگاه برق', 'plant:output:electricity': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.389829",
+        "url": "https://www.openstreetmap.org/way/1102175697"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.41984107226783,
+          30.205579126846587
+        ]
+      },
+      "properties": {
+        "id": "way/1115858024",
+        "element_id": 1115858024,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.389829",
+        "url": "https://www.openstreetmap.org/way/1115858024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.41984107226783,
+          30.205579126846587
+        ]
+      },
+      "properties": {
+        "id": "way/1115858024",
+        "element_id": 1115858024,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.389829",
+        "url": "https://www.openstreetmap.org/way/1115858024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.41984107226783,
+          30.205579126846587
+        ]
+      },
+      "properties": {
+        "id": "way/1115858024",
+        "element_id": 1115858024,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.389829",
+        "url": "https://www.openstreetmap.org/way/1115858024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.47774034254252,
+          34.0050645050034
+        ]
+      },
+      "properties": {
+        "id": "way/1137642999",
+        "element_id": 1137642999,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.389829",
+        "url": "https://www.openstreetmap.org/way/1137642999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.47774034254252,
+          34.0050645050034
+        ]
+      },
+      "properties": {
+        "id": "way/1137642999",
+        "element_id": 1137642999,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Shazand Arak Oil Refinery Power Station', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.390832",
+        "url": "https://www.openstreetmap.org/way/1137642999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.139471900647614,
+          31.433702424034998
+        ]
+      },
+      "properties": {
+        "id": "way/1148044581",
+        "element_id": 1148044581,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': '100 kW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.392829",
+        "url": "https://www.openstreetmap.org/way/1148044581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.139471900647614,
+          31.433702424034998
+        ]
+      },
+      "properties": {
+        "id": "way/1148044581",
+        "element_id": 1148044581,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "100 kW",
+        "details": "Tag 'plant:output:electricity' has value '100 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:35:48.392829",
+        "url": "https://www.openstreetmap.org/way/1148044581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.58214816977427,
+          32.20806849700352
+        ]
+      },
+      "properties": {
+        "id": "way/1148045994",
+        "element_id": 1148045994,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'نیروگاه خورشیدی شماره یک طالقانیه', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.393829",
+        "url": "https://www.openstreetmap.org/way/1148045994"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.08647191376882,
+          30.45314697607822
+        ]
+      },
+      "properties": {
+        "id": "way/1152787663",
+        "element_id": 1152787663,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.395829",
+        "url": "https://www.openstreetmap.org/way/1152787663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.085208903683466,
+          30.482955551025
+        ]
+      },
+      "properties": {
+        "id": "way/1152788078",
+        "element_id": 1152788078,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.395829",
+        "url": "https://www.openstreetmap.org/way/1152788078"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.085208903683466,
+          30.482955551025
+        ]
+      },
+      "properties": {
+        "id": "way/1152788078",
+        "element_id": 1152788078,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Fajr Petrochimi 2 Power Plant', 'plant:source': 'oil;gas', 'power': 'plant', 'source': 'https://www.gem.wiki/Fajr_Petrochimi_2_power_station'}",
+        "timestamp": "2025-07-07 18:35:48.396829",
+        "url": "https://www.openstreetmap.org/way/1152788078"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.56921303509264,
+          36.12465757199193
+        ]
+      },
+      "properties": {
+        "id": "way/1159023818",
+        "element_id": 1159023818,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.397830",
+        "url": "https://www.openstreetmap.org/way/1159023818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.56921303509264,
+          36.12465757199193
+        ]
+      },
+      "properties": {
+        "id": "way/1159023818",
+        "element_id": 1159023818,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'نیروگاه خورشیدی خوزنان', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.398829",
+        "url": "https://www.openstreetmap.org/way/1159023818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.10907143748127,
+          30.435999251978057
+        ]
+      },
+      "properties": {
+        "id": "way/1174013551",
+        "element_id": 1174013551,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.398829",
+        "url": "https://www.openstreetmap.org/way/1174013551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.21815578295727,
+          32.52340759478204
+        ]
+      },
+      "properties": {
+        "id": "way/1174454390",
+        "element_id": 1174454390,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.398829",
+        "url": "https://www.openstreetmap.org/way/1174454390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.14539863940112,
+          38.06876746688811
+        ]
+      },
+      "properties": {
+        "id": "way/1192732591",
+        "element_id": 1192732591,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.398829",
+        "url": "https://www.openstreetmap.org/way/1192732591"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.98755611778952,
+          31.96609019018842
+        ]
+      },
+      "properties": {
+        "id": "way/1209794550",
+        "element_id": 1209794550,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.400829",
+        "url": "https://www.openstreetmap.org/way/1209794550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.98755611778952,
+          31.96609019018842
+        ]
+      },
+      "properties": {
+        "id": "way/1209794550",
+        "element_id": 1209794550,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.400829",
+        "url": "https://www.openstreetmap.org/way/1209794550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.410292774399366,
+          34.88551641046206
+        ]
+      },
+      "properties": {
+        "id": "way/1218459681",
+        "element_id": 1218459681,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.400829",
+        "url": "https://www.openstreetmap.org/way/1218459681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.410292774399366,
+          34.88551641046206
+        ]
+      },
+      "properties": {
+        "id": "way/1218459681",
+        "element_id": 1218459681,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.400829",
+        "url": "https://www.openstreetmap.org/way/1218459681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.04936574468569,
+          27.21407261923256
+        ]
+      },
+      "properties": {
+        "id": "way/1223701064",
+        "element_id": 1223701064,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.400829",
+        "url": "https://www.openstreetmap.org/way/1223701064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.92761532054288,
+          27.0281240398388
+        ]
+      },
+      "properties": {
+        "id": "way/1234947219",
+        "element_id": 1234947219,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.400829",
+        "url": "https://www.openstreetmap.org/way/1234947219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.92761532054288,
+          27.0281240398388
+        ]
+      },
+      "properties": {
+        "id": "way/1234947219",
+        "element_id": 1234947219,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.401829",
+        "url": "https://www.openstreetmap.org/way/1234947219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.15770039424214,
+          26.957681416610903
+        ]
+      },
+      "properties": {
+        "id": "way/1236853362",
+        "element_id": 1236853362,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.402829",
+        "url": "https://www.openstreetmap.org/way/1236853362"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.15770039424214,
+          26.957681416610903
+        ]
+      },
+      "properties": {
+        "id": "way/1236853362",
+        "element_id": 1236853362,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.402829",
+        "url": "https://www.openstreetmap.org/way/1236853362"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.268079610648,
+          27.36627121563369
+        ]
+      },
+      "properties": {
+        "id": "way/1263000464",
+        "element_id": 1263000464,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.402829",
+        "url": "https://www.openstreetmap.org/way/1263000464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.82029130000001,
+          30.505462500000004
+        ]
+      },
+      "properties": {
+        "id": "way/1280781212",
+        "element_id": 1280781212,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.403830",
+        "url": "https://www.openstreetmap.org/way/1280781212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.82029130000001,
+          30.505462500000004
+        ]
+      },
+      "properties": {
+        "id": "way/1280781212",
+        "element_id": 1280781212,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.403830",
+        "url": "https://www.openstreetmap.org/way/1280781212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.2016675955878,
+          27.93531125848408
+        ]
+      },
+      "properties": {
+        "id": "way/1281285245",
+        "element_id": 1281285245,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'Fajr Jam Refinery Power Station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.403830",
+        "url": "https://www.openstreetmap.org/way/1281285245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.87060202004304,
+          28.888741870384425
+        ]
+      },
+      "properties": {
+        "id": "way/1286183808",
+        "element_id": 1286183808,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.403830",
+        "url": "https://www.openstreetmap.org/way/1286183808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.87060202004304,
+          28.888741870384425
+        ]
+      },
+      "properties": {
+        "id": "way/1286183808",
+        "element_id": 1286183808,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.403830",
+        "url": "https://www.openstreetmap.org/way/1286183808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.07681130658116,
+          29.833014460386536
+        ]
+      },
+      "properties": {
+        "id": "way/1287835065",
+        "element_id": 1287835065,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.403830",
+        "url": "https://www.openstreetmap.org/way/1287835065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.07681130658116,
+          29.833014460386536
+        ]
+      },
+      "properties": {
+        "id": "way/1287835065",
+        "element_id": 1287835065,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.403830",
+        "url": "https://www.openstreetmap.org/way/1287835065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.09135745011487,
+          27.149885423109936
+        ]
+      },
+      "properties": {
+        "id": "way/1288128455",
+        "element_id": 1288128455,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.403830",
+        "url": "https://www.openstreetmap.org/way/1288128455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.51140438941141,
+          31.0216954885217
+        ]
+      },
+      "properties": {
+        "id": "way/1291236701",
+        "element_id": 1291236701,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.403830",
+        "url": "https://www.openstreetmap.org/way/1291236701"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.51140438941141,
+          31.0216954885217
+        ]
+      },
+      "properties": {
+        "id": "way/1291236701",
+        "element_id": 1291236701,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.404829",
+        "url": "https://www.openstreetmap.org/way/1291236701"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.23217645450692,
+          28.096934214296255
+        ]
+      },
+      "properties": {
+        "id": "way/1292285903",
+        "element_id": 1292285903,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.404829",
+        "url": "https://www.openstreetmap.org/way/1292285903"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.23217645450692,
+          28.096934214296255
+        ]
+      },
+      "properties": {
+        "id": "way/1292285903",
+        "element_id": 1292285903,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.404829",
+        "url": "https://www.openstreetmap.org/way/1292285903"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1126761,
+          30.35658985
+        ]
+      },
+      "properties": {
+        "id": "way/1292678593",
+        "element_id": 1292678593,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.404829",
+        "url": "https://www.openstreetmap.org/way/1292678593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1126761,
+          30.35658985
+        ]
+      },
+      "properties": {
+        "id": "way/1292678593",
+        "element_id": 1292678593,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.404829",
+        "url": "https://www.openstreetmap.org/way/1292678593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6717812987938,
+          27.174280109616973
+        ]
+      },
+      "properties": {
+        "id": "way/1293133001",
+        "element_id": 1293133001,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.404829",
+        "url": "https://www.openstreetmap.org/way/1293133001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6717812987938,
+          27.174280109616973
+        ]
+      },
+      "properties": {
+        "id": "way/1293133001",
+        "element_id": 1293133001,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.404829",
+        "url": "https://www.openstreetmap.org/way/1293133001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.34250966055383,
+          36.84832577816437
+        ]
+      },
+      "properties": {
+        "id": "way/1297148568",
+        "element_id": 1297148568,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.404829",
+        "url": "https://www.openstreetmap.org/way/1297148568"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.34250966055383,
+          36.84832577816437
+        ]
+      },
+      "properties": {
+        "id": "way/1297148568",
+        "element_id": 1297148568,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.404829",
+        "url": "https://www.openstreetmap.org/way/1297148568"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.34255949001697,
+          36.84810971474208
+        ]
+      },
+      "properties": {
+        "id": "way/1297148569",
+        "element_id": 1297148569,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.404829",
+        "url": "https://www.openstreetmap.org/way/1297148569"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.34255949001697,
+          36.84810971474208
+        ]
+      },
+      "properties": {
+        "id": "way/1297148569",
+        "element_id": 1297148569,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.404829",
+        "url": "https://www.openstreetmap.org/way/1297148569"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.071070017395,
+          26.959273453179463
+        ]
+      },
+      "properties": {
+        "id": "way/1299788508",
+        "element_id": 1299788508,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.404829",
+        "url": "https://www.openstreetmap.org/way/1299788508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.071070017395,
+          26.959273453179463
+        ]
+      },
+      "properties": {
+        "id": "way/1299788508",
+        "element_id": 1299788508,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.404829",
+        "url": "https://www.openstreetmap.org/way/1299788508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.76215175,
+          30.89416695
+        ]
+      },
+      "properties": {
+        "id": "way/1306498216",
+        "element_id": 1306498216,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.404829",
+        "url": "https://www.openstreetmap.org/way/1306498216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.76215175,
+          30.89416695
+        ]
+      },
+      "properties": {
+        "id": "way/1306498216",
+        "element_id": 1306498216,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.404829",
+        "url": "https://www.openstreetmap.org/way/1306498216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.90793636332027,
+          32.794444829281424
+        ]
+      },
+      "properties": {
+        "id": "way/1307417342",
+        "element_id": 1307417342,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.405829",
+        "url": "https://www.openstreetmap.org/way/1307417342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.90793636332027,
+          32.794444829281424
+        ]
+      },
+      "properties": {
+        "id": "way/1307417342",
+        "element_id": 1307417342,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.405829",
+        "url": "https://www.openstreetmap.org/way/1307417342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.84918882414347,
+          35.41641776632579
+        ]
+      },
+      "properties": {
+        "id": "way/1320065727",
+        "element_id": 1320065727,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.405829",
+        "url": "https://www.openstreetmap.org/way/1320065727"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.84918882414347,
+          35.41641776632579
+        ]
+      },
+      "properties": {
+        "id": "way/1320065727",
+        "element_id": 1320065727,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.405829",
+        "url": "https://www.openstreetmap.org/way/1320065727"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.85006860874677,
+          35.417279460041584
+        ]
+      },
+      "properties": {
+        "id": "way/1320065728",
+        "element_id": 1320065728,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.405829",
+        "url": "https://www.openstreetmap.org/way/1320065728"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.85006860874677,
+          35.417279460041584
+        ]
+      },
+      "properties": {
+        "id": "way/1320065728",
+        "element_id": 1320065728,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.405829",
+        "url": "https://www.openstreetmap.org/way/1320065728"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.85356440534144,
+          35.41539452046894
+        ]
+      },
+      "properties": {
+        "id": "way/1320073472",
+        "element_id": 1320073472,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.405829",
+        "url": "https://www.openstreetmap.org/way/1320073472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.85356440534144,
+          35.41539452046894
+        ]
+      },
+      "properties": {
+        "id": "way/1320073472",
+        "element_id": 1320073472,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.405829",
+        "url": "https://www.openstreetmap.org/way/1320073472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.85267450967882,
+          35.414539218089615
+        ]
+      },
+      "properties": {
+        "id": "way/1320073488",
+        "element_id": 1320073488,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.405829",
+        "url": "https://www.openstreetmap.org/way/1320073488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.85267450967882,
+          35.414539218089615
+        ]
+      },
+      "properties": {
+        "id": "way/1320073488",
+        "element_id": 1320073488,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.405829",
+        "url": "https://www.openstreetmap.org/way/1320073488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8482508,
+          35.41617315
+        ]
+      },
+      "properties": {
+        "id": "way/1320400860",
+        "element_id": 1320400860,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.405829",
+        "url": "https://www.openstreetmap.org/way/1320400860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8482508,
+          35.41617315
+        ]
+      },
+      "properties": {
+        "id": "way/1320400860",
+        "element_id": 1320400860,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.405829",
+        "url": "https://www.openstreetmap.org/way/1320400860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.84854042461797,
+          35.41602543338489
+        ]
+      },
+      "properties": {
+        "id": "way/1320400861",
+        "element_id": 1320400861,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.405829",
+        "url": "https://www.openstreetmap.org/way/1320400861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.84854042461797,
+          35.41602543338489
+        ]
+      },
+      "properties": {
+        "id": "way/1320400861",
+        "element_id": 1320400861,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.405829",
+        "url": "https://www.openstreetmap.org/way/1320400861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8488128913408,
+          35.41586793327716
+        ]
+      },
+      "properties": {
+        "id": "way/1320400862",
+        "element_id": 1320400862,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.405829",
+        "url": "https://www.openstreetmap.org/way/1320400862"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.8488128913408,
+          35.41586793327716
+        ]
+      },
+      "properties": {
+        "id": "way/1320400862",
+        "element_id": 1320400862,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.405829",
+        "url": "https://www.openstreetmap.org/way/1320400862"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.84908065864899,
+          35.41571796672275
+        ]
+      },
+      "properties": {
+        "id": "way/1320400863",
+        "element_id": 1320400863,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.406946",
+        "url": "https://www.openstreetmap.org/way/1320400863"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.84908065864899,
+          35.41571796672275
+        ]
+      },
+      "properties": {
+        "id": "way/1320400863",
+        "element_id": 1320400863,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.406946",
+        "url": "https://www.openstreetmap.org/way/1320400863"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.84936240865921,
+          35.41556806672284
+        ]
+      },
+      "properties": {
+        "id": "way/1320400864",
+        "element_id": 1320400864,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.406946",
+        "url": "https://www.openstreetmap.org/way/1320400864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.84936240865921,
+          35.41556806672284
+        ]
+      },
+      "properties": {
+        "id": "way/1320400864",
+        "element_id": 1320400864,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.406946",
+        "url": "https://www.openstreetmap.org/way/1320400864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.84962788327322,
+          35.41542385011543
+        ]
+      },
+      "properties": {
+        "id": "way/1320400865",
+        "element_id": 1320400865,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.406946",
+        "url": "https://www.openstreetmap.org/way/1320400865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.84962788327322,
+          35.41542385011543
+        ]
+      },
+      "properties": {
+        "id": "way/1320400865",
+        "element_id": 1320400865,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.406946",
+        "url": "https://www.openstreetmap.org/way/1320400865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.85172248327324,
+          35.41429305011543
+        ]
+      },
+      "properties": {
+        "id": "way/1320485093",
+        "element_id": 1320485093,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.406946",
+        "url": "https://www.openstreetmap.org/way/1320485093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.85172248327324,
+          35.41429305011543
+        ]
+      },
+      "properties": {
+        "id": "way/1320485093",
+        "element_id": 1320485093,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.406946",
+        "url": "https://www.openstreetmap.org/way/1320485093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.85200038327323,
+          35.41414205011543
+        ]
+      },
+      "properties": {
+        "id": "way/1320485094",
+        "element_id": 1320485094,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.406946",
+        "url": "https://www.openstreetmap.org/way/1320485094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.85200038327323,
+          35.41414205011543
+        ]
+      },
+      "properties": {
+        "id": "way/1320485094",
+        "element_id": 1320485094,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.406946",
+        "url": "https://www.openstreetmap.org/way/1320485094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.85227828327322,
+          35.41400155011542
+        ]
+      },
+      "properties": {
+        "id": "way/1320485095",
+        "element_id": 1320485095,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.406946",
+        "url": "https://www.openstreetmap.org/way/1320485095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.85227828327322,
+          35.41400155011542
+        ]
+      },
+      "properties": {
+        "id": "way/1320485095",
+        "element_id": 1320485095,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.406946",
+        "url": "https://www.openstreetmap.org/way/1320485095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.85255608327324,
+          35.41384015011543
+        ]
+      },
+      "properties": {
+        "id": "way/1320485096",
+        "element_id": 1320485096,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.406946",
+        "url": "https://www.openstreetmap.org/way/1320485096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.85255608327324,
+          35.41384015011543
+        ]
+      },
+      "properties": {
+        "id": "way/1320485096",
+        "element_id": 1320485096,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.406946",
+        "url": "https://www.openstreetmap.org/way/1320485096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.85284428327323,
+          35.41369545011543
+        ]
+      },
+      "properties": {
+        "id": "way/1320485097",
+        "element_id": 1320485097,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.406946",
+        "url": "https://www.openstreetmap.org/way/1320485097"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.85284428327323,
+          35.41369545011543
+        ]
+      },
+      "properties": {
+        "id": "way/1320485097",
+        "element_id": 1320485097,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.406946",
+        "url": "https://www.openstreetmap.org/way/1320485097"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.85311958327324,
+          35.41353815011544
+        ]
+      },
+      "properties": {
+        "id": "way/1320485098",
+        "element_id": 1320485098,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.407955",
+        "url": "https://www.openstreetmap.org/way/1320485098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.85311958327324,
+          35.41353815011544
+        ]
+      },
+      "properties": {
+        "id": "way/1320485098",
+        "element_id": 1320485098,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.407955",
+        "url": "https://www.openstreetmap.org/way/1320485098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.90226408567397,
+          37.09602112481752
+        ]
+      },
+      "properties": {
+        "id": "way/1320493210",
+        "element_id": 1320493210,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.407955",
+        "url": "https://www.openstreetmap.org/way/1320493210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.71341851183091,
+          31.74163920529258
+        ]
+      },
+      "properties": {
+        "id": "way/1344973177",
+        "element_id": 1344973177,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.407955",
+        "url": "https://www.openstreetmap.org/way/1344973177"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.71341851183091,
+          31.74163920529258
+        ]
+      },
+      "properties": {
+        "id": "way/1344973177",
+        "element_id": 1344973177,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.407955",
+        "url": "https://www.openstreetmap.org/way/1344973177"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.79164768278723,
+          35.80687436483226
+        ]
+      },
+      "properties": {
+        "id": "way/1349991525",
+        "element_id": 1349991525,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.407955",
+        "url": "https://www.openstreetmap.org/way/1349991525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.79164768278723,
+          35.80687436483226
+        ]
+      },
+      "properties": {
+        "id": "way/1349991525",
+        "element_id": 1349991525,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.407955",
+        "url": "https://www.openstreetmap.org/way/1349991525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.79164768278723,
+          35.80687436483226
+        ]
+      },
+      "properties": {
+        "id": "way/1349991525",
+        "element_id": 1349991525,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:35:48.407955",
+        "url": "https://www.openstreetmap.org/way/1349991525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.83146394805296,
+          31.84495537758257
+        ]
+      },
+      "properties": {
+        "id": "way/1357897483",
+        "element_id": 1357897483,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.407955",
+        "url": "https://www.openstreetmap.org/way/1357897483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.83146394805296,
+          31.84495537758257
+        ]
+      },
+      "properties": {
+        "id": "way/1357897483",
+        "element_id": 1357897483,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.407955",
+        "url": "https://www.openstreetmap.org/way/1357897483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.83146394805296,
+          31.84495537758257
+        ]
+      },
+      "properties": {
+        "id": "way/1357897483",
+        "element_id": 1357897483,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:35:48.408955",
+        "url": "https://www.openstreetmap.org/way/1357897483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.154280154316325,
+          27.765632889574288
+        ]
+      },
+      "properties": {
+        "id": "way/1375159636",
+        "element_id": 1375159636,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "400kV",
+        "details": "Tag 'plant:output:electricity' has value '400kV' which could not be parsed",
+        "timestamp": "2025-07-07 18:35:48.408955",
+        "url": "https://www.openstreetmap.org/way/1375159636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.154280154316325,
+          27.765632889574288
+        ]
+      },
+      "properties": {
+        "id": "way/1375159636",
+        "element_id": 1375159636,
+        "element_type": "way",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Unsupported capacity unit",
+        "keywords": "400kV",
+        "details": "Tag 'plant:output:electricity' has value '400kV' which could not be parsed",
+        "timestamp": "2025-07-07 18:35:48.408955",
+        "url": "https://www.openstreetmap.org/way/1375159636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3978035,
+          32.0305538
+        ]
+      },
+      "properties": {
+        "id": "node/6796899689",
+        "element_id": 6796899689,
+        "element_type": "node",
+        "country": "Iran, Islamic Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:35:48.409959",
+        "url": "https://www.openstreetmap.org/node/6796899689"
+      }
+    }
+  ]
+}

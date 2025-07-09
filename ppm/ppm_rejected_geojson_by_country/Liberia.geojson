@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.7201008822702,
+          6.096475106341469
+        ]
+      },
+      "properties": {
+        "id": "way/303293260",
+        "element_id": 303293260,
+        "element_type": "way",
+        "country": "Liberia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Hydro Power Plant LAC', 'operator': 'LAC / Socfin', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:24.045728",
+        "url": "https://www.openstreetmap.org/way/303293260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.817841157443285,
+          6.428339974508174
+        ]
+      },
+      "properties": {
+        "id": "way/306254298",
+        "element_id": 306254298,
+        "element_type": "way",
+        "country": "Liberia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'coal', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:24.047726",
+        "url": "https://www.openstreetmap.org/way/306254298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.817841157443285,
+          6.428339974508174
+        ]
+      },
+      "properties": {
+        "id": "way/306254298",
+        "element_id": 306254298,
+        "element_type": "way",
+        "country": "Liberia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:24.047726",
+        "url": "https://www.openstreetmap.org/way/306254298"
+      }
+    }
+  ]
+}

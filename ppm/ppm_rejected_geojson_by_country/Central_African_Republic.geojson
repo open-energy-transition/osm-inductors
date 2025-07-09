@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.002405894165644,
+          4.919858154642934
+        ]
+      },
+      "properties": {
+        "id": "way/192308981",
+        "element_id": 192308981,
+        "element_type": "way",
+        "country": "Central African Republic",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:32.655318",
+        "url": "https://www.openstreetmap.org/way/192308981"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.671436931500168,
+          5.764102323319184
+        ]
+      },
+      "properties": {
+        "id": "way/1209786695",
+        "element_id": 1209786695,
+        "element_type": "way",
+        "country": "Central African Republic",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:32.657317",
+        "url": "https://www.openstreetmap.org/way/1209786695"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.671436931500168,
+          5.764102323319184
+        ]
+      },
+      "properties": {
+        "id": "way/1209786695",
+        "element_id": 1209786695,
+        "element_type": "way",
+        "country": "Central African Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:32.657317",
+        "url": "https://www.openstreetmap.org/way/1209786695"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.671436931500168,
+          5.764102323319184
+        ]
+      },
+      "properties": {
+        "id": "way/1209786695",
+        "element_id": 1209786695,
+        "element_type": "way",
+        "country": "Central African Republic",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:32.657317",
+        "url": "https://www.openstreetmap.org/way/1209786695"
+      }
+    }
+  ]
+}

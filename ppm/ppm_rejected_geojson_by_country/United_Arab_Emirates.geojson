@@ -1,0 +1,1963 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47528186418752,
+          25.446429590881863
+        ]
+      },
+      "properties": {
+        "id": "way/167823078",
+        "element_id": 167823078,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'man_made': 'water_works', 'name': 'Al Zawra Power and Desalination Plant', 'operator': 'Federal Electricity & Water Authority', 'plant:method': 'combustion', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.961825",
+        "url": "https://www.openstreetmap.org/way/167823078"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6117479681196,
+          24.113761500200717
+        ]
+      },
+      "properties": {
+        "id": "way/199960010",
+        "element_id": 199960010,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.963825",
+        "url": "https://www.openstreetmap.org/way/199960010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6117479681196,
+          24.113761500200717
+        ]
+      },
+      "properties": {
+        "id": "way/199960010",
+        "element_id": 199960010,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.963825",
+        "url": "https://www.openstreetmap.org/way/199960010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6122236710569,
+          24.11404996925263
+        ]
+      },
+      "properties": {
+        "id": "way/199960012",
+        "element_id": 199960012,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.963825",
+        "url": "https://www.openstreetmap.org/way/199960012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6122236710569,
+          24.11404996925263
+        ]
+      },
+      "properties": {
+        "id": "way/199960012",
+        "element_id": 199960012,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.963825",
+        "url": "https://www.openstreetmap.org/way/199960012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6120706,
+          24.113314300000003
+        ]
+      },
+      "properties": {
+        "id": "way/199960017",
+        "element_id": 199960017,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.963825",
+        "url": "https://www.openstreetmap.org/way/199960017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6120706,
+          24.113314300000003
+        ]
+      },
+      "properties": {
+        "id": "way/199960017",
+        "element_id": 199960017,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.963825",
+        "url": "https://www.openstreetmap.org/way/199960017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.59552228803627,
+          24.10940239134552
+        ]
+      },
+      "properties": {
+        "id": "way/200054273",
+        "element_id": 200054273,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.963825",
+        "url": "https://www.openstreetmap.org/way/200054273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.71462876434827,
+          23.5699191675896
+        ]
+      },
+      "properties": {
+        "id": "way/210648348",
+        "element_id": 210648348,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:52:30.963825",
+        "url": "https://www.openstreetmap.org/way/210648348"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.59618326595626,
+          24.10896235928496
+        ]
+      },
+      "properties": {
+        "id": "way/237834220",
+        "element_id": 237834220,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.965825",
+        "url": "https://www.openstreetmap.org/way/237834220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.59657130620192,
+          24.109192192242517
+        ]
+      },
+      "properties": {
+        "id": "way/237834221",
+        "element_id": 237834221,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.965825",
+        "url": "https://www.openstreetmap.org/way/237834221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.22834968695223,
+          23.962015423334957
+        ]
+      },
+      "properties": {
+        "id": "way/301690711",
+        "element_id": 301690711,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 14 tags but none specify technology",
+        "timestamp": "2025-07-07 18:52:30.966830",
+        "url": "https://www.openstreetmap.org/way/301690711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.790197090761815,
+          25.70465364993924
+        ]
+      },
+      "properties": {
+        "id": "way/330879263",
+        "element_id": 330879263,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'UTICO Power Plant', 'name:en': 'UTICO Power Plant', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.966830",
+        "url": "https://www.openstreetmap.org/way/330879263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.9562582596929,
+          25.79694812025699
+        ]
+      },
+      "properties": {
+        "id": "way/338593143",
+        "element_id": 338593143,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'FEWA Al Nakheel Power Plant', 'power': 'plant', 'source': 'https://rakez.com/Upload/ManageDocument/RAKEZ%20Location%20Maps_20200425214115.pdf;https://cdn2.hubspot.net/hubfs/5081768/File-1310201654726.pdf?__hssc=78953035.24.1568286051684&__hstc=78953035.d2a5f2ba7850b941a255dd304bed1da7.1564557645493.1568277797850.'}",
+        "timestamp": "2025-07-07 18:52:30.967828",
+        "url": "https://www.openstreetmap.org/way/338593143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.15583921518069,
+          25.078426346645447
+        ]
+      },
+      "properties": {
+        "id": "way/381429500",
+        "element_id": 381429500,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'generator:output:cold_water': 'yes', 'name': 'JLT District Cooling Plant', 'name:en': 'JLT District Cooling Plant', 'operator': 'Emirates Central Cooling Systems Corporation (EMPOWER)', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.969827",
+        "url": "https://www.openstreetmap.org/way/381429500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.284462256189016,
+          25.21330944845518
+        ]
+      },
+      "properties": {
+        "id": "way/385704363",
+        "element_id": 385704363,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.969827",
+        "url": "https://www.openstreetmap.org/way/385704363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.38317825049804,
+          24.758491494747727
+        ]
+      },
+      "properties": {
+        "id": "way/438419246",
+        "element_id": 438419246,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:52:30.969827",
+        "url": "https://www.openstreetmap.org/way/438419246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.731426188644775,
+          24.13600585124543
+        ]
+      },
+      "properties": {
+        "id": "way/453069644",
+        "element_id": 453069644,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Ruwais Refinery General Utilities Plant (GUP)', 'name:en': 'General Utilities Plant (GUP)', 'power': 'plant', 'short_name': 'GUP'}",
+        "timestamp": "2025-07-07 18:52:30.970825",
+        "url": "https://www.openstreetmap.org/way/453069644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.38313652896935,
+          24.74701593230657
+        ]
+      },
+      "properties": {
+        "id": "way/525717212",
+        "element_id": 525717212,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:52:30.970825",
+        "url": "https://www.openstreetmap.org/way/525717212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.917320018846254,
+          24.91039317404543
+        ]
+      },
+      "properties": {
+        "id": "way/530758679",
+        "element_id": 530758679,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.970825",
+        "url": "https://www.openstreetmap.org/way/530758679"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.57894066291418,
+          25.489325367523527
+        ]
+      },
+      "properties": {
+        "id": "way/538112912",
+        "element_id": 538112912,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.970825",
+        "url": "https://www.openstreetmap.org/way/538112912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.57894066291418,
+          25.489325367523527
+        ]
+      },
+      "properties": {
+        "id": "way/538112912",
+        "element_id": 538112912,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.970825",
+        "url": "https://www.openstreetmap.org/way/538112912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.23794677819954,
+          25.20921757923261
+        ]
+      },
+      "properties": {
+        "id": "way/554665193",
+        "element_id": 554665193,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Centralized Plant', 'plant:output:cold_water': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.970825",
+        "url": "https://www.openstreetmap.org/way/554665193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.32465274085504,
+          22.89857622817495
+        ]
+      },
+      "properties": {
+        "id": "way/591270168",
+        "element_id": 591270168,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.971825",
+        "url": "https://www.openstreetmap.org/way/591270168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.32465274085504,
+          22.89857622817495
+        ]
+      },
+      "properties": {
+        "id": "way/591270168",
+        "element_id": 591270168,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.971825",
+        "url": "https://www.openstreetmap.org/way/591270168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.42131281132001,
+          24.75482952071214
+        ]
+      },
+      "properties": {
+        "id": "way/662854838",
+        "element_id": 662854838,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:52:30.971825",
+        "url": "https://www.openstreetmap.org/way/662854838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.42128074907031,
+          24.73736310298803
+        ]
+      },
+      "properties": {
+        "id": "way/679697939",
+        "element_id": 679697939,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:52:30.971825",
+        "url": "https://www.openstreetmap.org/way/679697939"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.28425149509475,
+          25.1531316692381
+        ]
+      },
+      "properties": {
+        "id": "way/804257213",
+        "element_id": 804257213,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.972825",
+        "url": "https://www.openstreetmap.org/way/804257213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.28425149509475,
+          25.1531316692381
+        ]
+      },
+      "properties": {
+        "id": "way/804257213",
+        "element_id": 804257213,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.972825",
+        "url": "https://www.openstreetmap.org/way/804257213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.45055758939974,
+          25.402066573756677
+        ]
+      },
+      "properties": {
+        "id": "way/895288007",
+        "element_id": 895288007,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.973826",
+        "url": "https://www.openstreetmap.org/way/895288007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.174271081916,
+          23.3138829221149
+        ]
+      },
+      "properties": {
+        "id": "way/965704056",
+        "element_id": 965704056,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:52:30.974825",
+        "url": "https://www.openstreetmap.org/way/965704056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.91565181948589,
+          24.912457119115057
+        ]
+      },
+      "properties": {
+        "id": "way/1025526408",
+        "element_id": 1025526408,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'coal', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.976825",
+        "url": "https://www.openstreetmap.org/way/1025526408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.91565181948589,
+          24.912457119115057
+        ]
+      },
+      "properties": {
+        "id": "way/1025526408",
+        "element_id": 1025526408,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.976825",
+        "url": "https://www.openstreetmap.org/way/1025526408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.91661396816561,
+          24.91220470107921
+        ]
+      },
+      "properties": {
+        "id": "way/1025526410",
+        "element_id": 1025526410,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'coal', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.976825",
+        "url": "https://www.openstreetmap.org/way/1025526410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.91661396816561,
+          24.91220470107921
+        ]
+      },
+      "properties": {
+        "id": "way/1025526410",
+        "element_id": 1025526410,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.976825",
+        "url": "https://www.openstreetmap.org/way/1025526410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.91751919621111,
+          24.911957784365573
+        ]
+      },
+      "properties": {
+        "id": "way/1025526412",
+        "element_id": 1025526412,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'coal', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.976825",
+        "url": "https://www.openstreetmap.org/way/1025526412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.91751919621111,
+          24.911957784365573
+        ]
+      },
+      "properties": {
+        "id": "way/1025526412",
+        "element_id": 1025526412,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.976825",
+        "url": "https://www.openstreetmap.org/way/1025526412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.174271081916,
+          23.3138829221149
+        ]
+      },
+      "properties": {
+        "id": "way/965704056",
+        "element_id": 965704056,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Asab ADNOC GASCO Power Station', 'plant:source': 'gas', 'power': 'plant', 'source': 'https://www.industryabout.com/country-territories-3/1894-uae/oil-and-gas/33914-gasco-asab-gas-processing-plant'}",
+        "timestamp": "2025-07-07 18:52:30.976825",
+        "url": "https://www.openstreetmap.org/way/965704056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.91848078172194,
+          24.911706005762856
+        ]
+      },
+      "properties": {
+        "id": "way/1025526414",
+        "element_id": 1025526414,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'coal', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.977825",
+        "url": "https://www.openstreetmap.org/way/1025526414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.91848078172194,
+          24.911706005762856
+        ]
+      },
+      "properties": {
+        "id": "way/1025526414",
+        "element_id": 1025526414,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.977825",
+        "url": "https://www.openstreetmap.org/way/1025526414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.91648699399554,
+          24.910017321431155
+        ]
+      },
+      "properties": {
+        "id": "way/1025531228",
+        "element_id": 1025531228,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'coal', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.977825",
+        "url": "https://www.openstreetmap.org/way/1025531228"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.91648699399554,
+          24.910017321431155
+        ]
+      },
+      "properties": {
+        "id": "way/1025531228",
+        "element_id": 1025531228,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.977825",
+        "url": "https://www.openstreetmap.org/way/1025531228"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.46225479604051,
+          24.736974926153785
+        ]
+      },
+      "properties": {
+        "id": "way/1029323298",
+        "element_id": 1029323298,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:52:30.977825",
+        "url": "https://www.openstreetmap.org/way/1029323298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.46583331804703,
+          24.770000465577347
+        ]
+      },
+      "properties": {
+        "id": "way/1029323304",
+        "element_id": 1029323304,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Phase 4 - photovoltaic', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.979829",
+        "url": "https://www.openstreetmap.org/way/1029323304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.50195557550927,
+          24.73685734198701
+        ]
+      },
+      "properties": {
+        "id": "way/1029323305",
+        "element_id": 1029323305,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:52:30.981825",
+        "url": "https://www.openstreetmap.org/way/1029323305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.46227140105391,
+          24.759227782578265
+        ]
+      },
+      "properties": {
+        "id": "way/1029323306",
+        "element_id": 1029323306,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:52:30.981825",
+        "url": "https://www.openstreetmap.org/way/1029323306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5010187826169,
+          24.75901478210356
+        ]
+      },
+      "properties": {
+        "id": "way/1029323307",
+        "element_id": 1029323307,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:52:30.982827",
+        "url": "https://www.openstreetmap.org/way/1029323307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.91542701722378,
+          24.911879999646345
+        ]
+      },
+      "properties": {
+        "id": "way/1059283956",
+        "element_id": 1059283956,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'coal', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.982827",
+        "url": "https://www.openstreetmap.org/way/1059283956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.91542701722378,
+          24.911879999646345
+        ]
+      },
+      "properties": {
+        "id": "way/1059283956",
+        "element_id": 1059283956,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.982827",
+        "url": "https://www.openstreetmap.org/way/1059283956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.91512165531338,
+          24.911162749358123
+        ]
+      },
+      "properties": {
+        "id": "way/1059283958",
+        "element_id": 1059283958,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'coal', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.982827",
+        "url": "https://www.openstreetmap.org/way/1059283958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.91512165531338,
+          24.911162749358123
+        ]
+      },
+      "properties": {
+        "id": "way/1059283958",
+        "element_id": 1059283958,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.982827",
+        "url": "https://www.openstreetmap.org/way/1059283958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.91609089789876,
+          24.91091273712175
+        ]
+      },
+      "properties": {
+        "id": "way/1059283959",
+        "element_id": 1059283959,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'coal', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.983825",
+        "url": "https://www.openstreetmap.org/way/1059283959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.91609089789876,
+          24.91091273712175
+        ]
+      },
+      "properties": {
+        "id": "way/1059283959",
+        "element_id": 1059283959,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.983825",
+        "url": "https://www.openstreetmap.org/way/1059283959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.91700903416256,
+          24.91068638560797
+        ]
+      },
+      "properties": {
+        "id": "way/1059283960",
+        "element_id": 1059283960,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'coal', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.983825",
+        "url": "https://www.openstreetmap.org/way/1059283960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.91700903416256,
+          24.91068638560797
+        ]
+      },
+      "properties": {
+        "id": "way/1059283960",
+        "element_id": 1059283960,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.983825",
+        "url": "https://www.openstreetmap.org/way/1059283960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.42403821155879,
+          24.386268834065834
+        ]
+      },
+      "properties": {
+        "id": "way/1075276141",
+        "element_id": 1075276141,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.983825",
+        "url": "https://www.openstreetmap.org/way/1075276141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.00718490114724,
+          24.21085650445221
+        ]
+      },
+      "properties": {
+        "id": "way/1083485723",
+        "element_id": 1083485723,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.983825",
+        "url": "https://www.openstreetmap.org/way/1083485723"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.00718490114724,
+          24.21085650445221
+        ]
+      },
+      "properties": {
+        "id": "way/1083485723",
+        "element_id": 1083485723,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.983825",
+        "url": "https://www.openstreetmap.org/way/1083485723"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.06472225830502,
+          24.891704079663967
+        ]
+      },
+      "properties": {
+        "id": "way/1193832267",
+        "element_id": 1193832267,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.984825",
+        "url": "https://www.openstreetmap.org/way/1193832267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68005943333976,
+          24.751264617614453
+        ]
+      },
+      "properties": {
+        "id": "way/1244228106",
+        "element_id": 1244228106,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.985826",
+        "url": "https://www.openstreetmap.org/way/1244228106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68005943333976,
+          24.751264617614453
+        ]
+      },
+      "properties": {
+        "id": "way/1244228106",
+        "element_id": 1244228106,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.985826",
+        "url": "https://www.openstreetmap.org/way/1244228106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68683003240739,
+          24.75397820233057
+        ]
+      },
+      "properties": {
+        "id": "way/1244228122",
+        "element_id": 1244228122,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'storage_tank', 'content': 'oil', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.985826",
+        "url": "https://www.openstreetmap.org/way/1244228122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68683003240739,
+          24.75397820233057
+        ]
+      },
+      "properties": {
+        "id": "way/1244228122",
+        "element_id": 1244228122,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.985826",
+        "url": "https://www.openstreetmap.org/way/1244228122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68480228969016,
+          24.753481112133333
+        ]
+      },
+      "properties": {
+        "id": "way/1244228123",
+        "element_id": 1244228123,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'storage_tank', 'content': 'oil', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.985826",
+        "url": "https://www.openstreetmap.org/way/1244228123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68480228969016,
+          24.753481112133333
+        ]
+      },
+      "properties": {
+        "id": "way/1244228123",
+        "element_id": 1244228123,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.985826",
+        "url": "https://www.openstreetmap.org/way/1244228123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68590199414528,
+          24.753495732155432
+        ]
+      },
+      "properties": {
+        "id": "way/1244228124",
+        "element_id": 1244228124,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'storage_tank', 'content': 'oil', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.986826",
+        "url": "https://www.openstreetmap.org/way/1244228124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68590199414528,
+          24.753495732155432
+        ]
+      },
+      "properties": {
+        "id": "way/1244228124",
+        "element_id": 1244228124,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.986826",
+        "url": "https://www.openstreetmap.org/way/1244228124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68653768134622,
+          24.75282832914576
+        ]
+      },
+      "properties": {
+        "id": "way/1244228125",
+        "element_id": 1244228125,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'storage_tank', 'content': 'oil', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.986826",
+        "url": "https://www.openstreetmap.org/way/1244228125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68653768134622,
+          24.75282832914576
+        ]
+      },
+      "properties": {
+        "id": "way/1244228125",
+        "element_id": 1244228125,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.986826",
+        "url": "https://www.openstreetmap.org/way/1244228125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.687532772964914,
+          24.75329112611606
+        ]
+      },
+      "properties": {
+        "id": "way/1244228126",
+        "element_id": 1244228126,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'storage_tank', 'content': 'oil', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.986826",
+        "url": "https://www.openstreetmap.org/way/1244228126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.687532772964914,
+          24.75329112611606
+        ]
+      },
+      "properties": {
+        "id": "way/1244228126",
+        "element_id": 1244228126,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.986826",
+        "url": "https://www.openstreetmap.org/way/1244228126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.687516681393696,
+          24.75219745217141
+        ]
+      },
+      "properties": {
+        "id": "way/1244228127",
+        "element_id": 1244228127,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'storage_tank', 'content': 'oil', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.986826",
+        "url": "https://www.openstreetmap.org/way/1244228127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.687516681393696,
+          24.75219745217141
+        ]
+      },
+      "properties": {
+        "id": "way/1244228127",
+        "element_id": 1244228127,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.986826",
+        "url": "https://www.openstreetmap.org/way/1244228127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68636334257398,
+          24.751849147713056
+        ]
+      },
+      "properties": {
+        "id": "way/1244228128",
+        "element_id": 1244228128,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'storage_tank', 'content': 'oil', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.986826",
+        "url": "https://www.openstreetmap.org/way/1244228128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68636334257398,
+          24.751849147713056
+        ]
+      },
+      "properties": {
+        "id": "way/1244228128",
+        "element_id": 1244228128,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.986826",
+        "url": "https://www.openstreetmap.org/way/1244228128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68521200706635,
+          24.752259610204348
+        ]
+      },
+      "properties": {
+        "id": "way/1244228129",
+        "element_id": 1244228129,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'storage_tank', 'content': 'oil', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.986826",
+        "url": "https://www.openstreetmap.org/way/1244228129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68521200706635,
+          24.752259610204348
+        ]
+      },
+      "properties": {
+        "id": "way/1244228129",
+        "element_id": 1244228129,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.986826",
+        "url": "https://www.openstreetmap.org/way/1244228129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68401370941106,
+          24.7526432034785
+        ]
+      },
+      "properties": {
+        "id": "way/1244228130",
+        "element_id": 1244228130,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'storage_tank', 'content': 'oil', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.987825",
+        "url": "https://www.openstreetmap.org/way/1244228130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.68401370941106,
+          24.7526432034785
+        ]
+      },
+      "properties": {
+        "id": "way/1244228130",
+        "element_id": 1244228130,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:30.987825",
+        "url": "https://www.openstreetmap.org/way/1244228130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.51586137958802,
+          24.768942567795825
+        ]
+      },
+      "properties": {
+        "id": "way/1255406044",
+        "element_id": 1255406044,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Phase 4 - photovoltaic', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.989825",
+        "url": "https://www.openstreetmap.org/way/1255406044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.519958733324096,
+          24.756398959248205
+        ]
+      },
+      "properties": {
+        "id": "way/1255406045",
+        "element_id": 1255406045,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Phase 4 - photovoltaic', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.993824",
+        "url": "https://www.openstreetmap.org/way/1255406045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48577609990196,
+          24.76516511469323
+        ]
+      },
+      "properties": {
+        "id": "way/1255406046",
+        "element_id": 1255406046,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Phase 4 - photovoltaic', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:30.998659",
+        "url": "https://www.openstreetmap.org/way/1255406046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.459057812981975,
+          24.74765207357674
+        ]
+      },
+      "properties": {
+        "id": "way/1303938702",
+        "element_id": 1303938702,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:31.001668",
+        "url": "https://www.openstreetmap.org/way/1303938702"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.459057812981975,
+          24.74765207357674
+        ]
+      },
+      "properties": {
+        "id": "way/1303938702",
+        "element_id": 1303938702,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:31.001668",
+        "url": "https://www.openstreetmap.org/way/1303938702"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.78130488966683,
+          24.055139894559986
+        ]
+      },
+      "properties": {
+        "id": "way/1347419016",
+        "element_id": 1347419016,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:52:31.001668",
+        "url": "https://www.openstreetmap.org/way/1347419016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.78130488966683,
+          24.055139894559986
+        ]
+      },
+      "properties": {
+        "id": "way/1347419016",
+        "element_id": 1347419016,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:31.001668",
+        "url": "https://www.openstreetmap.org/way/1347419016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.78130488966683,
+          24.055139894559986
+        ]
+      },
+      "properties": {
+        "id": "way/1347419016",
+        "element_id": 1347419016,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:31.003671",
+        "url": "https://www.openstreetmap.org/way/1347419016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.613589740420686,
+          24.43799717552588
+        ]
+      },
+      "properties": {
+        "id": "way/1350615986",
+        "element_id": 1350615986,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:52:31.003671",
+        "url": "https://www.openstreetmap.org/way/1350615986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.613589740420686,
+          24.43799717552588
+        ]
+      },
+      "properties": {
+        "id": "way/1350615986",
+        "element_id": 1350615986,
+        "element_type": "way",
+        "country": "United Arab Emirates",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:52:31.003671",
+        "url": "https://www.openstreetmap.org/way/1350615986"
+      }
+    }
+  ]
+}

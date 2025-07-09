@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.2320247,
+          7.012660350000002
+        ]
+      },
+      "properties": {
+        "id": "way/281392889",
+        "element_id": 281392889,
+        "element_type": "way",
+        "country": "Palau",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'name': 'Solar Diesel Hybrid Power Plant', 'plant:method': 'combustion', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:49.766891",
+        "url": "https://www.openstreetmap.org/way/281392889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.71652409584132,
+          8.086853619998255
+        ]
+      },
+      "properties": {
+        "id": "way/493764891",
+        "element_id": 493764891,
+        "element_type": "way",
+        "country": "Palau",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'KAYANGEL\\u3000POWER\\u3000SYSTEM', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:49.767895",
+        "url": "https://www.openstreetmap.org/way/493764891"
+      }
+    }
+  ]
+}

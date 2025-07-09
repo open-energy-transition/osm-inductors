@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5518431,
+          17.1808746
+        ]
+      },
+      "properties": {
+        "id": "node/4024224240",
+        "element_id": 4024224240,
+        "element_type": "node",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '275 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'manufacturer': 'Vergnet', 'model': 'GEV MP 275/32', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:46:38.163986",
+        "url": "https://www.openstreetmap.org/node/4024224240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5518431,
+          17.1808746
+        ]
+      },
+      "properties": {
+        "id": "node/4024224240",
+        "element_id": 4024224240,
+        "element_type": "node",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "275 kW",
+        "details": "Tag 'generator:output:electricity' has value '275 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:46:38.163986",
+        "url": "https://www.openstreetmap.org/node/4024224240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5510756,
+          17.1815438
+        ]
+      },
+      "properties": {
+        "id": "node/4024224241",
+        "element_id": 4024224241,
+        "element_type": "node",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '275 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'manufacturer': 'Vergnet', 'model': 'GEV MP 275/32', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:46:38.163986",
+        "url": "https://www.openstreetmap.org/node/4024224241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5510756,
+          17.1815438
+        ]
+      },
+      "properties": {
+        "id": "node/4024224241",
+        "element_id": 4024224241,
+        "element_type": "node",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "275 kW",
+        "details": "Tag 'generator:output:electricity' has value '275 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:46:38.163986",
+        "url": "https://www.openstreetmap.org/node/4024224241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5501787,
+          17.1821957
+        ]
+      },
+      "properties": {
+        "id": "node/4024224242",
+        "element_id": 4024224242,
+        "element_type": "node",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '275 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'manufacturer': 'Vergnet', 'model': 'GEV MP 275/32', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:46:38.163986",
+        "url": "https://www.openstreetmap.org/node/4024224242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5501787,
+          17.1821957
+        ]
+      },
+      "properties": {
+        "id": "node/4024224242",
+        "element_id": 4024224242,
+        "element_type": "node",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "275 kW",
+        "details": "Tag 'generator:output:electricity' has value '275 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:46:38.163986",
+        "url": "https://www.openstreetmap.org/node/4024224242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5490747,
+          17.182817
+        ]
+      },
+      "properties": {
+        "id": "node/4024224243",
+        "element_id": 4024224243,
+        "element_type": "node",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '275 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'manufacturer': 'Vergnet', 'model': 'GEV MP 275/32', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:46:38.163986",
+        "url": "https://www.openstreetmap.org/node/4024224243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5490747,
+          17.182817
+        ]
+      },
+      "properties": {
+        "id": "node/4024224243",
+        "element_id": 4024224243,
+        "element_type": "node",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "275 kW",
+        "details": "Tag 'generator:output:electricity' has value '275 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:46:38.163986",
+        "url": "https://www.openstreetmap.org/node/4024224243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5511235,
+          17.1800745
+        ]
+      },
+      "properties": {
+        "id": "node/4024224244",
+        "element_id": 4024224244,
+        "element_type": "node",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '275 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'manufacturer': 'Vergnet', 'model': 'GEV MP 275/32', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:46:38.163986",
+        "url": "https://www.openstreetmap.org/node/4024224244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5511235,
+          17.1800745
+        ]
+      },
+      "properties": {
+        "id": "node/4024224244",
+        "element_id": 4024224244,
+        "element_type": "node",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "275 kW",
+        "details": "Tag 'generator:output:electricity' has value '275 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:46:38.163986",
+        "url": "https://www.openstreetmap.org/node/4024224244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5496764,
+          17.1791691
+        ]
+      },
+      "properties": {
+        "id": "node/4024224245",
+        "element_id": 4024224245,
+        "element_type": "node",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '275 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'manufacturer': 'Vergnet', 'model': 'GEV MP 275/32', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:46:38.163986",
+        "url": "https://www.openstreetmap.org/node/4024224245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5496764,
+          17.1791691
+        ]
+      },
+      "properties": {
+        "id": "node/4024224245",
+        "element_id": 4024224245,
+        "element_type": "node",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "275 kW",
+        "details": "Tag 'generator:output:electricity' has value '275 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:46:38.163986",
+        "url": "https://www.openstreetmap.org/node/4024224245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5490158,
+          17.1798415
+        ]
+      },
+      "properties": {
+        "id": "node/4024224246",
+        "element_id": 4024224246,
+        "element_type": "node",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '275 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'manufacturer': 'Vergnet', 'model': 'GEV MP 275/32', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:46:38.163986",
+        "url": "https://www.openstreetmap.org/node/4024224246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5490158,
+          17.1798415
+        ]
+      },
+      "properties": {
+        "id": "node/4024224246",
+        "element_id": 4024224246,
+        "element_type": "node",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "275 kW",
+        "details": "Tag 'generator:output:electricity' has value '275 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:46:38.163986",
+        "url": "https://www.openstreetmap.org/node/4024224246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5476671,
+          17.1811605
+        ]
+      },
+      "properties": {
+        "id": "node/4024236659",
+        "element_id": 4024236659,
+        "element_type": "node",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '275 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'manufacturer': 'Vergnet', 'model': 'GEV MP 275/32', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:46:38.163986",
+        "url": "https://www.openstreetmap.org/node/4024236659"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5476671,
+          17.1811605
+        ]
+      },
+      "properties": {
+        "id": "node/4024236659",
+        "element_id": 4024236659,
+        "element_type": "node",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "275 kW",
+        "details": "Tag 'generator:output:electricity' has value '275 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:46:38.163986",
+        "url": "https://www.openstreetmap.org/node/4024236659"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.70660066491333,
+          17.30033474348156
+        ]
+      },
+      "properties": {
+        "id": "way/396800292",
+        "element_id": 396800292,
+        "element_type": "way",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:46:38.165023",
+        "url": "https://www.openstreetmap.org/way/396800292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.70660066491333,
+          17.30033474348156
+        ]
+      },
+      "properties": {
+        "id": "way/396800292",
+        "element_id": 396800292,
+        "element_type": "way",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:38.165023",
+        "url": "https://www.openstreetmap.org/way/396800292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.70660066491333,
+          17.30033474348156
+        ]
+      },
+      "properties": {
+        "id": "way/396800292",
+        "element_id": 396800292,
+        "element_type": "way",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:38.167084",
+        "url": "https://www.openstreetmap.org/way/396800292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.61021417815341,
+          17.126032041810557
+        ]
+      },
+      "properties": {
+        "id": "way/681690775",
+        "element_id": 681690775,
+        "element_type": "way",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:38.167084",
+        "url": "https://www.openstreetmap.org/way/681690775"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.61021417815341,
+          17.126032041810557
+        ]
+      },
+      "properties": {
+        "id": "way/681690775",
+        "element_id": 681690775,
+        "element_type": "way",
+        "country": "Saint Kitts and Nevis",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:38.167084",
+        "url": "https://www.openstreetmap.org/way/681690775"
+      }
+    }
+  ]
+}

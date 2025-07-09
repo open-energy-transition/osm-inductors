@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3065028705870767,
+          6.426092597428193
+        ]
+      },
+      "properties": {
+        "id": "way/838371849",
+        "element_id": 838371849,
+        "element_type": "way",
+        "country": "Benin",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:26.412224",
+        "url": "https://www.openstreetmap.org/way/838371849"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3072836,
+          6.4223836
+        ]
+      },
+      "properties": {
+        "id": "node/10011697881",
+        "element_id": 10011697881,
+        "element_type": "node",
+        "country": "Benin",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Centrale électrique de Marie Gléta', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:26.413230",
+        "url": "https://www.openstreetmap.org/node/10011697881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6284133,
+          9.3781122
+        ]
+      },
+      "properties": {
+        "id": "node/10968667852",
+        "element_id": 10968667852,
+        "element_type": "node",
+        "country": "Benin",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'description': 'chantier en construction', 'name': 'Groupement K2R ENERRGY KELON INTERNATIONAL', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:26.413230",
+        "url": "https://www.openstreetmap.org/node/10968667852"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6647088,
+          6.4893324
+        ]
+      },
+      "properties": {
+        "id": "node/10992681676",
+        "element_id": 10992681676,
+        "element_type": "node",
+        "country": "Benin",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Centrale thermique', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:26.413230",
+        "url": "https://www.openstreetmap.org/node/10992681676"
+      }
+    }
+  ]
+}

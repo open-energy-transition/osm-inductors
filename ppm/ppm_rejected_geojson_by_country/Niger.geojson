@@ -1,0 +1,313 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.090254856304982,
+          13.515452316372656
+        ]
+      },
+      "properties": {
+        "id": "way/525145527",
+        "element_id": 525145527,
+        "element_type": "way",
+        "country": "Niger",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Maradi power plant', 'power': 'plant', 'source': 'Mapbox'}",
+        "timestamp": "2025-07-07 18:42:41.693175",
+        "url": "https://www.openstreetmap.org/way/525145527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9243780851847015,
+          14.725035474788935
+        ]
+      },
+      "properties": {
+        "id": "way/535372029",
+        "element_id": 535372029,
+        "element_type": "way",
+        "country": "Niger",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'operator': 'Public', 'plant:output:electricity': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:41.694175",
+        "url": "https://www.openstreetmap.org/way/535372029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9243780851847015,
+          14.725035474788935
+        ]
+      },
+      "properties": {
+        "id": "way/535372029",
+        "element_id": 535372029,
+        "element_type": "way",
+        "country": "Niger",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'operator': 'Public', 'plant:output:electricity': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:41.694175",
+        "url": "https://www.openstreetmap.org/way/535372029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.950650092976545,
+          13.80041843754981
+        ]
+      },
+      "properties": {
+        "id": "way/625375849",
+        "element_id": 625375849,
+        "element_type": "way",
+        "country": "Niger",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:41.694175",
+        "url": "https://www.openstreetmap.org/way/625375849"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1131925068206066,
+          13.419800318314508
+        ]
+      },
+      "properties": {
+        "id": "way/1166186318",
+        "element_id": 1166186318,
+        "element_type": "way",
+        "country": "Niger",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:41.695195",
+        "url": "https://www.openstreetmap.org/way/1166186318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.096576725271915,
+          13.240748632572537
+        ]
+      },
+      "properties": {
+        "id": "way/997677873",
+        "element_id": 997677873,
+        "element_type": "way",
+        "country": "Niger",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:41.695195",
+        "url": "https://www.openstreetmap.org/way/997677873"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.096576725271915,
+          13.240748632572537
+        ]
+      },
+      "properties": {
+        "id": "way/997677873",
+        "element_id": 997677873,
+        "element_type": "way",
+        "country": "Niger",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:41.695195",
+        "url": "https://www.openstreetmap.org/way/997677873"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.173432075956043,
+          13.471001690041987
+        ]
+      },
+      "properties": {
+        "id": "way/1193945218",
+        "element_id": 1193945218,
+        "element_type": "way",
+        "country": "Niger",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:41.696260",
+        "url": "https://www.openstreetmap.org/way/1193945218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.173432075956043,
+          13.471001690041987
+        ]
+      },
+      "properties": {
+        "id": "way/1193945218",
+        "element_id": 1193945218,
+        "element_type": "way",
+        "country": "Niger",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:41.696260",
+        "url": "https://www.openstreetmap.org/way/1193945218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.173432075956043,
+          13.471001690041987
+        ]
+      },
+      "properties": {
+        "id": "way/1193945218",
+        "element_id": 1193945218,
+        "element_type": "way",
+        "country": "Niger",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:41.698259",
+        "url": "https://www.openstreetmap.org/way/1193945218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.791973360183086,
+          18.115641681762728
+        ]
+      },
+      "properties": {
+        "id": "way/1246173329",
+        "element_id": 1246173329,
+        "element_type": "way",
+        "country": "Niger",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Centrale hybride de Timia', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:41.698259",
+        "url": "https://www.openstreetmap.org/way/1246173329"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.512940499960068,
+          13.955703123543207
+        ]
+      },
+      "properties": {
+        "id": "way/1284561222",
+        "element_id": 1284561222,
+        "element_type": "way",
+        "country": "Niger",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:41.698259",
+        "url": "https://www.openstreetmap.org/way/1284561222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0517016,
+          13.6396424
+        ]
+      },
+      "properties": {
+        "id": "node/4959326419",
+        "element_id": 4959326419,
+        "element_type": "node",
+        "country": "Niger",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': \"Centrale d'électricité Nigelec Doutchi\", 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:41.700261",
+        "url": "https://www.openstreetmap.org/node/4959326419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.512940499960068,
+          13.955703123543207
+        ]
+      },
+      "properties": {
+        "id": "way/1284561222",
+        "element_id": 1284561222,
+        "element_type": "way",
+        "country": "Niger",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Malbaza', 'operator': 'NIGELEC', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:41.700261",
+        "url": "https://www.openstreetmap.org/way/1284561222"
+      }
+    }
+  ]
+}

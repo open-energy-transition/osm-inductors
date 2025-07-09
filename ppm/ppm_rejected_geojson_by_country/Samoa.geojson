@@ -1,0 +1,643 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.5703970478602,
+          -13.94416592779776
+        ]
+      },
+      "properties": {
+        "id": "way/139731024",
+        "element_id": 139731024,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:46:48.314929",
+        "url": "https://www.openstreetmap.org/way/139731024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.5703970478602,
+          -13.94416592779776
+        ]
+      },
+      "properties": {
+        "id": "way/139731024",
+        "element_id": 139731024,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:46:48.314929",
+        "url": "https://www.openstreetmap.org/way/139731024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.80810973108984,
+          -13.840204034569071
+        ]
+      },
+      "properties": {
+        "id": "way/877531448",
+        "element_id": 877531448,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:48.314929",
+        "url": "https://www.openstreetmap.org/way/877531448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.80810973108984,
+          -13.840204034569071
+        ]
+      },
+      "properties": {
+        "id": "way/877531448",
+        "element_id": 877531448,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:46:48.314929",
+        "url": "https://www.openstreetmap.org/way/877531448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.22924856885265,
+          -13.731622846040294
+        ]
+      },
+      "properties": {
+        "id": "way/1054501356",
+        "element_id": 1054501356,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:48.315928",
+        "url": "https://www.openstreetmap.org/way/1054501356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.22924856885265,
+          -13.731622846040294
+        ]
+      },
+      "properties": {
+        "id": "way/1054501356",
+        "element_id": 1054501356,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:46:48.315928",
+        "url": "https://www.openstreetmap.org/way/1054501356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.02522020508175,
+          -13.851292540898154
+        ]
+      },
+      "properties": {
+        "id": "way/1379558895",
+        "element_id": 1379558895,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Afolau Gasification Plant', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:48.315928",
+        "url": "https://www.openstreetmap.org/way/1379558895"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.4525642038722,
+          -14.0373603865165
+        ]
+      },
+      "properties": {
+        "id": "way/1382653995",
+        "element_id": 1382653995,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:46:48.316929",
+        "url": "https://www.openstreetmap.org/way/1382653995"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.5703945435154,
+          -13.944123974258488
+        ]
+      },
+      "properties": {
+        "id": "way/1383856509",
+        "element_id": 1383856509,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:46:48.316929",
+        "url": "https://www.openstreetmap.org/way/1383856509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.5703945435154,
+          -13.944123974258488
+        ]
+      },
+      "properties": {
+        "id": "way/1383856509",
+        "element_id": 1383856509,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:48.316929",
+        "url": "https://www.openstreetmap.org/way/1383856509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.5703945435154,
+          -13.944123974258488
+        ]
+      },
+      "properties": {
+        "id": "way/1383856509",
+        "element_id": 1383856509,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:46:48.316929",
+        "url": "https://www.openstreetmap.org/way/1383856509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.80966919691545,
+          -13.99872175723215
+        ]
+      },
+      "properties": {
+        "id": "way/1384196600",
+        "element_id": 1384196600,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:46:48.316929",
+        "url": "https://www.openstreetmap.org/way/1384196600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.80966919691545,
+          -13.99872175723215
+        ]
+      },
+      "properties": {
+        "id": "way/1384196600",
+        "element_id": 1384196600,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:46:48.316929",
+        "url": "https://www.openstreetmap.org/way/1384196600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.7244303,
+          -13.8462432
+        ]
+      },
+      "properties": {
+        "id": "way/1384804985",
+        "element_id": 1384804985,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:46:48.316929",
+        "url": "https://www.openstreetmap.org/way/1384804985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.7244303,
+          -13.8462432
+        ]
+      },
+      "properties": {
+        "id": "way/1384804985",
+        "element_id": 1384804985,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Mapufagalele Standby Generator and Inverter Building', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:48.318924",
+        "url": "https://www.openstreetmap.org/way/1384804985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.75846475831008,
+          -13.839098451827372
+        ]
+      },
+      "properties": {
+        "id": "way/1384905581",
+        "element_id": 1384905581,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:46:48.318924",
+        "url": "https://www.openstreetmap.org/way/1384905581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.75846475831008,
+          -13.839098451827372
+        ]
+      },
+      "properties": {
+        "id": "way/1384905581",
+        "element_id": 1384905581,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:46:48.318924",
+        "url": "https://www.openstreetmap.org/way/1384905581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.75852800480104,
+          -13.839068285585062
+        ]
+      },
+      "properties": {
+        "id": "way/1384905710",
+        "element_id": 1384905710,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:48.318924",
+        "url": "https://www.openstreetmap.org/way/1384905710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.75852800480104,
+          -13.839068285585062
+        ]
+      },
+      "properties": {
+        "id": "way/1384905710",
+        "element_id": 1384905710,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:48.318924",
+        "url": "https://www.openstreetmap.org/way/1384905710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.99179455718013,
+          -13.832518601501263
+        ]
+      },
+      "properties": {
+        "id": "way/1386015012",
+        "element_id": 1386015012,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:46:48.319928",
+        "url": "https://www.openstreetmap.org/way/1386015012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.98943539210072,
+          -13.831777323752508
+        ]
+      },
+      "properties": {
+        "id": "way/1386015013",
+        "element_id": 1386015013,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:46:48.319928",
+        "url": "https://www.openstreetmap.org/way/1386015013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.98734624012118,
+          -13.831384597826688
+        ]
+      },
+      "properties": {
+        "id": "way/1386015014",
+        "element_id": 1386015014,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:46:48.319928",
+        "url": "https://www.openstreetmap.org/way/1386015014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.7994637828706,
+          -13.82391607485107
+        ]
+      },
+      "properties": {
+        "id": "way/1388907479",
+        "element_id": 1388907479,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:46:48.319928",
+        "url": "https://www.openstreetmap.org/way/1388907479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.75795540882274,
+          -13.852547321461614
+        ]
+      },
+      "properties": {
+        "id": "way/1389952604",
+        "element_id": 1389952604,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:46:48.320928",
+        "url": "https://www.openstreetmap.org/way/1389952604"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.75795540882274,
+          -13.852547321461614
+        ]
+      },
+      "properties": {
+        "id": "way/1389952604",
+        "element_id": 1389952604,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Tanugamanono Solar Farm', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:48.321927",
+        "url": "https://www.openstreetmap.org/way/1389952604"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.7577418391848,
+          -13.852276959544865
+        ]
+      },
+      "properties": {
+        "id": "way/1389954297",
+        "element_id": 1389954297,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Tanugamanono Power Station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:48.322925",
+        "url": "https://www.openstreetmap.org/way/1389954297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.7525926054754,
+          -13.872452017295153
+        ]
+      },
+      "properties": {
+        "id": "way/1391918884",
+        "element_id": 1391918884,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': \"Fale ole Fe'e Hydro Station\", 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:48.322925",
+        "url": "https://www.openstreetmap.org/way/1391918884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.75396458161777,
+          -13.879337051107672
+        ]
+      },
+      "properties": {
+        "id": "way/1391920280",
+        "element_id": 1391920280,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Alaoa Hydro Station Compound', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:48.322925",
+        "url": "https://www.openstreetmap.org/way/1391920280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.79714105427593,
+          -13.848202084188529
+        ]
+      },
+      "properties": {
+        "id": "way/1392463803",
+        "element_id": 1392463803,
+        "element_type": "way",
+        "country": "Samoa",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Fuluaso Hydro Power House', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:48.322925",
+        "url": "https://www.openstreetmap.org/way/1392463803"
+      }
+    }
+  ]
+}

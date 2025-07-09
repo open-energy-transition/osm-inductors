@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.94896651841589,
+          16.499316796469294
+        ]
+      },
+      "properties": {
+        "id": "way/1155972911",
+        "element_id": 1155972911,
+        "element_type": "way",
+        "country": "Eritrea",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:34.140852",
+        "url": "https://www.openstreetmap.org/way/1155972911"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.94896651841589,
+          16.499316796469294
+        ]
+      },
+      "properties": {
+        "id": "way/1155972911",
+        "element_id": 1155972911,
+        "element_type": "way",
+        "country": "Eritrea",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:34.140852",
+        "url": "https://www.openstreetmap.org/way/1155972911"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.94896651841589,
+          16.499316796469294
+        ]
+      },
+      "properties": {
+        "id": "way/1155972911",
+        "element_id": 1155972911,
+        "element_type": "way",
+        "country": "Eritrea",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:34.140852",
+        "url": "https://www.openstreetmap.org/way/1155972911"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.92216575026366,
+          15.420213835061524
+        ]
+      },
+      "properties": {
+        "id": "way/1216646984",
+        "element_id": 1216646984,
+        "element_type": "way",
+        "country": "Eritrea",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:34.141861",
+        "url": "https://www.openstreetmap.org/way/1216646984"
+      }
+    }
+  ]
+}

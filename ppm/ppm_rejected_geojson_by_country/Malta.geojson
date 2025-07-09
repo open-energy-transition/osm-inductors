@@ -1,0 +1,313 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.39377922988246,
+          35.911315196479606
+        ]
+      },
+      "properties": {
+        "id": "relation/15034302",
+        "element_id": 15034302,
+        "element_type": "relation",
+        "country": "Malta",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:40:26.300738",
+        "url": "https://www.openstreetmap.org/relation/15034302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.39377922988246,
+          35.911315196479606
+        ]
+      },
+      "properties": {
+        "id": "relation/15034302",
+        "element_id": 15034302,
+        "element_type": "relation",
+        "country": "Malta",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:26.300738",
+        "url": "https://www.openstreetmap.org/relation/15034302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.553551066136588,
+          35.83394690767754
+        ]
+      },
+      "properties": {
+        "id": "way/404123948",
+        "element_id": 404123948,
+        "element_type": "way",
+        "country": "Malta",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:26.302748",
+        "url": "https://www.openstreetmap.org/way/404123948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.45001956826328,
+          35.83544657737214
+        ]
+      },
+      "properties": {
+        "id": "way/1042729673",
+        "element_id": 1042729673,
+        "element_type": "way",
+        "country": "Malta",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:26.304736",
+        "url": "https://www.openstreetmap.org/way/1042729673"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.45001956826328,
+          35.83544657737214
+        ]
+      },
+      "properties": {
+        "id": "way/1042729673",
+        "element_id": 1042729673,
+        "element_type": "way",
+        "country": "Malta",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:26.304736",
+        "url": "https://www.openstreetmap.org/way/1042729673"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.45721310688008,
+          35.841042063438564
+        ]
+      },
+      "properties": {
+        "id": "way/1042729674",
+        "element_id": 1042729674,
+        "element_type": "way",
+        "country": "Malta",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:26.304736",
+        "url": "https://www.openstreetmap.org/way/1042729674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.45721310688008,
+          35.841042063438564
+        ]
+      },
+      "properties": {
+        "id": "way/1042729674",
+        "element_id": 1042729674,
+        "element_type": "way",
+        "country": "Malta",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:26.304736",
+        "url": "https://www.openstreetmap.org/way/1042729674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.553551066136588,
+          35.83394690767754
+        ]
+      },
+      "properties": {
+        "id": "way/404123948",
+        "element_id": 404123948,
+        "element_type": "way",
+        "country": "Malta",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'combustion', 'generator:source': 'gas', 'generator:type': 'combined_cycle', 'landuse': 'industrial', 'name': 'Delimara Electrogas', 'operator': 'Electrogas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:26.304736",
+        "url": "https://www.openstreetmap.org/way/404123948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.527366592814351,
+          35.8086080008927
+        ]
+      },
+      "properties": {
+        "id": "way/961675225",
+        "element_id": 961675225,
+        "element_type": "way",
+        "country": "Malta",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Hili Energy', 'plant:method': 'photovoltaic', 'plant:output:electricity': '2.4 MW', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2020-10-1', 'website': 'https://www.hili.company/en/energy'}",
+        "timestamp": "2025-07-07 18:40:26.304736",
+        "url": "https://www.openstreetmap.org/way/961675225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.456956451042691,
+          35.85995070856424
+        ]
+      },
+      "properties": {
+        "id": "way/1042729685",
+        "element_id": 1042729685,
+        "element_type": "way",
+        "country": "Malta",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:26.305733",
+        "url": "https://www.openstreetmap.org/way/1042729685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.456956451042691,
+          35.85995070856424
+        ]
+      },
+      "properties": {
+        "id": "way/1042729685",
+        "element_id": 1042729685,
+        "element_type": "way",
+        "country": "Malta",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:26.305733",
+        "url": "https://www.openstreetmap.org/way/1042729685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.474465983929184,
+          35.86214414864332
+        ]
+      },
+      "properties": {
+        "id": "way/1208981883",
+        "element_id": 1208981883,
+        "element_type": "way",
+        "country": "Malta",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:26.305733",
+        "url": "https://www.openstreetmap.org/way/1208981883"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.474465983929184,
+          35.86214414864332
+        ]
+      },
+      "properties": {
+        "id": "way/1208981883",
+        "element_id": 1208981883,
+        "element_type": "way",
+        "country": "Malta",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:26.305733",
+        "url": "https://www.openstreetmap.org/way/1208981883"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.474465983929184,
+          35.86214414864332
+        ]
+      },
+      "properties": {
+        "id": "way/1208981883",
+        "element_id": 1208981883,
+        "element_type": "way",
+        "country": "Malta",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:26.306732",
+        "url": "https://www.openstreetmap.org/way/1208981883"
+      }
+    }
+  ]
+}

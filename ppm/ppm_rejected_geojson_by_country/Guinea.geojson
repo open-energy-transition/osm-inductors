@@ -1,0 +1,269 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.450398616136024,
+          11.048190463665229
+        ]
+      },
+      "properties": {
+        "id": "way/180372395",
+        "element_id": 180372395,
+        "element_type": "way",
+        "country": "Guinea",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:53.653649",
+        "url": "https://www.openstreetmap.org/way/180372395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.299217664099896,
+          12.078455731844413
+        ]
+      },
+      "properties": {
+        "id": "way/521101524",
+        "element_id": 521101524,
+        "element_type": "way",
+        "country": "Guinea",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:53.654689",
+        "url": "https://www.openstreetmap.org/way/521101524"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.299217664099896,
+          12.078455731844413
+        ]
+      },
+      "properties": {
+        "id": "way/521101524",
+        "element_id": 521101524,
+        "element_type": "way",
+        "country": "Guinea",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:53.654689",
+        "url": "https://www.openstreetmap.org/way/521101524"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.299740033411682,
+          12.078426399311512
+        ]
+      },
+      "properties": {
+        "id": "way/521104954",
+        "element_id": 521104954,
+        "element_type": "way",
+        "country": "Guinea",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:53.654689",
+        "url": "https://www.openstreetmap.org/way/521104954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.299740033411682,
+          12.078426399311512
+        ]
+      },
+      "properties": {
+        "id": "way/521104954",
+        "element_id": 521104954,
+        "element_type": "way",
+        "country": "Guinea",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:53.654689",
+        "url": "https://www.openstreetmap.org/way/521104954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.30067282272686,
+          12.07835735733797
+        ]
+      },
+      "properties": {
+        "id": "way/521104958",
+        "element_id": 521104958,
+        "element_type": "way",
+        "country": "Guinea",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:53.654689",
+        "url": "https://www.openstreetmap.org/way/521104958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.30067282272686,
+          12.07835735733797
+        ]
+      },
+      "properties": {
+        "id": "way/521104958",
+        "element_id": 521104958,
+        "element_type": "way",
+        "country": "Guinea",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:53.654689",
+        "url": "https://www.openstreetmap.org/way/521104958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.170203828737918,
+          10.72896933429139
+        ]
+      },
+      "properties": {
+        "id": "way/1209239658",
+        "element_id": 1209239658,
+        "element_type": "way",
+        "country": "Guinea",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:53.655739",
+        "url": "https://www.openstreetmap.org/way/1209239658"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.170203828737918,
+          10.72896933429139
+        ]
+      },
+      "properties": {
+        "id": "way/1209239658",
+        "element_id": 1209239658,
+        "element_type": "way",
+        "country": "Guinea",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:33:53.655739",
+        "url": "https://www.openstreetmap.org/way/1209239658"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.563838499999996,
+          10.6510531
+        ]
+      },
+      "properties": {
+        "id": "way/636909284",
+        "element_id": 636909284,
+        "element_type": "way",
+        "country": "Guinea",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:33:53.655739",
+        "url": "https://www.openstreetmap.org/way/636909284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.1700087,
+          10.7290784
+        ]
+      },
+      "properties": {
+        "id": "node/10673410433",
+        "element_id": 10673410433,
+        "element_type": "node",
+        "country": "Guinea",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Barrage Tinkisso', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:53.657250",
+        "url": "https://www.openstreetmap.org/node/10673410433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.048131703818866,
+          11.749630178418329
+        ]
+      },
+      "properties": {
+        "id": "way/1292852359",
+        "element_id": 1292852359,
+        "element_type": "way",
+        "country": "Guinea",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:33:53.657250",
+        "url": "https://www.openstreetmap.org/way/1292852359"
+      }
+    }
+  ]
+}

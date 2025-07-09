@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.545839300827184,
+          -1.76260468031447
+        ]
+      },
+      "properties": {
+        "id": "way/510004615",
+        "element_id": 510004615,
+        "element_type": "way",
+        "country": "Gabon",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:31:03.415671",
+        "url": "https://www.openstreetmap.org/way/510004615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.545839300827184,
+          -1.76260468031447
+        ]
+      },
+      "properties": {
+        "id": "way/510004615",
+        "element_id": 510004615,
+        "element_type": "way",
+        "country": "Gabon",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:31:03.415671",
+        "url": "https://www.openstreetmap.org/way/510004615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.505235987210918,
+          0.3446912728632881
+        ]
+      },
+      "properties": {
+        "id": "way/542385732",
+        "element_id": 542385732,
+        "element_type": "way",
+        "country": "Gabon",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Centre SEEG Akournam Owendo', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:31:03.415671",
+        "url": "https://www.openstreetmap.org/way/542385732"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.544500001953685,
+          -1.7630743023511202
+        ]
+      },
+      "properties": {
+        "id": "way/662920186",
+        "element_id": 662920186,
+        "element_type": "way",
+        "country": "Gabon",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:31:03.416670",
+        "url": "https://www.openstreetmap.org/way/662920186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.544500001953685,
+          -1.7630743023511202
+        ]
+      },
+      "properties": {
+        "id": "way/662920186",
+        "element_id": 662920186,
+        "element_type": "way",
+        "country": "Gabon",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:31:03.417670",
+        "url": "https://www.openstreetmap.org/way/662920186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.015030549999995,
+          -1.8243495
+        ]
+      },
+      "properties": {
+        "id": "way/1190190038",
+        "element_id": 1190190038,
+        "element_type": "way",
+        "country": "Gabon",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Bakoumba', 'addr:province': 'Haut-Ogooué', 'building': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:31:03.418671",
+        "url": "https://www.openstreetmap.org/way/1190190038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.015030549999995,
+          -1.8243495
+        ]
+      },
+      "properties": {
+        "id": "way/1190190038",
+        "element_id": 1190190038,
+        "element_type": "way",
+        "country": "Gabon",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Bakoumba', 'addr:province': 'Haut-Ogooué', 'building': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:31:03.418671",
+        "url": "https://www.openstreetmap.org/way/1190190038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75534019319301,
+          -0.7564054045843088
+        ]
+      },
+      "properties": {
+        "id": "way/1295798802",
+        "element_id": 1295798802,
+        "element_type": "way",
+        "country": "Gabon",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:31:03.418671",
+        "url": "https://www.openstreetmap.org/way/1295798802"
+      }
+    }
+  ]
+}

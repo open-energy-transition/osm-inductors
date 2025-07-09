@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.364358348641704,
+          36.14875112163238
+        ]
+      },
+      "properties": {
+        "id": "way/72488333",
+        "element_id": 72488333,
+        "element_type": "way",
+        "country": "Gibraltar",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:32:56.543710",
+        "url": "https://www.openstreetmap.org/way/72488333"
+      }
+    }
+  ]
+}

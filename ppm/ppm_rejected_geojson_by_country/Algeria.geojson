@@ -1,0 +1,1567 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.50544701533567,
+          28.611903666459845
+        ]
+      },
+      "properties": {
+        "id": "way/262763310",
+        "element_id": 262763310,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.306278",
+        "url": "https://www.openstreetmap.org/way/262763310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.50544701533567,
+          28.611903666459845
+        ]
+      },
+      "properties": {
+        "id": "way/262763310",
+        "element_id": 262763310,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.306278",
+        "url": "https://www.openstreetmap.org/way/262763310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.329576497954797,
+          36.55543898299274
+        ]
+      },
+      "properties": {
+        "id": "way/263370469",
+        "element_id": 263370469,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:07.306278",
+        "url": "https://www.openstreetmap.org/way/263370469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.215526826212676,
+          24.59149403503617
+        ]
+      },
+      "properties": {
+        "id": "way/272469157",
+        "element_id": 272469157,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'landuse': 'industrial', 'name:es': 'Central de Tinelkoum', 'name:fr': 'Centrale de Tinelkoum', 'operator': 'SKTM', 'plant:method': 'combustion', 'plant:output:electricity': '0.9 MW', 'plant:source': 'gas', 'power': 'plant', 'source': 'http://www.sktm.dz/?page=article&id=60'}",
+        "timestamp": "2025-07-07 18:21:07.306278",
+        "url": "https://www.openstreetmap.org/way/272469157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0619987858968378,
+          35.281528110260446
+        ]
+      },
+      "properties": {
+        "id": "way/366404940",
+        "element_id": 366404940,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'water-storage', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.308724",
+        "url": "https://www.openstreetmap.org/way/366404940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0619987858968378,
+          35.281528110260446
+        ]
+      },
+      "properties": {
+        "id": "way/366404940",
+        "element_id": 366404940,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'water-storage', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.308724",
+        "url": "https://www.openstreetmap.org/way/366404940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9717280478969665,
+          36.74741023796535
+        ]
+      },
+      "properties": {
+        "id": "way/371509385",
+        "element_id": 371509385,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:07.308724",
+        "url": "https://www.openstreetmap.org/way/371509385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9717280478969665,
+          36.74741023796535
+        ]
+      },
+      "properties": {
+        "id": "way/371509385",
+        "element_id": 371509385,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'solar;wind', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.308724",
+        "url": "https://www.openstreetmap.org/way/371509385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9717280478969665,
+          36.74741023796535
+        ]
+      },
+      "properties": {
+        "id": "way/371509385",
+        "element_id": 371509385,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.308724",
+        "url": "https://www.openstreetmap.org/way/371509385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5604873802808843,
+          36.163766965450606
+        ]
+      },
+      "properties": {
+        "id": "way/377741274",
+        "element_id": 377741274,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.309734",
+        "url": "https://www.openstreetmap.org/way/377741274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.356502249165751,
+          33.123302359658055
+        ]
+      },
+      "properties": {
+        "id": "way/380257014",
+        "element_id": 380257014,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 14 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:07.309734",
+        "url": "https://www.openstreetmap.org/way/380257014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3562352576820613,
+          33.12535488050811
+        ]
+      },
+      "properties": {
+        "id": "way/380257015",
+        "element_id": 380257015,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.309734",
+        "url": "https://www.openstreetmap.org/way/380257015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2900152559324149,
+          35.80655901907121
+        ]
+      },
+      "properties": {
+        "id": "way/381724722",
+        "element_id": 381724722,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 11 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:07.311189",
+        "url": "https://www.openstreetmap.org/way/381724722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2900152559324149,
+          35.80655901907121
+        ]
+      },
+      "properties": {
+        "id": "way/381724722",
+        "element_id": 381724722,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'عين البية', 'addr:city:ar': 'عين البية', 'name': 'مركز كهرباء', 'name:ar': 'مركز كهرباء', 'name:fr': 'Centrale Electrique', 'operator': 'Sonelgaz', 'operator:ar': 'الشركة الوطنية للكهرباء والغاز', 'operator:wikidata': 'Q3490327', 'operator:wikipedia': 'ar:سونلغاز', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.311189",
+        "url": "https://www.openstreetmap.org/way/381724722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5048094308610125,
+          34.712260030293905
+        ]
+      },
+      "properties": {
+        "id": "way/384877793",
+        "element_id": 384877793,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Centrale hydroélectrique', 'plant:method': 'water-storage', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.311189",
+        "url": "https://www.openstreetmap.org/way/384877793"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.152944338706181,
+          27.747320898351145
+        ]
+      },
+      "properties": {
+        "id": "way/406778947",
+        "element_id": 406778947,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'combustion', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.312205",
+        "url": "https://www.openstreetmap.org/way/406778947"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.152944338706181,
+          27.747320898351145
+        ]
+      },
+      "properties": {
+        "id": "way/406778947",
+        "element_id": 406778947,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'combustion', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.312205",
+        "url": "https://www.openstreetmap.org/way/406778947"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.271316116836798,
+          36.5430497543806
+        ]
+      },
+      "properties": {
+        "id": "way/407512001",
+        "element_id": 407512001,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:07.312205",
+        "url": "https://www.openstreetmap.org/way/407512001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.271316116836798,
+          36.5430497543806
+        ]
+      },
+      "properties": {
+        "id": "way/407512001",
+        "element_id": 407512001,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Centrale hydroélectrique Imaɣras', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.312205",
+        "url": "https://www.openstreetmap.org/way/407512001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.458713547986427,
+          24.491589633633893
+        ]
+      },
+      "properties": {
+        "id": "way/427723001",
+        "element_id": 427723001,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'landuse': 'industrial', 'name:fr': 'Centrale de Djanet', 'operator': 'SKTM', 'plant:method': 'combustion', 'plant:output:electricity': '19.5 MW', 'plant:source': 'gas', 'power': 'plant', 'source': 'http://www.sktm.dz/?page=article&id=60'}",
+        "timestamp": "2025-07-07 18:21:07.312205",
+        "url": "https://www.openstreetmap.org/way/427723001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.408749266175665,
+          25.401813227204684
+        ]
+      },
+      "properties": {
+        "id": "way/515591670",
+        "element_id": 515591670,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.315458",
+        "url": "https://www.openstreetmap.org/way/515591670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.408749266175665,
+          25.401813227204684
+        ]
+      },
+      "properties": {
+        "id": "way/515591670",
+        "element_id": 515591670,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.315458",
+        "url": "https://www.openstreetmap.org/way/515591670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.469131279251393,
+          24.482474817720597
+        ]
+      },
+      "properties": {
+        "id": "way/1077395129",
+        "element_id": 1077395129,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'operator': 'Sonelgaz', 'operator:wikidata': 'Q3490327', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.322603",
+        "url": "https://www.openstreetmap.org/way/1077395129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.469131279251393,
+          24.482474817720597
+        ]
+      },
+      "properties": {
+        "id": "way/1077395129",
+        "element_id": 1077395129,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'operator': 'Sonelgaz', 'operator:wikidata': 'Q3490327', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.322603",
+        "url": "https://www.openstreetmap.org/way/1077395129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.715829444026445,
+          34.866281148963246
+        ]
+      },
+      "properties": {
+        "id": "way/1080923934",
+        "element_id": 1080923934,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.322603",
+        "url": "https://www.openstreetmap.org/way/1080923934"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.715829444026445,
+          34.866281148963246
+        ]
+      },
+      "properties": {
+        "id": "way/1080923934",
+        "element_id": 1080923934,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.322603",
+        "url": "https://www.openstreetmap.org/way/1080923934"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.00362924875971,
+          34.707232227318386
+        ]
+      },
+      "properties": {
+        "id": "way/852536192",
+        "element_id": 852536192,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.322603",
+        "url": "https://www.openstreetmap.org/way/852536192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.00362924875971,
+          34.707232227318386
+        ]
+      },
+      "properties": {
+        "id": "way/852536192",
+        "element_id": 852536192,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.322603",
+        "url": "https://www.openstreetmap.org/way/852536192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9177225642824665,
+          36.70546251707954
+        ]
+      },
+      "properties": {
+        "id": "way/907030293",
+        "element_id": 907030293,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.322603",
+        "url": "https://www.openstreetmap.org/way/907030293"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9177225642824665,
+          36.70546251707954
+        ]
+      },
+      "properties": {
+        "id": "way/907030293",
+        "element_id": 907030293,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.322603",
+        "url": "https://www.openstreetmap.org/way/907030293"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.708182965507442,
+          36.79593676446412
+        ]
+      },
+      "properties": {
+        "id": "way/1098636494",
+        "element_id": 1098636494,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'El-Hadjar Power Station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.323611",
+        "url": "https://www.openstreetmap.org/way/1098636494"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9206383045074948,
+          21.348979763269977
+        ]
+      },
+      "properties": {
+        "id": "way/1117197396",
+        "element_id": 1117197396,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.323611",
+        "url": "https://www.openstreetmap.org/way/1117197396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9206383045074948,
+          21.348979763269977
+        ]
+      },
+      "properties": {
+        "id": "way/1117197396",
+        "element_id": 1117197396,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.323611",
+        "url": "https://www.openstreetmap.org/way/1117197396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.696308496033935,
+          32.5197318109194
+        ]
+      },
+      "properties": {
+        "id": "way/1149444970",
+        "element_id": 1149444970,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.323611",
+        "url": "https://www.openstreetmap.org/way/1149444970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8680346269007688,
+          35.09735092439793
+        ]
+      },
+      "properties": {
+        "id": "way/1172401433",
+        "element_id": 1172401433,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant', 'source': 'Algerie Mapper Team (Superadlen)'}",
+        "timestamp": "2025-07-07 18:21:07.323611",
+        "url": "https://www.openstreetmap.org/way/1172401433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8680346269007688,
+          35.09735092439793
+        ]
+      },
+      "properties": {
+        "id": "way/1172401433",
+        "element_id": 1172401433,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.323611",
+        "url": "https://www.openstreetmap.org/way/1172401433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8649959642581608,
+          35.097763911067894
+        ]
+      },
+      "properties": {
+        "id": "way/1172401818",
+        "element_id": 1172401818,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'man_made': 'works', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant', 'source': 'Algerie Mapper Team (Superadlen)'}",
+        "timestamp": "2025-07-07 18:21:07.323611",
+        "url": "https://www.openstreetmap.org/way/1172401818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8649959642581608,
+          35.097763911067894
+        ]
+      },
+      "properties": {
+        "id": "way/1172401818",
+        "element_id": 1172401818,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.323611",
+        "url": "https://www.openstreetmap.org/way/1172401818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8678323815716535,
+          35.09849747596772
+        ]
+      },
+      "properties": {
+        "id": "way/1172401881",
+        "element_id": 1172401881,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant', 'source': 'Algerie Mapper Team (Superadlen)'}",
+        "timestamp": "2025-07-07 18:21:07.323611",
+        "url": "https://www.openstreetmap.org/way/1172401881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8678323815716535,
+          35.09849747596772
+        ]
+      },
+      "properties": {
+        "id": "way/1172401881",
+        "element_id": 1172401881,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.323611",
+        "url": "https://www.openstreetmap.org/way/1172401881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.866345929360688,
+          35.097431195280336
+        ]
+      },
+      "properties": {
+        "id": "way/1172401890",
+        "element_id": 1172401890,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant', 'source': 'Algerie Mapper Team (Superadlen)'}",
+        "timestamp": "2025-07-07 18:21:07.323611",
+        "url": "https://www.openstreetmap.org/way/1172401890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.866345929360688,
+          35.097431195280336
+        ]
+      },
+      "properties": {
+        "id": "way/1172401890",
+        "element_id": 1172401890,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.323611",
+        "url": "https://www.openstreetmap.org/way/1172401890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.86713825,
+          35.097366349999994
+        ]
+      },
+      "properties": {
+        "id": "way/1172402896",
+        "element_id": 1172402896,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant', 'source': 'Algerie Mapper Team (Superadlen)'}",
+        "timestamp": "2025-07-07 18:21:07.324852",
+        "url": "https://www.openstreetmap.org/way/1172402896"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.86713825,
+          35.097366349999994
+        ]
+      },
+      "properties": {
+        "id": "way/1172402896",
+        "element_id": 1172402896,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.324852",
+        "url": "https://www.openstreetmap.org/way/1172402896"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8645140301164145,
+          35.098489961207775
+        ]
+      },
+      "properties": {
+        "id": "way/1172403029",
+        "element_id": 1172403029,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant', 'source': 'Algerie Mapper Team (Superadlen)'}",
+        "timestamp": "2025-07-07 18:21:07.324852",
+        "url": "https://www.openstreetmap.org/way/1172403029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8645140301164145,
+          35.098489961207775
+        ]
+      },
+      "properties": {
+        "id": "way/1172403029",
+        "element_id": 1172403029,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.324852",
+        "url": "https://www.openstreetmap.org/way/1172403029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.849672083042363,
+          28.88130217760908
+        ]
+      },
+      "properties": {
+        "id": "way/1178296903",
+        "element_id": 1178296903,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:07.324852",
+        "url": "https://www.openstreetmap.org/way/1178296903"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.849672083042363,
+          28.88130217760908
+        ]
+      },
+      "properties": {
+        "id": "way/1178296903",
+        "element_id": 1178296903,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.324852",
+        "url": "https://www.openstreetmap.org/way/1178296903"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.849672083042363,
+          28.88130217760908
+        ]
+      },
+      "properties": {
+        "id": "way/1178296903",
+        "element_id": 1178296903,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.324852",
+        "url": "https://www.openstreetmap.org/way/1178296903"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.178881224007715,
+          36.71054208513051
+        ]
+      },
+      "properties": {
+        "id": "way/1239253127",
+        "element_id": 1239253127,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.324852",
+        "url": "https://www.openstreetmap.org/way/1239253127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.275965702385509,
+          36.50470106500337
+        ]
+      },
+      "properties": {
+        "id": "way/1282887805",
+        "element_id": 1282887805,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.324852",
+        "url": "https://www.openstreetmap.org/way/1282887805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.275965702385509,
+          36.50470106500337
+        ]
+      },
+      "properties": {
+        "id": "way/1282887805",
+        "element_id": 1282887805,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.324852",
+        "url": "https://www.openstreetmap.org/way/1282887805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.970475776910868,
+          19.988547474647863
+        ]
+      },
+      "properties": {
+        "id": "way/1307299844",
+        "element_id": 1307299844,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.325884",
+        "url": "https://www.openstreetmap.org/way/1307299844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.970475776910868,
+          19.988547474647863
+        ]
+      },
+      "properties": {
+        "id": "way/1307299844",
+        "element_id": 1307299844,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.325884",
+        "url": "https://www.openstreetmap.org/way/1307299844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9713714723836477,
+          19.98881228627122
+        ]
+      },
+      "properties": {
+        "id": "way/1307299845",
+        "element_id": 1307299845,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.325884",
+        "url": "https://www.openstreetmap.org/way/1307299845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9713714723836477,
+          19.98881228627122
+        ]
+      },
+      "properties": {
+        "id": "way/1307299845",
+        "element_id": 1307299845,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.325884",
+        "url": "https://www.openstreetmap.org/way/1307299845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.972035833407377,
+          19.988410782231632
+        ]
+      },
+      "properties": {
+        "id": "way/1307299846",
+        "element_id": 1307299846,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.325884",
+        "url": "https://www.openstreetmap.org/way/1307299846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.972035833407377,
+          19.988410782231632
+        ]
+      },
+      "properties": {
+        "id": "way/1307299846",
+        "element_id": 1307299846,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.325884",
+        "url": "https://www.openstreetmap.org/way/1307299846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.972229227270505,
+          19.989259351864067
+        ]
+      },
+      "properties": {
+        "id": "way/1307299847",
+        "element_id": 1307299847,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.325884",
+        "url": "https://www.openstreetmap.org/way/1307299847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.972229227270505,
+          19.989259351864067
+        ]
+      },
+      "properties": {
+        "id": "way/1307299847",
+        "element_id": 1307299847,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.325884",
+        "url": "https://www.openstreetmap.org/way/1307299847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.972869825167249,
+          19.988870449140585
+        ]
+      },
+      "properties": {
+        "id": "way/1307299848",
+        "element_id": 1307299848,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.325884",
+        "url": "https://www.openstreetmap.org/way/1307299848"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.972869825167249,
+          19.988870449140585
+        ]
+      },
+      "properties": {
+        "id": "way/1307299848",
+        "element_id": 1307299848,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.325884",
+        "url": "https://www.openstreetmap.org/way/1307299848"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.808427697042759,
+          28.18349407840169
+        ]
+      },
+      "properties": {
+        "id": "way/1334160941",
+        "element_id": 1334160941,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:07.325884",
+        "url": "https://www.openstreetmap.org/way/1334160941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.808427697042759,
+          28.18349407840169
+        ]
+      },
+      "properties": {
+        "id": "way/1334160941",
+        "element_id": 1334160941,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant', 'source': 'ESRI'}",
+        "timestamp": "2025-07-07 18:21:07.325884",
+        "url": "https://www.openstreetmap.org/way/1334160941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.808427697042759,
+          28.18349407840169
+        ]
+      },
+      "properties": {
+        "id": "way/1334160941",
+        "element_id": 1334160941,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant', 'source': 'ESRI'}",
+        "timestamp": "2025-07-07 18:21:07.325884",
+        "url": "https://www.openstreetmap.org/way/1334160941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.518943764805876,
+          29.30046715283288
+        ]
+      },
+      "properties": {
+        "id": "way/1360113338",
+        "element_id": 1360113338,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.325884",
+        "url": "https://www.openstreetmap.org/way/1360113338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.518943764805876,
+          29.30046715283288
+        ]
+      },
+      "properties": {
+        "id": "way/1360113338",
+        "element_id": 1360113338,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.325884",
+        "url": "https://www.openstreetmap.org/way/1360113338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.818240541384471,
+          20.448489645951963
+        ]
+      },
+      "properties": {
+        "id": "way/1408133720",
+        "element_id": 1408133720,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:07.326884",
+        "url": "https://www.openstreetmap.org/way/1408133720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.775579284567961,
+          19.61972744147509
+        ]
+      },
+      "properties": {
+        "id": "way/1408133721",
+        "element_id": 1408133721,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:07.326884",
+        "url": "https://www.openstreetmap.org/way/1408133721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.575122516305408,
+          31.219647737201587
+        ]
+      },
+      "properties": {
+        "id": "way/1409691259",
+        "element_id": 1409691259,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:07.328064",
+        "url": "https://www.openstreetmap.org/way/1409691259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.575122516305408,
+          31.219647737201587
+        ]
+      },
+      "properties": {
+        "id": "way/1409691259",
+        "element_id": 1409691259,
+        "element_type": "way",
+        "country": "Algeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:07.328064",
+        "url": "https://www.openstreetmap.org/way/1409691259"
+      }
+    }
+  ]
+}

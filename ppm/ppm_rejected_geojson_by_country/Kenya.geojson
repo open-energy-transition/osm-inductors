@@ -1,0 +1,973 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.307566314239686,
+          -0.889656747081233
+        ]
+      },
+      "properties": {
+        "id": "relation/15457554",
+        "element_id": 15457554,
+        "element_type": "relation",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:38:40.004658",
+        "url": "https://www.openstreetmap.org/relation/15457554"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.87104106003093,
+          3.69372115140093
+        ]
+      },
+      "properties": {
+        "id": "relation/16545474",
+        "element_id": 16545474,
+        "element_type": "relation",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:38:40.005659",
+        "url": "https://www.openstreetmap.org/relation/16545474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.87104106003093,
+          3.69372115140093
+        ]
+      },
+      "properties": {
+        "id": "relation/16545474",
+        "element_id": 16545474,
+        "element_type": "relation",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:38:40.007167",
+        "url": "https://www.openstreetmap.org/relation/16545474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.79283821373065,
+          2.490376025697496
+        ]
+      },
+      "properties": {
+        "id": "relation/19168227",
+        "element_id": 19168227,
+        "element_type": "relation",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Lake Turkana Wind Power Project', 'operator': 'Lake Turkana Wind Power', 'power': 'plant', 'type': 'multipolygon', 'website': 'https://ltwp.co.ke/'}",
+        "timestamp": "2025-07-07 18:38:40.013176",
+        "url": "https://www.openstreetmap.org/relation/19168227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.25524816075728,
+          -0.8886646367185975
+        ]
+      },
+      "properties": {
+        "id": "way/238279769",
+        "element_id": 238279769,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:38:40.019177",
+        "url": "https://www.openstreetmap.org/way/238279769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.29950122934699,
+          -0.8647359249602059
+        ]
+      },
+      "properties": {
+        "id": "way/255555404",
+        "element_id": 255555404,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:38:40.019177",
+        "url": "https://www.openstreetmap.org/way/255555404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.98590699489709,
+          2.332006253037704
+        ]
+      },
+      "properties": {
+        "id": "way/623440570",
+        "element_id": 623440570,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:38:40.021176",
+        "url": "https://www.openstreetmap.org/way/623440570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.98590699489709,
+          2.332006253037704
+        ]
+      },
+      "properties": {
+        "id": "way/623440570",
+        "element_id": 623440570,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Marsabit', 'addr:street': 'Marsabit-Moyale road', 'landuse': 'industrial', 'name': 'Marsabit', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.022177",
+        "url": "https://www.openstreetmap.org/way/623440570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.27164981913711,
+          -0.8670784798410484
+        ]
+      },
+      "properties": {
+        "id": "way/753235590",
+        "element_id": 753235590,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:38:40.024176",
+        "url": "https://www.openstreetmap.org/way/753235590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.27164981913711,
+          -0.8670784798410484
+        ]
+      },
+      "properties": {
+        "id": "way/753235590",
+        "element_id": 753235590,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.024176",
+        "url": "https://www.openstreetmap.org/way/753235590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.27164981913711,
+          -0.8670784798410484
+        ]
+      },
+      "properties": {
+        "id": "way/753235590",
+        "element_id": 753235590,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.026175",
+        "url": "https://www.openstreetmap.org/way/753235590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.70224335581295,
+          -1.349003750832788
+        ]
+      },
+      "properties": {
+        "id": "way/808553626",
+        "element_id": 808553626,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.026175",
+        "url": "https://www.openstreetmap.org/way/808553626"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.70224335581295,
+          -1.349003750832788
+        ]
+      },
+      "properties": {
+        "id": "way/808553626",
+        "element_id": 808553626,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:38:40.026175",
+        "url": "https://www.openstreetmap.org/way/808553626"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.81273111262532,
+          -0.8100061174012748
+        ]
+      },
+      "properties": {
+        "id": "way/846596010",
+        "element_id": 846596010,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:38:40.026175",
+        "url": "https://www.openstreetmap.org/way/846596010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81367556646913,
+          3.740312762932108
+        ]
+      },
+      "properties": {
+        "id": "way/1204267825",
+        "element_id": 1204267825,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:38:40.029177",
+        "url": "https://www.openstreetmap.org/way/1204267825"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81367556646913,
+          3.740312762932108
+        ]
+      },
+      "properties": {
+        "id": "way/1204267825",
+        "element_id": 1204267825,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.029177",
+        "url": "https://www.openstreetmap.org/way/1204267825"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81367556646913,
+          3.740312762932108
+        ]
+      },
+      "properties": {
+        "id": "way/1204267825",
+        "element_id": 1204267825,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.031177",
+        "url": "https://www.openstreetmap.org/way/1204267825"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18904451032172,
+          -0.4687952371731158
+        ]
+      },
+      "properties": {
+        "id": "way/1213903877",
+        "element_id": 1213903877,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:38:40.032318",
+        "url": "https://www.openstreetmap.org/way/1213903877"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18904451032172,
+          -0.4687952371731158
+        ]
+      },
+      "properties": {
+        "id": "way/1213903877",
+        "element_id": 1213903877,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "313kW",
+        "details": "Tag 'plant:output:electricity' has value '313kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:38:40.032318",
+        "url": "https://www.openstreetmap.org/way/1213903877"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.88101560806537,
+          -0.5002858016614689
+        ]
+      },
+      "properties": {
+        "id": "way/1214008286",
+        "element_id": 1214008286,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:38:40.033327",
+        "url": "https://www.openstreetmap.org/way/1214008286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.92171645080307,
+          2.820482253473167
+        ]
+      },
+      "properties": {
+        "id": "way/1369665610",
+        "element_id": 1369665610,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:38:40.033327",
+        "url": "https://www.openstreetmap.org/way/1369665610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.92171645080307,
+          2.820482253473167
+        ]
+      },
+      "properties": {
+        "id": "way/1369665610",
+        "element_id": 1369665610,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.033327",
+        "url": "https://www.openstreetmap.org/way/1369665610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.92171645080307,
+          2.820482253473167
+        ]
+      },
+      "properties": {
+        "id": "way/1369665610",
+        "element_id": 1369665610,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.034327",
+        "url": "https://www.openstreetmap.org/way/1369665610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.87409973590838,
+          3.5507609478498816
+        ]
+      },
+      "properties": {
+        "id": "way/1369683259",
+        "element_id": 1369683259,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:38:40.034327",
+        "url": "https://www.openstreetmap.org/way/1369683259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.87409973590838,
+          3.5507609478498816
+        ]
+      },
+      "properties": {
+        "id": "way/1369683259",
+        "element_id": 1369683259,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.034327",
+        "url": "https://www.openstreetmap.org/way/1369683259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.87409973590838,
+          3.5507609478498816
+        ]
+      },
+      "properties": {
+        "id": "way/1369683259",
+        "element_id": 1369683259,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.036327",
+        "url": "https://www.openstreetmap.org/way/1369683259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.08194441998704,
+          0.2545916677931992
+        ]
+      },
+      "properties": {
+        "id": "way/1395060855",
+        "element_id": 1395060855,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:38:40.036327",
+        "url": "https://www.openstreetmap.org/way/1395060855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.08194441998704,
+          0.2545916677931992
+        ]
+      },
+      "properties": {
+        "id": "way/1395060855",
+        "element_id": 1395060855,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.036327",
+        "url": "https://www.openstreetmap.org/way/1395060855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.08194441998704,
+          0.2545916677931992
+        ]
+      },
+      "properties": {
+        "id": "way/1395060855",
+        "element_id": 1395060855,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.037329",
+        "url": "https://www.openstreetmap.org/way/1395060855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.08304050782815,
+          0.2581860331219671
+        ]
+      },
+      "properties": {
+        "id": "way/1395060856",
+        "element_id": 1395060856,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:38:40.037329",
+        "url": "https://www.openstreetmap.org/way/1395060856"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.08304050782815,
+          0.2581860331219671
+        ]
+      },
+      "properties": {
+        "id": "way/1395060856",
+        "element_id": 1395060856,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.037329",
+        "url": "https://www.openstreetmap.org/way/1395060856"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.08304050782815,
+          0.2581860331219671
+        ]
+      },
+      "properties": {
+        "id": "way/1395060856",
+        "element_id": 1395060856,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.039440",
+        "url": "https://www.openstreetmap.org/way/1395060856"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.85531293032538,
+          -1.3284833297077987
+        ]
+      },
+      "properties": {
+        "id": "way/1395074729",
+        "element_id": 1395074729,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:38:40.039440",
+        "url": "https://www.openstreetmap.org/way/1395074729"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.85531293032538,
+          -1.3284833297077987
+        ]
+      },
+      "properties": {
+        "id": "way/1395074729",
+        "element_id": 1395074729,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.039440",
+        "url": "https://www.openstreetmap.org/way/1395074729"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.85531293032538,
+          -1.3284833297077987
+        ]
+      },
+      "properties": {
+        "id": "way/1395074729",
+        "element_id": 1395074729,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.040439",
+        "url": "https://www.openstreetmap.org/way/1395074729"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.92276908565061,
+          -1.13981824491758
+        ]
+      },
+      "properties": {
+        "id": "way/1395074730",
+        "element_id": 1395074730,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:38:40.040439",
+        "url": "https://www.openstreetmap.org/way/1395074730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.92276908565061,
+          -1.13981824491758
+        ]
+      },
+      "properties": {
+        "id": "way/1395074730",
+        "element_id": 1395074730,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.040439",
+        "url": "https://www.openstreetmap.org/way/1395074730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.92276908565061,
+          -1.13981824491758
+        ]
+      },
+      "properties": {
+        "id": "way/1395074730",
+        "element_id": 1395074730,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.042439",
+        "url": "https://www.openstreetmap.org/way/1395074730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.92289905546568,
+          -1.1391474710637897
+        ]
+      },
+      "properties": {
+        "id": "way/1395074731",
+        "element_id": 1395074731,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:38:40.042439",
+        "url": "https://www.openstreetmap.org/way/1395074731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.92289905546568,
+          -1.1391474710637897
+        ]
+      },
+      "properties": {
+        "id": "way/1395074731",
+        "element_id": 1395074731,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.042439",
+        "url": "https://www.openstreetmap.org/way/1395074731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.92289905546568,
+          -1.1391474710637897
+        ]
+      },
+      "properties": {
+        "id": "way/1395074731",
+        "element_id": 1395074731,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.043441",
+        "url": "https://www.openstreetmap.org/way/1395074731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.52997104156235,
+          -3.9241444468686
+        ]
+      },
+      "properties": {
+        "id": "way/1409736972",
+        "element_id": 1409736972,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:38:40.043441",
+        "url": "https://www.openstreetmap.org/way/1409736972"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.52997104156235,
+          -3.9241444468686
+        ]
+      },
+      "properties": {
+        "id": "way/1409736972",
+        "element_id": 1409736972,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.043441",
+        "url": "https://www.openstreetmap.org/way/1409736972"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.52997104156235,
+          -3.9241444468686
+        ]
+      },
+      "properties": {
+        "id": "way/1409736972",
+        "element_id": 1409736972,
+        "element_type": "way",
+        "country": "Kenya",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:40.045439",
+        "url": "https://www.openstreetmap.org/way/1409736972"
+      }
+    }
+  ]
+}

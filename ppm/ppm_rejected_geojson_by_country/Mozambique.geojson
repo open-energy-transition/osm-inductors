@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.62813336876636,
+          -14.534104806873842
+        ]
+      },
+      "properties": {
+        "id": "way/326324219",
+        "element_id": 326324219,
+        "element_type": "way",
+        "country": "Mozambique",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:23.427423",
+        "url": "https://www.openstreetmap.org/way/326324219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.62813336876636,
+          -14.534104806873842
+        ]
+      },
+      "properties": {
+        "id": "way/326324219",
+        "element_id": 326324219,
+        "element_type": "way",
+        "country": "Mozambique",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Aggreko', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:23.429423",
+        "url": "https://www.openstreetmap.org/way/326324219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.134259097645696,
+          -25.21872530465484
+        ]
+      },
+      "properties": {
+        "id": "way/1393750407",
+        "element_id": 1393750407,
+        "element_type": "way",
+        "country": "Mozambique",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:23.436423",
+        "url": "https://www.openstreetmap.org/way/1393750407"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.134259097645696,
+          -25.21872530465484
+        ]
+      },
+      "properties": {
+        "id": "way/1393750407",
+        "element_id": 1393750407,
+        "element_type": "way",
+        "country": "Mozambique",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:23.436423",
+        "url": "https://www.openstreetmap.org/way/1393750407"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.134259097645696,
+          -25.21872530465484
+        ]
+      },
+      "properties": {
+        "id": "way/1393750407",
+        "element_id": 1393750407,
+        "element_type": "way",
+        "country": "Mozambique",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:23.438422",
+        "url": "https://www.openstreetmap.org/way/1393750407"
+      }
+    }
+  ]
+}

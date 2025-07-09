@@ -1,0 +1,3855 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2618493319161,
+          34.539277579932715
+        ]
+      },
+      "properties": {
+        "id": "relation/10888041",
+        "element_id": 10888041,
+        "element_type": "relation",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:20:51.659925",
+        "url": "https://www.openstreetmap.org/relation/10888041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2618493319161,
+          34.539277579932715
+        ]
+      },
+      "properties": {
+        "id": "relation/10888041",
+        "element_id": 10888041,
+        "element_type": "relation",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:20:51.659925",
+        "url": "https://www.openstreetmap.org/relation/10888041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.20627159782546,
+          34.53977472591689
+        ]
+      },
+      "properties": {
+        "id": "relation/10900244",
+        "element_id": 10900244,
+        "element_type": "relation",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:20:51.659925",
+        "url": "https://www.openstreetmap.org/relation/10900244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.20627159782546,
+          34.53977472591689
+        ]
+      },
+      "properties": {
+        "id": "relation/10900244",
+        "element_id": 10900244,
+        "element_type": "relation",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:20:51.659925",
+        "url": "https://www.openstreetmap.org/relation/10900244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4738562,
+          35.2826336
+        ]
+      },
+      "properties": {
+        "id": "node/6918826609",
+        "element_id": 6918826609,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4738562,
+          35.2826336
+        ]
+      },
+      "properties": {
+        "id": "node/6918826609",
+        "element_id": 6918826609,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4738562,
+          35.2826336
+        ]
+      },
+      "properties": {
+        "id": "node/6918826609",
+        "element_id": 6918826609,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.474103,
+          35.2826404
+        ]
+      },
+      "properties": {
+        "id": "node/6918826610",
+        "element_id": 6918826610,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.474103,
+          35.2826404
+        ]
+      },
+      "properties": {
+        "id": "node/6918826610",
+        "element_id": 6918826610,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.474103,
+          35.2826404
+        ]
+      },
+      "properties": {
+        "id": "node/6918826610",
+        "element_id": 6918826610,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4739775,
+          35.2828265
+        ]
+      },
+      "properties": {
+        "id": "node/6918826611",
+        "element_id": 6918826611,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4739775,
+          35.2828265
+        ]
+      },
+      "properties": {
+        "id": "node/6918826611",
+        "element_id": 6918826611,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4739775,
+          35.2828265
+        ]
+      },
+      "properties": {
+        "id": "node/6918826611",
+        "element_id": 6918826611,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4737202,
+          35.2827975
+        ]
+      },
+      "properties": {
+        "id": "node/6918826612",
+        "element_id": 6918826612,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826612"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4737202,
+          35.2827975
+        ]
+      },
+      "properties": {
+        "id": "node/6918826612",
+        "element_id": 6918826612,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826612"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4737202,
+          35.2827975
+        ]
+      },
+      "properties": {
+        "id": "node/6918826612",
+        "element_id": 6918826612,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826612"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4735571,
+          35.2829409
+        ]
+      },
+      "properties": {
+        "id": "node/6918826613",
+        "element_id": 6918826613,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4735571,
+          35.2829409
+        ]
+      },
+      "properties": {
+        "id": "node/6918826613",
+        "element_id": 6918826613,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4735571,
+          35.2829409
+        ]
+      },
+      "properties": {
+        "id": "node/6918826613",
+        "element_id": 6918826613,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4738269,
+          35.2829973
+        ]
+      },
+      "properties": {
+        "id": "node/6918826614",
+        "element_id": 6918826614,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4738269,
+          35.2829973
+        ]
+      },
+      "properties": {
+        "id": "node/6918826614",
+        "element_id": 6918826614,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4738269,
+          35.2829973
+        ]
+      },
+      "properties": {
+        "id": "node/6918826614",
+        "element_id": 6918826614,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4736575,
+          35.2831219
+        ]
+      },
+      "properties": {
+        "id": "node/6918826615",
+        "element_id": 6918826615,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4736575,
+          35.2831219
+        ]
+      },
+      "properties": {
+        "id": "node/6918826615",
+        "element_id": 6918826615,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4736575,
+          35.2831219
+        ]
+      },
+      "properties": {
+        "id": "node/6918826615",
+        "element_id": 6918826615,
+        "element_type": "node",
+        "country": "Afghanistan",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/node/6918826615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.47380926448223,
+          35.28284799491085
+        ]
+      },
+      "properties": {
+        "id": "relation/15716401",
+        "element_id": 15716401,
+        "element_type": "relation",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'wind', 'power': 'plant', 'site': 'wind_farm', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/relation/15716401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.47380926448223,
+          35.28284799491085
+        ]
+      },
+      "properties": {
+        "id": "relation/15716401",
+        "element_id": 15716401,
+        "element_type": "relation",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'wind', 'power': 'plant', 'site': 'wind_farm', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:20:51.661925",
+        "url": "https://www.openstreetmap.org/relation/15716401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.71706333579488,
+          34.64104800552219
+        ]
+      },
+      "properties": {
+        "id": "way/7927888",
+        "element_id": 7927888,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 14 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.662925",
+        "url": "https://www.openstreetmap.org/way/7927888"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.36309553385468,
+          34.48303225096805
+        ]
+      },
+      "properties": {
+        "id": "way/384302642",
+        "element_id": 384302642,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.663925",
+        "url": "https://www.openstreetmap.org/way/384302642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.00514148122407,
+          34.74686253758007
+        ]
+      },
+      "properties": {
+        "id": "way/557816315",
+        "element_id": 557816315,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.663925",
+        "url": "https://www.openstreetmap.org/way/557816315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.00514148122407,
+          34.74686253758007
+        ]
+      },
+      "properties": {
+        "id": "way/557816315",
+        "element_id": 557816315,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.663925",
+        "url": "https://www.openstreetmap.org/way/557816315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.59157685,
+          31.8266881
+        ]
+      },
+      "properties": {
+        "id": "way/573731126",
+        "element_id": 573731126,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.663925",
+        "url": "https://www.openstreetmap.org/way/573731126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.59157685,
+          31.8266881
+        ]
+      },
+      "properties": {
+        "id": "way/573731126",
+        "element_id": 573731126,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.663925",
+        "url": "https://www.openstreetmap.org/way/573731126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.59157685,
+          31.8266881
+        ]
+      },
+      "properties": {
+        "id": "way/573731126",
+        "element_id": 573731126,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.663925",
+        "url": "https://www.openstreetmap.org/way/573731126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.81992571476462,
+          34.333336257660015
+        ]
+      },
+      "properties": {
+        "id": "way/612242336",
+        "element_id": 612242336,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.663925",
+        "url": "https://www.openstreetmap.org/way/612242336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.81992571476462,
+          34.333336257660015
+        ]
+      },
+      "properties": {
+        "id": "way/612242336",
+        "element_id": 612242336,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': '42 MW', 'plant:source': 'hydro', 'power': 'plant', 'start_date': '2016'}",
+        "timestamp": "2025-07-07 18:20:51.663925",
+        "url": "https://www.openstreetmap.org/way/612242336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.68793835,
+          35.981534700000005
+        ]
+      },
+      "properties": {
+        "id": "way/614884756",
+        "element_id": 614884756,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.663925",
+        "url": "https://www.openstreetmap.org/way/614884756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.68793835,
+          35.981534700000005
+        ]
+      },
+      "properties": {
+        "id": "way/614884756",
+        "element_id": 614884756,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.663925",
+        "url": "https://www.openstreetmap.org/way/614884756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.68793835,
+          35.981534700000005
+        ]
+      },
+      "properties": {
+        "id": "way/614884756",
+        "element_id": 614884756,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.663925",
+        "url": "https://www.openstreetmap.org/way/614884756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.80082453305582,
+          34.562201200653384
+        ]
+      },
+      "properties": {
+        "id": "way/616768527",
+        "element_id": 616768527,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.663925",
+        "url": "https://www.openstreetmap.org/way/616768527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.80082453305582,
+          34.562201200653384
+        ]
+      },
+      "properties": {
+        "id": "way/616768527",
+        "element_id": 616768527,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.663925",
+        "url": "https://www.openstreetmap.org/way/616768527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.80082453305582,
+          34.562201200653384
+        ]
+      },
+      "properties": {
+        "id": "way/616768527",
+        "element_id": 616768527,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.663925",
+        "url": "https://www.openstreetmap.org/way/616768527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1646387264318,
+          34.49317659336835
+        ]
+      },
+      "properties": {
+        "id": "way/637951617",
+        "element_id": 637951617,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.664925",
+        "url": "https://www.openstreetmap.org/way/637951617"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1646387264318,
+          34.49317659336835
+        ]
+      },
+      "properties": {
+        "id": "way/637951617",
+        "element_id": 637951617,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.664925",
+        "url": "https://www.openstreetmap.org/way/637951617"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.79917078991001,
+          31.570373273485025
+        ]
+      },
+      "properties": {
+        "id": "way/651251966",
+        "element_id": 651251966,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.664925",
+        "url": "https://www.openstreetmap.org/way/651251966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.79917078991001,
+          31.570373273485025
+        ]
+      },
+      "properties": {
+        "id": "way/651251966",
+        "element_id": 651251966,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.664925",
+        "url": "https://www.openstreetmap.org/way/651251966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.79750588658074,
+          31.571432523289065
+        ]
+      },
+      "properties": {
+        "id": "way/651251967",
+        "element_id": 651251967,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.664925",
+        "url": "https://www.openstreetmap.org/way/651251967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.79750588658074,
+          31.571432523289065
+        ]
+      },
+      "properties": {
+        "id": "way/651251967",
+        "element_id": 651251967,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.664925",
+        "url": "https://www.openstreetmap.org/way/651251967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.70950503590453,
+          31.62914358574331
+        ]
+      },
+      "properties": {
+        "id": "way/703666840",
+        "element_id": 703666840,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.664925",
+        "url": "https://www.openstreetmap.org/way/703666840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.70950503590453,
+          31.62914358574331
+        ]
+      },
+      "properties": {
+        "id": "way/703666840",
+        "element_id": 703666840,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.664925",
+        "url": "https://www.openstreetmap.org/way/703666840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.88077778904422,
+          31.464743789738577
+        ]
+      },
+      "properties": {
+        "id": "way/707132335",
+        "element_id": 707132335,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.664925",
+        "url": "https://www.openstreetmap.org/way/707132335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.88077778904422,
+          31.464743789738577
+        ]
+      },
+      "properties": {
+        "id": "way/707132335",
+        "element_id": 707132335,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'solar', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.664925",
+        "url": "https://www.openstreetmap.org/way/707132335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.88077778904422,
+          31.464743789738577
+        ]
+      },
+      "properties": {
+        "id": "way/707132335",
+        "element_id": 707132335,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'solar', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.664925",
+        "url": "https://www.openstreetmap.org/way/707132335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.85440483339505,
+          31.626884414227543
+        ]
+      },
+      "properties": {
+        "id": "way/707137813",
+        "element_id": 707137813,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.664925",
+        "url": "https://www.openstreetmap.org/way/707137813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.85440483339505,
+          31.626884414227543
+        ]
+      },
+      "properties": {
+        "id": "way/707137813",
+        "element_id": 707137813,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.664925",
+        "url": "https://www.openstreetmap.org/way/707137813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.216465347141856,
+          34.183064015689084
+        ]
+      },
+      "properties": {
+        "id": "way/740116463",
+        "element_id": 740116463,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.664925",
+        "url": "https://www.openstreetmap.org/way/740116463"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.216465347141856,
+          34.183064015689084
+        ]
+      },
+      "properties": {
+        "id": "way/740116463",
+        "element_id": 740116463,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.664925",
+        "url": "https://www.openstreetmap.org/way/740116463"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.86333088534651,
+          33.30716678273429
+        ]
+      },
+      "properties": {
+        "id": "way/1086922787",
+        "element_id": 1086922787,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.665925",
+        "url": "https://www.openstreetmap.org/way/1086922787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.86333088534651,
+          33.30716678273429
+        ]
+      },
+      "properties": {
+        "id": "way/1086922787",
+        "element_id": 1086922787,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.665925",
+        "url": "https://www.openstreetmap.org/way/1086922787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.28850273612123,
+          35.138539579665355
+        ]
+      },
+      "properties": {
+        "id": "way/754412429",
+        "element_id": 754412429,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.665925",
+        "url": "https://www.openstreetmap.org/way/754412429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.28850273612123,
+          35.138539579665355
+        ]
+      },
+      "properties": {
+        "id": "way/754412429",
+        "element_id": 754412429,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.665925",
+        "url": "https://www.openstreetmap.org/way/754412429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.9703839514923,
+          33.38184845526452
+        ]
+      },
+      "properties": {
+        "id": "way/782501380",
+        "element_id": 782501380,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.665925",
+        "url": "https://www.openstreetmap.org/way/782501380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.9703839514923,
+          33.38184845526452
+        ]
+      },
+      "properties": {
+        "id": "way/782501380",
+        "element_id": 782501380,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.665925",
+        "url": "https://www.openstreetmap.org/way/782501380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.29479260021945,
+          34.5616738346552
+        ]
+      },
+      "properties": {
+        "id": "way/797883660",
+        "element_id": 797883660,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.665925",
+        "url": "https://www.openstreetmap.org/way/797883660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.9850794733379,
+          36.6924245369954
+        ]
+      },
+      "properties": {
+        "id": "way/797884840",
+        "element_id": 797884840,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.665925",
+        "url": "https://www.openstreetmap.org/way/797884840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.5021021,
+          34.58158815
+        ]
+      },
+      "properties": {
+        "id": "way/858803499",
+        "element_id": 858803499,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.665925",
+        "url": "https://www.openstreetmap.org/way/858803499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.5021021,
+          34.58158815
+        ]
+      },
+      "properties": {
+        "id": "way/858803499",
+        "element_id": 858803499,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.665925",
+        "url": "https://www.openstreetmap.org/way/858803499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.43287955,
+          34.56705805
+        ]
+      },
+      "properties": {
+        "id": "way/858803502",
+        "element_id": 858803502,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.665925",
+        "url": "https://www.openstreetmap.org/way/858803502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.43287955,
+          34.56705805
+        ]
+      },
+      "properties": {
+        "id": "way/858803502",
+        "element_id": 858803502,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.665925",
+        "url": "https://www.openstreetmap.org/way/858803502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.82529196872596,
+          33.231675997646505
+        ]
+      },
+      "properties": {
+        "id": "way/1092125303",
+        "element_id": 1092125303,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.666925",
+        "url": "https://www.openstreetmap.org/way/1092125303"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.82529196872596,
+          33.231675997646505
+        ]
+      },
+      "properties": {
+        "id": "way/1092125303",
+        "element_id": 1092125303,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.666925",
+        "url": "https://www.openstreetmap.org/way/1092125303"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8251807,
+          33.23165314999999
+        ]
+      },
+      "properties": {
+        "id": "way/1092125606",
+        "element_id": 1092125606,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.666925",
+        "url": "https://www.openstreetmap.org/way/1092125606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8251807,
+          33.23165314999999
+        ]
+      },
+      "properties": {
+        "id": "way/1092125606",
+        "element_id": 1092125606,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.666925",
+        "url": "https://www.openstreetmap.org/way/1092125606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.77768501232751,
+          33.30264361993595
+        ]
+      },
+      "properties": {
+        "id": "way/1092262870",
+        "element_id": 1092262870,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.666925",
+        "url": "https://www.openstreetmap.org/way/1092262870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.77768501232751,
+          33.30264361993595
+        ]
+      },
+      "properties": {
+        "id": "way/1092262870",
+        "element_id": 1092262870,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.666925",
+        "url": "https://www.openstreetmap.org/way/1092262870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.82379055,
+          33.30769465000001
+        ]
+      },
+      "properties": {
+        "id": "way/1095087782",
+        "element_id": 1095087782,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.666925",
+        "url": "https://www.openstreetmap.org/way/1095087782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.82379055,
+          33.30769465000001
+        ]
+      },
+      "properties": {
+        "id": "way/1095087782",
+        "element_id": 1095087782,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.666925",
+        "url": "https://www.openstreetmap.org/way/1095087782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.82470778558996,
+          33.30763722889948
+        ]
+      },
+      "properties": {
+        "id": "way/1095087784",
+        "element_id": 1095087784,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.666925",
+        "url": "https://www.openstreetmap.org/way/1095087784"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.82470778558996,
+          33.30763722889948
+        ]
+      },
+      "properties": {
+        "id": "way/1095087784",
+        "element_id": 1095087784,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.666925",
+        "url": "https://www.openstreetmap.org/way/1095087784"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.81991903604023,
+          33.31710566598745
+        ]
+      },
+      "properties": {
+        "id": "way/1099006020",
+        "element_id": 1099006020,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.666925",
+        "url": "https://www.openstreetmap.org/way/1099006020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.81991903604023,
+          33.31710566598745
+        ]
+      },
+      "properties": {
+        "id": "way/1099006020",
+        "element_id": 1099006020,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.666925",
+        "url": "https://www.openstreetmap.org/way/1099006020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.77722083333693,
+          33.30250530118318
+        ]
+      },
+      "properties": {
+        "id": "way/1099926484",
+        "element_id": 1099926484,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.666925",
+        "url": "https://www.openstreetmap.org/way/1099926484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.77722083333693,
+          33.30250530118318
+        ]
+      },
+      "properties": {
+        "id": "way/1099926484",
+        "element_id": 1099926484,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.666925",
+        "url": "https://www.openstreetmap.org/way/1099926484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.77709705,
+          33.30250389999999
+        ]
+      },
+      "properties": {
+        "id": "way/1099926485",
+        "element_id": 1099926485,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.666925",
+        "url": "https://www.openstreetmap.org/way/1099926485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.77709705,
+          33.30250389999999
+        ]
+      },
+      "properties": {
+        "id": "way/1099926485",
+        "element_id": 1099926485,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.666925",
+        "url": "https://www.openstreetmap.org/way/1099926485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8385828,
+          33.2790254
+        ]
+      },
+      "properties": {
+        "id": "way/1101517148",
+        "element_id": 1101517148,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.667925",
+        "url": "https://www.openstreetmap.org/way/1101517148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8385828,
+          33.2790254
+        ]
+      },
+      "properties": {
+        "id": "way/1101517148",
+        "element_id": 1101517148,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.667925",
+        "url": "https://www.openstreetmap.org/way/1101517148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83841925,
+          33.279079450000005
+        ]
+      },
+      "properties": {
+        "id": "way/1101517149",
+        "element_id": 1101517149,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.667925",
+        "url": "https://www.openstreetmap.org/way/1101517149"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83841925,
+          33.279079450000005
+        ]
+      },
+      "properties": {
+        "id": "way/1101517149",
+        "element_id": 1101517149,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.667925",
+        "url": "https://www.openstreetmap.org/way/1101517149"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83737908697253,
+          33.27857017557096
+        ]
+      },
+      "properties": {
+        "id": "way/1101517174",
+        "element_id": 1101517174,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.667925",
+        "url": "https://www.openstreetmap.org/way/1101517174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83737908697253,
+          33.27857017557096
+        ]
+      },
+      "properties": {
+        "id": "way/1101517174",
+        "element_id": 1101517174,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.667925",
+        "url": "https://www.openstreetmap.org/way/1101517174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83739175,
+          33.278661650000004
+        ]
+      },
+      "properties": {
+        "id": "way/1101517175",
+        "element_id": 1101517175,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.667925",
+        "url": "https://www.openstreetmap.org/way/1101517175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83739175,
+          33.278661650000004
+        ]
+      },
+      "properties": {
+        "id": "way/1101517175",
+        "element_id": 1101517175,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.667925",
+        "url": "https://www.openstreetmap.org/way/1101517175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83730005000002,
+          33.27870680000001
+        ]
+      },
+      "properties": {
+        "id": "way/1101517176",
+        "element_id": 1101517176,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.667925",
+        "url": "https://www.openstreetmap.org/way/1101517176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83730005000002,
+          33.27870680000001
+        ]
+      },
+      "properties": {
+        "id": "way/1101517176",
+        "element_id": 1101517176,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.667925",
+        "url": "https://www.openstreetmap.org/way/1101517176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83547999999999,
+          33.2771186
+        ]
+      },
+      "properties": {
+        "id": "way/1101517196",
+        "element_id": 1101517196,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.667925",
+        "url": "https://www.openstreetmap.org/way/1101517196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83547999999999,
+          33.2771186
+        ]
+      },
+      "properties": {
+        "id": "way/1101517196",
+        "element_id": 1101517196,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.667925",
+        "url": "https://www.openstreetmap.org/way/1101517196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83538625,
+          33.277137499999995
+        ]
+      },
+      "properties": {
+        "id": "way/1101517197",
+        "element_id": 1101517197,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.667925",
+        "url": "https://www.openstreetmap.org/way/1101517197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83538625,
+          33.277137499999995
+        ]
+      },
+      "properties": {
+        "id": "way/1101517197",
+        "element_id": 1101517197,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.667925",
+        "url": "https://www.openstreetmap.org/way/1101517197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83540030717131,
+          33.27704443459496
+        ]
+      },
+      "properties": {
+        "id": "way/1101517198",
+        "element_id": 1101517198,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.667925",
+        "url": "https://www.openstreetmap.org/way/1101517198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83540030717131,
+          33.27704443459496
+        ]
+      },
+      "properties": {
+        "id": "way/1101517198",
+        "element_id": 1101517198,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.667925",
+        "url": "https://www.openstreetmap.org/way/1101517198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83242795,
+          33.2804675
+        ]
+      },
+      "properties": {
+        "id": "way/1101517218",
+        "element_id": 1101517218,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.667925",
+        "url": "https://www.openstreetmap.org/way/1101517218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83242795,
+          33.2804675
+        ]
+      },
+      "properties": {
+        "id": "way/1101517218",
+        "element_id": 1101517218,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.667925",
+        "url": "https://www.openstreetmap.org/way/1101517218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83245771977516,
+          33.280541315296425
+        ]
+      },
+      "properties": {
+        "id": "way/1101517219",
+        "element_id": 1101517219,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.669062",
+        "url": "https://www.openstreetmap.org/way/1101517219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83245771977516,
+          33.280541315296425
+        ]
+      },
+      "properties": {
+        "id": "way/1101517219",
+        "element_id": 1101517219,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.669062",
+        "url": "https://www.openstreetmap.org/way/1101517219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83243992934172,
+          33.28062458526758
+        ]
+      },
+      "properties": {
+        "id": "way/1101517220",
+        "element_id": 1101517220,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.669062",
+        "url": "https://www.openstreetmap.org/way/1101517220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83243992934172,
+          33.28062458526758
+        ]
+      },
+      "properties": {
+        "id": "way/1101517220",
+        "element_id": 1101517220,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.669062",
+        "url": "https://www.openstreetmap.org/way/1101517220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8323650149043,
+          33.28056893245897
+        ]
+      },
+      "properties": {
+        "id": "way/1101517221",
+        "element_id": 1101517221,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.669062",
+        "url": "https://www.openstreetmap.org/way/1101517221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8323650149043,
+          33.28056893245897
+        ]
+      },
+      "properties": {
+        "id": "way/1101517221",
+        "element_id": 1101517221,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.669062",
+        "url": "https://www.openstreetmap.org/way/1101517221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83176754336289,
+          33.279598428332584
+        ]
+      },
+      "properties": {
+        "id": "way/1101517224",
+        "element_id": 1101517224,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.669062",
+        "url": "https://www.openstreetmap.org/way/1101517224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83176754336289,
+          33.279598428332584
+        ]
+      },
+      "properties": {
+        "id": "way/1101517224",
+        "element_id": 1101517224,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.669062",
+        "url": "https://www.openstreetmap.org/way/1101517224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83183665,
+          33.2797145
+        ]
+      },
+      "properties": {
+        "id": "way/1101517225",
+        "element_id": 1101517225,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.669062",
+        "url": "https://www.openstreetmap.org/way/1101517225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.83183665,
+          33.2797145
+        ]
+      },
+      "properties": {
+        "id": "way/1101517225",
+        "element_id": 1101517225,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.669062",
+        "url": "https://www.openstreetmap.org/way/1101517225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8371074896412,
+          33.27567276620356
+        ]
+      },
+      "properties": {
+        "id": "way/1101677423",
+        "element_id": 1101677423,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.669062",
+        "url": "https://www.openstreetmap.org/way/1101677423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8371074896412,
+          33.27567276620356
+        ]
+      },
+      "properties": {
+        "id": "way/1101677423",
+        "element_id": 1101677423,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.669062",
+        "url": "https://www.openstreetmap.org/way/1101677423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.84346488918693,
+          33.30302762000377
+        ]
+      },
+      "properties": {
+        "id": "way/1102175030",
+        "element_id": 1102175030,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.669062",
+        "url": "https://www.openstreetmap.org/way/1102175030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.84346488918693,
+          33.30302762000377
+        ]
+      },
+      "properties": {
+        "id": "way/1102175030",
+        "element_id": 1102175030,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant', 'source': 'solar'}",
+        "timestamp": "2025-07-07 18:20:51.669062",
+        "url": "https://www.openstreetmap.org/way/1102175030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.79697702777125,
+          35.194649712522086
+        ]
+      },
+      "properties": {
+        "id": "way/1109264200",
+        "element_id": 1109264200,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.669062",
+        "url": "https://www.openstreetmap.org/way/1109264200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.79697702777125,
+          35.194649712522086
+        ]
+      },
+      "properties": {
+        "id": "way/1109264200",
+        "element_id": 1109264200,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.669062",
+        "url": "https://www.openstreetmap.org/way/1109264200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.78432413649332,
+          35.199995871302576
+        ]
+      },
+      "properties": {
+        "id": "way/1109264203",
+        "element_id": 1109264203,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.670070",
+        "url": "https://www.openstreetmap.org/way/1109264203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.78432413649332,
+          35.199995871302576
+        ]
+      },
+      "properties": {
+        "id": "way/1109264203",
+        "element_id": 1109264203,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.670070",
+        "url": "https://www.openstreetmap.org/way/1109264203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.70515314263042,
+          35.18254660171764
+        ]
+      },
+      "properties": {
+        "id": "way/1109713958",
+        "element_id": 1109713958,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.670070",
+        "url": "https://www.openstreetmap.org/way/1109713958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.70515314263042,
+          35.18254660171764
+        ]
+      },
+      "properties": {
+        "id": "way/1109713958",
+        "element_id": 1109713958,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.670070",
+        "url": "https://www.openstreetmap.org/way/1109713958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.7851277506355,
+          35.2019176733931
+        ]
+      },
+      "properties": {
+        "id": "way/1109739986",
+        "element_id": 1109739986,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.670070",
+        "url": "https://www.openstreetmap.org/way/1109739986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.7851277506355,
+          35.2019176733931
+        ]
+      },
+      "properties": {
+        "id": "way/1109739986",
+        "element_id": 1109739986,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.670070",
+        "url": "https://www.openstreetmap.org/way/1109739986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.78175708580652,
+          35.19924245549185
+        ]
+      },
+      "properties": {
+        "id": "way/1110114878",
+        "element_id": 1110114878,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.670070",
+        "url": "https://www.openstreetmap.org/way/1110114878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.78175708580652,
+          35.19924245549185
+        ]
+      },
+      "properties": {
+        "id": "way/1110114878",
+        "element_id": 1110114878,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.670070",
+        "url": "https://www.openstreetmap.org/way/1110114878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.78276406895142,
+          35.198169429660794
+        ]
+      },
+      "properties": {
+        "id": "way/1110114882",
+        "element_id": 1110114882,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.670070",
+        "url": "https://www.openstreetmap.org/way/1110114882"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.78276406895142,
+          35.198169429660794
+        ]
+      },
+      "properties": {
+        "id": "way/1110114882",
+        "element_id": 1110114882,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.670070",
+        "url": "https://www.openstreetmap.org/way/1110114882"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.78762988564918,
+          35.19355579426233
+        ]
+      },
+      "properties": {
+        "id": "way/1110116804",
+        "element_id": 1110116804,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.670070",
+        "url": "https://www.openstreetmap.org/way/1110116804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.78762988564918,
+          35.19355579426233
+        ]
+      },
+      "properties": {
+        "id": "way/1110116804",
+        "element_id": 1110116804,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.670070",
+        "url": "https://www.openstreetmap.org/way/1110116804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.79117292368237,
+          35.197349990149924
+        ]
+      },
+      "properties": {
+        "id": "way/1110290440",
+        "element_id": 1110290440,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.670070",
+        "url": "https://www.openstreetmap.org/way/1110290440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.79117292368237,
+          35.197349990149924
+        ]
+      },
+      "properties": {
+        "id": "way/1110290440",
+        "element_id": 1110290440,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.670070",
+        "url": "https://www.openstreetmap.org/way/1110290440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.75527158733298,
+          35.20213098691456
+        ]
+      },
+      "properties": {
+        "id": "way/1110489920",
+        "element_id": 1110489920,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.671070",
+        "url": "https://www.openstreetmap.org/way/1110489920"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.75527158733298,
+          35.20213098691456
+        ]
+      },
+      "properties": {
+        "id": "way/1110489920",
+        "element_id": 1110489920,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.671070",
+        "url": "https://www.openstreetmap.org/way/1110489920"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.76748174109814,
+          35.21570850308602
+        ]
+      },
+      "properties": {
+        "id": "way/1110602608",
+        "element_id": 1110602608,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.671070",
+        "url": "https://www.openstreetmap.org/way/1110602608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.76748174109814,
+          35.21570850308602
+        ]
+      },
+      "properties": {
+        "id": "way/1110602608",
+        "element_id": 1110602608,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.671070",
+        "url": "https://www.openstreetmap.org/way/1110602608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.75119995,
+          35.205518649999995
+        ]
+      },
+      "properties": {
+        "id": "way/1111169257",
+        "element_id": 1111169257,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.671070",
+        "url": "https://www.openstreetmap.org/way/1111169257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.75119995,
+          35.205518649999995
+        ]
+      },
+      "properties": {
+        "id": "way/1111169257",
+        "element_id": 1111169257,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.671070",
+        "url": "https://www.openstreetmap.org/way/1111169257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.75000935324195,
+          35.171516336262265
+        ]
+      },
+      "properties": {
+        "id": "way/1112019201",
+        "element_id": 1112019201,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.671070",
+        "url": "https://www.openstreetmap.org/way/1112019201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.75000935324195,
+          35.171516336262265
+        ]
+      },
+      "properties": {
+        "id": "way/1112019201",
+        "element_id": 1112019201,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.671070",
+        "url": "https://www.openstreetmap.org/way/1112019201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.74528832566335,
+          35.16744570151582
+        ]
+      },
+      "properties": {
+        "id": "way/1112019206",
+        "element_id": 1112019206,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.671070",
+        "url": "https://www.openstreetmap.org/way/1112019206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.74528832566335,
+          35.16744570151582
+        ]
+      },
+      "properties": {
+        "id": "way/1112019206",
+        "element_id": 1112019206,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.671070",
+        "url": "https://www.openstreetmap.org/way/1112019206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.6110025926196,
+          35.19637812271566
+        ]
+      },
+      "properties": {
+        "id": "way/1115087439",
+        "element_id": 1115087439,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.671070",
+        "url": "https://www.openstreetmap.org/way/1115087439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.6110025926196,
+          35.19637812271566
+        ]
+      },
+      "properties": {
+        "id": "way/1115087439",
+        "element_id": 1115087439,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.671070",
+        "url": "https://www.openstreetmap.org/way/1115087439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.6110025926196,
+          35.19637812271566
+        ]
+      },
+      "properties": {
+        "id": "way/1115087439",
+        "element_id": 1115087439,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.671070",
+        "url": "https://www.openstreetmap.org/way/1115087439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.62614690748532,
+          35.193464577153065
+        ]
+      },
+      "properties": {
+        "id": "way/1115089619",
+        "element_id": 1115089619,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.671070",
+        "url": "https://www.openstreetmap.org/way/1115089619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.62614690748532,
+          35.193464577153065
+        ]
+      },
+      "properties": {
+        "id": "way/1115089619",
+        "element_id": 1115089619,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.671070",
+        "url": "https://www.openstreetmap.org/way/1115089619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.62614690748532,
+          35.193464577153065
+        ]
+      },
+      "properties": {
+        "id": "way/1115089619",
+        "element_id": 1115089619,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.671070",
+        "url": "https://www.openstreetmap.org/way/1115089619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.63117339553166,
+          35.18893792235792
+        ]
+      },
+      "properties": {
+        "id": "way/1115089627",
+        "element_id": 1115089627,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.671070",
+        "url": "https://www.openstreetmap.org/way/1115089627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.63117339553166,
+          35.18893792235792
+        ]
+      },
+      "properties": {
+        "id": "way/1115089627",
+        "element_id": 1115089627,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.671070",
+        "url": "https://www.openstreetmap.org/way/1115089627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.63117339553166,
+          35.18893792235792
+        ]
+      },
+      "properties": {
+        "id": "way/1115089627",
+        "element_id": 1115089627,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.671070",
+        "url": "https://www.openstreetmap.org/way/1115089627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.71231410863102,
+          35.185409563872426
+        ]
+      },
+      "properties": {
+        "id": "way/1115212237",
+        "element_id": 1115212237,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.672070",
+        "url": "https://www.openstreetmap.org/way/1115212237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.71231410863102,
+          35.185409563872426
+        ]
+      },
+      "properties": {
+        "id": "way/1115212237",
+        "element_id": 1115212237,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.672070",
+        "url": "https://www.openstreetmap.org/way/1115212237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.2916440563463,
+          36.74849407816805
+        ]
+      },
+      "properties": {
+        "id": "way/1135670337",
+        "element_id": 1135670337,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'waste', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.672070",
+        "url": "https://www.openstreetmap.org/way/1135670337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.2916440563463,
+          36.74849407816805
+        ]
+      },
+      "properties": {
+        "id": "way/1135670337",
+        "element_id": 1135670337,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.672070",
+        "url": "https://www.openstreetmap.org/way/1135670337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.61902776410423,
+          31.619726192764794
+        ]
+      },
+      "properties": {
+        "id": "way/1241766125",
+        "element_id": 1241766125,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.672070",
+        "url": "https://www.openstreetmap.org/way/1241766125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.61902776410423,
+          31.619726192764794
+        ]
+      },
+      "properties": {
+        "id": "way/1241766125",
+        "element_id": 1241766125,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.672070",
+        "url": "https://www.openstreetmap.org/way/1241766125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.61902776410423,
+          31.619726192764794
+        ]
+      },
+      "properties": {
+        "id": "way/1241766125",
+        "element_id": 1241766125,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.672070",
+        "url": "https://www.openstreetmap.org/way/1241766125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.60602865671736,
+          31.619379475963164
+        ]
+      },
+      "properties": {
+        "id": "way/1241766129",
+        "element_id": 1241766129,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.672070",
+        "url": "https://www.openstreetmap.org/way/1241766129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.60602865671736,
+          31.619379475963164
+        ]
+      },
+      "properties": {
+        "id": "way/1241766129",
+        "element_id": 1241766129,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.672070",
+        "url": "https://www.openstreetmap.org/way/1241766129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.60602865671736,
+          31.619379475963164
+        ]
+      },
+      "properties": {
+        "id": "way/1241766129",
+        "element_id": 1241766129,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.672070",
+        "url": "https://www.openstreetmap.org/way/1241766129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.11421630615914,
+          36.68762901727447
+        ]
+      },
+      "properties": {
+        "id": "way/1264584890",
+        "element_id": 1264584890,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.672070",
+        "url": "https://www.openstreetmap.org/way/1264584890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.11421630615914,
+          36.68762901727447
+        ]
+      },
+      "properties": {
+        "id": "way/1264584890",
+        "element_id": 1264584890,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.672070",
+        "url": "https://www.openstreetmap.org/way/1264584890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.875353111751,
+          31.463143979675344
+        ]
+      },
+      "properties": {
+        "id": "way/1265022681",
+        "element_id": 1265022681,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.672070",
+        "url": "https://www.openstreetmap.org/way/1265022681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.875353111751,
+          31.463143979675344
+        ]
+      },
+      "properties": {
+        "id": "way/1265022681",
+        "element_id": 1265022681,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.672070",
+        "url": "https://www.openstreetmap.org/way/1265022681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.875353111751,
+          31.463143979675344
+        ]
+      },
+      "properties": {
+        "id": "way/1265022681",
+        "element_id": 1265022681,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.672070",
+        "url": "https://www.openstreetmap.org/way/1265022681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.88547314979992,
+          30.32503209545609
+        ]
+      },
+      "properties": {
+        "id": "way/1266636952",
+        "element_id": 1266636952,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.672070",
+        "url": "https://www.openstreetmap.org/way/1266636952"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.88547314979992,
+          30.32503209545609
+        ]
+      },
+      "properties": {
+        "id": "way/1266636952",
+        "element_id": 1266636952,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.672070",
+        "url": "https://www.openstreetmap.org/way/1266636952"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.88547314979992,
+          30.32503209545609
+        ]
+      },
+      "properties": {
+        "id": "way/1266636952",
+        "element_id": 1266636952,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.672070",
+        "url": "https://www.openstreetmap.org/way/1266636952"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.88612633835538,
+          31.84918476513164
+        ]
+      },
+      "properties": {
+        "id": "way/1334435096",
+        "element_id": 1334435096,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:51.673070",
+        "url": "https://www.openstreetmap.org/way/1334435096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.88612633835538,
+          31.84918476513164
+        ]
+      },
+      "properties": {
+        "id": "way/1334435096",
+        "element_id": 1334435096,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.673070",
+        "url": "https://www.openstreetmap.org/way/1334435096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.88612633835538,
+          31.84918476513164
+        ]
+      },
+      "properties": {
+        "id": "way/1334435096",
+        "element_id": 1334435096,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.673070",
+        "url": "https://www.openstreetmap.org/way/1334435096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.77671258516236,
+          31.650114910153896
+        ]
+      },
+      "properties": {
+        "id": "way/1342099115",
+        "element_id": 1342099115,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:51.673070",
+        "url": "https://www.openstreetmap.org/way/1342099115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.77671258516236,
+          31.650114910153896
+        ]
+      },
+      "properties": {
+        "id": "way/1342099115",
+        "element_id": 1342099115,
+        "element_type": "way",
+        "country": "Afghanistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:51.673070",
+        "url": "https://www.openstreetmap.org/way/1342099115"
+      }
+    }
+  ]
+}

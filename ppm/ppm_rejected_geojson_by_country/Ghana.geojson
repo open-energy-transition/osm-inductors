@@ -1,0 +1,709 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0099343822172334,
+          5.675080578084816
+        ]
+      },
+      "properties": {
+        "id": "way/282578856",
+        "element_id": 282578856,
+        "element_type": "way",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.386747",
+        "url": "https://www.openstreetmap.org/way/282578856"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0099343822172334,
+          5.675080578084816
+        ]
+      },
+      "properties": {
+        "id": "way/282578856",
+        "element_id": 282578856,
+        "element_type": "way",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.386747",
+        "url": "https://www.openstreetmap.org/way/282578856"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3598546663174365,
+          5.826626172651095
+        ]
+      },
+      "properties": {
+        "id": "way/1021746811",
+        "element_id": 1021746811,
+        "element_type": "way",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:source': 'biogas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.389748",
+        "url": "https://www.openstreetmap.org/way/1021746811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3598546663174365,
+          5.826626172651095
+        ]
+      },
+      "properties": {
+        "id": "way/1021746811",
+        "element_id": 1021746811,
+        "element_type": "way",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:source': 'biogas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.390746",
+        "url": "https://www.openstreetmap.org/way/1021746811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0650132559727999,
+          5.608655079656192
+        ]
+      },
+      "properties": {
+        "id": "way/1079543440",
+        "element_id": 1079543440,
+        "element_type": "way",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:32:53.390746",
+        "url": "https://www.openstreetmap.org/way/1079543440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0650132559727999,
+          5.608655079656192
+        ]
+      },
+      "properties": {
+        "id": "way/1079543440",
+        "element_id": 1079543440,
+        "element_type": "way",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'RMU Solar Farm', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.391756",
+        "url": "https://www.openstreetmap.org/way/1079543440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0191292755798552,
+          5.677508161324266
+        ]
+      },
+      "properties": {
+        "id": "way/1090281209",
+        "element_id": 1090281209,
+        "element_type": "way",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Bridge Power Station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.391756",
+        "url": "https://www.openstreetmap.org/way/1090281209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6603527961246396,
+          4.97420229031245
+        ]
+      },
+      "properties": {
+        "id": "way/1246063588",
+        "element_id": 1246063588,
+        "element_type": "way",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Ameri Power Plant', 'note': 'Reportedly relocated to Anwomaso from this location in 2023', 'power': 'plant', 'source': 'https://www.vra.com/media/2022/Relocation-of-Ameri-Power-Plant.php', 'utility': 'power'}",
+        "timestamp": "2025-07-07 18:32:53.393745",
+        "url": "https://www.openstreetmap.org/way/1246063588"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0230338978566714,
+          5.698227569871945
+        ]
+      },
+      "properties": {
+        "id": "way/1246170595",
+        "element_id": 1246170595,
+        "element_type": "way",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'GPGC Power Plant', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.393745",
+        "url": "https://www.openstreetmap.org/way/1246170595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0138523370521633,
+          5.677603068241104
+        ]
+      },
+      "properties": {
+        "id": "way/1246170609",
+        "element_id": 1246170609,
+        "element_type": "way",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.393745",
+        "url": "https://www.openstreetmap.org/way/1246170609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0138523370521633,
+          5.677603068241104
+        ]
+      },
+      "properties": {
+        "id": "way/1246170609",
+        "element_id": 1246170609,
+        "element_type": "way",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.393745",
+        "url": "https://www.openstreetmap.org/way/1246170609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.37325608083392,
+          6.291405707950083
+        ]
+      },
+      "properties": {
+        "id": "way/1254910749",
+        "element_id": 1254910749,
+        "element_type": "way",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': '30MW', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.393745",
+        "url": "https://www.openstreetmap.org/way/1254910749"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8250176,
+          5.8146419
+        ]
+      },
+      "properties": {
+        "id": "node/10125157660",
+        "element_id": 10125157660,
+        "element_type": "node",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.394745",
+        "url": "https://www.openstreetmap.org/node/10125157660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8250176,
+          5.8146419
+        ]
+      },
+      "properties": {
+        "id": "node/10125157660",
+        "element_id": 10125157660,
+        "element_type": "node",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.394745",
+        "url": "https://www.openstreetmap.org/node/10125157660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8210518,
+          5.8289855
+        ]
+      },
+      "properties": {
+        "id": "node/8172245125",
+        "element_id": 8172245125,
+        "element_type": "node",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.394745",
+        "url": "https://www.openstreetmap.org/node/8172245125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8210518,
+          5.8289855
+        ]
+      },
+      "properties": {
+        "id": "node/8172245125",
+        "element_id": 8172245125,
+        "element_type": "node",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.394745",
+        "url": "https://www.openstreetmap.org/node/8172245125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1493382,
+          5.6315137
+        ]
+      },
+      "properties": {
+        "id": "node/9118264974",
+        "element_id": 9118264974,
+        "element_type": "node",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.394745",
+        "url": "https://www.openstreetmap.org/node/9118264974"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1493382,
+          5.6315137
+        ]
+      },
+      "properties": {
+        "id": "node/9118264974",
+        "element_id": 9118264974,
+        "element_type": "node",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.394745",
+        "url": "https://www.openstreetmap.org/node/9118264974"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9792717,
+          5.3326563
+        ]
+      },
+      "properties": {
+        "id": "node/9150489296",
+        "element_id": 9150489296,
+        "element_type": "node",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.394745",
+        "url": "https://www.openstreetmap.org/node/9150489296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9792717,
+          5.3326563
+        ]
+      },
+      "properties": {
+        "id": "node/9150489296",
+        "element_id": 9150489296,
+        "element_type": "node",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.394745",
+        "url": "https://www.openstreetmap.org/node/9150489296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1091903,
+          5.6289859
+        ]
+      },
+      "properties": {
+        "id": "node/9156555156",
+        "element_id": 9156555156,
+        "element_type": "node",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.394745",
+        "url": "https://www.openstreetmap.org/node/9156555156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1091903,
+          5.6289859
+        ]
+      },
+      "properties": {
+        "id": "node/9156555156",
+        "element_id": 9156555156,
+        "element_type": "node",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.394745",
+        "url": "https://www.openstreetmap.org/node/9156555156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8231983,
+          5.8241467
+        ]
+      },
+      "properties": {
+        "id": "node/9586955195",
+        "element_id": 9586955195,
+        "element_type": "node",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.394745",
+        "url": "https://www.openstreetmap.org/node/9586955195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8231983,
+          5.8241467
+        ]
+      },
+      "properties": {
+        "id": "node/9586955195",
+        "element_id": 9586955195,
+        "element_type": "node",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.394745",
+        "url": "https://www.openstreetmap.org/node/9586955195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.562015,
+          7.0863155
+        ]
+      },
+      "properties": {
+        "id": "node/9998695245",
+        "element_id": 9998695245,
+        "element_type": "node",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.394745",
+        "url": "https://www.openstreetmap.org/node/9998695245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.562015,
+          7.0863155
+        ]
+      },
+      "properties": {
+        "id": "node/9998695245",
+        "element_id": 9998695245,
+        "element_type": "node",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.394745",
+        "url": "https://www.openstreetmap.org/node/9998695245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4921549715877491,
+          6.727917482867345
+        ]
+      },
+      "properties": {
+        "id": "way/1408189396",
+        "element_id": 1408189396,
+        "element_type": "way",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.394745",
+        "url": "https://www.openstreetmap.org/way/1408189396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4921549715877491,
+          6.727917482867345
+        ]
+      },
+      "properties": {
+        "id": "way/1408189396",
+        "element_id": 1408189396,
+        "element_type": "way",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.394745",
+        "url": "https://www.openstreetmap.org/way/1408189396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7225713,
+          5.7843369
+        ]
+      },
+      "properties": {
+        "id": "node/10647801606",
+        "element_id": 10647801606,
+        "element_type": "node",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.395747",
+        "url": "https://www.openstreetmap.org/node/10647801606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7225713,
+          5.7843369
+        ]
+      },
+      "properties": {
+        "id": "node/10647801606",
+        "element_id": 10647801606,
+        "element_type": "node",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.395747",
+        "url": "https://www.openstreetmap.org/node/10647801606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8042655,
+          5.782543
+        ]
+      },
+      "properties": {
+        "id": "node/10679534380",
+        "element_id": 10679534380,
+        "element_type": "node",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.395747",
+        "url": "https://www.openstreetmap.org/node/10679534380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8042655,
+          5.782543
+        ]
+      },
+      "properties": {
+        "id": "node/10679534380",
+        "element_id": 10679534380,
+        "element_type": "node",
+        "country": "Ghana",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:32:53.395747",
+        "url": "https://www.openstreetmap.org/node/10679534380"
+      }
+    }
+  ]
+}

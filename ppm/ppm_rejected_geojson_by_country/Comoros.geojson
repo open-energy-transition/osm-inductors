@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4352906,
+          -11.806808450000002
+        ]
+      },
+      "properties": {
+        "id": "way/485214167",
+        "element_id": 485214167,
+        "element_type": "way",
+        "country": "Comoros",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Groupe Electrogene', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:46.631652",
+        "url": "https://www.openstreetmap.org/way/485214167"
+      }
+    }
+  ]
+}

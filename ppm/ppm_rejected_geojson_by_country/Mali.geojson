@@ -1,0 +1,401 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.672998629347797,
+          11.31897029875906
+        ]
+      },
+      "properties": {
+        "id": "relation/15748734",
+        "element_id": 15748734,
+        "element_type": "relation",
+        "country": "Mali",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Centrale électrique', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:40:18.365460",
+        "url": "https://www.openstreetmap.org/relation/15748734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4013231973654106,
+          18.44098872302887
+        ]
+      },
+      "properties": {
+        "id": "way/202359782",
+        "element_id": 202359782,
+        "element_type": "way",
+        "country": "Mali",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:18.367880",
+        "url": "https://www.openstreetmap.org/way/202359782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4013231973654106,
+          18.44098872302887
+        ]
+      },
+      "properties": {
+        "id": "way/202359782",
+        "element_id": 202359782,
+        "element_type": "way",
+        "country": "Mali",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:18.367880",
+        "url": "https://www.openstreetmap.org/way/202359782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.42984555,
+          13.19655085
+        ]
+      },
+      "properties": {
+        "id": "way/839164011",
+        "element_id": 839164011,
+        "element_type": "way",
+        "country": "Mali",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 12 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:18.369880",
+        "url": "https://www.openstreetmap.org/way/839164011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5050550728490157,
+          15.649804940154704
+        ]
+      },
+      "properties": {
+        "id": "way/874830038",
+        "element_id": 874830038,
+        "element_type": "way",
+        "country": "Mali",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:18.371029",
+        "url": "https://www.openstreetmap.org/way/874830038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5050550728490157,
+          15.649804940154704
+        ]
+      },
+      "properties": {
+        "id": "way/874830038",
+        "element_id": 874830038,
+        "element_type": "way",
+        "country": "Mali",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:18.371029",
+        "url": "https://www.openstreetmap.org/way/874830038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.230266333258962,
+          12.871343716251326
+        ]
+      },
+      "properties": {
+        "id": "way/1051570212",
+        "element_id": 1051570212,
+        "element_type": "way",
+        "country": "Mali",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:18.372065",
+        "url": "https://www.openstreetmap.org/way/1051570212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.230266333258962,
+          12.871343716251326
+        ]
+      },
+      "properties": {
+        "id": "way/1051570212",
+        "element_id": 1051570212,
+        "element_type": "way",
+        "country": "Mali",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:18.372065",
+        "url": "https://www.openstreetmap.org/way/1051570212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5050550728490157,
+          15.649804940154704
+        ]
+      },
+      "properties": {
+        "id": "way/874830038",
+        "element_id": 874830038,
+        "element_type": "way",
+        "country": "Mali",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:18.372065",
+        "url": "https://www.openstreetmap.org/way/874830038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.230266333258962,
+          12.871343716251326
+        ]
+      },
+      "properties": {
+        "id": "way/1051570212",
+        "element_id": 1051570212,
+        "element_type": "way",
+        "country": "Mali",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:18.374065",
+        "url": "https://www.openstreetmap.org/way/1051570212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.606488316931952,
+          13.289614508993596
+        ]
+      },
+      "properties": {
+        "id": "way/1053804712",
+        "element_id": 1053804712,
+        "element_type": "way",
+        "country": "Mali",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:18.374065",
+        "url": "https://www.openstreetmap.org/way/1053804712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.606488316931952,
+          13.289614508993596
+        ]
+      },
+      "properties": {
+        "id": "way/1053804712",
+        "element_id": 1053804712,
+        "element_type": "way",
+        "country": "Mali",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:18.374065",
+        "url": "https://www.openstreetmap.org/way/1053804712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.606488316931952,
+          13.289614508993596
+        ]
+      },
+      "properties": {
+        "id": "way/1053804712",
+        "element_id": 1053804712,
+        "element_type": "way",
+        "country": "Mali",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:18.376065",
+        "url": "https://www.openstreetmap.org/way/1053804712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.357479212996806,
+          12.533073237275229
+        ]
+      },
+      "properties": {
+        "id": "way/1303591053",
+        "element_id": 1303591053,
+        "element_type": "way",
+        "country": "Mali",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:18.377833",
+        "url": "https://www.openstreetmap.org/way/1303591053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0138682835024575,
+          14.145593556884082
+        ]
+      },
+      "properties": {
+        "id": "way/1388758597",
+        "element_id": 1388758597,
+        "element_type": "way",
+        "country": "Mali",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:18.377833",
+        "url": "https://www.openstreetmap.org/way/1388758597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0138682835024575,
+          14.145593556884082
+        ]
+      },
+      "properties": {
+        "id": "way/1388758597",
+        "element_id": 1388758597,
+        "element_type": "way",
+        "country": "Mali",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:18.377833",
+        "url": "https://www.openstreetmap.org/way/1388758597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.420873712937569,
+          15.253679878982418
+        ]
+      },
+      "properties": {
+        "id": "way/1411355967",
+        "element_id": 1411355967,
+        "element_type": "way",
+        "country": "Mali",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:18.377833",
+        "url": "https://www.openstreetmap.org/way/1411355967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.420873712937569,
+          15.253679878982418
+        ]
+      },
+      "properties": {
+        "id": "way/1411355967",
+        "element_id": 1411355967,
+        "element_type": "way",
+        "country": "Mali",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:18.377833",
+        "url": "https://www.openstreetmap.org/way/1411355967"
+      }
+    }
+  ]
+}

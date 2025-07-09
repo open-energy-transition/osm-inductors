@@ -1,0 +1,1787 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.382900867849347,
+          45.82427224835719
+        ]
+      },
+      "properties": {
+        "id": "relation/13946537",
+        "element_id": 13946537,
+        "element_type": "relation",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Sunčana elektrana TVIN', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant', 'ref:EU:ENTSOE_EIC': '31W-0035-P-000-8', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:27:03.131948",
+        "url": "https://www.openstreetmap.org/relation/13946537"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.96464585636932,
+          45.821510576439714
+        ]
+      },
+      "properties": {
+        "id": "relation/17040179",
+        "element_id": 17040179,
+        "element_type": "relation",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.134947",
+        "url": "https://www.openstreetmap.org/relation/17040179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.524549433333334,
+          46.3996764
+        ]
+      },
+      "properties": {
+        "id": "relation/17941378",
+        "element_id": 17941378,
+        "element_type": "relation",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:27:03.136947",
+        "url": "https://www.openstreetmap.org/relation/17941378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.524549433333334,
+          46.3996764
+        ]
+      },
+      "properties": {
+        "id": "relation/17941378",
+        "element_id": 17941378,
+        "element_type": "relation",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.136947",
+        "url": "https://www.openstreetmap.org/relation/17941378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.501825145072296,
+          46.45470925587981
+        ]
+      },
+      "properties": {
+        "id": "relation/18013674",
+        "element_id": 18013674,
+        "element_type": "relation",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:27:03.137948",
+        "url": "https://www.openstreetmap.org/relation/18013674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.501825145072296,
+          46.45470925587981
+        ]
+      },
+      "properties": {
+        "id": "relation/18013674",
+        "element_id": 18013674,
+        "element_type": "relation",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.137948",
+        "url": "https://www.openstreetmap.org/relation/18013674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.220337970176335,
+          44.08968334967998
+        ]
+      },
+      "properties": {
+        "id": "way/92529564",
+        "element_id": 92529564,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "2x 3.27 MW",
+        "details": "Tag 'plant:output:electricity' has value '2x 3.27 MW' which could not be parsed",
+        "timestamp": "2025-07-07 18:27:03.139947",
+        "url": "https://www.openstreetmap.org/way/92529564"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.519604481503222,
+          43.54224246532225
+        ]
+      },
+      "properties": {
+        "id": "way/161907160",
+        "element_id": 161907160,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.140947",
+        "url": "https://www.openstreetmap.org/way/161907160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.464957245678114,
+          45.32600808185136
+        ]
+      },
+      "properties": {
+        "id": "way/164043504",
+        "element_id": 164043504,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.140947",
+        "url": "https://www.openstreetmap.org/way/164043504"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7540944181741,
+          44.20775626035576
+        ]
+      },
+      "properties": {
+        "id": "way/181672966",
+        "element_id": 181672966,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "276\\-240 MW",
+        "details": "Tag 'plant:output:electricity' has value '276\\-240 MW' which could not be parsed",
+        "timestamp": "2025-07-07 18:27:03.143948",
+        "url": "https://www.openstreetmap.org/way/181672966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.477108489564303,
+          45.61531830411032
+        ]
+      },
+      "properties": {
+        "id": "way/216882211",
+        "element_id": 216882211,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.144947",
+        "url": "https://www.openstreetmap.org/way/216882211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.477913639089916,
+          45.61433219577284
+        ]
+      },
+      "properties": {
+        "id": "way/265983468",
+        "element_id": 265983468,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.145947",
+        "url": "https://www.openstreetmap.org/way/265983468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.94640603980793,
+          45.85638556441059
+        ]
+      },
+      "properties": {
+        "id": "way/773126631",
+        "element_id": 773126631,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 12 tags but none specify technology",
+        "timestamp": "2025-07-07 18:27:03.151147",
+        "url": "https://www.openstreetmap.org/way/773126631"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.513674602527622,
+          45.34158705861049
+        ]
+      },
+      "properties": {
+        "id": "way/773434082",
+        "element_id": 773434082,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.152144",
+        "url": "https://www.openstreetmap.org/way/773434082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.513674602527622,
+          45.34158705861049
+        ]
+      },
+      "properties": {
+        "id": "way/773434082",
+        "element_id": 773434082,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.152144",
+        "url": "https://www.openstreetmap.org/way/773434082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.45189484434182,
+          43.54907623037533
+        ]
+      },
+      "properties": {
+        "id": "way/773568308",
+        "element_id": 773568308,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.153145",
+        "url": "https://www.openstreetmap.org/way/773568308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.452908849999996,
+          45.63167849999999
+        ]
+      },
+      "properties": {
+        "id": "way/893892368",
+        "element_id": 893892368,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:27:03.157144",
+        "url": "https://www.openstreetmap.org/way/893892368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.452908849999996,
+          45.63167849999999
+        ]
+      },
+      "properties": {
+        "id": "way/893892368",
+        "element_id": 893892368,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.157144",
+        "url": "https://www.openstreetmap.org/way/893892368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.53564415998576,
+          45.45830817701264
+        ]
+      },
+      "properties": {
+        "id": "way/916301511",
+        "element_id": 916301511,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Toplana Mala Švarča', 'operator': 'Energoremont', 'plant:method': 'combustion', 'plant:output:heat': '7 MW', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.158144",
+        "url": "https://www.openstreetmap.org/way/916301511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.48017146503862,
+          45.32377048042393
+        ]
+      },
+      "properties": {
+        "id": "way/1025344723",
+        "element_id": 1025344723,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "no",
+        "details": "Tag 'plant:output:electricity' has value 'no' which could not be parsed",
+        "timestamp": "2025-07-07 18:27:03.159144",
+        "url": "https://www.openstreetmap.org/way/1025344723"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.546963084699962,
+          45.49073636413111
+        ]
+      },
+      "properties": {
+        "id": "way/916305030",
+        "element_id": 916305030,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.159144",
+        "url": "https://www.openstreetmap.org/way/916305030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.012367233781948,
+          45.65264475468402
+        ]
+      },
+      "properties": {
+        "id": "way/1030328647",
+        "element_id": 1030328647,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.160144",
+        "url": "https://www.openstreetmap.org/way/1030328647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.779474443735648,
+          45.29430162252192
+        ]
+      },
+      "properties": {
+        "id": "way/1042224289",
+        "element_id": 1042224289,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.160144",
+        "url": "https://www.openstreetmap.org/way/1042224289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.991591593337983,
+          45.353052148431125
+        ]
+      },
+      "properties": {
+        "id": "way/1057875403",
+        "element_id": 1057875403,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Toplana Olajnica', 'plant:method': 'combustion', 'plant:output:heat': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.162145",
+        "url": "https://www.openstreetmap.org/way/1057875403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.741548369946468,
+          45.731181737891866
+        ]
+      },
+      "properties": {
+        "id": "way/1086929559",
+        "element_id": 1086929559,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Medinci', 'addr:housenumber': '19', 'addr:street': 'Antuna Mihanovića', 'landuse': 'industrial', 'operator': 'Bioplin Proizvodnja d.o.o.', 'plant:method': 'anaerobic_digestion', 'plant:output:electricity': '1 MW', 'plant:source': 'biomass', 'power': 'plant', 'start_date': '2018', 'website': 'https://bioen.hr/bioplin-proizvodnja/'}",
+        "timestamp": "2025-07-07 18:27:03.164144",
+        "url": "https://www.openstreetmap.org/way/1086929559"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.95307657846024,
+          45.83994569837368
+        ]
+      },
+      "properties": {
+        "id": "way/1088115837",
+        "element_id": 1088115837,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:output:electricity': '30 kW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.167147",
+        "url": "https://www.openstreetmap.org/way/1088115837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.95307657846024,
+          45.83994569837368
+        ]
+      },
+      "properties": {
+        "id": "way/1088115837",
+        "element_id": 1088115837,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "30 kW",
+        "details": "Tag 'plant:output:electricity' has value '30 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:27:03.167147",
+        "url": "https://www.openstreetmap.org/way/1088115837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.814975654722687,
+          45.85510694773501
+        ]
+      },
+      "properties": {
+        "id": "way/1158510176",
+        "element_id": 1158510176,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.168148",
+        "url": "https://www.openstreetmap.org/way/1158510176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.814975654722687,
+          45.85510694773501
+        ]
+      },
+      "properties": {
+        "id": "way/1158510176",
+        "element_id": 1158510176,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.168148",
+        "url": "https://www.openstreetmap.org/way/1158510176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.662689710031056,
+          45.171763228439936
+        ]
+      },
+      "properties": {
+        "id": "way/1185669135",
+        "element_id": 1185669135,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:27:03.168148",
+        "url": "https://www.openstreetmap.org/way/1185669135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.667186012677217,
+          45.51556716962181
+        ]
+      },
+      "properties": {
+        "id": "way/1237326845",
+        "element_id": 1237326845,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:27:03.170148",
+        "url": "https://www.openstreetmap.org/way/1237326845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.667186012677217,
+          45.51556716962181
+        ]
+      },
+      "properties": {
+        "id": "way/1237326845",
+        "element_id": 1237326845,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.170148",
+        "url": "https://www.openstreetmap.org/way/1237326845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.667186012677217,
+          45.51556716962181
+        ]
+      },
+      "properties": {
+        "id": "way/1237326845",
+        "element_id": 1237326845,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.170148",
+        "url": "https://www.openstreetmap.org/way/1237326845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.192268145523947,
+          45.71869962520734
+        ]
+      },
+      "properties": {
+        "id": "way/1243149804",
+        "element_id": 1243149804,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.170148",
+        "url": "https://www.openstreetmap.org/way/1243149804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.10865998363501,
+          45.67760630055854
+        ]
+      },
+      "properties": {
+        "id": "way/1278793904",
+        "element_id": 1278793904,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.170148",
+        "url": "https://www.openstreetmap.org/way/1278793904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.10865998363501,
+          45.67760630055854
+        ]
+      },
+      "properties": {
+        "id": "way/1278793904",
+        "element_id": 1278793904,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.170148",
+        "url": "https://www.openstreetmap.org/way/1278793904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.108878364632744,
+          45.678029055643485
+        ]
+      },
+      "properties": {
+        "id": "way/1278793905",
+        "element_id": 1278793905,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.171148",
+        "url": "https://www.openstreetmap.org/way/1278793905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.108878364632744,
+          45.678029055643485
+        ]
+      },
+      "properties": {
+        "id": "way/1278793905",
+        "element_id": 1278793905,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.171148",
+        "url": "https://www.openstreetmap.org/way/1278793905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.10766366442292,
+          45.67678943625082
+        ]
+      },
+      "properties": {
+        "id": "way/1278793906",
+        "element_id": 1278793906,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.171148",
+        "url": "https://www.openstreetmap.org/way/1278793906"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.10766366442292,
+          45.67678943625082
+        ]
+      },
+      "properties": {
+        "id": "way/1278793906",
+        "element_id": 1278793906,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.171148",
+        "url": "https://www.openstreetmap.org/way/1278793906"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.843532261683396,
+          46.19686696593813
+        ]
+      },
+      "properties": {
+        "id": "way/1305452099",
+        "element_id": 1305452099,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.171148",
+        "url": "https://www.openstreetmap.org/way/1305452099"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.843532261683396,
+          46.19686696593813
+        ]
+      },
+      "properties": {
+        "id": "way/1305452099",
+        "element_id": 1305452099,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.171148",
+        "url": "https://www.openstreetmap.org/way/1305452099"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.657359326408208,
+          44.220595198850624
+        ]
+      },
+      "properties": {
+        "id": "way/1331175543",
+        "element_id": 1331175543,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:27:03.171148",
+        "url": "https://www.openstreetmap.org/way/1331175543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.429341032318597,
+          45.3494346751729
+        ]
+      },
+      "properties": {
+        "id": "way/1341528576",
+        "element_id": 1341528576,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "2x1 MW",
+        "details": "Tag 'plant:output:electricity' has value '2x1 MW' which could not be parsed",
+        "timestamp": "2025-07-07 18:27:03.172147",
+        "url": "https://www.openstreetmap.org/way/1341528576"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42686989019619,
+          45.39523749897819
+        ]
+      },
+      "properties": {
+        "id": "way/1341532242",
+        "element_id": 1341532242,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "2x1 MW",
+        "details": "Tag 'plant:output:electricity' has value '2x1 MW' which could not be parsed",
+        "timestamp": "2025-07-07 18:27:03.172147",
+        "url": "https://www.openstreetmap.org/way/1341532242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.662288100106046,
+          45.52013385128945
+        ]
+      },
+      "properties": {
+        "id": "way/1350875710",
+        "element_id": 1350875710,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.173147",
+        "url": "https://www.openstreetmap.org/way/1350875710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.662288100106046,
+          45.52013385128945
+        ]
+      },
+      "properties": {
+        "id": "way/1350875710",
+        "element_id": 1350875710,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.173147",
+        "url": "https://www.openstreetmap.org/way/1350875710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.144880982803633,
+          45.18274277794775
+        ]
+      },
+      "properties": {
+        "id": "way/1354672549",
+        "element_id": 1354672549,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:27:03.173147",
+        "url": "https://www.openstreetmap.org/way/1354672549"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.144880982803633,
+          45.18274277794775
+        ]
+      },
+      "properties": {
+        "id": "way/1354672549",
+        "element_id": 1354672549,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Blaškovići', 'name': 'Solarni elektrana Blaškovići', 'plant:method': 'thermal', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.174148",
+        "url": "https://www.openstreetmap.org/way/1354672549"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.599951243472283,
+          42.869692896466425
+        ]
+      },
+      "properties": {
+        "id": "way/1376985310",
+        "element_id": 1376985310,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'wind_turbine', 'plant:output:electricity': 'yes', 'plant:source': 'wind', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.174148",
+        "url": "https://www.openstreetmap.org/way/1376985310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.599951243472283,
+          42.869692896466425
+        ]
+      },
+      "properties": {
+        "id": "way/1376985310",
+        "element_id": 1376985310,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.174148",
+        "url": "https://www.openstreetmap.org/way/1376985310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.79886733853278,
+          42.8227005478067
+        ]
+      },
+      "properties": {
+        "id": "way/1376985997",
+        "element_id": 1376985997,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'wind_turbine', 'plant:output:electricity': 'yes', 'plant:source': 'wind', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.175148",
+        "url": "https://www.openstreetmap.org/way/1376985997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.79886733853278,
+          42.8227005478067
+        ]
+      },
+      "properties": {
+        "id": "way/1376985997",
+        "element_id": 1376985997,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.175148",
+        "url": "https://www.openstreetmap.org/way/1376985997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.77371002827552,
+          42.83462487175365
+        ]
+      },
+      "properties": {
+        "id": "way/1376986134",
+        "element_id": 1376986134,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'wind_turbine', 'plant:output:electricity': 'yes', 'plant:source': 'wind', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.175148",
+        "url": "https://www.openstreetmap.org/way/1376986134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.77371002827552,
+          42.83462487175365
+        ]
+      },
+      "properties": {
+        "id": "way/1376986134",
+        "element_id": 1376986134,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.175148",
+        "url": "https://www.openstreetmap.org/way/1376986134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.09110976795771,
+          44.434752851062825
+        ]
+      },
+      "properties": {
+        "id": "way/1379382289",
+        "element_id": 1379382289,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'wind_turbine', 'plant:output:electricity': 'yes', 'plant:source': 'wind', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.175148",
+        "url": "https://www.openstreetmap.org/way/1379382289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.09110976795771,
+          44.434752851062825
+        ]
+      },
+      "properties": {
+        "id": "way/1379382289",
+        "element_id": 1379382289,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.175148",
+        "url": "https://www.openstreetmap.org/way/1379382289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3452462013644,
+          44.0919501614577
+        ]
+      },
+      "properties": {
+        "id": "way/1389528748",
+        "element_id": 1389528748,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.175148",
+        "url": "https://www.openstreetmap.org/way/1389528748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3452462013644,
+          44.0919501614577
+        ]
+      },
+      "properties": {
+        "id": "way/1389528748",
+        "element_id": 1389528748,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.175148",
+        "url": "https://www.openstreetmap.org/way/1389528748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.340738949591923,
+          44.094196270594495
+        ]
+      },
+      "properties": {
+        "id": "way/1389528749",
+        "element_id": 1389528749,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.175148",
+        "url": "https://www.openstreetmap.org/way/1389528749"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.340738949591923,
+          44.094196270594495
+        ]
+      },
+      "properties": {
+        "id": "way/1389528749",
+        "element_id": 1389528749,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.175148",
+        "url": "https://www.openstreetmap.org/way/1389528749"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.336923280201464,
+          44.09344885766959
+        ]
+      },
+      "properties": {
+        "id": "way/1389543080",
+        "element_id": 1389543080,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.176147",
+        "url": "https://www.openstreetmap.org/way/1389543080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.336923280201464,
+          44.09344885766959
+        ]
+      },
+      "properties": {
+        "id": "way/1389543080",
+        "element_id": 1389543080,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.176147",
+        "url": "https://www.openstreetmap.org/way/1389543080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.449396038832578,
+          43.616725723172976
+        ]
+      },
+      "properties": {
+        "id": "way/1389840561",
+        "element_id": 1389840561,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2025'}",
+        "timestamp": "2025-07-07 18:27:03.176147",
+        "url": "https://www.openstreetmap.org/way/1389840561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.449396038832578,
+          43.616725723172976
+        ]
+      },
+      "properties": {
+        "id": "way/1389840561",
+        "element_id": 1389840561,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2025'}",
+        "timestamp": "2025-07-07 18:27:03.176147",
+        "url": "https://www.openstreetmap.org/way/1389840561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.567176729021654,
+          45.53064282213616
+        ]
+      },
+      "properties": {
+        "id": "way/1394533461",
+        "element_id": 1394533461,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.176147",
+        "url": "https://www.openstreetmap.org/way/1394533461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.567176729021654,
+          45.53064282213616
+        ]
+      },
+      "properties": {
+        "id": "way/1394533461",
+        "element_id": 1394533461,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.176147",
+        "url": "https://www.openstreetmap.org/way/1394533461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.566452590624195,
+          45.53277017746047
+        ]
+      },
+      "properties": {
+        "id": "way/1394533462",
+        "element_id": 1394533462,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.176147",
+        "url": "https://www.openstreetmap.org/way/1394533462"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.566452590624195,
+          45.53277017746047
+        ]
+      },
+      "properties": {
+        "id": "way/1394533462",
+        "element_id": 1394533462,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.176147",
+        "url": "https://www.openstreetmap.org/way/1394533462"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5489828,
+          45.4729662
+        ]
+      },
+      "properties": {
+        "id": "node/8510718159",
+        "element_id": 8510718159,
+        "element_type": "node",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:27:03.177148",
+        "url": "https://www.openstreetmap.org/node/8510718159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.62276080771984,
+          45.690500131262624
+        ]
+      },
+      "properties": {
+        "id": "way/1395670971",
+        "element_id": 1395670971,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:27:03.177148",
+        "url": "https://www.openstreetmap.org/way/1395670971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.62276080771984,
+          45.690500131262624
+        ]
+      },
+      "properties": {
+        "id": "way/1395670971",
+        "element_id": 1395670971,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.177148",
+        "url": "https://www.openstreetmap.org/way/1395670971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.62276080771984,
+          45.690500131262624
+        ]
+      },
+      "properties": {
+        "id": "way/1395670971",
+        "element_id": 1395670971,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.177148",
+        "url": "https://www.openstreetmap.org/way/1395670971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.731653151452774,
+          43.86583363603405
+        ]
+      },
+      "properties": {
+        "id": "way/1395822614",
+        "element_id": 1395822614,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.177148",
+        "url": "https://www.openstreetmap.org/way/1395822614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.731653151452774,
+          43.86583363603405
+        ]
+      },
+      "properties": {
+        "id": "way/1395822614",
+        "element_id": 1395822614,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.177148",
+        "url": "https://www.openstreetmap.org/way/1395822614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.724227437495466,
+          45.86861619346889
+        ]
+      },
+      "properties": {
+        "id": "way/1396065090",
+        "element_id": 1396065090,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.177148",
+        "url": "https://www.openstreetmap.org/way/1396065090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.724227437495466,
+          45.86861619346889
+        ]
+      },
+      "properties": {
+        "id": "way/1396065090",
+        "element_id": 1396065090,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.177148",
+        "url": "https://www.openstreetmap.org/way/1396065090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.71961202489903,
+          45.868652510695135
+        ]
+      },
+      "properties": {
+        "id": "way/1396065091",
+        "element_id": 1396065091,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.177148",
+        "url": "https://www.openstreetmap.org/way/1396065091"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.71961202489903,
+          45.868652510695135
+        ]
+      },
+      "properties": {
+        "id": "way/1396065091",
+        "element_id": 1396065091,
+        "element_type": "way",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:03.177148",
+        "url": "https://www.openstreetmap.org/way/1396065091"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8975122,
+          45.2271273
+        ]
+      },
+      "properties": {
+        "id": "node/12249817998",
+        "element_id": 12249817998,
+        "element_type": "node",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Mala hidroelektrana Crljenac', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.178147",
+        "url": "https://www.openstreetmap.org/node/12249817998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5489828,
+          45.4729662
+        ]
+      },
+      "properties": {
+        "id": "node/8510718159",
+        "element_id": 8510718159,
+        "element_type": "node",
+        "country": "Croatia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Blok kotlovnica Švarča', 'plant:output:heat': '1.5 MW', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:03.178147",
+        "url": "https://www.openstreetmap.org/node/8510718159"
+      }
+    }
+  ]
+}

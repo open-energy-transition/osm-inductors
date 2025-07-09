@@ -1,0 +1,621 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.433109385975765,
+          63.8790613903798
+        ]
+      },
+      "properties": {
+        "id": "relation/9091413",
+        "element_id": 9091413,
+        "element_type": "relation",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 13 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:36.099849",
+        "url": "https://www.openstreetmap.org/relation/9091413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.166882439691047,
+          65.77463020545302
+        ]
+      },
+      "properties": {
+        "id": "way/177130628",
+        "element_id": 177130628,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:36.102312",
+        "url": "https://www.openstreetmap.org/way/177130628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.65220364475978,
+          65.75318347909933
+        ]
+      },
+      "properties": {
+        "id": "way/235908478",
+        "element_id": 235908478,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 11 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:36.104314",
+        "url": "https://www.openstreetmap.org/way/235908478"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.65220364475978,
+          65.75318347909933
+        ]
+      },
+      "properties": {
+        "id": "way/235908478",
+        "element_id": 235908478,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "1120 kW",
+        "details": "Tag 'plant:output:electricity' has value '1120 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:34:36.104314",
+        "url": "https://www.openstreetmap.org/way/235908478"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.774257550892685,
+          65.70329365317073
+        ]
+      },
+      "properties": {
+        "id": "way/236287648",
+        "element_id": 236287648,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:36.104314",
+        "url": "https://www.openstreetmap.org/way/236287648"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.399263555664195,
+          64.03671727793676
+        ]
+      },
+      "properties": {
+        "id": "way/296910352",
+        "element_id": 296910352,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:36.105310",
+        "url": "https://www.openstreetmap.org/way/296910352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.12531389417931,
+          64.1729819516565
+        ]
+      },
+      "properties": {
+        "id": "way/365736568",
+        "element_id": 365736568,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 12 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:36.106311",
+        "url": "https://www.openstreetmap.org/way/365736568"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.579747514047074,
+          65.92097214486643
+        ]
+      },
+      "properties": {
+        "id": "way/503269566",
+        "element_id": 503269566,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:36.106311",
+        "url": "https://www.openstreetmap.org/way/503269566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.579747514047074,
+          65.92097214486643
+        ]
+      },
+      "properties": {
+        "id": "way/503269566",
+        "element_id": 503269566,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:34:36.106311",
+        "url": "https://www.openstreetmap.org/way/503269566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.579747514047074,
+          65.92097214486643
+        ]
+      },
+      "properties": {
+        "id": "way/503269566",
+        "element_id": 503269566,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:34:36.106311",
+        "url": "https://www.openstreetmap.org/way/503269566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.96070049473638,
+          65.889771366491
+        ]
+      },
+      "properties": {
+        "id": "way/510564355",
+        "element_id": 510564355,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:36.107462",
+        "url": "https://www.openstreetmap.org/way/510564355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.8186850141912,
+          65.41560783580313
+        ]
+      },
+      "properties": {
+        "id": "way/517042209",
+        "element_id": 517042209,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:36.108462",
+        "url": "https://www.openstreetmap.org/way/517042209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.027471782396884,
+          65.24601965671548
+        ]
+      },
+      "properties": {
+        "id": "way/717746672",
+        "element_id": 717746672,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:housenumber': '8', 'addr:postcode': '711', 'addr:street': 'Fjarðarsel', 'building': 'industrial', 'plant:method': 'run-of-the-river', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant', 'ref:HNITNUM': '10106906', 'source:addr': 'Staðfangaskrá'}",
+        "timestamp": "2025-07-07 18:34:36.110462",
+        "url": "https://www.openstreetmap.org/way/717746672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.027471782396884,
+          65.24601965671548
+        ]
+      },
+      "properties": {
+        "id": "way/717746672",
+        "element_id": 717746672,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:34:36.110462",
+        "url": "https://www.openstreetmap.org/way/717746672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.89531490054799,
+          65.85477981821106
+        ]
+      },
+      "properties": {
+        "id": "way/1108405664",
+        "element_id": 1108405664,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:36.111839",
+        "url": "https://www.openstreetmap.org/way/1108405664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.89531490054799,
+          65.85477981821106
+        ]
+      },
+      "properties": {
+        "id": "way/1108405664",
+        "element_id": 1108405664,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:34:36.111839",
+        "url": "https://www.openstreetmap.org/way/1108405664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.89531490054799,
+          65.85477981821106
+        ]
+      },
+      "properties": {
+        "id": "way/1108405664",
+        "element_id": 1108405664,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:34:36.111839",
+        "url": "https://www.openstreetmap.org/way/1108405664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.25884055762923,
+          64.10657251286209
+        ]
+      },
+      "properties": {
+        "id": "way/755845530",
+        "element_id": 755845530,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 11 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:36.111839",
+        "url": "https://www.openstreetmap.org/way/755845530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.615010400000003,
+          65.9263733
+        ]
+      },
+      "properties": {
+        "id": "way/845188547",
+        "element_id": 845188547,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:36.111839",
+        "url": "https://www.openstreetmap.org/way/845188547"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.615010400000003,
+          65.9263733
+        ]
+      },
+      "properties": {
+        "id": "way/845188547",
+        "element_id": 845188547,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'building:levels': '1', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:34:36.111839",
+        "url": "https://www.openstreetmap.org/way/845188547"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.615010400000003,
+          65.9263733
+        ]
+      },
+      "properties": {
+        "id": "way/845188547",
+        "element_id": 845188547,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:34:36.111839",
+        "url": "https://www.openstreetmap.org/way/845188547"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.970977350000002,
+          65.88169955000001
+        ]
+      },
+      "properties": {
+        "id": "way/1109766022",
+        "element_id": 1109766022,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'run-of-the-river', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:34:36.112850",
+        "url": "https://www.openstreetmap.org/way/1109766022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.970977350000002,
+          65.88169955000001
+        ]
+      },
+      "properties": {
+        "id": "way/1109766022",
+        "element_id": 1109766022,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:34:36.112850",
+        "url": "https://www.openstreetmap.org/way/1109766022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.686203442658627,
+          63.82682359808488
+        ]
+      },
+      "properties": {
+        "id": "way/1256324654",
+        "element_id": 1256324654,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:36.112850",
+        "url": "https://www.openstreetmap.org/way/1256324654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.361095817532803,
+          66.02502912879385
+        ]
+      },
+      "properties": {
+        "id": "way/1390584316",
+        "element_id": 1390584316,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:36.112850",
+        "url": "https://www.openstreetmap.org/way/1390584316"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.361095817532803,
+          66.02502912879385
+        ]
+      },
+      "properties": {
+        "id": "way/1390584316",
+        "element_id": 1390584316,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:34:36.112850",
+        "url": "https://www.openstreetmap.org/way/1390584316"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.3801688989857,
+          66.02128284784362
+        ]
+      },
+      "properties": {
+        "id": "way/1390584317",
+        "element_id": 1390584317,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:36.112850",
+        "url": "https://www.openstreetmap.org/way/1390584317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.3801688989857,
+          66.02128284784362
+        ]
+      },
+      "properties": {
+        "id": "way/1390584317",
+        "element_id": 1390584317,
+        "element_type": "way",
+        "country": "Iceland",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:34:36.112850",
+        "url": "https://www.openstreetmap.org/way/1390584317"
+      }
+    }
+  ]
+}

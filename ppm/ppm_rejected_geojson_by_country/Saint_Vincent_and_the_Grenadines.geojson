@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.23738322881204,
+          13.014163175884963
+        ]
+      },
+      "properties": {
+        "id": "way/1034087584",
+        "element_id": 1034087584,
+        "element_type": "way",
+        "country": "Saint Vincent and the Grenadines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'contact:phone': '+1784-458-3887', 'contact:website': 'https://vinlec.com/', 'landuse': 'industrial', 'name': 'Bequia Power Station', 'operator': 'VINLEC', 'power': 'plant', 'source': 'Bing'}",
+        "timestamp": "2025-07-07 18:46:44.353758",
+        "url": "https://www.openstreetmap.org/way/1034087584"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.419052741722055,
+          12.599789381240452
+        ]
+      },
+      "properties": {
+        "id": "way/1122439579",
+        "element_id": 1122439579,
+        "element_type": "way",
+        "country": "Saint Vincent and the Grenadines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:44.353758",
+        "url": "https://www.openstreetmap.org/way/1122439579"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.419052741722055,
+          12.599789381240452
+        ]
+      },
+      "properties": {
+        "id": "way/1122439579",
+        "element_id": 1122439579,
+        "element_type": "way",
+        "country": "Saint Vincent and the Grenadines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:46:44.353758",
+        "url": "https://www.openstreetmap.org/way/1122439579"
+      }
+    }
+  ]
+}

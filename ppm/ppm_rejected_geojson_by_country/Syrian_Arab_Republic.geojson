@@ -1,0 +1,1809 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4559016,
+          34.6859328
+        ]
+      },
+      "properties": {
+        "id": "node/9018192040",
+        "element_id": 9018192040,
+        "element_type": "node",
+        "country": "Syrian Arab Republic",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'colour': 'white', 'generator:method': 'wind_turbine', 'generator:output:electricity': '2.5 MW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'height:hub': '80', 'operator': 'WDRVM', 'power': 'generator', 'rotor:diameter': '103', 'rotor:swept_area': '8330', 'start_date': '2019-08-09'}",
+        "timestamp": "2025-07-07 18:50:14.133300",
+        "url": "https://www.openstreetmap.org/node/9018192040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4658465,
+          34.6891141
+        ]
+      },
+      "properties": {
+        "id": "node/9154122648",
+        "element_id": 9154122648,
+        "element_type": "node",
+        "country": "Syrian Arab Republic",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'colour': 'white', 'generator:method': 'wind_turbine', 'generator:output:electricity': '2.5 MW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'height:hub': '80', 'operator': 'WDRVM', 'power': 'generator', 'rotor:diameter': '103', 'rotor:swept_area': '8330', 'start_date': '2022-01-08'}",
+        "timestamp": "2025-07-07 18:50:14.133300",
+        "url": "https://www.openstreetmap.org/node/9154122648"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4559016,
+          34.6859328
+        ]
+      },
+      "properties": {
+        "id": "relation/14960833",
+        "element_id": 14960833,
+        "element_type": "relation",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'wind_turbine', 'plant:output:electricity': '5 MW', 'plant:source': 'wind', 'power': 'plant', 'site': 'wind_farm', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:50:14.133300",
+        "url": "https://www.openstreetmap.org/relation/14960833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.078387231776674,
+          36.02023644807982
+        ]
+      },
+      "properties": {
+        "id": "way/133424202",
+        "element_id": 133424202,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:method': 'water-storage', 'plant:source': 'hydro', 'power': 'plant', 'source': 'Bing Sat'}",
+        "timestamp": "2025-07-07 18:50:14.134301",
+        "url": "https://www.openstreetmap.org/way/133424202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.078387231776674,
+          36.02023644807982
+        ]
+      },
+      "properties": {
+        "id": "way/133424202",
+        "element_id": 133424202,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:method': 'water-storage', 'plant:source': 'hydro', 'power': 'plant', 'source': 'Bing Sat'}",
+        "timestamp": "2025-07-07 18:50:14.136298",
+        "url": "https://www.openstreetmap.org/way/133424202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.68692002059535,
+          33.41744132085958
+        ]
+      },
+      "properties": {
+        "id": "way/143026173",
+        "element_id": 143026173,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "oil;gas;gasoline",
+        "details": "Source value 'oil;gas;gasoline' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:50:14.136298",
+        "url": "https://www.openstreetmap.org/way/143026173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.62434214725312,
+          34.655391574385995
+        ]
+      },
+      "properties": {
+        "id": "way/150358723",
+        "element_id": 150358723,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.137300",
+        "url": "https://www.openstreetmap.org/way/150358723"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.62434214725312,
+          34.655391574385995
+        ]
+      },
+      "properties": {
+        "id": "way/150358723",
+        "element_id": 150358723,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.137300",
+        "url": "https://www.openstreetmap.org/way/150358723"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.323877185152405,
+          35.10315994434824
+        ]
+      },
+      "properties": {
+        "id": "way/154474062",
+        "element_id": 154474062,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'damage': 'major', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.137300",
+        "url": "https://www.openstreetmap.org/way/154474062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.323877185152405,
+          35.10315994434824
+        ]
+      },
+      "properties": {
+        "id": "way/154474062",
+        "element_id": 154474062,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'damage': 'major', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.137300",
+        "url": "https://www.openstreetmap.org/way/154474062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.08223145,
+          36.8504459
+        ]
+      },
+      "properties": {
+        "id": "way/307952682",
+        "element_id": 307952682,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'power': 'plant', 'source': 'Bing'}",
+        "timestamp": "2025-07-07 18:50:14.138300",
+        "url": "https://www.openstreetmap.org/way/307952682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.08223145,
+          36.8504459
+        ]
+      },
+      "properties": {
+        "id": "way/307952682",
+        "element_id": 307952682,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'power': 'plant', 'source': 'Bing'}",
+        "timestamp": "2025-07-07 18:50:14.138300",
+        "url": "https://www.openstreetmap.org/way/307952682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.19867812425937,
+          34.56447298435549
+        ]
+      },
+      "properties": {
+        "id": "way/320028179",
+        "element_id": 320028179,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'industrial': 'gas', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.138300",
+        "url": "https://www.openstreetmap.org/way/320028179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.19867812425937,
+          34.56447298435549
+        ]
+      },
+      "properties": {
+        "id": "way/320028179",
+        "element_id": 320028179,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'industrial': 'gas', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.138300",
+        "url": "https://www.openstreetmap.org/way/320028179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.165555549813405,
+          36.65113831781709
+        ]
+      },
+      "properties": {
+        "id": "way/342907068",
+        "element_id": 342907068,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.139301",
+        "url": "https://www.openstreetmap.org/way/342907068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.165555549813405,
+          36.65113831781709
+        ]
+      },
+      "properties": {
+        "id": "way/342907068",
+        "element_id": 342907068,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.139301",
+        "url": "https://www.openstreetmap.org/way/342907068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.27980601536687,
+          35.25171739321045
+        ]
+      },
+      "properties": {
+        "id": "way/382489138",
+        "element_id": 382489138,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:14.140301",
+        "url": "https://www.openstreetmap.org/way/382489138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.27980601536687,
+          35.25171739321045
+        ]
+      },
+      "properties": {
+        "id": "way/382489138",
+        "element_id": 382489138,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.140301",
+        "url": "https://www.openstreetmap.org/way/382489138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.27980601536687,
+          35.25171739321045
+        ]
+      },
+      "properties": {
+        "id": "way/382489138",
+        "element_id": 382489138,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.142298",
+        "url": "https://www.openstreetmap.org/way/382489138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.48473040846664,
+          35.30812599113958
+        ]
+      },
+      "properties": {
+        "id": "way/382506142",
+        "element_id": 382506142,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.142298",
+        "url": "https://www.openstreetmap.org/way/382506142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.48473040846664,
+          35.30812599113958
+        ]
+      },
+      "properties": {
+        "id": "way/382506142",
+        "element_id": 382506142,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.142298",
+        "url": "https://www.openstreetmap.org/way/382506142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.94443493408003,
+          36.67986897551555
+        ]
+      },
+      "properties": {
+        "id": "way/446404745",
+        "element_id": 446404745,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.142298",
+        "url": "https://www.openstreetmap.org/way/446404745"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.94443493408003,
+          36.67986897551555
+        ]
+      },
+      "properties": {
+        "id": "way/446404745",
+        "element_id": 446404745,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.142298",
+        "url": "https://www.openstreetmap.org/way/446404745"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.58427473454434,
+          35.26413425523926
+        ]
+      },
+      "properties": {
+        "id": "way/446821769",
+        "element_id": 446821769,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "oil;gas;gasoline",
+        "details": "Source value 'oil;gas;gasoline' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:50:14.142298",
+        "url": "https://www.openstreetmap.org/way/446821769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.99466442151575,
+          35.92697089966854
+        ]
+      },
+      "properties": {
+        "id": "way/646064713",
+        "element_id": 646064713,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.143300",
+        "url": "https://www.openstreetmap.org/way/646064713"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.99466442151575,
+          35.92697089966854
+        ]
+      },
+      "properties": {
+        "id": "way/646064713",
+        "element_id": 646064713,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.143300",
+        "url": "https://www.openstreetmap.org/way/646064713"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8570453148535,
+          36.36766750315067
+        ]
+      },
+      "properties": {
+        "id": "way/737760040",
+        "element_id": 737760040,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.143300",
+        "url": "https://www.openstreetmap.org/way/737760040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8570453148535,
+          36.36766750315067
+        ]
+      },
+      "properties": {
+        "id": "way/737760040",
+        "element_id": 737760040,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.143300",
+        "url": "https://www.openstreetmap.org/way/737760040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.661368538870526,
+          36.6476660573844
+        ]
+      },
+      "properties": {
+        "id": "way/745446892",
+        "element_id": 745446892,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.143300",
+        "url": "https://www.openstreetmap.org/way/745446892"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.661368538870526,
+          36.6476660573844
+        ]
+      },
+      "properties": {
+        "id": "way/745446892",
+        "element_id": 745446892,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.143300",
+        "url": "https://www.openstreetmap.org/way/745446892"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.58236963001851,
+          36.589663521918354
+        ]
+      },
+      "properties": {
+        "id": "way/745446929",
+        "element_id": 745446929,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.144301",
+        "url": "https://www.openstreetmap.org/way/745446929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.58236963001851,
+          36.589663521918354
+        ]
+      },
+      "properties": {
+        "id": "way/745446929",
+        "element_id": 745446929,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.144301",
+        "url": "https://www.openstreetmap.org/way/745446929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.65672709376348,
+          37.06332764229369
+        ]
+      },
+      "properties": {
+        "id": "way/745447298",
+        "element_id": 745447298,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.144301",
+        "url": "https://www.openstreetmap.org/way/745447298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.65672709376348,
+          37.06332764229369
+        ]
+      },
+      "properties": {
+        "id": "way/745447298",
+        "element_id": 745447298,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.144301",
+        "url": "https://www.openstreetmap.org/way/745447298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.77088384808729,
+          36.61424743692056
+        ]
+      },
+      "properties": {
+        "id": "way/750538486",
+        "element_id": 750538486,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.144301",
+        "url": "https://www.openstreetmap.org/way/750538486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.77088384808729,
+          36.61424743692056
+        ]
+      },
+      "properties": {
+        "id": "way/750538486",
+        "element_id": 750538486,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.144301",
+        "url": "https://www.openstreetmap.org/way/750538486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.099277843239335,
+          36.73850905287499
+        ]
+      },
+      "properties": {
+        "id": "way/755015781",
+        "element_id": 755015781,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.144301",
+        "url": "https://www.openstreetmap.org/way/755015781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.099277843239335,
+          36.73850905287499
+        ]
+      },
+      "properties": {
+        "id": "way/755015781",
+        "element_id": 755015781,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.144301",
+        "url": "https://www.openstreetmap.org/way/755015781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.93065355165913,
+          37.08227398723737
+        ]
+      },
+      "properties": {
+        "id": "way/755016109",
+        "element_id": 755016109,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.144301",
+        "url": "https://www.openstreetmap.org/way/755016109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.93065355165913,
+          37.08227398723737
+        ]
+      },
+      "properties": {
+        "id": "way/755016109",
+        "element_id": 755016109,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.144301",
+        "url": "https://www.openstreetmap.org/way/755016109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1787995275751,
+          36.380672845646565
+        ]
+      },
+      "properties": {
+        "id": "way/793180458",
+        "element_id": 793180458,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:14.144301",
+        "url": "https://www.openstreetmap.org/way/793180458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1787995275751,
+          36.380672845646565
+        ]
+      },
+      "properties": {
+        "id": "way/793180458",
+        "element_id": 793180458,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': '630 MW', 'plant:source': 'hydro', 'power': 'plant', 'start_date': '1999', 'wikidata': 'Q594024', 'wikipedia': 'ar:سد تشرين'}",
+        "timestamp": "2025-07-07 18:50:14.144301",
+        "url": "https://www.openstreetmap.org/way/793180458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.60345822114815,
+          33.73487534791876
+        ]
+      },
+      "properties": {
+        "id": "way/1110245063",
+        "element_id": 1110245063,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'مشروع الكهرباء', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.145300",
+        "url": "https://www.openstreetmap.org/way/1110245063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.974097074468304,
+          36.70160872915683
+        ]
+      },
+      "properties": {
+        "id": "way/1134987511",
+        "element_id": 1134987511,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.145300",
+        "url": "https://www.openstreetmap.org/way/1134987511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.974097074468304,
+          36.70160872915683
+        ]
+      },
+      "properties": {
+        "id": "way/1134987511",
+        "element_id": 1134987511,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:14.145300",
+        "url": "https://www.openstreetmap.org/way/1134987511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.16157075,
+          36.67899500000001
+        ]
+      },
+      "properties": {
+        "id": "way/1134987577",
+        "element_id": 1134987577,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:14.145300",
+        "url": "https://www.openstreetmap.org/way/1134987577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.16157075,
+          36.67899500000001
+        ]
+      },
+      "properties": {
+        "id": "way/1134987577",
+        "element_id": 1134987577,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.145300",
+        "url": "https://www.openstreetmap.org/way/1134987577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.16157075,
+          36.67899500000001
+        ]
+      },
+      "properties": {
+        "id": "way/1134987577",
+        "element_id": 1134987577,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.147298",
+        "url": "https://www.openstreetmap.org/way/1134987577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.15863887951197,
+          36.67918075552995
+        ]
+      },
+      "properties": {
+        "id": "way/1134987578",
+        "element_id": 1134987578,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:14.147298",
+        "url": "https://www.openstreetmap.org/way/1134987578"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.15863887951197,
+          36.67918075552995
+        ]
+      },
+      "properties": {
+        "id": "way/1134987578",
+        "element_id": 1134987578,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.147298",
+        "url": "https://www.openstreetmap.org/way/1134987578"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.15863887951197,
+          36.67918075552995
+        ]
+      },
+      "properties": {
+        "id": "way/1134987578",
+        "element_id": 1134987578,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.149298",
+        "url": "https://www.openstreetmap.org/way/1134987578"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.64334886962876,
+          36.72339495822349
+        ]
+      },
+      "properties": {
+        "id": "way/1134987600",
+        "element_id": 1134987600,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.149298",
+        "url": "https://www.openstreetmap.org/way/1134987600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.64334886962876,
+          36.72339495822349
+        ]
+      },
+      "properties": {
+        "id": "way/1134987600",
+        "element_id": 1134987600,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:14.149298",
+        "url": "https://www.openstreetmap.org/way/1134987600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6756985693797,
+          36.19314510201622
+        ]
+      },
+      "properties": {
+        "id": "way/1146172186",
+        "element_id": 1146172186,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.149298",
+        "url": "https://www.openstreetmap.org/way/1146172186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6756985693797,
+          36.19314510201622
+        ]
+      },
+      "properties": {
+        "id": "way/1146172186",
+        "element_id": 1146172186,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:14.149298",
+        "url": "https://www.openstreetmap.org/way/1146172186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.24272552632278,
+          36.56752837357384
+        ]
+      },
+      "properties": {
+        "id": "way/1154417619",
+        "element_id": 1154417619,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:14.149298",
+        "url": "https://www.openstreetmap.org/way/1154417619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.92884301049864,
+          35.172256222453406
+        ]
+      },
+      "properties": {
+        "id": "way/1194915886",
+        "element_id": 1194915886,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'fixme': 'Someone double check the location', 'landuse': 'industrial', 'name': 'محطة بانياس الجديدة', 'note': 'New Power Station reported by news agencies. location geo-located from drone footage from the article', 'plant:output:electricity': '24 MW', 'power': 'plant', 'source': 'https://arabic.rt.com/videoclub/1483732-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%8A%D8%B2%D9%88%D8%B1-%D9%85%D8%AD%D8%B7%D8%A9-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A8%D8%A7%D9%86%D9%8A%D8%A7%D8%B3/', 'start_date': '2023-08-03'}",
+        "timestamp": "2025-07-07 18:50:14.150299",
+        "url": "https://www.openstreetmap.org/way/1194915886"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.27022693657527,
+          33.50492727418148
+        ]
+      },
+      "properties": {
+        "id": "way/1201638713",
+        "element_id": 1201638713,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.150299",
+        "url": "https://www.openstreetmap.org/way/1201638713"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.27022693657527,
+          33.50492727418148
+        ]
+      },
+      "properties": {
+        "id": "way/1201638713",
+        "element_id": 1201638713,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:14.150299",
+        "url": "https://www.openstreetmap.org/way/1201638713"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.44565922056482,
+          36.61815923505173
+        ]
+      },
+      "properties": {
+        "id": "way/1283203888",
+        "element_id": 1283203888,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:14.150299",
+        "url": "https://www.openstreetmap.org/way/1283203888"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.44565922056482,
+          36.61815923505173
+        ]
+      },
+      "properties": {
+        "id": "way/1283203888",
+        "element_id": 1283203888,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.150299",
+        "url": "https://www.openstreetmap.org/way/1283203888"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.44565922056482,
+          36.61815923505173
+        ]
+      },
+      "properties": {
+        "id": "way/1283203888",
+        "element_id": 1283203888,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.152303",
+        "url": "https://www.openstreetmap.org/way/1283203888"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.453624343059,
+          36.617269835066494
+        ]
+      },
+      "properties": {
+        "id": "way/1283203889",
+        "element_id": 1283203889,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:14.152303",
+        "url": "https://www.openstreetmap.org/way/1283203889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.453624343059,
+          36.617269835066494
+        ]
+      },
+      "properties": {
+        "id": "way/1283203889",
+        "element_id": 1283203889,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.152303",
+        "url": "https://www.openstreetmap.org/way/1283203889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.453624343059,
+          36.617269835066494
+        ]
+      },
+      "properties": {
+        "id": "way/1283203889",
+        "element_id": 1283203889,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.154303",
+        "url": "https://www.openstreetmap.org/way/1283203889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.25727529623576,
+          33.33492187398778
+        ]
+      },
+      "properties": {
+        "id": "way/1289826855",
+        "element_id": 1289826855,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.154303",
+        "url": "https://www.openstreetmap.org/way/1289826855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.25727529623576,
+          33.33492187398778
+        ]
+      },
+      "properties": {
+        "id": "way/1289826855",
+        "element_id": 1289826855,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:14.154303",
+        "url": "https://www.openstreetmap.org/way/1289826855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7742213938204,
+          36.091073452564935
+        ]
+      },
+      "properties": {
+        "id": "way/1335370252",
+        "element_id": 1335370252,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.154303",
+        "url": "https://www.openstreetmap.org/way/1335370252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7742213938204,
+          36.091073452564935
+        ]
+      },
+      "properties": {
+        "id": "way/1335370252",
+        "element_id": 1335370252,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:14.154303",
+        "url": "https://www.openstreetmap.org/way/1335370252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.776589623586126,
+          36.085644004437725
+        ]
+      },
+      "properties": {
+        "id": "way/1335375606",
+        "element_id": 1335375606,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.154303",
+        "url": "https://www.openstreetmap.org/way/1335375606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.776589623586126,
+          36.085644004437725
+        ]
+      },
+      "properties": {
+        "id": "way/1335375606",
+        "element_id": 1335375606,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:14.154303",
+        "url": "https://www.openstreetmap.org/way/1335375606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.77436271056951,
+          36.089277926383794
+        ]
+      },
+      "properties": {
+        "id": "way/1335375609",
+        "element_id": 1335375609,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.154303",
+        "url": "https://www.openstreetmap.org/way/1335375609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.77436271056951,
+          36.089277926383794
+        ]
+      },
+      "properties": {
+        "id": "way/1335375609",
+        "element_id": 1335375609,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:14.154303",
+        "url": "https://www.openstreetmap.org/way/1335375609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.774241154273135,
+          36.091226933815925
+        ]
+      },
+      "properties": {
+        "id": "way/1335375610",
+        "element_id": 1335375610,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.154303",
+        "url": "https://www.openstreetmap.org/way/1335375610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.774241154273135,
+          36.091226933815925
+        ]
+      },
+      "properties": {
+        "id": "way/1335375610",
+        "element_id": 1335375610,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:14.154303",
+        "url": "https://www.openstreetmap.org/way/1335375610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.77420855,
+          36.0915018
+        ]
+      },
+      "properties": {
+        "id": "way/1335375611",
+        "element_id": 1335375611,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.154303",
+        "url": "https://www.openstreetmap.org/way/1335375611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.77420855,
+          36.0915018
+        ]
+      },
+      "properties": {
+        "id": "way/1335375611",
+        "element_id": 1335375611,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:14.154303",
+        "url": "https://www.openstreetmap.org/way/1335375611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7722157285392,
+          36.08965425198593
+        ]
+      },
+      "properties": {
+        "id": "way/1335375613",
+        "element_id": 1335375613,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.155305",
+        "url": "https://www.openstreetmap.org/way/1335375613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7722157285392,
+          36.08965425198593
+        ]
+      },
+      "properties": {
+        "id": "way/1335375613",
+        "element_id": 1335375613,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:14.155305",
+        "url": "https://www.openstreetmap.org/way/1335375613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.107152899283406,
+          37.14399375305593
+        ]
+      },
+      "properties": {
+        "id": "way/1345259539",
+        "element_id": 1345259539,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:14.155305",
+        "url": "https://www.openstreetmap.org/way/1345259539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.107152899283406,
+          37.14399375305593
+        ]
+      },
+      "properties": {
+        "id": "way/1345259539",
+        "element_id": 1345259539,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:14.155305",
+        "url": "https://www.openstreetmap.org/way/1345259539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.107152899283406,
+          37.14399375305593
+        ]
+      },
+      "properties": {
+        "id": "way/1345259539",
+        "element_id": 1345259539,
+        "element_type": "way",
+        "country": "Syrian Arab Republic",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:14.155305",
+        "url": "https://www.openstreetmap.org/way/1345259539"
+      }
+    }
+  ]
+}

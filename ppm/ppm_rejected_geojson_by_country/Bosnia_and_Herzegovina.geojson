@@ -1,0 +1,2887 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.325868843589618,
+          43.37896447030403
+        ]
+      },
+      "properties": {
+        "id": "relation/11846229",
+        "element_id": 11846229,
+        "element_type": "relation",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.110553",
+        "url": "https://www.openstreetmap.org/relation/11846229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.776001787456043,
+          44.16498673433362
+        ]
+      },
+      "properties": {
+        "id": "relation/11914625",
+        "element_id": 11914625,
+        "element_type": "relation",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.110553",
+        "url": "https://www.openstreetmap.org/relation/11914625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.776001787456043,
+          44.16498673433362
+        ]
+      },
+      "properties": {
+        "id": "relation/11914625",
+        "element_id": 11914625,
+        "element_type": "relation",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.110553",
+        "url": "https://www.openstreetmap.org/relation/11914625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.383790737903603,
+          43.85345422065113
+        ]
+      },
+      "properties": {
+        "id": "way/112257389",
+        "element_id": 112257389,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'name': 'Živko Jošilo', 'operator': 'Toplane Sarajevo', 'plant:method': 'combustion', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.136057",
+        "url": "https://www.openstreetmap.org/way/112257389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.214962301137206,
+          44.772049873389086
+        ]
+      },
+      "properties": {
+        "id": "way/129377261",
+        "element_id": 129377261,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.136057",
+        "url": "https://www.openstreetmap.org/way/129377261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.371423199999995,
+          43.85148985000001
+        ]
+      },
+      "properties": {
+        "id": "way/157530347",
+        "element_id": 157530347,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'landuse': 'industrial', 'name': 'Čengić Vila I', 'plant:method': 'combustion', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.136057",
+        "url": "https://www.openstreetmap.org/way/157530347"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.647216385487127,
+          44.22471441412641
+        ]
+      },
+      "properties": {
+        "id": "way/173494276",
+        "element_id": 173494276,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'coal', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.136057",
+        "url": "https://www.openstreetmap.org/way/173494276"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.647216385487127,
+          44.22471441412641
+        ]
+      },
+      "properties": {
+        "id": "way/173494276",
+        "element_id": 173494276,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.136057",
+        "url": "https://www.openstreetmap.org/way/173494276"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.91504069255095,
+          43.748279736749765
+        ]
+      },
+      "properties": {
+        "id": "way/208285303",
+        "element_id": 208285303,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'man_made': 'pumping_station', 'name': 'Crpna stanica Lipa', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.137099",
+        "url": "https://www.openstreetmap.org/way/208285303"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.900259340377817,
+          44.88408246144163
+        ]
+      },
+      "properties": {
+        "id": "way/361042657",
+        "element_id": 361042657,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'run-of-the-river', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.137099",
+        "url": "https://www.openstreetmap.org/way/361042657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.900259340377817,
+          44.88408246144163
+        ]
+      },
+      "properties": {
+        "id": "way/361042657",
+        "element_id": 361042657,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.137099",
+        "url": "https://www.openstreetmap.org/way/361042657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.077661046133777,
+          43.69583455218791
+        ]
+      },
+      "properties": {
+        "id": "way/665821185",
+        "element_id": 665821185,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.138593",
+        "url": "https://www.openstreetmap.org/way/665821185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.215501625561465,
+          44.76933560676501
+        ]
+      },
+      "properties": {
+        "id": "way/666365042",
+        "element_id": 666365042,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.138593",
+        "url": "https://www.openstreetmap.org/way/666365042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.215501625561465,
+          44.76933560676501
+        ]
+      },
+      "properties": {
+        "id": "way/666365042",
+        "element_id": 666365042,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'biomass', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.138593",
+        "url": "https://www.openstreetmap.org/way/666365042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.215501625561465,
+          44.76933560676501
+        ]
+      },
+      "properties": {
+        "id": "way/666365042",
+        "element_id": 666365042,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'biomass', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.139603",
+        "url": "https://www.openstreetmap.org/way/666365042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.32400852563629,
+          43.47538662560962
+        ]
+      },
+      "properties": {
+        "id": "way/752676247",
+        "element_id": 752676247,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'HE Ulog (mali)', 'name:bs': 'HE Ulog (mali)', 'name:hr': 'HE Ulog (mali)', 'name:sr': 'ХЕ Улог (мали)', 'name:sr-Latn': 'HE Ulog (mali)', 'note': 'Pozicija i oblik dati proizvorno', 'operator': 'EFT HE ULOG d.o.o Kalinovik', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.139603",
+        "url": "https://www.openstreetmap.org/way/752676247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.003374764592877,
+          43.74792068014099
+        ]
+      },
+      "properties": {
+        "id": "way/752828666",
+        "element_id": 752828666,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.139603",
+        "url": "https://www.openstreetmap.org/way/752828666"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.003374764592877,
+          43.74792068014099
+        ]
+      },
+      "properties": {
+        "id": "way/752828666",
+        "element_id": 752828666,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.139603",
+        "url": "https://www.openstreetmap.org/way/752828666"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.980106873280537,
+          43.75224944546402
+        ]
+      },
+      "properties": {
+        "id": "way/752841581",
+        "element_id": 752841581,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'abandoned': 'yes', 'building': 'yes', 'landuse': 'industrial', 'location': 'underground', 'name': 'HE Mesići \"Slaviša Vajner Čiča\"', 'name:sr': 'ХЕ Месићи \"Славиша Вајнер Чича\"', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.139603",
+        "url": "https://www.openstreetmap.org/way/752841581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.045758502342093,
+          43.71922633525172
+        ]
+      },
+      "properties": {
+        "id": "way/752847430",
+        "element_id": 752847430,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.140603",
+        "url": "https://www.openstreetmap.org/way/752847430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05818574737483,
+          43.71858379682533
+        ]
+      },
+      "properties": {
+        "id": "way/752850445",
+        "element_id": 752850445,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.140603",
+        "url": "https://www.openstreetmap.org/way/752850445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05818574737483,
+          43.71858379682533
+        ]
+      },
+      "properties": {
+        "id": "way/752850445",
+        "element_id": 752850445,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.140603",
+        "url": "https://www.openstreetmap.org/way/752850445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.967447037532366,
+          43.75854609530751
+        ]
+      },
+      "properties": {
+        "id": "way/752850453",
+        "element_id": 752850453,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.140603",
+        "url": "https://www.openstreetmap.org/way/752850453"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.967447037532366,
+          43.75854609530751
+        ]
+      },
+      "properties": {
+        "id": "way/752850453",
+        "element_id": 752850453,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.140603",
+        "url": "https://www.openstreetmap.org/way/752850453"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.967447037532366,
+          43.75854609530751
+        ]
+      },
+      "properties": {
+        "id": "way/752850453",
+        "element_id": 752850453,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.140603",
+        "url": "https://www.openstreetmap.org/way/752850453"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.864222612643903,
+          43.76136983004756
+        ]
+      },
+      "properties": {
+        "id": "way/752850848",
+        "element_id": 752850848,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.140603",
+        "url": "https://www.openstreetmap.org/way/752850848"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.981308344094188,
+          43.7528148399335
+        ]
+      },
+      "properties": {
+        "id": "way/752961218",
+        "element_id": 752961218,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.140603",
+        "url": "https://www.openstreetmap.org/way/752961218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.76801344039295,
+          43.66306232445693
+        ]
+      },
+      "properties": {
+        "id": "way/752999098",
+        "element_id": 752999098,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'HE Jablanica', 'operator': 'Elektroprivreda Bosne i Hercegovine', 'operator:short': 'EPBiH', 'operator:wikidata': 'Q3048615', 'power': 'plant', 'source': 'https://www.epbih.ba/stranica/hidroelektrane-na-neretvi'}",
+        "timestamp": "2025-07-07 18:23:46.141622",
+        "url": "https://www.openstreetmap.org/way/752999098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.106196393931167,
+          44.36761741997974
+        ]
+      },
+      "properties": {
+        "id": "way/753131894",
+        "element_id": 753131894,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 13 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.143048",
+        "url": "https://www.openstreetmap.org/way/753131894"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.57450450357361,
+          43.81386353782852
+        ]
+      },
+      "properties": {
+        "id": "way/755193572",
+        "element_id": 755193572,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Gradska toplana Pale', 'name:sr': 'Градска топлана Пале', 'name:sr-Latn': 'Gradska toplana Pale', 'operator': 'Gradske toplane Pale', 'plant:output:hot_water': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.143048",
+        "url": "https://www.openstreetmap.org/way/755193572"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.21527228111551,
+          44.768171214333
+        ]
+      },
+      "properties": {
+        "id": "way/795531199",
+        "element_id": 795531199,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.144162",
+        "url": "https://www.openstreetmap.org/way/795531199"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.21527228111551,
+          44.768171214333
+        ]
+      },
+      "properties": {
+        "id": "way/795531199",
+        "element_id": 795531199,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'plant:source': 'biomass', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.144162",
+        "url": "https://www.openstreetmap.org/way/795531199"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.21527228111551,
+          44.768171214333
+        ]
+      },
+      "properties": {
+        "id": "way/795531199",
+        "element_id": 795531199,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'plant:source': 'biomass', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.144162",
+        "url": "https://www.openstreetmap.org/way/795531199"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.36466534272305,
+          43.85028697408297
+        ]
+      },
+      "properties": {
+        "id": "way/804274825",
+        "element_id": 804274825,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'landuse': 'industrial', 'name': 'Alipašin most', 'plant:method': 'combustion', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.144162",
+        "url": "https://www.openstreetmap.org/way/804274825"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.32614703963571,
+          43.33809363217768
+        ]
+      },
+      "properties": {
+        "id": "way/810337971",
+        "element_id": 810337971,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.144162",
+        "url": "https://www.openstreetmap.org/way/810337971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.794175859692448,
+          43.29895085725914
+        ]
+      },
+      "properties": {
+        "id": "way/810581776",
+        "element_id": 810581776,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'operator': 'EP HZHB', 'plant:method': 'water-storage', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.144162",
+        "url": "https://www.openstreetmap.org/way/810581776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.794175859692448,
+          43.29895085725914
+        ]
+      },
+      "properties": {
+        "id": "way/810581776",
+        "element_id": 810581776,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.144162",
+        "url": "https://www.openstreetmap.org/way/810581776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.612737140059007,
+          43.37182888629141
+        ]
+      },
+      "properties": {
+        "id": "way/816297606",
+        "element_id": 816297606,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Hidroelektrana', 'operator': 'EPHZHB', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant', 'source': 'bing'}",
+        "timestamp": "2025-07-07 18:23:46.145667",
+        "url": "https://www.openstreetmap.org/way/816297606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.455407462284654,
+          43.75813778173435
+        ]
+      },
+      "properties": {
+        "id": "way/829681025",
+        "element_id": 829681025,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.145667",
+        "url": "https://www.openstreetmap.org/way/829681025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.455407462284654,
+          43.75813778173435
+        ]
+      },
+      "properties": {
+        "id": "way/829681025",
+        "element_id": 829681025,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.145667",
+        "url": "https://www.openstreetmap.org/way/829681025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.46662381296458,
+          43.60237269658003
+        ]
+      },
+      "properties": {
+        "id": "way/829733166",
+        "element_id": 829733166,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.145667",
+        "url": "https://www.openstreetmap.org/way/829733166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.46662381296458,
+          43.60237269658003
+        ]
+      },
+      "properties": {
+        "id": "way/829733166",
+        "element_id": 829733166,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.145667",
+        "url": "https://www.openstreetmap.org/way/829733166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.900531127961813,
+          43.12977972615843
+        ]
+      },
+      "properties": {
+        "id": "way/901990163",
+        "element_id": 901990163,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.146904",
+        "url": "https://www.openstreetmap.org/way/901990163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.900531127961813,
+          43.12977972615843
+        ]
+      },
+      "properties": {
+        "id": "way/901990163",
+        "element_id": 901990163,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.146904",
+        "url": "https://www.openstreetmap.org/way/901990163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.181113048909666,
+          44.36880661285328
+        ]
+      },
+      "properties": {
+        "id": "way/917593826",
+        "element_id": 917593826,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.146904",
+        "url": "https://www.openstreetmap.org/way/917593826"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.181113048909666,
+          44.36880661285328
+        ]
+      },
+      "properties": {
+        "id": "way/917593826",
+        "element_id": 917593826,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'operator': 'Male Hidro Elektrane', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.146904",
+        "url": "https://www.openstreetmap.org/way/917593826"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.181113048909666,
+          44.36880661285328
+        ]
+      },
+      "properties": {
+        "id": "way/917593826",
+        "element_id": 917593826,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.146904",
+        "url": "https://www.openstreetmap.org/way/917593826"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.77006064826571,
+          43.20528923928426
+        ]
+      },
+      "properties": {
+        "id": "way/918935700",
+        "element_id": 918935700,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'generator:source': 'solar', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.146904",
+        "url": "https://www.openstreetmap.org/way/918935700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.77006064826571,
+          43.20528923928426
+        ]
+      },
+      "properties": {
+        "id": "way/918935700",
+        "element_id": 918935700,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.146904",
+        "url": "https://www.openstreetmap.org/way/918935700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.762358711054986,
+          43.2056073764655
+        ]
+      },
+      "properties": {
+        "id": "way/918935705",
+        "element_id": 918935705,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'solar', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.146904",
+        "url": "https://www.openstreetmap.org/way/918935705"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.762358711054986,
+          43.2056073764655
+        ]
+      },
+      "properties": {
+        "id": "way/918935705",
+        "element_id": 918935705,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.146904",
+        "url": "https://www.openstreetmap.org/way/918935705"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.170195384314933,
+          44.84547917602387
+        ]
+      },
+      "properties": {
+        "id": "way/962062889",
+        "element_id": 962062889,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.146904",
+        "url": "https://www.openstreetmap.org/way/962062889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.170195384314933,
+          44.84547917602387
+        ]
+      },
+      "properties": {
+        "id": "way/962062889",
+        "element_id": 962062889,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "460KW",
+        "details": "Tag 'plant:output:electricity' has value '460KW' which could not be parsed",
+        "timestamp": "2025-07-07 18:23:46.146904",
+        "url": "https://www.openstreetmap.org/way/962062889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6077433,
+          44.4148756
+        ]
+      },
+      "properties": {
+        "id": "way/968914914",
+        "element_id": 968914914,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.146904",
+        "url": "https://www.openstreetmap.org/way/968914914"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6077433,
+          44.4148756
+        ]
+      },
+      "properties": {
+        "id": "way/968914914",
+        "element_id": 968914914,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.146904",
+        "url": "https://www.openstreetmap.org/way/968914914"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.35516554679658,
+          43.45884555318938
+        ]
+      },
+      "properties": {
+        "id": "way/1029846260",
+        "element_id": 1029846260,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.147912",
+        "url": "https://www.openstreetmap.org/way/1029846260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.35516554679658,
+          43.45884555318938
+        ]
+      },
+      "properties": {
+        "id": "way/1029846260",
+        "element_id": 1029846260,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.147912",
+        "url": "https://www.openstreetmap.org/way/1029846260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.35343640084282,
+          43.458065640948526
+        ]
+      },
+      "properties": {
+        "id": "way/1029846261",
+        "element_id": 1029846261,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.147912",
+        "url": "https://www.openstreetmap.org/way/1029846261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.35343640084282,
+          43.458065640948526
+        ]
+      },
+      "properties": {
+        "id": "way/1029846261",
+        "element_id": 1029846261,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.147912",
+        "url": "https://www.openstreetmap.org/way/1029846261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.40805387110668,
+          43.72774278137669
+        ]
+      },
+      "properties": {
+        "id": "way/1049619973",
+        "element_id": 1049619973,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.147912",
+        "url": "https://www.openstreetmap.org/way/1049619973"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.40805387110668,
+          43.72774278137669
+        ]
+      },
+      "properties": {
+        "id": "way/1049619973",
+        "element_id": 1049619973,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.147912",
+        "url": "https://www.openstreetmap.org/way/1049619973"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.26080643648129,
+          44.07660443054129
+        ]
+      },
+      "properties": {
+        "id": "way/1086469796",
+        "element_id": 1086469796,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.147912",
+        "url": "https://www.openstreetmap.org/way/1086469796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.26080643648129,
+          44.07660443054129
+        ]
+      },
+      "properties": {
+        "id": "way/1086469796",
+        "element_id": 1086469796,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.147912",
+        "url": "https://www.openstreetmap.org/way/1086469796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.26080643648129,
+          44.07660443054129
+        ]
+      },
+      "properties": {
+        "id": "way/1086469796",
+        "element_id": 1086469796,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.147912",
+        "url": "https://www.openstreetmap.org/way/1086469796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.407367885169982,
+          42.86548913206574
+        ]
+      },
+      "properties": {
+        "id": "way/1152273146",
+        "element_id": 1152273146,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.149081",
+        "url": "https://www.openstreetmap.org/way/1152273146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.407367885169982,
+          42.86548913206574
+        ]
+      },
+      "properties": {
+        "id": "way/1152273146",
+        "element_id": 1152273146,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.149081",
+        "url": "https://www.openstreetmap.org/way/1152273146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.102923117638397,
+          43.93945352285435
+        ]
+      },
+      "properties": {
+        "id": "way/1215130710",
+        "element_id": 1215130710,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.149081",
+        "url": "https://www.openstreetmap.org/way/1215130710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.102923117638397,
+          43.93945352285435
+        ]
+      },
+      "properties": {
+        "id": "way/1215130710",
+        "element_id": 1215130710,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.149081",
+        "url": "https://www.openstreetmap.org/way/1215130710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.102923117638397,
+          43.93945352285435
+        ]
+      },
+      "properties": {
+        "id": "way/1215130710",
+        "element_id": 1215130710,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.149081",
+        "url": "https://www.openstreetmap.org/way/1215130710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.101198136974,
+          43.93895791156295
+        ]
+      },
+      "properties": {
+        "id": "way/1215130711",
+        "element_id": 1215130711,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.149081",
+        "url": "https://www.openstreetmap.org/way/1215130711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.101198136974,
+          43.93895791156295
+        ]
+      },
+      "properties": {
+        "id": "way/1215130711",
+        "element_id": 1215130711,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.149081",
+        "url": "https://www.openstreetmap.org/way/1215130711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.101198136974,
+          43.93895791156295
+        ]
+      },
+      "properties": {
+        "id": "way/1215130711",
+        "element_id": 1215130711,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.149081",
+        "url": "https://www.openstreetmap.org/way/1215130711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.89824138092527,
+          44.05046559170464
+        ]
+      },
+      "properties": {
+        "id": "way/1220040460",
+        "element_id": 1220040460,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.150082",
+        "url": "https://www.openstreetmap.org/way/1220040460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.89824138092527,
+          44.05046559170464
+        ]
+      },
+      "properties": {
+        "id": "way/1220040460",
+        "element_id": 1220040460,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.150082",
+        "url": "https://www.openstreetmap.org/way/1220040460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.929703965166382,
+          44.60272552118551
+        ]
+      },
+      "properties": {
+        "id": "way/1225398864",
+        "element_id": 1225398864,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.150082",
+        "url": "https://www.openstreetmap.org/way/1225398864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.929703965166382,
+          44.60272552118551
+        ]
+      },
+      "properties": {
+        "id": "way/1225398864",
+        "element_id": 1225398864,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.150082",
+        "url": "https://www.openstreetmap.org/way/1225398864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.82411444508798,
+          43.29484770438698
+        ]
+      },
+      "properties": {
+        "id": "way/1228880894",
+        "element_id": 1228880894,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.150082",
+        "url": "https://www.openstreetmap.org/way/1228880894"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.82411444508798,
+          43.29484770438698
+        ]
+      },
+      "properties": {
+        "id": "way/1228880894",
+        "element_id": 1228880894,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.150082",
+        "url": "https://www.openstreetmap.org/way/1228880894"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.983123239945037,
+          45.12930162782775
+        ]
+      },
+      "properties": {
+        "id": "way/1237102953",
+        "element_id": 1237102953,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.150082",
+        "url": "https://www.openstreetmap.org/way/1237102953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.018783508759878,
+          43.81341238171623
+        ]
+      },
+      "properties": {
+        "id": "way/1252935517",
+        "element_id": 1252935517,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.150082",
+        "url": "https://www.openstreetmap.org/way/1252935517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.018783508759878,
+          43.81341238171623
+        ]
+      },
+      "properties": {
+        "id": "way/1252935517",
+        "element_id": 1252935517,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.150082",
+        "url": "https://www.openstreetmap.org/way/1252935517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.223486171409828,
+          43.258336050874085
+        ]
+      },
+      "properties": {
+        "id": "way/1263020134",
+        "element_id": 1263020134,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.150082",
+        "url": "https://www.openstreetmap.org/way/1263020134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.223486171409828,
+          43.258336050874085
+        ]
+      },
+      "properties": {
+        "id": "way/1263020134",
+        "element_id": 1263020134,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.150082",
+        "url": "https://www.openstreetmap.org/way/1263020134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.93564915593373,
+          43.7183600893796
+        ]
+      },
+      "properties": {
+        "id": "way/1263365460",
+        "element_id": 1263365460,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.150082",
+        "url": "https://www.openstreetmap.org/way/1263365460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.93564915593373,
+          43.7183600893796
+        ]
+      },
+      "properties": {
+        "id": "way/1263365460",
+        "element_id": 1263365460,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.151327",
+        "url": "https://www.openstreetmap.org/way/1263365460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.450910351339346,
+          42.84329855569776
+        ]
+      },
+      "properties": {
+        "id": "way/1293504197",
+        "element_id": 1293504197,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.151327",
+        "url": "https://www.openstreetmap.org/way/1293504197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.450910351339346,
+          42.84329855569776
+        ]
+      },
+      "properties": {
+        "id": "way/1293504197",
+        "element_id": 1293504197,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Solarni paneli', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.151327",
+        "url": "https://www.openstreetmap.org/way/1293504197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.44844210422604,
+          42.84416022377873
+        ]
+      },
+      "properties": {
+        "id": "way/1293504198",
+        "element_id": 1293504198,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.151327",
+        "url": "https://www.openstreetmap.org/way/1293504198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.44844210422604,
+          42.84416022377873
+        ]
+      },
+      "properties": {
+        "id": "way/1293504198",
+        "element_id": 1293504198,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Solarni paneli', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.151327",
+        "url": "https://www.openstreetmap.org/way/1293504198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.60070895880555,
+          43.19511694561583
+        ]
+      },
+      "properties": {
+        "id": "way/1304745979",
+        "element_id": 1304745979,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.151327",
+        "url": "https://www.openstreetmap.org/way/1304745979"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.60070895880555,
+          43.19511694561583
+        ]
+      },
+      "properties": {
+        "id": "way/1304745979",
+        "element_id": 1304745979,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.151327",
+        "url": "https://www.openstreetmap.org/way/1304745979"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4077202715332,
+          42.86455750300127
+        ]
+      },
+      "properties": {
+        "id": "way/1305962998",
+        "element_id": 1305962998,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.152337",
+        "url": "https://www.openstreetmap.org/way/1305962998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4077202715332,
+          42.86455750300127
+        ]
+      },
+      "properties": {
+        "id": "way/1305962998",
+        "element_id": 1305962998,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.152337",
+        "url": "https://www.openstreetmap.org/way/1305962998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.713583737622173,
+          44.85815570407247
+        ]
+      },
+      "properties": {
+        "id": "way/1306512474",
+        "element_id": 1306512474,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.152337",
+        "url": "https://www.openstreetmap.org/way/1306512474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.38401311525569,
+          42.90406874736156
+        ]
+      },
+      "properties": {
+        "id": "way/1307459820",
+        "element_id": 1307459820,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.152337",
+        "url": "https://www.openstreetmap.org/way/1307459820"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.41882646330562,
+          42.90425505211448
+        ]
+      },
+      "properties": {
+        "id": "way/1307595861",
+        "element_id": 1307595861,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.152337",
+        "url": "https://www.openstreetmap.org/way/1307595861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.416222125450737,
+          42.90059895230108
+        ]
+      },
+      "properties": {
+        "id": "way/1307595864",
+        "element_id": 1307595864,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.153358",
+        "url": "https://www.openstreetmap.org/way/1307595864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.416495931819856,
+          42.90218907103405
+        ]
+      },
+      "properties": {
+        "id": "way/1307595865",
+        "element_id": 1307595865,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.153358",
+        "url": "https://www.openstreetmap.org/way/1307595865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.415529918808016,
+          42.90395620642356
+        ]
+      },
+      "properties": {
+        "id": "way/1307595866",
+        "element_id": 1307595866,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.153358",
+        "url": "https://www.openstreetmap.org/way/1307595866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42115475078757,
+          42.87148102232902
+        ]
+      },
+      "properties": {
+        "id": "way/1307761182",
+        "element_id": 1307761182,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.153358",
+        "url": "https://www.openstreetmap.org/way/1307761182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42571805412304,
+          42.78997801364654
+        ]
+      },
+      "properties": {
+        "id": "way/1312112805",
+        "element_id": 1312112805,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.154371",
+        "url": "https://www.openstreetmap.org/way/1312112805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.582569550676713,
+          43.141220349832125
+        ]
+      },
+      "properties": {
+        "id": "way/1313916758",
+        "element_id": 1313916758,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.154371",
+        "url": "https://www.openstreetmap.org/way/1313916758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.582569550676713,
+          43.141220349832125
+        ]
+      },
+      "properties": {
+        "id": "way/1313916758",
+        "element_id": 1313916758,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.154371",
+        "url": "https://www.openstreetmap.org/way/1313916758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.81546255,
+          44.07103870000001
+        ]
+      },
+      "properties": {
+        "id": "way/1357205219",
+        "element_id": 1357205219,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.154371",
+        "url": "https://www.openstreetmap.org/way/1357205219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.81546255,
+          44.07103870000001
+        ]
+      },
+      "properties": {
+        "id": "way/1357205219",
+        "element_id": 1357205219,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.154371",
+        "url": "https://www.openstreetmap.org/way/1357205219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.81546255,
+          44.07103870000001
+        ]
+      },
+      "properties": {
+        "id": "way/1357205219",
+        "element_id": 1357205219,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.154371",
+        "url": "https://www.openstreetmap.org/way/1357205219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.89692496314227,
+          44.89486048192234
+        ]
+      },
+      "properties": {
+        "id": "way/1380986065",
+        "element_id": 1380986065,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.154371",
+        "url": "https://www.openstreetmap.org/way/1380986065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.89692496314227,
+          44.89486048192234
+        ]
+      },
+      "properties": {
+        "id": "way/1380986065",
+        "element_id": 1380986065,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.154371",
+        "url": "https://www.openstreetmap.org/way/1380986065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.351179638749652,
+          43.33900147926969
+        ]
+      },
+      "properties": {
+        "id": "way/1387487595",
+        "element_id": 1387487595,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.154371",
+        "url": "https://www.openstreetmap.org/way/1387487595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.43826046116926,
+          42.88968998152534
+        ]
+      },
+      "properties": {
+        "id": "way/1387489643",
+        "element_id": 1387489643,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.154371",
+        "url": "https://www.openstreetmap.org/way/1387489643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.43826046116926,
+          42.88968998152534
+        ]
+      },
+      "properties": {
+        "id": "way/1387489643",
+        "element_id": 1387489643,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.154371",
+        "url": "https://www.openstreetmap.org/way/1387489643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.43826046116926,
+          42.88968998152534
+        ]
+      },
+      "properties": {
+        "id": "way/1387489643",
+        "element_id": 1387489643,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.155367",
+        "url": "https://www.openstreetmap.org/way/1387489643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.447202225323398,
+          43.33029666688719
+        ]
+      },
+      "properties": {
+        "id": "way/1390325096",
+        "element_id": 1390325096,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.155367",
+        "url": "https://www.openstreetmap.org/way/1390325096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.447202225323398,
+          43.33029666688719
+        ]
+      },
+      "properties": {
+        "id": "way/1390325096",
+        "element_id": 1390325096,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.155367",
+        "url": "https://www.openstreetmap.org/way/1390325096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.447202225323398,
+          43.33029666688719
+        ]
+      },
+      "properties": {
+        "id": "way/1390325096",
+        "element_id": 1390325096,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.155367",
+        "url": "https://www.openstreetmap.org/way/1390325096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.449233368172536,
+          43.32780008553842
+        ]
+      },
+      "properties": {
+        "id": "way/1390325097",
+        "element_id": 1390325097,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.155367",
+        "url": "https://www.openstreetmap.org/way/1390325097"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.449233368172536,
+          43.32780008553842
+        ]
+      },
+      "properties": {
+        "id": "way/1390325097",
+        "element_id": 1390325097,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.155367",
+        "url": "https://www.openstreetmap.org/way/1390325097"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.449233368172536,
+          43.32780008553842
+        ]
+      },
+      "properties": {
+        "id": "way/1390325097",
+        "element_id": 1390325097,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.155367",
+        "url": "https://www.openstreetmap.org/way/1390325097"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.44397753848448,
+          43.3281376349111
+        ]
+      },
+      "properties": {
+        "id": "way/1390325098",
+        "element_id": 1390325098,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.155367",
+        "url": "https://www.openstreetmap.org/way/1390325098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.644731514972708,
+          43.17652086329994
+        ]
+      },
+      "properties": {
+        "id": "way/1390335520",
+        "element_id": 1390335520,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.155367",
+        "url": "https://www.openstreetmap.org/way/1390335520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.68038722005097,
+          43.07689213103541
+        ]
+      },
+      "properties": {
+        "id": "way/1390338503",
+        "element_id": 1390338503,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.155367",
+        "url": "https://www.openstreetmap.org/way/1390338503"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.874273517157167,
+          43.14854531139357
+        ]
+      },
+      "properties": {
+        "id": "way/1390356988",
+        "element_id": 1390356988,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.156369",
+        "url": "https://www.openstreetmap.org/way/1390356988"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.198825588067724,
+          43.218152671516926
+        ]
+      },
+      "properties": {
+        "id": "way/1390363563",
+        "element_id": 1390363563,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.156369",
+        "url": "https://www.openstreetmap.org/way/1390363563"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.198825588067724,
+          43.218152671516926
+        ]
+      },
+      "properties": {
+        "id": "way/1390363563",
+        "element_id": 1390363563,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.156369",
+        "url": "https://www.openstreetmap.org/way/1390363563"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.198825588067724,
+          43.218152671516926
+        ]
+      },
+      "properties": {
+        "id": "way/1390363563",
+        "element_id": 1390363563,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.156369",
+        "url": "https://www.openstreetmap.org/way/1390363563"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.20194655945977,
+          43.22015212087388
+        ]
+      },
+      "properties": {
+        "id": "way/1390363564",
+        "element_id": 1390363564,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.156369",
+        "url": "https://www.openstreetmap.org/way/1390363564"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.15732497465318,
+          43.09180945378134
+        ]
+      },
+      "properties": {
+        "id": "way/1390367406",
+        "element_id": 1390367406,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:46.156369",
+        "url": "https://www.openstreetmap.org/way/1390367406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.12539466082477,
+          44.83296109639719
+        ]
+      },
+      "properties": {
+        "id": "way/1393080429",
+        "element_id": 1393080429,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.156369",
+        "url": "https://www.openstreetmap.org/way/1393080429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.12539466082477,
+          44.83296109639719
+        ]
+      },
+      "properties": {
+        "id": "way/1393080429",
+        "element_id": 1393080429,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.156369",
+        "url": "https://www.openstreetmap.org/way/1393080429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.911987829664483,
+          44.83476558736894
+        ]
+      },
+      "properties": {
+        "id": "way/1409179708",
+        "element_id": 1409179708,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:46.156369",
+        "url": "https://www.openstreetmap.org/way/1409179708"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.911987829664483,
+          44.83476558736894
+        ]
+      },
+      "properties": {
+        "id": "way/1409179708",
+        "element_id": 1409179708,
+        "element_type": "way",
+        "country": "Bosnia and Herzegovina",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:46.156369",
+        "url": "https://www.openstreetmap.org/way/1409179708"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.660931085731875,
+          -15.990982469150332
+        ]
+      },
+      "properties": {
+        "id": "way/1156101727",
+        "element_id": 1156101727,
+        "element_type": "way",
+        "country": "Malawi",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:57.454303",
+        "url": "https://www.openstreetmap.org/way/1156101727"
+      }
+    }
+  ]
+}

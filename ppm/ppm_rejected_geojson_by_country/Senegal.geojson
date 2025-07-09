@@ -1,0 +1,511 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.957466267087707,
+          14.42386209510967
+        ]
+      },
+      "properties": {
+        "id": "way/335842188",
+        "element_id": 335842188,
+        "element_type": "way",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'poste courant', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:01.977566",
+        "url": "https://www.openstreetmap.org/way/335842188"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.46178399625976,
+          15.266602539580765
+        ]
+      },
+      "properties": {
+        "id": "way/465471796",
+        "element_id": 465471796,
+        "element_type": "way",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:01.977566",
+        "url": "https://www.openstreetmap.org/way/465471796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.46178399625976,
+          15.266602539580765
+        ]
+      },
+      "properties": {
+        "id": "way/465471796",
+        "element_id": 465471796,
+        "element_type": "way",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:01.977566",
+        "url": "https://www.openstreetmap.org/way/465471796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.943400374994228,
+          12.866650332541386
+        ]
+      },
+      "properties": {
+        "id": "way/564695577",
+        "element_id": 564695577,
+        "element_type": "way",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Centrale Electrique de Marakissa', 'power': 'plant', 'start_date': '2017-2018'}",
+        "timestamp": "2025-07-07 18:47:01.978566",
+        "url": "https://www.openstreetmap.org/way/564695577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.496267960647103,
+          16.009827752946187
+        ]
+      },
+      "properties": {
+        "id": "way/699890845",
+        "element_id": 699890845,
+        "element_type": "way",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Saint-Louis', 'addr:street': 'Pikine Bas Sénégal', 'landuse': 'industrial', 'name': 'Centrale electrique secondaire', 'operator': 'SENELEC', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:01.980900",
+        "url": "https://www.openstreetmap.org/way/699890845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.432426810385202,
+          14.6893067561073
+        ]
+      },
+      "properties": {
+        "id": "way/1083289485",
+        "element_id": 1083289485,
+        "element_type": "way",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'Karadeniz Powership Ayşegül Sultan power station', 'power': 'plant', 'source': 'https://www.gem.wiki/Karpowership_(Senegal)_Aysegul_Sultan_power_station'}",
+        "timestamp": "2025-07-07 18:47:01.981972",
+        "url": "https://www.openstreetmap.org/way/1083289485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.750948386499877,
+          13.136763669387834
+        ]
+      },
+      "properties": {
+        "id": "way/1115992338",
+        "element_id": 1115992338,
+        "element_type": "way",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:01.983457",
+        "url": "https://www.openstreetmap.org/way/1115992338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.750948386499877,
+          13.136763669387834
+        ]
+      },
+      "properties": {
+        "id": "way/1115992338",
+        "element_id": 1115992338,
+        "element_type": "way",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:01.984674",
+        "url": "https://www.openstreetmap.org/way/1115992338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.4171695034495,
+          12.63609861597721
+        ]
+      },
+      "properties": {
+        "id": "way/1117123835",
+        "element_id": 1117123835,
+        "element_type": "way",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:01.984674",
+        "url": "https://www.openstreetmap.org/way/1117123835"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.4171695034495,
+          12.63609861597721
+        ]
+      },
+      "properties": {
+        "id": "way/1117123835",
+        "element_id": 1117123835,
+        "element_type": "way",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:01.984674",
+        "url": "https://www.openstreetmap.org/way/1117123835"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.916120592556853,
+          12.879948256447198
+        ]
+      },
+      "properties": {
+        "id": "way/1120337487",
+        "element_id": 1120337487,
+        "element_type": "way",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Centrale Électrique de Kolda', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:01.984674",
+        "url": "https://www.openstreetmap.org/way/1120337487"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.024912135276622,
+          14.169244666973375
+        ]
+      },
+      "properties": {
+        "id": "way/1165378436",
+        "element_id": 1165378436,
+        "element_type": "way",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:01.984674",
+        "url": "https://www.openstreetmap.org/way/1165378436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.95060974875705,
+          14.47213707685456
+        ]
+      },
+      "properties": {
+        "id": "way/1195036961",
+        "element_id": 1195036961,
+        "element_type": "way",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'Malicounda power station', 'power': 'plant', 'source': 'https://www.gem.wiki/Malicounda_power_station'}",
+        "timestamp": "2025-07-07 18:47:01.985673",
+        "url": "https://www.openstreetmap.org/way/1195036961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.300470152074908,
+          14.722999870964044
+        ]
+      },
+      "properties": {
+        "id": "way/1204037131",
+        "element_id": 1204037131,
+        "element_type": "way",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:01.985673",
+        "url": "https://www.openstreetmap.org/way/1204037131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.649545311684243,
+          13.952930821407184
+        ]
+      },
+      "properties": {
+        "id": "way/1218766205",
+        "element_id": 1218766205,
+        "element_type": "way",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'name': 'Central énergétique Moundé', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:01.985673",
+        "url": "https://www.openstreetmap.org/way/1218766205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.606107690548942,
+          13.979511378045244
+        ]
+      },
+      "properties": {
+        "id": "way/1219326956",
+        "element_id": 1219326956,
+        "element_type": "way",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'name': 'Central électrique de Djirnda', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:01.985673",
+        "url": "https://www.openstreetmap.org/way/1219326956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.597850812694812,
+          13.92331892382467
+        ]
+      },
+      "properties": {
+        "id": "way/1236565213",
+        "element_id": 1236565213,
+        "element_type": "way",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Centrale électrique Bassar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:01.985673",
+        "url": "https://www.openstreetmap.org/way/1236565213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.737216379587904,
+          15.93602241192426
+        ]
+      },
+      "properties": {
+        "id": "way/1341628102",
+        "element_id": 1341628102,
+        "element_type": "way",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:01.986960",
+        "url": "https://www.openstreetmap.org/way/1341628102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6788417,
+          13.9208966
+        ]
+      },
+      "properties": {
+        "id": "node/11508399679",
+        "element_id": 11508399679,
+        "element_type": "node",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Central électrique', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:01.989225",
+        "url": "https://www.openstreetmap.org/node/11508399679"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.6922809,
+          16.0983953
+        ]
+      },
+      "properties": {
+        "id": "node/12397714621",
+        "element_id": 12397714621,
+        "element_type": "node",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Centrale électrique', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:01.989225",
+        "url": "https://www.openstreetmap.org/node/12397714621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.451455,
+          14.6882417
+        ]
+      },
+      "properties": {
+        "id": "node/6973680153",
+        "element_id": 6973680153,
+        "element_type": "node",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'man_made': 'street_cabinet', 'name': \"Borne d'alimentation\", 'power': 'plant', 'utility': 'power'}",
+        "timestamp": "2025-07-07 18:47:01.989225",
+        "url": "https://www.openstreetmap.org/node/6973680153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.9152152,
+          12.8798079
+        ]
+      },
+      "properties": {
+        "id": "node/8999746977",
+        "element_id": 8999746977,
+        "element_type": "node",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Centrale Électrique de Kolda', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:01.989225",
+        "url": "https://www.openstreetmap.org/node/8999746977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.737216379587904,
+          15.93602241192426
+        ]
+      },
+      "properties": {
+        "id": "way/1341628102",
+        "element_id": 1341628102,
+        "element_type": "way",
+        "country": "Senegal",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Mini central solaire', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:01.989225",
+        "url": "https://www.openstreetmap.org/way/1341628102"
+      }
+    }
+  ]
+}

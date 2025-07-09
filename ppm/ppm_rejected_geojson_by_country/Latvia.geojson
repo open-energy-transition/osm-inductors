@@ -1,0 +1,5373 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.37652761783908,
+          56.86671664147647
+        ]
+      },
+      "properties": {
+        "id": "relation/2797449",
+        "element_id": 2797449,
+        "element_type": "relation",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.462323",
+        "url": "https://www.openstreetmap.org/relation/2797449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.50375887650884,
+          56.86835655471079
+        ]
+      },
+      "properties": {
+        "id": "relation/13163141",
+        "element_id": 13163141,
+        "element_type": "relation",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.463329",
+        "url": "https://www.openstreetmap.org/relation/13163141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.50375887650884,
+          56.86835655471079
+        ]
+      },
+      "properties": {
+        "id": "relation/13163141",
+        "element_id": 13163141,
+        "element_type": "relation",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.464327",
+        "url": "https://www.openstreetmap.org/relation/13163141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.073696485231952,
+          56.69599394086716
+        ]
+      },
+      "properties": {
+        "id": "relation/14027020",
+        "element_id": 14027020,
+        "element_type": "relation",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'wind_turbine', 'plant:source': 'wind', 'power': 'plant', 'site': 'wind_farm', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:39:06.466839",
+        "url": "https://www.openstreetmap.org/relation/14027020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0722632,
+          56.6975351
+        ]
+      },
+      "properties": {
+        "id": "node/2601564806",
+        "element_id": 2601564806,
+        "element_type": "node",
+        "country": "Latvia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:39:06.468838",
+        "url": "https://www.openstreetmap.org/node/2601564806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.073696485231952,
+          56.69599394086716
+        ]
+      },
+      "properties": {
+        "id": "relation/14027020",
+        "element_id": 14027020,
+        "element_type": "relation",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'wind_turbine', 'plant:source': 'wind', 'power': 'plant', 'site': 'wind_farm', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:39:06.468838",
+        "url": "https://www.openstreetmap.org/relation/14027020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.073226,
+          56.6940138
+        ]
+      },
+      "properties": {
+        "id": "node/2601564776",
+        "element_id": 2601564776,
+        "element_type": "node",
+        "country": "Latvia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:39:06.469838",
+        "url": "https://www.openstreetmap.org/node/2601564776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0722632,
+          56.6975351
+        ]
+      },
+      "properties": {
+        "id": "node/2601564806",
+        "element_id": 2601564806,
+        "element_type": "node",
+        "country": "Latvia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:39:06.469838",
+        "url": "https://www.openstreetmap.org/node/2601564806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.073226,
+          56.6940138
+        ]
+      },
+      "properties": {
+        "id": "node/2601564776",
+        "element_id": 2601564776,
+        "element_type": "node",
+        "country": "Latvia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:39:06.470837",
+        "url": "https://www.openstreetmap.org/node/2601564776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0745664,
+          56.6961525
+        ]
+      },
+      "properties": {
+        "id": "node/2601564792",
+        "element_id": 2601564792,
+        "element_type": "node",
+        "country": "Latvia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:39:06.470837",
+        "url": "https://www.openstreetmap.org/node/2601564792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0745664,
+          56.6961525
+        ]
+      },
+      "properties": {
+        "id": "node/2601564792",
+        "element_id": 2601564792,
+        "element_type": "node",
+        "country": "Latvia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:39:06.472841",
+        "url": "https://www.openstreetmap.org/node/2601564792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0734534,
+          56.6980969
+        ]
+      },
+      "properties": {
+        "id": "node/2601564809",
+        "element_id": 2601564809,
+        "element_type": "node",
+        "country": "Latvia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:39:06.472841",
+        "url": "https://www.openstreetmap.org/node/2601564809"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0740296,
+          56.6970945
+        ]
+      },
+      "properties": {
+        "id": "node/2601564795",
+        "element_id": 2601564795,
+        "element_type": "node",
+        "country": "Latvia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:39:06.473839",
+        "url": "https://www.openstreetmap.org/node/2601564795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0734534,
+          56.6980969
+        ]
+      },
+      "properties": {
+        "id": "node/2601564809",
+        "element_id": 2601564809,
+        "element_type": "node",
+        "country": "Latvia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:39:06.473839",
+        "url": "https://www.openstreetmap.org/node/2601564809"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0740296,
+          56.6970945
+        ]
+      },
+      "properties": {
+        "id": "node/2601564795",
+        "element_id": 2601564795,
+        "element_type": "node",
+        "country": "Latvia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:39:06.474840",
+        "url": "https://www.openstreetmap.org/node/2601564795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0728879,
+          56.6990874
+        ]
+      },
+      "properties": {
+        "id": "node/2601564813",
+        "element_id": 2601564813,
+        "element_type": "node",
+        "country": "Latvia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:39:06.474840",
+        "url": "https://www.openstreetmap.org/node/2601564813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0757545,
+          56.6941183
+        ]
+      },
+      "properties": {
+        "id": "node/2601564781",
+        "element_id": 2601564781,
+        "element_type": "node",
+        "country": "Latvia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:39:06.476837",
+        "url": "https://www.openstreetmap.org/node/2601564781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0728879,
+          56.6990874
+        ]
+      },
+      "properties": {
+        "id": "node/2601564813",
+        "element_id": 2601564813,
+        "element_type": "node",
+        "country": "Latvia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:39:06.476837",
+        "url": "https://www.openstreetmap.org/node/2601564813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0757545,
+          56.6941183
+        ]
+      },
+      "properties": {
+        "id": "node/2601564781",
+        "element_id": 2601564781,
+        "element_type": "node",
+        "country": "Latvia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:39:06.478265",
+        "url": "https://www.openstreetmap.org/node/2601564781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.849341135585828,
+          56.97296028342954
+        ]
+      },
+      "properties": {
+        "id": "way/105125561",
+        "element_id": 105125561,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'service', 'landuse': 'industrial', 'power': 'plant', 'source': 'Jūrmalas Domes Pilsētplānošanas nodaļa'}",
+        "timestamp": "2025-07-07 18:39:06.483264",
+        "url": "https://www.openstreetmap.org/way/105125561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.849341135585828,
+          56.97296028342954
+        ]
+      },
+      "properties": {
+        "id": "way/105125561",
+        "element_id": 105125561,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'service', 'landuse': 'industrial', 'power': 'plant', 'source': 'Jūrmalas Domes Pilsētplānošanas nodaļa'}",
+        "timestamp": "2025-07-07 18:39:06.483264",
+        "url": "https://www.openstreetmap.org/way/105125561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.88693163486464,
+          56.0424767285861
+        ]
+      },
+      "properties": {
+        "id": "way/71441495",
+        "element_id": 71441495,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.483264",
+        "url": "https://www.openstreetmap.org/way/71441495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.88693163486464,
+          56.0424767285861
+        ]
+      },
+      "properties": {
+        "id": "way/71441495",
+        "element_id": 71441495,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.483264",
+        "url": "https://www.openstreetmap.org/way/71441495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.91117605441904,
+          56.94652821930672
+        ]
+      },
+      "properties": {
+        "id": "way/110793574",
+        "element_id": 110793574,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Piņķi', 'addr:country': 'LV', 'addr:district': 'Mārupes novads', 'addr:housenumber': '13D', 'addr:postcode': 'LV-2107', 'addr:street': 'Jūrmalas iela', 'addr:subdistrict': 'Babītes pagasts', 'building': 'yes', 'landuse': 'industrial', 'name': 'Babites siltums', 'power': 'plant', 'ref:LV:addr': '103125754', 'source': 'Babītes pagasta teritorijas plānojums 2007'}",
+        "timestamp": "2025-07-07 18:39:06.484270",
+        "url": "https://www.openstreetmap.org/way/110793574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93149941667252,
+          57.28751284857015
+        ]
+      },
+      "properties": {
+        "id": "way/118294777",
+        "element_id": 118294777,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.484270",
+        "url": "https://www.openstreetmap.org/way/118294777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93149941667252,
+          57.28751284857015
+        ]
+      },
+      "properties": {
+        "id": "way/118294777",
+        "element_id": 118294777,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.484270",
+        "url": "https://www.openstreetmap.org/way/118294777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93149941667252,
+          57.28751284857015
+        ]
+      },
+      "properties": {
+        "id": "way/118294777",
+        "element_id": 118294777,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.485266",
+        "url": "https://www.openstreetmap.org/way/118294777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.209862146094835,
+          57.233400535736266
+        ]
+      },
+      "properties": {
+        "id": "way/158208557",
+        "element_id": 158208557,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.487264",
+        "url": "https://www.openstreetmap.org/way/158208557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.209862146094835,
+          57.233400535736266
+        ]
+      },
+      "properties": {
+        "id": "way/158208557",
+        "element_id": 158208557,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.487264",
+        "url": "https://www.openstreetmap.org/way/158208557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5137251,
+          57.00732365
+        ]
+      },
+      "properties": {
+        "id": "way/188434134",
+        "element_id": 188434134,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.487264",
+        "url": "https://www.openstreetmap.org/way/188434134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5137251,
+          57.00732365
+        ]
+      },
+      "properties": {
+        "id": "way/188434134",
+        "element_id": 188434134,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.487264",
+        "url": "https://www.openstreetmap.org/way/188434134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5137251,
+          57.00732365
+        ]
+      },
+      "properties": {
+        "id": "way/188434134",
+        "element_id": 188434134,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.487264",
+        "url": "https://www.openstreetmap.org/way/188434134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.73194887747941,
+          56.728274592475415
+        ]
+      },
+      "properties": {
+        "id": "way/251529055",
+        "element_id": 251529055,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.488265",
+        "url": "https://www.openstreetmap.org/way/251529055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.73194887747941,
+          56.728274592475415
+        ]
+      },
+      "properties": {
+        "id": "way/251529055",
+        "element_id": 251529055,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.488265",
+        "url": "https://www.openstreetmap.org/way/251529055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.92576564448021,
+          56.54102920250876
+        ]
+      },
+      "properties": {
+        "id": "way/254488345",
+        "element_id": 254488345,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "48ß kW",
+        "details": "Tag 'plant:output:electricity' has value '48ß kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:39:06.488265",
+        "url": "https://www.openstreetmap.org/way/254488345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.19556557664738,
+          56.34701901555819
+        ]
+      },
+      "properties": {
+        "id": "way/303921961",
+        "element_id": 303921961,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Koģenerācijas stacija', 'plant:output:hot_water': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.488265",
+        "url": "https://www.openstreetmap.org/way/303921961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5509197044566,
+          55.8980101134019
+        ]
+      },
+      "properties": {
+        "id": "way/303976785",
+        "element_id": 303976785,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.488265",
+        "url": "https://www.openstreetmap.org/way/303976785"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.75837053108667,
+          56.15991949387238
+        ]
+      },
+      "properties": {
+        "id": "way/311021586",
+        "element_id": 311021586,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.488265",
+        "url": "https://www.openstreetmap.org/way/311021586"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.75837053108667,
+          56.15991949387238
+        ]
+      },
+      "properties": {
+        "id": "way/311021586",
+        "element_id": 311021586,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.488265",
+        "url": "https://www.openstreetmap.org/way/311021586"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.73291242514156,
+          56.15134082430937
+        ]
+      },
+      "properties": {
+        "id": "way/311021587",
+        "element_id": 311021587,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.489655",
+        "url": "https://www.openstreetmap.org/way/311021587"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.73291242514156,
+          56.15134082430937
+        ]
+      },
+      "properties": {
+        "id": "way/311021587",
+        "element_id": 311021587,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.489655",
+        "url": "https://www.openstreetmap.org/way/311021587"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.868549587645585,
+          56.04166068952192
+        ]
+      },
+      "properties": {
+        "id": "way/320354261",
+        "element_id": 320354261,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.489655",
+        "url": "https://www.openstreetmap.org/way/320354261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.868549587645585,
+          56.04166068952192
+        ]
+      },
+      "properties": {
+        "id": "way/320354261",
+        "element_id": 320354261,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.489655",
+        "url": "https://www.openstreetmap.org/way/320354261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.857217432025283,
+          56.04521294967514
+        ]
+      },
+      "properties": {
+        "id": "way/320354828",
+        "element_id": 320354828,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.489655",
+        "url": "https://www.openstreetmap.org/way/320354828"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.857217432025283,
+          56.04521294967514
+        ]
+      },
+      "properties": {
+        "id": "way/320354828",
+        "element_id": 320354828,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.489655",
+        "url": "https://www.openstreetmap.org/way/320354828"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.37847922177547,
+          56.92339416787773
+        ]
+      },
+      "properties": {
+        "id": "way/360460904",
+        "element_id": 360460904,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Upeslejas', 'addr:country': 'LV', 'addr:district': 'Ropažu novads', 'addr:housenumber': '1', 'addr:postcode': 'LV-2118', 'addr:street': 'Zahārija Stopija iela', 'addr:subdistrict': 'Stopiņu pagasts', 'building': 'service', 'old_addr:housename': 'Katlu māja', 'power': 'plant', 'ref:LV:addr': '106161752'}",
+        "timestamp": "2025-07-07 18:39:06.489655",
+        "url": "https://www.openstreetmap.org/way/360460904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.37847922177547,
+          56.92339416787773
+        ]
+      },
+      "properties": {
+        "id": "way/360460904",
+        "element_id": 360460904,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Upeslejas', 'addr:country': 'LV', 'addr:district': 'Ropažu novads', 'addr:housenumber': '1', 'addr:postcode': 'LV-2118', 'addr:street': 'Zahārija Stopija iela', 'addr:subdistrict': 'Stopiņu pagasts', 'building': 'service', 'old_addr:housename': 'Katlu māja', 'power': 'plant', 'ref:LV:addr': '106161752'}",
+        "timestamp": "2025-07-07 18:39:06.489655",
+        "url": "https://www.openstreetmap.org/way/360460904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.941482275929207,
+          57.00770111257677
+        ]
+      },
+      "properties": {
+        "id": "way/365919169",
+        "element_id": 365919169,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.489655",
+        "url": "https://www.openstreetmap.org/way/365919169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.941482275929207,
+          57.00770111257677
+        ]
+      },
+      "properties": {
+        "id": "way/365919169",
+        "element_id": 365919169,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.489655",
+        "url": "https://www.openstreetmap.org/way/365919169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.75344564838386,
+          56.37057685059737
+        ]
+      },
+      "properties": {
+        "id": "way/431445431",
+        "element_id": 431445431,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 12 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.489655",
+        "url": "https://www.openstreetmap.org/way/431445431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.75344564838386,
+          56.37057685059737
+        ]
+      },
+      "properties": {
+        "id": "way/431445431",
+        "element_id": 431445431,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.489655",
+        "url": "https://www.openstreetmap.org/way/431445431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.115416075024505,
+          56.4588314448706
+        ]
+      },
+      "properties": {
+        "id": "way/441970062",
+        "element_id": 441970062,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.489655",
+        "url": "https://www.openstreetmap.org/way/441970062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.115416075024505,
+          56.4588314448706
+        ]
+      },
+      "properties": {
+        "id": "way/441970062",
+        "element_id": 441970062,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.489655",
+        "url": "https://www.openstreetmap.org/way/441970062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.00760421338784,
+          56.4863822952488
+        ]
+      },
+      "properties": {
+        "id": "way/457938406",
+        "element_id": 457938406,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'generator:output:hot_water': 'yes', 'landuse': 'industrial', 'name': 'Katlu māja', 'name:en': 'Boiler station', 'name:lv': 'Katlu māja', 'name:ru': 'Котельная', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.490686",
+        "url": "https://www.openstreetmap.org/way/457938406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.286153350000003,
+          57.42207795
+        ]
+      },
+      "properties": {
+        "id": "way/551830152",
+        "element_id": 551830152,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.490686",
+        "url": "https://www.openstreetmap.org/way/551830152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.286153350000003,
+          57.42207795
+        ]
+      },
+      "properties": {
+        "id": "way/551830152",
+        "element_id": 551830152,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.490686",
+        "url": "https://www.openstreetmap.org/way/551830152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9114150003783,
+          56.63394514005064
+        ]
+      },
+      "properties": {
+        "id": "way/594485508",
+        "element_id": 594485508,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.490686",
+        "url": "https://www.openstreetmap.org/way/594485508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.089485290110456,
+          56.79438345429702
+        ]
+      },
+      "properties": {
+        "id": "way/626036209",
+        "element_id": 626036209,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.490686",
+        "url": "https://www.openstreetmap.org/way/626036209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.089485290110456,
+          56.79438345429702
+        ]
+      },
+      "properties": {
+        "id": "way/626036209",
+        "element_id": 626036209,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.490686",
+        "url": "https://www.openstreetmap.org/way/626036209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.067754663356386,
+          56.34808750032383
+        ]
+      },
+      "properties": {
+        "id": "way/727343699",
+        "element_id": 727343699,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant', 'source': 'Nīcas novada Teritorijas plānojums 2013.-2025.gadam'}",
+        "timestamp": "2025-07-07 18:39:06.491683",
+        "url": "https://www.openstreetmap.org/way/727343699"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.067754663356386,
+          56.34808750032383
+        ]
+      },
+      "properties": {
+        "id": "way/727343699",
+        "element_id": 727343699,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant', 'source': 'Nīcas novada Teritorijas plānojums 2013.-2025.gadam'}",
+        "timestamp": "2025-07-07 18:39:06.491683",
+        "url": "https://www.openstreetmap.org/way/727343699"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.066803563803468,
+          56.34801332110072
+        ]
+      },
+      "properties": {
+        "id": "way/727344085",
+        "element_id": 727344085,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.491683",
+        "url": "https://www.openstreetmap.org/way/727344085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.066803563803468,
+          56.34801332110072
+        ]
+      },
+      "properties": {
+        "id": "way/727344085",
+        "element_id": 727344085,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.491683",
+        "url": "https://www.openstreetmap.org/way/727344085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.263648843043534,
+          56.91877593298135
+        ]
+      },
+      "properties": {
+        "id": "way/735256471",
+        "element_id": 735256471,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.491683",
+        "url": "https://www.openstreetmap.org/way/735256471"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.263648843043534,
+          56.91877593298135
+        ]
+      },
+      "properties": {
+        "id": "way/735256471",
+        "element_id": 735256471,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'biomass', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.491683",
+        "url": "https://www.openstreetmap.org/way/735256471"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.263648843043534,
+          56.91877593298135
+        ]
+      },
+      "properties": {
+        "id": "way/735256471",
+        "element_id": 735256471,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'biomass', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.493679",
+        "url": "https://www.openstreetmap.org/way/735256471"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.76838558029461,
+          56.50508959287573
+        ]
+      },
+      "properties": {
+        "id": "way/737094982",
+        "element_id": 737094982,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.493679",
+        "url": "https://www.openstreetmap.org/way/737094982"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.76838558029461,
+          56.50508959287573
+        ]
+      },
+      "properties": {
+        "id": "way/737094982",
+        "element_id": 737094982,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.493679",
+        "url": "https://www.openstreetmap.org/way/737094982"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.76838558029461,
+          56.50508959287573
+        ]
+      },
+      "properties": {
+        "id": "way/737094982",
+        "element_id": 737094982,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.493679",
+        "url": "https://www.openstreetmap.org/way/737094982"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.690494027586425,
+          56.537576192010825
+        ]
+      },
+      "properties": {
+        "id": "way/782418131",
+        "element_id": 782418131,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.493679",
+        "url": "https://www.openstreetmap.org/way/782418131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.690494027586425,
+          56.537576192010825
+        ]
+      },
+      "properties": {
+        "id": "way/782418131",
+        "element_id": 782418131,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.493679",
+        "url": "https://www.openstreetmap.org/way/782418131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4728847,
+          56.436412
+        ]
+      },
+      "properties": {
+        "id": "way/787911435",
+        "element_id": 787911435,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 12 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.493679",
+        "url": "https://www.openstreetmap.org/way/787911435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4728847,
+          56.436412
+        ]
+      },
+      "properties": {
+        "id": "way/787911435",
+        "element_id": 787911435,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.493679",
+        "url": "https://www.openstreetmap.org/way/787911435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.004191050000003,
+          56.51651894999999
+        ]
+      },
+      "properties": {
+        "id": "way/799307364",
+        "element_id": 799307364,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': '12 MW', 'plant:output:steam': '236 MW', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.493679",
+        "url": "https://www.openstreetmap.org/way/799307364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55075593200902,
+          57.2624277369901
+        ]
+      },
+      "properties": {
+        "id": "way/824772720",
+        "element_id": 824772720,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 12 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.493679",
+        "url": "https://www.openstreetmap.org/way/824772720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55075593200902,
+          57.2624277369901
+        ]
+      },
+      "properties": {
+        "id": "way/824772720",
+        "element_id": 824772720,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.493679",
+        "url": "https://www.openstreetmap.org/way/824772720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9732575,
+          56.97819315
+        ]
+      },
+      "properties": {
+        "id": "way/853683972",
+        "element_id": 853683972,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.494679",
+        "url": "https://www.openstreetmap.org/way/853683972"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9732575,
+          56.97819315
+        ]
+      },
+      "properties": {
+        "id": "way/853683972",
+        "element_id": 853683972,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.494679",
+        "url": "https://www.openstreetmap.org/way/853683972"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5636236068468,
+          55.88852739438163
+        ]
+      },
+      "properties": {
+        "id": "way/858502871",
+        "element_id": 858502871,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'SIA \"ONIORS\"', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.494679",
+        "url": "https://www.openstreetmap.org/way/858502871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5636236068468,
+          55.88852739438163
+        ]
+      },
+      "properties": {
+        "id": "way/858502871",
+        "element_id": 858502871,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.494679",
+        "url": "https://www.openstreetmap.org/way/858502871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.37591241804027,
+          56.86878752690078
+        ]
+      },
+      "properties": {
+        "id": "way/918453633",
+        "element_id": 918453633,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:39:06.494679",
+        "url": "https://www.openstreetmap.org/way/918453633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.37591241804027,
+          56.86878752690078
+        ]
+      },
+      "properties": {
+        "id": "way/918453633",
+        "element_id": 918453633,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'SIA \"Salaspils siltums\"', 'plant:method': 'thermal', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.494679",
+        "url": "https://www.openstreetmap.org/way/918453633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.37591241804027,
+          56.86878752690078
+        ]
+      },
+      "properties": {
+        "id": "way/918453633",
+        "element_id": 918453633,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.494679",
+        "url": "https://www.openstreetmap.org/way/918453633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.169790342327307,
+          55.9338992450958
+        ]
+      },
+      "properties": {
+        "id": "way/931109267",
+        "element_id": 931109267,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.494679",
+        "url": "https://www.openstreetmap.org/way/931109267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.169790342327307,
+          55.9338992450958
+        ]
+      },
+      "properties": {
+        "id": "way/931109267",
+        "element_id": 931109267,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.494679",
+        "url": "https://www.openstreetmap.org/way/931109267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.498576819105203,
+          56.96422466652231
+        ]
+      },
+      "properties": {
+        "id": "way/934387574",
+        "element_id": 934387574,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.494679",
+        "url": "https://www.openstreetmap.org/way/934387574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.498576819105203,
+          56.96422466652231
+        ]
+      },
+      "properties": {
+        "id": "way/934387574",
+        "element_id": 934387574,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.494679",
+        "url": "https://www.openstreetmap.org/way/934387574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.282384529432434,
+          56.8870453319223
+        ]
+      },
+      "properties": {
+        "id": "way/961101257",
+        "element_id": 961101257,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 12 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.494679",
+        "url": "https://www.openstreetmap.org/way/961101257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.282384529432434,
+          56.8870453319223
+        ]
+      },
+      "properties": {
+        "id": "way/961101257",
+        "element_id": 961101257,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.494679",
+        "url": "https://www.openstreetmap.org/way/961101257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.25375528727429,
+          56.89195717798521
+        ]
+      },
+      "properties": {
+        "id": "way/961115021",
+        "element_id": 961115021,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.494679",
+        "url": "https://www.openstreetmap.org/way/961115021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.25375528727429,
+          56.89195717798521
+        ]
+      },
+      "properties": {
+        "id": "way/961115021",
+        "element_id": 961115021,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.494679",
+        "url": "https://www.openstreetmap.org/way/961115021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.25375528727429,
+          56.89195717798521
+        ]
+      },
+      "properties": {
+        "id": "way/961115021",
+        "element_id": 961115021,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.494679",
+        "url": "https://www.openstreetmap.org/way/961115021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.85279723974626,
+          57.59144130908359
+        ]
+      },
+      "properties": {
+        "id": "way/1000466427",
+        "element_id": 1000466427,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.495679",
+        "url": "https://www.openstreetmap.org/way/1000466427"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.180036713570765,
+          56.45718349252451
+        ]
+      },
+      "properties": {
+        "id": "way/1016561294",
+        "element_id": 1016561294,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.495679",
+        "url": "https://www.openstreetmap.org/way/1016561294"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.180036713570765,
+          56.45718349252451
+        ]
+      },
+      "properties": {
+        "id": "way/1016561294",
+        "element_id": 1016561294,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.495679",
+        "url": "https://www.openstreetmap.org/way/1016561294"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55715677355708,
+          55.86888238260768
+        ]
+      },
+      "properties": {
+        "id": "way/992473020",
+        "element_id": 992473020,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.495679",
+        "url": "https://www.openstreetmap.org/way/992473020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55715677355708,
+          55.86888238260768
+        ]
+      },
+      "properties": {
+        "id": "way/992473020",
+        "element_id": 992473020,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.495679",
+        "url": "https://www.openstreetmap.org/way/992473020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.842526300000003,
+          57.48765585
+        ]
+      },
+      "properties": {
+        "id": "way/1017404420",
+        "element_id": 1017404420,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'name': 'Karvas HES', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.496684",
+        "url": "https://www.openstreetmap.org/way/1017404420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.92993707036041,
+          57.17230795585627
+        ]
+      },
+      "properties": {
+        "id": "way/1021792799",
+        "element_id": 1021792799,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.498680",
+        "url": "https://www.openstreetmap.org/way/1021792799"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.92993707036041,
+          57.17230795585627
+        ]
+      },
+      "properties": {
+        "id": "way/1021792799",
+        "element_id": 1021792799,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.498680",
+        "url": "https://www.openstreetmap.org/way/1021792799"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1475598226766,
+          57.2308711693619
+        ]
+      },
+      "properties": {
+        "id": "way/1028598612",
+        "element_id": 1028598612,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.498680",
+        "url": "https://www.openstreetmap.org/way/1028598612"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1475598226766,
+          57.2308711693619
+        ]
+      },
+      "properties": {
+        "id": "way/1028598612",
+        "element_id": 1028598612,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.498680",
+        "url": "https://www.openstreetmap.org/way/1028598612"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.334662298040868,
+          56.40270689913761
+        ]
+      },
+      "properties": {
+        "id": "way/1055810401",
+        "element_id": 1055810401,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.499679",
+        "url": "https://www.openstreetmap.org/way/1055810401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.334662298040868,
+          56.40270689913761
+        ]
+      },
+      "properties": {
+        "id": "way/1055810401",
+        "element_id": 1055810401,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.499679",
+        "url": "https://www.openstreetmap.org/way/1055810401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.334662298040868,
+          56.40270689913761
+        ]
+      },
+      "properties": {
+        "id": "way/1055810401",
+        "element_id": 1055810401,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.499679",
+        "url": "https://www.openstreetmap.org/way/1055810401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.523966594637827,
+          56.43190981402883
+        ]
+      },
+      "properties": {
+        "id": "way/1055819337",
+        "element_id": 1055819337,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.499679",
+        "url": "https://www.openstreetmap.org/way/1055819337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.523966594637827,
+          56.43190981402883
+        ]
+      },
+      "properties": {
+        "id": "way/1055819337",
+        "element_id": 1055819337,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.499679",
+        "url": "https://www.openstreetmap.org/way/1055819337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.523966594637827,
+          56.43190981402883
+        ]
+      },
+      "properties": {
+        "id": "way/1055819337",
+        "element_id": 1055819337,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.499679",
+        "url": "https://www.openstreetmap.org/way/1055819337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.08466447048805,
+          57.24334754359839
+        ]
+      },
+      "properties": {
+        "id": "way/1058088416",
+        "element_id": 1058088416,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.499679",
+        "url": "https://www.openstreetmap.org/way/1058088416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.08466447048805,
+          57.24334754359839
+        ]
+      },
+      "properties": {
+        "id": "way/1058088416",
+        "element_id": 1058088416,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.499679",
+        "url": "https://www.openstreetmap.org/way/1058088416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.08466447048805,
+          57.24334754359839
+        ]
+      },
+      "properties": {
+        "id": "way/1058088416",
+        "element_id": 1058088416,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.499679",
+        "url": "https://www.openstreetmap.org/way/1058088416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.40411793600769,
+          57.53977318012255
+        ]
+      },
+      "properties": {
+        "id": "way/1070720756",
+        "element_id": 1070720756,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 16 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.499679",
+        "url": "https://www.openstreetmap.org/way/1070720756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.40411793600769,
+          57.53977318012255
+        ]
+      },
+      "properties": {
+        "id": "way/1070720756",
+        "element_id": 1070720756,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Valmiera', 'addr:country': 'LV', 'addr:district': 'Valmieras novads', 'addr:housenumber': '1', 'addr:postcode': 'LV-4201', 'addr:street': 'Dakstiņu iela', 'building': 'yes', 'generator:output:heat': '9 MW', 'landuse': 'industrial', 'name': 'Valmieras šķeldu katlu māja', 'operator': 'AS Valmieras Enerģija', 'plant:source': 'biomass', 'power': 'plant', 'ref:LV:addr': '106757386', 'source': 'http://monum.lv/jaunumi/ekspluatacija-nodota-skeldas-katlu-maja-valmiera/', 'start_date': '2020-07-30'}",
+        "timestamp": "2025-07-07 18:39:06.501680",
+        "url": "https://www.openstreetmap.org/way/1070720756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.555164481061965,
+          56.41437653720041
+        ]
+      },
+      "properties": {
+        "id": "way/1075397339",
+        "element_id": 1075397339,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.501680",
+        "url": "https://www.openstreetmap.org/way/1075397339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.81580845286569,
+          57.49098068394491
+        ]
+      },
+      "properties": {
+        "id": "way/1083324378",
+        "element_id": 1083324378,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'SIA \"Banga Ltd\"', 'plant:method': 'photovoltaic', 'plant:output:electricity': '0.2 MW', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2020'}",
+        "timestamp": "2025-07-07 18:39:06.501680",
+        "url": "https://www.openstreetmap.org/way/1083324378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.23056233232965,
+          57.16575106663085
+        ]
+      },
+      "properties": {
+        "id": "way/1083324383",
+        "element_id": 1083324383,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'SIA \"Unda\"', 'plant:method': 'photovoltaic', 'plant:output:electricity': '0.236 MW', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2022'}",
+        "timestamp": "2025-07-07 18:39:06.501680",
+        "url": "https://www.openstreetmap.org/way/1083324383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.930521989003967,
+          56.802923572322776
+        ]
+      },
+      "properties": {
+        "id": "way/1083324384",
+        "element_id": 1083324384,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'location': 'roof', 'operator': 'SIA \"Lyngson\"', 'plant:method': 'photovoltaic', 'plant:output:electricity': '0.489 MW', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2021'}",
+        "timestamp": "2025-07-07 18:39:06.502682",
+        "url": "https://www.openstreetmap.org/way/1083324384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.304590080635617,
+          57.21227815453171
+        ]
+      },
+      "properties": {
+        "id": "way/1083324385",
+        "element_id": 1083324385,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': '0.259 MW', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2021'}",
+        "timestamp": "2025-07-07 18:39:06.502682",
+        "url": "https://www.openstreetmap.org/way/1083324385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.197156230080875,
+          56.96268737258057
+        ]
+      },
+      "properties": {
+        "id": "way/1083324386",
+        "element_id": 1083324386,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'SIA \"M.P. Socks\"', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2021'}",
+        "timestamp": "2025-07-07 18:39:06.502682",
+        "url": "https://www.openstreetmap.org/way/1083324386"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.197156230080875,
+          56.96268737258057
+        ]
+      },
+      "properties": {
+        "id": "way/1083324386",
+        "element_id": 1083324386,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.502682",
+        "url": "https://www.openstreetmap.org/way/1083324386"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.20500644301184,
+          56.86036651568723
+        ]
+      },
+      "properties": {
+        "id": "way/1083324388",
+        "element_id": 1083324388,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'SIA \"Madonas ūdens\"', 'plant:method': 'photovoltaic', 'plant:output:electricity': '0.038 MW', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2019'}",
+        "timestamp": "2025-07-07 18:39:06.502682",
+        "url": "https://www.openstreetmap.org/way/1083324388"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.192153317826637,
+          56.97531199179368
+        ]
+      },
+      "properties": {
+        "id": "way/1083328302",
+        "element_id": 1083328302,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'SIA \"Tukuma ūdens\"', 'plant:method': 'photovoltaic', 'plant:output:electricity': '0.055 MW', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2020'}",
+        "timestamp": "2025-07-07 18:39:06.503680",
+        "url": "https://www.openstreetmap.org/way/1083328302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.402637225445943,
+          57.52085895911295
+        ]
+      },
+      "properties": {
+        "id": "way/1083328305",
+        "element_id": 1083328305,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'SIA \"Valmieras ūdens\"', 'plant:method': 'photovoltaic', 'plant:output:electricity': '40.8 kW', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2020'}",
+        "timestamp": "2025-07-07 18:39:06.503680",
+        "url": "https://www.openstreetmap.org/way/1083328305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.402637225445943,
+          57.52085895911295
+        ]
+      },
+      "properties": {
+        "id": "way/1083328305",
+        "element_id": 1083328305,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "40.8 kW",
+        "details": "Tag 'plant:output:electricity' has value '40.8 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:39:06.503680",
+        "url": "https://www.openstreetmap.org/way/1083328305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.074341791720517,
+          56.94767221274376
+        ]
+      },
+      "properties": {
+        "id": "way/1083706041",
+        "element_id": 1083706041,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.503680",
+        "url": "https://www.openstreetmap.org/way/1083706041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.074341791720517,
+          56.94767221274376
+        ]
+      },
+      "properties": {
+        "id": "way/1083706041",
+        "element_id": 1083706041,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.503680",
+        "url": "https://www.openstreetmap.org/way/1083706041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.52351248619794,
+          55.865071926693126
+        ]
+      },
+      "properties": {
+        "id": "way/1084059959",
+        "element_id": 1084059959,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.503680",
+        "url": "https://www.openstreetmap.org/way/1084059959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.27926175,
+          56.62080199999999
+        ]
+      },
+      "properties": {
+        "id": "way/1117138262",
+        "element_id": 1117138262,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.504681",
+        "url": "https://www.openstreetmap.org/way/1117138262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.27926175,
+          56.62080199999999
+        ]
+      },
+      "properties": {
+        "id": "way/1117138262",
+        "element_id": 1117138262,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.504681",
+        "url": "https://www.openstreetmap.org/way/1117138262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.848493069062823,
+          56.79887148377452
+        ]
+      },
+      "properties": {
+        "id": "way/1138106497",
+        "element_id": 1138106497,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.504681",
+        "url": "https://www.openstreetmap.org/way/1138106497"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.848493069062823,
+          56.79887148377452
+        ]
+      },
+      "properties": {
+        "id": "way/1138106497",
+        "element_id": 1138106497,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.504681",
+        "url": "https://www.openstreetmap.org/way/1138106497"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.848493069062823,
+          56.79887148377452
+        ]
+      },
+      "properties": {
+        "id": "way/1138106497",
+        "element_id": 1138106497,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.504681",
+        "url": "https://www.openstreetmap.org/way/1138106497"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.014678331408465,
+          56.95988688785753
+        ]
+      },
+      "properties": {
+        "id": "way/1152340098",
+        "element_id": 1152340098,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.504681",
+        "url": "https://www.openstreetmap.org/way/1152340098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.014678331408465,
+          56.95988688785753
+        ]
+      },
+      "properties": {
+        "id": "way/1152340098",
+        "element_id": 1152340098,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.504681",
+        "url": "https://www.openstreetmap.org/way/1152340098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.937148014245903,
+          56.68139121333739
+        ]
+      },
+      "properties": {
+        "id": "way/1156819287",
+        "element_id": 1156819287,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.505679",
+        "url": "https://www.openstreetmap.org/way/1156819287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.937148014245903,
+          56.68139121333739
+        ]
+      },
+      "properties": {
+        "id": "way/1156819287",
+        "element_id": 1156819287,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.505679",
+        "url": "https://www.openstreetmap.org/way/1156819287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.49530513236763,
+          57.24971938828405
+        ]
+      },
+      "properties": {
+        "id": "way/1160174690",
+        "element_id": 1160174690,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.505679",
+        "url": "https://www.openstreetmap.org/way/1160174690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.49530513236763,
+          57.24971938828405
+        ]
+      },
+      "properties": {
+        "id": "way/1160174690",
+        "element_id": 1160174690,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.505679",
+        "url": "https://www.openstreetmap.org/way/1160174690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.472858028830224,
+          57.23771072613299
+        ]
+      },
+      "properties": {
+        "id": "way/1163574385",
+        "element_id": 1163574385,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.505679",
+        "url": "https://www.openstreetmap.org/way/1163574385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.472858028830224,
+          57.23771072613299
+        ]
+      },
+      "properties": {
+        "id": "way/1163574385",
+        "element_id": 1163574385,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.505679",
+        "url": "https://www.openstreetmap.org/way/1163574385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.37521332320356,
+          56.86631374933851
+        ]
+      },
+      "properties": {
+        "id": "way/1163849550",
+        "element_id": 1163849550,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.505679",
+        "url": "https://www.openstreetmap.org/way/1163849550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.37521332320356,
+          56.86631374933851
+        ]
+      },
+      "properties": {
+        "id": "way/1163849550",
+        "element_id": 1163849550,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.505679",
+        "url": "https://www.openstreetmap.org/way/1163849550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.69178706718301,
+          56.58826676637622
+        ]
+      },
+      "properties": {
+        "id": "way/1163849693",
+        "element_id": 1163849693,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.505679",
+        "url": "https://www.openstreetmap.org/way/1163849693"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.69178706718301,
+          56.58826676637622
+        ]
+      },
+      "properties": {
+        "id": "way/1163849693",
+        "element_id": 1163849693,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.505679",
+        "url": "https://www.openstreetmap.org/way/1163849693"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.22679235,
+          56.6277605
+        ]
+      },
+      "properties": {
+        "id": "way/1165034440",
+        "element_id": 1165034440,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.505679",
+        "url": "https://www.openstreetmap.org/way/1165034440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.22679235,
+          56.6277605
+        ]
+      },
+      "properties": {
+        "id": "way/1165034440",
+        "element_id": 1165034440,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.505679",
+        "url": "https://www.openstreetmap.org/way/1165034440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.516239237523827,
+          56.8069038174083
+        ]
+      },
+      "properties": {
+        "id": "way/1165104175",
+        "element_id": 1165104175,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.505679",
+        "url": "https://www.openstreetmap.org/way/1165104175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.516239237523827,
+          56.8069038174083
+        ]
+      },
+      "properties": {
+        "id": "way/1165104175",
+        "element_id": 1165104175,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.505679",
+        "url": "https://www.openstreetmap.org/way/1165104175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.31104055162356,
+          57.11288191661983
+        ]
+      },
+      "properties": {
+        "id": "way/1168960240",
+        "element_id": 1168960240,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.506679",
+        "url": "https://www.openstreetmap.org/way/1168960240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.31104055162356,
+          57.11288191661983
+        ]
+      },
+      "properties": {
+        "id": "way/1168960240",
+        "element_id": 1168960240,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.506679",
+        "url": "https://www.openstreetmap.org/way/1168960240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.304221270219887,
+          57.11353254461414
+        ]
+      },
+      "properties": {
+        "id": "way/1168960241",
+        "element_id": 1168960241,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.506679",
+        "url": "https://www.openstreetmap.org/way/1168960241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.304221270219887,
+          57.11353254461414
+        ]
+      },
+      "properties": {
+        "id": "way/1168960241",
+        "element_id": 1168960241,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.506679",
+        "url": "https://www.openstreetmap.org/way/1168960241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.035855415979263,
+          56.46616812671593
+        ]
+      },
+      "properties": {
+        "id": "way/1169276883",
+        "element_id": 1169276883,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.506679",
+        "url": "https://www.openstreetmap.org/way/1169276883"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.035855415979263,
+          56.46616812671593
+        ]
+      },
+      "properties": {
+        "id": "way/1169276883",
+        "element_id": 1169276883,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.506679",
+        "url": "https://www.openstreetmap.org/way/1169276883"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8437515156986,
+          57.14105635595647
+        ]
+      },
+      "properties": {
+        "id": "way/1176540473",
+        "element_id": 1176540473,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.506679",
+        "url": "https://www.openstreetmap.org/way/1176540473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8437515156986,
+          57.14105635595647
+        ]
+      },
+      "properties": {
+        "id": "way/1176540473",
+        "element_id": 1176540473,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.506679",
+        "url": "https://www.openstreetmap.org/way/1176540473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.133572955644965,
+          56.43184249211428
+        ]
+      },
+      "properties": {
+        "id": "way/1180583480",
+        "element_id": 1180583480,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.506679",
+        "url": "https://www.openstreetmap.org/way/1180583480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.133572955644965,
+          56.43184249211428
+        ]
+      },
+      "properties": {
+        "id": "way/1180583480",
+        "element_id": 1180583480,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.506679",
+        "url": "https://www.openstreetmap.org/way/1180583480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.34543181820875,
+          57.50915297362803
+        ]
+      },
+      "properties": {
+        "id": "way/1183663150",
+        "element_id": 1183663150,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.506679",
+        "url": "https://www.openstreetmap.org/way/1183663150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.34543181820875,
+          57.50915297362803
+        ]
+      },
+      "properties": {
+        "id": "way/1183663150",
+        "element_id": 1183663150,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.506679",
+        "url": "https://www.openstreetmap.org/way/1183663150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.34543181820875,
+          57.50915297362803
+        ]
+      },
+      "properties": {
+        "id": "way/1183663150",
+        "element_id": 1183663150,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.508680",
+        "url": "https://www.openstreetmap.org/way/1183663150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.20454057672581,
+          56.34651532185788
+        ]
+      },
+      "properties": {
+        "id": "way/1184861837",
+        "element_id": 1184861837,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.508680",
+        "url": "https://www.openstreetmap.org/way/1184861837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.20454057672581,
+          56.34651532185788
+        ]
+      },
+      "properties": {
+        "id": "way/1184861837",
+        "element_id": 1184861837,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.508680",
+        "url": "https://www.openstreetmap.org/way/1184861837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.133092964752358,
+          57.21841169835636
+        ]
+      },
+      "properties": {
+        "id": "way/1185638039",
+        "element_id": 1185638039,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.508680",
+        "url": "https://www.openstreetmap.org/way/1185638039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.133092964752358,
+          57.21841169835636
+        ]
+      },
+      "properties": {
+        "id": "way/1185638039",
+        "element_id": 1185638039,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.508680",
+        "url": "https://www.openstreetmap.org/way/1185638039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.166219245920885,
+          56.508170922729015
+        ]
+      },
+      "properties": {
+        "id": "way/1195543670",
+        "element_id": 1195543670,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.508680",
+        "url": "https://www.openstreetmap.org/way/1195543670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.166219245920885,
+          56.508170922729015
+        ]
+      },
+      "properties": {
+        "id": "way/1195543670",
+        "element_id": 1195543670,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.508680",
+        "url": "https://www.openstreetmap.org/way/1195543670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.86584382313781,
+          56.538228575646045
+        ]
+      },
+      "properties": {
+        "id": "way/1196897319",
+        "element_id": 1196897319,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.509680",
+        "url": "https://www.openstreetmap.org/way/1196897319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.86584382313781,
+          56.538228575646045
+        ]
+      },
+      "properties": {
+        "id": "way/1196897319",
+        "element_id": 1196897319,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.509680",
+        "url": "https://www.openstreetmap.org/way/1196897319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.147963210558217,
+          56.95436314460909
+        ]
+      },
+      "properties": {
+        "id": "way/1199777566",
+        "element_id": 1199777566,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.509680",
+        "url": "https://www.openstreetmap.org/way/1199777566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.147963210558217,
+          56.95436314460909
+        ]
+      },
+      "properties": {
+        "id": "way/1199777566",
+        "element_id": 1199777566,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.509680",
+        "url": "https://www.openstreetmap.org/way/1199777566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.147963210558217,
+          56.95436314460909
+        ]
+      },
+      "properties": {
+        "id": "way/1199777566",
+        "element_id": 1199777566,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.510680",
+        "url": "https://www.openstreetmap.org/way/1199777566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.61594279822381,
+          56.97099732205646
+        ]
+      },
+      "properties": {
+        "id": "way/1201453061",
+        "element_id": 1201453061,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.510680",
+        "url": "https://www.openstreetmap.org/way/1201453061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.61594279822381,
+          56.97099732205646
+        ]
+      },
+      "properties": {
+        "id": "way/1201453061",
+        "element_id": 1201453061,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'fixme': 'approx.', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.510680",
+        "url": "https://www.openstreetmap.org/way/1201453061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.61594279822381,
+          56.97099732205646
+        ]
+      },
+      "properties": {
+        "id": "way/1201453061",
+        "element_id": 1201453061,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'fixme': 'approx.', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.512680",
+        "url": "https://www.openstreetmap.org/way/1201453061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.046836907478387,
+          56.7330287055282
+        ]
+      },
+      "properties": {
+        "id": "way/1205298342",
+        "element_id": 1205298342,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.512680",
+        "url": "https://www.openstreetmap.org/way/1205298342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.046836907478387,
+          56.7330287055282
+        ]
+      },
+      "properties": {
+        "id": "way/1205298342",
+        "element_id": 1205298342,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.512680",
+        "url": "https://www.openstreetmap.org/way/1205298342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.221843576206528,
+          57.24283060591787
+        ]
+      },
+      "properties": {
+        "id": "way/1205677697",
+        "element_id": 1205677697,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.512680",
+        "url": "https://www.openstreetmap.org/way/1205677697"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.221843576206528,
+          57.24283060591787
+        ]
+      },
+      "properties": {
+        "id": "way/1205677697",
+        "element_id": 1205677697,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.512680",
+        "url": "https://www.openstreetmap.org/way/1205677697"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.347259636192067,
+          56.50034398269246
+        ]
+      },
+      "properties": {
+        "id": "way/1214325355",
+        "element_id": 1214325355,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'A/S “Agrofirma Tērvete”', 'plant:method': 'photovoltaic', 'plant:output:electricity': '3 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.512680",
+        "url": "https://www.openstreetmap.org/way/1214325355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.655925959871396,
+          56.93301874454146
+        ]
+      },
+      "properties": {
+        "id": "way/1216003710",
+        "element_id": 1216003710,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.512680",
+        "url": "https://www.openstreetmap.org/way/1216003710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.655925959871396,
+          56.93301874454146
+        ]
+      },
+      "properties": {
+        "id": "way/1216003710",
+        "element_id": 1216003710,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.512680",
+        "url": "https://www.openstreetmap.org/way/1216003710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.71515113307258,
+          56.28224820028049
+        ]
+      },
+      "properties": {
+        "id": "way/1224018982",
+        "element_id": 1224018982,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.513679",
+        "url": "https://www.openstreetmap.org/way/1224018982"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.71515113307258,
+          56.28224820028049
+        ]
+      },
+      "properties": {
+        "id": "way/1224018982",
+        "element_id": 1224018982,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'fixme': 'Need to survey exact area', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.513679",
+        "url": "https://www.openstreetmap.org/way/1224018982"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.71515113307258,
+          56.28224820028049
+        ]
+      },
+      "properties": {
+        "id": "way/1224018982",
+        "element_id": 1224018982,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'fixme': 'Need to survey exact area', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.514680",
+        "url": "https://www.openstreetmap.org/way/1224018982"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.08856371679761,
+          56.65839208651042
+        ]
+      },
+      "properties": {
+        "id": "way/1235025601",
+        "element_id": 1235025601,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.514680",
+        "url": "https://www.openstreetmap.org/way/1235025601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.08856371679761,
+          56.65839208651042
+        ]
+      },
+      "properties": {
+        "id": "way/1235025601",
+        "element_id": 1235025601,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.514680",
+        "url": "https://www.openstreetmap.org/way/1235025601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.82577616922782,
+          56.53204677023653
+        ]
+      },
+      "properties": {
+        "id": "way/1238509853",
+        "element_id": 1238509853,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.514680",
+        "url": "https://www.openstreetmap.org/way/1238509853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.82577616922782,
+          56.53204677023653
+        ]
+      },
+      "properties": {
+        "id": "way/1238509853",
+        "element_id": 1238509853,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.514680",
+        "url": "https://www.openstreetmap.org/way/1238509853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.119507766812028,
+          56.48633469972746
+        ]
+      },
+      "properties": {
+        "id": "way/1241148432",
+        "element_id": 1241148432,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.514680",
+        "url": "https://www.openstreetmap.org/way/1241148432"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.119507766812028,
+          56.48633469972746
+        ]
+      },
+      "properties": {
+        "id": "way/1241148432",
+        "element_id": 1241148432,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.514680",
+        "url": "https://www.openstreetmap.org/way/1241148432"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.040648293117595,
+          56.46317941711371
+        ]
+      },
+      "properties": {
+        "id": "way/1272732688",
+        "element_id": 1272732688,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'access': 'private', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.515680",
+        "url": "https://www.openstreetmap.org/way/1272732688"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.040648293117595,
+          56.46317941711371
+        ]
+      },
+      "properties": {
+        "id": "way/1272732688",
+        "element_id": 1272732688,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.515680",
+        "url": "https://www.openstreetmap.org/way/1272732688"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.252670752495543,
+          57.0014754597699
+        ]
+      },
+      "properties": {
+        "id": "way/1280714364",
+        "element_id": 1280714364,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.515680",
+        "url": "https://www.openstreetmap.org/way/1280714364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.94532174191339,
+          56.96653465388326
+        ]
+      },
+      "properties": {
+        "id": "way/1287209229",
+        "element_id": 1287209229,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.515680",
+        "url": "https://www.openstreetmap.org/way/1287209229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.94532174191339,
+          56.96653465388326
+        ]
+      },
+      "properties": {
+        "id": "way/1287209229",
+        "element_id": 1287209229,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.515680",
+        "url": "https://www.openstreetmap.org/way/1287209229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.971808646983696,
+          56.95202717722695
+        ]
+      },
+      "properties": {
+        "id": "way/1287211205",
+        "element_id": 1287211205,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.516680",
+        "url": "https://www.openstreetmap.org/way/1287211205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.971808646983696,
+          56.95202717722695
+        ]
+      },
+      "properties": {
+        "id": "way/1287211205",
+        "element_id": 1287211205,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.516680",
+        "url": "https://www.openstreetmap.org/way/1287211205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.971808646983696,
+          56.95202717722695
+        ]
+      },
+      "properties": {
+        "id": "way/1287211205",
+        "element_id": 1287211205,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.517681",
+        "url": "https://www.openstreetmap.org/way/1287211205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.592820464565992,
+          55.94235941682114
+        ]
+      },
+      "properties": {
+        "id": "way/1296959342",
+        "element_id": 1296959342,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'landuse': 'industrial', 'plant:output:hot_water': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.517681",
+        "url": "https://www.openstreetmap.org/way/1296959342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.592820464565992,
+          55.94235941682114
+        ]
+      },
+      "properties": {
+        "id": "way/1296959342",
+        "element_id": 1296959342,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'landuse': 'industrial', 'plant:output:hot_water': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.517681",
+        "url": "https://www.openstreetmap.org/way/1296959342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.35899733731759,
+          56.920362759870734
+        ]
+      },
+      "properties": {
+        "id": "way/1306752323",
+        "element_id": 1306752323,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.517681",
+        "url": "https://www.openstreetmap.org/way/1306752323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.35899733731759,
+          56.920362759870734
+        ]
+      },
+      "properties": {
+        "id": "way/1306752323",
+        "element_id": 1306752323,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.517681",
+        "url": "https://www.openstreetmap.org/way/1306752323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.338926788092984,
+          57.502340504583245
+        ]
+      },
+      "properties": {
+        "id": "way/1307506697",
+        "element_id": 1307506697,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.517681",
+        "url": "https://www.openstreetmap.org/way/1307506697"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.338926788092984,
+          57.502340504583245
+        ]
+      },
+      "properties": {
+        "id": "way/1307506697",
+        "element_id": 1307506697,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.517681",
+        "url": "https://www.openstreetmap.org/way/1307506697"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.338926788092984,
+          57.502340504583245
+        ]
+      },
+      "properties": {
+        "id": "way/1307506697",
+        "element_id": 1307506697,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.519679",
+        "url": "https://www.openstreetmap.org/way/1307506697"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.33866954986297,
+          57.50093500315896
+        ]
+      },
+      "properties": {
+        "id": "way/1307506698",
+        "element_id": 1307506698,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.519679",
+        "url": "https://www.openstreetmap.org/way/1307506698"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.33866954986297,
+          57.50093500315896
+        ]
+      },
+      "properties": {
+        "id": "way/1307506698",
+        "element_id": 1307506698,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.519679",
+        "url": "https://www.openstreetmap.org/way/1307506698"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.33866954986297,
+          57.50093500315896
+        ]
+      },
+      "properties": {
+        "id": "way/1307506698",
+        "element_id": 1307506698,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.521683",
+        "url": "https://www.openstreetmap.org/way/1307506698"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.598108808713988,
+          56.379133930629344
+        ]
+      },
+      "properties": {
+        "id": "way/1315956158",
+        "element_id": 1315956158,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.521683",
+        "url": "https://www.openstreetmap.org/way/1315956158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.598108808713988,
+          56.379133930629344
+        ]
+      },
+      "properties": {
+        "id": "way/1315956158",
+        "element_id": 1315956158,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.521683",
+        "url": "https://www.openstreetmap.org/way/1315956158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.34323357359533,
+          56.54513421989599
+        ]
+      },
+      "properties": {
+        "id": "way/1324633027",
+        "element_id": 1324633027,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': '2.36 MW', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2024-10-10'}",
+        "timestamp": "2025-07-07 18:39:06.522679",
+        "url": "https://www.openstreetmap.org/way/1324633027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.563843779623543,
+          56.522608622789846
+        ]
+      },
+      "properties": {
+        "id": "way/1324657787",
+        "element_id": 1324657787,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Sunly', 'plant:method': 'photovoltaic', 'plant:output:electricity': '5 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.523679",
+        "url": "https://www.openstreetmap.org/way/1324657787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.885212451594413,
+          56.567194196829206
+        ]
+      },
+      "properties": {
+        "id": "way/1326262099",
+        "element_id": 1326262099,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.523679",
+        "url": "https://www.openstreetmap.org/way/1326262099"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.885212451594413,
+          56.567194196829206
+        ]
+      },
+      "properties": {
+        "id": "way/1326262099",
+        "element_id": 1326262099,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.523679",
+        "url": "https://www.openstreetmap.org/way/1326262099"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.24563672354694,
+          56.93122647156815
+        ]
+      },
+      "properties": {
+        "id": "way/1326470583",
+        "element_id": 1326470583,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.523679",
+        "url": "https://www.openstreetmap.org/way/1326470583"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.24563672354694,
+          56.93122647156815
+        ]
+      },
+      "properties": {
+        "id": "way/1326470583",
+        "element_id": 1326470583,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.523679",
+        "url": "https://www.openstreetmap.org/way/1326470583"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.36063797165435,
+          56.82549302021357
+        ]
+      },
+      "properties": {
+        "id": "way/1335119770",
+        "element_id": 1335119770,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.523679",
+        "url": "https://www.openstreetmap.org/way/1335119770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.36063797165435,
+          56.82549302021357
+        ]
+      },
+      "properties": {
+        "id": "way/1335119770",
+        "element_id": 1335119770,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.523679",
+        "url": "https://www.openstreetmap.org/way/1335119770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.19528130422133,
+          56.82292906237259
+        ]
+      },
+      "properties": {
+        "id": "way/1335775326",
+        "element_id": 1335775326,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.523679",
+        "url": "https://www.openstreetmap.org/way/1335775326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.19528130422133,
+          56.82292906237259
+        ]
+      },
+      "properties": {
+        "id": "way/1335775326",
+        "element_id": 1335775326,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.523679",
+        "url": "https://www.openstreetmap.org/way/1335775326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.22315705292549,
+          56.89577631968051
+        ]
+      },
+      "properties": {
+        "id": "way/1338705602",
+        "element_id": 1338705602,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.524680",
+        "url": "https://www.openstreetmap.org/way/1338705602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.22315705292549,
+          56.89577631968051
+        ]
+      },
+      "properties": {
+        "id": "way/1338705602",
+        "element_id": 1338705602,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.524680",
+        "url": "https://www.openstreetmap.org/way/1338705602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.020705371948548,
+          56.55443664740174
+        ]
+      },
+      "properties": {
+        "id": "way/1341020101",
+        "element_id": 1341020101,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.524680",
+        "url": "https://www.openstreetmap.org/way/1341020101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.020705371948548,
+          56.55443664740174
+        ]
+      },
+      "properties": {
+        "id": "way/1341020101",
+        "element_id": 1341020101,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.524680",
+        "url": "https://www.openstreetmap.org/way/1341020101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.916995651856443,
+          56.79692747886641
+        ]
+      },
+      "properties": {
+        "id": "way/1353374413",
+        "element_id": 1353374413,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.524680",
+        "url": "https://www.openstreetmap.org/way/1353374413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.916995651856443,
+          56.79692747886641
+        ]
+      },
+      "properties": {
+        "id": "way/1353374413",
+        "element_id": 1353374413,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.524680",
+        "url": "https://www.openstreetmap.org/way/1353374413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.163854982054588,
+          56.41126614076455
+        ]
+      },
+      "properties": {
+        "id": "way/1369014053",
+        "element_id": 1369014053,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.524680",
+        "url": "https://www.openstreetmap.org/way/1369014053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.163854982054588,
+          56.41126614076455
+        ]
+      },
+      "properties": {
+        "id": "way/1369014053",
+        "element_id": 1369014053,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.524680",
+        "url": "https://www.openstreetmap.org/way/1369014053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.69765082453852,
+          56.63716988870052
+        ]
+      },
+      "properties": {
+        "id": "way/1372755117",
+        "element_id": 1372755117,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.524680",
+        "url": "https://www.openstreetmap.org/way/1372755117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.69765082453852,
+          56.63716988870052
+        ]
+      },
+      "properties": {
+        "id": "way/1372755117",
+        "element_id": 1372755117,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.524680",
+        "url": "https://www.openstreetmap.org/way/1372755117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.69765082453852,
+          56.63716988870052
+        ]
+      },
+      "properties": {
+        "id": "way/1372755117",
+        "element_id": 1372755117,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.526680",
+        "url": "https://www.openstreetmap.org/way/1372755117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.586983201829096,
+          57.36632876504832
+        ]
+      },
+      "properties": {
+        "id": "way/1377705505",
+        "element_id": 1377705505,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:06.526680",
+        "url": "https://www.openstreetmap.org/way/1377705505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.586983201829096,
+          57.36632876504832
+        ]
+      },
+      "properties": {
+        "id": "way/1377705505",
+        "element_id": 1377705505,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.526680",
+        "url": "https://www.openstreetmap.org/way/1377705505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7109451,
+          56.6350787
+        ]
+      },
+      "properties": {
+        "id": "node/2024652325",
+        "element_id": 2024652325,
+        "element_type": "node",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Fortum', 'operator': 'Fortum', 'operator:wikidata': 'Q1439075', 'operator:wikipedia': 'en:Fortum', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.528683",
+        "url": "https://www.openstreetmap.org/node/2024652325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.586983201829096,
+          57.36632876504832
+        ]
+      },
+      "properties": {
+        "id": "way/1377705505",
+        "element_id": 1377705505,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.528683",
+        "url": "https://www.openstreetmap.org/way/1377705505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.749931047873755,
+          57.51944571890488
+        ]
+      },
+      "properties": {
+        "id": "way/1393206008",
+        "element_id": 1393206008,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.528683",
+        "url": "https://www.openstreetmap.org/way/1393206008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.749931047873755,
+          57.51944571890488
+        ]
+      },
+      "properties": {
+        "id": "way/1393206008",
+        "element_id": 1393206008,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.528683",
+        "url": "https://www.openstreetmap.org/way/1393206008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.495768471032115,
+          57.33321376831295
+        ]
+      },
+      "properties": {
+        "id": "way/1395060636",
+        "element_id": 1395060636,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'fixme': 'approximate', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.528683",
+        "url": "https://www.openstreetmap.org/way/1395060636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.495768471032115,
+          57.33321376831295
+        ]
+      },
+      "properties": {
+        "id": "way/1395060636",
+        "element_id": 1395060636,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.528683",
+        "url": "https://www.openstreetmap.org/way/1395060636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.48882354983736,
+          57.3595141726064
+        ]
+      },
+      "properties": {
+        "id": "way/1395060637",
+        "element_id": 1395060637,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'fixme': 'approximate', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.528683",
+        "url": "https://www.openstreetmap.org/way/1395060637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.48882354983736,
+          57.3595141726064
+        ]
+      },
+      "properties": {
+        "id": "way/1395060637",
+        "element_id": 1395060637,
+        "element_type": "way",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:06.528683",
+        "url": "https://www.openstreetmap.org/way/1395060637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5756842,
+          56.7235658
+        ]
+      },
+      "properties": {
+        "id": "node/10877456183",
+        "element_id": 10877456183,
+        "element_type": "node",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.529682",
+        "url": "https://www.openstreetmap.org/node/10877456183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5756842,
+          56.7235658
+        ]
+      },
+      "properties": {
+        "id": "node/10877456183",
+        "element_id": 10877456183,
+        "element_type": "node",
+        "country": "Latvia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:06.530684",
+        "url": "https://www.openstreetmap.org/node/10877456183"
+      }
+    }
+  ]
+}

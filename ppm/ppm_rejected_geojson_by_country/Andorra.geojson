@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.698824113354224,
+          42.548298671307656
+        ]
+      },
+      "properties": {
+        "id": "way/1232238553",
+        "element_id": 1232238553,
+        "element_type": "way",
+        "country": "Andorra",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:12.276489",
+        "url": "https://www.openstreetmap.org/way/1232238553"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.698824113354224,
+          42.548298671307656
+        ]
+      },
+      "properties": {
+        "id": "way/1232238553",
+        "element_id": 1232238553,
+        "element_type": "way",
+        "country": "Andorra",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:12.276489",
+        "url": "https://www.openstreetmap.org/way/1232238553"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6392339691306597,
+          42.578602684921805
+        ]
+      },
+      "properties": {
+        "id": "way/945815522",
+        "element_id": 945815522,
+        "element_type": "way",
+        "country": "Andorra",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'water-storage', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:12.276489",
+        "url": "https://www.openstreetmap.org/way/945815522"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6392339691306597,
+          42.578602684921805
+        ]
+      },
+      "properties": {
+        "id": "way/945815522",
+        "element_id": 945815522,
+        "element_type": "way",
+        "country": "Andorra",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:12.276489",
+        "url": "https://www.openstreetmap.org/way/945815522"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.452252855672192,
+          42.53266246891765
+        ]
+      },
+      "properties": {
+        "id": "way/995328272",
+        "element_id": 995328272,
+        "element_type": "way",
+        "country": "Andorra",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'description': \"5.400 plaques que generaran dos megawatts, energia suficient per crear el total que requereixen Pal i Arinsal per elaborar tota la neu artificial d'una temporada.\", 'operator': 'Nord Andorrà', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:12.276489",
+        "url": "https://www.openstreetmap.org/way/995328272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.452252855672192,
+          42.53266246891765
+        ]
+      },
+      "properties": {
+        "id": "way/995328272",
+        "element_id": 995328272,
+        "element_type": "way",
+        "country": "Andorra",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:12.276489",
+        "url": "https://www.openstreetmap.org/way/995328272"
+      }
+    }
+  ]
+}

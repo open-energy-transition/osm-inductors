@@ -1,0 +1,1479 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.86149388287181,
+          -2.262801885779795
+        ]
+      },
+      "properties": {
+        "id": "relation/16110559",
+        "element_id": 16110559,
+        "element_type": "relation",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Termoguayas Barge Power Stations', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:28:15.224520",
+        "url": "https://www.openstreetmap.org/relation/16110559"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.72194972381314,
+          -0.9583856880700068
+        ]
+      },
+      "properties": {
+        "id": "way/32501128",
+        "element_id": 32501128,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Central Termica Miraflores', 'plant:method': 'combustion', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.225520",
+        "url": "https://www.openstreetmap.org/way/32501128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.93338549089788,
+          -2.85858736840074
+        ]
+      },
+      "properties": {
+        "id": "way/143479729",
+        "element_id": 143479729,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'government': 'administrative', 'name': 'CELEC EP', 'office': 'government', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.226520",
+        "url": "https://www.openstreetmap.org/way/143479729"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88673417617782,
+          -0.7083980889911903
+        ]
+      },
+      "properties": {
+        "id": "way/228660101",
+        "element_id": 228660101,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Estación Auca Sur', 'plant:method': 'combustion', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.228526",
+        "url": "https://www.openstreetmap.org/way/228660101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.60302116360123,
+          -1.2403023590018392
+        ]
+      },
+      "properties": {
+        "id": "way/229297161",
+        "element_id": 229297161,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:15.228526",
+        "url": "https://www.openstreetmap.org/way/229297161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.32062343865688,
+          -0.744423495796564
+        ]
+      },
+      "properties": {
+        "id": "way/321390917",
+        "element_id": 321390917,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'operator': 'Elecgalapagos S.A.', 'plant:method': 'photovoltaic', 'plant:output:electricity': '1500 kW', 'plant:source': 'solar', 'power': 'plant', 'start_date': '11/2014'}",
+        "timestamp": "2025-07-07 18:28:15.231526",
+        "url": "https://www.openstreetmap.org/way/321390917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.32062343865688,
+          -0.744423495796564
+        ]
+      },
+      "properties": {
+        "id": "way/321390917",
+        "element_id": 321390917,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "1500 kW",
+        "details": "Tag 'plant:output:electricity' has value '1500 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:28:15.231526",
+        "url": "https://www.openstreetmap.org/way/321390917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.92488891871258,
+          -1.129185346545404
+        ]
+      },
+      "properties": {
+        "id": "way/402366157",
+        "element_id": 402366157,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:15.231526",
+        "url": "https://www.openstreetmap.org/way/402366157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.92488891871258,
+          -1.129185346545404
+        ]
+      },
+      "properties": {
+        "id": "way/402366157",
+        "element_id": 402366157,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'operator': 'E. E. Cotopaxi', 'plant:output:electricity': '0.26 MW', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.231526",
+        "url": "https://www.openstreetmap.org/way/402366157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.55104017922926,
+          -0.4638310643952341
+        ]
+      },
+      "properties": {
+        "id": "way/402369064",
+        "element_id": 402369064,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:15.232526",
+        "url": "https://www.openstreetmap.org/way/402369064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.40813443648744,
+          0.0041475322878119
+        ]
+      },
+      "properties": {
+        "id": "way/406990512",
+        "element_id": 406990512,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:15.232526",
+        "url": "https://www.openstreetmap.org/way/406990512"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4173098028793,
+          -0.3746676313510216
+        ]
+      },
+      "properties": {
+        "id": "way/406993242",
+        "element_id": 406993242,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:15.233526",
+        "url": "https://www.openstreetmap.org/way/406993242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2388695,
+          -0.99434935
+        ]
+      },
+      "properties": {
+        "id": "way/534554288",
+        "element_id": 534554288,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:15.234526",
+        "url": "https://www.openstreetmap.org/way/534554288"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88103183472491,
+          -0.3734739741618934
+        ]
+      },
+      "properties": {
+        "id": "way/538907970",
+        "element_id": 538907970,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Estacion Sacha Sur', 'plant:method': 'combustion', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.234526",
+        "url": "https://www.openstreetmap.org/way/538907970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24941019955023,
+          -2.343243520755447
+        ]
+      },
+      "properties": {
+        "id": "way/551115927",
+        "element_id": 551115927,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Genrenotec; Altgenotec', 'plant:method': 'photovoltaic', 'plant:output:electricity': '2 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.235525",
+        "url": "https://www.openstreetmap.org/way/551115927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.35722763162016,
+          -0.2926167483980057
+        ]
+      },
+      "properties": {
+        "id": "way/551314779",
+        "element_id": 551314779,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'operator': 'GASGREEN S.A.', 'plant:method': 'combustion', 'plant:output:electricity': '5.5 MW', 'plant:source': 'biogas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.235525",
+        "url": "https://www.openstreetmap.org/way/551314779"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.36043640649805,
+          -1.3979863621082835
+        ]
+      },
+      "properties": {
+        "id": "way/554072365",
+        "element_id": 554072365,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:15.236526",
+        "url": "https://www.openstreetmap.org/way/554072365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.91250350408157,
+          0.2148779460979872
+        ]
+      },
+      "properties": {
+        "id": "way/562129245",
+        "element_id": 562129245,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:15.236526",
+        "url": "https://www.openstreetmap.org/way/562129245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.58790048549443,
+          -2.134096685931459
+        ]
+      },
+      "properties": {
+        "id": "way/769001905",
+        "element_id": 769001905,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:15.239526",
+        "url": "https://www.openstreetmap.org/way/769001905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.58790048549443,
+          -2.134096685931459
+        ]
+      },
+      "properties": {
+        "id": "way/769001905",
+        "element_id": 769001905,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:15.239526",
+        "url": "https://www.openstreetmap.org/way/769001905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01314641404085,
+          -2.7548921670310613
+        ]
+      },
+      "properties": {
+        "id": "way/908473725",
+        "element_id": 908473725,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:15.239526",
+        "url": "https://www.openstreetmap.org/way/908473725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01314641404085,
+          -2.7548921670310613
+        ]
+      },
+      "properties": {
+        "id": "way/908473725",
+        "element_id": 908473725,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:15.239526",
+        "url": "https://www.openstreetmap.org/way/908473725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00769115950982,
+          -2.800133449414859
+        ]
+      },
+      "properties": {
+        "id": "way/912577916",
+        "element_id": 912577916,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:15.240526",
+        "url": "https://www.openstreetmap.org/way/912577916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00769115950982,
+          -2.800133449414859
+        ]
+      },
+      "properties": {
+        "id": "way/912577916",
+        "element_id": 912577916,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Elecaustro', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.240526",
+        "url": "https://www.openstreetmap.org/way/912577916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00769115950982,
+          -2.800133449414859
+        ]
+      },
+      "properties": {
+        "id": "way/912577916",
+        "element_id": 912577916,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:15.240526",
+        "url": "https://www.openstreetmap.org/way/912577916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.37209820996135,
+          -2.724195505157524
+        ]
+      },
+      "properties": {
+        "id": "way/912581099",
+        "element_id": 912581099,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:15.240526",
+        "url": "https://www.openstreetmap.org/way/912581099"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.41348819566815,
+          -0.3084341574684177
+        ]
+      },
+      "properties": {
+        "id": "way/921491009",
+        "element_id": 921491009,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.241526",
+        "url": "https://www.openstreetmap.org/way/921491009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.41348819566815,
+          -0.3084341574684177
+        ]
+      },
+      "properties": {
+        "id": "way/921491009",
+        "element_id": 921491009,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.241526",
+        "url": "https://www.openstreetmap.org/way/921491009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.35068731497559,
+          -2.441705398272986
+        ]
+      },
+      "properties": {
+        "id": "way/927306045",
+        "element_id": 927306045,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'operator': 'Ecudos S.A.', 'plant:method': 'combustion', 'plant:output:electricity': '29,8 MW', 'plant:source': 'biomass', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.241526",
+        "url": "https://www.openstreetmap.org/way/927306045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.35068731497559,
+          -2.441705398272986
+        ]
+      },
+      "properties": {
+        "id": "way/927306045",
+        "element_id": 927306045,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity decimal format",
+        "keywords": "29,8 MW",
+        "details": "Tag 'plant:output:electricity' uses comma as decimal separator in value '29,8 MW'",
+        "timestamp": "2025-07-07 18:28:15.241526",
+        "url": "https://www.openstreetmap.org/way/927306045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.26923502578248,
+          -2.2261590313741144
+        ]
+      },
+      "properties": {
+        "id": "way/1027051461",
+        "element_id": 1027051461,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:15.243037",
+        "url": "https://www.openstreetmap.org/way/1027051461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.26923502578248,
+          -2.2261590313741144
+        ]
+      },
+      "properties": {
+        "id": "way/1027051461",
+        "element_id": 1027051461,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:15.243037",
+        "url": "https://www.openstreetmap.org/way/1027051461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.45787769679605,
+          -0.6838255448521221
+        ]
+      },
+      "properties": {
+        "id": "way/1106415318",
+        "element_id": 1106415318,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:15.243037",
+        "url": "https://www.openstreetmap.org/way/1106415318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.45787769679605,
+          -0.6838255448521221
+        ]
+      },
+      "properties": {
+        "id": "way/1106415318",
+        "element_id": 1106415318,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:15.243037",
+        "url": "https://www.openstreetmap.org/way/1106415318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.45838301324231,
+          -0.686235194165993
+        ]
+      },
+      "properties": {
+        "id": "way/1106415320",
+        "element_id": 1106415320,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:15.243037",
+        "url": "https://www.openstreetmap.org/way/1106415320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.45838301324231,
+          -0.686235194165993
+        ]
+      },
+      "properties": {
+        "id": "way/1106415320",
+        "element_id": 1106415320,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:15.243037",
+        "url": "https://www.openstreetmap.org/way/1106415320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.09618882758208,
+          -4.848381016032136
+        ]
+      },
+      "properties": {
+        "id": "way/1111547029",
+        "element_id": 1111547029,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:15.243037",
+        "url": "https://www.openstreetmap.org/way/1111547029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.09618882758208,
+          -4.848381016032136
+        ]
+      },
+      "properties": {
+        "id": "way/1111547029",
+        "element_id": 1111547029,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity decimal format",
+        "keywords": "2,25 MW",
+        "details": "Tag 'plant:output:electricity' uses comma as decimal separator in value '2,25 MW'",
+        "timestamp": "2025-07-07 18:28:15.243037",
+        "url": "https://www.openstreetmap.org/way/1111547029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.64898153370174,
+          -1.6594133356606628
+        ]
+      },
+      "properties": {
+        "id": "way/1131072579",
+        "element_id": 1131072579,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.244037",
+        "url": "https://www.openstreetmap.org/way/1131072579"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.64898153370174,
+          -1.6594133356606628
+        ]
+      },
+      "properties": {
+        "id": "way/1131072579",
+        "element_id": 1131072579,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.244037",
+        "url": "https://www.openstreetmap.org/way/1131072579"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.61504171666414,
+          -0.9093025574485336
+        ]
+      },
+      "properties": {
+        "id": "way/1160558894",
+        "element_id": 1160558894,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.244037",
+        "url": "https://www.openstreetmap.org/way/1160558894"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.61504171666414,
+          -0.9093025574485336
+        ]
+      },
+      "properties": {
+        "id": "way/1160558894",
+        "element_id": 1160558894,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:15.244037",
+        "url": "https://www.openstreetmap.org/way/1160558894"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.70736788832549,
+          0.9447655318213224
+        ]
+      },
+      "properties": {
+        "id": "way/1182325214",
+        "element_id": 1182325214,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.244037",
+        "url": "https://www.openstreetmap.org/way/1182325214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.70736788832549,
+          0.9447655318213224
+        ]
+      },
+      "properties": {
+        "id": "way/1182325214",
+        "element_id": 1182325214,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:15.244037",
+        "url": "https://www.openstreetmap.org/way/1182325214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.86184052351891,
+          -2.262364257636794
+        ]
+      },
+      "properties": {
+        "id": "way/1186030689",
+        "element_id": 1186030689,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Termoguayas Barge Power Station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.244037",
+        "url": "https://www.openstreetmap.org/way/1186030689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.86127788425252,
+          -2.2630745805011188
+        ]
+      },
+      "properties": {
+        "id": "way/1186030690",
+        "element_id": 1186030690,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:15.244037",
+        "url": "https://www.openstreetmap.org/way/1186030690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.53968052031554,
+          -1.6616534213958791
+        ]
+      },
+      "properties": {
+        "id": "way/1189536443",
+        "element_id": 1189536443,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:15.244037",
+        "url": "https://www.openstreetmap.org/way/1189536443"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.461328281779,
+          -2.5913352003161765
+        ]
+      },
+      "properties": {
+        "id": "way/1190958165",
+        "element_id": 1190958165,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:15.245037",
+        "url": "https://www.openstreetmap.org/way/1190958165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0059641942784,
+          -2.9044743977017564
+        ]
+      },
+      "properties": {
+        "id": "way/1230714642",
+        "element_id": 1230714642,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': '05-013-2023', 'operator': 'c', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2023-10-03'}",
+        "timestamp": "2025-07-07 18:28:15.245037",
+        "url": "https://www.openstreetmap.org/way/1230714642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.26351339289957,
+          -1.409261492280025
+        ]
+      },
+      "properties": {
+        "id": "way/1280080715",
+        "element_id": 1280080715,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:15.246037",
+        "url": "https://www.openstreetmap.org/way/1280080715"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.86130519358649,
+          -2.2662977036607197
+        ]
+      },
+      "properties": {
+        "id": "way/1283750749",
+        "element_id": 1283750749,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'Victoria-II Barge Power Plant', 'power': 'plant', 'source': 'https://www.gem.wiki/Victoria_II_power_station;https://eastwestpowerco.com/east-west-power-group-experiences/'}",
+        "timestamp": "2025-07-07 18:28:15.246037",
+        "url": "https://www.openstreetmap.org/way/1283750749"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4780921,
+          -0.4283128
+        ]
+      },
+      "properties": {
+        "id": "node/3678149508",
+        "element_id": 3678149508,
+        "element_type": "node",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Tanque de carga Central Hidroeléctrica Pasochoa', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.247038",
+        "url": "https://www.openstreetmap.org/node/3678149508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8917378,
+          -0.4920995
+        ]
+      },
+      "properties": {
+        "id": "node/4202543711",
+        "element_id": 4202543711,
+        "element_type": "node",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'man_made': 'monitoring_station', 'name': 'Mini Estación Culebra', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.247038",
+        "url": "https://www.openstreetmap.org/node/4202543711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88605,
+          -0.64248
+        ]
+      },
+      "properties": {
+        "id": "node/4202676644",
+        "element_id": 4202676644,
+        "element_type": "node",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'man_made': 'monitoring_station', 'name': 'Estación Auca Central', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.247038",
+        "url": "https://www.openstreetmap.org/node/4202676644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8811524,
+          -0.7079829
+        ]
+      },
+      "properties": {
+        "id": "node/4202686561",
+        "element_id": 4202686561,
+        "element_type": "node",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'man_made': 'monitoring_station', 'name': 'Sub Estación Auca Sur', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.247038",
+        "url": "https://www.openstreetmap.org/node/4202686561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.14830240445376,
+          -1.8901607752685676
+        ]
+      },
+      "properties": {
+        "id": "way/1297897279",
+        "element_id": 1297897279,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'combustion', 'plant:source': 'biogas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.247038",
+        "url": "https://www.openstreetmap.org/way/1297897279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.14830240445376,
+          -1.8901607752685676
+        ]
+      },
+      "properties": {
+        "id": "way/1297897279",
+        "element_id": 1297897279,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'combustion', 'plant:source': 'biogas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.247038",
+        "url": "https://www.openstreetmap.org/way/1297897279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.80656016740113,
+          -1.5598057968025865
+        ]
+      },
+      "properties": {
+        "id": "way/1303538907",
+        "element_id": 1303538907,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:15.247038",
+        "url": "https://www.openstreetmap.org/way/1303538907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.80656016740113,
+          -1.5598057968025865
+        ]
+      },
+      "properties": {
+        "id": "way/1303538907",
+        "element_id": 1303538907,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:15.247038",
+        "url": "https://www.openstreetmap.org/way/1303538907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0022234405625,
+          -4.03706433874641
+        ]
+      },
+      "properties": {
+        "id": "way/1336546722",
+        "element_id": 1336546722,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:15.247038",
+        "url": "https://www.openstreetmap.org/way/1336546722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0022234405625,
+          -4.03706433874641
+        ]
+      },
+      "properties": {
+        "id": "way/1336546722",
+        "element_id": 1336546722,
+        "element_type": "way",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:15.247038",
+        "url": "https://www.openstreetmap.org/way/1336546722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7448936,
+          -0.1719342
+        ]
+      },
+      "properties": {
+        "id": "node/4607185779",
+        "element_id": 4607185779,
+        "element_type": "node",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Estación Drago Norte', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.248036",
+        "url": "https://www.openstreetmap.org/node/4607185779"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0408786,
+          -0.2005515
+        ]
+      },
+      "properties": {
+        "id": "node/6501309364",
+        "element_id": 6501309364,
+        "element_type": "node",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Estación TPF Palo azul', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.248036",
+        "url": "https://www.openstreetmap.org/node/6501309364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4669147,
+          -2.5913824
+        ]
+      },
+      "properties": {
+        "id": "node/8476781041",
+        "element_id": 8476781041,
+        "element_type": "node",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:15.248036",
+        "url": "https://www.openstreetmap.org/node/8476781041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4669147,
+          -2.5913824
+        ]
+      },
+      "properties": {
+        "id": "node/8476781041",
+        "element_id": 8476781041,
+        "element_type": "node",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'run-of-the-river', 'generator:output:electricity': '487 MW', 'generator:source': 'hydro', 'layer': '-1', 'location': '2°35\\'26.9\"S 78°28\\'07.7\"W', 'name': 'Sub estación Central hidroeléctrica Sopladora', 'operator': 'COORPORACION ELECTRICA DEL ECUADOR', 'power': 'plant', 'wikidata': 'Q23887004'}",
+        "timestamp": "2025-07-07 18:28:15.248036",
+        "url": "https://www.openstreetmap.org/node/8476781041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0407309,
+          -0.1989691
+        ]
+      },
+      "properties": {
+        "id": "node/9708401923",
+        "element_id": 9708401923,
+        "element_type": "node",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Estación TPF', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.248036",
+        "url": "https://www.openstreetmap.org/node/9708401923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.672613,
+          -0.3458366
+        ]
+      },
+      "properties": {
+        "id": "node/9894411325",
+        "element_id": 9894411325,
+        "element_type": "node",
+        "country": "Ecuador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Estación Limoncocha', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:15.249037",
+        "url": "https://www.openstreetmap.org/node/9894411325"
+      }
+    }
+  ]
+}

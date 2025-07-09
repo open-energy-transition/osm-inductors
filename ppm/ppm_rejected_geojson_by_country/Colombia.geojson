@@ -1,0 +1,4163 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67890086652211,
+          4.8351089720237415
+        ]
+      },
+      "properties": {
+        "id": "relation/7734974",
+        "element_id": 7734974,
+        "element_type": "relation",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.890033",
+        "url": "https://www.openstreetmap.org/relation/7734974"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67890086652211,
+          4.8351089720237415
+        ]
+      },
+      "properties": {
+        "id": "relation/7734974",
+        "element_id": 7734974,
+        "element_type": "relation",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Central Hidroelectrica de Caldas CHEC', 'plant:source': 'hydro', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:26:42.890033",
+        "url": "https://www.openstreetmap.org/relation/7734974"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0375452,
+          12.2340961
+        ]
+      },
+      "properties": {
+        "id": "node/5315336754",
+        "element_id": 5315336754,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.891033",
+        "url": "https://www.openstreetmap.org/node/5315336754"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0375452,
+          12.2340961
+        ]
+      },
+      "properties": {
+        "id": "node/5315336754",
+        "element_id": 5315336754,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.892034",
+        "url": "https://www.openstreetmap.org/node/5315336754"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.028871,
+          12.2371053
+        ]
+      },
+      "properties": {
+        "id": "node/5315336794",
+        "element_id": 5315336794,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.892034",
+        "url": "https://www.openstreetmap.org/node/5315336794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0383552,
+          12.2375143
+        ]
+      },
+      "properties": {
+        "id": "node/5315336756",
+        "element_id": 5315336756,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.893032",
+        "url": "https://www.openstreetmap.org/node/5315336756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0383552,
+          12.2375143
+        ]
+      },
+      "properties": {
+        "id": "node/5315336756",
+        "element_id": 5315336756,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.893032",
+        "url": "https://www.openstreetmap.org/node/5315336756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.028871,
+          12.2371053
+        ]
+      },
+      "properties": {
+        "id": "node/5315336794",
+        "element_id": 5315336794,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.893032",
+        "url": "https://www.openstreetmap.org/node/5315336794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0287959,
+          12.2339074
+        ]
+      },
+      "properties": {
+        "id": "node/5315336796",
+        "element_id": 5315336796,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.893032",
+        "url": "https://www.openstreetmap.org/node/5315336796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0287959,
+          12.2339074
+        ]
+      },
+      "properties": {
+        "id": "node/5315336796",
+        "element_id": 5315336796,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.894031",
+        "url": "https://www.openstreetmap.org/node/5315336796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0276371,
+          12.2310659
+        ]
+      },
+      "properties": {
+        "id": "node/5315336798",
+        "element_id": 5315336798,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.894031",
+        "url": "https://www.openstreetmap.org/node/5315336798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0373414,
+          12.2324342
+        ]
+      },
+      "properties": {
+        "id": "node/5315336753",
+        "element_id": 5315336753,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.895032",
+        "url": "https://www.openstreetmap.org/node/5315336753"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0276371,
+          12.2310659
+        ]
+      },
+      "properties": {
+        "id": "node/5315336798",
+        "element_id": 5315336798,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.895032",
+        "url": "https://www.openstreetmap.org/node/5315336798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0373414,
+          12.2324342
+        ]
+      },
+      "properties": {
+        "id": "node/5315336753",
+        "element_id": 5315336753,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.896033",
+        "url": "https://www.openstreetmap.org/node/5315336753"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0291284,
+          12.2388144
+        ]
+      },
+      "properties": {
+        "id": "node/5315336793",
+        "element_id": 5315336793,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.896033",
+        "url": "https://www.openstreetmap.org/node/5315336793"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0364857,
+          12.2287565
+        ]
+      },
+      "properties": {
+        "id": "node/5315336751",
+        "element_id": 5315336751,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.897032",
+        "url": "https://www.openstreetmap.org/node/5315336751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0291284,
+          12.2388144
+        ]
+      },
+      "properties": {
+        "id": "node/5315336793",
+        "element_id": 5315336793,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.897032",
+        "url": "https://www.openstreetmap.org/node/5315336793"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0364857,
+          12.2287565
+        ]
+      },
+      "properties": {
+        "id": "node/5315336751",
+        "element_id": 5315336751,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.898031",
+        "url": "https://www.openstreetmap.org/node/5315336751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0378993,
+          12.2358733
+        ]
+      },
+      "properties": {
+        "id": "node/5315336755",
+        "element_id": 5315336755,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.898031",
+        "url": "https://www.openstreetmap.org/node/5315336755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0378993,
+          12.2358733
+        ]
+      },
+      "properties": {
+        "id": "node/5315336755",
+        "element_id": 5315336755,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.898031",
+        "url": "https://www.openstreetmap.org/node/5315336755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0293216,
+          12.2354802
+        ]
+      },
+      "properties": {
+        "id": "node/5315336795",
+        "element_id": 5315336795,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.898031",
+        "url": "https://www.openstreetmap.org/node/5315336795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0293216,
+          12.2354802
+        ]
+      },
+      "properties": {
+        "id": "node/5315336795",
+        "element_id": 5315336795,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.899031",
+        "url": "https://www.openstreetmap.org/node/5315336795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0279912,
+          12.2325758
+        ]
+      },
+      "properties": {
+        "id": "node/5315336797",
+        "element_id": 5315336797,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.899031",
+        "url": "https://www.openstreetmap.org/node/5315336797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0368425,
+          12.2305259
+        ]
+      },
+      "properties": {
+        "id": "node/5315336752",
+        "element_id": 5315336752,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.900031",
+        "url": "https://www.openstreetmap.org/node/5315336752"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0279912,
+          12.2325758
+        ]
+      },
+      "properties": {
+        "id": "node/5315336797",
+        "element_id": 5315336797,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.900031",
+        "url": "https://www.openstreetmap.org/node/5315336797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0368425,
+          12.2305259
+        ]
+      },
+      "properties": {
+        "id": "node/5315336752",
+        "element_id": 5315336752,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.901031",
+        "url": "https://www.openstreetmap.org/node/5315336752"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0288602,
+          12.2403557
+        ]
+      },
+      "properties": {
+        "id": "node/5315336792",
+        "element_id": 5315336792,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.901031",
+        "url": "https://www.openstreetmap.org/node/5315336792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0361371,
+          12.2268141
+        ]
+      },
+      "properties": {
+        "id": "node/5315336750",
+        "element_id": 5315336750,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.902031",
+        "url": "https://www.openstreetmap.org/node/5315336750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0288602,
+          12.2403557
+        ]
+      },
+      "properties": {
+        "id": "node/5315336792",
+        "element_id": 5315336792,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.902031",
+        "url": "https://www.openstreetmap.org/node/5315336792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0273796,
+          12.2295979
+        ]
+      },
+      "properties": {
+        "id": "node/5315336799",
+        "element_id": 5315336799,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.902031",
+        "url": "https://www.openstreetmap.org/node/5315336799"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0273796,
+          12.2295979
+        ]
+      },
+      "properties": {
+        "id": "node/5315336799",
+        "element_id": 5315336799,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.902031",
+        "url": "https://www.openstreetmap.org/node/5315336799"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0361371,
+          12.2268141
+        ]
+      },
+      "properties": {
+        "id": "node/5315336750",
+        "element_id": 5315336750,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:26:42.903031",
+        "url": "https://www.openstreetmap.org/node/5315336750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.88652343316348,
+          5.560338564293712
+        ]
+      },
+      "properties": {
+        "id": "relation/12795602",
+        "element_id": 12795602,
+        "element_type": "relation",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 13 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.914570",
+        "url": "https://www.openstreetmap.org/relation/12795602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.72279694063756,
+          9.788834083714113
+        ]
+      },
+      "properties": {
+        "id": "relation/16239028",
+        "element_id": 16239028,
+        "element_type": "relation",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.916578",
+        "url": "https://www.openstreetmap.org/relation/16239028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.41451976101798,
+          3.415818313730608
+        ]
+      },
+      "properties": {
+        "id": "relation/17710070",
+        "element_id": 17710070,
+        "element_type": "relation",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.917578",
+        "url": "https://www.openstreetmap.org/relation/17710070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.28800692075997,
+          4.565179338722967
+        ]
+      },
+      "properties": {
+        "id": "way/244484879",
+        "element_id": 244484879,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.919578",
+        "url": "https://www.openstreetmap.org/way/244484879"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.56870044859903,
+          3.4491092116598097
+        ]
+      },
+      "properties": {
+        "id": "way/246635587",
+        "element_id": 246635587,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.919578",
+        "url": "https://www.openstreetmap.org/way/246635587"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.72891429348584,
+          12.553403133208375
+        ]
+      },
+      "properties": {
+        "id": "way/332759634",
+        "element_id": 332759634,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.921090",
+        "url": "https://www.openstreetmap.org/way/332759634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.43592149999999,
+          6.8747671
+        ]
+      },
+      "properties": {
+        "id": "way/375519469",
+        "element_id": 375519469,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.921090",
+        "url": "https://www.openstreetmap.org/way/375519469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.18930901249789,
+          6.839251393933548
+        ]
+      },
+      "properties": {
+        "id": "way/392663760",
+        "element_id": 392663760,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.921090",
+        "url": "https://www.openstreetmap.org/way/392663760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2737636347252,
+          4.5434094413938455
+        ]
+      },
+      "properties": {
+        "id": "way/401695086",
+        "element_id": 401695086,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.921090",
+        "url": "https://www.openstreetmap.org/way/401695086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99659303962972,
+          4.691013549060549
+        ]
+      },
+      "properties": {
+        "id": "way/423900064",
+        "element_id": 423900064,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.922099",
+        "url": "https://www.openstreetmap.org/way/423900064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99659303962972,
+          4.691013549060549
+        ]
+      },
+      "properties": {
+        "id": "way/423900064",
+        "element_id": 423900064,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.922099",
+        "url": "https://www.openstreetmap.org/way/423900064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.88420709093899,
+          2.567433594772244
+        ]
+      },
+      "properties": {
+        "id": "way/429375110",
+        "element_id": 429375110,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.922099",
+        "url": "https://www.openstreetmap.org/way/429375110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58585869446254,
+          6.312198097189174
+        ]
+      },
+      "properties": {
+        "id": "way/429737246",
+        "element_id": 429737246,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.922099",
+        "url": "https://www.openstreetmap.org/way/429737246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58585869446254,
+          6.312198097189174
+        ]
+      },
+      "properties": {
+        "id": "way/429737246",
+        "element_id": 429737246,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.922099",
+        "url": "https://www.openstreetmap.org/way/429737246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.46138768198264,
+          9.558638476859707
+        ]
+      },
+      "properties": {
+        "id": "way/437941171",
+        "element_id": 437941171,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.922099",
+        "url": "https://www.openstreetmap.org/way/437941171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.22729694423124,
+          6.793023205760535
+        ]
+      },
+      "properties": {
+        "id": "way/460414772",
+        "element_id": 460414772,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.922099",
+        "url": "https://www.openstreetmap.org/way/460414772"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.94202310828524,
+          -4.223581610287245
+        ]
+      },
+      "properties": {
+        "id": "way/500808761",
+        "element_id": 500808761,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Termoeléctrica Leticia', 'operator': 'ENAM', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.923373",
+        "url": "https://www.openstreetmap.org/way/500808761"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.36293076923981,
+          6.543373854033359
+        ]
+      },
+      "properties": {
+        "id": "way/533072989",
+        "element_id": 533072989,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.923373",
+        "url": "https://www.openstreetmap.org/way/533072989"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.74048365467448,
+          4.807815744313005
+        ]
+      },
+      "properties": {
+        "id": "way/533699264",
+        "element_id": 533699264,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.923373",
+        "url": "https://www.openstreetmap.org/way/533699264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.74048365467448,
+          4.807815744313005
+        ]
+      },
+      "properties": {
+        "id": "way/533699264",
+        "element_id": 533699264,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.923373",
+        "url": "https://www.openstreetmap.org/way/533699264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.70498012268047,
+          2.943570695588181
+        ]
+      },
+      "properties": {
+        "id": "way/550713025",
+        "element_id": 550713025,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.923373",
+        "url": "https://www.openstreetmap.org/way/550713025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.32494866238493,
+          6.646039626720912
+        ]
+      },
+      "properties": {
+        "id": "way/554613907",
+        "element_id": 554613907,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.923373",
+        "url": "https://www.openstreetmap.org/way/554613907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58342126457187,
+          3.454171905853479
+        ]
+      },
+      "properties": {
+        "id": "way/561394626",
+        "element_id": 561394626,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.923373",
+        "url": "https://www.openstreetmap.org/way/561394626"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58342126457187,
+          3.454171905853479
+        ]
+      },
+      "properties": {
+        "id": "way/561394626",
+        "element_id": 561394626,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'name': 'Planta 2 EPSA', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.924382",
+        "url": "https://www.openstreetmap.org/way/561394626"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.23172460850589,
+          4.881933939940063
+        ]
+      },
+      "properties": {
+        "id": "way/576919266",
+        "element_id": 576919266,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.924382",
+        "url": "https://www.openstreetmap.org/way/576919266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.50006224707701,
+          6.6159986384503
+        ]
+      },
+      "properties": {
+        "id": "way/616660653",
+        "element_id": 616660653,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.924382",
+        "url": "https://www.openstreetmap.org/way/616660653"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.30777629121124,
+          4.582118612770115
+        ]
+      },
+      "properties": {
+        "id": "way/632700975",
+        "element_id": 632700975,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.925535",
+        "url": "https://www.openstreetmap.org/way/632700975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.43189187200423,
+          4.602392097471542
+        ]
+      },
+      "properties": {
+        "id": "way/632700976",
+        "element_id": 632700976,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.925535",
+        "url": "https://www.openstreetmap.org/way/632700976"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.46020768929792,
+          4.589460573172763
+        ]
+      },
+      "properties": {
+        "id": "way/632700977",
+        "element_id": 632700977,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.925535",
+        "url": "https://www.openstreetmap.org/way/632700977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.40258197245059,
+          4.572300533108159
+        ]
+      },
+      "properties": {
+        "id": "way/632700978",
+        "element_id": 632700978,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.926546",
+        "url": "https://www.openstreetmap.org/way/632700978"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.71721454046015,
+          4.805696004196659
+        ]
+      },
+      "properties": {
+        "id": "way/633043265",
+        "element_id": 633043265,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.926546",
+        "url": "https://www.openstreetmap.org/way/633043265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.89106215255127,
+          3.755031298411623
+        ]
+      },
+      "properties": {
+        "id": "way/680631403",
+        "element_id": 680631403,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Hidroeléctrica Prado', 'plant:method': 'water-storage', 'plant:source': 'hydro', 'power': 'plant', 'wikidata': 'Q23728125'}",
+        "timestamp": "2025-07-07 18:26:42.927707",
+        "url": "https://www.openstreetmap.org/way/680631403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.27561242058103,
+          8.504146351545652
+        ]
+      },
+      "properties": {
+        "id": "way/698891021",
+        "element_id": 698891021,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.928717",
+        "url": "https://www.openstreetmap.org/way/698891021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.27561242058103,
+          8.504146351545652
+        ]
+      },
+      "properties": {
+        "id": "way/698891021",
+        "element_id": 698891021,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.928717",
+        "url": "https://www.openstreetmap.org/way/698891021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.27561242058103,
+          8.504146351545652
+        ]
+      },
+      "properties": {
+        "id": "way/698891021",
+        "element_id": 698891021,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.928717",
+        "url": "https://www.openstreetmap.org/way/698891021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.33349004999998,
+          4.5923591
+        ]
+      },
+      "properties": {
+        "id": "way/731799439",
+        "element_id": 731799439,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.929717",
+        "url": "https://www.openstreetmap.org/way/731799439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.32193438686626,
+          4.165080290485505
+        ]
+      },
+      "properties": {
+        "id": "way/745171898",
+        "element_id": 745171898,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.929717",
+        "url": "https://www.openstreetmap.org/way/745171898"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.35239875825239,
+          4.735882819420857
+        ]
+      },
+      "properties": {
+        "id": "way/759855944",
+        "element_id": 759855944,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.929717",
+        "url": "https://www.openstreetmap.org/way/759855944"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.52888112256085,
+          3.3861947987448207
+        ]
+      },
+      "properties": {
+        "id": "way/766771251",
+        "element_id": 766771251,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.929717",
+        "url": "https://www.openstreetmap.org/way/766771251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.52888112256085,
+          3.3861947987448207
+        ]
+      },
+      "properties": {
+        "id": "way/766771251",
+        "element_id": 766771251,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.929717",
+        "url": "https://www.openstreetmap.org/way/766771251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9211255442603,
+          3.8607051051643975
+        ]
+      },
+      "properties": {
+        "id": "way/787987997",
+        "element_id": 787987997,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'HOCOL', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.929717",
+        "url": "https://www.openstreetmap.org/way/787987997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.36967759999999,
+          2.619442200000001
+        ]
+      },
+      "properties": {
+        "id": "way/788071305",
+        "element_id": 788071305,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.929717",
+        "url": "https://www.openstreetmap.org/way/788071305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.36967759999999,
+          2.619442200000001
+        ]
+      },
+      "properties": {
+        "id": "way/788071305",
+        "element_id": 788071305,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.929717",
+        "url": "https://www.openstreetmap.org/way/788071305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.33546947039953,
+          1.1720933792893014
+        ]
+      },
+      "properties": {
+        "id": "way/797540986",
+        "element_id": 797540986,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.930717",
+        "url": "https://www.openstreetmap.org/way/797540986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.31291330592285,
+          6.042908917842583
+        ]
+      },
+      "properties": {
+        "id": "way/826322000",
+        "element_id": 826322000,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.930717",
+        "url": "https://www.openstreetmap.org/way/826322000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.31291330592285,
+          6.042908917842583
+        ]
+      },
+      "properties": {
+        "id": "way/826322000",
+        "element_id": 826322000,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "1875 kW",
+        "details": "Tag 'plant:output:electricity' has value '1875 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:26:42.930717",
+        "url": "https://www.openstreetmap.org/way/826322000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.41421229999999,
+          6.771958349999999
+        ]
+      },
+      "properties": {
+        "id": "way/826342066",
+        "element_id": 826342066,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.931717",
+        "url": "https://www.openstreetmap.org/way/826342066"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.41421229999999,
+          6.771958349999999
+        ]
+      },
+      "properties": {
+        "id": "way/826342066",
+        "element_id": 826342066,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'fixme': 'confirmar ubicacion', 'name': 'Pequeña Central Hidroeléctrica de Cupica', 'plant:source': 'hydro', 'power': 'plant', 'source': 'Maxar', 'start_date': '2005'}",
+        "timestamp": "2025-07-07 18:26:42.931717",
+        "url": "https://www.openstreetmap.org/way/826342066"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.47354950006397,
+          5.554204150979017
+        ]
+      },
+      "properties": {
+        "id": "way/826625519",
+        "element_id": 826625519,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.931717",
+        "url": "https://www.openstreetmap.org/way/826625519"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.47354950006397,
+          5.554204150979017
+        ]
+      },
+      "properties": {
+        "id": "way/826625519",
+        "element_id": 826625519,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Micro Central Hidroeléctrica Arusí', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.931717",
+        "url": "https://www.openstreetmap.org/way/826625519"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.08978810813028,
+          6.731489803005061
+        ]
+      },
+      "properties": {
+        "id": "way/830969444",
+        "element_id": 830969444,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.932718",
+        "url": "https://www.openstreetmap.org/way/830969444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.08110292898436,
+          6.803031027334576
+        ]
+      },
+      "properties": {
+        "id": "way/830969451",
+        "element_id": 830969451,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.932718",
+        "url": "https://www.openstreetmap.org/way/830969451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.98156497622901,
+          5.873550554858745
+        ]
+      },
+      "properties": {
+        "id": "way/842326526",
+        "element_id": 842326526,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Santa Rosa de Viterbo', 'addr:street': 'calle 8', 'name': 'Empresa de energia EBSA', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.932718",
+        "url": "https://www.openstreetmap.org/way/842326526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.86843970000001,
+          11.0145867
+        ]
+      },
+      "properties": {
+        "id": "way/845533791",
+        "element_id": 845533791,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.932718",
+        "url": "https://www.openstreetmap.org/way/845533791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.86843970000001,
+          11.0145867
+        ]
+      },
+      "properties": {
+        "id": "way/845533791",
+        "element_id": 845533791,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.932718",
+        "url": "https://www.openstreetmap.org/way/845533791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.560036104129,
+          3.8810159850751016
+        ]
+      },
+      "properties": {
+        "id": "way/884144598",
+        "element_id": 884144598,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.932718",
+        "url": "https://www.openstreetmap.org/way/884144598"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.68153254240829,
+          3.876954394470092
+        ]
+      },
+      "properties": {
+        "id": "way/890240878",
+        "element_id": 890240878,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.932718",
+        "url": "https://www.openstreetmap.org/way/890240878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.22784561501905,
+          11.17781467630343
+        ]
+      },
+      "properties": {
+        "id": "way/1017948200",
+        "element_id": 1017948200,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'plant:type': 'solar_photovoltaic_panel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.933717",
+        "url": "https://www.openstreetmap.org/way/1017948200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.68153254240829,
+          3.876954394470092
+        ]
+      },
+      "properties": {
+        "id": "way/890240878",
+        "element_id": 890240878,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.933717",
+        "url": "https://www.openstreetmap.org/way/890240878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.22784561501905,
+          11.17781467630343
+        ]
+      },
+      "properties": {
+        "id": "way/1017948200",
+        "element_id": 1017948200,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'plant:type': 'solar_photovoltaic_panel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.935220",
+        "url": "https://www.openstreetmap.org/way/1017948200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86478900747778,
+          7.077441745375379
+        ]
+      },
+      "properties": {
+        "id": "way/1018385367",
+        "element_id": 1018385367,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.935220",
+        "url": "https://www.openstreetmap.org/way/1018385367"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86868554751894,
+          7.07547806914871
+        ]
+      },
+      "properties": {
+        "id": "way/1018385372",
+        "element_id": 1018385372,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.935220",
+        "url": "https://www.openstreetmap.org/way/1018385372"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86747865767329,
+          7.076430403631595
+        ]
+      },
+      "properties": {
+        "id": "way/1018390342",
+        "element_id": 1018390342,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.935220",
+        "url": "https://www.openstreetmap.org/way/1018390342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87473449555124,
+          7.065656921397164
+        ]
+      },
+      "properties": {
+        "id": "way/1018548644",
+        "element_id": 1018548644,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.935220",
+        "url": "https://www.openstreetmap.org/way/1018548644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87473449555124,
+          7.065656921397164
+        ]
+      },
+      "properties": {
+        "id": "way/1018548644",
+        "element_id": 1018548644,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.935220",
+        "url": "https://www.openstreetmap.org/way/1018548644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87432443709258,
+          7.065035289970129
+        ]
+      },
+      "properties": {
+        "id": "way/1018548645",
+        "element_id": 1018548645,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.936226",
+        "url": "https://www.openstreetmap.org/way/1018548645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87432443709258,
+          7.065035289970129
+        ]
+      },
+      "properties": {
+        "id": "way/1018548645",
+        "element_id": 1018548645,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.936226",
+        "url": "https://www.openstreetmap.org/way/1018548645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87480466190587,
+          7.064453055479581
+        ]
+      },
+      "properties": {
+        "id": "way/1018548646",
+        "element_id": 1018548646,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.936226",
+        "url": "https://www.openstreetmap.org/way/1018548646"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87480466190587,
+          7.064453055479581
+        ]
+      },
+      "properties": {
+        "id": "way/1018548646",
+        "element_id": 1018548646,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.936226",
+        "url": "https://www.openstreetmap.org/way/1018548646"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87416517205324,
+          7.063847934854129
+        ]
+      },
+      "properties": {
+        "id": "way/1018548647",
+        "element_id": 1018548647,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.936226",
+        "url": "https://www.openstreetmap.org/way/1018548647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87416517205324,
+          7.063847934854129
+        ]
+      },
+      "properties": {
+        "id": "way/1018548647",
+        "element_id": 1018548647,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.936226",
+        "url": "https://www.openstreetmap.org/way/1018548647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86679630456975,
+          7.07706055442803
+        ]
+      },
+      "properties": {
+        "id": "way/1018558934",
+        "element_id": 1018558934,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.936226",
+        "url": "https://www.openstreetmap.org/way/1018558934"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86679630456975,
+          7.07706055442803
+        ]
+      },
+      "properties": {
+        "id": "way/1018558934",
+        "element_id": 1018558934,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.936226",
+        "url": "https://www.openstreetmap.org/way/1018558934"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.68766825100197,
+          6.291278700463411
+        ]
+      },
+      "properties": {
+        "id": "way/1076209500",
+        "element_id": 1076209500,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.936226",
+        "url": "https://www.openstreetmap.org/way/1076209500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.68766825100197,
+          6.291278700463411
+        ]
+      },
+      "properties": {
+        "id": "way/1076209500",
+        "element_id": 1076209500,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'name': 'Micro central Argos', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.936226",
+        "url": "https://www.openstreetmap.org/way/1076209500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.25193072546949,
+          6.520482903205406
+        ]
+      },
+      "properties": {
+        "id": "way/1082331505",
+        "element_id": 1082331505,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.937225",
+        "url": "https://www.openstreetmap.org/way/1082331505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.72771343470558,
+          5.040202455910459
+        ]
+      },
+      "properties": {
+        "id": "way/1082331507",
+        "element_id": 1082331507,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.937225",
+        "url": "https://www.openstreetmap.org/way/1082331507"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.74265766364982,
+          5.050247965012487
+        ]
+      },
+      "properties": {
+        "id": "way/1082331508",
+        "element_id": 1082331508,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.937225",
+        "url": "https://www.openstreetmap.org/way/1082331508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2912841,
+          6.6733636500000015
+        ]
+      },
+      "properties": {
+        "id": "way/1082331528",
+        "element_id": 1082331528,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.938337",
+        "url": "https://www.openstreetmap.org/way/1082331528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.24848024938171,
+          6.781279670821499
+        ]
+      },
+      "properties": {
+        "id": "way/1082331530",
+        "element_id": 1082331530,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.938337",
+        "url": "https://www.openstreetmap.org/way/1082331530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.06115258170361,
+          7.016593599820828
+        ]
+      },
+      "properties": {
+        "id": "way/1082331531",
+        "element_id": 1082331531,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.939333",
+        "url": "https://www.openstreetmap.org/way/1082331531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20728535,
+          4.4241495
+        ]
+      },
+      "properties": {
+        "id": "way/1082331532",
+        "element_id": 1082331532,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.939333",
+        "url": "https://www.openstreetmap.org/way/1082331532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20728535,
+          4.4241495
+        ]
+      },
+      "properties": {
+        "id": "way/1082331532",
+        "element_id": 1082331532,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Central Hidroelectrica Mirolindo', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.939333",
+        "url": "https://www.openstreetmap.org/way/1082331532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04734202991573,
+          1.672081435499806
+        ]
+      },
+      "properties": {
+        "id": "way/1082331533",
+        "element_id": 1082331533,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.939333",
+        "url": "https://www.openstreetmap.org/way/1082331533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.49052730378534,
+          6.092690571453467
+        ]
+      },
+      "properties": {
+        "id": "way/1082331534",
+        "element_id": 1082331534,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.939333",
+        "url": "https://www.openstreetmap.org/way/1082331534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.49052730378534,
+          6.092690571453467
+        ]
+      },
+      "properties": {
+        "id": "way/1082331534",
+        "element_id": 1082331534,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'EPM', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.939333",
+        "url": "https://www.openstreetmap.org/way/1082331534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.49052730378534,
+          6.092690571453467
+        ]
+      },
+      "properties": {
+        "id": "way/1082331534",
+        "element_id": 1082331534,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'EPM', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.940334",
+        "url": "https://www.openstreetmap.org/way/1082331534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8107874,
+          5.037306549999999
+        ]
+      },
+      "properties": {
+        "id": "way/1082331536",
+        "element_id": 1082331536,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.940334",
+        "url": "https://www.openstreetmap.org/way/1082331536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8107874,
+          5.037306549999999
+        ]
+      },
+      "properties": {
+        "id": "way/1082331536",
+        "element_id": 1082331536,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.940334",
+        "url": "https://www.openstreetmap.org/way/1082331536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8107874,
+          5.037306549999999
+        ]
+      },
+      "properties": {
+        "id": "way/1082331536",
+        "element_id": 1082331536,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.940334",
+        "url": "https://www.openstreetmap.org/way/1082331536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.81267463004296,
+          5.189420797426331
+        ]
+      },
+      "properties": {
+        "id": "way/1082331537",
+        "element_id": 1082331537,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.940334",
+        "url": "https://www.openstreetmap.org/way/1082331537"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2308157,
+          7.226538599999999
+        ]
+      },
+      "properties": {
+        "id": "way/1082331538",
+        "element_id": 1082331538,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.941333",
+        "url": "https://www.openstreetmap.org/way/1082331538"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2308157,
+          7.226538599999999
+        ]
+      },
+      "properties": {
+        "id": "way/1082331538",
+        "element_id": 1082331538,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.941333",
+        "url": "https://www.openstreetmap.org/way/1082331538"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2308157,
+          7.226538599999999
+        ]
+      },
+      "properties": {
+        "id": "way/1082331538",
+        "element_id": 1082331538,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.941333",
+        "url": "https://www.openstreetmap.org/way/1082331538"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4049685747708,
+          8.942740828527862
+        ]
+      },
+      "properties": {
+        "id": "way/1144113663",
+        "element_id": 1144113663,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.941333",
+        "url": "https://www.openstreetmap.org/way/1144113663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.66258781007208,
+          2.7696508821329187
+        ]
+      },
+      "properties": {
+        "id": "way/1153254305",
+        "element_id": 1153254305,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant', 'source': 'microsoft/BuildingFootprints'}",
+        "timestamp": "2025-07-07 18:26:42.941333",
+        "url": "https://www.openstreetmap.org/way/1153254305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.66258781007208,
+          2.7696508821329187
+        ]
+      },
+      "properties": {
+        "id": "way/1153254305",
+        "element_id": 1153254305,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant', 'source': 'microsoft/BuildingFootprints'}",
+        "timestamp": "2025-07-07 18:26:42.941333",
+        "url": "https://www.openstreetmap.org/way/1153254305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63703867394103,
+          9.60242250508058
+        ]
+      },
+      "properties": {
+        "id": "way/1172264028",
+        "element_id": 1172264028,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.941333",
+        "url": "https://www.openstreetmap.org/way/1172264028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.17912549435327,
+          3.615502081382208
+        ]
+      },
+      "properties": {
+        "id": "way/1190948926",
+        "element_id": 1190948926,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Empresa De Energia Del Pacifico S.A. E.S.P', 'plant:method': 'run-of-the-river', 'plant:output:electricity': '19.9 MW', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.942334",
+        "url": "https://www.openstreetmap.org/way/1190948926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.17870095,
+          3.614166650000001
+        ]
+      },
+      "properties": {
+        "id": "way/1190948927",
+        "element_id": 1190948927,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.943333",
+        "url": "https://www.openstreetmap.org/way/1190948927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.17870095,
+          3.614166650000001
+        ]
+      },
+      "properties": {
+        "id": "way/1190948927",
+        "element_id": 1190948927,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.943333",
+        "url": "https://www.openstreetmap.org/way/1190948927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.17870095,
+          3.614166650000001
+        ]
+      },
+      "properties": {
+        "id": "way/1190948927",
+        "element_id": 1190948927,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.943333",
+        "url": "https://www.openstreetmap.org/way/1190948927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56439821252334,
+          2.45308842376618
+        ]
+      },
+      "properties": {
+        "id": "way/1191199802",
+        "element_id": 1191199802,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.943333",
+        "url": "https://www.openstreetmap.org/way/1191199802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.80542781105858,
+          2.270702371243777
+        ]
+      },
+      "properties": {
+        "id": "way/1193025849",
+        "element_id": 1193025849,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.943333",
+        "url": "https://www.openstreetmap.org/way/1193025849"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86807768975459,
+          7.075965843049213
+        ]
+      },
+      "properties": {
+        "id": "way/1211115744",
+        "element_id": 1211115744,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.944346",
+        "url": "https://www.openstreetmap.org/way/1211115744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89524001258819,
+          7.097210535534718
+        ]
+      },
+      "properties": {
+        "id": "way/1216662363",
+        "element_id": 1216662363,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'Termobarranca Power Station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.944346",
+        "url": "https://www.openstreetmap.org/way/1216662363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.68911147790001,
+          3.889808679559136
+        ]
+      },
+      "properties": {
+        "id": "way/1259315845",
+        "element_id": 1259315845,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.944346",
+        "url": "https://www.openstreetmap.org/way/1259315845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.68911147790001,
+          3.889808679559136
+        ]
+      },
+      "properties": {
+        "id": "way/1259315845",
+        "element_id": 1259315845,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.944346",
+        "url": "https://www.openstreetmap.org/way/1259315845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14900537831927,
+          6.559742413556522
+        ]
+      },
+      "properties": {
+        "id": "way/1264820643",
+        "element_id": 1264820643,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.944346",
+        "url": "https://www.openstreetmap.org/way/1264820643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88539180000001,
+          0.6832376000000001
+        ]
+      },
+      "properties": {
+        "id": "way/1265609134",
+        "element_id": 1265609134,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.945334",
+        "url": "https://www.openstreetmap.org/way/1265609134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88539180000001,
+          0.6832376000000001
+        ]
+      },
+      "properties": {
+        "id": "way/1265609134",
+        "element_id": 1265609134,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.945334",
+        "url": "https://www.openstreetmap.org/way/1265609134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06913705275367,
+          3.887726797471324
+        ]
+      },
+      "properties": {
+        "id": "way/1310630972",
+        "element_id": 1310630972,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:source': 'coal', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.945334",
+        "url": "https://www.openstreetmap.org/way/1310630972"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06913705275367,
+          3.887726797471324
+        ]
+      },
+      "properties": {
+        "id": "way/1310630972",
+        "element_id": 1310630972,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:source': 'coal', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.945334",
+        "url": "https://www.openstreetmap.org/way/1310630972"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.27747836242908,
+          9.706325822871513
+        ]
+      },
+      "properties": {
+        "id": "way/1316717486",
+        "element_id": 1316717486,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'electricidad', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.946334",
+        "url": "https://www.openstreetmap.org/way/1316717486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.21700733190781,
+          4.694301648512776
+        ]
+      },
+      "properties": {
+        "id": "way/1321941205",
+        "element_id": 1321941205,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.946334",
+        "url": "https://www.openstreetmap.org/way/1321941205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.21689591103798,
+          4.694434355497995
+        ]
+      },
+      "properties": {
+        "id": "way/1321941206",
+        "element_id": 1321941206,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.946334",
+        "url": "https://www.openstreetmap.org/way/1321941206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.91820336233278,
+          3.8765800672422857
+        ]
+      },
+      "properties": {
+        "id": "way/1324258864",
+        "element_id": 1324258864,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.947334",
+        "url": "https://www.openstreetmap.org/way/1324258864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.91820336233278,
+          3.8765800672422857
+        ]
+      },
+      "properties": {
+        "id": "way/1324258864",
+        "element_id": 1324258864,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.947334",
+        "url": "https://www.openstreetmap.org/way/1324258864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.45749005634025,
+          4.294916986515638
+        ]
+      },
+      "properties": {
+        "id": "way/1341119609",
+        "element_id": 1341119609,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.947334",
+        "url": "https://www.openstreetmap.org/way/1341119609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.41785548672536,
+          9.226509171271998
+        ]
+      },
+      "properties": {
+        "id": "way/1357910719",
+        "element_id": 1357910719,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.947334",
+        "url": "https://www.openstreetmap.org/way/1357910719"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.41785548672536,
+          9.226509171271998
+        ]
+      },
+      "properties": {
+        "id": "way/1357910719",
+        "element_id": 1357910719,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.947334",
+        "url": "https://www.openstreetmap.org/way/1357910719"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.61234963367674,
+          8.585791208348088
+        ]
+      },
+      "properties": {
+        "id": "way/1376483038",
+        "element_id": 1376483038,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "80",
+        "details": "Tag 'plant:output:electricity' has value '80' which could not be parsed",
+        "timestamp": "2025-07-07 18:26:42.948334",
+        "url": "https://www.openstreetmap.org/way/1376483038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.55570978423185,
+          5.177371300565853
+        ]
+      },
+      "properties": {
+        "id": "way/1378023881",
+        "element_id": 1378023881,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.949334",
+        "url": "https://www.openstreetmap.org/way/1378023881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.55570978423185,
+          5.177371300565853
+        ]
+      },
+      "properties": {
+        "id": "way/1378023881",
+        "element_id": 1378023881,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.949334",
+        "url": "https://www.openstreetmap.org/way/1378023881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58575049372291,
+          3.810575910259897
+        ]
+      },
+      "properties": {
+        "id": "way/1385451695",
+        "element_id": 1385451695,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.949334",
+        "url": "https://www.openstreetmap.org/way/1385451695"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4171554654215,
+          9.147475171736092
+        ]
+      },
+      "properties": {
+        "id": "way/1409437175",
+        "element_id": 1409437175,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.949334",
+        "url": "https://www.openstreetmap.org/way/1409437175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4171554654215,
+          9.147475171736092
+        ]
+      },
+      "properties": {
+        "id": "way/1409437175",
+        "element_id": 1409437175,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Parque Fotovoltaico La Tolua SAS', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.949334",
+        "url": "https://www.openstreetmap.org/way/1409437175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.70917678453229,
+          4.078566750128517
+        ]
+      },
+      "properties": {
+        "id": "way/1409439690",
+        "element_id": 1409439690,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.949334",
+        "url": "https://www.openstreetmap.org/way/1409439690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.70917678453229,
+          4.078566750128517
+        ]
+      },
+      "properties": {
+        "id": "way/1409439690",
+        "element_id": 1409439690,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.949334",
+        "url": "https://www.openstreetmap.org/way/1409439690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.70917678453229,
+          4.078566750128517
+        ]
+      },
+      "properties": {
+        "id": "way/1409439690",
+        "element_id": 1409439690,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.950334",
+        "url": "https://www.openstreetmap.org/way/1409439690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.43594084918725,
+          3.521809910340367
+        ]
+      },
+      "properties": {
+        "id": "way/1409442451",
+        "element_id": 1409442451,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.950334",
+        "url": "https://www.openstreetmap.org/way/1409442451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.43594084918725,
+          3.521809910340367
+        ]
+      },
+      "properties": {
+        "id": "way/1409442451",
+        "element_id": 1409442451,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.950334",
+        "url": "https://www.openstreetmap.org/way/1409442451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.43594084918725,
+          3.521809910340367
+        ]
+      },
+      "properties": {
+        "id": "way/1409442451",
+        "element_id": 1409442451,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.950334",
+        "url": "https://www.openstreetmap.org/way/1409442451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.03242758083546,
+          4.462681287097281
+        ]
+      },
+      "properties": {
+        "id": "way/1409444170",
+        "element_id": 1409444170,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.950334",
+        "url": "https://www.openstreetmap.org/way/1409444170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.03242758083546,
+          4.462681287097281
+        ]
+      },
+      "properties": {
+        "id": "way/1409444170",
+        "element_id": 1409444170,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.950334",
+        "url": "https://www.openstreetmap.org/way/1409444170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.03242758083546,
+          4.462681287097281
+        ]
+      },
+      "properties": {
+        "id": "way/1409444170",
+        "element_id": 1409444170,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.951334",
+        "url": "https://www.openstreetmap.org/way/1409444170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0301375968429,
+          4.211825195570284
+        ]
+      },
+      "properties": {
+        "id": "way/1409444866",
+        "element_id": 1409444866,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.951334",
+        "url": "https://www.openstreetmap.org/way/1409444866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.08979974788053,
+          4.319894809122366
+        ]
+      },
+      "properties": {
+        "id": "way/1409537504",
+        "element_id": 1409537504,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.951334",
+        "url": "https://www.openstreetmap.org/way/1409537504"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.30470507374059,
+          3.935381378326612
+        ]
+      },
+      "properties": {
+        "id": "way/1409539669",
+        "element_id": 1409539669,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.951334",
+        "url": "https://www.openstreetmap.org/way/1409539669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4286058872738,
+          3.596946584392429
+        ]
+      },
+      "properties": {
+        "id": "way/1409542539",
+        "element_id": 1409542539,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.951334",
+        "url": "https://www.openstreetmap.org/way/1409542539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.00839890318598,
+          10.66101703964014
+        ]
+      },
+      "properties": {
+        "id": "way/1410646221",
+        "element_id": 1410646221,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.952334",
+        "url": "https://www.openstreetmap.org/way/1410646221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.00839890318598,
+          10.66101703964014
+        ]
+      },
+      "properties": {
+        "id": "way/1410646221",
+        "element_id": 1410646221,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'GRANJA SOLAR IL', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.952334",
+        "url": "https://www.openstreetmap.org/way/1410646221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.26654378614124,
+          6.232680573219612
+        ]
+      },
+      "properties": {
+        "id": "way/1410844466",
+        "element_id": 1410844466,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.952334",
+        "url": "https://www.openstreetmap.org/way/1410844466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.26654378614124,
+          6.232680573219612
+        ]
+      },
+      "properties": {
+        "id": "way/1410844466",
+        "element_id": 1410844466,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.952334",
+        "url": "https://www.openstreetmap.org/way/1410844466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.26654378614124,
+          6.232680573219612
+        ]
+      },
+      "properties": {
+        "id": "way/1410844466",
+        "element_id": 1410844466,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.952334",
+        "url": "https://www.openstreetmap.org/way/1410844466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.11226939225347,
+          9.224099365132634
+        ]
+      },
+      "properties": {
+        "id": "way/1411789192",
+        "element_id": 1411789192,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.953334",
+        "url": "https://www.openstreetmap.org/way/1411789192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.11226939225347,
+          9.224099365132634
+        ]
+      },
+      "properties": {
+        "id": "way/1411789192",
+        "element_id": 1411789192,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.953334",
+        "url": "https://www.openstreetmap.org/way/1411789192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.11226939225347,
+          9.224099365132634
+        ]
+      },
+      "properties": {
+        "id": "way/1411789192",
+        "element_id": 1411789192,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.953334",
+        "url": "https://www.openstreetmap.org/way/1411789192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.36338963419188,
+          6.285235665373359
+        ]
+      },
+      "properties": {
+        "id": "way/1411790145",
+        "element_id": 1411790145,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.953334",
+        "url": "https://www.openstreetmap.org/way/1411790145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.36338963419188,
+          6.285235665373359
+        ]
+      },
+      "properties": {
+        "id": "way/1411790145",
+        "element_id": 1411790145,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.953334",
+        "url": "https://www.openstreetmap.org/way/1411790145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.36338963419188,
+          6.285235665373359
+        ]
+      },
+      "properties": {
+        "id": "way/1411790145",
+        "element_id": 1411790145,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:42.953334",
+        "url": "https://www.openstreetmap.org/way/1411790145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1088009,
+          6.2934254
+        ]
+      },
+      "properties": {
+        "id": "node/7165131965",
+        "element_id": 7165131965,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.954595",
+        "url": "https://www.openstreetmap.org/node/7165131965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.03273839913349,
+          12.233306964274314
+        ]
+      },
+      "properties": {
+        "id": "way/1412069932",
+        "element_id": 1412069932,
+        "element_type": "way",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:42.954595",
+        "url": "https://www.openstreetmap.org/way/1412069932"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4075493,
+          7.1040121
+        ]
+      },
+      "properties": {
+        "id": "node/8649113184",
+        "element_id": 8649113184,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.955594",
+        "url": "https://www.openstreetmap.org/node/8649113184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0050166,
+          6.3550368
+        ]
+      },
+      "properties": {
+        "id": "node/9919288422",
+        "element_id": 9919288422,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.955594",
+        "url": "https://www.openstreetmap.org/node/9919288422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7960905,
+          6.1953902
+        ]
+      },
+      "properties": {
+        "id": "node/9919288432",
+        "element_id": 9919288432,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:42.955594",
+        "url": "https://www.openstreetmap.org/node/9919288432"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1752108,
+          6.8379286
+        ]
+      },
+      "properties": {
+        "id": "node/9919288571",
+        "element_id": 9919288571,
+        "element_type": "node",
+        "country": "Colombia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'layer': '-1', 'location': 'underground', 'name': 'Central hidroeléctrica Porce II', 'operator': 'EPM', 'plant:output:electricity': '405 MW', 'power': 'plant', 'wikidata': 'Q19385564'}",
+        "timestamp": "2025-07-07 18:26:42.955594",
+        "url": "https://www.openstreetmap.org/node/9919288571"
+      }
+    }
+  ]
+}

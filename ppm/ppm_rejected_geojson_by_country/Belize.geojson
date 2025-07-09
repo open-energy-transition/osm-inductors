@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.93515064936463,
+          16.318618116642206
+        ]
+      },
+      "properties": {
+        "id": "way/241722689",
+        "element_id": 241722689,
+        "element_type": "way",
+        "country": "Belize",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:22.206713",
+        "url": "https://www.openstreetmap.org/way/241722689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05171688152274,
+          17.297272268585612
+        ]
+      },
+      "properties": {
+        "id": "way/1204308771",
+        "element_id": 1204308771,
+        "element_type": "way",
+        "country": "Belize",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:22.207713",
+        "url": "https://www.openstreetmap.org/way/1204308771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.04524814021464,
+          16.955061125548774
+        ]
+      },
+      "properties": {
+        "id": "way/1204311789",
+        "element_id": 1204311789,
+        "element_type": "way",
+        "country": "Belize",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:22.207713",
+        "url": "https://www.openstreetmap.org/way/1204311789"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.00357159521757,
+          17.249997350693697
+        ]
+      },
+      "properties": {
+        "id": "way/979405227",
+        "element_id": 979405227,
+        "element_type": "way",
+        "country": "Belize",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:22.207713",
+        "url": "https://www.openstreetmap.org/way/979405227"
+      }
+    }
+  ]
+}

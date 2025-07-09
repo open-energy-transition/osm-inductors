@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.35801418491484,
+          18.525188536770035
+        ]
+      },
+      "properties": {
+        "id": "way/838346782",
+        "element_id": 838346782,
+        "element_type": "way",
+        "country": "Virgin Islands, British",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:output:electricity': '125 kW', 'plant:source': 'solar', 'power': 'plant', 'source': 'Mapbox', 'source:date': '2020-08-18', 'start_date': '2015'}",
+        "timestamp": "2025-07-07 18:24:20.291265",
+        "url": "https://www.openstreetmap.org/way/838346782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.35801418491484,
+          18.525188536770035
+        ]
+      },
+      "properties": {
+        "id": "way/838346782",
+        "element_id": 838346782,
+        "element_type": "way",
+        "country": "Virgin Islands, British",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "125 kW",
+        "details": "Tag 'plant:output:electricity' has value '125 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:24:20.291265",
+        "url": "https://www.openstreetmap.org/way/838346782"
+      }
+    }
+  ]
+}

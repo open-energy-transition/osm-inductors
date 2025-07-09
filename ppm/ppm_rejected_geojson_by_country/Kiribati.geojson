@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.93068373326597,
+          1.3576545240628433
+        ]
+      },
+      "properties": {
+        "id": "way/498147326",
+        "element_id": 498147326,
+        "element_type": "way",
+        "country": "Kiribati",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Temakin', 'landuse': 'industrial', 'name': 'Public Utilities Board', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:45.170555",
+        "url": "https://www.openstreetmap.org/way/498147326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.47970263316094,
+          1.9936774048736243
+        ]
+      },
+      "properties": {
+        "id": "way/706723403",
+        "element_id": 706723403,
+        "element_type": "way",
+        "country": "Kiribati",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:45.170555",
+        "url": "https://www.openstreetmap.org/way/706723403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.47970263316094,
+          1.9936774048736243
+        ]
+      },
+      "properties": {
+        "id": "way/706723403",
+        "element_id": 706723403,
+        "element_type": "way",
+        "country": "Kiribati",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:38:45.170555",
+        "url": "https://www.openstreetmap.org/way/706723403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.14482867677668,
+          1.3845010905622654
+        ]
+      },
+      "properties": {
+        "id": "way/1176849117",
+        "element_id": 1176849117,
+        "element_type": "way",
+        "country": "Kiribati",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:45.171881",
+        "url": "https://www.openstreetmap.org/way/1176849117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.14482867677668,
+          1.3845010905622654
+        ]
+      },
+      "properties": {
+        "id": "way/1176849117",
+        "element_id": 1176849117,
+        "element_type": "way",
+        "country": "Kiribati",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:38:45.171881",
+        "url": "https://www.openstreetmap.org/way/1176849117"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3525 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.501356295796771,
+          46.075831163647685
+        ]
+      },
+      "properties": {
+        "id": "relation/15822842",
+        "element_id": 15822842,
+        "element_type": "relation",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'email': 'info@energetika.si', 'name': 'Energetika Ljubljana', 'phone': '+386 1 5889 000', 'plant:method': 'combustion', 'plant:source': 'coal', 'power': 'plant', 'type': 'multipolygon', 'website': 'https://www.energetika.si'}",
+        "timestamp": "2025-07-07 18:47:49.082217",
+        "url": "https://www.openstreetmap.org/relation/15822842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.54649460602806,
+          46.057167441587374
+        ]
+      },
+      "properties": {
+        "id": "relation/16805307",
+        "element_id": 16805307,
+        "element_type": "relation",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "coal;wood;oil",
+        "details": "Source value 'coal;wood;oil' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:47:49.086215",
+        "url": "https://www.openstreetmap.org/relation/16805307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.03368944997533,
+          46.40254526207906
+        ]
+      },
+      "properties": {
+        "id": "way/171223453",
+        "element_id": 171223453,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'HE Formin', 'operator': 'Dravske elektrarne Maribor', 'plant:method': 'run-of-the-river', 'power': 'plant', 'wikidata': 'Q12790963', 'wikipedia': 'sl:Hidroelektrarna Formin'}",
+        "timestamp": "2025-07-07 18:47:49.089586",
+        "url": "https://www.openstreetmap.org/way/171223453"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.763054601978546,
+          46.39646903702026
+        ]
+      },
+      "properties": {
+        "id": "way/171224641",
+        "element_id": 171224641,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.089586",
+        "url": "https://www.openstreetmap.org/way/171224641"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.044502301020389,
+          45.69877723350307
+        ]
+      },
+      "properties": {
+        "id": "way/314503350",
+        "element_id": 314503350,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'historic': 'building', 'power': 'plant', 'ref': '20', 'source': 'survey;infoboard'}",
+        "timestamp": "2025-07-07 18:47:49.091578",
+        "url": "https://www.openstreetmap.org/way/314503350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.044502301020389,
+          45.69877723350307
+        ]
+      },
+      "properties": {
+        "id": "way/314503350",
+        "element_id": 314503350,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'historic': 'building', 'power': 'plant', 'ref': '20', 'source': 'survey;infoboard'}",
+        "timestamp": "2025-07-07 18:47:49.091578",
+        "url": "https://www.openstreetmap.org/way/314503350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.346338559081605,
+          46.64189814220865
+        ]
+      },
+      "properties": {
+        "id": "way/325823089",
+        "element_id": 325823089,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.091578",
+        "url": "https://www.openstreetmap.org/way/325823089"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.346338559081605,
+          46.64189814220865
+        ]
+      },
+      "properties": {
+        "id": "way/325823089",
+        "element_id": 325823089,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Bioplinarna Gjerkeš Dobrovnik', 'plant:source': 'biogas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.092578",
+        "url": "https://www.openstreetmap.org/way/325823089"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.452475764113032,
+          46.56227634688367
+        ]
+      },
+      "properties": {
+        "id": "way/333950349",
+        "element_id": 333950349,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 18 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.093588",
+        "url": "https://www.openstreetmap.org/way/333950349"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.452475764113032,
+          46.56227634688367
+        ]
+      },
+      "properties": {
+        "id": "way/333950349",
+        "element_id": 333950349,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Lendava / Lendva', 'addr:city:hu': 'Lendva', 'addr:city:sl': 'Lendava', 'addr:housenumber': '5d', 'addr:postcode': '9220', 'addr:street': 'Mlinska ulica / Malom utca', 'addr:street:hu': 'Malom utca', 'addr:street:sl': 'Mlinska ulica', 'building': 'industrial', 'name': 'Petrol Geoterm', 'operator': 'Petrol', 'plant:source': 'geothermal', 'power': 'plant', 'ref:gurs:hs_mid': '16346888', 'ref:gurs:sta_sid': '23337643', 'source:addr': 'GURS', 'source:addr:date': '1995-06-06', 'type': 'hot_water'}",
+        "timestamp": "2025-07-07 18:47:49.095594",
+        "url": "https://www.openstreetmap.org/way/333950349"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.57182391221906,
+          46.09470019301204
+        ]
+      },
+      "properties": {
+        "id": "way/335189795",
+        "element_id": 335189795,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.095594",
+        "url": "https://www.openstreetmap.org/way/335189795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.57182391221906,
+          46.09470019301204
+        ]
+      },
+      "properties": {
+        "id": "way/335189795",
+        "element_id": 335189795,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.095594",
+        "url": "https://www.openstreetmap.org/way/335189795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.583234900000004,
+          46.168820450000005
+        ]
+      },
+      "properties": {
+        "id": "way/338879122",
+        "element_id": 338879122,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'name': 'RTP Kamnik', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.095594",
+        "url": "https://www.openstreetmap.org/way/338879122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.525519848937432,
+          46.14498795188664
+        ]
+      },
+      "properties": {
+        "id": "way/376301398",
+        "element_id": 376301398,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.096598",
+        "url": "https://www.openstreetmap.org/way/376301398"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.525519848937432,
+          46.14498795188664
+        ]
+      },
+      "properties": {
+        "id": "way/376301398",
+        "element_id": 376301398,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.096598",
+        "url": "https://www.openstreetmap.org/way/376301398"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.526632126966977,
+          46.142863609714695
+        ]
+      },
+      "properties": {
+        "id": "way/376301399",
+        "element_id": 376301399,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.096598",
+        "url": "https://www.openstreetmap.org/way/376301399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.526632126966977,
+          46.142863609714695
+        ]
+      },
+      "properties": {
+        "id": "way/376301399",
+        "element_id": 376301399,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.096598",
+        "url": "https://www.openstreetmap.org/way/376301399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.53734485853079,
+          46.1333058221376
+        ]
+      },
+      "properties": {
+        "id": "way/376301400",
+        "element_id": 376301400,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.096598",
+        "url": "https://www.openstreetmap.org/way/376301400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.53734485853079,
+          46.1333058221376
+        ]
+      },
+      "properties": {
+        "id": "way/376301400",
+        "element_id": 376301400,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.096598",
+        "url": "https://www.openstreetmap.org/way/376301400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.097715472081726,
+          45.81759990349477
+        ]
+      },
+      "properties": {
+        "id": "way/389628291",
+        "element_id": 389628291,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.096598",
+        "url": "https://www.openstreetmap.org/way/389628291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.097715472081726,
+          45.81759990349477
+        ]
+      },
+      "properties": {
+        "id": "way/389628291",
+        "element_id": 389628291,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'name': 'hidroelektrarna', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.098594",
+        "url": "https://www.openstreetmap.org/way/389628291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.095964783599108,
+          46.08802913249688
+        ]
+      },
+      "properties": {
+        "id": "way/402267138",
+        "element_id": 402267138,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 12 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.098594",
+        "url": "https://www.openstreetmap.org/way/402267138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.095964783599108,
+          46.08802913249688
+        ]
+      },
+      "properties": {
+        "id": "way/402267138",
+        "element_id": 402267138,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Gorenja vas', 'addr:housenumber': '12', 'addr:postcode': '4224', 'addr:street': 'Fužine', 'operator': 'ELEKTRO LJUBLJANA, PODJETJE ZA DISTRIBUCIJO ELEKTRIČNE ENERGIJE, D.D.', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant', 'ref:gurs:hs_mid': '15058897', 'ref:gurs:sta_sid': '22428053', 'source:addr': 'GURS', 'source:addr:date': '1995-01-01'}",
+        "timestamp": "2025-07-07 18:47:49.098594",
+        "url": "https://www.openstreetmap.org/way/402267138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.095964783599108,
+          46.08802913249688
+        ]
+      },
+      "properties": {
+        "id": "way/402267138",
+        "element_id": 402267138,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.098594",
+        "url": "https://www.openstreetmap.org/way/402267138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.83875760821654,
+          46.61487389474911
+        ]
+      },
+      "properties": {
+        "id": "way/406994847",
+        "element_id": 406994847,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.098594",
+        "url": "https://www.openstreetmap.org/way/406994847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.569341451336184,
+          45.94883546718699
+        ]
+      },
+      "properties": {
+        "id": "way/416874817",
+        "element_id": 416874817,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'generator:method': 'photovoltaic', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.098594",
+        "url": "https://www.openstreetmap.org/way/416874817"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.569341451336184,
+          45.94883546718699
+        ]
+      },
+      "properties": {
+        "id": "way/416874817",
+        "element_id": 416874817,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'generator:method': 'photovoltaic', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.098594",
+        "url": "https://www.openstreetmap.org/way/416874817"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.09442302601771,
+          46.43728081779516
+        ]
+      },
+      "properties": {
+        "id": "way/474361736",
+        "element_id": 474361736,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.100594",
+        "url": "https://www.openstreetmap.org/way/474361736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.09442302601771,
+          46.43728081779516
+        ]
+      },
+      "properties": {
+        "id": "way/474361736",
+        "element_id": 474361736,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.100594",
+        "url": "https://www.openstreetmap.org/way/474361736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.01975151720012,
+          46.54826766657625
+        ]
+      },
+      "properties": {
+        "id": "way/481419423",
+        "element_id": 481419423,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'power': 'plant', 'power:source': 'solar', 'source': 'GURS', 'source:date': '20040223'}",
+        "timestamp": "2025-07-07 18:47:49.100594",
+        "url": "https://www.openstreetmap.org/way/481419423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.01975151720012,
+          46.54826766657625
+        ]
+      },
+      "properties": {
+        "id": "way/481419423",
+        "element_id": 481419423,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'power': 'plant', 'power:source': 'solar', 'source': 'GURS', 'source:date': '20040223'}",
+        "timestamp": "2025-07-07 18:47:49.100594",
+        "url": "https://www.openstreetmap.org/way/481419423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0200156626975,
+          46.548055615161616
+        ]
+      },
+      "properties": {
+        "id": "way/481419485",
+        "element_id": 481419485,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.100594",
+        "url": "https://www.openstreetmap.org/way/481419485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0200156626975,
+          46.548055615161616
+        ]
+      },
+      "properties": {
+        "id": "way/481419485",
+        "element_id": 481419485,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'solar', 'power': 'plant', 'source': 'GURS', 'source:date': '20040223'}",
+        "timestamp": "2025-07-07 18:47:49.100594",
+        "url": "https://www.openstreetmap.org/way/481419485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0200156626975,
+          46.548055615161616
+        ]
+      },
+      "properties": {
+        "id": "way/481419485",
+        "element_id": 481419485,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'solar', 'power': 'plant', 'source': 'GURS', 'source:date': '20040223'}",
+        "timestamp": "2025-07-07 18:47:49.102594",
+        "url": "https://www.openstreetmap.org/way/481419485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.90563231898524,
+          45.89421709201699
+        ]
+      },
+      "properties": {
+        "id": "way/491569965",
+        "element_id": 491569965,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 14 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.102594",
+        "url": "https://www.openstreetmap.org/way/491569965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.90563231898524,
+          45.89421709201699
+        ]
+      },
+      "properties": {
+        "id": "way/491569965",
+        "element_id": 491569965,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "2100 kW",
+        "details": "Tag 'plant:output:electricity' has value '2100 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:47:49.102594",
+        "url": "https://www.openstreetmap.org/way/491569965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.884948831925298,
+          46.36112655574892
+        ]
+      },
+      "properties": {
+        "id": "way/493032030",
+        "element_id": 493032030,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.102594",
+        "url": "https://www.openstreetmap.org/way/493032030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.82232795252588,
+          46.28403805040432
+        ]
+      },
+      "properties": {
+        "id": "way/511023058",
+        "element_id": 511023058,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.102594",
+        "url": "https://www.openstreetmap.org/way/511023058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.82232795252588,
+          46.28403805040432
+        ]
+      },
+      "properties": {
+        "id": "way/511023058",
+        "element_id": 511023058,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'man_made': 'water_works', 'name': 'HE Savica', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.104594",
+        "url": "https://www.openstreetmap.org/way/511023058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.02120682588834,
+          46.54681342218348
+        ]
+      },
+      "properties": {
+        "id": "way/511151660",
+        "element_id": 511151660,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.104594",
+        "url": "https://www.openstreetmap.org/way/511151660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.02120682588834,
+          46.54681342218348
+        ]
+      },
+      "properties": {
+        "id": "way/511151660",
+        "element_id": 511151660,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'solar', 'power': 'plant', 'source': 'GURS', 'source:date': '20040223'}",
+        "timestamp": "2025-07-07 18:47:49.104594",
+        "url": "https://www.openstreetmap.org/way/511151660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.02120682588834,
+          46.54681342218348
+        ]
+      },
+      "properties": {
+        "id": "way/511151660",
+        "element_id": 511151660,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'solar', 'power': 'plant', 'source': 'GURS', 'source:date': '20040223'}",
+        "timestamp": "2025-07-07 18:47:49.106671",
+        "url": "https://www.openstreetmap.org/way/511151660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.020675450000002,
+          46.54686255
+        ]
+      },
+      "properties": {
+        "id": "way/511151661",
+        "element_id": 511151661,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.106671",
+        "url": "https://www.openstreetmap.org/way/511151661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.020675450000002,
+          46.54686255
+        ]
+      },
+      "properties": {
+        "id": "way/511151661",
+        "element_id": 511151661,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'solar', 'power': 'plant', 'source': 'GURS', 'source:date': '20040223'}",
+        "timestamp": "2025-07-07 18:47:49.106671",
+        "url": "https://www.openstreetmap.org/way/511151661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.020675450000002,
+          46.54686255
+        ]
+      },
+      "properties": {
+        "id": "way/511151661",
+        "element_id": 511151661,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'solar', 'power': 'plant', 'source': 'GURS', 'source:date': '20040223'}",
+        "timestamp": "2025-07-07 18:47:49.107671",
+        "url": "https://www.openstreetmap.org/way/511151661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.212077123672666,
+          45.76836471774339
+        ]
+      },
+      "properties": {
+        "id": "way/538070910",
+        "element_id": 538070910,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.108671",
+        "url": "https://www.openstreetmap.org/way/538070910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.212077123672666,
+          45.76836471774339
+        ]
+      },
+      "properties": {
+        "id": "way/538070910",
+        "element_id": 538070910,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Toplarna', 'operator': 'Energetika Dolenc', 'plant:output:heat': '2 MW', 'plant:source': 'biomass', 'power': 'plant', 'start_date': '2011'}",
+        "timestamp": "2025-07-07 18:47:49.109671",
+        "url": "https://www.openstreetmap.org/way/538070910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.831233546768694,
+          46.35011850821096
+        ]
+      },
+      "properties": {
+        "id": "way/596051923",
+        "element_id": 596051923,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.109671",
+        "url": "https://www.openstreetmap.org/way/596051923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.831233546768694,
+          46.35011850821096
+        ]
+      },
+      "properties": {
+        "id": "way/596051923",
+        "element_id": 596051923,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.109671",
+        "url": "https://www.openstreetmap.org/way/596051923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.481542986973698,
+          45.97484581915631
+        ]
+      },
+      "properties": {
+        "id": "way/651093189",
+        "element_id": 651093189,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.109671",
+        "url": "https://www.openstreetmap.org/way/651093189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.481542986973698,
+          45.97484581915631
+        ]
+      },
+      "properties": {
+        "id": "way/651093189",
+        "element_id": 651093189,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.109671",
+        "url": "https://www.openstreetmap.org/way/651093189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.02966766417699,
+          46.00044275318284
+        ]
+      },
+      "properties": {
+        "id": "way/724720717",
+        "element_id": 724720717,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.110671",
+        "url": "https://www.openstreetmap.org/way/724720717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.02966766417699,
+          46.00044275318284
+        ]
+      },
+      "properties": {
+        "id": "way/724720717",
+        "element_id": 724720717,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.110671",
+        "url": "https://www.openstreetmap.org/way/724720717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.029845,
+          46.0210736
+        ]
+      },
+      "properties": {
+        "id": "way/725005110",
+        "element_id": 725005110,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 15 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.110671",
+        "url": "https://www.openstreetmap.org/way/725005110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.029845,
+          46.0210736
+        ]
+      },
+      "properties": {
+        "id": "way/725005110",
+        "element_id": 725005110,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.110671",
+        "url": "https://www.openstreetmap.org/way/725005110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.474198656342702,
+          46.02346332549124
+        ]
+      },
+      "properties": {
+        "id": "way/757705442",
+        "element_id": 757705442,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.111673",
+        "url": "https://www.openstreetmap.org/way/757705442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.151102171404604,
+          45.66747472787536
+        ]
+      },
+      "properties": {
+        "id": "way/757850233",
+        "element_id": 757850233,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.111673",
+        "url": "https://www.openstreetmap.org/way/757850233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.151102171404604,
+          45.66747472787536
+        ]
+      },
+      "properties": {
+        "id": "way/757850233",
+        "element_id": 757850233,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "1226 kW",
+        "details": "Tag 'plant:output:electricity' has value '1226 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:47:49.111673",
+        "url": "https://www.openstreetmap.org/way/757850233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.724411558298817,
+          46.58317909066369
+        ]
+      },
+      "properties": {
+        "id": "way/773842620",
+        "element_id": 773842620,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.111673",
+        "url": "https://www.openstreetmap.org/way/773842620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.724411558298817,
+          46.58317909066369
+        ]
+      },
+      "properties": {
+        "id": "way/773842620",
+        "element_id": 773842620,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'name': 'Sončna elektrarna', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.113671",
+        "url": "https://www.openstreetmap.org/way/773842620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.610437922153205,
+          46.20451791393136
+        ]
+      },
+      "properties": {
+        "id": "way/833618970",
+        "element_id": 833618970,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'amenity': 'parking', 'covered': 'yes', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.113671",
+        "url": "https://www.openstreetmap.org/way/833618970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.610437922153205,
+          46.20451791393136
+        ]
+      },
+      "properties": {
+        "id": "way/833618970",
+        "element_id": 833618970,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.113671",
+        "url": "https://www.openstreetmap.org/way/833618970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.184785277383613,
+          46.44748952964
+        ]
+      },
+      "properties": {
+        "id": "way/869467608",
+        "element_id": 869467608,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.114671",
+        "url": "https://www.openstreetmap.org/way/869467608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.184785277383613,
+          46.44748952964
+        ]
+      },
+      "properties": {
+        "id": "way/869467608",
+        "element_id": 869467608,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.114671",
+        "url": "https://www.openstreetmap.org/way/869467608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.184785277383613,
+          46.44748952964
+        ]
+      },
+      "properties": {
+        "id": "way/869467608",
+        "element_id": 869467608,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.114671",
+        "url": "https://www.openstreetmap.org/way/869467608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.563506620392504,
+          46.0502433355726
+        ]
+      },
+      "properties": {
+        "id": "way/905037798",
+        "element_id": 905037798,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.114671",
+        "url": "https://www.openstreetmap.org/way/905037798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.563506620392504,
+          46.0502433355726
+        ]
+      },
+      "properties": {
+        "id": "way/905037798",
+        "element_id": 905037798,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.114671",
+        "url": "https://www.openstreetmap.org/way/905037798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.40932206181716,
+          45.99854200762065
+        ]
+      },
+      "properties": {
+        "id": "way/915201413",
+        "element_id": 915201413,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.114671",
+        "url": "https://www.openstreetmap.org/way/915201413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.40932206181716,
+          45.99854200762065
+        ]
+      },
+      "properties": {
+        "id": "way/915201413",
+        "element_id": 915201413,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.114671",
+        "url": "https://www.openstreetmap.org/way/915201413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.480113334863931,
+          45.99781219722564
+        ]
+      },
+      "properties": {
+        "id": "way/916735193",
+        "element_id": 916735193,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.114671",
+        "url": "https://www.openstreetmap.org/way/916735193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.062523314250653,
+          46.31298787649524
+        ]
+      },
+      "properties": {
+        "id": "way/960661733",
+        "element_id": 960661733,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 11 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.114671",
+        "url": "https://www.openstreetmap.org/way/960661733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.062523314250653,
+          46.31298787649524
+        ]
+      },
+      "properties": {
+        "id": "way/960661733",
+        "element_id": 960661733,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Bohinjska Bela', 'addr:housenumber': '16', 'addr:postcode': '4263', 'addr:street': 'Obrne', 'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant', 'ref:gurs:hs_mid': '14462252', 'ref:gurs:sta_sid': '25591227', 'source:addr': 'GURS'}",
+        "timestamp": "2025-07-07 18:47:49.114671",
+        "url": "https://www.openstreetmap.org/way/960661733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.062523314250653,
+          46.31298787649524
+        ]
+      },
+      "properties": {
+        "id": "way/960661733",
+        "element_id": 960661733,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.114671",
+        "url": "https://www.openstreetmap.org/way/960661733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.06268202775498,
+          46.313300956608416
+        ]
+      },
+      "properties": {
+        "id": "way/960661734",
+        "element_id": 960661734,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.115671",
+        "url": "https://www.openstreetmap.org/way/960661734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.06268202775498,
+          46.313300956608416
+        ]
+      },
+      "properties": {
+        "id": "way/960661734",
+        "element_id": 960661734,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.115671",
+        "url": "https://www.openstreetmap.org/way/960661734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.973299067216466,
+          45.80672293320358
+        ]
+      },
+      "properties": {
+        "id": "way/1044437944",
+        "element_id": 1044437944,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.116671",
+        "url": "https://www.openstreetmap.org/way/1044437944"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.973299067216466,
+          45.80672293320358
+        ]
+      },
+      "properties": {
+        "id": "way/1044437944",
+        "element_id": 1044437944,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.116671",
+        "url": "https://www.openstreetmap.org/way/1044437944"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.974834022783227,
+          45.80593081678265
+        ]
+      },
+      "properties": {
+        "id": "way/1044437945",
+        "element_id": 1044437945,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.116671",
+        "url": "https://www.openstreetmap.org/way/1044437945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.974834022783227,
+          45.80593081678265
+        ]
+      },
+      "properties": {
+        "id": "way/1044437945",
+        "element_id": 1044437945,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.116671",
+        "url": "https://www.openstreetmap.org/way/1044437945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.838340913089988,
+          46.19035401735243
+        ]
+      },
+      "properties": {
+        "id": "way/1051331224",
+        "element_id": 1051331224,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 17 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.116671",
+        "url": "https://www.openstreetmap.org/way/1051331224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.838340913089988,
+          46.19035401735243
+        ]
+      },
+      "properties": {
+        "id": "way/1051331224",
+        "element_id": 1051331224,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "850 kW",
+        "details": "Tag 'plant:output:electricity' has value '850 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:47:49.116671",
+        "url": "https://www.openstreetmap.org/way/1051331224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.828745789380772,
+          46.216073066219664
+        ]
+      },
+      "properties": {
+        "id": "way/1051331245",
+        "element_id": 1051331245,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 14 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.116671",
+        "url": "https://www.openstreetmap.org/way/1051331245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.828745789380772,
+          46.216073066219664
+        ]
+      },
+      "properties": {
+        "id": "way/1051331245",
+        "element_id": 1051331245,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "100 kW",
+        "details": "Tag 'plant:output:electricity' has value '100 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:47:49.116671",
+        "url": "https://www.openstreetmap.org/way/1051331245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.827010169985083,
+          46.48736140619331
+        ]
+      },
+      "properties": {
+        "id": "way/1077752297",
+        "element_id": 1077752297,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.117677",
+        "url": "https://www.openstreetmap.org/way/1077752297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.827010169985083,
+          46.48736140619331
+        ]
+      },
+      "properties": {
+        "id": "way/1077752297",
+        "element_id": 1077752297,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.117677",
+        "url": "https://www.openstreetmap.org/way/1077752297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.827020637224374,
+          46.48721805523558
+        ]
+      },
+      "properties": {
+        "id": "way/1077752298",
+        "element_id": 1077752298,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.117677",
+        "url": "https://www.openstreetmap.org/way/1077752298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.827020637224374,
+          46.48721805523558
+        ]
+      },
+      "properties": {
+        "id": "way/1077752298",
+        "element_id": 1077752298,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.117677",
+        "url": "https://www.openstreetmap.org/way/1077752298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.827044646650636,
+          46.48656472940293
+        ]
+      },
+      "properties": {
+        "id": "way/1077752299",
+        "element_id": 1077752299,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.117677",
+        "url": "https://www.openstreetmap.org/way/1077752299"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.827044646650636,
+          46.48656472940293
+        ]
+      },
+      "properties": {
+        "id": "way/1077752299",
+        "element_id": 1077752299,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.117677",
+        "url": "https://www.openstreetmap.org/way/1077752299"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.827009672183475,
+          46.48642290009863
+        ]
+      },
+      "properties": {
+        "id": "way/1077752300",
+        "element_id": 1077752300,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.117677",
+        "url": "https://www.openstreetmap.org/way/1077752300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.827009672183475,
+          46.48642290009863
+        ]
+      },
+      "properties": {
+        "id": "way/1077752300",
+        "element_id": 1077752300,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.117677",
+        "url": "https://www.openstreetmap.org/way/1077752300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.602819300000002,
+          46.26380425000001
+        ]
+      },
+      "properties": {
+        "id": "way/1090278619",
+        "element_id": 1090278619,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.117677",
+        "url": "https://www.openstreetmap.org/way/1090278619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.602819300000002,
+          46.26380425000001
+        ]
+      },
+      "properties": {
+        "id": "way/1090278619",
+        "element_id": 1090278619,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.117677",
+        "url": "https://www.openstreetmap.org/way/1090278619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.602819300000002,
+          46.26380425000001
+        ]
+      },
+      "properties": {
+        "id": "way/1090278619",
+        "element_id": 1090278619,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.117677",
+        "url": "https://www.openstreetmap.org/way/1090278619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.906479180542023,
+          46.619609227859655
+        ]
+      },
+      "properties": {
+        "id": "way/1105372479",
+        "element_id": 1105372479,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.117677",
+        "url": "https://www.openstreetmap.org/way/1105372479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.906479180542023,
+          46.619609227859655
+        ]
+      },
+      "properties": {
+        "id": "way/1105372479",
+        "element_id": 1105372479,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.117677",
+        "url": "https://www.openstreetmap.org/way/1105372479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.47205980230675,
+          46.11231702347192
+        ]
+      },
+      "properties": {
+        "id": "way/1105372999",
+        "element_id": 1105372999,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.117677",
+        "url": "https://www.openstreetmap.org/way/1105372999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.47205980230675,
+          46.11231702347192
+        ]
+      },
+      "properties": {
+        "id": "way/1105372999",
+        "element_id": 1105372999,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.117677",
+        "url": "https://www.openstreetmap.org/way/1105372999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.524509594391462,
+          46.14473431868582
+        ]
+      },
+      "properties": {
+        "id": "way/1105373267",
+        "element_id": 1105373267,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.118672",
+        "url": "https://www.openstreetmap.org/way/1105373267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.524509594391462,
+          46.14473431868582
+        ]
+      },
+      "properties": {
+        "id": "way/1105373267",
+        "element_id": 1105373267,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.118672",
+        "url": "https://www.openstreetmap.org/way/1105373267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.55599469197015,
+          46.37778324400168
+        ]
+      },
+      "properties": {
+        "id": "way/1105374886",
+        "element_id": 1105374886,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.118672",
+        "url": "https://www.openstreetmap.org/way/1105374886"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.55599469197015,
+          46.37778324400168
+        ]
+      },
+      "properties": {
+        "id": "way/1105374886",
+        "element_id": 1105374886,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.118672",
+        "url": "https://www.openstreetmap.org/way/1105374886"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.196966568408445,
+          46.59343284753904
+        ]
+      },
+      "properties": {
+        "id": "way/1134034634",
+        "element_id": 1134034634,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.118672",
+        "url": "https://www.openstreetmap.org/way/1134034634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.196966568408445,
+          46.59343284753904
+        ]
+      },
+      "properties": {
+        "id": "way/1134034634",
+        "element_id": 1134034634,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'waste', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.118672",
+        "url": "https://www.openstreetmap.org/way/1134034634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.196966568408445,
+          46.59343284753904
+        ]
+      },
+      "properties": {
+        "id": "way/1134034634",
+        "element_id": 1134034634,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'waste', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.120671",
+        "url": "https://www.openstreetmap.org/way/1134034634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.19640136370329,
+          46.59304607640348
+        ]
+      },
+      "properties": {
+        "id": "way/1134034635",
+        "element_id": 1134034635,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.120671",
+        "url": "https://www.openstreetmap.org/way/1134034635"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.19640136370329,
+          46.59304607640348
+        ]
+      },
+      "properties": {
+        "id": "way/1134034635",
+        "element_id": 1134034635,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'waste', 'power': 'plant', 'ref:gurs:sta_sid': '23318270'}",
+        "timestamp": "2025-07-07 18:47:49.120671",
+        "url": "https://www.openstreetmap.org/way/1134034635"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.19640136370329,
+          46.59304607640348
+        ]
+      },
+      "properties": {
+        "id": "way/1134034635",
+        "element_id": 1134034635,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'waste', 'power': 'plant', 'ref:gurs:sta_sid': '23318270'}",
+        "timestamp": "2025-07-07 18:47:49.122677",
+        "url": "https://www.openstreetmap.org/way/1134034635"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.194003550353337,
+          46.52234584876333
+        ]
+      },
+      "properties": {
+        "id": "way/1150112852",
+        "element_id": 1150112852,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Ljutomer', 'addr:housenumber': '19a', 'addr:postcode': '9240', 'addr:street': 'Prešernova ulica', 'plant:method': 'photovoltaic', 'plant:output:electricity': '7 kW', 'plant:source': 'solar', 'power': 'plant', 'start_date': '1.2.2023'}",
+        "timestamp": "2025-07-07 18:47:49.122677",
+        "url": "https://www.openstreetmap.org/way/1150112852"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.194003550353337,
+          46.52234584876333
+        ]
+      },
+      "properties": {
+        "id": "way/1150112852",
+        "element_id": 1150112852,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "7 kW",
+        "details": "Tag 'plant:output:electricity' has value '7 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:47:49.122677",
+        "url": "https://www.openstreetmap.org/way/1150112852"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.19387307493616,
+          46.52242823388984
+        ]
+      },
+      "properties": {
+        "id": "way/1150113047",
+        "element_id": 1150113047,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': '8 kW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.122677",
+        "url": "https://www.openstreetmap.org/way/1150113047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.19387307493616,
+          46.52242823388984
+        ]
+      },
+      "properties": {
+        "id": "way/1150113047",
+        "element_id": 1150113047,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "8 kW",
+        "details": "Tag 'plant:output:electricity' has value '8 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:47:49.122677",
+        "url": "https://www.openstreetmap.org/way/1150113047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.542775474796448,
+          46.058161956690114
+        ]
+      },
+      "properties": {
+        "id": "way/1155452067",
+        "element_id": 1155452067,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.122677",
+        "url": "https://www.openstreetmap.org/way/1155452067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.542775474796448,
+          46.058161956690114
+        ]
+      },
+      "properties": {
+        "id": "way/1155452067",
+        "element_id": 1155452067,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.122677",
+        "url": "https://www.openstreetmap.org/way/1155452067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.787828216329093,
+          46.448690666958655
+        ]
+      },
+      "properties": {
+        "id": "way/1169422542",
+        "element_id": 1169422542,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.123678",
+        "url": "https://www.openstreetmap.org/way/1169422542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.788984904614344,
+          46.44858665667941
+        ]
+      },
+      "properties": {
+        "id": "way/1169422544",
+        "element_id": 1169422544,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.123678",
+        "url": "https://www.openstreetmap.org/way/1169422544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.788480286252453,
+          46.44841432781183
+        ]
+      },
+      "properties": {
+        "id": "way/1169422545",
+        "element_id": 1169422545,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.123678",
+        "url": "https://www.openstreetmap.org/way/1169422545"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.785962975273334,
+          46.447327812493896
+        ]
+      },
+      "properties": {
+        "id": "way/1169422546",
+        "element_id": 1169422546,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.123678",
+        "url": "https://www.openstreetmap.org/way/1169422546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.78632342994946,
+          46.44719015132928
+        ]
+      },
+      "properties": {
+        "id": "way/1169423832",
+        "element_id": 1169423832,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.124677",
+        "url": "https://www.openstreetmap.org/way/1169423832"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.230274969391083,
+          46.672902607884296
+        ]
+      },
+      "properties": {
+        "id": "way/1180653427",
+        "element_id": 1180653427,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.125677",
+        "url": "https://www.openstreetmap.org/way/1180653427"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.230274969391083,
+          46.672902607884296
+        ]
+      },
+      "properties": {
+        "id": "way/1180653427",
+        "element_id": 1180653427,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.125677",
+        "url": "https://www.openstreetmap.org/way/1180653427"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.642771324600442,
+          46.0987518118955
+        ]
+      },
+      "properties": {
+        "id": "way/1200820691",
+        "element_id": 1200820691,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.125677",
+        "url": "https://www.openstreetmap.org/way/1200820691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.642771324600442,
+          46.0987518118955
+        ]
+      },
+      "properties": {
+        "id": "way/1200820691",
+        "element_id": 1200820691,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Soške elektrarne Nova Gorica d.o.o.', 'operator:abbr': 'SENG', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.125677",
+        "url": "https://www.openstreetmap.org/way/1200820691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.642771324600442,
+          46.0987518118955
+        ]
+      },
+      "properties": {
+        "id": "way/1200820691",
+        "element_id": 1200820691,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.125677",
+        "url": "https://www.openstreetmap.org/way/1200820691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.64277131651496,
+          46.09892949072403
+        ]
+      },
+      "properties": {
+        "id": "way/1200820692",
+        "element_id": 1200820692,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.125677",
+        "url": "https://www.openstreetmap.org/way/1200820692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.64277131651496,
+          46.09892949072403
+        ]
+      },
+      "properties": {
+        "id": "way/1200820692",
+        "element_id": 1200820692,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Soške elektrarne Nova Gorica d.o.o.', 'operator:abbr': 'SENG', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.125677",
+        "url": "https://www.openstreetmap.org/way/1200820692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.64277131651496,
+          46.09892949072403
+        ]
+      },
+      "properties": {
+        "id": "way/1200820692",
+        "element_id": 1200820692,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.125677",
+        "url": "https://www.openstreetmap.org/way/1200820692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.421710831504106,
+          46.28913636338923
+        ]
+      },
+      "properties": {
+        "id": "way/1206565341",
+        "element_id": 1206565341,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'waste', 'power': 'plant', 'ref:gurs:sta_sid': '32694777'}",
+        "timestamp": "2025-07-07 18:47:49.125677",
+        "url": "https://www.openstreetmap.org/way/1206565341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.421710831504106,
+          46.28913636338923
+        ]
+      },
+      "properties": {
+        "id": "way/1206565341",
+        "element_id": 1206565341,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.125677",
+        "url": "https://www.openstreetmap.org/way/1206565341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8060409279224,
+          46.116184999499424
+        ]
+      },
+      "properties": {
+        "id": "way/1224581791",
+        "element_id": 1224581791,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.126677",
+        "url": "https://www.openstreetmap.org/way/1224581791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8060409279224,
+          46.116184999499424
+        ]
+      },
+      "properties": {
+        "id": "way/1224581791",
+        "element_id": 1224581791,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "310 kW",
+        "details": "Tag 'plant:output:electricity' has value '310 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:47:49.126677",
+        "url": "https://www.openstreetmap.org/way/1224581791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.78102805084418,
+          46.47598200636276
+        ]
+      },
+      "properties": {
+        "id": "way/1248219191",
+        "element_id": 1248219191,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 11 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.126677",
+        "url": "https://www.openstreetmap.org/way/1248219191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.78102805084418,
+          46.47598200636276
+        ]
+      },
+      "properties": {
+        "id": "way/1248219191",
+        "element_id": 1248219191,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.126677",
+        "url": "https://www.openstreetmap.org/way/1248219191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.925653294218597,
+          46.3875433348477
+        ]
+      },
+      "properties": {
+        "id": "way/1250407944",
+        "element_id": 1250407944,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'mHE Markovci', 'operator': 'DEM d.o.o.', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.127677",
+        "url": "https://www.openstreetmap.org/way/1250407944"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.92750080582649,
+          46.388552789374366
+        ]
+      },
+      "properties": {
+        "id": "way/1250414047",
+        "element_id": 1250414047,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'mHE Rogoznica', 'operator': 'DEM d.o.o.', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.127677",
+        "url": "https://www.openstreetmap.org/way/1250414047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.673643027325085,
+          46.56018259335864
+        ]
+      },
+      "properties": {
+        "id": "way/1250436908",
+        "element_id": 1250436908,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Jez Melje in mala hidroelektrarna Melje', 'operator': 'Dravske elektrarne Maribor', 'operator:short': 'DEM', 'operator:wikidata': 'Q20523891', 'plant:method': 'run-of-the-river', 'plant:output:electricity': '2 MW', 'power': 'plant', 'website': 'https://www.dem.si/en/power-plants-and-generation-of-electricity/power-plants-/?id=2019090409143306', 'wikidata': 'Q12795549', 'wikipedia': 'sl:Mala hidroelektrarna Melje'}",
+        "timestamp": "2025-07-07 18:47:49.127677",
+        "url": "https://www.openstreetmap.org/way/1250436908"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.66701218102077,
+          46.705809645653815
+        ]
+      },
+      "properties": {
+        "id": "way/1250693694",
+        "element_id": 1250693694,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'mHE Ceršak', 'operator': 'DEM d.o.o.', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.127677",
+        "url": "https://www.openstreetmap.org/way/1250693694"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.74721847823275,
+          46.18392358497501
+        ]
+      },
+      "properties": {
+        "id": "way/1271165007",
+        "element_id": 1271165007,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.128677",
+        "url": "https://www.openstreetmap.org/way/1271165007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.74721847823275,
+          46.18392358497501
+        ]
+      },
+      "properties": {
+        "id": "way/1271165007",
+        "element_id": 1271165007,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.128677",
+        "url": "https://www.openstreetmap.org/way/1271165007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5892776,
+          46.24160989999999
+        ]
+      },
+      "properties": {
+        "id": "way/1277779101",
+        "element_id": 1277779101,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.128677",
+        "url": "https://www.openstreetmap.org/way/1277779101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5892776,
+          46.24160989999999
+        ]
+      },
+      "properties": {
+        "id": "way/1277779101",
+        "element_id": 1277779101,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'waste', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.128677",
+        "url": "https://www.openstreetmap.org/way/1277779101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5892776,
+          46.24160989999999
+        ]
+      },
+      "properties": {
+        "id": "way/1277779101",
+        "element_id": 1277779101,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'waste', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.129677",
+        "url": "https://www.openstreetmap.org/way/1277779101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.642397347125028,
+          46.09943617064437
+        ]
+      },
+      "properties": {
+        "id": "way/1277903235",
+        "element_id": 1277903235,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.129677",
+        "url": "https://www.openstreetmap.org/way/1277903235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.642397347125028,
+          46.09943617064437
+        ]
+      },
+      "properties": {
+        "id": "way/1277903235",
+        "element_id": 1277903235,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'construction_date': '1940', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant', 'ref:gurs:sta_sid': '31462895', 'source:construction_date': 'GURS', 'source:geometry': 'GURS'}",
+        "timestamp": "2025-07-07 18:47:49.129677",
+        "url": "https://www.openstreetmap.org/way/1277903235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.642397347125028,
+          46.09943617064437
+        ]
+      },
+      "properties": {
+        "id": "way/1277903235",
+        "element_id": 1277903235,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.130884",
+        "url": "https://www.openstreetmap.org/way/1277903235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8708748,
+          46.17067935000001
+        ]
+      },
+      "properties": {
+        "id": "way/1299194636",
+        "element_id": 1299194636,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.130884",
+        "url": "https://www.openstreetmap.org/way/1299194636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8708748,
+          46.17067935000001
+        ]
+      },
+      "properties": {
+        "id": "way/1299194636",
+        "element_id": 1299194636,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.130884",
+        "url": "https://www.openstreetmap.org/way/1299194636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.644922028417984,
+          45.9560106145177
+        ]
+      },
+      "properties": {
+        "id": "way/1314016837",
+        "element_id": 1314016837,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.130884",
+        "url": "https://www.openstreetmap.org/way/1314016837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.644922028417984,
+          45.9560106145177
+        ]
+      },
+      "properties": {
+        "id": "way/1314016837",
+        "element_id": 1314016837,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'combustion', 'height': '2.5', 'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.130884",
+        "url": "https://www.openstreetmap.org/way/1314016837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.644922028417984,
+          45.9560106145177
+        ]
+      },
+      "properties": {
+        "id": "way/1314016837",
+        "element_id": 1314016837,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.130884",
+        "url": "https://www.openstreetmap.org/way/1314016837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.039046095249915,
+          46.40370486467756
+        ]
+      },
+      "properties": {
+        "id": "way/1323352475",
+        "element_id": 1323352475,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'construction_date': '2000', 'plant:method': 'photovoltaic', 'plant:output:electricity': '2 kW', 'plant:source': 'solar', 'power': 'plant', 'ref:gurs:sta_sid': '31210731'}",
+        "timestamp": "2025-07-07 18:47:49.130884",
+        "url": "https://www.openstreetmap.org/way/1323352475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.039046095249915,
+          46.40370486467756
+        ]
+      },
+      "properties": {
+        "id": "way/1323352475",
+        "element_id": 1323352475,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "2 kW",
+        "details": "Tag 'plant:output:electricity' has value '2 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:47:49.130884",
+        "url": "https://www.openstreetmap.org/way/1323352475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.667889866619827,
+          45.90164691847284
+        ]
+      },
+      "properties": {
+        "id": "way/1338691750",
+        "element_id": 1338691750,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.130884",
+        "url": "https://www.openstreetmap.org/way/1338691750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.667889866619827,
+          45.90164691847284
+        ]
+      },
+      "properties": {
+        "id": "way/1338691750",
+        "element_id": 1338691750,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:49.130884",
+        "url": "https://www.openstreetmap.org/way/1338691750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.193542789880569,
+          45.53588687817146
+        ]
+      },
+      "properties": {
+        "id": "way/1343176752",
+        "element_id": 1343176752,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.131894",
+        "url": "https://www.openstreetmap.org/way/1343176752"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.193542789880569,
+          45.53588687817146
+        ]
+      },
+      "properties": {
+        "id": "way/1343176752",
+        "element_id": 1343176752,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "546 kW",
+        "details": "Tag 'plant:output:electricity' has value '546 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:47:49.131894",
+        "url": "https://www.openstreetmap.org/way/1343176752"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9866800206475,
+          46.13376775541313
+        ]
+      },
+      "properties": {
+        "id": "way/1350441460",
+        "element_id": 1350441460,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 12 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:49.131894",
+        "url": "https://www.openstreetmap.org/way/1350441460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9866800206475,
+          46.13376775541313
+        ]
+      },
+      "properties": {
+        "id": "way/1350441460",
+        "element_id": 1350441460,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "436 kW",
+        "details": "Tag 'plant:output:electricity' has value '436 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:47:49.131894",
+        "url": "https://www.openstreetmap.org/way/1350441460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.986682919436523,
+          46.13376683253853
+        ]
+      },
+      "properties": {
+        "id": "way/1350441461",
+        "element_id": 1350441461,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.131894",
+        "url": "https://www.openstreetmap.org/way/1350441461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.986682919436523,
+          46.13376683253853
+        ]
+      },
+      "properties": {
+        "id": "way/1350441461",
+        "element_id": 1350441461,
+        "element_type": "way",
+        "country": "Slovenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:49.131894",
+        "url": "https://www.openstreetmap.org/way/1350441461"
+      }
+    }
+  ]
+}

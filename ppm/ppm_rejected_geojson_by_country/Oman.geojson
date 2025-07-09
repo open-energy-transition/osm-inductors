@@ -1,0 +1,379 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.72210948565309,
+          21.3703178362986
+        ]
+      },
+      "properties": {
+        "id": "way/303315258",
+        "element_id": 303315258,
+        "element_type": "way",
+        "country": "Oman",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': '60 MW', 'plant:source': 'gas', 'power': 'plant', 'wikidata': 'Q97177516'}",
+        "timestamp": "2025-07-07 18:43:37.564050",
+        "url": "https://www.openstreetmap.org/way/303315258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.03218816831311,
+          22.156984699217936
+        ]
+      },
+      "properties": {
+        "id": "way/384902261",
+        "element_id": 384902261,
+        "element_type": "way",
+        "country": "Oman",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'fixme': 'name', 'name': 'Yibal Power Plant', 'plant:method': 'combustion', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:37.568052",
+        "url": "https://www.openstreetmap.org/way/384902261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.41353573577423,
+          23.6019315978853
+        ]
+      },
+      "properties": {
+        "id": "way/386838289",
+        "element_id": 386838289,
+        "element_type": "way",
+        "country": "Oman",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:37.569319",
+        "url": "https://www.openstreetmap.org/way/386838289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.8925996812091,
+          17.25385731388342
+        ]
+      },
+      "properties": {
+        "id": "way/547965448",
+        "element_id": 547965448,
+        "element_type": "way",
+        "country": "Oman",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:37.570328",
+        "url": "https://www.openstreetmap.org/way/547965448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.8925996812091,
+          17.25385731388342
+        ]
+      },
+      "properties": {
+        "id": "way/547965448",
+        "element_id": 547965448,
+        "element_type": "way",
+        "country": "Oman",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:37.570328",
+        "url": "https://www.openstreetmap.org/way/547965448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.40520444112151,
+          22.65948287855465
+        ]
+      },
+      "properties": {
+        "id": "way/943363067",
+        "element_id": 943363067,
+        "element_type": "way",
+        "country": "Oman",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:37.572328",
+        "url": "https://www.openstreetmap.org/way/943363067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.678778816625616,
+          19.735843410112047
+        ]
+      },
+      "properties": {
+        "id": "way/964275930",
+        "element_id": 964275930,
+        "element_type": "way",
+        "country": "Oman",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:37.572328",
+        "url": "https://www.openstreetmap.org/way/964275930"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.684486161871305,
+          18.349166968379727
+        ]
+      },
+      "properties": {
+        "id": "way/965919569",
+        "element_id": 965919569,
+        "element_type": "way",
+        "country": "Oman",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:43:37.573329",
+        "url": "https://www.openstreetmap.org/way/965919569"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.40192132790479,
+          22.842351364175823
+        ]
+      },
+      "properties": {
+        "id": "way/1083301632",
+        "element_id": 1083301632,
+        "element_type": "way",
+        "country": "Oman",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:37.575328",
+        "url": "https://www.openstreetmap.org/way/1083301632"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.22162167967064,
+          25.663354717323248
+        ]
+      },
+      "properties": {
+        "id": "way/1083458979",
+        "element_id": 1083458979,
+        "element_type": "way",
+        "country": "Oman",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'waste', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:37.575328",
+        "url": "https://www.openstreetmap.org/way/1083458979"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.22162167967064,
+          25.663354717323248
+        ]
+      },
+      "properties": {
+        "id": "way/1083458979",
+        "element_id": 1083458979,
+        "element_type": "way",
+        "country": "Oman",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:37.575328",
+        "url": "https://www.openstreetmap.org/way/1083458979"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.684486161871305,
+          18.349166968379727
+        ]
+      },
+      "properties": {
+        "id": "way/965919569",
+        "element_id": 965919569,
+        "element_type": "way",
+        "country": "Oman",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'description': \"It's the largest solar project in the world; however, these are not solar panels to produce electricity. They produce steam for industrial use at the nearby oil field.\", 'name': 'Miraah Solar Farm', 'operator': 'GlassPoint', 'plant:method': 'thermal', 'plant:output:steam': '1021 MW', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2017'}",
+        "timestamp": "2025-07-07 18:43:37.575328",
+        "url": "https://www.openstreetmap.org/way/965919569"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.80866753224528,
+          20.155765464876342
+        ]
+      },
+      "properties": {
+        "id": "way/1226560865",
+        "element_id": 1226560865,
+        "element_type": "way",
+        "country": "Oman",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'محطة توليد الطاقه', 'name:de': 'Kraftwerk Sarab', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:37.576328",
+        "url": "https://www.openstreetmap.org/way/1226560865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3164643411479,
+          20.76763357555357
+        ]
+      },
+      "properties": {
+        "id": "way/1226560866",
+        "element_id": 1226560866,
+        "element_type": "way",
+        "country": "Oman",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:37.576328",
+        "url": "https://www.openstreetmap.org/way/1226560866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3164643411479,
+          20.76763357555357
+        ]
+      },
+      "properties": {
+        "id": "way/1226560866",
+        "element_id": 1226560866,
+        "element_type": "way",
+        "country": "Oman",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:37.576328",
+        "url": "https://www.openstreetmap.org/way/1226560866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.39892819258973,
+          22.658621198288014
+        ]
+      },
+      "properties": {
+        "id": "way/1286136786",
+        "element_id": 1286136786,
+        "element_type": "way",
+        "country": "Oman",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'New Qalhat LNG power station', 'power': 'plant', 'source': 'https://www.nsenergybusiness.com/news/man-to-supply-gas-engines-for-120mw-power-plant-in-oman/'}",
+        "timestamp": "2025-07-07 18:43:37.577328",
+        "url": "https://www.openstreetmap.org/way/1286136786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.67593628934144,
+          19.72751447429102
+        ]
+      },
+      "properties": {
+        "id": "way/1317706758",
+        "element_id": 1317706758,
+        "element_type": "way",
+        "country": "Oman",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:37.577328",
+        "url": "https://www.openstreetmap.org/way/1317706758"
+      }
+    }
+  ]
+}

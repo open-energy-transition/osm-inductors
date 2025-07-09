@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.96081104359419,
+          13.738974066393464
+        ]
+      },
+      "properties": {
+        "id": "way/1077738969",
+        "element_id": 1077738969,
+        "element_type": "way",
+        "country": "Saint Lucia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:output:electricity': '1 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:41.282935",
+        "url": "https://www.openstreetmap.org/way/1077738969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.96158731874306,
+          13.736888403836447
+        ]
+      },
+      "properties": {
+        "id": "way/1120485494",
+        "element_id": 1120485494,
+        "element_type": "way",
+        "country": "Saint Lucia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:41.284347",
+        "url": "https://www.openstreetmap.org/way/1120485494"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.96158731874306,
+          13.736888403836447
+        ]
+      },
+      "properties": {
+        "id": "way/1120485494",
+        "element_id": 1120485494,
+        "element_type": "way",
+        "country": "Saint Lucia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:46:41.284347",
+        "url": "https://www.openstreetmap.org/way/1120485494"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.96097047783314,
+          13.73715047762906
+        ]
+      },
+      "properties": {
+        "id": "way/1120485495",
+        "element_id": 1120485495,
+        "element_type": "way",
+        "country": "Saint Lucia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:41.284347",
+        "url": "https://www.openstreetmap.org/way/1120485495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.96097047783314,
+          13.73715047762906
+        ]
+      },
+      "properties": {
+        "id": "way/1120485495",
+        "element_id": 1120485495,
+        "element_type": "way",
+        "country": "Saint Lucia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:46:41.284347",
+        "url": "https://www.openstreetmap.org/way/1120485495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.96595152751368,
+          13.736969840918528
+        ]
+      },
+      "properties": {
+        "id": "way/1120621848",
+        "element_id": 1120621848,
+        "element_type": "way",
+        "country": "Saint Lucia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:41.284347",
+        "url": "https://www.openstreetmap.org/way/1120621848"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.96595152751368,
+          13.736969840918528
+        ]
+      },
+      "properties": {
+        "id": "way/1120621848",
+        "element_id": 1120621848,
+        "element_type": "way",
+        "country": "Saint Lucia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:46:41.284347",
+        "url": "https://www.openstreetmap.org/way/1120621848"
+      }
+    }
+  ]
+}

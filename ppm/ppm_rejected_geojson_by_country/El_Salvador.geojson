@@ -1,0 +1,1567 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.81427410945709,
+          13.5839192246205
+        ]
+      },
+      "properties": {
+        "id": "relation/13704605",
+        "element_id": 13704605,
+        "element_type": "relation",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:28:26.342317",
+        "url": "https://www.openstreetmap.org/relation/13704605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.81427410945709,
+          13.5839192246205
+        ]
+      },
+      "properties": {
+        "id": "relation/13704605",
+        "element_id": 13704605,
+        "element_type": "relation",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.342317",
+        "url": "https://www.openstreetmap.org/relation/13704605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.90144227308282,
+          13.938616877726853
+        ]
+      },
+      "properties": {
+        "id": "way/243758292",
+        "element_id": 243758292,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:26.345327",
+        "url": "https://www.openstreetmap.org/way/243758292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.56027509020616,
+          13.623384099841871
+        ]
+      },
+      "properties": {
+        "id": "way/254339996",
+        "element_id": 254339996,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:26.345327",
+        "url": "https://www.openstreetmap.org/way/254339996"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.20047185799545,
+          13.77847907778274
+        ]
+      },
+      "properties": {
+        "id": "way/329673809",
+        "element_id": 329673809,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Nejapa Power', 'power': 'plant', 'source': 'https://www.industryabout.com/country-territories-3/1233-el-salvador/fossil-fuels-energy/17361-nejapa-oil-power-plant', 'wikidata': 'Q15836496'}",
+        "timestamp": "2025-07-07 18:28:26.346329",
+        "url": "https://www.openstreetmap.org/way/329673809"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.81685956756115,
+          13.920336417932376
+        ]
+      },
+      "properties": {
+        "id": "way/458890657",
+        "element_id": 458890657,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "95",
+        "details": "Tag 'plant:output:electricity' has value '95' which could not be parsed",
+        "timestamp": "2025-07-07 18:28:26.346329",
+        "url": "https://www.openstreetmap.org/way/458890657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12862917607401,
+          13.210767608561168
+        ]
+      },
+      "properties": {
+        "id": "way/540307360",
+        "element_id": 540307360,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.347327",
+        "url": "https://www.openstreetmap.org/way/540307360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12862917607401,
+          13.210767608561168
+        ]
+      },
+      "properties": {
+        "id": "way/540307360",
+        "element_id": 540307360,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.347327",
+        "url": "https://www.openstreetmap.org/way/540307360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12858480000001,
+          13.2107569
+        ]
+      },
+      "properties": {
+        "id": "way/540308032",
+        "element_id": 540308032,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.347327",
+        "url": "https://www.openstreetmap.org/way/540308032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12858480000001,
+          13.2107569
+        ]
+      },
+      "properties": {
+        "id": "way/540308032",
+        "element_id": 540308032,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.347327",
+        "url": "https://www.openstreetmap.org/way/540308032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12867130000001,
+          13.2107563
+        ]
+      },
+      "properties": {
+        "id": "way/540308680",
+        "element_id": 540308680,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.347327",
+        "url": "https://www.openstreetmap.org/way/540308680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12867130000001,
+          13.2107563
+        ]
+      },
+      "properties": {
+        "id": "way/540308680",
+        "element_id": 540308680,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.347327",
+        "url": "https://www.openstreetmap.org/way/540308680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12868346666667,
+          13.210960533333337
+        ]
+      },
+      "properties": {
+        "id": "way/540309086",
+        "element_id": 540309086,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.347327",
+        "url": "https://www.openstreetmap.org/way/540309086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12868346666667,
+          13.210960533333337
+        ]
+      },
+      "properties": {
+        "id": "way/540309086",
+        "element_id": 540309086,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.347327",
+        "url": "https://www.openstreetmap.org/way/540309086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.22392545772729,
+          13.732787308635412
+        ]
+      },
+      "properties": {
+        "id": "way/602747942",
+        "element_id": 602747942,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Bodegas CEL', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.347327",
+        "url": "https://www.openstreetmap.org/way/602747942"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.78642120116609,
+          13.645676081317568
+        ]
+      },
+      "properties": {
+        "id": "way/610081065",
+        "element_id": 610081065,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'San Vicente', 'addr:street': '3a Avenida', 'landuse': 'industrial', 'name': 'Delsur', 'power': 'plant', 'source': 'local knowledge'}",
+        "timestamp": "2025-07-07 18:28:26.347327",
+        "url": "https://www.openstreetmap.org/way/610081065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.79687569286291,
+          13.578534182610484
+        ]
+      },
+      "properties": {
+        "id": "way/772679658",
+        "element_id": 772679658,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.348328",
+        "url": "https://www.openstreetmap.org/way/772679658"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.79687569286291,
+          13.578534182610484
+        ]
+      },
+      "properties": {
+        "id": "way/772679658",
+        "element_id": 772679658,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.348328",
+        "url": "https://www.openstreetmap.org/way/772679658"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.10836887303729,
+          13.44020859288052
+        ]
+      },
+      "properties": {
+        "id": "way/842244428",
+        "element_id": 842244428,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.349328",
+        "url": "https://www.openstreetmap.org/way/842244428"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.07501884175807,
+          13.587567463123262
+        ]
+      },
+      "properties": {
+        "id": "way/958736583",
+        "element_id": 958736583,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.349328",
+        "url": "https://www.openstreetmap.org/way/958736583"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.07501884175807,
+          13.587567463123262
+        ]
+      },
+      "properties": {
+        "id": "way/958736583",
+        "element_id": 958736583,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.349328",
+        "url": "https://www.openstreetmap.org/way/958736583"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.75635694425316,
+          13.99213104944561
+        ]
+      },
+      "properties": {
+        "id": "way/1023462659",
+        "element_id": 1023462659,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:26.350327",
+        "url": "https://www.openstreetmap.org/way/1023462659"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.34271325768844,
+          13.901784093120709
+        ]
+      },
+      "properties": {
+        "id": "way/1023691167",
+        "element_id": 1023691167,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.350327",
+        "url": "https://www.openstreetmap.org/way/1023691167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.34966677761895,
+          13.899921967232055
+        ]
+      },
+      "properties": {
+        "id": "way/1023691168",
+        "element_id": 1023691168,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.350327",
+        "url": "https://www.openstreetmap.org/way/1023691168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.35555053001734,
+          13.868178018648624
+        ]
+      },
+      "properties": {
+        "id": "way/1023691172",
+        "element_id": 1023691172,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:26.350327",
+        "url": "https://www.openstreetmap.org/way/1023691172"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5119486282037,
+          13.765809578990924
+        ]
+      },
+      "properties": {
+        "id": "way/1023691179",
+        "element_id": 1023691179,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.351331",
+        "url": "https://www.openstreetmap.org/way/1023691179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5119486282037,
+          13.765809578990924
+        ]
+      },
+      "properties": {
+        "id": "way/1023691179",
+        "element_id": 1023691179,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.351331",
+        "url": "https://www.openstreetmap.org/way/1023691179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5442558107054,
+          13.304444073789874
+        ]
+      },
+      "properties": {
+        "id": "way/1023691183",
+        "element_id": 1023691183,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.352331",
+        "url": "https://www.openstreetmap.org/way/1023691183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5442558107054,
+          13.304444073789874
+        ]
+      },
+      "properties": {
+        "id": "way/1023691183",
+        "element_id": 1023691183,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.352331",
+        "url": "https://www.openstreetmap.org/way/1023691183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.78329465437409,
+          13.584718646179832
+        ]
+      },
+      "properties": {
+        "id": "way/1023691194",
+        "element_id": 1023691194,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'combustion', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.353331",
+        "url": "https://www.openstreetmap.org/way/1023691194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.78329465437409,
+          13.584718646179832
+        ]
+      },
+      "properties": {
+        "id": "way/1023691194",
+        "element_id": 1023691194,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'combustion', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.353331",
+        "url": "https://www.openstreetmap.org/way/1023691194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.41674276303404,
+          13.71263617087233
+        ]
+      },
+      "properties": {
+        "id": "way/1023691214",
+        "element_id": 1023691214,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.354331",
+        "url": "https://www.openstreetmap.org/way/1023691214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.01261020089363,
+          13.472826557175011
+        ]
+      },
+      "properties": {
+        "id": "way/1023691215",
+        "element_id": 1023691215,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.354331",
+        "url": "https://www.openstreetmap.org/way/1023691215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.01261020089363,
+          13.472826557175011
+        ]
+      },
+      "properties": {
+        "id": "way/1023691215",
+        "element_id": 1023691215,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.354331",
+        "url": "https://www.openstreetmap.org/way/1023691215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.09799793843908,
+          13.436480595903085
+        ]
+      },
+      "properties": {
+        "id": "way/1054530144",
+        "element_id": 1054530144,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:26.354331",
+        "url": "https://www.openstreetmap.org/way/1054530144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.09799793843908,
+          13.436480595903085
+        ]
+      },
+      "properties": {
+        "id": "way/1054530144",
+        "element_id": 1054530144,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.354331",
+        "url": "https://www.openstreetmap.org/way/1054530144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.09799793843908,
+          13.436480595903085
+        ]
+      },
+      "properties": {
+        "id": "way/1054530144",
+        "element_id": 1054530144,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.355809",
+        "url": "https://www.openstreetmap.org/way/1054530144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.07498930841143,
+          13.443049099431486
+        ]
+      },
+      "properties": {
+        "id": "way/1062479472",
+        "element_id": 1062479472,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.355809",
+        "url": "https://www.openstreetmap.org/way/1062479472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7188754176784,
+          13.728260724457536
+        ]
+      },
+      "properties": {
+        "id": "way/1112426926",
+        "element_id": 1112426926,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:26.355809",
+        "url": "https://www.openstreetmap.org/way/1112426926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7188754176784,
+          13.728260724457536
+        ]
+      },
+      "properties": {
+        "id": "way/1112426926",
+        "element_id": 1112426926,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.355809",
+        "url": "https://www.openstreetmap.org/way/1112426926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.72032052317353,
+          13.759558542750508
+        ]
+      },
+      "properties": {
+        "id": "way/1112718597",
+        "element_id": 1112718597,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.355809",
+        "url": "https://www.openstreetmap.org/way/1112718597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.74601022830318,
+          13.67197843902745
+        ]
+      },
+      "properties": {
+        "id": "way/1117972747",
+        "element_id": 1117972747,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.355809",
+        "url": "https://www.openstreetmap.org/way/1117972747"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.74601022830318,
+          13.67197843902745
+        ]
+      },
+      "properties": {
+        "id": "way/1117972747",
+        "element_id": 1117972747,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.355809",
+        "url": "https://www.openstreetmap.org/way/1117972747"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.72600251248537,
+          13.719624887653993
+        ]
+      },
+      "properties": {
+        "id": "way/1121063861",
+        "element_id": 1121063861,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.356808",
+        "url": "https://www.openstreetmap.org/way/1121063861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4311107678679,
+          13.745362630272387
+        ]
+      },
+      "properties": {
+        "id": "way/1150038887",
+        "element_id": 1150038887,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.356808",
+        "url": "https://www.openstreetmap.org/way/1150038887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.67147429654176,
+          13.71479689416762
+        ]
+      },
+      "properties": {
+        "id": "way/1182138319",
+        "element_id": 1182138319,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.356808",
+        "url": "https://www.openstreetmap.org/way/1182138319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.67147429654176,
+          13.71479689416762
+        ]
+      },
+      "properties": {
+        "id": "way/1182138319",
+        "element_id": 1182138319,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.356808",
+        "url": "https://www.openstreetmap.org/way/1182138319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1130551881394,
+          13.700081857684468
+        ]
+      },
+      "properties": {
+        "id": "way/1188999167",
+        "element_id": 1188999167,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.356808",
+        "url": "https://www.openstreetmap.org/way/1188999167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1130551881394,
+          13.700081857684468
+        ]
+      },
+      "properties": {
+        "id": "way/1188999167",
+        "element_id": 1188999167,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.356808",
+        "url": "https://www.openstreetmap.org/way/1188999167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.20134681647961,
+          13.476144908170506
+        ]
+      },
+      "properties": {
+        "id": "way/1199511168",
+        "element_id": 1199511168,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.356808",
+        "url": "https://www.openstreetmap.org/way/1199511168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.20134681647961,
+          13.476144908170506
+        ]
+      },
+      "properties": {
+        "id": "way/1199511168",
+        "element_id": 1199511168,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.356808",
+        "url": "https://www.openstreetmap.org/way/1199511168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95229610128797,
+          13.199061101014667
+        ]
+      },
+      "properties": {
+        "id": "way/1203767663",
+        "element_id": 1203767663,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.356808",
+        "url": "https://www.openstreetmap.org/way/1203767663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.15952731958853,
+          13.712901137196788
+        ]
+      },
+      "properties": {
+        "id": "way/1206408694",
+        "element_id": 1206408694,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.357809",
+        "url": "https://www.openstreetmap.org/way/1206408694"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.79447180565718,
+          13.579172096382988
+        ]
+      },
+      "properties": {
+        "id": "way/1207501889",
+        "element_id": 1207501889,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.357809",
+        "url": "https://www.openstreetmap.org/way/1207501889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.79447180565718,
+          13.579172096382988
+        ]
+      },
+      "properties": {
+        "id": "way/1207501889",
+        "element_id": 1207501889,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.357809",
+        "url": "https://www.openstreetmap.org/way/1207501889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1680349972553,
+          13.532140412811154
+        ]
+      },
+      "properties": {
+        "id": "way/1207505099",
+        "element_id": 1207505099,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.357809",
+        "url": "https://www.openstreetmap.org/way/1207505099"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.34445194297933,
+          13.876942191981495
+        ]
+      },
+      "properties": {
+        "id": "way/1217905770",
+        "element_id": 1217905770,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:26.357809",
+        "url": "https://www.openstreetmap.org/way/1217905770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.34445194297933,
+          13.876942191981495
+        ]
+      },
+      "properties": {
+        "id": "way/1217905770",
+        "element_id": 1217905770,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.357809",
+        "url": "https://www.openstreetmap.org/way/1217905770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.34445194297933,
+          13.876942191981495
+        ]
+      },
+      "properties": {
+        "id": "way/1217905770",
+        "element_id": 1217905770,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.358807",
+        "url": "https://www.openstreetmap.org/way/1217905770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3453471839756,
+          13.87531871972157
+        ]
+      },
+      "properties": {
+        "id": "way/1217905771",
+        "element_id": 1217905771,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:26.358807",
+        "url": "https://www.openstreetmap.org/way/1217905771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3453471839756,
+          13.87531871972157
+        ]
+      },
+      "properties": {
+        "id": "way/1217905771",
+        "element_id": 1217905771,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.358807",
+        "url": "https://www.openstreetmap.org/way/1217905771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3453471839756,
+          13.87531871972157
+        ]
+      },
+      "properties": {
+        "id": "way/1217905771",
+        "element_id": 1217905771,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.358807",
+        "url": "https://www.openstreetmap.org/way/1217905771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.19676585761101,
+          13.79481244172374
+        ]
+      },
+      "properties": {
+        "id": "way/1231263063",
+        "element_id": 1231263063,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:26.358807",
+        "url": "https://www.openstreetmap.org/way/1231263063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.32950222111121,
+          13.568603336221557
+        ]
+      },
+      "properties": {
+        "id": "way/1366244493",
+        "element_id": 1366244493,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:28:26.359808",
+        "url": "https://www.openstreetmap.org/way/1366244493"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.32950222111121,
+          13.568603336221557
+        ]
+      },
+      "properties": {
+        "id": "way/1366244493",
+        "element_id": 1366244493,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Enerland La Libertad', 'operator': 'Enerland', 'plant:method': 'thermal', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.359808",
+        "url": "https://www.openstreetmap.org/way/1366244493"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.11021016274125,
+          13.724505853449813
+        ]
+      },
+      "properties": {
+        "id": "way/1408941893",
+        "element_id": 1408941893,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:26.359808",
+        "url": "https://www.openstreetmap.org/way/1408941893"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.11021016274125,
+          13.724505853449813
+        ]
+      },
+      "properties": {
+        "id": "way/1408941893",
+        "element_id": 1408941893,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.359808",
+        "url": "https://www.openstreetmap.org/way/1408941893"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.11021016274125,
+          13.724505853449813
+        ]
+      },
+      "properties": {
+        "id": "way/1408941893",
+        "element_id": 1408941893,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.360807",
+        "url": "https://www.openstreetmap.org/way/1408941893"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1145441988754,
+          13.725912275739711
+        ]
+      },
+      "properties": {
+        "id": "way/1408941894",
+        "element_id": 1408941894,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:26.360807",
+        "url": "https://www.openstreetmap.org/way/1408941894"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1145441988754,
+          13.725912275739711
+        ]
+      },
+      "properties": {
+        "id": "way/1408941894",
+        "element_id": 1408941894,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.360807",
+        "url": "https://www.openstreetmap.org/way/1408941894"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1145441988754,
+          13.725912275739711
+        ]
+      },
+      "properties": {
+        "id": "way/1408941894",
+        "element_id": 1408941894,
+        "element_type": "way",
+        "country": "El Salvador",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:26.360807",
+        "url": "https://www.openstreetmap.org/way/1408941894"
+      }
+    }
+  ]
+}

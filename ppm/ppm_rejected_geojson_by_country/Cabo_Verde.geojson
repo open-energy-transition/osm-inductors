@@ -1,0 +1,3063 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.54618237962489,
+          14.90846082575256
+        ]
+      },
+      "properties": {
+        "id": "way/470279481",
+        "element_id": 470279481,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:25:23.835880",
+        "url": "https://www.openstreetmap.org/way/470279481"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.01414543189792,
+          16.871024541135426
+        ]
+      },
+      "properties": {
+        "id": "way/481942270",
+        "element_id": 481942270,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:25:23.836881",
+        "url": "https://www.openstreetmap.org/way/481942270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.347956604760004,
+          16.546918012425206
+        ]
+      },
+      "properties": {
+        "id": "way/538327841",
+        "element_id": 538327841,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.836881",
+        "url": "https://www.openstreetmap.org/way/538327841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.347956604760004,
+          16.546918012425206
+        ]
+      },
+      "properties": {
+        "id": "way/538327841",
+        "element_id": 538327841,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.836881",
+        "url": "https://www.openstreetmap.org/way/538327841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.23391287325733,
+          17.12421674124222
+        ]
+      },
+      "properties": {
+        "id": "way/655442392",
+        "element_id": 655442392,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.836881",
+        "url": "https://www.openstreetmap.org/way/655442392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.23391287325733,
+          17.12421674124222
+        ]
+      },
+      "properties": {
+        "id": "way/655442392",
+        "element_id": 655442392,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.836881",
+        "url": "https://www.openstreetmap.org/way/655442392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.23391287325733,
+          17.12421674124222
+        ]
+      },
+      "properties": {
+        "id": "way/655442392",
+        "element_id": 655442392,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.836881",
+        "url": "https://www.openstreetmap.org/way/655442392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.49344630000001,
+          14.950527500000002
+        ]
+      },
+      "properties": {
+        "id": "way/1053690845",
+        "element_id": 1053690845,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.837880",
+        "url": "https://www.openstreetmap.org/way/1053690845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.49344630000001,
+          14.950527500000002
+        ]
+      },
+      "properties": {
+        "id": "way/1053690845",
+        "element_id": 1053690845,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:25:23.837880",
+        "url": "https://www.openstreetmap.org/way/1053690845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.494768650000005,
+          14.944723400000004
+        ]
+      },
+      "properties": {
+        "id": "way/1054642976",
+        "element_id": 1054642976,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.837880",
+        "url": "https://www.openstreetmap.org/way/1054642976"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.494768650000005,
+          14.944723400000004
+        ]
+      },
+      "properties": {
+        "id": "way/1054642976",
+        "element_id": 1054642976,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:25:23.837880",
+        "url": "https://www.openstreetmap.org/way/1054642976"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.911709241206754,
+          16.628961793174042
+        ]
+      },
+      "properties": {
+        "id": "way/687013844",
+        "element_id": 687013844,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.837880",
+        "url": "https://www.openstreetmap.org/way/687013844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.911709241206754,
+          16.628961793174042
+        ]
+      },
+      "properties": {
+        "id": "way/687013844",
+        "element_id": 687013844,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:25:23.837880",
+        "url": "https://www.openstreetmap.org/way/687013844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.604536493246503,
+          15.203632326781646
+        ]
+      },
+      "properties": {
+        "id": "way/747381297",
+        "element_id": 747381297,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.837880",
+        "url": "https://www.openstreetmap.org/way/747381297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.604536493246503,
+          15.203632326781646
+        ]
+      },
+      "properties": {
+        "id": "way/747381297",
+        "element_id": 747381297,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.837880",
+        "url": "https://www.openstreetmap.org/way/747381297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.165435001172906,
+          17.137053122435404
+        ]
+      },
+      "properties": {
+        "id": "way/848754763",
+        "element_id": 848754763,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.837880",
+        "url": "https://www.openstreetmap.org/way/848754763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.165435001172906,
+          17.137053122435404
+        ]
+      },
+      "properties": {
+        "id": "way/848754763",
+        "element_id": 848754763,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.837880",
+        "url": "https://www.openstreetmap.org/way/848754763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.165435001172906,
+          17.137053122435404
+        ]
+      },
+      "properties": {
+        "id": "way/848754763",
+        "element_id": 848754763,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:25:23.837880",
+        "url": "https://www.openstreetmap.org/way/848754763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.582578186628783,
+          14.965271654001263
+        ]
+      },
+      "properties": {
+        "id": "way/888947737",
+        "element_id": 888947737,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:25:23.837880",
+        "url": "https://www.openstreetmap.org/way/888947737"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.579940999152758,
+          15.049463303917763
+        ]
+      },
+      "properties": {
+        "id": "way/891219272",
+        "element_id": 891219272,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.837880",
+        "url": "https://www.openstreetmap.org/way/891219272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.579940999152758,
+          15.049463303917763
+        ]
+      },
+      "properties": {
+        "id": "way/891219272",
+        "element_id": 891219272,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:25:23.837880",
+        "url": "https://www.openstreetmap.org/way/891219272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.49479081744415,
+          14.944669599679226
+        ]
+      },
+      "properties": {
+        "id": "way/1054642977",
+        "element_id": 1054642977,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.838880",
+        "url": "https://www.openstreetmap.org/way/1054642977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.49479081744415,
+          14.944669599679226
+        ]
+      },
+      "properties": {
+        "id": "way/1054642977",
+        "element_id": 1054642977,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:25:23.838880",
+        "url": "https://www.openstreetmap.org/way/1054642977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.49479458063017,
+          14.94461875133186
+        ]
+      },
+      "properties": {
+        "id": "way/1054642978",
+        "element_id": 1054642978,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.838880",
+        "url": "https://www.openstreetmap.org/way/1054642978"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.49479458063017,
+          14.94461875133186
+        ]
+      },
+      "properties": {
+        "id": "way/1054642978",
+        "element_id": 1054642978,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:25:23.838880",
+        "url": "https://www.openstreetmap.org/way/1054642978"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.537231283838825,
+          15.123732975514317
+        ]
+      },
+      "properties": {
+        "id": "way/1236780555",
+        "element_id": 1236780555,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.838880",
+        "url": "https://www.openstreetmap.org/way/1236780555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.537231283838825,
+          15.123732975514317
+        ]
+      },
+      "properties": {
+        "id": "way/1236780555",
+        "element_id": 1236780555,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:25:23.838880",
+        "url": "https://www.openstreetmap.org/way/1236780555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.143782356197487,
+          15.157490960073355
+        ]
+      },
+      "properties": {
+        "id": "way/1244166394",
+        "element_id": 1244166394,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.838880",
+        "url": "https://www.openstreetmap.org/way/1244166394"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.143782356197487,
+          15.157490960073355
+        ]
+      },
+      "properties": {
+        "id": "way/1244166394",
+        "element_id": 1244166394,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.838880",
+        "url": "https://www.openstreetmap.org/way/1244166394"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.143782356197487,
+          15.157490960073355
+        ]
+      },
+      "properties": {
+        "id": "way/1244166394",
+        "element_id": 1244166394,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.839880",
+        "url": "https://www.openstreetmap.org/way/1244166394"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1438048,
+          15.15742955
+        ]
+      },
+      "properties": {
+        "id": "way/1244166395",
+        "element_id": 1244166395,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.839880",
+        "url": "https://www.openstreetmap.org/way/1244166395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1438048,
+          15.15742955
+        ]
+      },
+      "properties": {
+        "id": "way/1244166395",
+        "element_id": 1244166395,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.839880",
+        "url": "https://www.openstreetmap.org/way/1244166395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1438048,
+          15.15742955
+        ]
+      },
+      "properties": {
+        "id": "way/1244166395",
+        "element_id": 1244166395,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.839880",
+        "url": "https://www.openstreetmap.org/way/1244166395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.128974546632534,
+          15.180935830078676
+        ]
+      },
+      "properties": {
+        "id": "way/1245366674",
+        "element_id": 1245366674,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.839880",
+        "url": "https://www.openstreetmap.org/way/1245366674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.128974546632534,
+          15.180935830078676
+        ]
+      },
+      "properties": {
+        "id": "way/1245366674",
+        "element_id": 1245366674,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.839880",
+        "url": "https://www.openstreetmap.org/way/1245366674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.128974546632534,
+          15.180935830078676
+        ]
+      },
+      "properties": {
+        "id": "way/1245366674",
+        "element_id": 1245366674,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.839880",
+        "url": "https://www.openstreetmap.org/way/1245366674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1289786,
+          15.18088445
+        ]
+      },
+      "properties": {
+        "id": "way/1245366675",
+        "element_id": 1245366675,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.839880",
+        "url": "https://www.openstreetmap.org/way/1245366675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1289786,
+          15.18088445
+        ]
+      },
+      "properties": {
+        "id": "way/1245366675",
+        "element_id": 1245366675,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.839880",
+        "url": "https://www.openstreetmap.org/way/1245366675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1289786,
+          15.18088445
+        ]
+      },
+      "properties": {
+        "id": "way/1245366675",
+        "element_id": 1245366675,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.839880",
+        "url": "https://www.openstreetmap.org/way/1245366675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.12425425,
+          15.1389317
+        ]
+      },
+      "properties": {
+        "id": "way/1245917649",
+        "element_id": 1245917649,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.839880",
+        "url": "https://www.openstreetmap.org/way/1245917649"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.12425425,
+          15.1389317
+        ]
+      },
+      "properties": {
+        "id": "way/1245917649",
+        "element_id": 1245917649,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.839880",
+        "url": "https://www.openstreetmap.org/way/1245917649"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.12425425,
+          15.1389317
+        ]
+      },
+      "properties": {
+        "id": "way/1245917649",
+        "element_id": 1245917649,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.840880",
+        "url": "https://www.openstreetmap.org/way/1245917649"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.124209650000005,
+          15.138982600000006
+        ]
+      },
+      "properties": {
+        "id": "way/1245917650",
+        "element_id": 1245917650,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.840880",
+        "url": "https://www.openstreetmap.org/way/1245917650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.124209650000005,
+          15.138982600000006
+        ]
+      },
+      "properties": {
+        "id": "way/1245917650",
+        "element_id": 1245917650,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.840880",
+        "url": "https://www.openstreetmap.org/way/1245917650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.124209650000005,
+          15.138982600000006
+        ]
+      },
+      "properties": {
+        "id": "way/1245917650",
+        "element_id": 1245917650,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.840880",
+        "url": "https://www.openstreetmap.org/way/1245917650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.65173373761483,
+          15.230465611226675
+        ]
+      },
+      "properties": {
+        "id": "way/1248919173",
+        "element_id": 1248919173,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.840880",
+        "url": "https://www.openstreetmap.org/way/1248919173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.65173373761483,
+          15.230465611226675
+        ]
+      },
+      "properties": {
+        "id": "way/1248919173",
+        "element_id": 1248919173,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.840880",
+        "url": "https://www.openstreetmap.org/way/1248919173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.65173373761483,
+          15.230465611226675
+        ]
+      },
+      "properties": {
+        "id": "way/1248919173",
+        "element_id": 1248919173,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.840880",
+        "url": "https://www.openstreetmap.org/way/1248919173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.44839868209306,
+          15.016995151340671
+        ]
+      },
+      "properties": {
+        "id": "way/1249405529",
+        "element_id": 1249405529,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.840880",
+        "url": "https://www.openstreetmap.org/way/1249405529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.44839868209306,
+          15.016995151340671
+        ]
+      },
+      "properties": {
+        "id": "way/1249405529",
+        "element_id": 1249405529,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.840880",
+        "url": "https://www.openstreetmap.org/way/1249405529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.44839868209306,
+          15.016995151340671
+        ]
+      },
+      "properties": {
+        "id": "way/1249405529",
+        "element_id": 1249405529,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.840880",
+        "url": "https://www.openstreetmap.org/way/1249405529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.448302329569778,
+          15.017029384033684
+        ]
+      },
+      "properties": {
+        "id": "way/1249405530",
+        "element_id": 1249405530,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.840880",
+        "url": "https://www.openstreetmap.org/way/1249405530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.448302329569778,
+          15.017029384033684
+        ]
+      },
+      "properties": {
+        "id": "way/1249405530",
+        "element_id": 1249405530,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.840880",
+        "url": "https://www.openstreetmap.org/way/1249405530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.448302329569778,
+          15.017029384033684
+        ]
+      },
+      "properties": {
+        "id": "way/1249405530",
+        "element_id": 1249405530,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.841880",
+        "url": "https://www.openstreetmap.org/way/1249405530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.44838235,
+          15.01694775
+        ]
+      },
+      "properties": {
+        "id": "way/1249405531",
+        "element_id": 1249405531,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.841880",
+        "url": "https://www.openstreetmap.org/way/1249405531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.44838235,
+          15.01694775
+        ]
+      },
+      "properties": {
+        "id": "way/1249405531",
+        "element_id": 1249405531,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.841880",
+        "url": "https://www.openstreetmap.org/way/1249405531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.44838235,
+          15.01694775
+        ]
+      },
+      "properties": {
+        "id": "way/1249405531",
+        "element_id": 1249405531,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.841880",
+        "url": "https://www.openstreetmap.org/way/1249405531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.448287950000005,
+          15.0169826
+        ]
+      },
+      "properties": {
+        "id": "way/1249405532",
+        "element_id": 1249405532,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.841880",
+        "url": "https://www.openstreetmap.org/way/1249405532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.448287950000005,
+          15.0169826
+        ]
+      },
+      "properties": {
+        "id": "way/1249405532",
+        "element_id": 1249405532,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.841880",
+        "url": "https://www.openstreetmap.org/way/1249405532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.448287950000005,
+          15.0169826
+        ]
+      },
+      "properties": {
+        "id": "way/1249405532",
+        "element_id": 1249405532,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.841880",
+        "url": "https://www.openstreetmap.org/way/1249405532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.167738710132504,
+          17.164874102653535
+        ]
+      },
+      "properties": {
+        "id": "way/1249521315",
+        "element_id": 1249521315,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.841880",
+        "url": "https://www.openstreetmap.org/way/1249521315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.167738710132504,
+          17.164874102653535
+        ]
+      },
+      "properties": {
+        "id": "way/1249521315",
+        "element_id": 1249521315,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.841880",
+        "url": "https://www.openstreetmap.org/way/1249521315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.167738710132504,
+          17.164874102653535
+        ]
+      },
+      "properties": {
+        "id": "way/1249521315",
+        "element_id": 1249521315,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.841880",
+        "url": "https://www.openstreetmap.org/way/1249521315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1197287,
+          15.24879725
+        ]
+      },
+      "properties": {
+        "id": "way/1252038914",
+        "element_id": 1252038914,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.842880",
+        "url": "https://www.openstreetmap.org/way/1252038914"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1197287,
+          15.24879725
+        ]
+      },
+      "properties": {
+        "id": "way/1252038914",
+        "element_id": 1252038914,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.842880",
+        "url": "https://www.openstreetmap.org/way/1252038914"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.1197287,
+          15.24879725
+        ]
+      },
+      "properties": {
+        "id": "way/1252038914",
+        "element_id": 1252038914,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.842880",
+        "url": "https://www.openstreetmap.org/way/1252038914"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.911958100000003,
+          16.629008600000002
+        ]
+      },
+      "properties": {
+        "id": "way/1252043789",
+        "element_id": 1252043789,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.842880",
+        "url": "https://www.openstreetmap.org/way/1252043789"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.911958100000003,
+          16.629008600000002
+        ]
+      },
+      "properties": {
+        "id": "way/1252043789",
+        "element_id": 1252043789,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:25:23.842880",
+        "url": "https://www.openstreetmap.org/way/1252043789"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.911096773767312,
+          16.628742507154644
+        ]
+      },
+      "properties": {
+        "id": "way/1252043790",
+        "element_id": 1252043790,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.842880",
+        "url": "https://www.openstreetmap.org/way/1252043790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.911096773767312,
+          16.628742507154644
+        ]
+      },
+      "properties": {
+        "id": "way/1252043790",
+        "element_id": 1252043790,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:25:23.842880",
+        "url": "https://www.openstreetmap.org/way/1252043790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.136541,
+          15.16095405
+        ]
+      },
+      "properties": {
+        "id": "way/1257783069",
+        "element_id": 1257783069,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.842880",
+        "url": "https://www.openstreetmap.org/way/1257783069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.136541,
+          15.16095405
+        ]
+      },
+      "properties": {
+        "id": "way/1257783069",
+        "element_id": 1257783069,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.842880",
+        "url": "https://www.openstreetmap.org/way/1257783069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.136541,
+          15.16095405
+        ]
+      },
+      "properties": {
+        "id": "way/1257783069",
+        "element_id": 1257783069,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.842880",
+        "url": "https://www.openstreetmap.org/way/1257783069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.486648485890427,
+          14.926201957049168
+        ]
+      },
+      "properties": {
+        "id": "way/1267090379",
+        "element_id": 1267090379,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.842880",
+        "url": "https://www.openstreetmap.org/way/1267090379"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.486648485890427,
+          14.926201957049168
+        ]
+      },
+      "properties": {
+        "id": "way/1267090379",
+        "element_id": 1267090379,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.842880",
+        "url": "https://www.openstreetmap.org/way/1267090379"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.486648485890427,
+          14.926201957049168
+        ]
+      },
+      "properties": {
+        "id": "way/1267090379",
+        "element_id": 1267090379,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.842880",
+        "url": "https://www.openstreetmap.org/way/1267090379"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.486862005638912,
+          14.925740308505308
+        ]
+      },
+      "properties": {
+        "id": "way/1267090380",
+        "element_id": 1267090380,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.843880",
+        "url": "https://www.openstreetmap.org/way/1267090380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.486862005638912,
+          14.925740308505308
+        ]
+      },
+      "properties": {
+        "id": "way/1267090380",
+        "element_id": 1267090380,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.843880",
+        "url": "https://www.openstreetmap.org/way/1267090380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.486862005638912,
+          14.925740308505308
+        ]
+      },
+      "properties": {
+        "id": "way/1267090380",
+        "element_id": 1267090380,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.843880",
+        "url": "https://www.openstreetmap.org/way/1267090380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.486985801322543,
+          14.925335810999176
+        ]
+      },
+      "properties": {
+        "id": "way/1267090381",
+        "element_id": 1267090381,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.843880",
+        "url": "https://www.openstreetmap.org/way/1267090381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.486985801322543,
+          14.925335810999176
+        ]
+      },
+      "properties": {
+        "id": "way/1267090381",
+        "element_id": 1267090381,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.843880",
+        "url": "https://www.openstreetmap.org/way/1267090381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.486985801322543,
+          14.925335810999176
+        ]
+      },
+      "properties": {
+        "id": "way/1267090381",
+        "element_id": 1267090381,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.843880",
+        "url": "https://www.openstreetmap.org/way/1267090381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.48703060431967,
+          14.925809135107972
+        ]
+      },
+      "properties": {
+        "id": "way/1267091568",
+        "element_id": 1267091568,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.843880",
+        "url": "https://www.openstreetmap.org/way/1267091568"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.48703060431967,
+          14.925809135107972
+        ]
+      },
+      "properties": {
+        "id": "way/1267091568",
+        "element_id": 1267091568,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.843880",
+        "url": "https://www.openstreetmap.org/way/1267091568"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.48703060431967,
+          14.925809135107972
+        ]
+      },
+      "properties": {
+        "id": "way/1267091568",
+        "element_id": 1267091568,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.843880",
+        "url": "https://www.openstreetmap.org/way/1267091568"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.44780015,
+          15.00503325
+        ]
+      },
+      "properties": {
+        "id": "way/1285501795",
+        "element_id": 1285501795,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.843880",
+        "url": "https://www.openstreetmap.org/way/1285501795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.44780015,
+          15.00503325
+        ]
+      },
+      "properties": {
+        "id": "way/1285501795",
+        "element_id": 1285501795,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.843880",
+        "url": "https://www.openstreetmap.org/way/1285501795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.44780015,
+          15.00503325
+        ]
+      },
+      "properties": {
+        "id": "way/1285501795",
+        "element_id": 1285501795,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.844880",
+        "url": "https://www.openstreetmap.org/way/1285501795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.717967047634342,
+          14.884044496489414
+        ]
+      },
+      "properties": {
+        "id": "way/1287960733",
+        "element_id": 1287960733,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.844880",
+        "url": "https://www.openstreetmap.org/way/1287960733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.717967047634342,
+          14.884044496489414
+        ]
+      },
+      "properties": {
+        "id": "way/1287960733",
+        "element_id": 1287960733,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.844880",
+        "url": "https://www.openstreetmap.org/way/1287960733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.717967047634342,
+          14.884044496489414
+        ]
+      },
+      "properties": {
+        "id": "way/1287960733",
+        "element_id": 1287960733,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.844880",
+        "url": "https://www.openstreetmap.org/way/1287960733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.454663582496764,
+          14.852363478193862
+        ]
+      },
+      "properties": {
+        "id": "way/1290466419",
+        "element_id": 1290466419,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.844880",
+        "url": "https://www.openstreetmap.org/way/1290466419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.454663582496764,
+          14.852363478193862
+        ]
+      },
+      "properties": {
+        "id": "way/1290466419",
+        "element_id": 1290466419,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.844880",
+        "url": "https://www.openstreetmap.org/way/1290466419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.454663582496764,
+          14.852363478193862
+        ]
+      },
+      "properties": {
+        "id": "way/1290466419",
+        "element_id": 1290466419,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.844880",
+        "url": "https://www.openstreetmap.org/way/1290466419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.45462970808081,
+          14.852303280080807
+        ]
+      },
+      "properties": {
+        "id": "way/1290466420",
+        "element_id": 1290466420,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.844880",
+        "url": "https://www.openstreetmap.org/way/1290466420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.45462970808081,
+          14.852303280080807
+        ]
+      },
+      "properties": {
+        "id": "way/1290466420",
+        "element_id": 1290466420,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.844880",
+        "url": "https://www.openstreetmap.org/way/1290466420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.45462970808081,
+          14.852303280080807
+        ]
+      },
+      "properties": {
+        "id": "way/1290466420",
+        "element_id": 1290466420,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.844880",
+        "url": "https://www.openstreetmap.org/way/1290466420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.449425231895024,
+          14.849886988257232
+        ]
+      },
+      "properties": {
+        "id": "way/1290466421",
+        "element_id": 1290466421,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.845880",
+        "url": "https://www.openstreetmap.org/way/1290466421"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.449425231895024,
+          14.849886988257232
+        ]
+      },
+      "properties": {
+        "id": "way/1290466421",
+        "element_id": 1290466421,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.845880",
+        "url": "https://www.openstreetmap.org/way/1290466421"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.449425231895024,
+          14.849886988257232
+        ]
+      },
+      "properties": {
+        "id": "way/1290466421",
+        "element_id": 1290466421,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.845880",
+        "url": "https://www.openstreetmap.org/way/1290466421"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.44938374766805,
+          14.849848659928869
+        ]
+      },
+      "properties": {
+        "id": "way/1290466422",
+        "element_id": 1290466422,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.845880",
+        "url": "https://www.openstreetmap.org/way/1290466422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.44938374766805,
+          14.849848659928869
+        ]
+      },
+      "properties": {
+        "id": "way/1290466422",
+        "element_id": 1290466422,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.845880",
+        "url": "https://www.openstreetmap.org/way/1290466422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.44938374766805,
+          14.849848659928869
+        ]
+      },
+      "properties": {
+        "id": "way/1290466422",
+        "element_id": 1290466422,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.845880",
+        "url": "https://www.openstreetmap.org/way/1290466422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.449325931656297,
+          14.84981041314137
+        ]
+      },
+      "properties": {
+        "id": "way/1290466423",
+        "element_id": 1290466423,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.846881",
+        "url": "https://www.openstreetmap.org/way/1290466423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.449325931656297,
+          14.84981041314137
+        ]
+      },
+      "properties": {
+        "id": "way/1290466423",
+        "element_id": 1290466423,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.846881",
+        "url": "https://www.openstreetmap.org/way/1290466423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.449325931656297,
+          14.84981041314137
+        ]
+      },
+      "properties": {
+        "id": "way/1290466423",
+        "element_id": 1290466423,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.846881",
+        "url": "https://www.openstreetmap.org/way/1290466423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.449270450000004,
+          14.84977785
+        ]
+      },
+      "properties": {
+        "id": "way/1290466424",
+        "element_id": 1290466424,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.846881",
+        "url": "https://www.openstreetmap.org/way/1290466424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.449270450000004,
+          14.84977785
+        ]
+      },
+      "properties": {
+        "id": "way/1290466424",
+        "element_id": 1290466424,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.846881",
+        "url": "https://www.openstreetmap.org/way/1290466424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.449270450000004,
+          14.84977785
+        ]
+      },
+      "properties": {
+        "id": "way/1290466424",
+        "element_id": 1290466424,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.846881",
+        "url": "https://www.openstreetmap.org/way/1290466424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.44919934204813,
+          14.84974503492881
+        ]
+      },
+      "properties": {
+        "id": "way/1290466425",
+        "element_id": 1290466425,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.846881",
+        "url": "https://www.openstreetmap.org/way/1290466425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.44919934204813,
+          14.84974503492881
+        ]
+      },
+      "properties": {
+        "id": "way/1290466425",
+        "element_id": 1290466425,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.846881",
+        "url": "https://www.openstreetmap.org/way/1290466425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.44919934204813,
+          14.84974503492881
+        ]
+      },
+      "properties": {
+        "id": "way/1290466425",
+        "element_id": 1290466425,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.846881",
+        "url": "https://www.openstreetmap.org/way/1290466425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.41816652586049,
+          14.874158746630837
+        ]
+      },
+      "properties": {
+        "id": "way/1292048801",
+        "element_id": 1292048801,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.847880",
+        "url": "https://www.openstreetmap.org/way/1292048801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.41816652586049,
+          14.874158746630837
+        ]
+      },
+      "properties": {
+        "id": "way/1292048801",
+        "element_id": 1292048801,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.847880",
+        "url": "https://www.openstreetmap.org/way/1292048801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.41816652586049,
+          14.874158746630837
+        ]
+      },
+      "properties": {
+        "id": "way/1292048801",
+        "element_id": 1292048801,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.847880",
+        "url": "https://www.openstreetmap.org/way/1292048801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.41817885,
+          14.8741288
+        ]
+      },
+      "properties": {
+        "id": "way/1292048802",
+        "element_id": 1292048802,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.847880",
+        "url": "https://www.openstreetmap.org/way/1292048802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.41817885,
+          14.8741288
+        ]
+      },
+      "properties": {
+        "id": "way/1292048802",
+        "element_id": 1292048802,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.847880",
+        "url": "https://www.openstreetmap.org/way/1292048802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.41817885,
+          14.8741288
+        ]
+      },
+      "properties": {
+        "id": "way/1292048802",
+        "element_id": 1292048802,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.847880",
+        "url": "https://www.openstreetmap.org/way/1292048802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.418147363741625,
+          14.874092774694455
+        ]
+      },
+      "properties": {
+        "id": "way/1292048803",
+        "element_id": 1292048803,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.847880",
+        "url": "https://www.openstreetmap.org/way/1292048803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.418147363741625,
+          14.874092774694455
+        ]
+      },
+      "properties": {
+        "id": "way/1292048803",
+        "element_id": 1292048803,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.847880",
+        "url": "https://www.openstreetmap.org/way/1292048803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.418147363741625,
+          14.874092774694455
+        ]
+      },
+      "properties": {
+        "id": "way/1292048803",
+        "element_id": 1292048803,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.847880",
+        "url": "https://www.openstreetmap.org/way/1292048803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.41812075,
+          14.87405415
+        ]
+      },
+      "properties": {
+        "id": "way/1292048804",
+        "element_id": 1292048804,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.847880",
+        "url": "https://www.openstreetmap.org/way/1292048804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.41812075,
+          14.87405415
+        ]
+      },
+      "properties": {
+        "id": "way/1292048804",
+        "element_id": 1292048804,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.847880",
+        "url": "https://www.openstreetmap.org/way/1292048804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.41812075,
+          14.87405415
+        ]
+      },
+      "properties": {
+        "id": "way/1292048804",
+        "element_id": 1292048804,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.847880",
+        "url": "https://www.openstreetmap.org/way/1292048804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.4181232,
+          14.8740163
+        ]
+      },
+      "properties": {
+        "id": "way/1292048805",
+        "element_id": 1292048805,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.848880",
+        "url": "https://www.openstreetmap.org/way/1292048805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.4181232,
+          14.8740163
+        ]
+      },
+      "properties": {
+        "id": "way/1292048805",
+        "element_id": 1292048805,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.848880",
+        "url": "https://www.openstreetmap.org/way/1292048805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.4181232,
+          14.8740163
+        ]
+      },
+      "properties": {
+        "id": "way/1292048805",
+        "element_id": 1292048805,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.848880",
+        "url": "https://www.openstreetmap.org/way/1292048805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.48342771701845,
+          14.884068790659642
+        ]
+      },
+      "properties": {
+        "id": "way/1292301283",
+        "element_id": 1292301283,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.848880",
+        "url": "https://www.openstreetmap.org/way/1292301283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.48342771701845,
+          14.884068790659642
+        ]
+      },
+      "properties": {
+        "id": "way/1292301283",
+        "element_id": 1292301283,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.848880",
+        "url": "https://www.openstreetmap.org/way/1292301283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.48342771701845,
+          14.884068790659642
+        ]
+      },
+      "properties": {
+        "id": "way/1292301283",
+        "element_id": 1292301283,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.848880",
+        "url": "https://www.openstreetmap.org/way/1292301283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.4834431930234,
+          14.884035244494438
+        ]
+      },
+      "properties": {
+        "id": "way/1292301284",
+        "element_id": 1292301284,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.848880",
+        "url": "https://www.openstreetmap.org/way/1292301284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.4834431930234,
+          14.884035244494438
+        ]
+      },
+      "properties": {
+        "id": "way/1292301284",
+        "element_id": 1292301284,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.848880",
+        "url": "https://www.openstreetmap.org/way/1292301284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.4834431930234,
+          14.884035244494438
+        ]
+      },
+      "properties": {
+        "id": "way/1292301284",
+        "element_id": 1292301284,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.848880",
+        "url": "https://www.openstreetmap.org/way/1292301284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.483456147360567,
+          14.884006658888644
+        ]
+      },
+      "properties": {
+        "id": "way/1292301285",
+        "element_id": 1292301285,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.848880",
+        "url": "https://www.openstreetmap.org/way/1292301285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.483456147360567,
+          14.884006658888644
+        ]
+      },
+      "properties": {
+        "id": "way/1292301285",
+        "element_id": 1292301285,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.848880",
+        "url": "https://www.openstreetmap.org/way/1292301285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.483456147360567,
+          14.884006658888644
+        ]
+      },
+      "properties": {
+        "id": "way/1292301285",
+        "element_id": 1292301285,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.848880",
+        "url": "https://www.openstreetmap.org/way/1292301285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.483470908240776,
+          14.883974296008017
+        ]
+      },
+      "properties": {
+        "id": "way/1292301286",
+        "element_id": 1292301286,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:23.849880",
+        "url": "https://www.openstreetmap.org/way/1292301286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.483470908240776,
+          14.883974296008017
+        ]
+      },
+      "properties": {
+        "id": "way/1292301286",
+        "element_id": 1292301286,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.849880",
+        "url": "https://www.openstreetmap.org/way/1292301286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.483470908240776,
+          14.883974296008017
+        ]
+      },
+      "properties": {
+        "id": "way/1292301286",
+        "element_id": 1292301286,
+        "element_type": "way",
+        "country": "Cabo Verde",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:25:23.849880",
+        "url": "https://www.openstreetmap.org/way/1292301286"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1413 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2941843,
+          9.90045215
+        ]
+      },
+      "properties": {
+        "id": "way/356573680",
+        "element_id": 356573680,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:52.578278",
+        "url": "https://www.openstreetmap.org/way/356573680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.373685161385131,
+          10.459652467941096
+        ]
+      },
+      "properties": {
+        "id": "way/485733022",
+        "element_id": 485733022,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:52.578278",
+        "url": "https://www.openstreetmap.org/way/485733022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.681138950680056,
+          9.389753309398852
+        ]
+      },
+      "properties": {
+        "id": "way/571298390",
+        "element_id": 571298390,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:52.579279",
+        "url": "https://www.openstreetmap.org/way/571298390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.681138950680056,
+          9.389753309398852
+        ]
+      },
+      "properties": {
+        "id": "way/571298390",
+        "element_id": 571298390,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'NESCO', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.579279",
+        "url": "https://www.openstreetmap.org/way/571298390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.681138950680056,
+          9.389753309398852
+        ]
+      },
+      "properties": {
+        "id": "way/571298390",
+        "element_id": 571298390,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.579279",
+        "url": "https://www.openstreetmap.org/way/571298390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.834512699999999,
+          9.9736106
+        ]
+      },
+      "properties": {
+        "id": "way/597677790",
+        "element_id": 597677790,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:52.580278",
+        "url": "https://www.openstreetmap.org/way/597677790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.21248461430089,
+          6.847464829840142
+        ]
+      },
+      "properties": {
+        "id": "way/699952933",
+        "element_id": 699952933,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.581287",
+        "url": "https://www.openstreetmap.org/way/699952933"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.948286740029433,
+          4.724481183282476
+        ]
+      },
+      "properties": {
+        "id": "way/754858559",
+        "element_id": 754858559,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Community Power Plant', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.581287",
+        "url": "https://www.openstreetmap.org/way/754858559"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1343946850039845,
+          7.302453501637209
+        ]
+      },
+      "properties": {
+        "id": "way/794643818",
+        "element_id": 794643818,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.581287",
+        "url": "https://www.openstreetmap.org/way/794643818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1343946850039845,
+          7.302453501637209
+        ]
+      },
+      "properties": {
+        "id": "way/794643818",
+        "element_id": 794643818,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.581287",
+        "url": "https://www.openstreetmap.org/way/794643818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.481499626097271,
+          10.321179948122657
+        ]
+      },
+      "properties": {
+        "id": "way/833311906",
+        "element_id": 833311906,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:52.581287",
+        "url": "https://www.openstreetmap.org/way/833311906"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.761651118464671,
+          6.871018836872947
+        ]
+      },
+      "properties": {
+        "id": "way/884934600",
+        "element_id": 884934600,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:52.584474",
+        "url": "https://www.openstreetmap.org/way/884934600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.36134477838666,
+          8.964998107176799
+        ]
+      },
+      "properties": {
+        "id": "way/1035459352",
+        "element_id": 1035459352,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.585474",
+        "url": "https://www.openstreetmap.org/way/1035459352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.36134477838666,
+          8.964998107176799
+        ]
+      },
+      "properties": {
+        "id": "way/1035459352",
+        "element_id": 1035459352,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.585474",
+        "url": "https://www.openstreetmap.org/way/1035459352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.26815434070022,
+          4.90503663688992
+        ]
+      },
+      "properties": {
+        "id": "way/1120416964",
+        "element_id": 1120416964,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.585474",
+        "url": "https://www.openstreetmap.org/way/1120416964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.26815434070022,
+          4.90503663688992
+        ]
+      },
+      "properties": {
+        "id": "way/1120416964",
+        "element_id": 1120416964,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.585474",
+        "url": "https://www.openstreetmap.org/way/1120416964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0509054221335554,
+          7.009221888791408
+        ]
+      },
+      "properties": {
+        "id": "way/945308310",
+        "element_id": 945308310,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Dangote Ibese Cement Power Station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.585474",
+        "url": "https://www.openstreetmap.org/way/945308310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.103033464754878,
+          4.835453560174307
+        ]
+      },
+      "properties": {
+        "id": "way/965463944",
+        "element_id": 965463944,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Indorama Eleme Petrochemicals Power Station', 'power': 'plant', 'source': 'https://www.indoramaeleme.com/'}",
+        "timestamp": "2025-07-07 18:42:52.585474",
+        "url": "https://www.openstreetmap.org/way/965463944"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.687174515701954,
+          7.497856369253123
+        ]
+      },
+      "properties": {
+        "id": "way/1138971165",
+        "element_id": 1138971165,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Ajaokuta Power Plant', 'operator': 'Ajaokuta Steel Company Ltd (ASCL)', 'power': 'plant', 'source': 'https://www.thecable.ng/110mw-ajaokuta-power-plant-to-come-alive-again'}",
+        "timestamp": "2025-07-07 18:42:52.586477",
+        "url": "https://www.openstreetmap.org/way/1138971165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.428191087005816,
+          9.018407806964015
+        ]
+      },
+      "properties": {
+        "id": "way/1207250001",
+        "element_id": 1207250001,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.586477",
+        "url": "https://www.openstreetmap.org/way/1207250001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.208389311176906,
+          13.12637098815095
+        ]
+      },
+      "properties": {
+        "id": "way/1288133298",
+        "element_id": 1288133298,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.587475",
+        "url": "https://www.openstreetmap.org/way/1288133298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.208389311176906,
+          13.12637098815095
+        ]
+      },
+      "properties": {
+        "id": "way/1288133298",
+        "element_id": 1288133298,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.587475",
+        "url": "https://www.openstreetmap.org/way/1288133298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.208390505593356,
+          13.126575621353968
+        ]
+      },
+      "properties": {
+        "id": "way/1288133299",
+        "element_id": 1288133299,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Usmanu Danfodiyo University', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.587475",
+        "url": "https://www.openstreetmap.org/way/1288133299"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.864545050379684,
+          9.784988541714078
+        ]
+      },
+      "properties": {
+        "id": "way/1288148290",
+        "element_id": 1288148290,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Bukuru Power Station', 'operator': 'NESCO', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.588475",
+        "url": "https://www.openstreetmap.org/way/1288148290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.722526989946887,
+          9.408242432402847
+        ]
+      },
+      "properties": {
+        "id": "way/1288150633",
+        "element_id": 1288150633,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:52.588475",
+        "url": "https://www.openstreetmap.org/way/1288150633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.722526989946887,
+          9.408242432402847
+        ]
+      },
+      "properties": {
+        "id": "way/1288150633",
+        "element_id": 1288150633,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.588475",
+        "url": "https://www.openstreetmap.org/way/1288150633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67612954535592,
+          9.383732215004311
+        ]
+      },
+      "properties": {
+        "id": "way/1288150638",
+        "element_id": 1288150638,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:52.588475",
+        "url": "https://www.openstreetmap.org/way/1288150638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67612954535592,
+          9.383732215004311
+        ]
+      },
+      "properties": {
+        "id": "way/1288150638",
+        "element_id": 1288150638,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'NESCO', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.588475",
+        "url": "https://www.openstreetmap.org/way/1288150638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67612954535592,
+          9.383732215004311
+        ]
+      },
+      "properties": {
+        "id": "way/1288150638",
+        "element_id": 1288150638,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.588475",
+        "url": "https://www.openstreetmap.org/way/1288150638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.758777414268337,
+          9.360297294554424
+        ]
+      },
+      "properties": {
+        "id": "way/1288152647",
+        "element_id": 1288152647,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:52.589476",
+        "url": "https://www.openstreetmap.org/way/1288152647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.758777414268337,
+          9.360297294554424
+        ]
+      },
+      "properties": {
+        "id": "way/1288152647",
+        "element_id": 1288152647,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'NESCO', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.589476",
+        "url": "https://www.openstreetmap.org/way/1288152647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.758777414268337,
+          9.360297294554424
+        ]
+      },
+      "properties": {
+        "id": "way/1288152647",
+        "element_id": 1288152647,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.589476",
+        "url": "https://www.openstreetmap.org/way/1288152647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.739829622337535,
+          9.362169814125828
+        ]
+      },
+      "properties": {
+        "id": "way/1288153391",
+        "element_id": 1288153391,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:52.589476",
+        "url": "https://www.openstreetmap.org/way/1288153391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.739829622337535,
+          9.362169814125828
+        ]
+      },
+      "properties": {
+        "id": "way/1288153391",
+        "element_id": 1288153391,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'NESCO', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.589476",
+        "url": "https://www.openstreetmap.org/way/1288153391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.739829622337535,
+          9.362169814125828
+        ]
+      },
+      "properties": {
+        "id": "way/1288153391",
+        "element_id": 1288153391,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.589476",
+        "url": "https://www.openstreetmap.org/way/1288153391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3800481380482115,
+          6.468599997539643
+        ]
+      },
+      "properties": {
+        "id": "way/1288645211",
+        "element_id": 1288645211,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.589476",
+        "url": "https://www.openstreetmap.org/way/1288645211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3800481380482115,
+          6.468599997539643
+        ]
+      },
+      "properties": {
+        "id": "way/1288645211",
+        "element_id": 1288645211,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.589476",
+        "url": "https://www.openstreetmap.org/way/1288645211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3795538472110453,
+          6.467059018096282
+        ]
+      },
+      "properties": {
+        "id": "way/1288645213",
+        "element_id": 1288645213,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.589476",
+        "url": "https://www.openstreetmap.org/way/1288645213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3795538472110453,
+          6.467059018096282
+        ]
+      },
+      "properties": {
+        "id": "way/1288645213",
+        "element_id": 1288645213,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.589476",
+        "url": "https://www.openstreetmap.org/way/1288645213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.488869143188191,
+          9.193442829231335
+        ]
+      },
+      "properties": {
+        "id": "way/1288856909",
+        "element_id": 1288856909,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.589476",
+        "url": "https://www.openstreetmap.org/way/1288856909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.838012777478672,
+          5.5690089503810976
+        ]
+      },
+      "properties": {
+        "id": "way/1288867648",
+        "element_id": 1288867648,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.589476",
+        "url": "https://www.openstreetmap.org/way/1288867648"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.361540530135162,
+          8.807927237496243
+        ]
+      },
+      "properties": {
+        "id": "way/1290093314",
+        "element_id": 1290093314,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.590475",
+        "url": "https://www.openstreetmap.org/way/1290093314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.361540530135162,
+          8.807927237496243
+        ]
+      },
+      "properties": {
+        "id": "way/1290093314",
+        "element_id": 1290093314,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.590475",
+        "url": "https://www.openstreetmap.org/way/1290093314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.358953357475838,
+          8.806736062659084
+        ]
+      },
+      "properties": {
+        "id": "way/1290093350",
+        "element_id": 1290093350,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.590475",
+        "url": "https://www.openstreetmap.org/way/1290093350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.358953357475838,
+          8.806736062659084
+        ]
+      },
+      "properties": {
+        "id": "way/1290093350",
+        "element_id": 1290093350,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.590475",
+        "url": "https://www.openstreetmap.org/way/1290093350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.913392232033694,
+          12.042832404092692
+        ]
+      },
+      "properties": {
+        "id": "way/1290345511",
+        "element_id": 1290345511,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.590475",
+        "url": "https://www.openstreetmap.org/way/1290345511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.862839492722232,
+          12.261911764831488
+        ]
+      },
+      "properties": {
+        "id": "way/1290345520",
+        "element_id": 1290345520,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.590475",
+        "url": "https://www.openstreetmap.org/way/1290345520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.862839492722232,
+          12.261911764831488
+        ]
+      },
+      "properties": {
+        "id": "way/1290345520",
+        "element_id": 1290345520,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.590475",
+        "url": "https://www.openstreetmap.org/way/1290345520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.86269144280043,
+          12.261713320055147
+        ]
+      },
+      "properties": {
+        "id": "way/1290345521",
+        "element_id": 1290345521,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.590475",
+        "url": "https://www.openstreetmap.org/way/1290345521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4097632078524707,
+          6.4198580867511446
+        ]
+      },
+      "properties": {
+        "id": "way/1290408550",
+        "element_id": 1290408550,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.591474",
+        "url": "https://www.openstreetmap.org/way/1290408550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.733127828040224,
+          9.646268715397772
+        ]
+      },
+      "properties": {
+        "id": "way/1290593195",
+        "element_id": 1290593195,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:52.591474",
+        "url": "https://www.openstreetmap.org/way/1290593195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.182685433243269,
+          12.512063839905418
+        ]
+      },
+      "properties": {
+        "id": "way/1324578576",
+        "element_id": 1324578576,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:52.592475",
+        "url": "https://www.openstreetmap.org/way/1324578576"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.182685433243269,
+          12.512063839905418
+        ]
+      },
+      "properties": {
+        "id": "way/1324578576",
+        "element_id": 1324578576,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.592475",
+        "url": "https://www.openstreetmap.org/way/1324578576"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.182685433243269,
+          12.512063839905418
+        ]
+      },
+      "properties": {
+        "id": "way/1324578576",
+        "element_id": 1324578576,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.592475",
+        "url": "https://www.openstreetmap.org/way/1324578576"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.223970664684885,
+          9.296698260700856
+        ]
+      },
+      "properties": {
+        "id": "way/1373287628",
+        "element_id": 1373287628,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:52.592475",
+        "url": "https://www.openstreetmap.org/way/1373287628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.223970664684885,
+          9.296698260700856
+        ]
+      },
+      "properties": {
+        "id": "way/1373287628",
+        "element_id": 1373287628,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.592475",
+        "url": "https://www.openstreetmap.org/way/1373287628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.223970664684885,
+          9.296698260700856
+        ]
+      },
+      "properties": {
+        "id": "way/1373287628",
+        "element_id": 1373287628,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.593474",
+        "url": "https://www.openstreetmap.org/way/1373287628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.500016950000001,
+          9.02558195
+        ]
+      },
+      "properties": {
+        "id": "way/1383544943",
+        "element_id": 1383544943,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.593474",
+        "url": "https://www.openstreetmap.org/way/1383544943"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.500016950000001,
+          9.02558195
+        ]
+      },
+      "properties": {
+        "id": "way/1383544943",
+        "element_id": 1383544943,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.593474",
+        "url": "https://www.openstreetmap.org/way/1383544943"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.919602254975547,
+          4.901925339946862
+        ]
+      },
+      "properties": {
+        "id": "way/1394913576",
+        "element_id": 1394913576,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.593474",
+        "url": "https://www.openstreetmap.org/way/1394913576"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.919602254975547,
+          4.901925339946862
+        ]
+      },
+      "properties": {
+        "id": "way/1394913576",
+        "element_id": 1394913576,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:52.593474",
+        "url": "https://www.openstreetmap.org/way/1394913576"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.837178823415028,
+          10.47630710102792
+        ]
+      },
+      "properties": {
+        "id": "way/1395052247",
+        "element_id": 1395052247,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:52.594474",
+        "url": "https://www.openstreetmap.org/way/1395052247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.837178823415028,
+          10.47630710102792
+        ]
+      },
+      "properties": {
+        "id": "way/1395052247",
+        "element_id": 1395052247,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.594474",
+        "url": "https://www.openstreetmap.org/way/1395052247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.837178823415028,
+          10.47630710102792
+        ]
+      },
+      "properties": {
+        "id": "way/1395052247",
+        "element_id": 1395052247,
+        "element_type": "way",
+        "country": "Nigeria",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:52.595479",
+        "url": "https://www.openstreetmap.org/way/1395052247"
+      }
+    }
+  ]
+}

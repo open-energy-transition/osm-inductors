@@ -1,0 +1,2359 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.34756756767644,
+          39.77226908788764
+        ]
+      },
+      "properties": {
+        "id": "relation/6966279",
+        "element_id": 6966279,
+        "element_type": "relation",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': '대동강수력발전소', 'name:en': 'Taedonggang Water-Power Plant', 'name:ko': '대동강수력발전소', 'name:ru': 'Тэдонганская ГЭС', 'plant:output:electricity': 'yes', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:43:00.927879",
+        "url": "https://www.openstreetmap.org/relation/6966279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.2545771461076,
+          41.729344268007175
+        ]
+      },
+      "properties": {
+        "id": "relation/8310824",
+        "element_id": 8310824,
+        "element_type": "relation",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': '리명수수력발전소', 'name:en': 'Rimyongsu Water Power Plant', 'name:ko': '리명수수력발전소', 'name:ko-Hani': '鯉明水水力發電所', 'name:ru': 'Имёнсуская ГЭС', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:43:00.929879",
+        "url": "https://www.openstreetmap.org/relation/8310824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.2650672885977,
+          39.59663955422424
+        ]
+      },
+      "properties": {
+        "id": "relation/17922765",
+        "element_id": 17922765,
+        "element_type": "relation",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:00.930879",
+        "url": "https://www.openstreetmap.org/relation/17922765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.2650672885977,
+          39.59663955422424
+        ]
+      },
+      "properties": {
+        "id": "relation/17922765",
+        "element_id": 17922765,
+        "element_type": "relation",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:43:00.930879",
+        "url": "https://www.openstreetmap.org/relation/17922765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.2650672885977,
+          39.59663955422424
+        ]
+      },
+      "properties": {
+        "id": "relation/17922765",
+        "element_id": 17922765,
+        "element_type": "relation",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.930879",
+        "url": "https://www.openstreetmap.org/relation/17922765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.41369237512848,
+          41.22764163768102
+        ]
+      },
+      "properties": {
+        "id": "way/132043816",
+        "element_id": 132043816,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.931879",
+        "url": "https://www.openstreetmap.org/way/132043816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.41369237512848,
+          41.22764163768102
+        ]
+      },
+      "properties": {
+        "id": "way/132043816",
+        "element_id": 132043816,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.931879",
+        "url": "https://www.openstreetmap.org/way/132043816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.96822781778528,
+          39.40122037199969
+        ]
+      },
+      "properties": {
+        "id": "way/180106739",
+        "element_id": 180106739,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.932880",
+        "url": "https://www.openstreetmap.org/way/180106739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3813762795031,
+          42.327861730585255
+        ]
+      },
+      "properties": {
+        "id": "way/199510599",
+        "element_id": 199510599,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.932880",
+        "url": "https://www.openstreetmap.org/way/199510599"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.73311192522198,
+          40.61323620356053
+        ]
+      },
+      "properties": {
+        "id": "way/251182200",
+        "element_id": 251182200,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': '허천 강제3수력발전소', 'name:en': 'Hochong-Gangjye 3 Hydro Power Plant', 'name:ko': '허천 강제3수력발전소', 'name:ru': 'ГЭС Хочхонгандже-3', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.934878",
+        "url": "https://www.openstreetmap.org/way/251182200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.54968751439858,
+          39.840582480557615
+        ]
+      },
+      "properties": {
+        "id": "way/276166761",
+        "element_id": 276166761,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.934878",
+        "url": "https://www.openstreetmap.org/way/276166761"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.54968751439858,
+          39.840582480557615
+        ]
+      },
+      "properties": {
+        "id": "way/276166761",
+        "element_id": 276166761,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.934878",
+        "url": "https://www.openstreetmap.org/way/276166761"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.71156103345456,
+          39.00930861018466
+        ]
+      },
+      "properties": {
+        "id": "way/345657539",
+        "element_id": 345657539,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'alt_name': 'Pyongyang Combined Heat and Power Plant', 'landuse': 'industrial', 'name': '평양화력발전소', 'name:en': 'Pyongyang Thermal Power Complex', 'name:ja': '平壌火力発電所', 'name:ko': '평양화력발전소', 'name:ru': 'Пхеньянскач ТЭЦ', 'name:zh': '平壤火力发电厂', 'plant:output:electricity': '0.7 GW', 'power': 'plant', 'start_date': '1960'}",
+        "timestamp": "2025-07-07 18:43:00.934878",
+        "url": "https://www.openstreetmap.org/way/345657539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.33707188840896,
+          38.94836398555614
+        ]
+      },
+      "properties": {
+        "id": "way/407956070",
+        "element_id": 407956070,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:00.934878",
+        "url": "https://www.openstreetmap.org/way/407956070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.33707188840896,
+          38.94836398555614
+        ]
+      },
+      "properties": {
+        "id": "way/407956070",
+        "element_id": 407956070,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.934878",
+        "url": "https://www.openstreetmap.org/way/407956070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.41118888144894,
+          41.23988660209503
+        ]
+      },
+      "properties": {
+        "id": "way/449113209",
+        "element_id": 449113209,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.934878",
+        "url": "https://www.openstreetmap.org/way/449113209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.41118888144894,
+          41.23988660209503
+        ]
+      },
+      "properties": {
+        "id": "way/449113209",
+        "element_id": 449113209,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.934878",
+        "url": "https://www.openstreetmap.org/way/449113209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.48341137221048,
+          40.09733087002208
+        ]
+      },
+      "properties": {
+        "id": "way/525939384",
+        "element_id": 525939384,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.935878",
+        "url": "https://www.openstreetmap.org/way/525939384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.48341137221048,
+          40.09733087002208
+        ]
+      },
+      "properties": {
+        "id": "way/525939384",
+        "element_id": 525939384,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.937877",
+        "url": "https://www.openstreetmap.org/way/525939384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.3195719654401,
+          41.367531936394
+        ]
+      },
+      "properties": {
+        "id": "way/540395214",
+        "element_id": 540395214,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.937877",
+        "url": "https://www.openstreetmap.org/way/540395214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.3195719654401,
+          41.367531936394
+        ]
+      },
+      "properties": {
+        "id": "way/540395214",
+        "element_id": 540395214,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.937877",
+        "url": "https://www.openstreetmap.org/way/540395214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6482092,
+          40.0409966
+        ]
+      },
+      "properties": {
+        "id": "way/552669926",
+        "element_id": 552669926,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:00.937877",
+        "url": "https://www.openstreetmap.org/way/552669926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6482092,
+          40.0409966
+        ]
+      },
+      "properties": {
+        "id": "way/552669926",
+        "element_id": 552669926,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.937877",
+        "url": "https://www.openstreetmap.org/way/552669926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6482092,
+          40.0409966
+        ]
+      },
+      "properties": {
+        "id": "way/552669926",
+        "element_id": 552669926,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.937877",
+        "url": "https://www.openstreetmap.org/way/552669926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.0681700301858,
+          39.5704174735534
+        ]
+      },
+      "properties": {
+        "id": "way/576321265",
+        "element_id": 576321265,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.937877",
+        "url": "https://www.openstreetmap.org/way/576321265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.0681700301858,
+          39.5704174735534
+        ]
+      },
+      "properties": {
+        "id": "way/576321265",
+        "element_id": 576321265,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.937877",
+        "url": "https://www.openstreetmap.org/way/576321265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4145841013021,
+          38.72864141245137
+        ]
+      },
+      "properties": {
+        "id": "way/688199064",
+        "element_id": 688199064,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Coal Storage Yard', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.937877",
+        "url": "https://www.openstreetmap.org/way/688199064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41504504105608,
+          38.72890759984603
+        ]
+      },
+      "properties": {
+        "id": "way/688199065",
+        "element_id": 688199065,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Coal Storage Yard', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.937877",
+        "url": "https://www.openstreetmap.org/way/688199065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41621999347768,
+          38.73022017659418
+        ]
+      },
+      "properties": {
+        "id": "way/688199066",
+        "element_id": 688199066,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Coal Storage Yard', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.937877",
+        "url": "https://www.openstreetmap.org/way/688199066"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41279600100388,
+          38.73171958152024
+        ]
+      },
+      "properties": {
+        "id": "way/688202322",
+        "element_id": 688202322,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Coal Storage Yard', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.938881",
+        "url": "https://www.openstreetmap.org/way/688202322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.92960849726526,
+          39.784381385656246
+        ]
+      },
+      "properties": {
+        "id": "way/708040655",
+        "element_id": 708040655,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "30万KW",
+        "details": "Tag 'plant:output:electricity' has value '30万KW' which could not be parsed",
+        "timestamp": "2025-07-07 18:43:00.938881",
+        "url": "https://www.openstreetmap.org/way/708040655"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7111608346611,
+          38.98714684053887
+        ]
+      },
+      "properties": {
+        "id": "way/782703668",
+        "element_id": 782703668,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.938881",
+        "url": "https://www.openstreetmap.org/way/782703668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7111608346611,
+          38.98714684053887
+        ]
+      },
+      "properties": {
+        "id": "way/782703668",
+        "element_id": 782703668,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.938881",
+        "url": "https://www.openstreetmap.org/way/782703668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.71378596178626,
+          38.98720043267426
+        ]
+      },
+      "properties": {
+        "id": "way/782703669",
+        "element_id": 782703669,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.938881",
+        "url": "https://www.openstreetmap.org/way/782703669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.71378596178626,
+          38.98720043267426
+        ]
+      },
+      "properties": {
+        "id": "way/782703669",
+        "element_id": 782703669,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.938881",
+        "url": "https://www.openstreetmap.org/way/782703669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10802438334385,
+          39.572239645439325
+        ]
+      },
+      "properties": {
+        "id": "way/808439924",
+        "element_id": 808439924,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:00.938881",
+        "url": "https://www.openstreetmap.org/way/808439924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10802438334385,
+          39.572239645439325
+        ]
+      },
+      "properties": {
+        "id": "way/808439924",
+        "element_id": 808439924,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.938881",
+        "url": "https://www.openstreetmap.org/way/808439924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.13819773568984,
+          40.00221494511672
+        ]
+      },
+      "properties": {
+        "id": "way/868172716",
+        "element_id": 868172716,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:00.939881",
+        "url": "https://www.openstreetmap.org/way/868172716"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.13819773568984,
+          40.00221494511672
+        ]
+      },
+      "properties": {
+        "id": "way/868172716",
+        "element_id": 868172716,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.939881",
+        "url": "https://www.openstreetmap.org/way/868172716"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.13819773568984,
+          40.00221494511672
+        ]
+      },
+      "properties": {
+        "id": "way/868172716",
+        "element_id": 868172716,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.939881",
+        "url": "https://www.openstreetmap.org/way/868172716"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.75239940989198,
+          41.76284716706462
+        ]
+      },
+      "properties": {
+        "id": "way/944437907",
+        "element_id": 944437907,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.939881",
+        "url": "https://www.openstreetmap.org/way/944437907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.60395996649063,
+          41.59369492590992
+        ]
+      },
+      "properties": {
+        "id": "way/971211486",
+        "element_id": 971211486,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.939881",
+        "url": "https://www.openstreetmap.org/way/971211486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.60395996649063,
+          41.59369492590992
+        ]
+      },
+      "properties": {
+        "id": "way/971211486",
+        "element_id": 971211486,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.939881",
+        "url": "https://www.openstreetmap.org/way/971211486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.15565093435515,
+          41.318398097366085
+        ]
+      },
+      "properties": {
+        "id": "way/983797929",
+        "element_id": 983797929,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:00.939881",
+        "url": "https://www.openstreetmap.org/way/983797929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.15565093435515,
+          41.318398097366085
+        ]
+      },
+      "properties": {
+        "id": "way/983797929",
+        "element_id": 983797929,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.939881",
+        "url": "https://www.openstreetmap.org/way/983797929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.60120312686644,
+          38.32826669500285
+        ]
+      },
+      "properties": {
+        "id": "way/1023226349",
+        "element_id": 1023226349,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:00.940881",
+        "url": "https://www.openstreetmap.org/way/1023226349"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.60120312686644,
+          38.32826669500285
+        ]
+      },
+      "properties": {
+        "id": "way/1023226349",
+        "element_id": 1023226349,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.940881",
+        "url": "https://www.openstreetmap.org/way/1023226349"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.60227933593865,
+          40.98030649261465
+        ]
+      },
+      "properties": {
+        "id": "way/1030115351",
+        "element_id": 1030115351,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': '강계청년발전소 3호발전소', 'name:en': 'Kanggye Youth Power Station No. 3', 'name:ko': '강계청년발전소 3호발전소', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.940881",
+        "url": "https://www.openstreetmap.org/way/1030115351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.5101421633167,
+          41.40250421933579
+        ]
+      },
+      "properties": {
+        "id": "way/1039345787",
+        "element_id": 1039345787,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:00.940881",
+        "url": "https://www.openstreetmap.org/way/1039345787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.5101421633167,
+          41.40250421933579
+        ]
+      },
+      "properties": {
+        "id": "way/1039345787",
+        "element_id": 1039345787,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.940881",
+        "url": "https://www.openstreetmap.org/way/1039345787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.5101421633167,
+          41.40250421933579
+        ]
+      },
+      "properties": {
+        "id": "way/1039345787",
+        "element_id": 1039345787,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.940881",
+        "url": "https://www.openstreetmap.org/way/1039345787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.41307583526668,
+          38.73067998836579
+        ]
+      },
+      "properties": {
+        "id": "way/1046777795",
+        "element_id": 1046777795,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Coal Storage Yard', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.940881",
+        "url": "https://www.openstreetmap.org/way/1046777795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.59655912119187,
+          40.97828724000748
+        ]
+      },
+      "properties": {
+        "id": "way/1121948308",
+        "element_id": 1121948308,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:00.940881",
+        "url": "https://www.openstreetmap.org/way/1121948308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.59655912119187,
+          40.97828724000748
+        ]
+      },
+      "properties": {
+        "id": "way/1121948308",
+        "element_id": 1121948308,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.940881",
+        "url": "https://www.openstreetmap.org/way/1121948308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.61201025358127,
+          40.98451063040336
+        ]
+      },
+      "properties": {
+        "id": "way/1121948321",
+        "element_id": 1121948321,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:00.940881",
+        "url": "https://www.openstreetmap.org/way/1121948321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.61201025358127,
+          40.98451063040336
+        ]
+      },
+      "properties": {
+        "id": "way/1121948321",
+        "element_id": 1121948321,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.941885",
+        "url": "https://www.openstreetmap.org/way/1121948321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.61925843924028,
+          40.99251515782362
+        ]
+      },
+      "properties": {
+        "id": "way/1121948322",
+        "element_id": 1121948322,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:00.941885",
+        "url": "https://www.openstreetmap.org/way/1121948322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.61925843924028,
+          40.99251515782362
+        ]
+      },
+      "properties": {
+        "id": "way/1121948322",
+        "element_id": 1121948322,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.941885",
+        "url": "https://www.openstreetmap.org/way/1121948322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.62769843511136,
+          41.00545452108258
+        ]
+      },
+      "properties": {
+        "id": "way/1121948330",
+        "element_id": 1121948330,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:00.941885",
+        "url": "https://www.openstreetmap.org/way/1121948330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.62769843511136,
+          41.00545452108258
+        ]
+      },
+      "properties": {
+        "id": "way/1121948330",
+        "element_id": 1121948330,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.941885",
+        "url": "https://www.openstreetmap.org/way/1121948330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.63603402839148,
+          41.01408880767355
+        ]
+      },
+      "properties": {
+        "id": "way/1121948331",
+        "element_id": 1121948331,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:00.941885",
+        "url": "https://www.openstreetmap.org/way/1121948331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.63603402839148,
+          41.01408880767355
+        ]
+      },
+      "properties": {
+        "id": "way/1121948331",
+        "element_id": 1121948331,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.941885",
+        "url": "https://www.openstreetmap.org/way/1121948331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.66116524185084,
+          41.05446262667492
+        ]
+      },
+      "properties": {
+        "id": "way/1121948332",
+        "element_id": 1121948332,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:00.941885",
+        "url": "https://www.openstreetmap.org/way/1121948332"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.66116524185084,
+          41.05446262667492
+        ]
+      },
+      "properties": {
+        "id": "way/1121948332",
+        "element_id": 1121948332,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.941885",
+        "url": "https://www.openstreetmap.org/way/1121948332"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.66721494286394,
+          41.06137980450176
+        ]
+      },
+      "properties": {
+        "id": "way/1121948339",
+        "element_id": 1121948339,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:00.941885",
+        "url": "https://www.openstreetmap.org/way/1121948339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.66721494286394,
+          41.06137980450176
+        ]
+      },
+      "properties": {
+        "id": "way/1121948339",
+        "element_id": 1121948339,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.941885",
+        "url": "https://www.openstreetmap.org/way/1121948339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.68622235639458,
+          41.06359799804782
+        ]
+      },
+      "properties": {
+        "id": "way/1121948341",
+        "element_id": 1121948341,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:00.941885",
+        "url": "https://www.openstreetmap.org/way/1121948341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.68622235639458,
+          41.06359799804782
+        ]
+      },
+      "properties": {
+        "id": "way/1121948341",
+        "element_id": 1121948341,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.941885",
+        "url": "https://www.openstreetmap.org/way/1121948341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7098263929554,
+          41.06767711871187
+        ]
+      },
+      "properties": {
+        "id": "way/1121948342",
+        "element_id": 1121948342,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:00.941885",
+        "url": "https://www.openstreetmap.org/way/1121948342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7098263929554,
+          41.06767711871187
+        ]
+      },
+      "properties": {
+        "id": "way/1121948342",
+        "element_id": 1121948342,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.941885",
+        "url": "https://www.openstreetmap.org/way/1121948342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.52017515853731,
+          41.44492474934929
+        ]
+      },
+      "properties": {
+        "id": "way/1121955207",
+        "element_id": 1121955207,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': '남사강2호발전소', 'name:en': 'Namsa River Power Plant No. 2', 'name:ko': '남사강2호발전소', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.942881",
+        "url": "https://www.openstreetmap.org/way/1121955207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.81456521478177,
+          39.08646317520997
+        ]
+      },
+      "properties": {
+        "id": "way/1144294624",
+        "element_id": 1144294624,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.942881",
+        "url": "https://www.openstreetmap.org/way/1144294624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.81456521478177,
+          39.08646317520997
+        ]
+      },
+      "properties": {
+        "id": "way/1144294624",
+        "element_id": 1144294624,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.942881",
+        "url": "https://www.openstreetmap.org/way/1144294624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.32523701581414,
+          41.36633431022853
+        ]
+      },
+      "properties": {
+        "id": "way/1159394474",
+        "element_id": 1159394474,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.942881",
+        "url": "https://www.openstreetmap.org/way/1159394474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.32523701581414,
+          41.36633431022853
+        ]
+      },
+      "properties": {
+        "id": "way/1159394474",
+        "element_id": 1159394474,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.942881",
+        "url": "https://www.openstreetmap.org/way/1159394474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.69027947510936,
+          38.80678205256099
+        ]
+      },
+      "properties": {
+        "id": "way/1181341796",
+        "element_id": 1181341796,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.942881",
+        "url": "https://www.openstreetmap.org/way/1181341796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.69027947510936,
+          38.80678205256099
+        ]
+      },
+      "properties": {
+        "id": "way/1181341796",
+        "element_id": 1181341796,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.943881",
+        "url": "https://www.openstreetmap.org/way/1181341796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4716845690094,
+          38.39826346035661
+        ]
+      },
+      "properties": {
+        "id": "way/1254930532",
+        "element_id": 1254930532,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.943881",
+        "url": "https://www.openstreetmap.org/way/1254930532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4716845690094,
+          38.39826346035661
+        ]
+      },
+      "properties": {
+        "id": "way/1254930532",
+        "element_id": 1254930532,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.943881",
+        "url": "https://www.openstreetmap.org/way/1254930532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.85647673452291,
+          39.73601426973888
+        ]
+      },
+      "properties": {
+        "id": "way/1364839004",
+        "element_id": 1364839004,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:00.944881",
+        "url": "https://www.openstreetmap.org/way/1364839004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.85647673452291,
+          39.73601426973888
+        ]
+      },
+      "properties": {
+        "id": "way/1364839004",
+        "element_id": 1364839004,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.944881",
+        "url": "https://www.openstreetmap.org/way/1364839004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.85647673452291,
+          39.73601426973888
+        ]
+      },
+      "properties": {
+        "id": "way/1364839004",
+        "element_id": 1364839004,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:00.944881",
+        "url": "https://www.openstreetmap.org/way/1364839004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.75209279540758,
+          41.76318451576797
+        ]
+      },
+      "properties": {
+        "id": "way/1366735557",
+        "element_id": 1366735557,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.944881",
+        "url": "https://www.openstreetmap.org/way/1366735557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.75209279540758,
+          41.76318451576797
+        ]
+      },
+      "properties": {
+        "id": "way/1366735557",
+        "element_id": 1366735557,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.944881",
+        "url": "https://www.openstreetmap.org/way/1366735557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7518586,
+          41.76394204999999
+        ]
+      },
+      "properties": {
+        "id": "way/1366735559",
+        "element_id": 1366735559,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.944881",
+        "url": "https://www.openstreetmap.org/way/1366735559"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7518586,
+          41.76394204999999
+        ]
+      },
+      "properties": {
+        "id": "way/1366735559",
+        "element_id": 1366735559,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.944881",
+        "url": "https://www.openstreetmap.org/way/1366735559"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7522834356535,
+          41.76208778329464
+        ]
+      },
+      "properties": {
+        "id": "way/1367320760",
+        "element_id": 1367320760,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.944881",
+        "url": "https://www.openstreetmap.org/way/1367320760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7522834356535,
+          41.76208778329464
+        ]
+      },
+      "properties": {
+        "id": "way/1367320760",
+        "element_id": 1367320760,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.944881",
+        "url": "https://www.openstreetmap.org/way/1367320760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7525859,
+          41.76165505
+        ]
+      },
+      "properties": {
+        "id": "way/1367320761",
+        "element_id": 1367320761,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.944881",
+        "url": "https://www.openstreetmap.org/way/1367320761"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7525859,
+          41.76165505
+        ]
+      },
+      "properties": {
+        "id": "way/1367320761",
+        "element_id": 1367320761,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.944881",
+        "url": "https://www.openstreetmap.org/way/1367320761"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7513359483476,
+          41.76383706780858
+        ]
+      },
+      "properties": {
+        "id": "way/1367320762",
+        "element_id": 1367320762,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.944881",
+        "url": "https://www.openstreetmap.org/way/1367320762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7513359483476,
+          41.76383706780858
+        ]
+      },
+      "properties": {
+        "id": "way/1367320762",
+        "element_id": 1367320762,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.944881",
+        "url": "https://www.openstreetmap.org/way/1367320762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.75199469649706,
+          41.763616637049786
+        ]
+      },
+      "properties": {
+        "id": "way/1367320763",
+        "element_id": 1367320763,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.944881",
+        "url": "https://www.openstreetmap.org/way/1367320763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.75199469649706,
+          41.763616637049786
+        ]
+      },
+      "properties": {
+        "id": "way/1367320763",
+        "element_id": 1367320763,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.944881",
+        "url": "https://www.openstreetmap.org/way/1367320763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7522256461206,
+          41.76251186863728
+        ]
+      },
+      "properties": {
+        "id": "way/1367320765",
+        "element_id": 1367320765,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.944881",
+        "url": "https://www.openstreetmap.org/way/1367320765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7522256461206,
+          41.76251186863728
+        ]
+      },
+      "properties": {
+        "id": "way/1367320765",
+        "element_id": 1367320765,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.944881",
+        "url": "https://www.openstreetmap.org/way/1367320765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.75283236595692,
+          41.76209966228834
+        ]
+      },
+      "properties": {
+        "id": "way/1367320766",
+        "element_id": 1367320766,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.944881",
+        "url": "https://www.openstreetmap.org/way/1367320766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8439924,
+          39.6173613
+        ]
+      },
+      "properties": {
+        "id": "node/1775448230",
+        "element_id": 1775448230,
+        "element_type": "node",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:00.945881",
+        "url": "https://www.openstreetmap.org/node/1775448230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8439924,
+          39.6173613
+        ]
+      },
+      "properties": {
+        "id": "node/1775448230",
+        "element_id": 1775448230,
+        "element_type": "node",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.945881",
+        "url": "https://www.openstreetmap.org/node/1775448230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.75283236595692,
+          41.76209966228834
+        ]
+      },
+      "properties": {
+        "id": "way/1367320766",
+        "element_id": 1367320766,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.945881",
+        "url": "https://www.openstreetmap.org/way/1367320766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.75247741556558,
+          41.76274021602537
+        ]
+      },
+      "properties": {
+        "id": "way/1367320767",
+        "element_id": 1367320767,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.945881",
+        "url": "https://www.openstreetmap.org/way/1367320767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.75247741556558,
+          41.76274021602537
+        ]
+      },
+      "properties": {
+        "id": "way/1367320767",
+        "element_id": 1367320767,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.945881",
+        "url": "https://www.openstreetmap.org/way/1367320767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.75315991754067,
+          41.7616629506843
+        ]
+      },
+      "properties": {
+        "id": "way/1367320768",
+        "element_id": 1367320768,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.945881",
+        "url": "https://www.openstreetmap.org/way/1367320768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.75315991754067,
+          41.7616629506843
+        ]
+      },
+      "properties": {
+        "id": "way/1367320768",
+        "element_id": 1367320768,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.945881",
+        "url": "https://www.openstreetmap.org/way/1367320768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.76929993924858,
+          41.78527316293837
+        ]
+      },
+      "properties": {
+        "id": "way/1368016208",
+        "element_id": 1368016208,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.945881",
+        "url": "https://www.openstreetmap.org/way/1368016208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.76929993924858,
+          41.78527316293837
+        ]
+      },
+      "properties": {
+        "id": "way/1368016208",
+        "element_id": 1368016208,
+        "element_type": "way",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.945881",
+        "url": "https://www.openstreetmap.org/way/1368016208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8439924,
+          39.6173613
+        ]
+      },
+      "properties": {
+        "id": "node/1775448230",
+        "element_id": 1775448230,
+        "element_type": "node",
+        "country": "Korea, Democratic People's Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:00.947885",
+        "url": "https://www.openstreetmap.org/node/1775448230"
+      }
+    }
+  ]
+}

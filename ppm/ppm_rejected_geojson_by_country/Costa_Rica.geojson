@@ -1,0 +1,1325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.96743996029716,
+          10.505282590069305
+        ]
+      },
+      "properties": {
+        "id": "relation/15459328",
+        "element_id": 15459328,
+        "element_type": "relation",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'wind', 'power': 'plant', 'site': 'wind_farm', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:26:52.028044",
+        "url": "https://www.openstreetmap.org/relation/15459328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.96743996029716,
+          10.505282590069305
+        ]
+      },
+      "properties": {
+        "id": "relation/15459328",
+        "element_id": 15459328,
+        "element_type": "relation",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'wind', 'power': 'plant', 'site': 'wind_farm', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:26:52.028044",
+        "url": "https://www.openstreetmap.org/relation/15459328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23194738780025,
+          9.942066320320665
+        ]
+      },
+      "properties": {
+        "id": "relation/16885799",
+        "element_id": 16885799,
+        "element_type": "relation",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.037045",
+        "url": "https://www.openstreetmap.org/relation/16885799"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23194738780025,
+          9.942066320320665
+        ]
+      },
+      "properties": {
+        "id": "relation/16885799",
+        "element_id": 16885799,
+        "element_type": "relation",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Planta Hidroelectrica Brasil', 'operator': 'ICE', 'plant:source': 'hydro', 'power': 'plant', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:26:52.037045",
+        "url": "https://www.openstreetmap.org/relation/16885799"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.20976775040457,
+          9.961456150572513
+        ]
+      },
+      "properties": {
+        "id": "relation/18480861",
+        "element_id": 18480861,
+        "element_type": "relation",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.039044",
+        "url": "https://www.openstreetmap.org/relation/18480861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.20976775040457,
+          9.961456150572513
+        ]
+      },
+      "properties": {
+        "id": "relation/18480861",
+        "element_id": 18480861,
+        "element_type": "relation",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Planta Hidroelectrica Belen', 'operator': 'ICE', 'plant:source': 'hydro', 'power': 'plant', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:26:52.039044",
+        "url": "https://www.openstreetmap.org/relation/18480861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.16164737271957,
+          9.965409746418262
+        ]
+      },
+      "properties": {
+        "id": "way/25379683",
+        "element_id": 25379683,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 11 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.040044",
+        "url": "https://www.openstreetmap.org/way/25379683"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.16164737271957,
+          9.965409746418262
+        ]
+      },
+      "properties": {
+        "id": "way/25379683",
+        "element_id": 25379683,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:52.040044",
+        "url": "https://www.openstreetmap.org/way/25379683"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18360607671411,
+          9.972232327388792
+        ]
+      },
+      "properties": {
+        "id": "way/25380234",
+        "element_id": 25380234,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Puente Mulas', 'power': 'plant', 'waterway': 'dam'}",
+        "timestamp": "2025-07-07 18:26:52.040044",
+        "url": "https://www.openstreetmap.org/way/25380234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.84175735383306,
+          9.775978074818358
+        ]
+      },
+      "properties": {
+        "id": "way/102252987",
+        "element_id": 102252987,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.041045",
+        "url": "https://www.openstreetmap.org/way/102252987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.57218688513449,
+          10.270678475603342
+        ]
+      },
+      "properties": {
+        "id": "way/112441040",
+        "element_id": 112441040,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Coopeguanacaste R.L. - Oficinas Centrales', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:52.041045",
+        "url": "https://www.openstreetmap.org/way/112441040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.26838622433941,
+          9.93282362897004
+        ]
+      },
+      "properties": {
+        "id": "way/127867730",
+        "element_id": 127867730,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.041045",
+        "url": "https://www.openstreetmap.org/way/127867730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.26838622433941,
+          9.93282362897004
+        ]
+      },
+      "properties": {
+        "id": "way/127867730",
+        "element_id": 127867730,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:52.041045",
+        "url": "https://www.openstreetmap.org/way/127867730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34066943856735,
+          9.98879113373509
+        ]
+      },
+      "properties": {
+        "id": "way/188790588",
+        "element_id": 188790588,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.041045",
+        "url": "https://www.openstreetmap.org/way/188790588"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.18141468452804,
+          10.717854119571962
+        ]
+      },
+      "properties": {
+        "id": "way/245385711",
+        "element_id": 245385711,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.041045",
+        "url": "https://www.openstreetmap.org/way/245385711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.19445005678915,
+          10.699292316520276
+        ]
+      },
+      "properties": {
+        "id": "way/79164119",
+        "element_id": 79164119,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "gasification",
+        "details": "\"gasification\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Geothermal\"",
+        "timestamp": "2025-07-07 18:26:52.041045",
+        "url": "https://www.openstreetmap.org/way/79164119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34924561268183,
+          9.942596733703637
+        ]
+      },
+      "properties": {
+        "id": "way/99446233",
+        "element_id": 99446233,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.041045",
+        "url": "https://www.openstreetmap.org/way/99446233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34924561268183,
+          9.942596733703637
+        ]
+      },
+      "properties": {
+        "id": "way/99446233",
+        "element_id": 99446233,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:52.041045",
+        "url": "https://www.openstreetmap.org/way/99446233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.27810312920641,
+          9.930582386004051
+        ]
+      },
+      "properties": {
+        "id": "way/253278249",
+        "element_id": 253278249,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.042044",
+        "url": "https://www.openstreetmap.org/way/253278249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.27810312920641,
+          9.930582386004051
+        ]
+      },
+      "properties": {
+        "id": "way/253278249",
+        "element_id": 253278249,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:52.042044",
+        "url": "https://www.openstreetmap.org/way/253278249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.27810312920641,
+          9.930582386004051
+        ]
+      },
+      "properties": {
+        "id": "way/253278249",
+        "element_id": 253278249,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:52.042044",
+        "url": "https://www.openstreetmap.org/way/253278249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35923110651896,
+          9.934332100874602
+        ]
+      },
+      "properties": {
+        "id": "way/330104588",
+        "element_id": 330104588,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.042044",
+        "url": "https://www.openstreetmap.org/way/330104588"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35923110651896,
+          9.934332100874602
+        ]
+      },
+      "properties": {
+        "id": "way/330104588",
+        "element_id": 330104588,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:52.042044",
+        "url": "https://www.openstreetmap.org/way/330104588"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35923110651896,
+          9.934332100874602
+        ]
+      },
+      "properties": {
+        "id": "way/330104588",
+        "element_id": 330104588,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:52.042044",
+        "url": "https://www.openstreetmap.org/way/330104588"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.62974197555675,
+          10.36502881764302
+        ]
+      },
+      "properties": {
+        "id": "way/330252485",
+        "element_id": 330252485,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:52.043044",
+        "url": "https://www.openstreetmap.org/way/330252485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.35845213705063,
+          10.758042766197958
+        ]
+      },
+      "properties": {
+        "id": "way/390822782",
+        "element_id": 390822782,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.043044",
+        "url": "https://www.openstreetmap.org/way/390822782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58454034786973,
+          10.380157531721371
+        ]
+      },
+      "properties": {
+        "id": "way/528212892",
+        "element_id": 528212892,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Plantel Hidroeléctrico Peñas Blancas', 'operator': 'ICE', 'operator:wikidata': 'Q3431114', 'operator:wikipedia': 'en:Instituto Costarricense de Electricidad', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:52.043044",
+        "url": "https://www.openstreetmap.org/way/528212892"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1795296479061,
+          9.968874200484052
+        ]
+      },
+      "properties": {
+        "id": "way/557557063",
+        "element_id": 557557063,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.044044",
+        "url": "https://www.openstreetmap.org/way/557557063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1795296479061,
+          9.968874200484052
+        ]
+      },
+      "properties": {
+        "id": "way/557557063",
+        "element_id": 557557063,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:52.044044",
+        "url": "https://www.openstreetmap.org/way/557557063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1795296479061,
+          9.968874200484052
+        ]
+      },
+      "properties": {
+        "id": "way/557557063",
+        "element_id": 557557063,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:52.044044",
+        "url": "https://www.openstreetmap.org/way/557557063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.20501840672618,
+          10.853743529050965
+        ]
+      },
+      "properties": {
+        "id": "way/563112847",
+        "element_id": 563112847,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:52.044044",
+        "url": "https://www.openstreetmap.org/way/563112847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.19325322357341,
+          10.68369393132576
+        ]
+      },
+      "properties": {
+        "id": "way/744785109",
+        "element_id": 744785109,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.044044",
+        "url": "https://www.openstreetmap.org/way/744785109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6867121,
+          9.854092549999995
+        ]
+      },
+      "properties": {
+        "id": "way/744785137",
+        "element_id": 744785137,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.045044",
+        "url": "https://www.openstreetmap.org/way/744785137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.10348964999999,
+          10.4644753
+        ]
+      },
+      "properties": {
+        "id": "way/744785139",
+        "element_id": 744785139,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:52.045044",
+        "url": "https://www.openstreetmap.org/way/744785139"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.07628255,
+          10.469587900000004
+        ]
+      },
+      "properties": {
+        "id": "way/744785144",
+        "element_id": 744785144,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:52.045044",
+        "url": "https://www.openstreetmap.org/way/744785144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.34642603602506,
+          10.757709738232071
+        ]
+      },
+      "properties": {
+        "id": "way/744785145",
+        "element_id": 744785145,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.045044",
+        "url": "https://www.openstreetmap.org/way/744785145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.75346236699528,
+          9.870069075909363
+        ]
+      },
+      "properties": {
+        "id": "way/744785160",
+        "element_id": 744785160,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.046044",
+        "url": "https://www.openstreetmap.org/way/744785160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.77712721875783,
+          9.865989489030069
+        ]
+      },
+      "properties": {
+        "id": "way/744785162",
+        "element_id": 744785162,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:52.046044",
+        "url": "https://www.openstreetmap.org/way/744785162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35334356501558,
+          10.38737246789865
+        ]
+      },
+      "properties": {
+        "id": "way/807389938",
+        "element_id": 807389938,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.048047",
+        "url": "https://www.openstreetmap.org/way/807389938"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35334356501558,
+          10.38737246789865
+        ]
+      },
+      "properties": {
+        "id": "way/807389938",
+        "element_id": 807389938,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:52.048047",
+        "url": "https://www.openstreetmap.org/way/807389938"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35334356501558,
+          10.38737246789865
+        ]
+      },
+      "properties": {
+        "id": "way/807389938",
+        "element_id": 807389938,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:52.048047",
+        "url": "https://www.openstreetmap.org/way/807389938"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5882267003482,
+          10.39301686543122
+        ]
+      },
+      "properties": {
+        "id": "way/1053128663",
+        "element_id": 1053128663,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:52.049049",
+        "url": "https://www.openstreetmap.org/way/1053128663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.52741699830406,
+          10.61083882874336
+        ]
+      },
+      "properties": {
+        "id": "way/1078540405",
+        "element_id": 1078540405,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:52.049049",
+        "url": "https://www.openstreetmap.org/way/1078540405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.52741699830406,
+          10.61083882874336
+        ]
+      },
+      "properties": {
+        "id": "way/1078540405",
+        "element_id": 1078540405,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:52.049049",
+        "url": "https://www.openstreetmap.org/way/1078540405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50907221665176,
+          10.361098275202284
+        ]
+      },
+      "properties": {
+        "id": "way/1082369793",
+        "element_id": 1082369793,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:52.049049",
+        "url": "https://www.openstreetmap.org/way/1082369793"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44724675160647,
+          9.926118740863911
+        ]
+      },
+      "properties": {
+        "id": "way/1090883157",
+        "element_id": 1090883157,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.049049",
+        "url": "https://www.openstreetmap.org/way/1090883157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21537490202722,
+          10.07527301800882
+        ]
+      },
+      "properties": {
+        "id": "way/921547351",
+        "element_id": 921547351,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Sabanilla', 'landuse': 'industrial', 'name': 'Edificio del ICE Sabanilla', 'name:it': \"Edificio del'Istituto Costaricano d'Elettricità Sabanilla\", 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:52.049049",
+        "url": "https://www.openstreetmap.org/way/921547351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1799643,
+          9.9996656
+        ]
+      },
+      "properties": {
+        "id": "node/5924433791",
+        "element_id": 5924433791,
+        "element_type": "node",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.050047",
+        "url": "https://www.openstreetmap.org/node/5924433791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1799643,
+          9.9996656
+        ]
+      },
+      "properties": {
+        "id": "node/5924433791",
+        "element_id": 5924433791,
+        "element_type": "node",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:52.050047",
+        "url": "https://www.openstreetmap.org/node/5924433791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2503238,
+          10.0528038
+        ]
+      },
+      "properties": {
+        "id": "node/6150772948",
+        "element_id": 6150772948,
+        "element_type": "node",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.050047",
+        "url": "https://www.openstreetmap.org/node/6150772948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2503238,
+          10.0528038
+        ]
+      },
+      "properties": {
+        "id": "node/6150772948",
+        "element_id": 6150772948,
+        "element_type": "node",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Presa Carrillos', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:52.050047",
+        "url": "https://www.openstreetmap.org/node/6150772948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44724675160647,
+          9.926118740863911
+        ]
+      },
+      "properties": {
+        "id": "way/1090883157",
+        "element_id": 1090883157,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:52.050047",
+        "url": "https://www.openstreetmap.org/way/1090883157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.27891296477372,
+          10.242272930845838
+        ]
+      },
+      "properties": {
+        "id": "way/1149772057",
+        "element_id": 1149772057,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:26:52.050047",
+        "url": "https://www.openstreetmap.org/way/1149772057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.27891296477372,
+          10.242272930845838
+        ]
+      },
+      "properties": {
+        "id": "way/1149772057",
+        "element_id": 1149772057,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:52.050047",
+        "url": "https://www.openstreetmap.org/way/1149772057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.27891296477372,
+          10.242272930845838
+        ]
+      },
+      "properties": {
+        "id": "way/1149772057",
+        "element_id": 1149772057,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:52.050047",
+        "url": "https://www.openstreetmap.org/way/1149772057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.27447754973522,
+          10.356255393611043
+        ]
+      },
+      "properties": {
+        "id": "way/1276251429",
+        "element_id": 1276251429,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:52.050047",
+        "url": "https://www.openstreetmap.org/way/1276251429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.27447754973522,
+          10.356255393611043
+        ]
+      },
+      "properties": {
+        "id": "way/1276251429",
+        "element_id": 1276251429,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:52.050047",
+        "url": "https://www.openstreetmap.org/way/1276251429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.67041859999999,
+          10.445234650000002
+        ]
+      },
+      "properties": {
+        "id": "way/1353191206",
+        "element_id": 1353191206,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:52.050047",
+        "url": "https://www.openstreetmap.org/way/1353191206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.67041859999999,
+          10.445234650000002
+        ]
+      },
+      "properties": {
+        "id": "way/1353191206",
+        "element_id": 1353191206,
+        "element_type": "way",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:26:52.050047",
+        "url": "https://www.openstreetmap.org/way/1353191206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2503238,
+          10.0528038
+        ]
+      },
+      "properties": {
+        "id": "node/6150772948",
+        "element_id": 6150772948,
+        "element_type": "node",
+        "country": "Costa Rica",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Presa Carrillos', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:26:52.051048",
+        "url": "https://www.openstreetmap.org/node/6150772948"
+      }
+    }
+  ]
+}

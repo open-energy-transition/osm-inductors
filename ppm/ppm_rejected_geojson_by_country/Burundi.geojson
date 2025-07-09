@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.546436601879428,
+          -4.059686496650373
+        ]
+      },
+      "properties": {
+        "id": "way/706986299",
+        "element_id": 706986299,
+        "element_type": "way",
+        "country": "Burundi",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:24:24.321062",
+        "url": "https://www.openstreetmap.org/way/706986299"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.546436601879428,
+          -4.059686496650373
+        ]
+      },
+      "properties": {
+        "id": "way/706986299",
+        "element_id": 706986299,
+        "element_type": "way",
+        "country": "Burundi",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:24:24.321062",
+        "url": "https://www.openstreetmap.org/way/706986299"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.38425347356208,
+          -3.3559743198057004
+        ]
+      },
+      "properties": {
+        "id": "way/1194083384",
+        "element_id": 1194083384,
+        "element_type": "way",
+        "country": "Burundi",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "0.26",
+        "details": "Tag 'plant:output:electricity' has value '0.26' which could not be parsed",
+        "timestamp": "2025-07-07 18:24:24.323062",
+        "url": "https://www.openstreetmap.org/way/1194083384"
+      }
+    }
+  ]
+}

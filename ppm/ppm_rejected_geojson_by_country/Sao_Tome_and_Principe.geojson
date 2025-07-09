@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5461487,
+          0.3343096
+        ]
+      },
+      "properties": {
+        "id": "node/11992094147",
+        "element_id": 11992094147,
+        "element_type": "node",
+        "country": "Sao Tome and Principe",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'run-of-the-river', 'generator:output:electricity': '1 MW', 'generator:source': 'hydro', 'generator:type': 'pelton_turbine', 'location': 'indoor', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:50:18.287988",
+        "url": "https://www.openstreetmap.org/node/11992094147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5461899,
+          0.3343029
+        ]
+      },
+      "properties": {
+        "id": "node/11992094146",
+        "element_id": 11992094146,
+        "element_type": "node",
+        "country": "Sao Tome and Principe",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'run-of-the-river', 'generator:output:electricity': '1 MW', 'generator:source': 'hydro', 'generator:type': 'pelton_turbine', 'location': 'indoor', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:50:18.288997",
+        "url": "https://www.openstreetmap.org/node/11992094146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5462061,
+          0.3343095499999999
+        ]
+      },
+      "properties": {
+        "id": "way/1288616875",
+        "element_id": 1288616875,
+        "element_type": "way",
+        "country": "Sao Tome and Principe",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:18.289997",
+        "url": "https://www.openstreetmap.org/way/1288616875"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5462061,
+          0.3343095499999999
+        ]
+      },
+      "properties": {
+        "id": "way/1288616875",
+        "element_id": 1288616875,
+        "element_type": "way",
+        "country": "Sao Tome and Principe",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Aproveitamento Hidroelétrico do Contador', 'name:en': 'Contador hydropower plant', 'plant:source': 'hydro', 'power': 'plant', 'start_date': '1967'}",
+        "timestamp": "2025-07-07 18:50:18.292008",
+        "url": "https://www.openstreetmap.org/way/1288616875"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.70674951640119,
+          0.321956173869652
+        ]
+      },
+      "properties": {
+        "id": "way/1293571064",
+        "element_id": 1293571064,
+        "element_type": "way",
+        "country": "Sao Tome and Principe",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:18.292008",
+        "url": "https://www.openstreetmap.org/way/1293571064"
+      }
+    }
+  ]
+}

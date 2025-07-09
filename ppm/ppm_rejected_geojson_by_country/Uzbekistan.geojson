@@ -1,0 +1,3635 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.33915528567361,
+          40.7479590676651
+        ]
+      },
+      "properties": {
+        "id": "relation/6617159",
+        "element_id": 6617159,
+        "element_type": "relation",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Южная ТЕЦ', 'name:ru': 'Южная ТЕЦ', 'plant:output:hot_water': 'yes', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:54:57.406713",
+        "url": "https://www.openstreetmap.org/relation/6617159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.86449729179236,
+          41.59958010040637
+        ]
+      },
+      "properties": {
+        "id": "relation/9167447",
+        "element_id": 9167447,
+        "element_type": "relation",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.408000",
+        "url": "https://www.openstreetmap.org/relation/9167447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.86449729179236,
+          41.59958010040637
+        ]
+      },
+      "properties": {
+        "id": "relation/9167447",
+        "element_id": 9167447,
+        "element_type": "relation",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.408000",
+        "url": "https://www.openstreetmap.org/relation/9167447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.23504773850482,
+          41.30022406766597
+        ]
+      },
+      "properties": {
+        "id": "way/89040467",
+        "element_id": 89040467,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.421078",
+        "url": "https://www.openstreetmap.org/way/89040467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.23504773850482,
+          41.30022406766597
+        ]
+      },
+      "properties": {
+        "id": "way/89040467",
+        "element_id": 89040467,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.421078",
+        "url": "https://www.openstreetmap.org/way/89040467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4588205689064,
+          41.39943452274613
+        ]
+      },
+      "properties": {
+        "id": "way/106225207",
+        "element_id": 106225207,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Кибрайская ГЭС -11 Аккавак-3', 'name:ru': 'Кибрайская ГЭС -11 Аккавак-3', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.425077",
+        "url": "https://www.openstreetmap.org/way/106225207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.25376268590237,
+          41.30526005412379
+        ]
+      },
+      "properties": {
+        "id": "way/106628964",
+        "element_id": 106628964,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Бурджарская ГЭС', 'name:ru': 'Бурджарская ГЭС', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant', 'wikidata': 'Q20536162', 'wikipedia': 'ru:Бурджарская ГЭС'}",
+        "timestamp": "2025-07-07 18:54:57.430450",
+        "url": "https://www.openstreetmap.org/way/106628964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.25907484526795,
+          41.368390700083125
+        ]
+      },
+      "properties": {
+        "id": "way/135961044",
+        "element_id": 135961044,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'ТЦ-4 «Северная»', 'name:ru': 'ТЦ-4 «Северная»', 'plant:method': 'combustion', 'plant:output:hot_water': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.435466",
+        "url": "https://www.openstreetmap.org/way/135961044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.35943716982966,
+          41.32435713967783
+        ]
+      },
+      "properties": {
+        "id": "way/136160131",
+        "element_id": 136160131,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.437466",
+        "url": "https://www.openstreetmap.org/way/136160131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.35943716982966,
+          41.32435713967783
+        ]
+      },
+      "properties": {
+        "id": "way/136160131",
+        "element_id": 136160131,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'ТЦ-2 «Карасу»', 'name:ru': 'ТЦ-2 «Карасу»', 'plant:output:hot_water': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.439469",
+        "url": "https://www.openstreetmap.org/way/136160131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.25613859426663,
+          41.27498154944964
+        ]
+      },
+      "properties": {
+        "id": "way/145115616",
+        "element_id": 145115616,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'industrial': 'heating_station', 'landuse': 'industrial', 'name': 'ТашТЭЦ', 'name:ru': 'ТашТЭЦ', 'plant:method': 'combustion', 'plant:output:hot_water': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.442583",
+        "url": "https://www.openstreetmap.org/way/145115616"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.8579103,
+          39.6705227
+        ]
+      },
+      "properties": {
+        "id": "way/167884215",
+        "element_id": 167884215,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.445584",
+        "url": "https://www.openstreetmap.org/way/167884215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.8579103,
+          39.6705227
+        ]
+      },
+      "properties": {
+        "id": "way/167884215",
+        "element_id": 167884215,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.445584",
+        "url": "https://www.openstreetmap.org/way/167884215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.27030895229947,
+          41.327254228144014
+        ]
+      },
+      "properties": {
+        "id": "way/181638083",
+        "element_id": 181638083,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.446587",
+        "url": "https://www.openstreetmap.org/way/181638083"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.09682983958851,
+          41.209253131749286
+        ]
+      },
+      "properties": {
+        "id": "way/187646395",
+        "element_id": 187646395,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:method': 'water-storage', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.446587",
+        "url": "https://www.openstreetmap.org/way/187646395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.09682983958851,
+          41.209253131749286
+        ]
+      },
+      "properties": {
+        "id": "way/187646395",
+        "element_id": 187646395,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.446587",
+        "url": "https://www.openstreetmap.org/way/187646395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.11477729574301,
+          41.23839990211825
+        ]
+      },
+      "properties": {
+        "id": "way/187647108",
+        "element_id": 187647108,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.446587",
+        "url": "https://www.openstreetmap.org/way/187647108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.39639329732708,
+          41.38883706601428
+        ]
+      },
+      "properties": {
+        "id": "way/198550668",
+        "element_id": 198550668,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.447591",
+        "url": "https://www.openstreetmap.org/way/198550668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.39639329732708,
+          41.38883706601428
+        ]
+      },
+      "properties": {
+        "id": "way/198550668",
+        "element_id": 198550668,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.447591",
+        "url": "https://www.openstreetmap.org/way/198550668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.52469620194967,
+          41.422523983836655
+        ]
+      },
+      "properties": {
+        "id": "way/215351645",
+        "element_id": 215351645,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.447591",
+        "url": "https://www.openstreetmap.org/way/215351645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.12717042020375,
+          41.0169482298949
+        ]
+      },
+      "properties": {
+        "id": "way/221530255",
+        "element_id": 221530255,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.447591",
+        "url": "https://www.openstreetmap.org/way/221530255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.12717042020375,
+          41.0169482298949
+        ]
+      },
+      "properties": {
+        "id": "way/221530255",
+        "element_id": 221530255,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.447591",
+        "url": "https://www.openstreetmap.org/way/221530255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.09953986951388,
+          40.22809663229455
+        ]
+      },
+      "properties": {
+        "id": "way/229824212",
+        "element_id": 229824212,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 12 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.448584",
+        "url": "https://www.openstreetmap.org/way/229824212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.26593372461531,
+          40.22483240008412
+        ]
+      },
+      "properties": {
+        "id": "way/240228668",
+        "element_id": 240228668,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Котельная', 'plant:output:hot_water': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.448584",
+        "url": "https://www.openstreetmap.org/way/240228668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.72765781239924,
+          41.21863597090599
+        ]
+      },
+      "properties": {
+        "id": "way/240350654",
+        "element_id": 240350654,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.448584",
+        "url": "https://www.openstreetmap.org/way/240350654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.72765781239924,
+          41.21863597090599
+        ]
+      },
+      "properties": {
+        "id": "way/240350654",
+        "element_id": 240350654,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.448584",
+        "url": "https://www.openstreetmap.org/way/240350654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.08973578211558,
+          41.116488670394965
+        ]
+      },
+      "properties": {
+        "id": "way/243917403",
+        "element_id": 243917403,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'generator:output:electricity': 'yes', 'generator:output:hot_water': 'yes', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.448584",
+        "url": "https://www.openstreetmap.org/way/243917403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.08973578211558,
+          41.116488670394965
+        ]
+      },
+      "properties": {
+        "id": "way/243917403",
+        "element_id": 243917403,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:output:electricity': 'yes', 'generator:output:hot_water': 'yes', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.448584",
+        "url": "https://www.openstreetmap.org/way/243917403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.16074839778308,
+          40.220760186838405
+        ]
+      },
+      "properties": {
+        "id": "way/244339655",
+        "element_id": 244339655,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.448584",
+        "url": "https://www.openstreetmap.org/way/244339655"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.99619363118732,
+          41.017219582045854
+        ]
+      },
+      "properties": {
+        "id": "way/244651208",
+        "element_id": 244651208,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.449584",
+        "url": "https://www.openstreetmap.org/way/244651208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.99619363118732,
+          41.017219582045854
+        ]
+      },
+      "properties": {
+        "id": "way/244651208",
+        "element_id": 244651208,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.449584",
+        "url": "https://www.openstreetmap.org/way/244651208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.11978250926842,
+          41.05683967523935
+        ]
+      },
+      "properties": {
+        "id": "way/244816300",
+        "element_id": 244816300,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.449584",
+        "url": "https://www.openstreetmap.org/way/244816300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.11978250926842,
+          41.05683967523935
+        ]
+      },
+      "properties": {
+        "id": "way/244816300",
+        "element_id": 244816300,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.449584",
+        "url": "https://www.openstreetmap.org/way/244816300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.12582872745752,
+          41.03337895512432
+        ]
+      },
+      "properties": {
+        "id": "way/244914288",
+        "element_id": 244914288,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.449584",
+        "url": "https://www.openstreetmap.org/way/244914288"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.12582872745752,
+          41.03337895512432
+        ]
+      },
+      "properties": {
+        "id": "way/244914288",
+        "element_id": 244914288,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.449584",
+        "url": "https://www.openstreetmap.org/way/244914288"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.20477364267605,
+          41.04859118649253
+        ]
+      },
+      "properties": {
+        "id": "way/244919773",
+        "element_id": 244919773,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.449584",
+        "url": "https://www.openstreetmap.org/way/244919773"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.20477364267605,
+          41.04859118649253
+        ]
+      },
+      "properties": {
+        "id": "way/244919773",
+        "element_id": 244919773,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.449584",
+        "url": "https://www.openstreetmap.org/way/244919773"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.35974230000001,
+          40.9907314
+        ]
+      },
+      "properties": {
+        "id": "way/245168622",
+        "element_id": 245168622,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.450588",
+        "url": "https://www.openstreetmap.org/way/245168622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.35974230000001,
+          40.9907314
+        ]
+      },
+      "properties": {
+        "id": "way/245168622",
+        "element_id": 245168622,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.450588",
+        "url": "https://www.openstreetmap.org/way/245168622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.15771204056331,
+          41.02297946722485
+        ]
+      },
+      "properties": {
+        "id": "way/245596575",
+        "element_id": 245596575,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.450588",
+        "url": "https://www.openstreetmap.org/way/245596575"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.15771204056331,
+          41.02297946722485
+        ]
+      },
+      "properties": {
+        "id": "way/245596575",
+        "element_id": 245596575,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.450588",
+        "url": "https://www.openstreetmap.org/way/245596575"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.21037553403389,
+          41.03991427430008
+        ]
+      },
+      "properties": {
+        "id": "way/245613395",
+        "element_id": 245613395,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.450588",
+        "url": "https://www.openstreetmap.org/way/245613395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.15423523428798,
+          41.0237973171301
+        ]
+      },
+      "properties": {
+        "id": "way/245764662",
+        "element_id": 245764662,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.450588",
+        "url": "https://www.openstreetmap.org/way/245764662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.15423523428798,
+          41.0237973171301
+        ]
+      },
+      "properties": {
+        "id": "way/245764662",
+        "element_id": 245764662,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.450588",
+        "url": "https://www.openstreetmap.org/way/245764662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.12060952504218,
+          41.02278184319245
+        ]
+      },
+      "properties": {
+        "id": "way/245930391",
+        "element_id": 245930391,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.450588",
+        "url": "https://www.openstreetmap.org/way/245930391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.12060952504218,
+          41.02278184319245
+        ]
+      },
+      "properties": {
+        "id": "way/245930391",
+        "element_id": 245930391,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.450588",
+        "url": "https://www.openstreetmap.org/way/245930391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.09605149114347,
+          41.029187311590114
+        ]
+      },
+      "properties": {
+        "id": "way/245930879",
+        "element_id": 245930879,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.450588",
+        "url": "https://www.openstreetmap.org/way/245930879"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.09605149114347,
+          41.029187311590114
+        ]
+      },
+      "properties": {
+        "id": "way/245930879",
+        "element_id": 245930879,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.450588",
+        "url": "https://www.openstreetmap.org/way/245930879"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.0896497100095,
+          41.709273477618346
+        ]
+      },
+      "properties": {
+        "id": "way/249522826",
+        "element_id": 249522826,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.451585",
+        "url": "https://www.openstreetmap.org/way/249522826"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.0896497100095,
+          41.709273477618346
+        ]
+      },
+      "properties": {
+        "id": "way/249522826",
+        "element_id": 249522826,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.451585",
+        "url": "https://www.openstreetmap.org/way/249522826"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.22382661874673,
+          41.79371212606651
+        ]
+      },
+      "properties": {
+        "id": "way/251116002",
+        "element_id": 251116002,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.451585",
+        "url": "https://www.openstreetmap.org/way/251116002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.22382661874673,
+          41.79371212606651
+        ]
+      },
+      "properties": {
+        "id": "way/251116002",
+        "element_id": 251116002,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.451585",
+        "url": "https://www.openstreetmap.org/way/251116002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.76262974159532,
+          40.8797562586977
+        ]
+      },
+      "properties": {
+        "id": "way/261179388",
+        "element_id": 261179388,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.451585",
+        "url": "https://www.openstreetmap.org/way/261179388"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.76262974159532,
+          40.8797562586977
+        ]
+      },
+      "properties": {
+        "id": "way/261179388",
+        "element_id": 261179388,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.451585",
+        "url": "https://www.openstreetmap.org/way/261179388"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.81692511384686,
+          40.92235827849738
+        ]
+      },
+      "properties": {
+        "id": "way/262167659",
+        "element_id": 262167659,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.451585",
+        "url": "https://www.openstreetmap.org/way/262167659"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.16020847387038,
+          40.95395201216622
+        ]
+      },
+      "properties": {
+        "id": "way/263591482",
+        "element_id": 263591482,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.451585",
+        "url": "https://www.openstreetmap.org/way/263591482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.16020847387038,
+          40.95395201216622
+        ]
+      },
+      "properties": {
+        "id": "way/263591482",
+        "element_id": 263591482,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.451585",
+        "url": "https://www.openstreetmap.org/way/263591482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.79369417668805,
+          38.84733424705102
+        ]
+      },
+      "properties": {
+        "id": "way/284951137",
+        "element_id": 284951137,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Городская котельная', 'name:ru': 'Городская котельная', 'plant:output:hot_water': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.451585",
+        "url": "https://www.openstreetmap.org/way/284951137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.35536598449572,
+          41.377378111874
+        ]
+      },
+      "properties": {
+        "id": "way/305948337",
+        "element_id": 305948337,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.452584",
+        "url": "https://www.openstreetmap.org/way/305948337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.35536598449572,
+          41.377378111874
+        ]
+      },
+      "properties": {
+        "id": "way/305948337",
+        "element_id": 305948337,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.452584",
+        "url": "https://www.openstreetmap.org/way/305948337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.05714259699091,
+          40.61759107563864
+        ]
+      },
+      "properties": {
+        "id": "way/320776098",
+        "element_id": 320776098,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.452584",
+        "url": "https://www.openstreetmap.org/way/320776098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.05714259699091,
+          40.61759107563864
+        ]
+      },
+      "properties": {
+        "id": "way/320776098",
+        "element_id": 320776098,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.452584",
+        "url": "https://www.openstreetmap.org/way/320776098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1621010941979,
+          40.22200453530414
+        ]
+      },
+      "properties": {
+        "id": "way/331333617",
+        "element_id": 331333617,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.452584",
+        "url": "https://www.openstreetmap.org/way/331333617"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.14929735827782,
+          39.0255809048516
+        ]
+      },
+      "properties": {
+        "id": "way/364390332",
+        "element_id": 364390332,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.452584",
+        "url": "https://www.openstreetmap.org/way/364390332"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.89300835039519,
+          41.08783905428884
+        ]
+      },
+      "properties": {
+        "id": "way/367947119",
+        "element_id": 367947119,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.452584",
+        "url": "https://www.openstreetmap.org/way/367947119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.89300835039519,
+          41.08783905428884
+        ]
+      },
+      "properties": {
+        "id": "way/367947119",
+        "element_id": 367947119,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.452584",
+        "url": "https://www.openstreetmap.org/way/367947119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63146710769507,
+          42.44838238381535
+        ]
+      },
+      "properties": {
+        "id": "way/379726245",
+        "element_id": 379726245,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Nókis', 'addr:country': 'UZ', 'addr:housenumber': '20', 'addr:postcode': '230100', 'addr:region': 'Qaraqalpaqstan Respublikası', 'addr:street': 'Beruniy kóshesi', 'email': 'ssiliq-orayi@umail.uz', 'industrial': 'heating_station', 'landuse': 'industrial', 'name': '«Kommunal Íssılıq Orayı» mámleketlik unitar karxanası', 'name:en': 'State unitary enterprise \"Kommunalnik issilik orayi»', 'name:ru': 'Государственное унитарное предприятие «Коммуналлык ыссылык орайы»', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.452584",
+        "url": "https://www.openstreetmap.org/way/379726245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.02152560181402,
+          41.15354134104215
+        ]
+      },
+      "properties": {
+        "id": "way/379876618",
+        "element_id": 379876618,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.453584",
+        "url": "https://www.openstreetmap.org/way/379876618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.02152560181402,
+          41.15354134104215
+        ]
+      },
+      "properties": {
+        "id": "way/379876618",
+        "element_id": 379876618,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.453584",
+        "url": "https://www.openstreetmap.org/way/379876618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.22186289999999,
+          41.27716974999999
+        ]
+      },
+      "properties": {
+        "id": "way/484921149",
+        "element_id": 484921149,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.453584",
+        "url": "https://www.openstreetmap.org/way/484921149"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.80125707974187,
+          41.57870166046172
+        ]
+      },
+      "properties": {
+        "id": "way/564442521",
+        "element_id": 564442521,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.454588",
+        "url": "https://www.openstreetmap.org/way/564442521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.68427589359655,
+          41.00396556806977
+        ]
+      },
+      "properties": {
+        "id": "way/625102662",
+        "element_id": 625102662,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:de': 'ehemaliges sowjetisches Wasserkraftwerk', 'power': 'plant', 'source': 'DuMont Reise-Handbuch Usbekistan'}",
+        "timestamp": "2025-07-07 18:54:57.454588",
+        "url": "https://www.openstreetmap.org/way/625102662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.68427589359655,
+          41.00396556806977
+        ]
+      },
+      "properties": {
+        "id": "way/625102662",
+        "element_id": 625102662,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:de': 'ehemaliges sowjetisches Wasserkraftwerk', 'power': 'plant', 'source': 'DuMont Reise-Handbuch Usbekistan'}",
+        "timestamp": "2025-07-07 18:54:57.454588",
+        "url": "https://www.openstreetmap.org/way/625102662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.45846046611031,
+          40.99660563894325
+        ]
+      },
+      "properties": {
+        "id": "way/628749807",
+        "element_id": 628749807,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.454588",
+        "url": "https://www.openstreetmap.org/way/628749807"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.56695308779247,
+          40.58854971470902
+        ]
+      },
+      "properties": {
+        "id": "way/683579565",
+        "element_id": 683579565,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.455588",
+        "url": "https://www.openstreetmap.org/way/683579565"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4787899115531,
+          40.58492792623265
+        ]
+      },
+      "properties": {
+        "id": "way/683579568",
+        "element_id": 683579568,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.455588",
+        "url": "https://www.openstreetmap.org/way/683579568"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.634828176384,
+          40.857239823576535
+        ]
+      },
+      "properties": {
+        "id": "way/698331684",
+        "element_id": 698331684,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'name': 'Котельная', 'plant:method': 'combustion', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.457591",
+        "url": "https://www.openstreetmap.org/way/698331684"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.37678787674731,
+          39.85288829678719
+        ]
+      },
+      "properties": {
+        "id": "way/700847049",
+        "element_id": 700847049,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.460587",
+        "url": "https://www.openstreetmap.org/way/700847049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.37678787674731,
+          39.85288829678719
+        ]
+      },
+      "properties": {
+        "id": "way/700847049",
+        "element_id": 700847049,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.460587",
+        "url": "https://www.openstreetmap.org/way/700847049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61566770434065,
+          42.47088978669216
+        ]
+      },
+      "properties": {
+        "id": "way/705125341",
+        "element_id": 705125341,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Nókis', 'addr:country': 'UZ', 'addr:region': 'Qaraqalpaqstan Respublikası', 'building': 'house', 'building:levels': '1', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.460587",
+        "url": "https://www.openstreetmap.org/way/705125341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61566770434065,
+          42.47088978669216
+        ]
+      },
+      "properties": {
+        "id": "way/705125341",
+        "element_id": 705125341,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Nókis', 'addr:country': 'UZ', 'addr:region': 'Qaraqalpaqstan Respublikası', 'building': 'house', 'building:levels': '1', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.460587",
+        "url": "https://www.openstreetmap.org/way/705125341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57089878146146,
+          42.5096580868188
+        ]
+      },
+      "properties": {
+        "id": "way/720855365",
+        "element_id": 720855365,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:country': 'UZ', 'addr:region': 'Qaraqalpaqstan Respublikası', 'building': 'kindergarten', 'building:levels': '1', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.460587",
+        "url": "https://www.openstreetmap.org/way/720855365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57089878146146,
+          42.5096580868188
+        ]
+      },
+      "properties": {
+        "id": "way/720855365",
+        "element_id": 720855365,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:country': 'UZ', 'addr:region': 'Qaraqalpaqstan Respublikası', 'building': 'kindergarten', 'building:levels': '1', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.460587",
+        "url": "https://www.openstreetmap.org/way/720855365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.01976586153093,
+          40.59613173518888
+        ]
+      },
+      "properties": {
+        "id": "way/737062020",
+        "element_id": 737062020,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.460587",
+        "url": "https://www.openstreetmap.org/way/737062020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.01976586153093,
+          40.59613173518888
+        ]
+      },
+      "properties": {
+        "id": "way/737062020",
+        "element_id": 737062020,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.460587",
+        "url": "https://www.openstreetmap.org/way/737062020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61585885305557,
+          42.471373399872114
+        ]
+      },
+      "properties": {
+        "id": "way/751231868",
+        "element_id": 751231868,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Nókis', 'addr:country': 'UZ', 'addr:region': 'Qaraqalpaqstan Respublikası', 'building': 'yes', 'building:levels': '1', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.460587",
+        "url": "https://www.openstreetmap.org/way/751231868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61585885305557,
+          42.471373399872114
+        ]
+      },
+      "properties": {
+        "id": "way/751231868",
+        "element_id": 751231868,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Nókis', 'addr:country': 'UZ', 'addr:region': 'Qaraqalpaqstan Respublikası', 'building': 'yes', 'building:levels': '1', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.461587",
+        "url": "https://www.openstreetmap.org/way/751231868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.30554902810418,
+          40.6220275125731
+        ]
+      },
+      "properties": {
+        "id": "way/830419487",
+        "element_id": 830419487,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.461587",
+        "url": "https://www.openstreetmap.org/way/830419487"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.266315835788,
+          40.64046986170855
+        ]
+      },
+      "properties": {
+        "id": "way/830419490",
+        "element_id": 830419490,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.461587",
+        "url": "https://www.openstreetmap.org/way/830419490"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.88620741064992,
+          39.63053338685053
+        ]
+      },
+      "properties": {
+        "id": "way/830419493",
+        "element_id": 830419493,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.461587",
+        "url": "https://www.openstreetmap.org/way/830419493"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.8532057,
+          39.66223895
+        ]
+      },
+      "properties": {
+        "id": "way/830419497",
+        "element_id": 830419497,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.462587",
+        "url": "https://www.openstreetmap.org/way/830419497"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.8151992,
+          39.672575
+        ]
+      },
+      "properties": {
+        "id": "way/830419498",
+        "element_id": 830419498,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.462587",
+        "url": "https://www.openstreetmap.org/way/830419498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.78980569999999,
+          39.70706745
+        ]
+      },
+      "properties": {
+        "id": "way/830419499",
+        "element_id": 830419499,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.462587",
+        "url": "https://www.openstreetmap.org/way/830419499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.30035540664237,
+          40.155991978971365
+        ]
+      },
+      "properties": {
+        "id": "way/907617869",
+        "element_id": 907617869,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'landuse': 'industrial', 'name:ru': 'Навои ПГУ 477,78 МВт', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.462587",
+        "url": "https://www.openstreetmap.org/way/907617869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.30035540664237,
+          40.155991978971365
+        ]
+      },
+      "properties": {
+        "id": "way/907617869",
+        "element_id": 907617869,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'landuse': 'industrial', 'name:ru': 'Навои ПГУ 477,78 МВт', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.462587",
+        "url": "https://www.openstreetmap.org/way/907617869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.78233200154234,
+          40.44882857208432
+        ]
+      },
+      "properties": {
+        "id": "way/938525109",
+        "element_id": 938525109,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Fergana Thermal Power Plant', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.462587",
+        "url": "https://www.openstreetmap.org/way/938525109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.62671448333266,
+          42.44775060033815
+        ]
+      },
+      "properties": {
+        "id": "way/1010336598",
+        "element_id": 1010336598,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Nókis', 'addr:country': 'UZ', 'addr:region': 'Qaraqalpaqstan Respublikası', 'building': 'yes', 'building:levels': '1', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.463604",
+        "url": "https://www.openstreetmap.org/way/1010336598"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.62671448333266,
+          42.44775060033815
+        ]
+      },
+      "properties": {
+        "id": "way/1010336598",
+        "element_id": 1010336598,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Nókis', 'addr:country': 'UZ', 'addr:region': 'Qaraqalpaqstan Respublikası', 'building': 'yes', 'building:levels': '1', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.463604",
+        "url": "https://www.openstreetmap.org/way/1010336598"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.31260244656498,
+          39.766880096980046
+        ]
+      },
+      "properties": {
+        "id": "way/1020383138",
+        "element_id": 1020383138,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.463604",
+        "url": "https://www.openstreetmap.org/way/1020383138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61957132843189,
+          42.47151199579878
+        ]
+      },
+      "properties": {
+        "id": "way/1051992258",
+        "element_id": 1051992258,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Nókis', 'addr:country': 'UZ', 'addr:region': 'Qaraqalpaqstan Respublikası', 'building': 'yes', 'building:levels': '1', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.464592",
+        "url": "https://www.openstreetmap.org/way/1051992258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61957132843189,
+          42.47151199579878
+        ]
+      },
+      "properties": {
+        "id": "way/1051992258",
+        "element_id": 1051992258,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Nókis', 'addr:country': 'UZ', 'addr:region': 'Qaraqalpaqstan Respublikası', 'building': 'yes', 'building:levels': '1', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.464592",
+        "url": "https://www.openstreetmap.org/way/1051992258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.37603770086845,
+          43.1040847326558
+        ]
+      },
+      "properties": {
+        "id": "way/1068464268",
+        "element_id": 1068464268,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:country': 'UZ', 'addr:region': 'Qaraqalpaqstan Respublikası', 'building': 'yes', 'building:levels': '1', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.464592",
+        "url": "https://www.openstreetmap.org/way/1068464268"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.37603770086845,
+          43.1040847326558
+        ]
+      },
+      "properties": {
+        "id": "way/1068464268",
+        "element_id": 1068464268,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:country': 'UZ', 'addr:region': 'Qaraqalpaqstan Respublikası', 'building': 'yes', 'building:levels': '1', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.464592",
+        "url": "https://www.openstreetmap.org/way/1068464268"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58816415,
+          42.4719977
+        ]
+      },
+      "properties": {
+        "id": "way/1081085782",
+        "element_id": 1081085782,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:country': 'UZ', 'addr:region': 'Qaraqalpaqstan Respublikası', 'building': 'yes', 'building:levels': '1', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.464592",
+        "url": "https://www.openstreetmap.org/way/1081085782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58816415,
+          42.4719977
+        ]
+      },
+      "properties": {
+        "id": "way/1081085782",
+        "element_id": 1081085782,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:country': 'UZ', 'addr:region': 'Qaraqalpaqstan Respublikası', 'building': 'yes', 'building:levels': '1', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.464592",
+        "url": "https://www.openstreetmap.org/way/1081085782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.62400676729035,
+          40.91936374362357
+        ]
+      },
+      "properties": {
+        "id": "way/1098727656",
+        "element_id": 1098727656,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.464592",
+        "url": "https://www.openstreetmap.org/way/1098727656"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.62400676729035,
+          40.91936374362357
+        ]
+      },
+      "properties": {
+        "id": "way/1098727656",
+        "element_id": 1098727656,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.464592",
+        "url": "https://www.openstreetmap.org/way/1098727656"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.62400676729035,
+          40.91936374362357
+        ]
+      },
+      "properties": {
+        "id": "way/1098727656",
+        "element_id": 1098727656,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.464592",
+        "url": "https://www.openstreetmap.org/way/1098727656"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.5749173,
+          41.51920905
+        ]
+      },
+      "properties": {
+        "id": "way/1114743754",
+        "element_id": 1114743754,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.464592",
+        "url": "https://www.openstreetmap.org/way/1114743754"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.5749173,
+          41.51920905
+        ]
+      },
+      "properties": {
+        "id": "way/1114743754",
+        "element_id": 1114743754,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.464592",
+        "url": "https://www.openstreetmap.org/way/1114743754"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.4466133624282,
+          39.867159103723885
+        ]
+      },
+      "properties": {
+        "id": "way/1144363602",
+        "element_id": 1144363602,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.468596",
+        "url": "https://www.openstreetmap.org/way/1144363602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.88674391477579,
+          39.63014338675581
+        ]
+      },
+      "properties": {
+        "id": "way/1161015373",
+        "element_id": 1161015373,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.468596",
+        "url": "https://www.openstreetmap.org/way/1161015373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.88674391477579,
+          39.63014338675581
+        ]
+      },
+      "properties": {
+        "id": "way/1161015373",
+        "element_id": 1161015373,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.468596",
+        "url": "https://www.openstreetmap.org/way/1161015373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.88674391477579,
+          39.63014338675581
+        ]
+      },
+      "properties": {
+        "id": "way/1161015373",
+        "element_id": 1161015373,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.468596",
+        "url": "https://www.openstreetmap.org/way/1161015373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.06189160675414,
+          40.769328880668965
+        ]
+      },
+      "properties": {
+        "id": "way/1161599341",
+        "element_id": 1161599341,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'name': 'Андижанская ГЭС', 'name:en': 'Andijon Hydro Power Plant', 'name:ja': 'アンディジャン水力発電所', 'name:ru': 'Андижанская ГЭС', 'operator': 'Uzgidro AJ', 'plant:method': 'water-storage', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.470718",
+        "url": "https://www.openstreetmap.org/way/1161599341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.28972416838351,
+          39.55294034405552
+        ]
+      },
+      "properties": {
+        "id": "way/1163940620",
+        "element_id": 1163940620,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.473990",
+        "url": "https://www.openstreetmap.org/way/1163940620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.3408972714942,
+          39.47979824579003
+        ]
+      },
+      "properties": {
+        "id": "way/1163940621",
+        "element_id": 1163940621,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.473990",
+        "url": "https://www.openstreetmap.org/way/1163940621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.24950242666544,
+          39.546219287062925
+        ]
+      },
+      "properties": {
+        "id": "way/1163940622",
+        "element_id": 1163940622,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.473990",
+        "url": "https://www.openstreetmap.org/way/1163940622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.15376295678385,
+          39.53245973076225
+        ]
+      },
+      "properties": {
+        "id": "way/1163940623",
+        "element_id": 1163940623,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.473990",
+        "url": "https://www.openstreetmap.org/way/1163940623"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.28880540000002,
+          40.9178606
+        ]
+      },
+      "properties": {
+        "id": "way/1163943129",
+        "element_id": 1163943129,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.475035",
+        "url": "https://www.openstreetmap.org/way/1163943129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.15221966817282,
+          41.07136742459015
+        ]
+      },
+      "properties": {
+        "id": "way/1163943130",
+        "element_id": 1163943130,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.475035",
+        "url": "https://www.openstreetmap.org/way/1163943130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.15206404861188,
+          41.04889237273256
+        ]
+      },
+      "properties": {
+        "id": "way/1163943131",
+        "element_id": 1163943131,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.475035",
+        "url": "https://www.openstreetmap.org/way/1163943131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.76881139751994,
+          40.24857190054996
+        ]
+      },
+      "properties": {
+        "id": "way/1204009216",
+        "element_id": 1204009216,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.475035",
+        "url": "https://www.openstreetmap.org/way/1204009216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.6457961912122,
+          41.1567453264457
+        ]
+      },
+      "properties": {
+        "id": "way/1206394432",
+        "element_id": 1206394432,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.476280",
+        "url": "https://www.openstreetmap.org/way/1206394432"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.29538725,
+          39.9893812
+        ]
+      },
+      "properties": {
+        "id": "way/1229453880",
+        "element_id": 1229453880,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.476280",
+        "url": "https://www.openstreetmap.org/way/1229453880"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.29538725,
+          39.9893812
+        ]
+      },
+      "properties": {
+        "id": "way/1229453880",
+        "element_id": 1229453880,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.476280",
+        "url": "https://www.openstreetmap.org/way/1229453880"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.29520117240261,
+          39.98936624027338
+        ]
+      },
+      "properties": {
+        "id": "way/1229453886",
+        "element_id": 1229453886,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'coal', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.476280",
+        "url": "https://www.openstreetmap.org/way/1229453886"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.29520117240261,
+          39.98936624027338
+        ]
+      },
+      "properties": {
+        "id": "way/1229453886",
+        "element_id": 1229453886,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.476280",
+        "url": "https://www.openstreetmap.org/way/1229453886"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.29467340169907,
+          39.98798186512044
+        ]
+      },
+      "properties": {
+        "id": "way/1229453893",
+        "element_id": 1229453893,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'coal', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.476280",
+        "url": "https://www.openstreetmap.org/way/1229453893"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.29467340169907,
+          39.98798186512044
+        ]
+      },
+      "properties": {
+        "id": "way/1229453893",
+        "element_id": 1229453893,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.476280",
+        "url": "https://www.openstreetmap.org/way/1229453893"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.67093052602863,
+          39.98186892355626
+        ]
+      },
+      "properties": {
+        "id": "way/1236848086",
+        "element_id": 1236848086,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.476280",
+        "url": "https://www.openstreetmap.org/way/1236848086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.67093052602863,
+          39.98186892355626
+        ]
+      },
+      "properties": {
+        "id": "way/1236848086",
+        "element_id": 1236848086,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.476280",
+        "url": "https://www.openstreetmap.org/way/1236848086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.67093052602863,
+          39.98186892355626
+        ]
+      },
+      "properties": {
+        "id": "way/1236848086",
+        "element_id": 1236848086,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.476280",
+        "url": "https://www.openstreetmap.org/way/1236848086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.61231361476437,
+          41.49568638574093
+        ]
+      },
+      "properties": {
+        "id": "way/1271903499",
+        "element_id": 1271903499,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.476280",
+        "url": "https://www.openstreetmap.org/way/1271903499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.61231361476437,
+          41.49568638574093
+        ]
+      },
+      "properties": {
+        "id": "way/1271903499",
+        "element_id": 1271903499,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'name:ru': 'ГЭС Аккавак 1', 'name:uz': 'Akqavak 1 GESi', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.476280",
+        "url": "https://www.openstreetmap.org/way/1271903499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.61231361476437,
+          41.49568638574093
+        ]
+      },
+      "properties": {
+        "id": "way/1271903499",
+        "element_id": 1271903499,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.476280",
+        "url": "https://www.openstreetmap.org/way/1271903499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.61072229639552,
+          41.503132319552
+        ]
+      },
+      "properties": {
+        "id": "way/1271903500",
+        "element_id": 1271903500,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:57.477281",
+        "url": "https://www.openstreetmap.org/way/1271903500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.61072229639552,
+          41.503132319552
+        ]
+      },
+      "properties": {
+        "id": "way/1271903500",
+        "element_id": 1271903500,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.477281",
+        "url": "https://www.openstreetmap.org/way/1271903500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.89699018314946,
+          40.08576684215126
+        ]
+      },
+      "properties": {
+        "id": "way/1315706254",
+        "element_id": 1315706254,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.477281",
+        "url": "https://www.openstreetmap.org/way/1315706254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.10676862570035,
+          40.03148849561837
+        ]
+      },
+      "properties": {
+        "id": "way/1328847929",
+        "element_id": 1328847929,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Devayron Eliktor Set', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.477281",
+        "url": "https://www.openstreetmap.org/way/1328847929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.85496747808499,
+          38.50763926505925
+        ]
+      },
+      "properties": {
+        "id": "way/1333320627",
+        "element_id": 1333320627,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'name': 'Zarchob-3', 'name:ru': 'Зарчоб-3', 'operator': 'Uzbekenergo', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.479765",
+        "url": "https://www.openstreetmap.org/way/1333320627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.00155254654966,
+          40.767368107358685
+        ]
+      },
+      "properties": {
+        "id": "way/1339211417",
+        "element_id": 1339211417,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.483032",
+        "url": "https://www.openstreetmap.org/way/1339211417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.00155254654966,
+          40.767368107358685
+        ]
+      },
+      "properties": {
+        "id": "way/1339211417",
+        "element_id": 1339211417,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.483032",
+        "url": "https://www.openstreetmap.org/way/1339211417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.3051420653366,
+          40.15910988454261
+        ]
+      },
+      "properties": {
+        "id": "way/1346039959",
+        "element_id": 1346039959,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.483032",
+        "url": "https://www.openstreetmap.org/way/1346039959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.3051420653366,
+          40.15910988454261
+        ]
+      },
+      "properties": {
+        "id": "way/1346039959",
+        "element_id": 1346039959,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.483032",
+        "url": "https://www.openstreetmap.org/way/1346039959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.30556627065681,
+          40.15821754350311
+        ]
+      },
+      "properties": {
+        "id": "way/1346039960",
+        "element_id": 1346039960,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.483032",
+        "url": "https://www.openstreetmap.org/way/1346039960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.30556627065681,
+          40.15821754350311
+        ]
+      },
+      "properties": {
+        "id": "way/1346039960",
+        "element_id": 1346039960,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.483032",
+        "url": "https://www.openstreetmap.org/way/1346039960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.30611045190106,
+          40.158250777394215
+        ]
+      },
+      "properties": {
+        "id": "way/1346039961",
+        "element_id": 1346039961,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.483032",
+        "url": "https://www.openstreetmap.org/way/1346039961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.30611045190106,
+          40.158250777394215
+        ]
+      },
+      "properties": {
+        "id": "way/1346039961",
+        "element_id": 1346039961,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.483032",
+        "url": "https://www.openstreetmap.org/way/1346039961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.3505585901445,
+          40.08765968741935
+        ]
+      },
+      "properties": {
+        "id": "way/1346043646",
+        "element_id": 1346043646,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.483032",
+        "url": "https://www.openstreetmap.org/way/1346043646"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.3505585901445,
+          40.08765968741935
+        ]
+      },
+      "properties": {
+        "id": "way/1346043646",
+        "element_id": 1346043646,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.483032",
+        "url": "https://www.openstreetmap.org/way/1346043646"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.84489199450368,
+          40.85475020418341
+        ]
+      },
+      "properties": {
+        "id": "way/1346192407",
+        "element_id": 1346192407,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.483032",
+        "url": "https://www.openstreetmap.org/way/1346192407"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.84489199450368,
+          40.85475020418341
+        ]
+      },
+      "properties": {
+        "id": "way/1346192407",
+        "element_id": 1346192407,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.483032",
+        "url": "https://www.openstreetmap.org/way/1346192407"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.35405689245461,
+          40.091498518213015
+        ]
+      },
+      "properties": {
+        "id": "way/1347095393",
+        "element_id": 1347095393,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.484042",
+        "url": "https://www.openstreetmap.org/way/1347095393"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.35405689245461,
+          40.091498518213015
+        ]
+      },
+      "properties": {
+        "id": "way/1347095393",
+        "element_id": 1347095393,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.484042",
+        "url": "https://www.openstreetmap.org/way/1347095393"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.45539394764523,
+          40.9995389326907
+        ]
+      },
+      "properties": {
+        "id": "way/1349556382",
+        "element_id": 1349556382,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.484042",
+        "url": "https://www.openstreetmap.org/way/1349556382"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.895120887522,
+          40.30730963288857
+        ]
+      },
+      "properties": {
+        "id": "way/1355025749",
+        "element_id": 1355025749,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:54:57.485042",
+        "url": "https://www.openstreetmap.org/way/1355025749"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.77129876821236,
+          39.545407994055765
+        ]
+      },
+      "properties": {
+        "id": "way/1355125633",
+        "element_id": 1355125633,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.485042",
+        "url": "https://www.openstreetmap.org/way/1355125633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.88376392577969,
+          40.800547952782594
+        ]
+      },
+      "properties": {
+        "id": "way/1355256558",
+        "element_id": 1355256558,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.485042",
+        "url": "https://www.openstreetmap.org/way/1355256558"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.88376392577969,
+          40.800547952782594
+        ]
+      },
+      "properties": {
+        "id": "way/1355256558",
+        "element_id": 1355256558,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.485042",
+        "url": "https://www.openstreetmap.org/way/1355256558"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.34501363253922,
+          39.07103950844409
+        ]
+      },
+      "properties": {
+        "id": "way/1355662730",
+        "element_id": 1355662730,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.485042",
+        "url": "https://www.openstreetmap.org/way/1355662730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2145002,
+          43.130586
+        ]
+      },
+      "properties": {
+        "id": "node/11927674583",
+        "element_id": 11927674583,
+        "element_type": "node",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.486042",
+        "url": "https://www.openstreetmap.org/node/11927674583"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2145002,
+          43.130586
+        ]
+      },
+      "properties": {
+        "id": "node/11927674583",
+        "element_id": 11927674583,
+        "element_type": "node",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.486042",
+        "url": "https://www.openstreetmap.org/node/11927674583"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.09473411206015,
+          40.228892041994
+        ]
+      },
+      "properties": {
+        "id": "way/1356235191",
+        "element_id": 1356235191,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:57.486042",
+        "url": "https://www.openstreetmap.org/way/1356235191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.09473411206015,
+          40.228892041994
+        ]
+      },
+      "properties": {
+        "id": "way/1356235191",
+        "element_id": 1356235191,
+        "element_type": "way",
+        "country": "Uzbekistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:57.486042",
+        "url": "https://www.openstreetmap.org/way/1356235191"
+      }
+    }
+  ]
+}

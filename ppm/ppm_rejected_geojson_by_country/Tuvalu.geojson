@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.1964215,
+          -8.52611285
+        ]
+      },
+      "properties": {
+        "id": "way/136840113",
+        "element_id": 136840113,
+        "element_type": "way",
+        "country": "Tuvalu",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant', 'source': 'Bing'}",
+        "timestamp": "2025-07-07 18:51:59.797792",
+        "url": "https://www.openstreetmap.org/way/136840113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.1964215,
+          -8.52611285
+        ]
+      },
+      "properties": {
+        "id": "way/136840113",
+        "element_id": 136840113,
+        "element_type": "way",
+        "country": "Tuvalu",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant', 'source': 'Bing'}",
+        "timestamp": "2025-07-07 18:51:59.797792",
+        "url": "https://www.openstreetmap.org/way/136840113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.19630510374068,
+          -8.525889371538131
+        ]
+      },
+      "properties": {
+        "id": "way/751105246",
+        "element_id": 751105246,
+        "element_type": "way",
+        "country": "Tuvalu",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:59.797792",
+        "url": "https://www.openstreetmap.org/way/751105246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.19630510374068,
+          -8.525889371538131
+        ]
+      },
+      "properties": {
+        "id": "way/751105246",
+        "element_id": 751105246,
+        "element_type": "way",
+        "country": "Tuvalu",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:59.797792",
+        "url": "https://www.openstreetmap.org/way/751105246"
+      }
+    }
+  ]
+}

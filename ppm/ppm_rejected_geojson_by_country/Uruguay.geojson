@@ -1,0 +1,1787 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.45215,
+          -33.0559529
+        ]
+      },
+      "properties": {
+        "id": "node/5156892541",
+        "element_id": 5156892541,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'water-storage', 'generator:output:electricity': '111 MW', 'generator:plant': 'output', 'generator:source': 'hydro', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.490581",
+        "url": "https://www.openstreetmap.org/node/5156892541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.452315,
+          -33.0560183
+        ]
+      },
+      "properties": {
+        "id": "node/5156892542",
+        "element_id": 5156892542,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'water-storage', 'generator:output:electricity': '111 MW', 'generator:plant': 'output', 'generator:source': 'hydro', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.490581",
+        "url": "https://www.openstreetmap.org/node/5156892542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.452496,
+          -33.0560901
+        ]
+      },
+      "properties": {
+        "id": "node/5156892543",
+        "element_id": 5156892543,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'water-storage', 'generator:output:electricity': '111 MW', 'generator:plant': 'output', 'generator:source': 'hydro', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.490581",
+        "url": "https://www.openstreetmap.org/node/5156892543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6141173,
+          -34.6355355
+        ]
+      },
+      "properties": {
+        "id": "node/2430568183",
+        "element_id": 2430568183,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.496581",
+        "url": "https://www.openstreetmap.org/node/2430568183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6141173,
+          -34.6355355
+        ]
+      },
+      "properties": {
+        "id": "node/2430568183",
+        "element_id": 2430568183,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:47.496581",
+        "url": "https://www.openstreetmap.org/node/2430568183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6132256,
+          -34.6360798
+        ]
+      },
+      "properties": {
+        "id": "node/2430568184",
+        "element_id": 2430568184,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.496581",
+        "url": "https://www.openstreetmap.org/node/2430568184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6132256,
+          -34.6360798
+        ]
+      },
+      "properties": {
+        "id": "node/2430568184",
+        "element_id": 2430568184,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:47.496581",
+        "url": "https://www.openstreetmap.org/node/2430568184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6123664,
+          -34.6366427
+        ]
+      },
+      "properties": {
+        "id": "node/2430568185",
+        "element_id": 2430568185,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.496581",
+        "url": "https://www.openstreetmap.org/node/2430568185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6123664,
+          -34.6366427
+        ]
+      },
+      "properties": {
+        "id": "node/2430568185",
+        "element_id": 2430568185,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:47.496581",
+        "url": "https://www.openstreetmap.org/node/2430568185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5840182,
+          -33.8179817
+        ]
+      },
+      "properties": {
+        "id": "node/5539888091",
+        "element_id": 5539888091,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.509581",
+        "url": "https://www.openstreetmap.org/node/5539888091"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5840182,
+          -33.8179817
+        ]
+      },
+      "properties": {
+        "id": "node/5539888091",
+        "element_id": 5539888091,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.511622",
+        "url": "https://www.openstreetmap.org/node/5539888091"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5874031,
+          -33.8167471
+        ]
+      },
+      "properties": {
+        "id": "node/5539888092",
+        "element_id": 5539888092,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.511622",
+        "url": "https://www.openstreetmap.org/node/5539888092"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5751267,
+          -33.8173466
+        ]
+      },
+      "properties": {
+        "id": "node/5539888089",
+        "element_id": 5539888089,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.513630",
+        "url": "https://www.openstreetmap.org/node/5539888089"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5874031,
+          -33.8167471
+        ]
+      },
+      "properties": {
+        "id": "node/5539888092",
+        "element_id": 5539888092,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.513630",
+        "url": "https://www.openstreetmap.org/node/5539888092"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5751267,
+          -33.8173466
+        ]
+      },
+      "properties": {
+        "id": "node/5539888089",
+        "element_id": 5539888089,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.515633",
+        "url": "https://www.openstreetmap.org/node/5539888089"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5777123,
+          -33.8166335
+        ]
+      },
+      "properties": {
+        "id": "node/5539888090",
+        "element_id": 5539888090,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.515633",
+        "url": "https://www.openstreetmap.org/node/5539888090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5686733,
+          -33.8190312
+        ]
+      },
+      "properties": {
+        "id": "node/5539888087",
+        "element_id": 5539888087,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.517840",
+        "url": "https://www.openstreetmap.org/node/5539888087"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5777123,
+          -33.8166335
+        ]
+      },
+      "properties": {
+        "id": "node/5539888090",
+        "element_id": 5539888090,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.517840",
+        "url": "https://www.openstreetmap.org/node/5539888090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5686733,
+          -33.8190312
+        ]
+      },
+      "properties": {
+        "id": "node/5539888087",
+        "element_id": 5539888087,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.519840",
+        "url": "https://www.openstreetmap.org/node/5539888087"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5720958,
+          -33.8180864
+        ]
+      },
+      "properties": {
+        "id": "node/5539888088",
+        "element_id": 5539888088,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.519840",
+        "url": "https://www.openstreetmap.org/node/5539888088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5824169,
+          -33.8292544
+        ]
+      },
+      "properties": {
+        "id": "node/5539888085",
+        "element_id": 5539888085,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.521843",
+        "url": "https://www.openstreetmap.org/node/5539888085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5720958,
+          -33.8180864
+        ]
+      },
+      "properties": {
+        "id": "node/5539888088",
+        "element_id": 5539888088,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.521843",
+        "url": "https://www.openstreetmap.org/node/5539888088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5824169,
+          -33.8292544
+        ]
+      },
+      "properties": {
+        "id": "node/5539888085",
+        "element_id": 5539888085,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.523844",
+        "url": "https://www.openstreetmap.org/node/5539888085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5647411,
+          -33.8200607
+        ]
+      },
+      "properties": {
+        "id": "node/5539888086",
+        "element_id": 5539888086,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.523844",
+        "url": "https://www.openstreetmap.org/node/5539888086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.577208,
+          -33.8292121
+        ]
+      },
+      "properties": {
+        "id": "node/5539888084",
+        "element_id": 5539888084,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.526008",
+        "url": "https://www.openstreetmap.org/node/5539888084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5647411,
+          -33.8200607
+        ]
+      },
+      "properties": {
+        "id": "node/5539888086",
+        "element_id": 5539888086,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.526008",
+        "url": "https://www.openstreetmap.org/node/5539888086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5718114,
+          -33.8324339
+        ]
+      },
+      "properties": {
+        "id": "node/5539888082",
+        "element_id": 5539888082,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.528009",
+        "url": "https://www.openstreetmap.org/node/5539888082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.577208,
+          -33.8292121
+        ]
+      },
+      "properties": {
+        "id": "node/5539888084",
+        "element_id": 5539888084,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.528009",
+        "url": "https://www.openstreetmap.org/node/5539888084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5718114,
+          -33.8324339
+        ]
+      },
+      "properties": {
+        "id": "node/5539888082",
+        "element_id": 5539888082,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.530006",
+        "url": "https://www.openstreetmap.org/node/5539888082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5735602,
+          -33.8302727
+        ]
+      },
+      "properties": {
+        "id": "node/5539888083",
+        "element_id": 5539888083,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.530006",
+        "url": "https://www.openstreetmap.org/node/5539888083"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.555222,
+          -33.8324517
+        ]
+      },
+      "properties": {
+        "id": "node/5539888080",
+        "element_id": 5539888080,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.532007",
+        "url": "https://www.openstreetmap.org/node/5539888080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5735602,
+          -33.8302727
+        ]
+      },
+      "properties": {
+        "id": "node/5539888083",
+        "element_id": 5539888083,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.532007",
+        "url": "https://www.openstreetmap.org/node/5539888083"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.555222,
+          -33.8324517
+        ]
+      },
+      "properties": {
+        "id": "node/5539888080",
+        "element_id": 5539888080,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.534429",
+        "url": "https://www.openstreetmap.org/node/5539888080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5692392,
+          -33.8345861
+        ]
+      },
+      "properties": {
+        "id": "node/5539888081",
+        "element_id": 5539888081,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.534429",
+        "url": "https://www.openstreetmap.org/node/5539888081"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5752849,
+          -33.8492895
+        ]
+      },
+      "properties": {
+        "id": "node/5539888078",
+        "element_id": 5539888078,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.536429",
+        "url": "https://www.openstreetmap.org/node/5539888078"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5692392,
+          -33.8345861
+        ]
+      },
+      "properties": {
+        "id": "node/5539888081",
+        "element_id": 5539888081,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.536429",
+        "url": "https://www.openstreetmap.org/node/5539888081"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5752849,
+          -33.8492895
+        ]
+      },
+      "properties": {
+        "id": "node/5539888078",
+        "element_id": 5539888078,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.538430",
+        "url": "https://www.openstreetmap.org/node/5539888078"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5720528,
+          -33.8504278
+        ]
+      },
+      "properties": {
+        "id": "node/5539888079",
+        "element_id": 5539888079,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.538430",
+        "url": "https://www.openstreetmap.org/node/5539888079"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5813869,
+          -33.847073
+        ]
+      },
+      "properties": {
+        "id": "node/5539888076",
+        "element_id": 5539888076,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.539427",
+        "url": "https://www.openstreetmap.org/node/5539888076"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5720528,
+          -33.8504278
+        ]
+      },
+      "properties": {
+        "id": "node/5539888079",
+        "element_id": 5539888079,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.539427",
+        "url": "https://www.openstreetmap.org/node/5539888079"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5813869,
+          -33.847073
+        ]
+      },
+      "properties": {
+        "id": "node/5539888076",
+        "element_id": 5539888076,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.541876",
+        "url": "https://www.openstreetmap.org/node/5539888076"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5783131,
+          -33.848267
+        ]
+      },
+      "properties": {
+        "id": "node/5539888077",
+        "element_id": 5539888077,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.541876",
+        "url": "https://www.openstreetmap.org/node/5539888077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5859574,
+          -33.8434508
+        ]
+      },
+      "properties": {
+        "id": "node/5539888074",
+        "element_id": 5539888074,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.543878",
+        "url": "https://www.openstreetmap.org/node/5539888074"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5783131,
+          -33.848267
+        ]
+      },
+      "properties": {
+        "id": "node/5539888077",
+        "element_id": 5539888077,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.543878",
+        "url": "https://www.openstreetmap.org/node/5539888077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5859574,
+          -33.8434508
+        ]
+      },
+      "properties": {
+        "id": "node/5539888074",
+        "element_id": 5539888074,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.545876",
+        "url": "https://www.openstreetmap.org/node/5539888074"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.583581,
+          -33.8452708
+        ]
+      },
+      "properties": {
+        "id": "node/5539888075",
+        "element_id": 5539888075,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.545876",
+        "url": "https://www.openstreetmap.org/node/5539888075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.590654,
+          -33.8398039
+        ]
+      },
+      "properties": {
+        "id": "node/5539888072",
+        "element_id": 5539888072,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.547891",
+        "url": "https://www.openstreetmap.org/node/5539888072"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.583581,
+          -33.8452708
+        ]
+      },
+      "properties": {
+        "id": "node/5539888075",
+        "element_id": 5539888075,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.547891",
+        "url": "https://www.openstreetmap.org/node/5539888075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.590654,
+          -33.8398039
+        ]
+      },
+      "properties": {
+        "id": "node/5539888072",
+        "element_id": 5539888072,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.549892",
+        "url": "https://www.openstreetmap.org/node/5539888072"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.588366,
+          -33.8417064
+        ]
+      },
+      "properties": {
+        "id": "node/5539888073",
+        "element_id": 5539888073,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.549892",
+        "url": "https://www.openstreetmap.org/node/5539888073"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5916759,
+          -33.8339467
+        ]
+      },
+      "properties": {
+        "id": "node/5539888070",
+        "element_id": 5539888070,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.551973",
+        "url": "https://www.openstreetmap.org/node/5539888070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.588366,
+          -33.8417064
+        ]
+      },
+      "properties": {
+        "id": "node/5539888073",
+        "element_id": 5539888073,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.551973",
+        "url": "https://www.openstreetmap.org/node/5539888073"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5916759,
+          -33.8339467
+        ]
+      },
+      "properties": {
+        "id": "node/5539888070",
+        "element_id": 5539888070,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.553972",
+        "url": "https://www.openstreetmap.org/node/5539888070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5922821,
+          -33.8376228
+        ]
+      },
+      "properties": {
+        "id": "node/5539888071",
+        "element_id": 5539888071,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.553972",
+        "url": "https://www.openstreetmap.org/node/5539888071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5933415,
+          -33.8252571
+        ]
+      },
+      "properties": {
+        "id": "node/5539888068",
+        "element_id": 5539888068,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.555972",
+        "url": "https://www.openstreetmap.org/node/5539888068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5922821,
+          -33.8376228
+        ]
+      },
+      "properties": {
+        "id": "node/5539888071",
+        "element_id": 5539888071,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.555972",
+        "url": "https://www.openstreetmap.org/node/5539888071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5933415,
+          -33.8252571
+        ]
+      },
+      "properties": {
+        "id": "node/5539888068",
+        "element_id": 5539888068,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.557971",
+        "url": "https://www.openstreetmap.org/node/5539888068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5928882,
+          -33.8274006
+        ]
+      },
+      "properties": {
+        "id": "node/5539888069",
+        "element_id": 5539888069,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.557971",
+        "url": "https://www.openstreetmap.org/node/5539888069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5928882,
+          -33.8274006
+        ]
+      },
+      "properties": {
+        "id": "node/5539888069",
+        "element_id": 5539888069,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.559977",
+        "url": "https://www.openstreetmap.org/node/5539888069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5613186,
+          -33.8354305
+        ]
+      },
+      "properties": {
+        "id": "node/5541039864",
+        "element_id": 5541039864,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.559977",
+        "url": "https://www.openstreetmap.org/node/5541039864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5613186,
+          -33.8354305
+        ]
+      },
+      "properties": {
+        "id": "node/5541039864",
+        "element_id": 5541039864,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.561975",
+        "url": "https://www.openstreetmap.org/node/5541039864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5683997,
+          -33.8509891
+        ]
+      },
+      "properties": {
+        "id": "node/5541039868",
+        "element_id": 5541039868,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.561975",
+        "url": "https://www.openstreetmap.org/node/5541039868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5427524,
+          -33.8190535
+        ]
+      },
+      "properties": {
+        "id": "node/5541039867",
+        "element_id": 5541039867,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.563973",
+        "url": "https://www.openstreetmap.org/node/5541039867"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5683997,
+          -33.8509891
+        ]
+      },
+      "properties": {
+        "id": "node/5541039868",
+        "element_id": 5541039868,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.563973",
+        "url": "https://www.openstreetmap.org/node/5541039868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5555358,
+          -33.8225163
+        ]
+      },
+      "properties": {
+        "id": "node/5541039865",
+        "element_id": 5541039865,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.565976",
+        "url": "https://www.openstreetmap.org/node/5541039865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5555358,
+          -33.8225163
+        ]
+      },
+      "properties": {
+        "id": "node/5541039865",
+        "element_id": 5541039865,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:54:47.565976",
+        "url": "https://www.openstreetmap.org/node/5541039865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5456653,
+          -33.8282562
+        ]
+      },
+      "properties": {
+        "id": "node/5541039866",
+        "element_id": 5541039866,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.565976",
+        "url": "https://www.openstreetmap.org/node/5541039866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5427524,
+          -33.8190535
+        ]
+      },
+      "properties": {
+        "id": "node/5541039867",
+        "element_id": 5541039867,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.565976",
+        "url": "https://www.openstreetmap.org/node/5541039867"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.579622,
+          -33.8093818
+        ]
+      },
+      "properties": {
+        "id": "node/5541039861",
+        "element_id": 5541039861,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.567972",
+        "url": "https://www.openstreetmap.org/node/5541039861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5456653,
+          -33.8282562
+        ]
+      },
+      "properties": {
+        "id": "node/5541039866",
+        "element_id": 5541039866,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.567972",
+        "url": "https://www.openstreetmap.org/node/5541039866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.579622,
+          -33.8093818
+        ]
+      },
+      "properties": {
+        "id": "node/5541039861",
+        "element_id": 5541039861,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.569976",
+        "url": "https://www.openstreetmap.org/node/5541039861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5826047,
+          -33.8087444
+        ]
+      },
+      "properties": {
+        "id": "node/5541039862",
+        "element_id": 5541039862,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.569976",
+        "url": "https://www.openstreetmap.org/node/5541039862"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5826047,
+          -33.8087444
+        ]
+      },
+      "properties": {
+        "id": "node/5541039862",
+        "element_id": 5541039862,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.572216",
+        "url": "https://www.openstreetmap.org/node/5541039862"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5857107,
+          -33.8079733
+        ]
+      },
+      "properties": {
+        "id": "node/5541039863",
+        "element_id": 5541039863,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.572216",
+        "url": "https://www.openstreetmap.org/node/5541039863"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5857107,
+          -33.8079733
+        ]
+      },
+      "properties": {
+        "id": "node/5541039863",
+        "element_id": 5541039863,
+        "element_type": "node",
+        "country": "Uruguay",
+        "unit_type": "generator",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:source': 'wind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:54:47.574265",
+        "url": "https://www.openstreetmap.org/node/5541039863"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.01367736595968,
+          -34.83495371990137
+        ]
+      },
+      "properties": {
+        "id": "way/879828336",
+        "element_id": 879828336,
+        "element_type": "way",
+        "country": "Uruguay",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:47.661081",
+        "url": "https://www.openstreetmap.org/way/879828336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.01367736595968,
+          -34.83495371990137
+        ]
+      },
+      "properties": {
+        "id": "way/879828336",
+        "element_id": 879828336,
+        "element_type": "way",
+        "country": "Uruguay",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Aeropuerto de Carrasco', 'plant:output:electricity': '500 W', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2018'}",
+        "timestamp": "2025-07-07 18:54:47.661081",
+        "url": "https://www.openstreetmap.org/way/879828336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.01367736595968,
+          -34.83495371990137
+        ]
+      },
+      "properties": {
+        "id": "way/879828336",
+        "element_id": 879828336,
+        "element_type": "way",
+        "country": "Uruguay",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "500 W",
+        "details": "Tag 'plant:output:electricity' has value '500 W' which could not be parsed",
+        "timestamp": "2025-07-07 18:54:47.661081",
+        "url": "https://www.openstreetmap.org/way/879828336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.83433940967488,
+          -32.61344897229463
+        ]
+      },
+      "properties": {
+        "id": "way/1047740632",
+        "element_id": 1047740632,
+        "element_type": "way",
+        "country": "Uruguay",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Central Eléctrica San Gregorio', 'operator': 'UTE', 'plant:method': 'combustion', 'plant:output:electricity': '1.44 MW', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:54:47.662081",
+        "url": "https://www.openstreetmap.org/way/1047740632"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.53683842452197,
+          -32.862663114167724
+        ]
+      },
+      "properties": {
+        "id": "way/1333534274",
+        "element_id": 1333534274,
+        "element_type": "way",
+        "country": "Uruguay",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:54:47.663081",
+        "url": "https://www.openstreetmap.org/way/1333534274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.53683842452197,
+          -32.862663114167724
+        ]
+      },
+      "properties": {
+        "id": "way/1333534274",
+        "element_id": 1333534274,
+        "element_type": "way",
+        "country": "Uruguay",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'UPM Paso de los Toros power station', 'plant:source': 'biomass', 'power': 'plant', 'source': 'https://www.gem.wiki/UPM_Paso_de_los_Toros_power_station'}",
+        "timestamp": "2025-07-07 18:54:47.666081",
+        "url": "https://www.openstreetmap.org/way/1333534274"
+      }
+    }
+  ]
+}

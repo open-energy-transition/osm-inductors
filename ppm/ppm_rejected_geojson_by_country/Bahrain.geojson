@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.59711376556305,
+          26.09261990748914
+        ]
+      },
+      "properties": {
+        "id": "relation/14447117",
+        "element_id": 14447117,
+        "element_type": "relation",
+        "country": "Bahrain",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:37.169511",
+        "url": "https://www.openstreetmap.org/relation/14447117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.50755618317513,
+          26.055868383275723
+        ]
+      },
+      "properties": {
+        "id": "way/1359435587",
+        "element_id": 1359435587,
+        "element_type": "way",
+        "country": "Bahrain",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:37.173205",
+        "url": "https://www.openstreetmap.org/way/1359435587"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.50755618317513,
+          26.055868383275723
+        ]
+      },
+      "properties": {
+        "id": "way/1359435587",
+        "element_id": 1359435587,
+        "element_type": "way",
+        "country": "Bahrain",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:37.173205",
+        "url": "https://www.openstreetmap.org/way/1359435587"
+      }
+    }
+  ]
+}

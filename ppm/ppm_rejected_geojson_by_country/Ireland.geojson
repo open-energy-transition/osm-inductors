@@ -1,0 +1,1259 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9777147,
+          53.0297117
+        ]
+      },
+      "properties": {
+        "id": "node/5827405590",
+        "element_id": 5827405590,
+        "element_type": "node",
+        "country": "Ireland",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "0.85",
+        "details": "Tag 'generator:output:electricity' has value '0.85' which could not be parsed",
+        "timestamp": "2025-07-07 18:36:06.065636",
+        "url": "https://www.openstreetmap.org/node/5827405590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9775645,
+          53.0338604
+        ]
+      },
+      "properties": {
+        "id": "node/5827405591",
+        "element_id": 5827405591,
+        "element_type": "node",
+        "country": "Ireland",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "0.85",
+        "details": "Tag 'generator:output:electricity' has value '0.85' which could not be parsed",
+        "timestamp": "2025-07-07 18:36:06.065636",
+        "url": "https://www.openstreetmap.org/node/5827405591"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9776933,
+          53.0317764
+        ]
+      },
+      "properties": {
+        "id": "node/5827405592",
+        "element_id": 5827405592,
+        "element_type": "node",
+        "country": "Ireland",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "0.85",
+        "details": "Tag 'generator:output:electricity' has value '0.85' which could not be parsed",
+        "timestamp": "2025-07-07 18:36:06.065636",
+        "url": "https://www.openstreetmap.org/node/5827405592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.977657499999999,
+          53.03178283333333
+        ]
+      },
+      "properties": {
+        "id": "relation/13069311",
+        "element_id": 13069311,
+        "element_type": "relation",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "2.55",
+        "details": "Tag 'plant:output:electricity' has value '2.55' which could not be parsed",
+        "timestamp": "2025-07-07 18:36:06.065636",
+        "url": "https://www.openstreetmap.org/relation/13069311"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.814911907848381,
+          54.84350311531852
+        ]
+      },
+      "properties": {
+        "id": "relation/14186285",
+        "element_id": 14186285,
+        "element_type": "relation",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:36:06.088039",
+        "url": "https://www.openstreetmap.org/relation/14186285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3805113,
+          55.1368956
+        ]
+      },
+      "properties": {
+        "id": "node/9577285270",
+        "element_id": 9577285270,
+        "element_type": "node",
+        "country": "Ireland",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:36:06.118486",
+        "url": "https://www.openstreetmap.org/node/9577285270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3991955,
+          55.133497
+        ]
+      },
+      "properties": {
+        "id": "node/9754463931",
+        "element_id": 9754463931,
+        "element_type": "node",
+        "country": "Ireland",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:36:06.118486",
+        "url": "https://www.openstreetmap.org/node/9754463931"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.382844932763886,
+          55.13401414362326
+        ]
+      },
+      "properties": {
+        "id": "relation/15061650",
+        "element_id": 15061650,
+        "element_type": "relation",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:36:06.118486",
+        "url": "https://www.openstreetmap.org/relation/15061650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.794722618779629,
+          53.227399524818246
+        ]
+      },
+      "properties": {
+        "id": "way/441087086",
+        "element_id": 441087086,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:36:06.171821",
+        "url": "https://www.openstreetmap.org/way/441087086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.530896219786055,
+          53.78972375718492
+        ]
+      },
+      "properties": {
+        "id": "way/460251797",
+        "element_id": 460251797,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:36:06.172819",
+        "url": "https://www.openstreetmap.org/way/460251797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.567711223889766,
+          52.341142820431344
+        ]
+      },
+      "properties": {
+        "id": "way/460937225",
+        "element_id": 460937225,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'fixme': \"Possibly Stack's Mountain Wind Farm.\", 'plant:method': 'wind_turbine', 'plant:output:electricity': 'yes', 'plant:source': 'wind', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:36:06.172819",
+        "url": "https://www.openstreetmap.org/way/460937225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.567711223889766,
+          52.341142820431344
+        ]
+      },
+      "properties": {
+        "id": "way/460937225",
+        "element_id": 460937225,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:36:06.172819",
+        "url": "https://www.openstreetmap.org/way/460937225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.576891850875391,
+          52.2975639203866
+        ]
+      },
+      "properties": {
+        "id": "way/461006592",
+        "element_id": 461006592,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:36:06.172819",
+        "url": "https://www.openstreetmap.org/way/461006592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.203263577709415,
+          53.338278148315126
+        ]
+      },
+      "properties": {
+        "id": "way/502269799",
+        "element_id": 502269799,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:36:06.173818",
+        "url": "https://www.openstreetmap.org/way/502269799"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.167617297536474,
+          54.75637568282836
+        ]
+      },
+      "properties": {
+        "id": "way/627439520",
+        "element_id": 627439520,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:36:06.174818",
+        "url": "https://www.openstreetmap.org/way/627439520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.394211232307622,
+          52.58140515952855
+        ]
+      },
+      "properties": {
+        "id": "way/744115147",
+        "element_id": 744115147,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:36:06.175818",
+        "url": "https://www.openstreetmap.org/way/744115147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2150129525043925,
+          53.316364059041824
+        ]
+      },
+      "properties": {
+        "id": "way/821188279",
+        "element_id": 821188279,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "fuel",
+        "details": "Source value 'fuel' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:36:06.176822",
+        "url": "https://www.openstreetmap.org/way/821188279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2150129525043925,
+          53.316364059041824
+        ]
+      },
+      "properties": {
+        "id": "way/821188279",
+        "element_id": 821188279,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:street': 'Nutley Lane', 'landuse': 'industrial', 'operator': 'St. Vincent’s Healthcare Group', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'fuel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:36:06.176822",
+        "url": "https://www.openstreetmap.org/way/821188279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.519160113734586,
+          52.36265849515486
+        ]
+      },
+      "properties": {
+        "id": "way/876455753",
+        "element_id": 876455753,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'MSD Ballydine', 'plant:method': 'photovoltaic', 'plant:output:electricity': '7.3 MW', 'plant:source': 'solar', 'power': 'plant', 'source': 'https://esb.ie/media-centre-news/press-releases/article/2022/09/12/msd-and-esb-launch-ireland-s-largest-solar-project', 'start_date': '2022-09-12'}",
+        "timestamp": "2025-07-07 18:36:06.176822",
+        "url": "https://www.openstreetmap.org/way/876455753"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.148244020907626,
+          53.85691410813005
+        ]
+      },
+      "properties": {
+        "id": "way/876510406",
+        "element_id": 876510406,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:place': 'Lisavilla', 'operator': 'Polecat Group Water Scheme Co-Op', 'plant:method': 'photovoltaic', 'plant:output:electricity': '150kW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:36:06.176822",
+        "url": "https://www.openstreetmap.org/way/876510406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.148244020907626,
+          53.85691410813005
+        ]
+      },
+      "properties": {
+        "id": "way/876510406",
+        "element_id": 876510406,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "150kW",
+        "details": "Tag 'plant:output:electricity' has value '150kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:36:06.176822",
+        "url": "https://www.openstreetmap.org/way/876510406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.342325765815051,
+          52.49034043287124
+        ]
+      },
+      "properties": {
+        "id": "way/885354526",
+        "element_id": 885354526,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:36:06.177819",
+        "url": "https://www.openstreetmap.org/way/885354526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.035079837267567,
+          53.27200417612893
+        ]
+      },
+      "properties": {
+        "id": "way/886108560",
+        "element_id": 886108560,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:36:06.177819",
+        "url": "https://www.openstreetmap.org/way/886108560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.39484053989259,
+          52.58124578499464
+        ]
+      },
+      "properties": {
+        "id": "way/935064792",
+        "element_id": 935064792,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:36:06.178828",
+        "url": "https://www.openstreetmap.org/way/935064792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.63572891589746,
+          53.69921508191057
+        ]
+      },
+      "properties": {
+        "id": "way/1037292091",
+        "element_id": 1037292091,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:36:06.182465",
+        "url": "https://www.openstreetmap.org/way/1037292091"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.296202666478637,
+          52.9403954318502
+        ]
+      },
+      "properties": {
+        "id": "way/1037451869",
+        "element_id": 1037451869,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'operator': 'The Falls Hotel', 'plant:method': 'run-of-the-river', 'plant:output:electricity': '220 kW', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:36:06.182465",
+        "url": "https://www.openstreetmap.org/way/1037451869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.296202666478637,
+          52.9403954318502
+        ]
+      },
+      "properties": {
+        "id": "way/1037451869",
+        "element_id": 1037451869,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "220 kW",
+        "details": "Tag 'plant:output:electricity' has value '220 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:36:06.182465",
+        "url": "https://www.openstreetmap.org/way/1037451869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.540778254161836,
+          53.24504776094575
+        ]
+      },
+      "properties": {
+        "id": "way/1051140191",
+        "element_id": 1051140191,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:36:06.183703",
+        "url": "https://www.openstreetmap.org/way/1051140191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.188578247767699,
+          53.601318022265
+        ]
+      },
+      "properties": {
+        "id": "way/1067392136",
+        "element_id": 1067392136,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:36:06.183703",
+        "url": "https://www.openstreetmap.org/way/1067392136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9121942595205015,
+          54.244300367019285
+        ]
+      },
+      "properties": {
+        "id": "way/1067393040",
+        "element_id": 1067393040,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:36:06.183703",
+        "url": "https://www.openstreetmap.org/way/1067393040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.42461265458313,
+          52.09580340939876
+        ]
+      },
+      "properties": {
+        "id": "way/1080336389",
+        "element_id": 1080336389,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:36:06.184713",
+        "url": "https://www.openstreetmap.org/way/1080336389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.42461265458313,
+          52.09580340939876
+        ]
+      },
+      "properties": {
+        "id": "way/1080336389",
+        "element_id": 1080336389,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'fixme': 'Very approximate. Check name.', 'landuse': 'industrial', 'note': 'Battery storage power station', 'operator': 'FuturEnergy Ireland;Ørsted', 'plant:output:electricity': 'yes', 'plant:source': 'battery', 'plant:storage': 'yes', 'power': 'plant', 'website': 'https://coomgreenenergypark.com/'}",
+        "timestamp": "2025-07-07 18:36:06.184713",
+        "url": "https://www.openstreetmap.org/way/1080336389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.04003652537922,
+          53.801675882603774
+        ]
+      },
+      "properties": {
+        "id": "way/1097239465",
+        "element_id": 1097239465,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:36:06.184713",
+        "url": "https://www.openstreetmap.org/way/1097239465"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.04003652537922,
+          53.801675882603774
+        ]
+      },
+      "properties": {
+        "id": "way/1097239465",
+        "element_id": 1097239465,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:36:06.184713",
+        "url": "https://www.openstreetmap.org/way/1097239465"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.22905140442384,
+          51.8367853634402
+        ]
+      },
+      "properties": {
+        "id": "way/1131251772",
+        "element_id": 1131251772,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:36:06.185714",
+        "url": "https://www.openstreetmap.org/way/1131251772"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.222751610045098,
+          54.19387327052587
+        ]
+      },
+      "properties": {
+        "id": "way/1132937943",
+        "element_id": 1132937943,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:36:06.186712",
+        "url": "https://www.openstreetmap.org/way/1132937943"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.339934370858171,
+          53.33480900140298
+        ]
+      },
+      "properties": {
+        "id": "way/1132970592",
+        "element_id": 1132970592,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:36:06.186712",
+        "url": "https://www.openstreetmap.org/way/1132970592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.56453636583697,
+          53.26212729867256
+        ]
+      },
+      "properties": {
+        "id": "way/1133973881",
+        "element_id": 1133973881,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'landuse': 'industrial', 'operator': 'Lir Environmental Research Ltd', 'plant:method': 'wind_turbine', 'plant:output:electricity': 'yes/MW', 'plant:source': 'wind', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:36:06.186712",
+        "url": "https://www.openstreetmap.org/way/1133973881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.56453636583697,
+          53.26212729867256
+        ]
+      },
+      "properties": {
+        "id": "way/1133973881",
+        "element_id": 1133973881,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "yes/MW",
+        "details": "Tag 'plant:output:electricity' has value 'yes/MW' which could not be parsed",
+        "timestamp": "2025-07-07 18:36:06.186712",
+        "url": "https://www.openstreetmap.org/way/1133973881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.03588819319201,
+          52.44322731969909
+        ]
+      },
+      "properties": {
+        "id": "way/1204763744",
+        "element_id": 1204763744,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Irish Water', 'operator:ga': 'Uisce Éireann', 'operator:wikidata': 'Q18352148', 'operator:wikipedia': 'en:Irish Water', 'plant:method': 'photovoltaic', 'plant:output:electricity': '30 kW', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2019-06', 'website': 'https://www.water.ie/projects/local-projects/renewable-energy-project-1/'}",
+        "timestamp": "2025-07-07 18:36:06.188043",
+        "url": "https://www.openstreetmap.org/way/1204763744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.03588819319201,
+          52.44322731969909
+        ]
+      },
+      "properties": {
+        "id": "way/1204763744",
+        "element_id": 1204763744,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "30 kW",
+        "details": "Tag 'plant:output:electricity' has value '30 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:36:06.188043",
+        "url": "https://www.openstreetmap.org/way/1204763744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.665734838932662,
+          52.42441775535587
+        ]
+      },
+      "properties": {
+        "id": "way/1208620277",
+        "element_id": 1208620277,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:36:06.188043",
+        "url": "https://www.openstreetmap.org/way/1208620277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.665734838932662,
+          52.42441775535587
+        ]
+      },
+      "properties": {
+        "id": "way/1208620277",
+        "element_id": 1208620277,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "132 kW",
+        "details": "Tag 'plant:output:electricity' has value '132 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:36:06.188043",
+        "url": "https://www.openstreetmap.org/way/1208620277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.191176411794421,
+          53.339448808058805
+        ]
+      },
+      "properties": {
+        "id": "way/1306427131",
+        "element_id": 1306427131,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:36:06.189041",
+        "url": "https://www.openstreetmap.org/way/1306427131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.519363267939003,
+          52.53986336195686
+        ]
+      },
+      "properties": {
+        "id": "way/1311893515",
+        "element_id": 1311893515,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:36:06.190041",
+        "url": "https://www.openstreetmap.org/way/1311893515"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.525038840300035,
+          53.64299472262438
+        ]
+      },
+      "properties": {
+        "id": "way/1317981898",
+        "element_id": 1317981898,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:36:06.190041",
+        "url": "https://www.openstreetmap.org/way/1317981898"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.525038840300035,
+          53.64299472262438
+        ]
+      },
+      "properties": {
+        "id": "way/1317981898",
+        "element_id": 1317981898,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:36:06.190041",
+        "url": "https://www.openstreetmap.org/way/1317981898"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.518177783705704,
+          52.53783990594175
+        ]
+      },
+      "properties": {
+        "id": "way/1332848482",
+        "element_id": 1332848482,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:36:06.190041",
+        "url": "https://www.openstreetmap.org/way/1332848482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.480189650423299,
+          52.14636948096292
+        ]
+      },
+      "properties": {
+        "id": "way/1357547992",
+        "element_id": 1357547992,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "65",
+        "details": "Tag 'plant:output:electricity' has value '65' which could not be parsed",
+        "timestamp": "2025-07-07 18:36:06.191041",
+        "url": "https://www.openstreetmap.org/way/1357547992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6281854708608865,
+          53.33871507978648
+        ]
+      },
+      "properties": {
+        "id": "way/1361565668",
+        "element_id": 1361565668,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'fixme': 'estimated location and geometry', 'panoramax': 'a43bb0a0-a408-4373-a3d6-45c5ccd1b471', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:36:06.191041",
+        "url": "https://www.openstreetmap.org/way/1361565668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6281854708608865,
+          53.33871507978648
+        ]
+      },
+      "properties": {
+        "id": "way/1361565668",
+        "element_id": 1361565668,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:36:06.191041",
+        "url": "https://www.openstreetmap.org/way/1361565668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.446944140138552,
+          52.15808946358913
+        ]
+      },
+      "properties": {
+        "id": "way/1386881791",
+        "element_id": 1386881791,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "65",
+        "details": "Tag 'plant:output:electricity' has value '65' which could not be parsed",
+        "timestamp": "2025-07-07 18:36:06.192040",
+        "url": "https://www.openstreetmap.org/way/1386881791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.66813117830801,
+          51.90817200103795
+        ]
+      },
+      "properties": {
+        "id": "way/1409921392",
+        "element_id": 1409921392,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'fixme': \"New solar farm here; don't have details such as output and power lines\", 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:36:06.192040",
+        "url": "https://www.openstreetmap.org/way/1409921392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.66813117830801,
+          51.90817200103795
+        ]
+      },
+      "properties": {
+        "id": "way/1409921392",
+        "element_id": 1409921392,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:36:06.192040",
+        "url": "https://www.openstreetmap.org/way/1409921392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.254582,
+          53.2220285
+        ]
+      },
+      "properties": {
+        "id": "node/12488670436",
+        "element_id": 12488670436,
+        "element_type": "node",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:36:06.193040",
+        "url": "https://www.openstreetmap.org/node/12488670436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.254582,
+          53.2220285
+        ]
+      },
+      "properties": {
+        "id": "node/12488670436",
+        "element_id": 12488670436,
+        "element_type": "node",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "57.6 Mw",
+        "details": "Tag 'plant:output:electricity' has value '57.6 Mw' which could not be parsed",
+        "timestamp": "2025-07-07 18:36:06.193040",
+        "url": "https://www.openstreetmap.org/node/12488670436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.229846178980122,
+          51.83247568081843
+        ]
+      },
+      "properties": {
+        "id": "way/1413017181",
+        "element_id": 1413017181,
+        "element_type": "way",
+        "country": "Ireland",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:36:06.193040",
+        "url": "https://www.openstreetmap.org/way/1413017181"
+      }
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2053383799415,
+          -6.7937373454415
+        ]
+      },
+      "properties": {
+        "id": "way/137312935",
+        "element_id": 137312935,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:48.946835",
+        "url": "https://www.openstreetmap.org/way/137312935"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.784098312770872,
+          -2.382129557560232
+        ]
+      },
+      "properties": {
+        "id": "way/194699416",
+        "element_id": 194699416,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:48.946835",
+        "url": "https://www.openstreetmap.org/way/194699416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.88637121837344,
+          -7.635452082250415
+        ]
+      },
+      "properties": {
+        "id": "way/377454464",
+        "element_id": 377454464,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:48.948834",
+        "url": "https://www.openstreetmap.org/way/377454464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.88637121837344,
+          -7.635452082250415
+        ]
+      },
+      "properties": {
+        "id": "way/377454464",
+        "element_id": 377454464,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Kidatu Dam', 'plant:source': 'hydro', 'power': 'plant', 'waterway': 'dam', 'wikidata': 'Q3437276', 'wikipedia': 'en:Kidatu Dam'}",
+        "timestamp": "2025-07-07 18:50:48.950832",
+        "url": "https://www.openstreetmap.org/way/377454464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.529442021386515,
+          -9.84007997756824
+        ]
+      },
+      "properties": {
+        "id": "way/470057234",
+        "element_id": 470057234,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:48.950832",
+        "url": "https://www.openstreetmap.org/way/470057234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.529442021386515,
+          -9.84007997756824
+        ]
+      },
+      "properties": {
+        "id": "way/470057234",
+        "element_id": 470057234,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "300 kW",
+        "details": "Tag 'plant:output:electricity' has value '300 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:50:48.950832",
+        "url": "https://www.openstreetmap.org/way/470057234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.70434789837112,
+          -9.794520732942813
+        ]
+      },
+      "properties": {
+        "id": "way/529617820",
+        "element_id": 529617820,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:48.950832",
+        "url": "https://www.openstreetmap.org/way/529617820"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.70434789837112,
+          -9.794520732942813
+        ]
+      },
+      "properties": {
+        "id": "way/529617820",
+        "element_id": 529617820,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "150 kV",
+        "details": "Tag 'plant:output:electricity' has value '150 kV' which could not be parsed",
+        "timestamp": "2025-07-07 18:50:48.950832",
+        "url": "https://www.openstreetmap.org/way/529617820"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.70434789837112,
+          -9.794520732942813
+        ]
+      },
+      "properties": {
+        "id": "way/529617820",
+        "element_id": 529617820,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Unsupported capacity unit",
+        "keywords": "150 kV",
+        "details": "Tag 'plant:output:electricity' has value '150 kV' which could not be parsed",
+        "timestamp": "2025-07-07 18:50:48.950832",
+        "url": "https://www.openstreetmap.org/way/529617820"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.18752545699714,
+          -6.674197120819663
+        ]
+      },
+      "properties": {
+        "id": "way/532819761",
+        "element_id": 532819761,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:48.951830",
+        "url": "https://www.openstreetmap.org/way/532819761"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.382146500000005,
+          -8.7205495
+        ]
+      },
+      "properties": {
+        "id": "way/567815124",
+        "element_id": 567815124,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:48.952830",
+        "url": "https://www.openstreetmap.org/way/567815124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.382146500000005,
+          -8.7205495
+        ]
+      },
+      "properties": {
+        "id": "way/567815124",
+        "element_id": 567815124,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:48.952830",
+        "url": "https://www.openstreetmap.org/way/567815124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.382146500000005,
+          -8.7205495
+        ]
+      },
+      "properties": {
+        "id": "way/567815124",
+        "element_id": 567815124,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:48.954830",
+        "url": "https://www.openstreetmap.org/way/567815124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.02753632013036,
+          -10.278894053446614
+        ]
+      },
+      "properties": {
+        "id": "way/848568626",
+        "element_id": 848568626,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:48.955830",
+        "url": "https://www.openstreetmap.org/way/848568626"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.02753632013036,
+          -10.278894053446614
+        ]
+      },
+      "properties": {
+        "id": "way/848568626",
+        "element_id": 848568626,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:48.955830",
+        "url": "https://www.openstreetmap.org/way/848568626"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.688245633802246,
+          -4.898906987015215
+        ]
+      },
+      "properties": {
+        "id": "way/856436718",
+        "element_id": 856436718,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:48.956830",
+        "url": "https://www.openstreetmap.org/way/856436718"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.688245633802246,
+          -4.898906987015215
+        ]
+      },
+      "properties": {
+        "id": "way/856436718",
+        "element_id": 856436718,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:48.958834",
+        "url": "https://www.openstreetmap.org/way/856436718"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.85413311739982,
+          -7.801998821164519
+        ]
+      },
+      "properties": {
+        "id": "way/895758868",
+        "element_id": 895758868,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:48.958834",
+        "url": "https://www.openstreetmap.org/way/895758868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.88727081511766,
+          -3.4056687196963367
+        ]
+      },
+      "properties": {
+        "id": "way/944870322",
+        "element_id": 944870322,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:48.958834",
+        "url": "https://www.openstreetmap.org/way/944870322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.88727081511766,
+          -3.4056687196963367
+        ]
+      },
+      "properties": {
+        "id": "way/944870322",
+        "element_id": 944870322,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:48.958834",
+        "url": "https://www.openstreetmap.org/way/944870322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.18444306787275,
+          -2.8643678552401144
+        ]
+      },
+      "properties": {
+        "id": "way/1082743614",
+        "element_id": 1082743614,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Geita Gold Mine Power Plant', 'plant:method': 'combustion', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:48.961919",
+        "url": "https://www.openstreetmap.org/way/1082743614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.966025960580765,
+          -7.6632223931397565
+        ]
+      },
+      "properties": {
+        "id": "way/1165360482",
+        "element_id": 1165360482,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:48.963919",
+        "url": "https://www.openstreetmap.org/way/1165360482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.53165557529022,
+          -6.190774680666696
+        ]
+      },
+      "properties": {
+        "id": "way/1354198760",
+        "element_id": 1354198760,
+        "element_type": "way",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Zanzibar Collection Solar Plant', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:48.965919",
+        "url": "https://www.openstreetmap.org/way/1354198760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5669575,
+          -9.0247492
+        ]
+      },
+      "properties": {
+        "id": "node/11394671409",
+        "element_id": 11394671409,
+        "element_type": "node",
+        "country": "Tanzania, United Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Ngozi Geothermal Project', 'operator': 'Tanzania Geothermal Development Company', 'plant:method': 'geothermal', 'plant:output': '70 MW', 'plant:source': 'geothermal', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:48.969919",
+        "url": "https://www.openstreetmap.org/node/11394671409"
+      }
+    }
+  ]
+}

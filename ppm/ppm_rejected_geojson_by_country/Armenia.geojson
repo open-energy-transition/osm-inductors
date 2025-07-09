@@ -1,0 +1,2931 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.66945332529765,
+          39.83739545057016
+        ]
+      },
+      "properties": {
+        "id": "way/123570978",
+        "element_id": 123570978,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.617316",
+        "url": "https://www.openstreetmap.org/way/123570978"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.57894291009734,
+          40.21831933007773
+        ]
+      },
+      "properties": {
+        "id": "way/133136011",
+        "element_id": 133136011,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'building:levels': '2', 'landuse': 'industrial', 'operator': '«ՀԱՅՌՈՒՍԿՈԳԵՆԵՐԱՑԻԱ» փակ բաժնետիրական ընկերություն (ՓԲԸ)', 'operator:ru': 'закрытое акционерное общество \"Армроскогенерация\"', 'plant:method': 'cogeneration', 'plant:output:electricity': 'yes', 'plant:output:hot_water': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.618316",
+        "url": "https://www.openstreetmap.org/way/133136011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.57894291009734,
+          40.21831933007773
+        ]
+      },
+      "properties": {
+        "id": "way/133136011",
+        "element_id": 133136011,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.618316",
+        "url": "https://www.openstreetmap.org/way/133136011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.130459791336456,
+          39.47419139723408
+        ]
+      },
+      "properties": {
+        "id": "way/190980691",
+        "element_id": 190980691,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:43.618316",
+        "url": "https://www.openstreetmap.org/way/190980691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.58378994999999,
+          40.95624885
+        ]
+      },
+      "properties": {
+        "id": "way/223420593",
+        "element_id": 223420593,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.619637",
+        "url": "https://www.openstreetmap.org/way/223420593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.58378994999999,
+          40.95624885
+        ]
+      },
+      "properties": {
+        "id": "way/223420593",
+        "element_id": 223420593,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.620636",
+        "url": "https://www.openstreetmap.org/way/223420593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.19347129315969,
+          40.40169029762348
+        ]
+      },
+      "properties": {
+        "id": "way/225854162",
+        "element_id": 225854162,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.620636",
+        "url": "https://www.openstreetmap.org/way/225854162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6783750111988,
+          40.10260136491074
+        ]
+      },
+      "properties": {
+        "id": "way/276334023",
+        "element_id": 276334023,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:method': 'run-of-the-river', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.620636",
+        "url": "https://www.openstreetmap.org/way/276334023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6783750111988,
+          40.10260136491074
+        ]
+      },
+      "properties": {
+        "id": "way/276334023",
+        "element_id": 276334023,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.620636",
+        "url": "https://www.openstreetmap.org/way/276334023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.58763457058448,
+          40.9495897517647
+        ]
+      },
+      "properties": {
+        "id": "way/284174534",
+        "element_id": 284174534,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'disused': 'yes', 'name:ru': 'Хниванк-1', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.620636",
+        "url": "https://www.openstreetmap.org/way/284174534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.58763457058448,
+          40.9495897517647
+        ]
+      },
+      "properties": {
+        "id": "way/284174534",
+        "element_id": 284174534,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'disused': 'yes', 'name:ru': 'Хниванк-1', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.620636",
+        "url": "https://www.openstreetmap.org/way/284174534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7917583,
+          40.1345455
+        ]
+      },
+      "properties": {
+        "id": "way/290494808",
+        "element_id": 290494808,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'generator:method': 'run-of-the-river', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.621638",
+        "url": "https://www.openstreetmap.org/way/290494808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7917583,
+          40.1345455
+        ]
+      },
+      "properties": {
+        "id": "way/290494808",
+        "element_id": 290494808,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'generator:method': 'run-of-the-river', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.621638",
+        "url": "https://www.openstreetmap.org/way/290494808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.172157391267575,
+          40.67905864112439
+        ]
+      },
+      "properties": {
+        "id": "way/290536533",
+        "element_id": 290536533,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'fixme': 'Where does the watrer come from?', 'name': 'ՓՀԷԿ \"ԳԵՏԻԿ-1\"', 'name:en': 'HPP Getik-1', 'name:ru': 'ГЭС Гетик-1', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.621638",
+        "url": "https://www.openstreetmap.org/way/290536533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.32140262657009,
+          40.48994797375816
+        ]
+      },
+      "properties": {
+        "id": "way/293652833",
+        "element_id": 293652833,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.621638",
+        "url": "https://www.openstreetmap.org/way/293652833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.24762599030155,
+          40.363427669045
+        ]
+      },
+      "properties": {
+        "id": "way/501373310",
+        "element_id": 501373310,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.621638",
+        "url": "https://www.openstreetmap.org/way/501373310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.23440893482747,
+          40.385700500495055
+        ]
+      },
+      "properties": {
+        "id": "way/501373311",
+        "element_id": 501373311,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.621638",
+        "url": "https://www.openstreetmap.org/way/501373311"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.24172165458399,
+          40.67332682968052
+        ]
+      },
+      "properties": {
+        "id": "way/549950266",
+        "element_id": 549950266,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:43.622636",
+        "url": "https://www.openstreetmap.org/way/549950266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.24172165458399,
+          40.67332682968052
+        ]
+      },
+      "properties": {
+        "id": "way/549950266",
+        "element_id": 549950266,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'fixme': 'Where does the watrer come from? Dam in Martuni?', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.622636",
+        "url": "https://www.openstreetmap.org/way/549950266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.24172165458399,
+          40.67332682968052
+        ]
+      },
+      "properties": {
+        "id": "way/549950266",
+        "element_id": 549950266,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'fixme': 'Where does the watrer come from? Dam in Martuni?', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.622636",
+        "url": "https://www.openstreetmap.org/way/549950266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.427129505761314,
+          39.876955730635565
+        ]
+      },
+      "properties": {
+        "id": "way/684377423",
+        "element_id": 684377423,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:43.622636",
+        "url": "https://www.openstreetmap.org/way/684377423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.427129505761314,
+          39.876955730635565
+        ]
+      },
+      "properties": {
+        "id": "way/684377423",
+        "element_id": 684377423,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.622636",
+        "url": "https://www.openstreetmap.org/way/684377423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.427129505761314,
+          39.876955730635565
+        ]
+      },
+      "properties": {
+        "id": "way/684377423",
+        "element_id": 684377423,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.622636",
+        "url": "https://www.openstreetmap.org/way/684377423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.431420539223616,
+          40.91093558205369
+        ]
+      },
+      "properties": {
+        "id": "way/684533023",
+        "element_id": 684533023,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:43.622636",
+        "url": "https://www.openstreetmap.org/way/684533023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.2585918,
+          39.3770951
+        ]
+      },
+      "properties": {
+        "id": "way/750201770",
+        "element_id": 750201770,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'name:ru': 'Анапат 1', 'plant:method': 'run-of-the-river', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.623636",
+        "url": "https://www.openstreetmap.org/way/750201770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.2585918,
+          39.3770951
+        ]
+      },
+      "properties": {
+        "id": "way/750201770",
+        "element_id": 750201770,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.623636",
+        "url": "https://www.openstreetmap.org/way/750201770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.46866366170196,
+          40.411600388975714
+        ]
+      },
+      "properties": {
+        "id": "way/835790496",
+        "element_id": 835790496,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.624636",
+        "url": "https://www.openstreetmap.org/way/835790496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.46866366170196,
+          40.411600388975714
+        ]
+      },
+      "properties": {
+        "id": "way/835790496",
+        "element_id": 835790496,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.624636",
+        "url": "https://www.openstreetmap.org/way/835790496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.57170972311697,
+          40.22272678614588
+        ]
+      },
+      "properties": {
+        "id": "way/837976273",
+        "element_id": 837976273,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.624636",
+        "url": "https://www.openstreetmap.org/way/837976273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.57170972311697,
+          40.22272678614588
+        ]
+      },
+      "properties": {
+        "id": "way/837976273",
+        "element_id": 837976273,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.624636",
+        "url": "https://www.openstreetmap.org/way/837976273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.32974777472625,
+          40.50352055737076
+        ]
+      },
+      "properties": {
+        "id": "way/844631645",
+        "element_id": 844631645,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.624636",
+        "url": "https://www.openstreetmap.org/way/844631645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.32974777472625,
+          40.50352055737076
+        ]
+      },
+      "properties": {
+        "id": "way/844631645",
+        "element_id": 844631645,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.624636",
+        "url": "https://www.openstreetmap.org/way/844631645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.30697653310822,
+          40.14995146317576
+        ]
+      },
+      "properties": {
+        "id": "way/848281668",
+        "element_id": 848281668,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.624636",
+        "url": "https://www.openstreetmap.org/way/848281668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.30697653310822,
+          40.14995146317576
+        ]
+      },
+      "properties": {
+        "id": "way/848281668",
+        "element_id": 848281668,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.624636",
+        "url": "https://www.openstreetmap.org/way/848281668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.2677283964553,
+          39.38690571231742
+        ]
+      },
+      "properties": {
+        "id": "way/910152265",
+        "element_id": 910152265,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:43.624636",
+        "url": "https://www.openstreetmap.org/way/910152265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.2677283964553,
+          39.38690571231742
+        ]
+      },
+      "properties": {
+        "id": "way/910152265",
+        "element_id": 910152265,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.624636",
+        "url": "https://www.openstreetmap.org/way/910152265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.2677283964553,
+          39.38690571231742
+        ]
+      },
+      "properties": {
+        "id": "way/910152265",
+        "element_id": 910152265,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.624636",
+        "url": "https://www.openstreetmap.org/way/910152265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.435462787100825,
+          40.12040615135795
+        ]
+      },
+      "properties": {
+        "id": "way/964674731",
+        "element_id": 964674731,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.624636",
+        "url": "https://www.openstreetmap.org/way/964674731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.435462787100825,
+          40.12040615135795
+        ]
+      },
+      "properties": {
+        "id": "way/964674731",
+        "element_id": 964674731,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.624636",
+        "url": "https://www.openstreetmap.org/way/964674731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.41570666220228,
+          40.06633161139646
+        ]
+      },
+      "properties": {
+        "id": "way/1052438470",
+        "element_id": 1052438470,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': '1 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.625637",
+        "url": "https://www.openstreetmap.org/way/1052438470"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.95226152360283,
+          40.61021858275743
+        ]
+      },
+      "properties": {
+        "id": "way/1071890614",
+        "element_id": 1071890614,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.625637",
+        "url": "https://www.openstreetmap.org/way/1071890614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.95226152360283,
+          40.61021858275743
+        ]
+      },
+      "properties": {
+        "id": "way/1071890614",
+        "element_id": 1071890614,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.625637",
+        "url": "https://www.openstreetmap.org/way/1071890614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.90084025099675,
+          40.541356240944936
+        ]
+      },
+      "properties": {
+        "id": "way/1080260092",
+        "element_id": 1080260092,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.625637",
+        "url": "https://www.openstreetmap.org/way/1080260092"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.90084025099675,
+          40.541356240944936
+        ]
+      },
+      "properties": {
+        "id": "way/1080260092",
+        "element_id": 1080260092,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.625637",
+        "url": "https://www.openstreetmap.org/way/1080260092"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9017392193865,
+          40.53973749113215
+        ]
+      },
+      "properties": {
+        "id": "way/1080260093",
+        "element_id": 1080260093,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.625637",
+        "url": "https://www.openstreetmap.org/way/1080260093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9017392193865,
+          40.53973749113215
+        ]
+      },
+      "properties": {
+        "id": "way/1080260093",
+        "element_id": 1080260093,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.625637",
+        "url": "https://www.openstreetmap.org/way/1080260093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.91531441997219,
+          40.53995528701762
+        ]
+      },
+      "properties": {
+        "id": "way/1080260094",
+        "element_id": 1080260094,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.625637",
+        "url": "https://www.openstreetmap.org/way/1080260094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.826961221376095,
+          40.51813478460826
+        ]
+      },
+      "properties": {
+        "id": "way/980156175",
+        "element_id": 980156175,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.625637",
+        "url": "https://www.openstreetmap.org/way/980156175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.826961221376095,
+          40.51813478460826
+        ]
+      },
+      "properties": {
+        "id": "way/980156175",
+        "element_id": 980156175,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.625637",
+        "url": "https://www.openstreetmap.org/way/980156175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.91531441997219,
+          40.53995528701762
+        ]
+      },
+      "properties": {
+        "id": "way/1080260094",
+        "element_id": 1080260094,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.626788",
+        "url": "https://www.openstreetmap.org/way/1080260094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.93087055510741,
+          40.53772026704347
+        ]
+      },
+      "properties": {
+        "id": "way/1080260095",
+        "element_id": 1080260095,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.626788",
+        "url": "https://www.openstreetmap.org/way/1080260095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.93087055510741,
+          40.53772026704347
+        ]
+      },
+      "properties": {
+        "id": "way/1080260095",
+        "element_id": 1080260095,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.626788",
+        "url": "https://www.openstreetmap.org/way/1080260095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.93162080818196,
+          40.53961462461973
+        ]
+      },
+      "properties": {
+        "id": "way/1080260096",
+        "element_id": 1080260096,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.626788",
+        "url": "https://www.openstreetmap.org/way/1080260096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.93162080818196,
+          40.53961462461973
+        ]
+      },
+      "properties": {
+        "id": "way/1080260096",
+        "element_id": 1080260096,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.626788",
+        "url": "https://www.openstreetmap.org/way/1080260096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.93523283340912,
+          40.53547758619407
+        ]
+      },
+      "properties": {
+        "id": "way/1080260097",
+        "element_id": 1080260097,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.626788",
+        "url": "https://www.openstreetmap.org/way/1080260097"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.93523283340912,
+          40.53547758619407
+        ]
+      },
+      "properties": {
+        "id": "way/1080260097",
+        "element_id": 1080260097,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.626788",
+        "url": "https://www.openstreetmap.org/way/1080260097"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.95047519564684,
+          40.61642997613724
+        ]
+      },
+      "properties": {
+        "id": "way/1080260120",
+        "element_id": 1080260120,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.626788",
+        "url": "https://www.openstreetmap.org/way/1080260120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.95047519564684,
+          40.61642997613724
+        ]
+      },
+      "properties": {
+        "id": "way/1080260120",
+        "element_id": 1080260120,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.626788",
+        "url": "https://www.openstreetmap.org/way/1080260120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.950121279034406,
+          40.61858427508572
+        ]
+      },
+      "properties": {
+        "id": "way/1080260162",
+        "element_id": 1080260162,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.626788",
+        "url": "https://www.openstreetmap.org/way/1080260162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.950121279034406,
+          40.61858427508572
+        ]
+      },
+      "properties": {
+        "id": "way/1080260162",
+        "element_id": 1080260162,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.626788",
+        "url": "https://www.openstreetmap.org/way/1080260162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.8337215,
+          39.6752183
+        ]
+      },
+      "properties": {
+        "id": "way/1083951759",
+        "element_id": 1083951759,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:43.626788",
+        "url": "https://www.openstreetmap.org/way/1083951759"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.8337215,
+          39.6752183
+        ]
+      },
+      "properties": {
+        "id": "way/1083951759",
+        "element_id": 1083951759,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'fixme': 'needs confirmation', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.626788",
+        "url": "https://www.openstreetmap.org/way/1083951759"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.8337215,
+          39.6752183
+        ]
+      },
+      "properties": {
+        "id": "way/1083951759",
+        "element_id": 1083951759,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'fixme': 'needs confirmation', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.626788",
+        "url": "https://www.openstreetmap.org/way/1083951759"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.907272789135575,
+          40.73012900369887
+        ]
+      },
+      "properties": {
+        "id": "way/1091142614",
+        "element_id": 1091142614,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.627799",
+        "url": "https://www.openstreetmap.org/way/1091142614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.907272789135575,
+          40.73012900369887
+        ]
+      },
+      "properties": {
+        "id": "way/1091142614",
+        "element_id": 1091142614,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.627799",
+        "url": "https://www.openstreetmap.org/way/1091142614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.27037228354431,
+          40.50499781916817
+        ]
+      },
+      "properties": {
+        "id": "way/1094703804",
+        "element_id": 1094703804,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.627799",
+        "url": "https://www.openstreetmap.org/way/1094703804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.27037228354431,
+          40.50499781916817
+        ]
+      },
+      "properties": {
+        "id": "way/1094703804",
+        "element_id": 1094703804,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.627799",
+        "url": "https://www.openstreetmap.org/way/1094703804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.28479758993236,
+          40.48773653335312
+        ]
+      },
+      "properties": {
+        "id": "way/1094703805",
+        "element_id": 1094703805,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.627799",
+        "url": "https://www.openstreetmap.org/way/1094703805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.28479758993236,
+          40.48773653335312
+        ]
+      },
+      "properties": {
+        "id": "way/1094703805",
+        "element_id": 1094703805,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.627799",
+        "url": "https://www.openstreetmap.org/way/1094703805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.39959080159256,
+          40.21440488624945
+        ]
+      },
+      "properties": {
+        "id": "way/1098523014",
+        "element_id": 1098523014,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.627799",
+        "url": "https://www.openstreetmap.org/way/1098523014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.39959080159256,
+          40.21440488624945
+        ]
+      },
+      "properties": {
+        "id": "way/1098523014",
+        "element_id": 1098523014,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.627799",
+        "url": "https://www.openstreetmap.org/way/1098523014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.08003422521255,
+          40.91684351948562
+        ]
+      },
+      "properties": {
+        "id": "way/1103005059",
+        "element_id": 1103005059,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.627799",
+        "url": "https://www.openstreetmap.org/way/1103005059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.08003422521255,
+          40.91684351948562
+        ]
+      },
+      "properties": {
+        "id": "way/1103005059",
+        "element_id": 1103005059,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.627799",
+        "url": "https://www.openstreetmap.org/way/1103005059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.71550592033115,
+          39.87274259912775
+        ]
+      },
+      "properties": {
+        "id": "way/1111568733",
+        "element_id": 1111568733,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:43.627799",
+        "url": "https://www.openstreetmap.org/way/1111568733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.71550592033115,
+          39.87274259912775
+        ]
+      },
+      "properties": {
+        "id": "way/1111568733",
+        "element_id": 1111568733,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.627799",
+        "url": "https://www.openstreetmap.org/way/1111568733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.71550592033115,
+          39.87274259912775
+        ]
+      },
+      "properties": {
+        "id": "way/1111568733",
+        "element_id": 1111568733,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.627799",
+        "url": "https://www.openstreetmap.org/way/1111568733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.61876769716151,
+          39.96252261828656
+        ]
+      },
+      "properties": {
+        "id": "way/1118648949",
+        "element_id": 1118648949,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'name': 'Այգեզարդ', 'name:en': 'Aygezard HPP', 'name:ru': 'ГЭС Айгезанд', 'operator': '«Բիթլիս Մեն» ՍՊԸ', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.627799",
+        "url": "https://www.openstreetmap.org/way/1118648949"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.7776687096442,
+          40.229117511911376
+        ]
+      },
+      "properties": {
+        "id": "way/1208995151",
+        "element_id": 1208995151,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.628796",
+        "url": "https://www.openstreetmap.org/way/1208995151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.7776687096442,
+          40.229117511911376
+        ]
+      },
+      "properties": {
+        "id": "way/1208995151",
+        "element_id": 1208995151,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.628796",
+        "url": "https://www.openstreetmap.org/way/1208995151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.74727522245439,
+          40.18316196463677
+        ]
+      },
+      "properties": {
+        "id": "way/1208995164",
+        "element_id": 1208995164,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.628796",
+        "url": "https://www.openstreetmap.org/way/1208995164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.74727522245439,
+          40.18316196463677
+        ]
+      },
+      "properties": {
+        "id": "way/1208995164",
+        "element_id": 1208995164,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.628796",
+        "url": "https://www.openstreetmap.org/way/1208995164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.76782414664245,
+          40.16594022590143
+        ]
+      },
+      "properties": {
+        "id": "way/1208995176",
+        "element_id": 1208995176,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:43.628796",
+        "url": "https://www.openstreetmap.org/way/1208995176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.76782414664245,
+          40.16594022590143
+        ]
+      },
+      "properties": {
+        "id": "way/1208995176",
+        "element_id": 1208995176,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.628796",
+        "url": "https://www.openstreetmap.org/way/1208995176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.76782414664245,
+          40.16594022590143
+        ]
+      },
+      "properties": {
+        "id": "way/1208995176",
+        "element_id": 1208995176,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.628796",
+        "url": "https://www.openstreetmap.org/way/1208995176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.60391804215825,
+          40.27974305488383
+        ]
+      },
+      "properties": {
+        "id": "way/1234723256",
+        "element_id": 1234723256,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'location': 'ground', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.628796",
+        "url": "https://www.openstreetmap.org/way/1234723256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.60391804215825,
+          40.27974305488383
+        ]
+      },
+      "properties": {
+        "id": "way/1234723256",
+        "element_id": 1234723256,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.628796",
+        "url": "https://www.openstreetmap.org/way/1234723256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.85329040441871,
+          40.36318152441718
+        ]
+      },
+      "properties": {
+        "id": "way/1241375193",
+        "element_id": 1241375193,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:43.629799",
+        "url": "https://www.openstreetmap.org/way/1241375193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.85329040441871,
+          40.36318152441718
+        ]
+      },
+      "properties": {
+        "id": "way/1241375193",
+        "element_id": 1241375193,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.629799",
+        "url": "https://www.openstreetmap.org/way/1241375193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.85329040441871,
+          40.36318152441718
+        ]
+      },
+      "properties": {
+        "id": "way/1241375193",
+        "element_id": 1241375193,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.629799",
+        "url": "https://www.openstreetmap.org/way/1241375193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.85548752123261,
+          40.36627372212518
+        ]
+      },
+      "properties": {
+        "id": "way/1241375194",
+        "element_id": 1241375194,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:43.629799",
+        "url": "https://www.openstreetmap.org/way/1241375194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.85548752123261,
+          40.36627372212518
+        ]
+      },
+      "properties": {
+        "id": "way/1241375194",
+        "element_id": 1241375194,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.629799",
+        "url": "https://www.openstreetmap.org/way/1241375194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.85548752123261,
+          40.36627372212518
+        ]
+      },
+      "properties": {
+        "id": "way/1241375194",
+        "element_id": 1241375194,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.629799",
+        "url": "https://www.openstreetmap.org/way/1241375194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.91278533798142,
+          40.36215704519193
+        ]
+      },
+      "properties": {
+        "id": "way/1248941401",
+        "element_id": 1248941401,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.629799",
+        "url": "https://www.openstreetmap.org/way/1248941401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.91278533798142,
+          40.36215704519193
+        ]
+      },
+      "properties": {
+        "id": "way/1248941401",
+        "element_id": 1248941401,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.629799",
+        "url": "https://www.openstreetmap.org/way/1248941401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.86414238689781,
+          40.37099642523142
+        ]
+      },
+      "properties": {
+        "id": "way/1248941429",
+        "element_id": 1248941429,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.629799",
+        "url": "https://www.openstreetmap.org/way/1248941429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.86414238689781,
+          40.37099642523142
+        ]
+      },
+      "properties": {
+        "id": "way/1248941429",
+        "element_id": 1248941429,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.629799",
+        "url": "https://www.openstreetmap.org/way/1248941429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.85023736816785,
+          40.35363009473021
+        ]
+      },
+      "properties": {
+        "id": "way/1249128068",
+        "element_id": 1249128068,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.629799",
+        "url": "https://www.openstreetmap.org/way/1249128068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.85023736816785,
+          40.35363009473021
+        ]
+      },
+      "properties": {
+        "id": "way/1249128068",
+        "element_id": 1249128068,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.629799",
+        "url": "https://www.openstreetmap.org/way/1249128068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.92275416735767,
+          40.34584599944022
+        ]
+      },
+      "properties": {
+        "id": "way/1249142164",
+        "element_id": 1249142164,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.629799",
+        "url": "https://www.openstreetmap.org/way/1249142164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.92275416735767,
+          40.34584599944022
+        ]
+      },
+      "properties": {
+        "id": "way/1249142164",
+        "element_id": 1249142164,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.629799",
+        "url": "https://www.openstreetmap.org/way/1249142164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.03504410318525,
+          40.29079621205572
+        ]
+      },
+      "properties": {
+        "id": "way/1252647113",
+        "element_id": 1252647113,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.629799",
+        "url": "https://www.openstreetmap.org/way/1252647113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.03504410318525,
+          40.29079621205572
+        ]
+      },
+      "properties": {
+        "id": "way/1252647113",
+        "element_id": 1252647113,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.629799",
+        "url": "https://www.openstreetmap.org/way/1252647113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.56575002543215,
+          40.182049497578085
+        ]
+      },
+      "properties": {
+        "id": "way/1259705120",
+        "element_id": 1259705120,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.629799",
+        "url": "https://www.openstreetmap.org/way/1259705120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.56575002543215,
+          40.182049497578085
+        ]
+      },
+      "properties": {
+        "id": "way/1259705120",
+        "element_id": 1259705120,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.629799",
+        "url": "https://www.openstreetmap.org/way/1259705120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.35325822510902,
+          40.151126064711626
+        ]
+      },
+      "properties": {
+        "id": "way/1263518855",
+        "element_id": 1263518855,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:43.630797",
+        "url": "https://www.openstreetmap.org/way/1263518855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.35325822510902,
+          40.151126064711626
+        ]
+      },
+      "properties": {
+        "id": "way/1263518855",
+        "element_id": 1263518855,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.630797",
+        "url": "https://www.openstreetmap.org/way/1263518855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.35325822510902,
+          40.151126064711626
+        ]
+      },
+      "properties": {
+        "id": "way/1263518855",
+        "element_id": 1263518855,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.630797",
+        "url": "https://www.openstreetmap.org/way/1263518855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.22795574744279,
+          40.53290566806133
+        ]
+      },
+      "properties": {
+        "id": "way/1266118324",
+        "element_id": 1266118324,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.630797",
+        "url": "https://www.openstreetmap.org/way/1266118324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.22795574744279,
+          40.53290566806133
+        ]
+      },
+      "properties": {
+        "id": "way/1266118324",
+        "element_id": 1266118324,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.630797",
+        "url": "https://www.openstreetmap.org/way/1266118324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.29255794271094,
+          40.50701443343064
+        ]
+      },
+      "properties": {
+        "id": "way/1266118325",
+        "element_id": 1266118325,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.630797",
+        "url": "https://www.openstreetmap.org/way/1266118325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.29255794271094,
+          40.50701443343064
+        ]
+      },
+      "properties": {
+        "id": "way/1266118325",
+        "element_id": 1266118325,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.630797",
+        "url": "https://www.openstreetmap.org/way/1266118325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.25991066350674,
+          40.52226719824468
+        ]
+      },
+      "properties": {
+        "id": "way/1266118326",
+        "element_id": 1266118326,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.630797",
+        "url": "https://www.openstreetmap.org/way/1266118326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.25991066350674,
+          40.52226719824468
+        ]
+      },
+      "properties": {
+        "id": "way/1266118326",
+        "element_id": 1266118326,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.630797",
+        "url": "https://www.openstreetmap.org/way/1266118326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.26819649458833,
+          40.52898939742608
+        ]
+      },
+      "properties": {
+        "id": "way/1266118327",
+        "element_id": 1266118327,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.630797",
+        "url": "https://www.openstreetmap.org/way/1266118327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.26819649458833,
+          40.52898939742608
+        ]
+      },
+      "properties": {
+        "id": "way/1266118327",
+        "element_id": 1266118327,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.630797",
+        "url": "https://www.openstreetmap.org/way/1266118327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.27466756767827,
+          40.512795428249866
+        ]
+      },
+      "properties": {
+        "id": "way/1266118328",
+        "element_id": 1266118328,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.630797",
+        "url": "https://www.openstreetmap.org/way/1266118328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.27466756767827,
+          40.512795428249866
+        ]
+      },
+      "properties": {
+        "id": "way/1266118328",
+        "element_id": 1266118328,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.630797",
+        "url": "https://www.openstreetmap.org/way/1266118328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.278064942348415,
+          40.51293067849529
+        ]
+      },
+      "properties": {
+        "id": "way/1266118329",
+        "element_id": 1266118329,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.630797",
+        "url": "https://www.openstreetmap.org/way/1266118329"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.278064942348415,
+          40.51293067849529
+        ]
+      },
+      "properties": {
+        "id": "way/1266118329",
+        "element_id": 1266118329,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.630797",
+        "url": "https://www.openstreetmap.org/way/1266118329"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.33023690914512,
+          40.50424717043371
+        ]
+      },
+      "properties": {
+        "id": "way/1266118330",
+        "element_id": 1266118330,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.631797",
+        "url": "https://www.openstreetmap.org/way/1266118330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.33023690914512,
+          40.50424717043371
+        ]
+      },
+      "properties": {
+        "id": "way/1266118330",
+        "element_id": 1266118330,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.631797",
+        "url": "https://www.openstreetmap.org/way/1266118330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.32956649277445,
+          40.50238786048248
+        ]
+      },
+      "properties": {
+        "id": "way/1266118331",
+        "element_id": 1266118331,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.631797",
+        "url": "https://www.openstreetmap.org/way/1266118331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.32956649277445,
+          40.50238786048248
+        ]
+      },
+      "properties": {
+        "id": "way/1266118331",
+        "element_id": 1266118331,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.631797",
+        "url": "https://www.openstreetmap.org/way/1266118331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.32272442234199,
+          40.51129358880583
+        ]
+      },
+      "properties": {
+        "id": "way/1266118332",
+        "element_id": 1266118332,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.631797",
+        "url": "https://www.openstreetmap.org/way/1266118332"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.32272442234199,
+          40.51129358880583
+        ]
+      },
+      "properties": {
+        "id": "way/1266118332",
+        "element_id": 1266118332,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.631797",
+        "url": "https://www.openstreetmap.org/way/1266118332"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.32904679403146,
+          40.50709794303677
+        ]
+      },
+      "properties": {
+        "id": "way/1266118333",
+        "element_id": 1266118333,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.631797",
+        "url": "https://www.openstreetmap.org/way/1266118333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.32904679403146,
+          40.50709794303677
+        ]
+      },
+      "properties": {
+        "id": "way/1266118333",
+        "element_id": 1266118333,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.631797",
+        "url": "https://www.openstreetmap.org/way/1266118333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.503627301834406,
+          40.211261622480464
+        ]
+      },
+      "properties": {
+        "id": "way/1290266594",
+        "element_id": 1290266594,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.631797",
+        "url": "https://www.openstreetmap.org/way/1290266594"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.503627301834406,
+          40.211261622480464
+        ]
+      },
+      "properties": {
+        "id": "way/1290266594",
+        "element_id": 1290266594,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.631797",
+        "url": "https://www.openstreetmap.org/way/1290266594"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.83925995666026,
+          40.34444977922771
+        ]
+      },
+      "properties": {
+        "id": "way/1300360206",
+        "element_id": 1300360206,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:43.631797",
+        "url": "https://www.openstreetmap.org/way/1300360206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.83925995666026,
+          40.34444977922771
+        ]
+      },
+      "properties": {
+        "id": "way/1300360206",
+        "element_id": 1300360206,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.631797",
+        "url": "https://www.openstreetmap.org/way/1300360206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.74871475271541,
+          40.85919502467837
+        ]
+      },
+      "properties": {
+        "id": "way/1330621610",
+        "element_id": 1330621610,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:43.631797",
+        "url": "https://www.openstreetmap.org/way/1330621610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.74871475271541,
+          40.85919502467837
+        ]
+      },
+      "properties": {
+        "id": "way/1330621610",
+        "element_id": 1330621610,
+        "element_type": "way",
+        "country": "Armenia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:43.631797",
+        "url": "https://www.openstreetmap.org/way/1330621610"
+      }
+    }
+  ]
+}

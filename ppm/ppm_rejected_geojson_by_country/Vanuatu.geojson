@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.11422963372553,
+          -15.427674744248382
+        ]
+      },
+      "properties": {
+        "id": "way/336957733",
+        "element_id": 336957733,
+        "element_type": "way",
+        "country": "Vanuatu",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:55:01.852102",
+        "url": "https://www.openstreetmap.org/way/336957733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.334770777364,
+          -17.546661837301013
+        ]
+      },
+      "properties": {
+        "id": "way/553287665",
+        "element_id": 553287665,
+        "element_type": "way",
+        "country": "Vanuatu",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:01.853100",
+        "url": "https://www.openstreetmap.org/way/553287665"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.20390690225008,
+          -17.719080053357445
+        ]
+      },
+      "properties": {
+        "id": "way/1126128720",
+        "element_id": 1126128720,
+        "element_type": "way",
+        "country": "Vanuatu",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:01.855099",
+        "url": "https://www.openstreetmap.org/way/1126128720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.20390690225008,
+          -17.719080053357445
+        ]
+      },
+      "properties": {
+        "id": "way/1126128720",
+        "element_id": 1126128720,
+        "element_type": "way",
+        "country": "Vanuatu",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:55:01.855099",
+        "url": "https://www.openstreetmap.org/way/1126128720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.334770777364,
+          -17.546661837301013
+        ]
+      },
+      "properties": {
+        "id": "way/553287665",
+        "element_id": 553287665,
+        "element_type": "way",
+        "country": "Vanuatu",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:01.855099",
+        "url": "https://www.openstreetmap.org/way/553287665"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.25927371978307,
+          -19.52577308106202
+        ]
+      },
+      "properties": {
+        "id": "way/572194001",
+        "element_id": 572194001,
+        "element_type": "way",
+        "country": "Vanuatu",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'UNELCO', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:55:01.855099",
+        "url": "https://www.openstreetmap.org/way/572194001"
+      }
+    }
+  ]
+}

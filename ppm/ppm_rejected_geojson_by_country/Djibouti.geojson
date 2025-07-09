@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.8689753229822,
+          11.784478220108342
+        ]
+      },
+      "properties": {
+        "id": "way/601949432",
+        "element_id": 601949432,
+        "element_type": "way",
+        "country": "Djibouti",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Tadjoura تاجورة', 'landuse': 'industrial', 'name': 'Centrale Thermique de Tadjourah كهرباء جيبوتي تاجورة', 'name:ar': 'كهرباء جيبوتي تاجورة', 'name:en': 'EDD Tadjoura', 'name:es': 'Central Térmica de Tadyura', 'name:fr': 'Centrale Thermique de Tadjourah', 'operator': 'Électricité de Djibouti', 'operator:es': 'Electricidad de Djibouti', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:59.724059",
+        "url": "https://www.openstreetmap.org/way/601949432"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.68900922242434,
+          11.151384945446956
+        ]
+      },
+      "properties": {
+        "id": "way/809817495",
+        "element_id": 809817495,
+        "element_type": "way",
+        "country": "Djibouti",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:output:electricity': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:59.725062",
+        "url": "https://www.openstreetmap.org/way/809817495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.68900922242434,
+          11.151384945446956
+        ]
+      },
+      "properties": {
+        "id": "way/809817495",
+        "element_id": 809817495,
+        "element_type": "way",
+        "country": "Djibouti",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:output:electricity': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:59.725062",
+        "url": "https://www.openstreetmap.org/way/809817495"
+      }
+    }
+  ]
+}

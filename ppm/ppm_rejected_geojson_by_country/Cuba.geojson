@@ -1,0 +1,4581 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.132244,
+          21.1454873
+        ]
+      },
+      "properties": {
+        "id": "node/4367764963",
+        "element_id": 4367764963,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '750 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'manufacturer': 'Goldwind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:27:08.687634",
+        "url": "https://www.openstreetmap.org/node/4367764963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.132244,
+          21.1454873
+        ]
+      },
+      "properties": {
+        "id": "node/4367764963",
+        "element_id": 4367764963,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "750 kW",
+        "details": "Tag 'generator:output:electricity' has value '750 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:27:08.687634",
+        "url": "https://www.openstreetmap.org/node/4367764963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1319509,
+          21.1471023
+        ]
+      },
+      "properties": {
+        "id": "node/4367764964",
+        "element_id": 4367764964,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '750 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'manufacturer': 'Goldwind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:27:08.687634",
+        "url": "https://www.openstreetmap.org/node/4367764964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1319509,
+          21.1471023
+        ]
+      },
+      "properties": {
+        "id": "node/4367764964",
+        "element_id": 4367764964,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "750 kW",
+        "details": "Tag 'generator:output:electricity' has value '750 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:27:08.687634",
+        "url": "https://www.openstreetmap.org/node/4367764964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1325175,
+          21.1497966
+        ]
+      },
+      "properties": {
+        "id": "node/4367764965",
+        "element_id": 4367764965,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '750 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'manufacturer': 'Goldwind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:27:08.687634",
+        "url": "https://www.openstreetmap.org/node/4367764965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1325175,
+          21.1497966
+        ]
+      },
+      "properties": {
+        "id": "node/4367764965",
+        "element_id": 4367764965,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "750 kW",
+        "details": "Tag 'generator:output:electricity' has value '750 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:27:08.687634",
+        "url": "https://www.openstreetmap.org/node/4367764965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1332967,
+          21.150944
+        ]
+      },
+      "properties": {
+        "id": "node/4367764966",
+        "element_id": 4367764966,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '750 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'manufacturer': 'Goldwind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:27:08.687634",
+        "url": "https://www.openstreetmap.org/node/4367764966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1332967,
+          21.150944
+        ]
+      },
+      "properties": {
+        "id": "node/4367764966",
+        "element_id": 4367764966,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "750 kW",
+        "details": "Tag 'generator:output:electricity' has value '750 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:27:08.687634",
+        "url": "https://www.openstreetmap.org/node/4367764966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.134059,
+          21.1520672
+        ]
+      },
+      "properties": {
+        "id": "node/4367764967",
+        "element_id": 4367764967,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '750 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'manufacturer': 'Goldwind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:27:08.687634",
+        "url": "https://www.openstreetmap.org/node/4367764967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.134059,
+          21.1520672
+        ]
+      },
+      "properties": {
+        "id": "node/4367764967",
+        "element_id": 4367764967,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "750 kW",
+        "details": "Tag 'generator:output:electricity' has value '750 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:27:08.687634",
+        "url": "https://www.openstreetmap.org/node/4367764967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1322326,
+          21.148442
+        ]
+      },
+      "properties": {
+        "id": "node/700438616",
+        "element_id": 700438616,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '750 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'manufacturer': 'Goldwind', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:27:08.687634",
+        "url": "https://www.openstreetmap.org/node/700438616"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1322326,
+          21.148442
+        ]
+      },
+      "properties": {
+        "id": "node/700438616",
+        "element_id": 700438616,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "750 kW",
+        "details": "Tag 'generator:output:electricity' has value '750 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:27:08.687634",
+        "url": "https://www.openstreetmap.org/node/700438616"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1488041,
+          21.1673192
+        ]
+      },
+      "properties": {
+        "id": "node/1379403919",
+        "element_id": 1379403919,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'description': 'Windturbinen Made in España', 'generator:method': 'wind_turbine', 'generator:output:electricity': '850 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:27:08.688679",
+        "url": "https://www.openstreetmap.org/node/1379403919"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1488041,
+          21.1673192
+        ]
+      },
+      "properties": {
+        "id": "node/1379403919",
+        "element_id": 1379403919,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "850 kW",
+        "details": "Tag 'generator:output:electricity' has value '850 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:27:08.688679",
+        "url": "https://www.openstreetmap.org/node/1379403919"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1471025,
+          21.1635547
+        ]
+      },
+      "properties": {
+        "id": "node/4367764968",
+        "element_id": 4367764968,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'description': 'Windturbinen Made in España', 'generator:method': 'wind_turbine', 'generator:output:electricity': '850 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:27:08.688679",
+        "url": "https://www.openstreetmap.org/node/4367764968"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1471025,
+          21.1635547
+        ]
+      },
+      "properties": {
+        "id": "node/4367764968",
+        "element_id": 4367764968,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "850 kW",
+        "details": "Tag 'generator:output:electricity' has value '850 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:27:08.688679",
+        "url": "https://www.openstreetmap.org/node/4367764968"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1476756,
+          21.1648224
+        ]
+      },
+      "properties": {
+        "id": "node/4367764969",
+        "element_id": 4367764969,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'description': 'Windturbinen Made in España', 'generator:method': 'wind_turbine', 'generator:output:electricity': '850 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:27:08.688679",
+        "url": "https://www.openstreetmap.org/node/4367764969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1476756,
+          21.1648224
+        ]
+      },
+      "properties": {
+        "id": "node/4367764969",
+        "element_id": 4367764969,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "850 kW",
+        "details": "Tag 'generator:output:electricity' has value '850 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:27:08.688679",
+        "url": "https://www.openstreetmap.org/node/4367764969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1482392,
+          21.1660694
+        ]
+      },
+      "properties": {
+        "id": "node/4367764970",
+        "element_id": 4367764970,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'description': 'Windturbinen Made in España', 'generator:method': 'wind_turbine', 'generator:output:electricity': '850 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:27:08.688679",
+        "url": "https://www.openstreetmap.org/node/4367764970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1482392,
+          21.1660694
+        ]
+      },
+      "properties": {
+        "id": "node/4367764970",
+        "element_id": 4367764970,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "850 kW",
+        "details": "Tag 'generator:output:electricity' has value '850 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:27:08.688679",
+        "url": "https://www.openstreetmap.org/node/4367764970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1493754,
+          21.168583
+        ]
+      },
+      "properties": {
+        "id": "node/4367764971",
+        "element_id": 4367764971,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'description': 'Windturbinen Made in España', 'generator:method': 'wind_turbine', 'generator:output:electricity': '850 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:27:08.688679",
+        "url": "https://www.openstreetmap.org/node/4367764971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1493754,
+          21.168583
+        ]
+      },
+      "properties": {
+        "id": "node/4367764971",
+        "element_id": 4367764971,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "850 kW",
+        "details": "Tag 'generator:output:electricity' has value '850 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:27:08.688679",
+        "url": "https://www.openstreetmap.org/node/4367764971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1499476,
+          21.1698488
+        ]
+      },
+      "properties": {
+        "id": "node/4367764972",
+        "element_id": 4367764972,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'description': 'Windturbinen Made in España', 'generator:method': 'wind_turbine', 'generator:output:electricity': '850 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:27:08.688679",
+        "url": "https://www.openstreetmap.org/node/4367764972"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1499476,
+          21.1698488
+        ]
+      },
+      "properties": {
+        "id": "node/4367764972",
+        "element_id": 4367764972,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "850 kW",
+        "details": "Tag 'generator:output:electricity' has value '850 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:27:08.688679",
+        "url": "https://www.openstreetmap.org/node/4367764972"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0263049745844,
+          23.183701648385032
+        ]
+      },
+      "properties": {
+        "id": "way/38532859",
+        "element_id": 38532859,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.689687",
+        "url": "https://www.openstreetmap.org/way/38532859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.83218154155264,
+          20.61394018507577
+        ]
+      },
+      "properties": {
+        "id": "way/38668211",
+        "element_id": 38668211,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Planta de Níquel de Punta Gorda (No Concluida)', 'power': 'plant', 'source': 'Yahoo'}",
+        "timestamp": "2025-07-07 18:27:08.689687",
+        "url": "https://www.openstreetmap.org/way/38668211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.11026256847505,
+          22.920690606462436
+        ]
+      },
+      "properties": {
+        "id": "way/147072063",
+        "element_id": 147072063,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.690722",
+        "url": "https://www.openstreetmap.org/way/147072063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.87767473710419,
+          19.996408463606947
+        ]
+      },
+      "properties": {
+        "id": "way/48276301",
+        "element_id": 48276301,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.690722",
+        "url": "https://www.openstreetmap.org/way/48276301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8401003796181,
+          20.011561742479504
+        ]
+      },
+      "properties": {
+        "id": "way/89673104",
+        "element_id": 89673104,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'old_name': 'Central Eléctrica \"Héctor Pavón\"', 'power': 'plant', 'substation': 'yes'}",
+        "timestamp": "2025-07-07 18:27:08.690722",
+        "url": "https://www.openstreetmap.org/way/89673104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8401003796181,
+          20.011561742479504
+        ]
+      },
+      "properties": {
+        "id": "way/89673104",
+        "element_id": 89673104,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'old_name': 'Central Eléctrica \"Héctor Pavón\"', 'power': 'plant', 'substation': 'yes'}",
+        "timestamp": "2025-07-07 18:27:08.690722",
+        "url": "https://www.openstreetmap.org/way/89673104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13533157427827,
+          22.12592726456552
+        ]
+      },
+      "properties": {
+        "id": "way/195723727",
+        "element_id": 195723727,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.692989",
+        "url": "https://www.openstreetmap.org/way/195723727"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2140457148717,
+          21.55060966729219
+        ]
+      },
+      "properties": {
+        "id": "way/196239792",
+        "element_id": 196239792,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Batería Grupo Electrógeno Florida', 'operator': 'UNE – SEN', 'plant:method': 'combustion', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.692989",
+        "url": "https://www.openstreetmap.org/way/196239792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.99853934443566,
+          21.796869313282457
+        ]
+      },
+      "properties": {
+        "id": "way/201565591",
+        "element_id": 201565591,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.694116",
+        "url": "https://www.openstreetmap.org/way/201565591"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5788632386698,
+          23.008879633171524
+        ]
+      },
+      "properties": {
+        "id": "way/207367022",
+        "element_id": 207367022,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.695127",
+        "url": "https://www.openstreetmap.org/way/207367022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.02541267876865,
+          22.81430872056323
+        ]
+      },
+      "properties": {
+        "id": "way/209304549",
+        "element_id": 209304549,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.695127",
+        "url": "https://www.openstreetmap.org/way/209304549"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71310160892483,
+          23.140862559422803
+        ]
+      },
+      "properties": {
+        "id": "way/231177815",
+        "element_id": 231177815,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.695127",
+        "url": "https://www.openstreetmap.org/way/231177815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.26781929289058,
+          23.087326226286937
+        ]
+      },
+      "properties": {
+        "id": "way/234851366",
+        "element_id": 234851366,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.695127",
+        "url": "https://www.openstreetmap.org/way/234851366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.88082477392683,
+          21.381100823487028
+        ]
+      },
+      "properties": {
+        "id": "way/234950975",
+        "element_id": 234950975,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.695127",
+        "url": "https://www.openstreetmap.org/way/234950975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.89200029137068,
+          21.38558402551657
+        ]
+      },
+      "properties": {
+        "id": "way/234950976",
+        "element_id": 234950976,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.696483",
+        "url": "https://www.openstreetmap.org/way/234950976"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.93780680133446,
+          22.60287301743332
+        ]
+      },
+      "properties": {
+        "id": "way/235498847",
+        "element_id": 235498847,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.696483",
+        "url": "https://www.openstreetmap.org/way/235498847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60416907345444,
+          20.3497761289118
+        ]
+      },
+      "properties": {
+        "id": "way/237985157",
+        "element_id": 237985157,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.696483",
+        "url": "https://www.openstreetmap.org/way/237985157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6045430462986,
+          20.35189372564012
+        ]
+      },
+      "properties": {
+        "id": "way/238358903",
+        "element_id": 238358903,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Batería Grupo Electrógeno Diésel Bayamo', 'operator': 'UNE – SEN', 'plant:method': 'combustion', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.697494",
+        "url": "https://www.openstreetmap.org/way/238358903"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.78493585563606,
+          20.01216442798179
+        ]
+      },
+      "properties": {
+        "id": "way/252632829",
+        "element_id": 252632829,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.697494",
+        "url": "https://www.openstreetmap.org/way/252632829"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.95320340193685,
+          21.41347984896757
+        ]
+      },
+      "properties": {
+        "id": "way/265134329",
+        "element_id": 265134329,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.698494",
+        "url": "https://www.openstreetmap.org/way/265134329"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3505314654598,
+          23.081554059658345
+        ]
+      },
+      "properties": {
+        "id": "way/272972224",
+        "element_id": 272972224,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.698494",
+        "url": "https://www.openstreetmap.org/way/272972224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35907193170735,
+          23.125250214788675
+        ]
+      },
+      "properties": {
+        "id": "way/279518462",
+        "element_id": 279518462,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.698494",
+        "url": "https://www.openstreetmap.org/way/279518462"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42116063231276,
+          23.049831841053216
+        ]
+      },
+      "properties": {
+        "id": "way/293347793",
+        "element_id": 293347793,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.698494",
+        "url": "https://www.openstreetmap.org/way/293347793"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.80636982251283,
+          21.87299102013293
+        ]
+      },
+      "properties": {
+        "id": "way/301025214",
+        "element_id": 301025214,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.699493",
+        "url": "https://www.openstreetmap.org/way/301025214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.33328040645102,
+          23.119198785520297
+        ]
+      },
+      "properties": {
+        "id": "way/311338406",
+        "element_id": 311338406,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.699493",
+        "url": "https://www.openstreetmap.org/way/311338406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3311510620428,
+          23.152586618829773
+        ]
+      },
+      "properties": {
+        "id": "way/311338724",
+        "element_id": 311338724,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.699493",
+        "url": "https://www.openstreetmap.org/way/311338724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.11631942092946,
+          22.70358628300367
+        ]
+      },
+      "properties": {
+        "id": "way/313930688",
+        "element_id": 313930688,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.699493",
+        "url": "https://www.openstreetmap.org/way/313930688"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.56122993006309,
+          20.048760929771923
+        ]
+      },
+      "properties": {
+        "id": "way/314180108",
+        "element_id": 314180108,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.699493",
+        "url": "https://www.openstreetmap.org/way/314180108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.33678938974826,
+          23.12890823968147
+        ]
+      },
+      "properties": {
+        "id": "way/315943354",
+        "element_id": 315943354,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'brownfield', 'name': 'Antigua Termoeléctrica de Regla', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.700819",
+        "url": "https://www.openstreetmap.org/way/315943354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.10371905594478,
+          20.329942184364768
+        ]
+      },
+      "properties": {
+        "id": "way/315950440",
+        "element_id": 315950440,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.700819",
+        "url": "https://www.openstreetmap.org/way/315950440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.543359573268,
+          21.618640931854813
+        ]
+      },
+      "properties": {
+        "id": "way/315997274",
+        "element_id": 315997274,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.700819",
+        "url": "https://www.openstreetmap.org/way/315997274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71393769409573,
+          22.255299326590496
+        ]
+      },
+      "properties": {
+        "id": "way/321076555",
+        "element_id": 321076555,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:27:08.700819",
+        "url": "https://www.openstreetmap.org/way/321076555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71393769409573,
+          22.255299326590496
+        ]
+      },
+      "properties": {
+        "id": "way/321076555",
+        "element_id": 321076555,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Batería Grupo Electrógeno Diésel Yaguaramas', 'operator': 'UNE – SEN', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.701829",
+        "url": "https://www.openstreetmap.org/way/321076555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94240744574003,
+          22.379762940283317
+        ]
+      },
+      "properties": {
+        "id": "way/327515948",
+        "element_id": 327515948,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.701829",
+        "url": "https://www.openstreetmap.org/way/327515948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9720222489144,
+          20.68176183579284
+        ]
+      },
+      "properties": {
+        "id": "way/336969420",
+        "element_id": 336969420,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.702829",
+        "url": "https://www.openstreetmap.org/way/336969420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.19211602621094,
+          22.903165130705617
+        ]
+      },
+      "properties": {
+        "id": "way/338009841",
+        "element_id": 338009841,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.702829",
+        "url": "https://www.openstreetmap.org/way/338009841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.11782982136688,
+          23.15024451087464
+        ]
+      },
+      "properties": {
+        "id": "way/338230557",
+        "element_id": 338230557,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.702829",
+        "url": "https://www.openstreetmap.org/way/338230557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.90242341351673,
+          22.186036296623552
+        ]
+      },
+      "properties": {
+        "id": "way/342384172",
+        "element_id": 342384172,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.702829",
+        "url": "https://www.openstreetmap.org/way/342384172"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.42625024559425,
+          22.13994185270398
+        ]
+      },
+      "properties": {
+        "id": "way/343599748",
+        "element_id": 343599748,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.702829",
+        "url": "https://www.openstreetmap.org/way/343599748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.74973536373034,
+          22.821734404502056
+        ]
+      },
+      "properties": {
+        "id": "way/351954696",
+        "element_id": 351954696,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.703832",
+        "url": "https://www.openstreetmap.org/way/351954696"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.99731962725602,
+          21.797406049524916
+        ]
+      },
+      "properties": {
+        "id": "way/356356087",
+        "element_id": 356356087,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.703832",
+        "url": "https://www.openstreetmap.org/way/356356087"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23718205339358,
+          20.13608759958574
+        ]
+      },
+      "properties": {
+        "id": "way/363422333",
+        "element_id": 363422333,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.703832",
+        "url": "https://www.openstreetmap.org/way/363422333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.17553956898716,
+          21.413472020468586
+        ]
+      },
+      "properties": {
+        "id": "way/367858476",
+        "element_id": 367858476,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.703832",
+        "url": "https://www.openstreetmap.org/way/367858476"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20970413204596,
+          20.117996593383776
+        ]
+      },
+      "properties": {
+        "id": "way/372419797",
+        "element_id": 372419797,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.703832",
+        "url": "https://www.openstreetmap.org/way/372419797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5251065363335,
+          20.36056147848906
+        ]
+      },
+      "properties": {
+        "id": "way/372869567",
+        "element_id": 372869567,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.704951",
+        "url": "https://www.openstreetmap.org/way/372869567"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.76445061989129,
+          21.859750290330048
+        ]
+      },
+      "properties": {
+        "id": "way/373355357",
+        "element_id": 373355357,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.704951",
+        "url": "https://www.openstreetmap.org/way/373355357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.30306959954127,
+          22.34892021650274
+        ]
+      },
+      "properties": {
+        "id": "way/375095190",
+        "element_id": 375095190,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.704951",
+        "url": "https://www.openstreetmap.org/way/375095190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95074800563675,
+          20.97738835993029
+        ]
+      },
+      "properties": {
+        "id": "way/405046546",
+        "element_id": 405046546,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.705962",
+        "url": "https://www.openstreetmap.org/way/405046546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.57103172011024,
+          20.048157013061143
+        ]
+      },
+      "properties": {
+        "id": "way/405398569",
+        "element_id": 405398569,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.705962",
+        "url": "https://www.openstreetmap.org/way/405398569"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05812474415985,
+          22.651372099943917
+        ]
+      },
+      "properties": {
+        "id": "way/419781323",
+        "element_id": 419781323,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.705962",
+        "url": "https://www.openstreetmap.org/way/419781323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5460948075887,
+          20.662879377465657
+        ]
+      },
+      "properties": {
+        "id": "way/435076400",
+        "element_id": 435076400,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.705962",
+        "url": "https://www.openstreetmap.org/way/435076400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98323724514346,
+          22.422476647661668
+        ]
+      },
+      "properties": {
+        "id": "way/437103394",
+        "element_id": 437103394,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.705962",
+        "url": "https://www.openstreetmap.org/way/437103394"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28674026917597,
+          22.33663152514531
+        ]
+      },
+      "properties": {
+        "id": "way/440141534",
+        "element_id": 440141534,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.705962",
+        "url": "https://www.openstreetmap.org/way/440141534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43892321153689,
+          22.19145500107433
+        ]
+      },
+      "properties": {
+        "id": "way/444377129",
+        "element_id": 444377129,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.705962",
+        "url": "https://www.openstreetmap.org/way/444377129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28142062011035,
+          22.34363048420693
+        ]
+      },
+      "properties": {
+        "id": "way/444377135",
+        "element_id": 444377135,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.707394",
+        "url": "https://www.openstreetmap.org/way/444377135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.66752507914237,
+          22.29992910471288
+        ]
+      },
+      "properties": {
+        "id": "way/456284371",
+        "element_id": 456284371,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Batería Grupo Electrógeno Diésel Placetas', 'operator': 'UNE – SEN', 'plant:method': 'combustion', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.707394",
+        "url": "https://www.openstreetmap.org/way/456284371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9434261242239,
+          22.392525033564112
+        ]
+      },
+      "properties": {
+        "id": "way/456651919",
+        "element_id": 456651919,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.708403",
+        "url": "https://www.openstreetmap.org/way/456651919"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.24305574999998,
+          22.31928835
+        ]
+      },
+      "properties": {
+        "id": "way/458017631",
+        "element_id": 458017631,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.708403",
+        "url": "https://www.openstreetmap.org/way/458017631"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36372654230135,
+          21.072200375882357
+        ]
+      },
+      "properties": {
+        "id": "way/458824072",
+        "element_id": 458824072,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.708403",
+        "url": "https://www.openstreetmap.org/way/458824072"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.27344294048953,
+          20.903349054348983
+        ]
+      },
+      "properties": {
+        "id": "way/460305935",
+        "element_id": 460305935,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.708403",
+        "url": "https://www.openstreetmap.org/way/460305935"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.96892495,
+          22.6696737
+        ]
+      },
+      "properties": {
+        "id": "way/474455461",
+        "element_id": 474455461,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'brownfield', 'name': 'Antigua Planta Eléctrica José Rodríguez Trujillo', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.709405",
+        "url": "https://www.openstreetmap.org/way/474455461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55002930051417,
+          22.95440868677347
+        ]
+      },
+      "properties": {
+        "id": "way/477216573",
+        "element_id": 477216573,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.709405",
+        "url": "https://www.openstreetmap.org/way/477216573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.68920151280153,
+          21.805524193685194
+        ]
+      },
+      "properties": {
+        "id": "way/480770762",
+        "element_id": 480770762,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.709405",
+        "url": "https://www.openstreetmap.org/way/480770762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.74831315391906,
+          21.734199308626582
+        ]
+      },
+      "properties": {
+        "id": "way/487198892",
+        "element_id": 487198892,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.709405",
+        "url": "https://www.openstreetmap.org/way/487198892"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98071572955527,
+          20.97375871582101
+        ]
+      },
+      "properties": {
+        "id": "way/502772738",
+        "element_id": 502772738,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.710447",
+        "url": "https://www.openstreetmap.org/way/502772738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.52679484531912,
+          22.497363803009065
+        ]
+      },
+      "properties": {
+        "id": "way/505320706",
+        "element_id": 505320706,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.710447",
+        "url": "https://www.openstreetmap.org/way/505320706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.33322598839658,
+          23.012031717266108
+        ]
+      },
+      "properties": {
+        "id": "way/511877081",
+        "element_id": 511877081,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.710447",
+        "url": "https://www.openstreetmap.org/way/511877081"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.95506811876554,
+          23.15902427609571
+        ]
+      },
+      "properties": {
+        "id": "way/522802866",
+        "element_id": 522802866,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.710447",
+        "url": "https://www.openstreetmap.org/way/522802866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.450662098281,
+          23.045137598908088
+        ]
+      },
+      "properties": {
+        "id": "way/524481884",
+        "element_id": 524481884,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.711586",
+        "url": "https://www.openstreetmap.org/way/524481884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6852582598565,
+          22.405951576444505
+        ]
+      },
+      "properties": {
+        "id": "way/526322486",
+        "element_id": 526322486,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'operator': 'UNE – SEN', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.711586",
+        "url": "https://www.openstreetmap.org/way/526322486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6852582598565,
+          22.405951576444505
+        ]
+      },
+      "properties": {
+        "id": "way/526322486",
+        "element_id": 526322486,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.711586",
+        "url": "https://www.openstreetmap.org/way/526322486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.68675449081933,
+          22.405304014777013
+        ]
+      },
+      "properties": {
+        "id": "way/526322491",
+        "element_id": 526322491,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.711586",
+        "url": "https://www.openstreetmap.org/way/526322491"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44332982518394,
+          22.813290414290098
+        ]
+      },
+      "properties": {
+        "id": "way/531347542",
+        "element_id": 531347542,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.711586",
+        "url": "https://www.openstreetmap.org/way/531347542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.84744671448736,
+          20.174979548289105
+        ]
+      },
+      "properties": {
+        "id": "way/534688663",
+        "element_id": 534688663,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.712880",
+        "url": "https://www.openstreetmap.org/way/534688663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58927063769539,
+          21.188478926447885
+        ]
+      },
+      "properties": {
+        "id": "way/539516839",
+        "element_id": 539516839,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.712880",
+        "url": "https://www.openstreetmap.org/way/539516839"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.74847687696358,
+          21.73683051362298
+        ]
+      },
+      "properties": {
+        "id": "way/543186238",
+        "element_id": 543186238,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.712880",
+        "url": "https://www.openstreetmap.org/way/543186238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.59647319326872,
+          20.21630093689737
+        ]
+      },
+      "properties": {
+        "id": "way/551966725",
+        "element_id": 551966725,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.712880",
+        "url": "https://www.openstreetmap.org/way/551966725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57368904077204,
+          21.161701273071447
+        ]
+      },
+      "properties": {
+        "id": "way/559751655",
+        "element_id": 559751655,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.713878",
+        "url": "https://www.openstreetmap.org/way/559751655"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.77086932831016,
+          20.006711301267437
+        ]
+      },
+      "properties": {
+        "id": "way/563499483",
+        "element_id": 563499483,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.713878",
+        "url": "https://www.openstreetmap.org/way/563499483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.43406693589588,
+          21.947463225927024
+        ]
+      },
+      "properties": {
+        "id": "way/566811854",
+        "element_id": 566811854,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.713878",
+        "url": "https://www.openstreetmap.org/way/566811854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.83412413311069,
+          21.89044433351431
+        ]
+      },
+      "properties": {
+        "id": "way/571826985",
+        "element_id": 571826985,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.713878",
+        "url": "https://www.openstreetmap.org/way/571826985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.78988035038397,
+          21.867522721607543
+        ]
+      },
+      "properties": {
+        "id": "way/571826986",
+        "element_id": 571826986,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.714970",
+        "url": "https://www.openstreetmap.org/way/571826986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.67390559006722,
+          22.39464831842828
+        ]
+      },
+      "properties": {
+        "id": "way/580476825",
+        "element_id": 580476825,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.714970",
+        "url": "https://www.openstreetmap.org/way/580476825"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.92059443440482,
+          22.69392475478509
+        ]
+      },
+      "properties": {
+        "id": "way/581937694",
+        "element_id": 581937694,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.714970",
+        "url": "https://www.openstreetmap.org/way/581937694"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.50216513397126,
+          22.808383268718742
+        ]
+      },
+      "properties": {
+        "id": "way/592915332",
+        "element_id": 592915332,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.715979",
+        "url": "https://www.openstreetmap.org/way/592915332"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3513566770417,
+          22.9944184381167
+        ]
+      },
+      "properties": {
+        "id": "way/599975000",
+        "element_id": 599975000,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.715979",
+        "url": "https://www.openstreetmap.org/way/599975000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.04801217301832,
+          22.65099082163923
+        ]
+      },
+      "properties": {
+        "id": "way/604068107",
+        "element_id": 604068107,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.716979",
+        "url": "https://www.openstreetmap.org/way/604068107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.89720721720086,
+          22.634736980928057
+        ]
+      },
+      "properties": {
+        "id": "way/628160961",
+        "element_id": 628160961,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.716979",
+        "url": "https://www.openstreetmap.org/way/628160961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28907652572276,
+          22.33489516154675
+        ]
+      },
+      "properties": {
+        "id": "way/663177479",
+        "element_id": 663177479,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.716979",
+        "url": "https://www.openstreetmap.org/way/663177479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.75887703758364,
+          20.21856599802188
+        ]
+      },
+      "properties": {
+        "id": "way/667236053",
+        "element_id": 667236053,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'operator': 'UNE', 'plant:method': 'water-storage', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.716979",
+        "url": "https://www.openstreetmap.org/way/667236053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.75887703758364,
+          20.21856599802188
+        ]
+      },
+      "properties": {
+        "id": "way/667236053",
+        "element_id": 667236053,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'operator': 'UNE', 'plant:method': 'water-storage', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.716979",
+        "url": "https://www.openstreetmap.org/way/667236053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24587721196993,
+          22.59884098060018
+        ]
+      },
+      "properties": {
+        "id": "way/677718467",
+        "element_id": 677718467,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.717982",
+        "url": "https://www.openstreetmap.org/way/677718467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.82618855895353,
+          22.37827293426932
+        ]
+      },
+      "properties": {
+        "id": "way/681454306",
+        "element_id": 681454306,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.717982",
+        "url": "https://www.openstreetmap.org/way/681454306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38765922288898,
+          23.073914834781107
+        ]
+      },
+      "properties": {
+        "id": "way/694839523",
+        "element_id": 694839523,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.717982",
+        "url": "https://www.openstreetmap.org/way/694839523"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.11030318868032,
+          22.80652391281349
+        ]
+      },
+      "properties": {
+        "id": "way/694839844",
+        "element_id": 694839844,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.717982",
+        "url": "https://www.openstreetmap.org/way/694839844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23802191364064,
+          20.13574001895916
+        ]
+      },
+      "properties": {
+        "id": "way/721764264",
+        "element_id": 721764264,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.718981",
+        "url": "https://www.openstreetmap.org/way/721764264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.12975678776297,
+          22.94143038220941
+        ]
+      },
+      "properties": {
+        "id": "way/726984675",
+        "element_id": 726984675,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.719981",
+        "url": "https://www.openstreetmap.org/way/726984675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.63180901896551,
+          22.08732295663125
+        ]
+      },
+      "properties": {
+        "id": "way/783315832",
+        "element_id": 783315832,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.719981",
+        "url": "https://www.openstreetmap.org/way/783315832"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.85362160717328,
+          23.00395372298568
+        ]
+      },
+      "properties": {
+        "id": "way/784589469",
+        "element_id": 784589469,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.719981",
+        "url": "https://www.openstreetmap.org/way/784589469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.21056735349313,
+          23.035498750370017
+        ]
+      },
+      "properties": {
+        "id": "way/825220260",
+        "element_id": 825220260,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Central Eléctrica Cárdenas', 'operator': 'UNE – SEN', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.720981",
+        "url": "https://www.openstreetmap.org/way/825220260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20753173507964,
+          20.11045521655668
+        ]
+      },
+      "properties": {
+        "id": "way/830184243",
+        "element_id": 830184243,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.720981",
+        "url": "https://www.openstreetmap.org/way/830184243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.35535667162279,
+          21.80242943719904
+        ]
+      },
+      "properties": {
+        "id": "way/857925314",
+        "element_id": 857925314,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.720981",
+        "url": "https://www.openstreetmap.org/way/857925314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53077585355531,
+          22.199997146273173
+        ]
+      },
+      "properties": {
+        "id": "way/878259247",
+        "element_id": 878259247,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.721981",
+        "url": "https://www.openstreetmap.org/way/878259247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.88702021544506,
+          20.174687978246787
+        ]
+      },
+      "properties": {
+        "id": "way/882002328",
+        "element_id": 882002328,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.721981",
+        "url": "https://www.openstreetmap.org/way/882002328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51243510822245,
+          20.40874467636465
+        ]
+      },
+      "properties": {
+        "id": "way/891395418",
+        "element_id": 891395418,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.721981",
+        "url": "https://www.openstreetmap.org/way/891395418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96312619392077,
+          21.29208768107808
+        ]
+      },
+      "properties": {
+        "id": "way/892445343",
+        "element_id": 892445343,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.721981",
+        "url": "https://www.openstreetmap.org/way/892445343"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.570007571257,
+          22.898249145072835
+        ]
+      },
+      "properties": {
+        "id": "way/914438903",
+        "element_id": 914438903,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.722981",
+        "url": "https://www.openstreetmap.org/way/914438903"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.94462241670306,
+          20.458957383349013
+        ]
+      },
+      "properties": {
+        "id": "way/915086684",
+        "element_id": 915086684,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.722981",
+        "url": "https://www.openstreetmap.org/way/915086684"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.94200986056322,
+          20.44534212176005
+        ]
+      },
+      "properties": {
+        "id": "way/915086685",
+        "element_id": 915086685,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.722981",
+        "url": "https://www.openstreetmap.org/way/915086685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.166768,
+          20.2497745
+        ]
+      },
+      "properties": {
+        "id": "way/926912882",
+        "element_id": 926912882,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.722981",
+        "url": "https://www.openstreetmap.org/way/926912882"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.59077712413621,
+          22.81889195670812
+        ]
+      },
+      "properties": {
+        "id": "way/929052405",
+        "element_id": 929052405,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.723980",
+        "url": "https://www.openstreetmap.org/way/929052405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.15255537434581,
+          20.240698924916707
+        ]
+      },
+      "properties": {
+        "id": "way/996707305",
+        "element_id": 996707305,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.723980",
+        "url": "https://www.openstreetmap.org/way/996707305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64008054301921,
+          20.40266965244556
+        ]
+      },
+      "properties": {
+        "id": "way/1002045241",
+        "element_id": 1002045241,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.725143",
+        "url": "https://www.openstreetmap.org/way/1002045241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.70040620734095,
+          22.283097744626627
+        ]
+      },
+      "properties": {
+        "id": "way/1024248085",
+        "element_id": 1024248085,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.725143",
+        "url": "https://www.openstreetmap.org/way/1024248085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9113775840078,
+          21.086877953827766
+        ]
+      },
+      "properties": {
+        "id": "way/1034286421",
+        "element_id": 1034286421,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.726137",
+        "url": "https://www.openstreetmap.org/way/1034286421"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.10587452451149,
+          19.90055900285701
+        ]
+      },
+      "properties": {
+        "id": "way/1057896207",
+        "element_id": 1057896207,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'name:zh': '太阳能发电厂', 'name:zh-Hans': '太阳能发电厂', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.726137",
+        "url": "https://www.openstreetmap.org/way/1057896207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.10587452451149,
+          19.90055900285701
+        ]
+      },
+      "properties": {
+        "id": "way/1057896207",
+        "element_id": 1057896207,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.726137",
+        "url": "https://www.openstreetmap.org/way/1057896207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.32428245016034,
+          20.12936702682097
+        ]
+      },
+      "properties": {
+        "id": "way/1070678490",
+        "element_id": 1070678490,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.726137",
+        "url": "https://www.openstreetmap.org/way/1070678490"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6348007244435,
+          22.41165938437353
+        ]
+      },
+      "properties": {
+        "id": "way/1083519502",
+        "element_id": 1083519502,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.726137",
+        "url": "https://www.openstreetmap.org/way/1083519502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.30326518275537,
+          22.55420011985529
+        ]
+      },
+      "properties": {
+        "id": "way/1084109919",
+        "element_id": 1084109919,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.727340",
+        "url": "https://www.openstreetmap.org/way/1084109919"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.37044126714126,
+          21.257708146276464
+        ]
+      },
+      "properties": {
+        "id": "way/1118217518",
+        "element_id": 1118217518,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.728350",
+        "url": "https://www.openstreetmap.org/way/1118217518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46596254104911,
+          21.725749241457542
+        ]
+      },
+      "properties": {
+        "id": "way/1119250376",
+        "element_id": 1119250376,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.729349",
+        "url": "https://www.openstreetmap.org/way/1119250376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64224617695406,
+          21.17194349874838
+        ]
+      },
+      "properties": {
+        "id": "way/1126760190",
+        "element_id": 1126760190,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.729349",
+        "url": "https://www.openstreetmap.org/way/1126760190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13374275000001,
+          21.8951859
+        ]
+      },
+      "properties": {
+        "id": "way/1127368502",
+        "element_id": 1127368502,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.730351",
+        "url": "https://www.openstreetmap.org/way/1127368502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.14862444867546,
+          21.1666839690858
+        ]
+      },
+      "properties": {
+        "id": "way/1127385725",
+        "element_id": 1127385725,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.730351",
+        "url": "https://www.openstreetmap.org/way/1127385725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.13219664267388,
+          21.148778156771566
+        ]
+      },
+      "properties": {
+        "id": "way/1127385727",
+        "element_id": 1127385727,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.730351",
+        "url": "https://www.openstreetmap.org/way/1127385727"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66092380678164,
+          20.59712028321246
+        ]
+      },
+      "properties": {
+        "id": "way/1127388030",
+        "element_id": 1127388030,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.730351",
+        "url": "https://www.openstreetmap.org/way/1127388030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.47089348584113,
+          22.98512035091454
+        ]
+      },
+      "properties": {
+        "id": "way/1157923904",
+        "element_id": 1157923904,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.732349",
+        "url": "https://www.openstreetmap.org/way/1157923904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.87274440285006,
+          20.042800497217637
+        ]
+      },
+      "properties": {
+        "id": "way/1167960249",
+        "element_id": 1167960249,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.732349",
+        "url": "https://www.openstreetmap.org/way/1167960249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38695950814339,
+          23.01494713608296
+        ]
+      },
+      "properties": {
+        "id": "way/1179806882",
+        "element_id": 1179806882,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.732349",
+        "url": "https://www.openstreetmap.org/way/1179806882"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.37693869074307,
+          22.989780328695662
+        ]
+      },
+      "properties": {
+        "id": "way/1184033249",
+        "element_id": 1184033249,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'field_boundary', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.732349",
+        "url": "https://www.openstreetmap.org/way/1184033249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.37693869074307,
+          22.989780328695662
+        ]
+      },
+      "properties": {
+        "id": "way/1184033249",
+        "element_id": 1184033249,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.732349",
+        "url": "https://www.openstreetmap.org/way/1184033249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9765749420335,
+          22.41597869189041
+        ]
+      },
+      "properties": {
+        "id": "way/1184712781",
+        "element_id": 1184712781,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.732349",
+        "url": "https://www.openstreetmap.org/way/1184712781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.11630809029097,
+          19.932530245281416
+        ]
+      },
+      "properties": {
+        "id": "way/1189244315",
+        "element_id": 1189244315,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'name:zh': '太阳能发电厂', 'name:zh-Hans': '太阳能发电厂', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.733349",
+        "url": "https://www.openstreetmap.org/way/1189244315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.11630809029097,
+          19.932530245281416
+        ]
+      },
+      "properties": {
+        "id": "way/1189244315",
+        "element_id": 1189244315,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.733349",
+        "url": "https://www.openstreetmap.org/way/1189244315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42164072224156,
+          23.06602684522388
+        ]
+      },
+      "properties": {
+        "id": "way/1207322726",
+        "element_id": 1207322726,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:27:08.733349",
+        "url": "https://www.openstreetmap.org/way/1207322726"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42164072224156,
+          23.06602684522388
+        ]
+      },
+      "properties": {
+        "id": "way/1207322726",
+        "element_id": 1207322726,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.733349",
+        "url": "https://www.openstreetmap.org/way/1207322726"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42164072224156,
+          23.06602684522388
+        ]
+      },
+      "properties": {
+        "id": "way/1207322726",
+        "element_id": 1207322726,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.733349",
+        "url": "https://www.openstreetmap.org/way/1207322726"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14058866787127,
+          19.91744723076172
+        ]
+      },
+      "properties": {
+        "id": "way/1211582150",
+        "element_id": 1211582150,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.733349",
+        "url": "https://www.openstreetmap.org/way/1211582150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14058866787127,
+          19.91744723076172
+        ]
+      },
+      "properties": {
+        "id": "way/1211582150",
+        "element_id": 1211582150,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.733349",
+        "url": "https://www.openstreetmap.org/way/1211582150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1413129821673,
+          19.917203164750205
+        ]
+      },
+      "properties": {
+        "id": "way/1211582151",
+        "element_id": 1211582151,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.734349",
+        "url": "https://www.openstreetmap.org/way/1211582151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1413129821673,
+          19.917203164750205
+        ]
+      },
+      "properties": {
+        "id": "way/1211582151",
+        "element_id": 1211582151,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.734349",
+        "url": "https://www.openstreetmap.org/way/1211582151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13397328357726,
+          19.917421861874114
+        ]
+      },
+      "properties": {
+        "id": "way/1211590597",
+        "element_id": 1211590597,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.734349",
+        "url": "https://www.openstreetmap.org/way/1211590597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13397328357726,
+          19.917421861874114
+        ]
+      },
+      "properties": {
+        "id": "way/1211590597",
+        "element_id": 1211590597,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.734349",
+        "url": "https://www.openstreetmap.org/way/1211590597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12874618061274,
+          19.91828178311172
+        ]
+      },
+      "properties": {
+        "id": "way/1211590601",
+        "element_id": 1211590601,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.734349",
+        "url": "https://www.openstreetmap.org/way/1211590601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12874618061274,
+          19.91828178311172
+        ]
+      },
+      "properties": {
+        "id": "way/1211590601",
+        "element_id": 1211590601,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.734349",
+        "url": "https://www.openstreetmap.org/way/1211590601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12901915515789,
+          19.91816428026948
+        ]
+      },
+      "properties": {
+        "id": "way/1211590602",
+        "element_id": 1211590602,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.734349",
+        "url": "https://www.openstreetmap.org/way/1211590602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12901915515789,
+          19.91816428026948
+        ]
+      },
+      "properties": {
+        "id": "way/1211590602",
+        "element_id": 1211590602,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.734349",
+        "url": "https://www.openstreetmap.org/way/1211590602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13300187074053,
+          19.921012462620663
+        ]
+      },
+      "properties": {
+        "id": "way/1211590603",
+        "element_id": 1211590603,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.734349",
+        "url": "https://www.openstreetmap.org/way/1211590603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13300187074053,
+          19.921012462620663
+        ]
+      },
+      "properties": {
+        "id": "way/1211590603",
+        "element_id": 1211590603,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.734349",
+        "url": "https://www.openstreetmap.org/way/1211590603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13719352539597,
+          19.91636672359744
+        ]
+      },
+      "properties": {
+        "id": "way/1213822108",
+        "element_id": 1213822108,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.734349",
+        "url": "https://www.openstreetmap.org/way/1213822108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13719352539597,
+          19.91636672359744
+        ]
+      },
+      "properties": {
+        "id": "way/1213822108",
+        "element_id": 1213822108,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.734349",
+        "url": "https://www.openstreetmap.org/way/1213822108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66522609272414,
+          23.01229537278313
+        ]
+      },
+      "properties": {
+        "id": "way/1220420356",
+        "element_id": 1220420356,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.735349",
+        "url": "https://www.openstreetmap.org/way/1220420356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92411880247488,
+          22.48300314406973
+        ]
+      },
+      "properties": {
+        "id": "way/1223040641",
+        "element_id": 1223040641,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'INRH', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.735349",
+        "url": "https://www.openstreetmap.org/way/1223040641"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92411880247488,
+          22.48300314406973
+        ]
+      },
+      "properties": {
+        "id": "way/1223040641",
+        "element_id": 1223040641,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.735349",
+        "url": "https://www.openstreetmap.org/way/1223040641"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.84600336074548,
+          20.05284696369705
+        ]
+      },
+      "properties": {
+        "id": "way/1228912356",
+        "element_id": 1228912356,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.735349",
+        "url": "https://www.openstreetmap.org/way/1228912356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.84600336074548,
+          20.05284696369705
+        ]
+      },
+      "properties": {
+        "id": "way/1228912356",
+        "element_id": 1228912356,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.735349",
+        "url": "https://www.openstreetmap.org/way/1228912356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.01247447790547,
+          22.448304775659
+        ]
+      },
+      "properties": {
+        "id": "way/1253459327",
+        "element_id": 1253459327,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.735349",
+        "url": "https://www.openstreetmap.org/way/1253459327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2410804684413,
+          23.158370516288013
+        ]
+      },
+      "properties": {
+        "id": "way/1253813647",
+        "element_id": 1253813647,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:27:08.735349",
+        "url": "https://www.openstreetmap.org/way/1253813647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2410804684413,
+          23.158370516288013
+        ]
+      },
+      "properties": {
+        "id": "way/1253813647",
+        "element_id": 1253813647,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'location': 'roof', 'plant:method': 'thermal', 'plant:output:hot_water': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.735349",
+        "url": "https://www.openstreetmap.org/way/1253813647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2410804684413,
+          23.158370516288013
+        ]
+      },
+      "properties": {
+        "id": "way/1253813647",
+        "element_id": 1253813647,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'location': 'roof', 'plant:method': 'thermal', 'plant:output:hot_water': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.736353",
+        "url": "https://www.openstreetmap.org/way/1253813647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.83911661556238,
+          21.603866932346225
+        ]
+      },
+      "properties": {
+        "id": "way/1276693844",
+        "element_id": 1276693844,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.736353",
+        "url": "https://www.openstreetmap.org/way/1276693844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.53348974699324,
+          22.91903304036177
+        ]
+      },
+      "properties": {
+        "id": "way/1285014088",
+        "element_id": 1285014088,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.736353",
+        "url": "https://www.openstreetmap.org/way/1285014088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.75221119504081,
+          23.01641698699144
+        ]
+      },
+      "properties": {
+        "id": "way/1308011906",
+        "element_id": 1308011906,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'Karpowership Ela Sultan power barge station', 'power': 'plant', 'source': 'https://web.archive.org/web/20240125134539/https://karpowership.com/project-cuba;https://www.gem.wiki/Powership_Ela_Sultan_power_station'}",
+        "timestamp": "2025-07-07 18:27:08.737350",
+        "url": "https://www.openstreetmap.org/way/1308011906"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.75263699080405,
+          23.01661385586133
+        ]
+      },
+      "properties": {
+        "id": "way/1308012175",
+        "element_id": 1308012175,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'Karpowership Powership Barış Bey power barge station', 'power': 'plant', 'source': 'https://web.archive.org/web/20240125134539/https://karpowership.com/project-cuba'}",
+        "timestamp": "2025-07-07 18:27:08.737350",
+        "url": "https://www.openstreetmap.org/way/1308012175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.75297092066941,
+          23.017162905539685
+        ]
+      },
+      "properties": {
+        "id": "way/1308013021",
+        "element_id": 1308013021,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'Karpowership Esra Sultan power barge station', 'power': 'plant', 'source': 'https://www.gem.wiki/Powership_Esra_Sultan_power_station;https://web.archive.org/web/20240125134539/https://karpowership.com/project-cuba'}",
+        "timestamp": "2025-07-07 18:27:08.737350",
+        "url": "https://www.openstreetmap.org/way/1308013021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94139661464986,
+          22.14683939931124
+        ]
+      },
+      "properties": {
+        "id": "way/1311641641",
+        "element_id": 1311641641,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Mini-Hidroelectrica Alzamiento de Jagüeycito', 'plant:method': 'water-storage', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.737350",
+        "url": "https://www.openstreetmap.org/way/1311641641"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.75895077739492,
+          20.218289391904445
+        ]
+      },
+      "properties": {
+        "id": "way/1328301736",
+        "element_id": 1328301736,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:27:08.738350",
+        "url": "https://www.openstreetmap.org/way/1328301736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.59640857978378,
+          20.21652438353785
+        ]
+      },
+      "properties": {
+        "id": "way/1328301738",
+        "element_id": 1328301738,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.738350",
+        "url": "https://www.openstreetmap.org/way/1328301738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.59640857978378,
+          20.21652438353785
+        ]
+      },
+      "properties": {
+        "id": "way/1328301738",
+        "element_id": 1328301738,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.738350",
+        "url": "https://www.openstreetmap.org/way/1328301738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96334267987525,
+          20.13115109754364
+        ]
+      },
+      "properties": {
+        "id": "way/1328301743",
+        "element_id": 1328301743,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:27:08.738350",
+        "url": "https://www.openstreetmap.org/way/1328301743"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96334267987525,
+          20.13115109754364
+        ]
+      },
+      "properties": {
+        "id": "way/1328301743",
+        "element_id": 1328301743,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.738350",
+        "url": "https://www.openstreetmap.org/way/1328301743"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42345185486393,
+          23.0084234425449
+        ]
+      },
+      "properties": {
+        "id": "way/1342236746",
+        "element_id": 1342236746,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.739349",
+        "url": "https://www.openstreetmap.org/way/1342236746"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4702258370873,
+          23.01028835461957
+        ]
+      },
+      "properties": {
+        "id": "way/1367422187",
+        "element_id": 1367422187,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.739349",
+        "url": "https://www.openstreetmap.org/way/1367422187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6037683,
+          20.1613458
+        ]
+      },
+      "properties": {
+        "id": "node/11125297765",
+        "element_id": 11125297765,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Grupo Electrógeno Belleza', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.740349",
+        "url": "https://www.openstreetmap.org/node/11125297765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3330075,
+          23.1177839
+        ]
+      },
+      "properties": {
+        "id": "node/11404281357",
+        "element_id": 11404281357,
+        "element_type": "node",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'description': '28 motores hyundai 1.7 Mw', 'name': 'Grupos HYUNDAI 1.7 Mw', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.740349",
+        "url": "https://www.openstreetmap.org/node/11404281357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.57496263987176,
+          22.23743583881191
+        ]
+      },
+      "properties": {
+        "id": "way/1396341165",
+        "element_id": 1396341165,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.740349",
+        "url": "https://www.openstreetmap.org/way/1396341165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.57496263987176,
+          22.23743583881191
+        ]
+      },
+      "properties": {
+        "id": "way/1396341165",
+        "element_id": 1396341165,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.740349",
+        "url": "https://www.openstreetmap.org/way/1396341165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5744403057825,
+          22.237987150296384
+        ]
+      },
+      "properties": {
+        "id": "way/1396341166",
+        "element_id": 1396341166,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.740349",
+        "url": "https://www.openstreetmap.org/way/1396341166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5744403057825,
+          22.237987150296384
+        ]
+      },
+      "properties": {
+        "id": "way/1396341166",
+        "element_id": 1396341166,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.740349",
+        "url": "https://www.openstreetmap.org/way/1396341166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.57413013965056,
+          22.238262312531734
+        ]
+      },
+      "properties": {
+        "id": "way/1396341167",
+        "element_id": 1396341167,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.740349",
+        "url": "https://www.openstreetmap.org/way/1396341167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.57413013965056,
+          22.238262312531734
+        ]
+      },
+      "properties": {
+        "id": "way/1396341167",
+        "element_id": 1396341167,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.740349",
+        "url": "https://www.openstreetmap.org/way/1396341167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.57380957342957,
+          22.238341181019603
+        ]
+      },
+      "properties": {
+        "id": "way/1396341168",
+        "element_id": 1396341168,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:08.740349",
+        "url": "https://www.openstreetmap.org/way/1396341168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.57380957342957,
+          22.238341181019603
+        ]
+      },
+      "properties": {
+        "id": "way/1396341168",
+        "element_id": 1396341168,
+        "element_type": "way",
+        "country": "Cuba",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:08.740349",
+        "url": "https://www.openstreetmap.org/way/1396341168"
+      }
+    }
+  ]
+}

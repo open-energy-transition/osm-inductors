@@ -1,0 +1,1413 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.949016566372651,
+          50.11825023866646
+        ]
+      },
+      "properties": {
+        "id": "relation/18471429",
+        "element_id": 18471429,
+        "element_type": "relation",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'wind_turbine', 'plant:source': 'wind', 'power': 'plant', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:39:44.996129",
+        "url": "https://www.openstreetmap.org/relation/18471429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9338915,
+          50.1244036
+        ]
+      },
+      "properties": {
+        "id": "node/5536419638",
+        "element_id": 5536419638,
+        "element_type": "node",
+        "country": "Luxembourg",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '3000 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'height:hub': '142.5', 'manufacturer': 'Siemens', 'model': 'SWT-3.0-113', 'power': 'generator', 'rotor:diameter': '113'}",
+        "timestamp": "2025-07-07 18:39:44.998170",
+        "url": "https://www.openstreetmap.org/node/5536419638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9338915,
+          50.1244036
+        ]
+      },
+      "properties": {
+        "id": "node/5536419638",
+        "element_id": 5536419638,
+        "element_type": "node",
+        "country": "Luxembourg",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "3000 kW",
+        "details": "Tag 'generator:output:electricity' has value '3000 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:39:44.998170",
+        "url": "https://www.openstreetmap.org/node/5536419638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9388024,
+          50.1232787
+        ]
+      },
+      "properties": {
+        "id": "node/5536419639",
+        "element_id": 5536419639,
+        "element_type": "node",
+        "country": "Luxembourg",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '3000 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'height:hub': '142.5', 'manufacturer': 'Siemens', 'model': 'SWT-3.0-113', 'power': 'generator', 'rotor:diameter': '113'}",
+        "timestamp": "2025-07-07 18:39:44.998170",
+        "url": "https://www.openstreetmap.org/node/5536419639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9388024,
+          50.1232787
+        ]
+      },
+      "properties": {
+        "id": "node/5536419639",
+        "element_id": 5536419639,
+        "element_type": "node",
+        "country": "Luxembourg",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "3000 kW",
+        "details": "Tag 'generator:output:electricity' has value '3000 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:39:44.998170",
+        "url": "https://www.openstreetmap.org/node/5536419639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9431922,
+          50.1214404
+        ]
+      },
+      "properties": {
+        "id": "node/5536419640",
+        "element_id": 5536419640,
+        "element_type": "node",
+        "country": "Luxembourg",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '3000 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'height:hub': '142.5', 'manufacturer': 'Siemens', 'model': 'SWT-3.0-113', 'power': 'generator', 'rotor:diameter': '113'}",
+        "timestamp": "2025-07-07 18:39:44.998170",
+        "url": "https://www.openstreetmap.org/node/5536419640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9431922,
+          50.1214404
+        ]
+      },
+      "properties": {
+        "id": "node/5536419640",
+        "element_id": 5536419640,
+        "element_type": "node",
+        "country": "Luxembourg",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "3000 kW",
+        "details": "Tag 'generator:output:electricity' has value '3000 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:39:44.998170",
+        "url": "https://www.openstreetmap.org/node/5536419640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9503034,
+          50.1207633
+        ]
+      },
+      "properties": {
+        "id": "node/5536419641",
+        "element_id": 5536419641,
+        "element_type": "node",
+        "country": "Luxembourg",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '3000 kW', 'generator:plant': 'output', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'height:hub': '142.5', 'manufacturer': 'Siemens', 'model': 'SWT-3.0-113', 'power': 'generator', 'rotor:diameter': '113'}",
+        "timestamp": "2025-07-07 18:39:44.998170",
+        "url": "https://www.openstreetmap.org/node/5536419641"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9503034,
+          50.1207633
+        ]
+      },
+      "properties": {
+        "id": "node/5536419641",
+        "element_id": 5536419641,
+        "element_type": "node",
+        "country": "Luxembourg",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "3000 kW",
+        "details": "Tag 'generator:output:electricity' has value '3000 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:39:44.998170",
+        "url": "https://www.openstreetmap.org/node/5536419641"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9528674,
+          50.1175033
+        ]
+      },
+      "properties": {
+        "id": "node/5536419642",
+        "element_id": 5536419642,
+        "element_type": "node",
+        "country": "Luxembourg",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '3000 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'height:hub': '142.5', 'manufacturer': 'Siemens', 'model': 'SWT-3.0-113', 'power': 'generator', 'rotor:diameter': '113'}",
+        "timestamp": "2025-07-07 18:39:44.998170",
+        "url": "https://www.openstreetmap.org/node/5536419642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9528674,
+          50.1175033
+        ]
+      },
+      "properties": {
+        "id": "node/5536419642",
+        "element_id": 5536419642,
+        "element_type": "node",
+        "country": "Luxembourg",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "3000 kW",
+        "details": "Tag 'generator:output:electricity' has value '3000 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:39:44.998170",
+        "url": "https://www.openstreetmap.org/node/5536419642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9584119,
+          50.1140057
+        ]
+      },
+      "properties": {
+        "id": "node/5536419643",
+        "element_id": 5536419643,
+        "element_type": "node",
+        "country": "Luxembourg",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '3000 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'height:hub': '142.5', 'manufacturer': 'Siemens', 'model': 'SWT-3.0-113', 'power': 'generator', 'rotor:diameter': '113'}",
+        "timestamp": "2025-07-07 18:39:44.998170",
+        "url": "https://www.openstreetmap.org/node/5536419643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9584119,
+          50.1140057
+        ]
+      },
+      "properties": {
+        "id": "node/5536419643",
+        "element_id": 5536419643,
+        "element_type": "node",
+        "country": "Luxembourg",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "3000 kW",
+        "details": "Tag 'generator:output:electricity' has value '3000 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:39:44.998170",
+        "url": "https://www.openstreetmap.org/node/5536419643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.960557,
+          50.1105582
+        ]
+      },
+      "properties": {
+        "id": "node/5536419644",
+        "element_id": 5536419644,
+        "element_type": "node",
+        "country": "Luxembourg",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '3000 kW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'height:hub': '142.5', 'manufacturer': 'Siemens', 'model': 'SWT-3.0-113', 'power': 'generator', 'rotor:diameter': '113'}",
+        "timestamp": "2025-07-07 18:39:44.998170",
+        "url": "https://www.openstreetmap.org/node/5536419644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.960557,
+          50.1105582
+        ]
+      },
+      "properties": {
+        "id": "node/5536419644",
+        "element_id": 5536419644,
+        "element_type": "node",
+        "country": "Luxembourg",
+        "unit_type": "generator",
+        "reason": "Capacity regex no match",
+        "keywords": "3000 kW",
+        "details": "Tag 'generator:output:electricity' has value '3000 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:39:44.998170",
+        "url": "https://www.openstreetmap.org/node/5536419644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.949016566372651,
+          50.11825023866646
+        ]
+      },
+      "properties": {
+        "id": "relation/18471429",
+        "element_id": 18471429,
+        "element_type": "relation",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'wind_turbine', 'plant:source': 'wind', 'power': 'plant', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:39:44.998170",
+        "url": "https://www.openstreetmap.org/relation/18471429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.055454746027444,
+          49.67131639174232
+        ]
+      },
+      "properties": {
+        "id": "way/198645038",
+        "element_id": 198645038,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Naturgas Kielen', 'plant:method': 'anaerobic_digestion', 'plant:output:biogas': 'yes', 'plant:source': 'biomass', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.001163",
+        "url": "https://www.openstreetmap.org/way/198645038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.261161991985981,
+          49.69691286410414
+        ]
+      },
+      "properties": {
+        "id": "way/535578932",
+        "element_id": 535578932,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:45.004163",
+        "url": "https://www.openstreetmap.org/way/535578932"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.175175860899456,
+          49.90712912564729
+        ]
+      },
+      "properties": {
+        "id": "way/848175866",
+        "element_id": 848175866,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.004163",
+        "url": "https://www.openstreetmap.org/way/848175866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.175175860899456,
+          49.90712912564729
+        ]
+      },
+      "properties": {
+        "id": "way/848175866",
+        "element_id": 848175866,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:45.004163",
+        "url": "https://www.openstreetmap.org/way/848175866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.203258863129743,
+          49.84148447495808
+        ]
+      },
+      "properties": {
+        "id": "way/849005334",
+        "element_id": 849005334,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.005166",
+        "url": "https://www.openstreetmap.org/way/849005334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.203258863129743,
+          49.84148447495808
+        ]
+      },
+      "properties": {
+        "id": "way/849005334",
+        "element_id": 849005334,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:45.005166",
+        "url": "https://www.openstreetmap.org/way/849005334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.204471195015139,
+          49.83809945384943
+        ]
+      },
+      "properties": {
+        "id": "way/852738473",
+        "element_id": 852738473,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'description': 'Only panel stands, has never been completed.', 'plant:method': 'photovoltaic', 'plant:output:electricity': '0', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.005166",
+        "url": "https://www.openstreetmap.org/way/852738473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.204471195015139,
+          49.83809945384943
+        ]
+      },
+      "properties": {
+        "id": "way/852738473",
+        "element_id": 852738473,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "0",
+        "details": "Tag 'plant:output:electricity' has value '0' which could not be parsed",
+        "timestamp": "2025-07-07 18:39:45.005166",
+        "url": "https://www.openstreetmap.org/way/852738473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.086294720977801,
+          49.49825817767227
+        ]
+      },
+      "properties": {
+        "id": "way/959169546",
+        "element_id": 959169546,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.005166",
+        "url": "https://www.openstreetmap.org/way/959169546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.086294720977801,
+          49.49825817767227
+        ]
+      },
+      "properties": {
+        "id": "way/959169546",
+        "element_id": 959169546,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:45.005166",
+        "url": "https://www.openstreetmap.org/way/959169546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.084708922175963,
+          49.49824357242275
+        ]
+      },
+      "properties": {
+        "id": "way/959169547",
+        "element_id": 959169547,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.005166",
+        "url": "https://www.openstreetmap.org/way/959169547"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.084708922175963,
+          49.49824357242275
+        ]
+      },
+      "properties": {
+        "id": "way/959169547",
+        "element_id": 959169547,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:45.005166",
+        "url": "https://www.openstreetmap.org/way/959169547"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.08495993437306,
+          49.49776228215531
+        ]
+      },
+      "properties": {
+        "id": "way/1029399525",
+        "element_id": 1029399525,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.006163",
+        "url": "https://www.openstreetmap.org/way/1029399525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.08495993437306,
+          49.49776228215531
+        ]
+      },
+      "properties": {
+        "id": "way/1029399525",
+        "element_id": 1029399525,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:45.006163",
+        "url": "https://www.openstreetmap.org/way/1029399525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.007721194545744,
+          49.73641064617532
+        ]
+      },
+      "properties": {
+        "id": "way/1130886004",
+        "element_id": 1130886004,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:45.006163",
+        "url": "https://www.openstreetmap.org/way/1130886004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.007721194545744,
+          49.73641064617532
+        ]
+      },
+      "properties": {
+        "id": "way/1130886004",
+        "element_id": 1130886004,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.006163",
+        "url": "https://www.openstreetmap.org/way/1130886004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.007721194545744,
+          49.73641064617532
+        ]
+      },
+      "properties": {
+        "id": "way/1130886004",
+        "element_id": 1130886004,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:45.006163",
+        "url": "https://www.openstreetmap.org/way/1130886004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.918432673513927,
+          49.61494998296792
+        ]
+      },
+      "properties": {
+        "id": "way/1131095807",
+        "element_id": 1131095807,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.006163",
+        "url": "https://www.openstreetmap.org/way/1131095807"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.918432673513927,
+          49.61494998296792
+        ]
+      },
+      "properties": {
+        "id": "way/1131095807",
+        "element_id": 1131095807,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:45.006163",
+        "url": "https://www.openstreetmap.org/way/1131095807"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2252824,
+          49.91391115000001
+        ]
+      },
+      "properties": {
+        "id": "way/1268470876",
+        "element_id": 1268470876,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.006163",
+        "url": "https://www.openstreetmap.org/way/1268470876"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2252824,
+          49.91391115000001
+        ]
+      },
+      "properties": {
+        "id": "way/1268470876",
+        "element_id": 1268470876,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:45.006163",
+        "url": "https://www.openstreetmap.org/way/1268470876"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.289356349904469,
+          49.66028598971903
+        ]
+      },
+      "properties": {
+        "id": "way/1279579965",
+        "element_id": 1279579965,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.006163",
+        "url": "https://www.openstreetmap.org/way/1279579965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.289356349904469,
+          49.66028598971903
+        ]
+      },
+      "properties": {
+        "id": "way/1279579965",
+        "element_id": 1279579965,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.008239",
+        "url": "https://www.openstreetmap.org/way/1279579965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.287390284624523,
+          49.65968411530145
+        ]
+      },
+      "properties": {
+        "id": "way/1279579966",
+        "element_id": 1279579966,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.008239",
+        "url": "https://www.openstreetmap.org/way/1279579966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.287390284624523,
+          49.65968411530145
+        ]
+      },
+      "properties": {
+        "id": "way/1279579966",
+        "element_id": 1279579966,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.009290",
+        "url": "https://www.openstreetmap.org/way/1279579966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.932505857410612,
+          49.51395482032791
+        ]
+      },
+      "properties": {
+        "id": "way/1321632337",
+        "element_id": 1321632337,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:45.009290",
+        "url": "https://www.openstreetmap.org/way/1321632337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.932505857410612,
+          49.51395482032791
+        ]
+      },
+      "properties": {
+        "id": "way/1321632337",
+        "element_id": 1321632337,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.009290",
+        "url": "https://www.openstreetmap.org/way/1321632337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.932505857410612,
+          49.51395482032791
+        ]
+      },
+      "properties": {
+        "id": "way/1321632337",
+        "element_id": 1321632337,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.010300",
+        "url": "https://www.openstreetmap.org/way/1321632337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.932529057410614,
+          49.51393722032791
+        ]
+      },
+      "properties": {
+        "id": "way/1321632338",
+        "element_id": 1321632338,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:45.011300",
+        "url": "https://www.openstreetmap.org/way/1321632338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.932529057410614,
+          49.51393722032791
+        ]
+      },
+      "properties": {
+        "id": "way/1321632338",
+        "element_id": 1321632338,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.011300",
+        "url": "https://www.openstreetmap.org/way/1321632338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.932529057410614,
+          49.51393722032791
+        ]
+      },
+      "properties": {
+        "id": "way/1321632338",
+        "element_id": 1321632338,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.012300",
+        "url": "https://www.openstreetmap.org/way/1321632338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.932553257410613,
+          49.51391982032792
+        ]
+      },
+      "properties": {
+        "id": "way/1321632339",
+        "element_id": 1321632339,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:45.012300",
+        "url": "https://www.openstreetmap.org/way/1321632339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.932553257410613,
+          49.51391982032792
+        ]
+      },
+      "properties": {
+        "id": "way/1321632339",
+        "element_id": 1321632339,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.012300",
+        "url": "https://www.openstreetmap.org/way/1321632339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.932553257410613,
+          49.51391982032792
+        ]
+      },
+      "properties": {
+        "id": "way/1321632339",
+        "element_id": 1321632339,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.013300",
+        "url": "https://www.openstreetmap.org/way/1321632339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.932578148410536,
+          49.51390500753861
+        ]
+      },
+      "properties": {
+        "id": "way/1321632340",
+        "element_id": 1321632340,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:45.014302",
+        "url": "https://www.openstreetmap.org/way/1321632340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.932578148410536,
+          49.51390500753861
+        ]
+      },
+      "properties": {
+        "id": "way/1321632340",
+        "element_id": 1321632340,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.014302",
+        "url": "https://www.openstreetmap.org/way/1321632340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.932578148410536,
+          49.51390500753861
+        ]
+      },
+      "properties": {
+        "id": "way/1321632340",
+        "element_id": 1321632340,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.015301",
+        "url": "https://www.openstreetmap.org/way/1321632340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.937935995505077,
+          49.51565037484151
+        ]
+      },
+      "properties": {
+        "id": "way/1321652509",
+        "element_id": 1321652509,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.015301",
+        "url": "https://www.openstreetmap.org/way/1321652509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.937935995505077,
+          49.51565037484151
+        ]
+      },
+      "properties": {
+        "id": "way/1321652509",
+        "element_id": 1321652509,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:45.015301",
+        "url": "https://www.openstreetmap.org/way/1321652509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.937952195505076,
+          49.515513974841504
+        ]
+      },
+      "properties": {
+        "id": "way/1321652510",
+        "element_id": 1321652510,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.015301",
+        "url": "https://www.openstreetmap.org/way/1321652510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.937952195505076,
+          49.515513974841504
+        ]
+      },
+      "properties": {
+        "id": "way/1321652510",
+        "element_id": 1321652510,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:45.015301",
+        "url": "https://www.openstreetmap.org/way/1321652510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.938575486630402,
+          49.51554577490224
+        ]
+      },
+      "properties": {
+        "id": "way/1321652511",
+        "element_id": 1321652511,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.015301",
+        "url": "https://www.openstreetmap.org/way/1321652511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.938575486630402,
+          49.51554577490224
+        ]
+      },
+      "properties": {
+        "id": "way/1321652511",
+        "element_id": 1321652511,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:45.015301",
+        "url": "https://www.openstreetmap.org/way/1321652511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.938781088489596,
+          49.51555782699832
+        ]
+      },
+      "properties": {
+        "id": "way/1321652512",
+        "element_id": 1321652512,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.015301",
+        "url": "https://www.openstreetmap.org/way/1321652512"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.938781088489596,
+          49.51555782699832
+        ]
+      },
+      "properties": {
+        "id": "way/1321652512",
+        "element_id": 1321652512,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:39:45.015301",
+        "url": "https://www.openstreetmap.org/way/1321652512"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.088122837910467,
+          49.999428120392885
+        ]
+      },
+      "properties": {
+        "id": "way/1381618860",
+        "element_id": 1381618860,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:45.016300",
+        "url": "https://www.openstreetmap.org/way/1381618860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3659823,
+          49.4671082
+        ]
+      },
+      "properties": {
+        "id": "node/1769329734",
+        "element_id": 1769329734,
+        "element_type": "node",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:39:45.017300",
+        "url": "https://www.openstreetmap.org/node/1769329734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.088122837910467,
+          49.999428120392885
+        ]
+      },
+      "properties": {
+        "id": "way/1381618860",
+        "element_id": 1381618860,
+        "element_type": "way",
+        "country": "Luxembourg",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Biogas Our Särl', 'plant:source': 'biomass', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:39:45.017300",
+        "url": "https://www.openstreetmap.org/way/1381618860"
+      }
+    }
+  ]
+}

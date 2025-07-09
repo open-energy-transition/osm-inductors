@@ -1,0 +1,335 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.75037640421951,
+          -1.4774083919441363
+        ]
+      },
+      "properties": {
+        "id": "way/610191867",
+        "element_id": 610191867,
+        "element_type": "way",
+        "country": "Rwanda",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:46:28.179443",
+        "url": "https://www.openstreetmap.org/way/610191867"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.68322304844949,
+          -1.536781352571437
+        ]
+      },
+      "properties": {
+        "id": "way/697005718",
+        "element_id": 697005718,
+        "element_type": "way",
+        "country": "Rwanda",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:46:28.180448",
+        "url": "https://www.openstreetmap.org/way/697005718"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.24295151602682,
+          -2.2756601740432254
+        ]
+      },
+      "properties": {
+        "id": "way/697548395",
+        "element_id": 697548395,
+        "element_type": "way",
+        "country": "Rwanda",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:46:28.180448",
+        "url": "https://www.openstreetmap.org/way/697548395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.24295151602682,
+          -2.2756601740432254
+        ]
+      },
+      "properties": {
+        "id": "way/697548395",
+        "element_id": 697548395,
+        "element_type": "way",
+        "country": "Rwanda",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "500 kW",
+        "details": "Tag 'plant:output:electricity' has value '500 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:46:28.180448",
+        "url": "https://www.openstreetmap.org/way/697548395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.26528771357934,
+          -1.7100180379251133
+        ]
+      },
+      "properties": {
+        "id": "way/697631738",
+        "element_id": 697631738,
+        "element_type": "way",
+        "country": "Rwanda",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:28.181444",
+        "url": "https://www.openstreetmap.org/way/697631738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.26528771357934,
+          -1.7100180379251133
+        ]
+      },
+      "properties": {
+        "id": "way/697631738",
+        "element_id": 697631738,
+        "element_type": "way",
+        "country": "Rwanda",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:28.183444",
+        "url": "https://www.openstreetmap.org/way/697631738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.27753004630521,
+          -1.6907202982689704
+        ]
+      },
+      "properties": {
+        "id": "way/697631744",
+        "element_id": 697631744,
+        "element_type": "way",
+        "country": "Rwanda",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:28.183444",
+        "url": "https://www.openstreetmap.org/way/697631744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.27753004630521,
+          -1.6907202982689704
+        ]
+      },
+      "properties": {
+        "id": "way/697631744",
+        "element_id": 697631744,
+        "element_type": "way",
+        "country": "Rwanda",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:28.185454",
+        "url": "https://www.openstreetmap.org/way/697631744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.29838428493826,
+          -1.827710012294028
+        ]
+      },
+      "properties": {
+        "id": "way/697636443",
+        "element_id": 697636443,
+        "element_type": "way",
+        "country": "Rwanda",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:46:28.185454",
+        "url": "https://www.openstreetmap.org/way/697636443"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.744981645666872,
+          -2.097607432431547
+        ]
+      },
+      "properties": {
+        "id": "way/847819732",
+        "element_id": 847819732,
+        "element_type": "way",
+        "country": "Rwanda",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:46:28.187458",
+        "url": "https://www.openstreetmap.org/way/847819732"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.261931600998352,
+          -2.2756839763867225
+        ]
+      },
+      "properties": {
+        "id": "way/1084708314",
+        "element_id": 1084708314,
+        "element_type": "way",
+        "country": "Rwanda",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:46:28.189457",
+        "url": "https://www.openstreetmap.org/way/1084708314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.261931600998352,
+          -2.2756839763867225
+        ]
+      },
+      "properties": {
+        "id": "way/1084708314",
+        "element_id": 1084708314,
+        "element_type": "way",
+        "country": "Rwanda",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:46:28.189457",
+        "url": "https://www.openstreetmap.org/way/1084708314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.647299240779187,
+          -1.5649244728765763
+        ]
+      },
+      "properties": {
+        "id": "way/1171110021",
+        "element_id": 1171110021,
+        "element_type": "way",
+        "country": "Rwanda",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:46:28.189457",
+        "url": "https://www.openstreetmap.org/way/1171110021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.58217936348128,
+          -1.5221023583070128
+        ]
+      },
+      "properties": {
+        "id": "way/1245585912",
+        "element_id": 1245585912,
+        "element_type": "way",
+        "country": "Rwanda",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:46:28.190454",
+        "url": "https://www.openstreetmap.org/way/1245585912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.58217936348128,
+          -1.5221023583070128
+        ]
+      },
+      "properties": {
+        "id": "way/1245585912",
+        "element_id": 1245585912,
+        "element_type": "way",
+        "country": "Rwanda",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:46:28.190454",
+        "url": "https://www.openstreetmap.org/way/1245585912"
+      }
+    }
+  ]
+}

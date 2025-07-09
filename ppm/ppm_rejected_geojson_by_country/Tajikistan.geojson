@@ -1,0 +1,1435 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.59821128992019,
+          40.52869289922336
+        ]
+      },
+      "properties": {
+        "id": "way/243690601",
+        "element_id": 243690601,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'man_made': 'works', 'name': 'Котельная', 'power': 'plant', 'power:output:hot_water': 'yes'}",
+        "timestamp": "2025-07-07 18:50:39.470793",
+        "url": "https://www.openstreetmap.org/way/243690601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.21148041635469,
+          38.50410505495908
+        ]
+      },
+      "properties": {
+        "id": "way/317761704",
+        "element_id": 317761704,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:39.470793",
+        "url": "https://www.openstreetmap.org/way/317761704"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.21148041635469,
+          38.50410505495908
+        ]
+      },
+      "properties": {
+        "id": "way/317761704",
+        "element_id": 317761704,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.470793",
+        "url": "https://www.openstreetmap.org/way/317761704"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.21148041635469,
+          38.50410505495908
+        ]
+      },
+      "properties": {
+        "id": "way/317761704",
+        "element_id": 317761704,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.473016",
+        "url": "https://www.openstreetmap.org/way/317761704"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.62494175124081,
+          37.96488399289535
+        ]
+      },
+      "properties": {
+        "id": "way/375669573",
+        "element_id": 375669573,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:39.473016",
+        "url": "https://www.openstreetmap.org/way/375669573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.62494175124081,
+          37.96488399289535
+        ]
+      },
+      "properties": {
+        "id": "way/375669573",
+        "element_id": 375669573,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:39.473016",
+        "url": "https://www.openstreetmap.org/way/375669573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.38632271376679,
+          37.918175178304274
+        ]
+      },
+      "properties": {
+        "id": "way/378505790",
+        "element_id": 378505790,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Ges', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.474014",
+        "url": "https://www.openstreetmap.org/way/378505790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.66679611846732,
+          38.00731183055158
+        ]
+      },
+      "properties": {
+        "id": "way/379771687",
+        "element_id": 379771687,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.474014",
+        "url": "https://www.openstreetmap.org/way/379771687"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.66679611846732,
+          38.00731183055158
+        ]
+      },
+      "properties": {
+        "id": "way/379771687",
+        "element_id": 379771687,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.476012",
+        "url": "https://www.openstreetmap.org/way/379771687"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.86301267155885,
+          38.05719532894621
+        ]
+      },
+      "properties": {
+        "id": "way/391317824",
+        "element_id": 391317824,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:39.476012",
+        "url": "https://www.openstreetmap.org/way/391317824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.86301267155885,
+          38.05719532894621
+        ]
+      },
+      "properties": {
+        "id": "way/391317824",
+        "element_id": 391317824,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:39.476012",
+        "url": "https://www.openstreetmap.org/way/391317824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.33820649517398,
+          38.29538092037068
+        ]
+      },
+      "properties": {
+        "id": "way/391388484",
+        "element_id": 391388484,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Power Plant', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.476012",
+        "url": "https://www.openstreetmap.org/way/391388484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5574340771797,
+          37.96107639950717
+        ]
+      },
+      "properties": {
+        "id": "way/391554826",
+        "element_id": 391554826,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.476012",
+        "url": "https://www.openstreetmap.org/way/391554826"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5574340771797,
+          37.96107639950717
+        ]
+      },
+      "properties": {
+        "id": "way/391554826",
+        "element_id": 391554826,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.478333",
+        "url": "https://www.openstreetmap.org/way/391554826"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.55714155316424,
+          37.957968817103456
+        ]
+      },
+      "properties": {
+        "id": "way/391554827",
+        "element_id": 391554827,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.478333",
+        "url": "https://www.openstreetmap.org/way/391554827"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.55714155316424,
+          37.957968817103456
+        ]
+      },
+      "properties": {
+        "id": "way/391554827",
+        "element_id": 391554827,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.480370",
+        "url": "https://www.openstreetmap.org/way/391554827"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.45210093658082,
+          37.94572766996833
+        ]
+      },
+      "properties": {
+        "id": "way/391560287",
+        "element_id": 391560287,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.480370",
+        "url": "https://www.openstreetmap.org/way/391560287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.45210093658082,
+          37.94572766996833
+        ]
+      },
+      "properties": {
+        "id": "way/391560287",
+        "element_id": 391560287,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.482380",
+        "url": "https://www.openstreetmap.org/way/391560287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.7947249,
+          38.4868696
+        ]
+      },
+      "properties": {
+        "id": "way/392708126",
+        "element_id": 392708126,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.482380",
+        "url": "https://www.openstreetmap.org/way/392708126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.7947249,
+          38.4868696
+        ]
+      },
+      "properties": {
+        "id": "way/392708126",
+        "element_id": 392708126,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.484689",
+        "url": "https://www.openstreetmap.org/way/392708126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.76184950000001,
+          37.61469215
+        ]
+      },
+      "properties": {
+        "id": "way/393201353",
+        "element_id": 393201353,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Памирская ГЭС №1', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.484689",
+        "url": "https://www.openstreetmap.org/way/393201353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.81951040000001,
+          36.68350885
+        ]
+      },
+      "properties": {
+        "id": "way/497434750",
+        "element_id": 497434750,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:39.485690",
+        "url": "https://www.openstreetmap.org/way/497434750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.81951040000001,
+          36.68350885
+        ]
+      },
+      "properties": {
+        "id": "way/497434750",
+        "element_id": 497434750,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.485690",
+        "url": "https://www.openstreetmap.org/way/497434750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.81951040000001,
+          36.68350885
+        ]
+      },
+      "properties": {
+        "id": "way/497434750",
+        "element_id": 497434750,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:39.485690",
+        "url": "https://www.openstreetmap.org/way/497434750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.77293836598705,
+          38.6781034510255
+        ]
+      },
+      "properties": {
+        "id": "way/572748372",
+        "element_id": 572748372,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 11 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:39.485690",
+        "url": "https://www.openstreetmap.org/way/572748372"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.59033868246615,
+          40.29770655885818
+        ]
+      },
+      "properties": {
+        "id": "way/593617035",
+        "element_id": 593617035,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Котельная', 'plant:output:cold_water': 'yes', 'plant:output:hot_water': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.485690",
+        "url": "https://www.openstreetmap.org/way/593617035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.61578832998636,
+          38.35022005500707
+        ]
+      },
+      "properties": {
+        "id": "way/654218921",
+        "element_id": 654218921,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:39.485690",
+        "url": "https://www.openstreetmap.org/way/654218921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.61578832998636,
+          38.35022005500707
+        ]
+      },
+      "properties": {
+        "id": "way/654218921",
+        "element_id": 654218921,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'HPP Yoged', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.487688",
+        "url": "https://www.openstreetmap.org/way/654218921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.77607515743935,
+          37.71411415431498
+        ]
+      },
+      "properties": {
+        "id": "way/747102639",
+        "element_id": 747102639,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:39.487688",
+        "url": "https://www.openstreetmap.org/way/747102639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.72883049715165,
+          37.59310369218925
+        ]
+      },
+      "properties": {
+        "id": "way/862520963",
+        "element_id": 862520963,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:39.488688",
+        "url": "https://www.openstreetmap.org/way/862520963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.72883049715165,
+          37.59310369218925
+        ]
+      },
+      "properties": {
+        "id": "way/862520963",
+        "element_id": 862520963,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'name': 'PAMIR-1', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.490688",
+        "url": "https://www.openstreetmap.org/way/862520963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.13405008323922,
+          39.03456632710899
+        ]
+      },
+      "properties": {
+        "id": "way/874824910",
+        "element_id": 874824910,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:39.490688",
+        "url": "https://www.openstreetmap.org/way/874824910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.13405008323922,
+          39.03456632710899
+        ]
+      },
+      "properties": {
+        "id": "way/874824910",
+        "element_id": 874824910,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "1006 kW",
+        "details": "Tag 'plant:output:electricity' has value '1006 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:50:39.490688",
+        "url": "https://www.openstreetmap.org/way/874824910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.54807691699345,
+          38.22849489934641
+        ]
+      },
+      "properties": {
+        "id": "way/900932475",
+        "element_id": 900932475,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:39.490688",
+        "url": "https://www.openstreetmap.org/way/900932475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.54807691699345,
+          38.22849489934641
+        ]
+      },
+      "properties": {
+        "id": "way/900932475",
+        "element_id": 900932475,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.490688",
+        "url": "https://www.openstreetmap.org/way/900932475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.54807691699345,
+          38.22849489934641
+        ]
+      },
+      "properties": {
+        "id": "way/900932475",
+        "element_id": 900932475,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:39.490688",
+        "url": "https://www.openstreetmap.org/way/900932475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.09332662277691,
+          39.331838466430014
+        ]
+      },
+      "properties": {
+        "id": "way/929612495",
+        "element_id": 929612495,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:39.491688",
+        "url": "https://www.openstreetmap.org/way/929612495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.09332662277691,
+          39.331838466430014
+        ]
+      },
+      "properties": {
+        "id": "way/929612495",
+        "element_id": 929612495,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:39.491688",
+        "url": "https://www.openstreetmap.org/way/929612495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.56527591665495,
+          39.44267360097688
+        ]
+      },
+      "properties": {
+        "id": "way/1019212058",
+        "element_id": 1019212058,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:39.492688",
+        "url": "https://www.openstreetmap.org/way/1019212058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.56527591665495,
+          39.44267360097688
+        ]
+      },
+      "properties": {
+        "id": "way/1019212058",
+        "element_id": 1019212058,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:39.492688",
+        "url": "https://www.openstreetmap.org/way/1019212058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.80669385510961,
+          37.47465928107194
+        ]
+      },
+      "properties": {
+        "id": "way/1025420616",
+        "element_id": 1025420616,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:39.492688",
+        "url": "https://www.openstreetmap.org/way/1025420616"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.80669385510961,
+          37.47465928107194
+        ]
+      },
+      "properties": {
+        "id": "way/1025420616",
+        "element_id": 1025420616,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.492688",
+        "url": "https://www.openstreetmap.org/way/1025420616"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.80669385510961,
+          37.47465928107194
+        ]
+      },
+      "properties": {
+        "id": "way/1025420616",
+        "element_id": 1025420616,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.494688",
+        "url": "https://www.openstreetmap.org/way/1025420616"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8074363371759,
+          37.47544944710032
+        ]
+      },
+      "properties": {
+        "id": "way/1025420618",
+        "element_id": 1025420618,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:39.494688",
+        "url": "https://www.openstreetmap.org/way/1025420618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8074363371759,
+          37.47544944710032
+        ]
+      },
+      "properties": {
+        "id": "way/1025420618",
+        "element_id": 1025420618,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.494688",
+        "url": "https://www.openstreetmap.org/way/1025420618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8074363371759,
+          37.47544944710032
+        ]
+      },
+      "properties": {
+        "id": "way/1025420618",
+        "element_id": 1025420618,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.496692",
+        "url": "https://www.openstreetmap.org/way/1025420618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.68925015,
+          39.4429992
+        ]
+      },
+      "properties": {
+        "id": "way/1148983832",
+        "element_id": 1148983832,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:39.496692",
+        "url": "https://www.openstreetmap.org/way/1148983832"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.68925015,
+          39.4429992
+        ]
+      },
+      "properties": {
+        "id": "way/1148983832",
+        "element_id": 1148983832,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.496692",
+        "url": "https://www.openstreetmap.org/way/1148983832"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.68925015,
+          39.4429992
+        ]
+      },
+      "properties": {
+        "id": "way/1148983832",
+        "element_id": 1148983832,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:39.496692",
+        "url": "https://www.openstreetmap.org/way/1148983832"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.92222685000002,
+          38.09534080000001
+        ]
+      },
+      "properties": {
+        "id": "way/1218054598",
+        "element_id": 1218054598,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:39.496692",
+        "url": "https://www.openstreetmap.org/way/1218054598"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.92222685000002,
+          38.09534080000001
+        ]
+      },
+      "properties": {
+        "id": "way/1218054598",
+        "element_id": 1218054598,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.496692",
+        "url": "https://www.openstreetmap.org/way/1218054598"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.92222685000002,
+          38.09534080000001
+        ]
+      },
+      "properties": {
+        "id": "way/1218054598",
+        "element_id": 1218054598,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:39.496692",
+        "url": "https://www.openstreetmap.org/way/1218054598"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.81509175925197,
+          40.27608428596216
+        ]
+      },
+      "properties": {
+        "id": "way/1323462411",
+        "element_id": 1323462411,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:39.496692",
+        "url": "https://www.openstreetmap.org/way/1323462411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.99241430000001,
+          38.16772075000001
+        ]
+      },
+      "properties": {
+        "id": "way/1323462412",
+        "element_id": 1323462412,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:39.497688",
+        "url": "https://www.openstreetmap.org/way/1323462412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.99241430000001,
+          38.16772075000001
+        ]
+      },
+      "properties": {
+        "id": "way/1323462412",
+        "element_id": 1323462412,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.497688",
+        "url": "https://www.openstreetmap.org/way/1323462412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.99241430000001,
+          38.16772075000001
+        ]
+      },
+      "properties": {
+        "id": "way/1323462412",
+        "element_id": 1323462412,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.498690",
+        "url": "https://www.openstreetmap.org/way/1323462412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.02286992474055,
+          38.17648374745063
+        ]
+      },
+      "properties": {
+        "id": "way/1353270039",
+        "element_id": 1353270039,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.499747",
+        "url": "https://www.openstreetmap.org/way/1353270039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4185397,
+          37.9237069
+        ]
+      },
+      "properties": {
+        "id": "node/12069357902",
+        "element_id": 12069357902,
+        "element_type": "node",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.501791",
+        "url": "https://www.openstreetmap.org/node/12069357902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4185397,
+          37.9237069
+        ]
+      },
+      "properties": {
+        "id": "node/12069357902",
+        "element_id": 12069357902,
+        "element_type": "node",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:39.501791",
+        "url": "https://www.openstreetmap.org/node/12069357902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4311407,
+          37.0701693
+        ]
+      },
+      "properties": {
+        "id": "node/12082789229",
+        "element_id": 12082789229,
+        "element_type": "node",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.501791",
+        "url": "https://www.openstreetmap.org/node/12082789229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4311407,
+          37.0701693
+        ]
+      },
+      "properties": {
+        "id": "node/12082789229",
+        "element_id": 12082789229,
+        "element_type": "node",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:39.501791",
+        "url": "https://www.openstreetmap.org/node/12082789229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5706249,
+          36.7690516
+        ]
+      },
+      "properties": {
+        "id": "node/12084736260",
+        "element_id": 12084736260,
+        "element_type": "node",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:50:39.501791",
+        "url": "https://www.openstreetmap.org/node/12084736260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5706249,
+          36.7690516
+        ]
+      },
+      "properties": {
+        "id": "node/12084736260",
+        "element_id": 12084736260,
+        "element_type": "node",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.501791",
+        "url": "https://www.openstreetmap.org/node/12084736260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5706249,
+          36.7690516
+        ]
+      },
+      "properties": {
+        "id": "node/12084736260",
+        "element_id": 12084736260,
+        "element_type": "node",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:50:39.501791",
+        "url": "https://www.openstreetmap.org/node/12084736260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.02286992474055,
+          38.17648374745063
+        ]
+      },
+      "properties": {
+        "id": "way/1353270039",
+        "element_id": 1353270039,
+        "element_type": "way",
+        "country": "Tajikistan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:50:39.501791",
+        "url": "https://www.openstreetmap.org/way/1353270039"
+      }
+    }
+  ]
+}

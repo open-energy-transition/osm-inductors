@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8643297604525,
+          1.3137071327629324
+        ]
+      },
+      "properties": {
+        "id": "way/614425190",
+        "element_id": 614425190,
+        "element_type": "way",
+        "country": "Singapore",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'EDPR APAC', 'plant:method': 'photovoltaic', 'plant:output:electricity': '7.2 MWp', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2023-07'}",
+        "timestamp": "2025-07-07 18:47:25.771953",
+        "url": "https://www.openstreetmap.org/way/614425190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8643297604525,
+          1.3137071327629324
+        ]
+      },
+      "properties": {
+        "id": "way/614425190",
+        "element_id": 614425190,
+        "element_type": "way",
+        "country": "Singapore",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "7.2 MWp",
+        "details": "Tag 'plant:output:electricity' has value '7.2 MWp' which could not be parsed",
+        "timestamp": "2025-07-07 18:47:25.771953",
+        "url": "https://www.openstreetmap.org/way/614425190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7945413526428,
+          1.4623596122381586
+        ]
+      },
+      "properties": {
+        "id": "way/911247377",
+        "element_id": 911247377,
+        "element_type": "way",
+        "country": "Singapore",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 13 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:25.771953",
+        "url": "https://www.openstreetmap.org/way/911247377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77194266109902,
+          1.446046309064979
+        ]
+      },
+      "properties": {
+        "id": "way/970629007",
+        "element_id": 970629007,
+        "element_type": "way",
+        "country": "Singapore",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:47:25.772956",
+        "url": "https://www.openstreetmap.org/way/970629007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.700505760919,
+          1.2598704334697108
+        ]
+      },
+      "properties": {
+        "id": "way/1147254944",
+        "element_id": 1147254944,
+        "element_type": "way",
+        "country": "Singapore",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:47:25.774331",
+        "url": "https://www.openstreetmap.org/way/1147254944"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.67073435613712,
+          1.2581981070094832
+        ]
+      },
+      "properties": {
+        "id": "way/1147254945",
+        "element_id": 1147254945,
+        "element_type": "way",
+        "country": "Singapore",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:47:25.774331",
+        "url": "https://www.openstreetmap.org/way/1147254945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.64455048488436,
+          1.3400221430937973
+        ]
+      },
+      "properties": {
+        "id": "way/1366163037",
+        "element_id": 1366163037,
+        "element_type": "way",
+        "country": "Singapore",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:25.774331",
+        "url": "https://www.openstreetmap.org/way/1366163037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.69781017960756,
+          1.2554246949018892
+        ]
+      },
+      "properties": {
+        "id": "way/1384560210",
+        "element_id": 1384560210,
+        "element_type": "way",
+        "country": "Singapore",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:25.774331",
+        "url": "https://www.openstreetmap.org/way/1384560210"
+      }
+    }
+  ]
+}

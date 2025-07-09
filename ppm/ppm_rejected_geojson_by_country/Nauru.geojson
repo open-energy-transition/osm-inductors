@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.9316061745744,
+          -0.543453485019066
+        ]
+      },
+      "properties": {
+        "id": "way/1039290319",
+        "element_id": 1039290319,
+        "element_type": "way",
+        "country": "Nauru",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Nauru Utilities', 'plant:method': 'photovoltaic', 'plant:output:electricity': '6 MW', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2021'}",
+        "timestamp": "2025-07-07 18:41:39.708380",
+        "url": "https://www.openstreetmap.org/way/1039290319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.9121777414723,
+          -0.5288724438060853
+        ]
+      },
+      "properties": {
+        "id": "way/133391325",
+        "element_id": 133391325,
+        "element_type": "way",
+        "country": "Nauru",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:39.708380",
+        "url": "https://www.openstreetmap.org/way/133391325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.9121777414723,
+          -0.5288724438060853
+        ]
+      },
+      "properties": {
+        "id": "way/133391325",
+        "element_id": 133391325,
+        "element_type": "way",
+        "country": "Nauru",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:39.708380",
+        "url": "https://www.openstreetmap.org/way/133391325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.91755659181104,
+          -0.5419401166711719
+        ]
+      },
+      "properties": {
+        "id": "way/903157847",
+        "element_id": 903157847,
+        "element_type": "way",
+        "country": "Nauru",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:39.708380",
+        "url": "https://www.openstreetmap.org/way/903157847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.91755659181104,
+          -0.5419401166711719
+        ]
+      },
+      "properties": {
+        "id": "way/903157847",
+        "element_id": 903157847,
+        "element_type": "way",
+        "country": "Nauru",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:39.708380",
+        "url": "https://www.openstreetmap.org/way/903157847"
+      }
+    }
+  ]
+}

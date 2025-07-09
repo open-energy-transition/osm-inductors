@@ -1,0 +1,709 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.11248272828456,
+          -5.243610829459466
+        ]
+      },
+      "properties": {
+        "id": "way/285711060",
+        "element_id": 285711060,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'frequency': '50', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:55.779042",
+        "url": "https://www.openstreetmap.org/way/285711060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.11248272828456,
+          -5.243610829459466
+        ]
+      },
+      "properties": {
+        "id": "way/285711060",
+        "element_id": 285711060,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'frequency': '50', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:55.779042",
+        "url": "https://www.openstreetmap.org/way/285711060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.77129456912292,
+          -5.911862212233289
+        ]
+      },
+      "properties": {
+        "id": "way/564427865",
+        "element_id": 564427865,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:55.779042",
+        "url": "https://www.openstreetmap.org/way/564427865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.77129456912292,
+          -5.911862212233289
+        ]
+      },
+      "properties": {
+        "id": "way/564427865",
+        "element_id": 564427865,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Hides GTE', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:55.780042",
+        "url": "https://www.openstreetmap.org/way/564427865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.96674814924893,
+          -6.240038106169807
+        ]
+      },
+      "properties": {
+        "id": "way/759156578",
+        "element_id": 759156578,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'landuse': 'industrial', 'plant:method': 'run-of-the-river', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:55.781042",
+        "url": "https://www.openstreetmap.org/way/759156578"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.96674814924893,
+          -6.240038106169807
+        ]
+      },
+      "properties": {
+        "id": "way/759156578",
+        "element_id": 759156578,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:55.781042",
+        "url": "https://www.openstreetmap.org/way/759156578"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.80468432284326,
+          -5.2175086684033705
+        ]
+      },
+      "properties": {
+        "id": "way/776764834",
+        "element_id": 776764834,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:55.782042",
+        "url": "https://www.openstreetmap.org/way/776764834"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.80468432284326,
+          -5.2175086684033705
+        ]
+      },
+      "properties": {
+        "id": "way/776764834",
+        "element_id": 776764834,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'landuse': 'industrial', 'name': 'Madang Power Plant', 'operator': 'PNG Power', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:55.783384",
+        "url": "https://www.openstreetmap.org/way/776764834"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.6294116746801,
+          -3.065128860541481
+        ]
+      },
+      "properties": {
+        "id": "way/808015640",
+        "element_id": 808015640,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:55.783384",
+        "url": "https://www.openstreetmap.org/way/808015640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.6294116746801,
+          -3.065128860541481
+        ]
+      },
+      "properties": {
+        "id": "way/808015640",
+        "element_id": 808015640,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:55.783384",
+        "url": "https://www.openstreetmap.org/way/808015640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.45925855908254,
+          -10.31484072929824
+        ]
+      },
+      "properties": {
+        "id": "way/894255194",
+        "element_id": 894255194,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:55.784383",
+        "url": "https://www.openstreetmap.org/way/894255194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.45925855908254,
+          -10.31484072929824
+        ]
+      },
+      "properties": {
+        "id": "way/894255194",
+        "element_id": 894255194,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Alotau Power Station', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:55.785382",
+        "url": "https://www.openstreetmap.org/way/894255194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.24732753537089,
+          -4.331453084840493
+        ]
+      },
+      "properties": {
+        "id": "way/896082925",
+        "element_id": 896082925,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:55.785382",
+        "url": "https://www.openstreetmap.org/way/896082925"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.65718669742884,
+          -6.134089090704495
+        ]
+      },
+      "properties": {
+        "id": "way/1023123441",
+        "element_id": 1023123441,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:55.787383",
+        "url": "https://www.openstreetmap.org/way/1023123441"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.65718669742884,
+          -6.134089090704495
+        ]
+      },
+      "properties": {
+        "id": "way/1023123441",
+        "element_id": 1023123441,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Mendi', 'landuse': 'industrial', 'operator': 'PNG Power Ltd.', 'plant:source': 'biomass', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:55.787383",
+        "url": "https://www.openstreetmap.org/way/1023123441"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.24732753537089,
+          -4.331453084840493
+        ]
+      },
+      "properties": {
+        "id": "way/896082925",
+        "element_id": 896082925,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Kokopo Power Plant', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:55.787383",
+        "url": "https://www.openstreetmap.org/way/896082925"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.65718669742884,
+          -6.134089090704495
+        ]
+      },
+      "properties": {
+        "id": "way/1023123441",
+        "element_id": 1023123441,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Mendi', 'landuse': 'industrial', 'operator': 'PNG Power Ltd.', 'plant:source': 'biomass', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:55.789385",
+        "url": "https://www.openstreetmap.org/way/1023123441"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.34209240753688,
+          -9.41109502766602
+        ]
+      },
+      "properties": {
+        "id": "way/1201738001",
+        "element_id": 1201738001,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:55.789385",
+        "url": "https://www.openstreetmap.org/way/1201738001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.36465844883028,
+          -9.418042053028389
+        ]
+      },
+      "properties": {
+        "id": "way/1201738002",
+        "element_id": 1201738002,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:55.790383",
+        "url": "https://www.openstreetmap.org/way/1201738002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3899198318397,
+          -9.425838347519509
+        ]
+      },
+      "properties": {
+        "id": "way/1201738003",
+        "element_id": 1201738003,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:55.790383",
+        "url": "https://www.openstreetmap.org/way/1201738003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.0215657873888,
+          -2.638923555128341
+        ]
+      },
+      "properties": {
+        "id": "way/1265739698",
+        "element_id": 1265739698,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Pikiput Mining Camp', 'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:55.790383",
+        "url": "https://www.openstreetmap.org/way/1265739698"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.0215657873888,
+          -2.638923555128341
+        ]
+      },
+      "properties": {
+        "id": "way/1265739698",
+        "element_id": 1265739698,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:55.790383",
+        "url": "https://www.openstreetmap.org/way/1265739698"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.02143063249676,
+          -2.638862974247245
+        ]
+      },
+      "properties": {
+        "id": "way/1266092170",
+        "element_id": 1266092170,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:55.790383",
+        "url": "https://www.openstreetmap.org/way/1266092170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.02143063249676,
+          -2.638862974247245
+        ]
+      },
+      "properties": {
+        "id": "way/1266092170",
+        "element_id": 1266092170,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:55.790383",
+        "url": "https://www.openstreetmap.org/way/1266092170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6589872763451,
+          -3.573369097464
+        ]
+      },
+      "properties": {
+        "id": "way/1271101238",
+        "element_id": 1271101238,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:55.790383",
+        "url": "https://www.openstreetmap.org/way/1271101238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.58311948148932,
+          -4.071334780682335
+        ]
+      },
+      "properties": {
+        "id": "way/1280580042",
+        "element_id": 1280580042,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:55.790383",
+        "url": "https://www.openstreetmap.org/way/1280580042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.58311948148932,
+          -4.071334780682335
+        ]
+      },
+      "properties": {
+        "id": "way/1280580042",
+        "element_id": 1280580042,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:55.790383",
+        "url": "https://www.openstreetmap.org/way/1280580042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.29696398487965,
+          -6.123218710786888
+        ]
+      },
+      "properties": {
+        "id": "way/1372092021",
+        "element_id": 1372092021,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:55.791383",
+        "url": "https://www.openstreetmap.org/way/1372092021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.22932933564817,
+          -5.269625864475638
+        ]
+      },
+      "properties": {
+        "id": "way/1372107618",
+        "element_id": 1372107618,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:55.791383",
+        "url": "https://www.openstreetmap.org/way/1372107618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.99615966504032,
+          -6.725502052157856
+        ]
+      },
+      "properties": {
+        "id": "way/1373697812",
+        "element_id": 1373697812,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:55.791383",
+        "url": "https://www.openstreetmap.org/way/1373697812"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2536245333118,
+          -8.746906910881894
+        ]
+      },
+      "properties": {
+        "id": "way/1381078567",
+        "element_id": 1381078567,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:55.791383",
+        "url": "https://www.openstreetmap.org/way/1381078567"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7973135636956,
+          -2.587021829255366
+        ]
+      },
+      "properties": {
+        "id": "way/1382976108",
+        "element_id": 1382976108,
+        "element_type": "way",
+        "country": "Papua New Guinea",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:55.791383",
+        "url": "https://www.openstreetmap.org/way/1382976108"
+      }
+    }
+  ]
+}

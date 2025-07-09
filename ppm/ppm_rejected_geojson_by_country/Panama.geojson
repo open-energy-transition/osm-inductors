@@ -1,0 +1,2205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.55165670693306,
+          8.268598985058203
+        ]
+      },
+      "properties": {
+        "id": "relation/12873950",
+        "element_id": 12873950,
+        "element_type": "relation",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:43:51.924553",
+        "url": "https://www.openstreetmap.org/relation/12873950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.55165670693306,
+          8.268598985058203
+        ]
+      },
+      "properties": {
+        "id": "relation/12873950",
+        "element_id": 12873950,
+        "element_type": "relation",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:51.924553",
+        "url": "https://www.openstreetmap.org/relation/12873950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.83979721973407,
+          8.443522673325763
+        ]
+      },
+      "properties": {
+        "id": "relation/14180169",
+        "element_id": 14180169,
+        "element_type": "relation",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.925559",
+        "url": "https://www.openstreetmap.org/relation/14180169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.83979721973407,
+          8.443522673325763
+        ]
+      },
+      "properties": {
+        "id": "relation/14180169",
+        "element_id": 14180169,
+        "element_type": "relation",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:43:51.925559",
+        "url": "https://www.openstreetmap.org/relation/14180169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.83979721973407,
+          8.443522673325763
+        ]
+      },
+      "properties": {
+        "id": "relation/14180169",
+        "element_id": 14180169,
+        "element_type": "relation",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:43:51.926557",
+        "url": "https://www.openstreetmap.org/relation/14180169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3508250453339,
+          8.363945335776064
+        ]
+      },
+      "properties": {
+        "id": "relation/15981278",
+        "element_id": 15981278,
+        "element_type": "relation",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:43:51.927553",
+        "url": "https://www.openstreetmap.org/relation/15981278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3508250453339,
+          8.363945335776064
+        ]
+      },
+      "properties": {
+        "id": "relation/15981278",
+        "element_id": 15981278,
+        "element_type": "relation",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:51.927553",
+        "url": "https://www.openstreetmap.org/relation/15981278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33923960412689,
+          7.88362605954289
+        ]
+      },
+      "properties": {
+        "id": "relation/16264240",
+        "element_id": 16264240,
+        "element_type": "relation",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:43:51.928552",
+        "url": "https://www.openstreetmap.org/relation/16264240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33923960412689,
+          7.88362605954289
+        ]
+      },
+      "properties": {
+        "id": "relation/16264240",
+        "element_id": 16264240,
+        "element_type": "relation",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:51.928552",
+        "url": "https://www.openstreetmap.org/relation/16264240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.80692410130045,
+          8.418994553120699
+        ]
+      },
+      "properties": {
+        "id": "relation/16266315",
+        "element_id": 16266315,
+        "element_type": "relation",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:43:51.930055",
+        "url": "https://www.openstreetmap.org/relation/16266315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.80692410130045,
+          8.418994553120699
+        ]
+      },
+      "properties": {
+        "id": "relation/16266315",
+        "element_id": 16266315,
+        "element_type": "relation",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:51.930055",
+        "url": "https://www.openstreetmap.org/relation/16266315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34510477301629,
+          8.370081272861436
+        ]
+      },
+      "properties": {
+        "id": "relation/16328968",
+        "element_id": 16328968,
+        "element_type": "relation",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:43:51.930055",
+        "url": "https://www.openstreetmap.org/relation/16328968"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34510477301629,
+          8.370081272861436
+        ]
+      },
+      "properties": {
+        "id": "relation/16328968",
+        "element_id": 16328968,
+        "element_type": "relation",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:51.930055",
+        "url": "https://www.openstreetmap.org/relation/16328968"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3488211,
+          8.373870100000001
+        ]
+      },
+      "properties": {
+        "id": "relation/16328969",
+        "element_id": 16328969,
+        "element_type": "relation",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:43:51.931060",
+        "url": "https://www.openstreetmap.org/relation/16328969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3488211,
+          8.373870100000001
+        ]
+      },
+      "properties": {
+        "id": "relation/16328969",
+        "element_id": 16328969,
+        "element_type": "relation",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:51.931060",
+        "url": "https://www.openstreetmap.org/relation/16328969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7213238665266,
+          8.190491175640673
+        ]
+      },
+      "properties": {
+        "id": "relation/16329060",
+        "element_id": 16329060,
+        "element_type": "relation",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:43:51.932060",
+        "url": "https://www.openstreetmap.org/relation/16329060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7213238665266,
+          8.190491175640673
+        ]
+      },
+      "properties": {
+        "id": "relation/16329060",
+        "element_id": 16329060,
+        "element_type": "relation",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:51.932060",
+        "url": "https://www.openstreetmap.org/relation/16329060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34166276342603,
+          8.422324370822773
+        ]
+      },
+      "properties": {
+        "id": "relation/18314359",
+        "element_id": 18314359,
+        "element_type": "relation",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:43:51.932060",
+        "url": "https://www.openstreetmap.org/relation/18314359"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34166276342603,
+          8.422324370822773
+        ]
+      },
+      "properties": {
+        "id": "relation/18314359",
+        "element_id": 18314359,
+        "element_type": "relation",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:51.932060",
+        "url": "https://www.openstreetmap.org/relation/18314359"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.36454082752039,
+          8.716527441391857
+        ]
+      },
+      "properties": {
+        "id": "way/192921168",
+        "element_id": 192921168,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.933318",
+        "url": "https://www.openstreetmap.org/way/192921168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.64543905916715,
+          8.800982767243237
+        ]
+      },
+      "properties": {
+        "id": "way/227832791",
+        "element_id": 227832791,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.933318",
+        "url": "https://www.openstreetmap.org/way/227832791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34758382945202,
+          8.677818524171812
+        ]
+      },
+      "properties": {
+        "id": "way/228036016",
+        "element_id": 228036016,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.934326",
+        "url": "https://www.openstreetmap.org/way/228036016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29788755000001,
+          8.5431035
+        ]
+      },
+      "properties": {
+        "id": "way/330647382",
+        "element_id": 330647382,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.934326",
+        "url": "https://www.openstreetmap.org/way/330647382"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35495019999999,
+          8.517448833333333
+        ]
+      },
+      "properties": {
+        "id": "way/557534946",
+        "element_id": 557534946,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.935326",
+        "url": "https://www.openstreetmap.org/way/557534946"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35495019999999,
+          8.517448833333333
+        ]
+      },
+      "properties": {
+        "id": "way/557534946",
+        "element_id": 557534946,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.935326",
+        "url": "https://www.openstreetmap.org/way/557534946"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59390791679408,
+          8.214437026350376
+        ]
+      },
+      "properties": {
+        "id": "way/640515502",
+        "element_id": 640515502,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.935326",
+        "url": "https://www.openstreetmap.org/way/640515502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.56123300702323,
+          8.042104033021458
+        ]
+      },
+      "properties": {
+        "id": "way/659552671",
+        "element_id": 659552671,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.935326",
+        "url": "https://www.openstreetmap.org/way/659552671"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.56123300702323,
+          8.042104033021458
+        ]
+      },
+      "properties": {
+        "id": "way/659552671",
+        "element_id": 659552671,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.936326",
+        "url": "https://www.openstreetmap.org/way/659552671"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.56123300702323,
+          8.042104033021458
+        ]
+      },
+      "properties": {
+        "id": "way/659552671",
+        "element_id": 659552671,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.937326",
+        "url": "https://www.openstreetmap.org/way/659552671"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.79288884498175,
+          8.57965749807251
+        ]
+      },
+      "properties": {
+        "id": "way/660932948",
+        "element_id": 660932948,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.937326",
+        "url": "https://www.openstreetmap.org/way/660932948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2999604893031,
+          8.50278453185422
+        ]
+      },
+      "properties": {
+        "id": "way/673465883",
+        "element_id": 673465883,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.937326",
+        "url": "https://www.openstreetmap.org/way/673465883"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.78668889073496,
+          8.594524447756182
+        ]
+      },
+      "properties": {
+        "id": "way/746826523",
+        "element_id": 746826523,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.937326",
+        "url": "https://www.openstreetmap.org/way/746826523"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71344107670353,
+          8.181605650504796
+        ]
+      },
+      "properties": {
+        "id": "way/771962488",
+        "element_id": 771962488,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.938327",
+        "url": "https://www.openstreetmap.org/way/771962488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71344107670353,
+          8.181605650504796
+        ]
+      },
+      "properties": {
+        "id": "way/771962488",
+        "element_id": 771962488,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.938327",
+        "url": "https://www.openstreetmap.org/way/771962488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71344107670353,
+          8.181605650504796
+        ]
+      },
+      "properties": {
+        "id": "way/771962488",
+        "element_id": 771962488,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.939329",
+        "url": "https://www.openstreetmap.org/way/771962488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71093555668085,
+          8.185146448151333
+        ]
+      },
+      "properties": {
+        "id": "way/771962489",
+        "element_id": 771962489,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.939329",
+        "url": "https://www.openstreetmap.org/way/771962489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71093555668085,
+          8.185146448151333
+        ]
+      },
+      "properties": {
+        "id": "way/771962489",
+        "element_id": 771962489,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.939329",
+        "url": "https://www.openstreetmap.org/way/771962489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.71093555668085,
+          8.185146448151333
+        ]
+      },
+      "properties": {
+        "id": "way/771962489",
+        "element_id": 771962489,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.940832",
+        "url": "https://www.openstreetmap.org/way/771962489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.72886902196532,
+          8.188264598302318
+        ]
+      },
+      "properties": {
+        "id": "way/804943246",
+        "element_id": 804943246,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.941837",
+        "url": "https://www.openstreetmap.org/way/804943246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.72886902196532,
+          8.188264598302318
+        ]
+      },
+      "properties": {
+        "id": "way/804943246",
+        "element_id": 804943246,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.941837",
+        "url": "https://www.openstreetmap.org/way/804943246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.72886902196532,
+          8.188264598302318
+        ]
+      },
+      "properties": {
+        "id": "way/804943246",
+        "element_id": 804943246,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.942840",
+        "url": "https://www.openstreetmap.org/way/804943246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.94897356052522,
+          8.155370585001496
+        ]
+      },
+      "properties": {
+        "id": "way/804973969",
+        "element_id": 804973969,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.942840",
+        "url": "https://www.openstreetmap.org/way/804973969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.94897356052522,
+          8.155370585001496
+        ]
+      },
+      "properties": {
+        "id": "way/804973969",
+        "element_id": 804973969,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.942840",
+        "url": "https://www.openstreetmap.org/way/804973969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.94897356052522,
+          8.155370585001496
+        ]
+      },
+      "properties": {
+        "id": "way/804973969",
+        "element_id": 804973969,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.944840",
+        "url": "https://www.openstreetmap.org/way/804973969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4300516,
+          8.609697299999999
+        ]
+      },
+      "properties": {
+        "id": "way/841974996",
+        "element_id": 841974996,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.944840",
+        "url": "https://www.openstreetmap.org/way/841974996"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.74377218269488,
+          8.803259982799046
+        ]
+      },
+      "properties": {
+        "id": "way/872148961",
+        "element_id": 872148961,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.944840",
+        "url": "https://www.openstreetmap.org/way/872148961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.82186033957753,
+          8.769085948349971
+        ]
+      },
+      "properties": {
+        "id": "way/872154225",
+        "element_id": 872154225,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.944840",
+        "url": "https://www.openstreetmap.org/way/872154225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35637774066602,
+          8.423585493900708
+        ]
+      },
+      "properties": {
+        "id": "way/896332474",
+        "element_id": 896332474,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': '10 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.944840",
+        "url": "https://www.openstreetmap.org/way/896332474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4133363126667,
+          8.45556405345114
+        ]
+      },
+      "properties": {
+        "id": "way/896332515",
+        "element_id": 896332515,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.945840",
+        "url": "https://www.openstreetmap.org/way/896332515"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4133363126667,
+          8.45556405345114
+        ]
+      },
+      "properties": {
+        "id": "way/896332515",
+        "element_id": 896332515,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:51.945840",
+        "url": "https://www.openstreetmap.org/way/896332515"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.69247255150196,
+          8.217259340830589
+        ]
+      },
+      "properties": {
+        "id": "way/957195287",
+        "element_id": 957195287,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.945840",
+        "url": "https://www.openstreetmap.org/way/957195287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.69247255150196,
+          8.217259340830589
+        ]
+      },
+      "properties": {
+        "id": "way/957195287",
+        "element_id": 957195287,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.945840",
+        "url": "https://www.openstreetmap.org/way/957195287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.69247255150196,
+          8.217259340830589
+        ]
+      },
+      "properties": {
+        "id": "way/957195287",
+        "element_id": 957195287,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.948009",
+        "url": "https://www.openstreetmap.org/way/957195287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6686616869333,
+          8.171818192227715
+        ]
+      },
+      "properties": {
+        "id": "way/957201059",
+        "element_id": 957201059,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.948009",
+        "url": "https://www.openstreetmap.org/way/957201059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6686616869333,
+          8.171818192227715
+        ]
+      },
+      "properties": {
+        "id": "way/957201059",
+        "element_id": 957201059,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:51.948009",
+        "url": "https://www.openstreetmap.org/way/957201059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66377601524253,
+          8.541782306676106
+        ]
+      },
+      "properties": {
+        "id": "way/957583363",
+        "element_id": 957583363,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.948009",
+        "url": "https://www.openstreetmap.org/way/957583363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66377601524253,
+          8.541782306676106
+        ]
+      },
+      "properties": {
+        "id": "way/957583363",
+        "element_id": 957583363,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.948009",
+        "url": "https://www.openstreetmap.org/way/957583363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66377601524253,
+          8.541782306676106
+        ]
+      },
+      "properties": {
+        "id": "way/957583363",
+        "element_id": 957583363,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.950017",
+        "url": "https://www.openstreetmap.org/way/957583363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.58297188377239,
+          8.564845399058733
+        ]
+      },
+      "properties": {
+        "id": "way/958225930",
+        "element_id": 958225930,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.950017",
+        "url": "https://www.openstreetmap.org/way/958225930"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40698545000001,
+          8.502096
+        ]
+      },
+      "properties": {
+        "id": "way/1026766744",
+        "element_id": 1026766744,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.951017",
+        "url": "https://www.openstreetmap.org/way/1026766744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40854178448674,
+          8.535044813783387
+        ]
+      },
+      "properties": {
+        "id": "way/1026766747",
+        "element_id": 1026766747,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.951017",
+        "url": "https://www.openstreetmap.org/way/1026766747"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42368154863195,
+          8.57300028407968
+        ]
+      },
+      "properties": {
+        "id": "way/1026766750",
+        "element_id": 1026766750,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.951017",
+        "url": "https://www.openstreetmap.org/way/1026766750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34389726563519,
+          8.42384833430234
+        ]
+      },
+      "properties": {
+        "id": "way/1026766752",
+        "element_id": 1026766752,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.951017",
+        "url": "https://www.openstreetmap.org/way/1026766752"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3331496,
+          8.455285000000002
+        ]
+      },
+      "properties": {
+        "id": "way/1026766753",
+        "element_id": 1026766753,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.951017",
+        "url": "https://www.openstreetmap.org/way/1026766753"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29885354978992,
+          8.690553816494603
+        ]
+      },
+      "properties": {
+        "id": "way/1026766755",
+        "element_id": 1026766755,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.951017",
+        "url": "https://www.openstreetmap.org/way/1026766755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29885354978992,
+          8.690553816494603
+        ]
+      },
+      "properties": {
+        "id": "way/1026766755",
+        "element_id": 1026766755,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "9.89",
+        "details": "Tag 'plant:output:electricity' has value '9.89' which could not be parsed",
+        "timestamp": "2025-07-07 18:43:51.951017",
+        "url": "https://www.openstreetmap.org/way/1026766755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35039490000001,
+          8.648575600000003
+        ]
+      },
+      "properties": {
+        "id": "way/1026766757",
+        "element_id": 1026766757,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.951017",
+        "url": "https://www.openstreetmap.org/way/1026766757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.36093462511272,
+          8.629376696192262
+        ]
+      },
+      "properties": {
+        "id": "way/1026766758",
+        "element_id": 1026766758,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.951017",
+        "url": "https://www.openstreetmap.org/way/1026766758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2706139694491,
+          8.322652598044092
+        ]
+      },
+      "properties": {
+        "id": "way/1026766760",
+        "element_id": 1026766760,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.952017",
+        "url": "https://www.openstreetmap.org/way/1026766760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8849264871179,
+          9.177073298846755
+        ]
+      },
+      "properties": {
+        "id": "way/1026766762",
+        "element_id": 1026766762,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.952017",
+        "url": "https://www.openstreetmap.org/way/1026766762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5757473849864,
+          8.435267854528519
+        ]
+      },
+      "properties": {
+        "id": "way/1026766764",
+        "element_id": 1026766764,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.952017",
+        "url": "https://www.openstreetmap.org/way/1026766764"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.57785895,
+          8.467262699999997
+        ]
+      },
+      "properties": {
+        "id": "way/1026766765",
+        "element_id": 1026766765,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.952017",
+        "url": "https://www.openstreetmap.org/way/1026766765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.59880499999998,
+          8.514835549999999
+        ]
+      },
+      "properties": {
+        "id": "way/1026766766",
+        "element_id": 1026766766,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.952017",
+        "url": "https://www.openstreetmap.org/way/1026766766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.60701255,
+          8.540219149999999
+        ]
+      },
+      "properties": {
+        "id": "way/1026766767",
+        "element_id": 1026766767,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.952017",
+        "url": "https://www.openstreetmap.org/way/1026766767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.60310794260023,
+          8.56352101686443
+        ]
+      },
+      "properties": {
+        "id": "way/1026766768",
+        "element_id": 1026766768,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.952017",
+        "url": "https://www.openstreetmap.org/way/1026766768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.83620595000001,
+          8.72801775
+        ]
+      },
+      "properties": {
+        "id": "way/1026766775",
+        "element_id": 1026766775,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.953017",
+        "url": "https://www.openstreetmap.org/way/1026766775"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.81718710096293,
+          8.6681347676938
+        ]
+      },
+      "properties": {
+        "id": "way/1026766776",
+        "element_id": 1026766776,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.953017",
+        "url": "https://www.openstreetmap.org/way/1026766776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.59351670000001,
+          8.612810300000001
+        ]
+      },
+      "properties": {
+        "id": "way/1028146806",
+        "element_id": 1028146806,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.953017",
+        "url": "https://www.openstreetmap.org/way/1028146806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.58483332866088,
+          8.62434082070293
+        ]
+      },
+      "properties": {
+        "id": "way/1028146808",
+        "element_id": 1028146808,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.953017",
+        "url": "https://www.openstreetmap.org/way/1028146808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.59410441431241,
+          8.588165443041682
+        ]
+      },
+      "properties": {
+        "id": "way/1028146810",
+        "element_id": 1028146810,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.953017",
+        "url": "https://www.openstreetmap.org/way/1028146810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.99055957549795,
+          8.245583947767834
+        ]
+      },
+      "properties": {
+        "id": "way/1116422146",
+        "element_id": 1116422146,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.954020",
+        "url": "https://www.openstreetmap.org/way/1116422146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.99055957549795,
+          8.245583947767834
+        ]
+      },
+      "properties": {
+        "id": "way/1116422146",
+        "element_id": 1116422146,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:51.954020",
+        "url": "https://www.openstreetmap.org/way/1116422146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.58396907650399,
+          8.565778512103348
+        ]
+      },
+      "properties": {
+        "id": "way/1190827483",
+        "element_id": 1190827483,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.954020",
+        "url": "https://www.openstreetmap.org/way/1190827483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.58396907650399,
+          8.565778512103348
+        ]
+      },
+      "properties": {
+        "id": "way/1190827483",
+        "element_id": 1190827483,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:51.954020",
+        "url": "https://www.openstreetmap.org/way/1190827483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.58355824005072,
+          8.565044313108285
+        ]
+      },
+      "properties": {
+        "id": "way/1190827484",
+        "element_id": 1190827484,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.954020",
+        "url": "https://www.openstreetmap.org/way/1190827484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.58355824005072,
+          8.565044313108285
+        ]
+      },
+      "properties": {
+        "id": "way/1190827484",
+        "element_id": 1190827484,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:51.954020",
+        "url": "https://www.openstreetmap.org/way/1190827484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.87288889450717,
+          8.58872626128702
+        ]
+      },
+      "properties": {
+        "id": "way/1274643602",
+        "element_id": 1274643602,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.955019",
+        "url": "https://www.openstreetmap.org/way/1274643602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.87288889450717,
+          8.58872626128702
+        ]
+      },
+      "properties": {
+        "id": "way/1274643602",
+        "element_id": 1274643602,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:51.955019",
+        "url": "https://www.openstreetmap.org/way/1274643602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8218906789986,
+          9.378590700628404
+        ]
+      },
+      "properties": {
+        "id": "way/1280711852",
+        "element_id": 1280711852,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:43:51.955019",
+        "url": "https://www.openstreetmap.org/way/1280711852"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.93357186986141,
+          8.092911279335423
+        ]
+      },
+      "properties": {
+        "id": "way/1284941743",
+        "element_id": 1284941743,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.956022",
+        "url": "https://www.openstreetmap.org/way/1284941743"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.93357186986141,
+          8.092911279335423
+        ]
+      },
+      "properties": {
+        "id": "way/1284941743",
+        "element_id": 1284941743,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.956022",
+        "url": "https://www.openstreetmap.org/way/1284941743"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.55980562523946,
+          8.247955838231677
+        ]
+      },
+      "properties": {
+        "id": "way/1299838720",
+        "element_id": 1299838720,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Naturgy', 'operator': 'Naturgy', 'operator:wikidata': 'Q474690', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.956022",
+        "url": "https://www.openstreetmap.org/way/1299838720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92749929710763,
+          8.6319672461025
+        ]
+      },
+      "properties": {
+        "id": "way/1321758059",
+        "element_id": 1321758059,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.956022",
+        "url": "https://www.openstreetmap.org/way/1321758059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92749929710763,
+          8.6319672461025
+        ]
+      },
+      "properties": {
+        "id": "way/1321758059",
+        "element_id": 1321758059,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.956022",
+        "url": "https://www.openstreetmap.org/way/1321758059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92749929710763,
+          8.6319672461025
+        ]
+      },
+      "properties": {
+        "id": "way/1321758059",
+        "element_id": 1321758059,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.957527",
+        "url": "https://www.openstreetmap.org/way/1321758059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36967978407839,
+          8.666836956305572
+        ]
+      },
+      "properties": {
+        "id": "way/1380971876",
+        "element_id": 1380971876,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.958531",
+        "url": "https://www.openstreetmap.org/way/1380971876"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36967978407839,
+          8.666836956305572
+        ]
+      },
+      "properties": {
+        "id": "way/1380971876",
+        "element_id": 1380971876,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.958531",
+        "url": "https://www.openstreetmap.org/way/1380971876"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36967978407839,
+          8.666836956305572
+        ]
+      },
+      "properties": {
+        "id": "way/1380971876",
+        "element_id": 1380971876,
+        "element_type": "way",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:43:51.959531",
+        "url": "https://www.openstreetmap.org/way/1380971876"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2616875,
+          8.6789749
+        ]
+      },
+      "properties": {
+        "id": "node/9466552931",
+        "element_id": 9466552931,
+        "element_type": "node",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.960532",
+        "url": "https://www.openstreetmap.org/node/9466552931"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6192796,
+          9.3400582
+        ]
+      },
+      "properties": {
+        "id": "node/9466553415",
+        "element_id": 9466553415,
+        "element_type": "node",
+        "country": "Panama",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:43:51.960532",
+        "url": "https://www.openstreetmap.org/node/9466553415"
+      }
+    }
+  ]
+}

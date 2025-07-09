@@ -1,0 +1,1633 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.08146768435937,
+          6.230184731938784
+        ]
+      },
+      "properties": {
+        "id": "relation/16235664",
+        "element_id": 16235664,
+        "element_type": "relation",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:49:15.670932",
+        "url": "https://www.openstreetmap.org/relation/16235664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.08146768435937,
+          6.230184731938784
+        ]
+      },
+      "properties": {
+        "id": "relation/16235664",
+        "element_id": 16235664,
+        "element_type": "relation",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:15.670932",
+        "url": "https://www.openstreetmap.org/relation/16235664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.65238811356284,
+          7.398849122762372
+        ]
+      },
+      "properties": {
+        "id": "way/397114498",
+        "element_id": 397114498,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.676931",
+        "url": "https://www.openstreetmap.org/way/397114498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.56367185077868,
+          5.985179348779536
+        ]
+      },
+      "properties": {
+        "id": "way/427700669",
+        "element_id": 427700669,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.676931",
+        "url": "https://www.openstreetmap.org/way/427700669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.56367185077868,
+          5.985179348779536
+        ]
+      },
+      "properties": {
+        "id": "way/427700669",
+        "element_id": 427700669,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:15.676931",
+        "url": "https://www.openstreetmap.org/way/427700669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.81637920190265,
+          7.318107553101099
+        ]
+      },
+      "properties": {
+        "id": "way/496279625",
+        "element_id": 496279625,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.676931",
+        "url": "https://www.openstreetmap.org/way/496279625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.81637920190265,
+          7.318107553101099
+        ]
+      },
+      "properties": {
+        "id": "way/496279625",
+        "element_id": 496279625,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.676931",
+        "url": "https://www.openstreetmap.org/way/496279625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.81637920190265,
+          7.318107553101099
+        ]
+      },
+      "properties": {
+        "id": "way/496279625",
+        "element_id": 496279625,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.678931",
+        "url": "https://www.openstreetmap.org/way/496279625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.45202656122062,
+          6.702974856883625
+        ]
+      },
+      "properties": {
+        "id": "way/526857573",
+        "element_id": 526857573,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.678931",
+        "url": "https://www.openstreetmap.org/way/526857573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.45202656122062,
+          6.702974856883625
+        ]
+      },
+      "properties": {
+        "id": "way/526857573",
+        "element_id": 526857573,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:15.678931",
+        "url": "https://www.openstreetmap.org/way/526857573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.45659672388187,
+          6.977914716000678
+        ]
+      },
+      "properties": {
+        "id": "way/535700633",
+        "element_id": 535700633,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.679931",
+        "url": "https://www.openstreetmap.org/way/535700633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25162139999999,
+          6.6475607000000005
+        ]
+      },
+      "properties": {
+        "id": "way/548271590",
+        "element_id": 548271590,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.680932",
+        "url": "https://www.openstreetmap.org/way/548271590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25162139999999,
+          6.6475607000000005
+        ]
+      },
+      "properties": {
+        "id": "way/548271590",
+        "element_id": 548271590,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:15.680932",
+        "url": "https://www.openstreetmap.org/way/548271590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.85229885000001,
+          6.7243689
+        ]
+      },
+      "properties": {
+        "id": "way/552411148",
+        "element_id": 552411148,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.680932",
+        "url": "https://www.openstreetmap.org/way/552411148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.85229885000001,
+          6.7243689
+        ]
+      },
+      "properties": {
+        "id": "way/552411148",
+        "element_id": 552411148,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:15.680932",
+        "url": "https://www.openstreetmap.org/way/552411148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.63583526615558,
+          6.821934150865563
+        ]
+      },
+      "properties": {
+        "id": "way/587619427",
+        "element_id": 587619427,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.680932",
+        "url": "https://www.openstreetmap.org/way/587619427"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.63583526615558,
+          6.821934150865563
+        ]
+      },
+      "properties": {
+        "id": "way/587619427",
+        "element_id": 587619427,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'name': 'BOGO Power Mini Hydro-Plant', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.682931",
+        "url": "https://www.openstreetmap.org/way/587619427"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7697581,
+          7.6997279
+        ]
+      },
+      "properties": {
+        "id": "way/813476887",
+        "element_id": 813476887,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.683931",
+        "url": "https://www.openstreetmap.org/way/813476887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27965491368113,
+          6.615814859145044
+        ]
+      },
+      "properties": {
+        "id": "way/822809366",
+        "element_id": 822809366,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.683931",
+        "url": "https://www.openstreetmap.org/way/822809366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.42440986490246,
+          6.984734247280133
+        ]
+      },
+      "properties": {
+        "id": "way/836493190",
+        "element_id": 836493190,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.683931",
+        "url": "https://www.openstreetmap.org/way/836493190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.65369980000001,
+          7.579729599999999
+        ]
+      },
+      "properties": {
+        "id": "way/932287622",
+        "element_id": 932287622,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.683931",
+        "url": "https://www.openstreetmap.org/way/932287622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2361615311558,
+          7.975565688327593
+        ]
+      },
+      "properties": {
+        "id": "way/1002398878",
+        "element_id": 1002398878,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'plant:type': 'solar_photovoltaic_panel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.684931",
+        "url": "https://www.openstreetmap.org/way/1002398878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2361615311558,
+          7.975565688327593
+        ]
+      },
+      "properties": {
+        "id": "way/1002398878",
+        "element_id": 1002398878,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'plant:type': 'solar_photovoltaic_panel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.686097",
+        "url": "https://www.openstreetmap.org/way/1002398878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.38281178269214,
+          7.981160416618595
+        ]
+      },
+      "properties": {
+        "id": "way/1021880302",
+        "element_id": 1021880302,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.687094",
+        "url": "https://www.openstreetmap.org/way/1021880302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.38281178269214,
+          7.981160416618595
+        ]
+      },
+      "properties": {
+        "id": "way/1021880302",
+        "element_id": 1021880302,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:15.687094",
+        "url": "https://www.openstreetmap.org/way/1021880302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.05870339067278,
+          7.034302453275167
+        ]
+      },
+      "properties": {
+        "id": "way/1060180720",
+        "element_id": 1060180720,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.687094",
+        "url": "https://www.openstreetmap.org/way/1060180720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.05870339067278,
+          7.034302453275167
+        ]
+      },
+      "properties": {
+        "id": "way/1060180720",
+        "element_id": 1060180720,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'name': 'Mini Hydropower plant', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.689094",
+        "url": "https://www.openstreetmap.org/way/1060180720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.29484867999095,
+          6.82201549911682
+        ]
+      },
+      "properties": {
+        "id": "way/1078017455",
+        "element_id": 1078017455,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.689094",
+        "url": "https://www.openstreetmap.org/way/1078017455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.29484867999095,
+          6.82201549911682
+        ]
+      },
+      "properties": {
+        "id": "way/1078017455",
+        "element_id": 1078017455,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Kalawaaragama Power Plant', 'plant:source': 'biogas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.690583",
+        "url": "https://www.openstreetmap.org/way/1078017455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.00026216201823,
+          6.683384165401283
+        ]
+      },
+      "properties": {
+        "id": "way/1112644384",
+        "element_id": 1112644384,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.691598",
+        "url": "https://www.openstreetmap.org/way/1112644384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.00026216201823,
+          6.683384165401283
+        ]
+      },
+      "properties": {
+        "id": "way/1112644384",
+        "element_id": 1112644384,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.691598",
+        "url": "https://www.openstreetmap.org/way/1112644384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.00026216201823,
+          6.683384165401283
+        ]
+      },
+      "properties": {
+        "id": "way/1112644384",
+        "element_id": 1112644384,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.692597",
+        "url": "https://www.openstreetmap.org/way/1112644384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4870033072107,
+          6.678064687159824
+        ]
+      },
+      "properties": {
+        "id": "way/1116878285",
+        "element_id": 1116878285,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.693601",
+        "url": "https://www.openstreetmap.org/way/1116878285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4870033072107,
+          6.678064687159824
+        ]
+      },
+      "properties": {
+        "id": "way/1116878285",
+        "element_id": 1116878285,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.693601",
+        "url": "https://www.openstreetmap.org/way/1116878285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4870033072107,
+          6.678064687159824
+        ]
+      },
+      "properties": {
+        "id": "way/1116878285",
+        "element_id": 1116878285,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.694598",
+        "url": "https://www.openstreetmap.org/way/1116878285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.05766180561264,
+          6.500311907257662
+        ]
+      },
+      "properties": {
+        "id": "way/1182478898",
+        "element_id": 1182478898,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.695600",
+        "url": "https://www.openstreetmap.org/way/1182478898"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.05766180561264,
+          6.500311907257662
+        ]
+      },
+      "properties": {
+        "id": "way/1182478898",
+        "element_id": 1182478898,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:15.695600",
+        "url": "https://www.openstreetmap.org/way/1182478898"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7461308,
+          6.6447058000000006
+        ]
+      },
+      "properties": {
+        "id": "way/1206495953",
+        "element_id": 1206495953,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.695600",
+        "url": "https://www.openstreetmap.org/way/1206495953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7461308,
+          6.6447058000000006
+        ]
+      },
+      "properties": {
+        "id": "way/1206495953",
+        "element_id": 1206495953,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.695600",
+        "url": "https://www.openstreetmap.org/way/1206495953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7461308,
+          6.6447058000000006
+        ]
+      },
+      "properties": {
+        "id": "way/1206495953",
+        "element_id": 1206495953,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.697597",
+        "url": "https://www.openstreetmap.org/way/1206495953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.80835801542898,
+          6.584239583020507
+        ]
+      },
+      "properties": {
+        "id": "way/1206495954",
+        "element_id": 1206495954,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.697597",
+        "url": "https://www.openstreetmap.org/way/1206495954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.80835801542898,
+          6.584239583020507
+        ]
+      },
+      "properties": {
+        "id": "way/1206495954",
+        "element_id": 1206495954,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Samanalaweva Hydroelectrical plant', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.699597",
+        "url": "https://www.openstreetmap.org/way/1206495954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.03420702454419,
+          9.738766673979455
+        ]
+      },
+      "properties": {
+        "id": "way/1206745229",
+        "element_id": 1206745229,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.699597",
+        "url": "https://www.openstreetmap.org/way/1206745229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.52512347613535,
+          6.908676063765312
+        ]
+      },
+      "properties": {
+        "id": "way/1206745230",
+        "element_id": 1206745230,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.699597",
+        "url": "https://www.openstreetmap.org/way/1206745230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.64445830000003,
+          7.564694649999999
+        ]
+      },
+      "properties": {
+        "id": "way/1206745231",
+        "element_id": 1206745231,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:type': 'kaplan_turbine', 'operator': 'Escas Diggala Mini Hydro-Power Plant', 'plant:method': 'water-storage', 'plant:output:electricity': '4.5 MW', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.699597",
+        "url": "https://www.openstreetmap.org/way/1206745231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.66526555,
+          7.6153629500000015
+        ]
+      },
+      "properties": {
+        "id": "way/1206745234",
+        "element_id": 1206745234,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.700602",
+        "url": "https://www.openstreetmap.org/way/1206745234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.66526555,
+          7.6153629500000015
+        ]
+      },
+      "properties": {
+        "id": "way/1206745234",
+        "element_id": 1206745234,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:15.700602",
+        "url": "https://www.openstreetmap.org/way/1206745234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7300449,
+          6.93825345
+        ]
+      },
+      "properties": {
+        "id": "way/1206745235",
+        "element_id": 1206745235,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:15.700602",
+        "url": "https://www.openstreetmap.org/way/1206745235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.95995503150256,
+          6.62988243585497
+        ]
+      },
+      "properties": {
+        "id": "way/1209158412",
+        "element_id": 1209158412,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.701609",
+        "url": "https://www.openstreetmap.org/way/1209158412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.95995503150256,
+          6.62988243585497
+        ]
+      },
+      "properties": {
+        "id": "way/1209158412",
+        "element_id": 1209158412,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:15.701609",
+        "url": "https://www.openstreetmap.org/way/1209158412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.48733755,
+          7.71617595
+        ]
+      },
+      "properties": {
+        "id": "way/1228752198",
+        "element_id": 1228752198,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.701609",
+        "url": "https://www.openstreetmap.org/way/1228752198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.48733755,
+          7.71617595
+        ]
+      },
+      "properties": {
+        "id": "way/1228752198",
+        "element_id": 1228752198,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.701609",
+        "url": "https://www.openstreetmap.org/way/1228752198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.48733755,
+          7.71617595
+        ]
+      },
+      "properties": {
+        "id": "way/1228752198",
+        "element_id": 1228752198,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:15.701609",
+        "url": "https://www.openstreetmap.org/way/1228752198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.85848506056212,
+          7.342853297141789
+        ]
+      },
+      "properties": {
+        "id": "way/1230229105",
+        "element_id": 1230229105,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.701609",
+        "url": "https://www.openstreetmap.org/way/1230229105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.85848506056212,
+          7.342853297141789
+        ]
+      },
+      "properties": {
+        "id": "way/1230229105",
+        "element_id": 1230229105,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:15.701609",
+        "url": "https://www.openstreetmap.org/way/1230229105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.85536697408645,
+          7.344981508928623
+        ]
+      },
+      "properties": {
+        "id": "way/1230230758",
+        "element_id": 1230230758,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.701609",
+        "url": "https://www.openstreetmap.org/way/1230230758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.85536697408645,
+          7.344981508928623
+        ]
+      },
+      "properties": {
+        "id": "way/1230230758",
+        "element_id": 1230230758,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:15.701609",
+        "url": "https://www.openstreetmap.org/way/1230230758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.804634922499,
+          7.361169552642872
+        ]
+      },
+      "properties": {
+        "id": "way/1233253780",
+        "element_id": 1233253780,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.702602",
+        "url": "https://www.openstreetmap.org/way/1233253780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.804634922499,
+          7.361169552642872
+        ]
+      },
+      "properties": {
+        "id": "way/1233253780",
+        "element_id": 1233253780,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:15.702602",
+        "url": "https://www.openstreetmap.org/way/1233253780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.59560383033914,
+          7.001530838952354
+        ]
+      },
+      "properties": {
+        "id": "way/1256521221",
+        "element_id": 1256521221,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.702602",
+        "url": "https://www.openstreetmap.org/way/1256521221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.59560383033914,
+          7.001530838952354
+        ]
+      },
+      "properties": {
+        "id": "way/1256521221",
+        "element_id": 1256521221,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.702602",
+        "url": "https://www.openstreetmap.org/way/1256521221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.73341144290363,
+          7.2334466365133405
+        ]
+      },
+      "properties": {
+        "id": "way/1315713053",
+        "element_id": 1315713053,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.703602",
+        "url": "https://www.openstreetmap.org/way/1315713053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.73341144290363,
+          7.2334466365133405
+        ]
+      },
+      "properties": {
+        "id": "way/1315713053",
+        "element_id": 1315713053,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:15.703602",
+        "url": "https://www.openstreetmap.org/way/1315713053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0742804907697,
+          7.132785405349075
+        ]
+      },
+      "properties": {
+        "id": "way/1386982086",
+        "element_id": 1386982086,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.704601",
+        "url": "https://www.openstreetmap.org/way/1386982086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0742804907697,
+          7.132785405349075
+        ]
+      },
+      "properties": {
+        "id": "way/1386982086",
+        "element_id": 1386982086,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.704601",
+        "url": "https://www.openstreetmap.org/way/1386982086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0742804907697,
+          7.132785405349075
+        ]
+      },
+      "properties": {
+        "id": "way/1386982086",
+        "element_id": 1386982086,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.706598",
+        "url": "https://www.openstreetmap.org/way/1386982086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.07313647003151,
+          7.132624823394962
+        ]
+      },
+      "properties": {
+        "id": "way/1386982087",
+        "element_id": 1386982087,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.706598",
+        "url": "https://www.openstreetmap.org/way/1386982087"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.07313647003151,
+          7.132624823394962
+        ]
+      },
+      "properties": {
+        "id": "way/1386982087",
+        "element_id": 1386982087,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.706598",
+        "url": "https://www.openstreetmap.org/way/1386982087"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.07313647003151,
+          7.132624823394962
+        ]
+      },
+      "properties": {
+        "id": "way/1386982087",
+        "element_id": 1386982087,
+        "element_type": "way",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.707600",
+        "url": "https://www.openstreetmap.org/way/1386982087"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8508938,
+          6.4316854
+        ]
+      },
+      "properties": {
+        "id": "node/2110079119",
+        "element_id": 2110079119,
+        "element_type": "node",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.708601",
+        "url": "https://www.openstreetmap.org/node/2110079119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5139412,
+          6.9181007
+        ]
+      },
+      "properties": {
+        "id": "node/3215684663",
+        "element_id": 3215684663,
+        "element_type": "node",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:15.708601",
+        "url": "https://www.openstreetmap.org/node/3215684663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5139412,
+          6.9181007
+        ]
+      },
+      "properties": {
+        "id": "node/3215684663",
+        "element_id": 3215684663,
+        "element_type": "node",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.708601",
+        "url": "https://www.openstreetmap.org/node/3215684663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5139412,
+          6.9181007
+        ]
+      },
+      "properties": {
+        "id": "node/3215684663",
+        "element_id": 3215684663,
+        "element_type": "node",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:15.709754",
+        "url": "https://www.openstreetmap.org/node/3215684663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5808115,
+          7.1215891
+        ]
+      },
+      "properties": {
+        "id": "node/11182186246",
+        "element_id": 11182186246,
+        "element_type": "node",
+        "country": "Sri Lanka",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'layer': '-1', 'location': 'underground', 'name': 'Kotmale Power Station', 'operator': 'CEB', 'plant:output:electricity': '201 MW', 'power': 'plant', 'wikidata': 'Q6434138'}",
+        "timestamp": "2025-07-07 18:49:15.710786",
+        "url": "https://www.openstreetmap.org/node/11182186246"
+      }
+    }
+  ]
+}

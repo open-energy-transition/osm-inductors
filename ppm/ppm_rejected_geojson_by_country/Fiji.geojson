@@ -1,0 +1,357 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.4310176569308,
+          -17.68168686544873
+        ]
+      },
+      "properties": {
+        "id": "way/399732661",
+        "element_id": 399732661,
+        "element_type": "way",
+        "country": "Fiji",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'EFL NCC', 'operator': 'Energy Fiji Limited', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:29:07.810436",
+        "url": "https://www.openstreetmap.org/way/399732661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.47944314100914,
+          -18.112476396668782
+        ]
+      },
+      "properties": {
+        "id": "way/505952740",
+        "element_id": 505952740,
+        "element_type": "way",
+        "country": "Fiji",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:29:07.810436",
+        "url": "https://www.openstreetmap.org/way/505952740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.09285814962095,
+          -18.23795744738557
+        ]
+      },
+      "properties": {
+        "id": "way/516293551",
+        "element_id": 516293551,
+        "element_type": "way",
+        "country": "Fiji",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Deuba Powerstation', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:29:07.810436",
+        "url": "https://www.openstreetmap.org/way/516293551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.72229339197654,
+          -17.809007838993995
+        ]
+      },
+      "properties": {
+        "id": "way/1013515023",
+        "element_id": 1013515023,
+        "element_type": "way",
+        "country": "Fiji",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:29:07.811436",
+        "url": "https://www.openstreetmap.org/way/1013515023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.72229339197654,
+          -17.809007838993995
+        ]
+      },
+      "properties": {
+        "id": "way/1013515023",
+        "element_id": 1013515023,
+        "element_type": "way",
+        "country": "Fiji",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:29:07.811436",
+        "url": "https://www.openstreetmap.org/way/1013515023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.4985755047258,
+          -18.149720734723942
+        ]
+      },
+      "properties": {
+        "id": "way/772283325",
+        "element_id": 772283325,
+        "element_type": "way",
+        "country": "Fiji",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Sigatoka EFL Power Station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:29:07.811436",
+        "url": "https://www.openstreetmap.org/way/772283325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.8555884342131,
+          -17.50714453231649
+        ]
+      },
+      "properties": {
+        "id": "way/1049498759",
+        "element_id": 1049498759,
+        "element_type": "way",
+        "country": "Fiji",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Korowere Powerstation', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:29:07.812440",
+        "url": "https://www.openstreetmap.org/way/1049498759"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.81497145278914,
+          -16.643890148558246
+        ]
+      },
+      "properties": {
+        "id": "way/1271067289",
+        "element_id": 1271067289,
+        "element_type": "way",
+        "country": "Fiji",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:29:07.812440",
+        "url": "https://www.openstreetmap.org/way/1271067289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.81497145278914,
+          -16.643890148558246
+        ]
+      },
+      "properties": {
+        "id": "way/1271067289",
+        "element_id": 1271067289,
+        "element_type": "way",
+        "country": "Fiji",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:29:07.812440",
+        "url": "https://www.openstreetmap.org/way/1271067289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.4360249809167,
+          -17.62232985012622
+        ]
+      },
+      "properties": {
+        "id": "way/1361264077",
+        "element_id": 1361264077,
+        "element_type": "way",
+        "country": "Fiji",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:29:07.812440",
+        "url": "https://www.openstreetmap.org/way/1361264077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.4357418179452,
+          -17.62273718051107
+        ]
+      },
+      "properties": {
+        "id": "way/1361266109",
+        "element_id": 1361266109,
+        "element_type": "way",
+        "country": "Fiji",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Pineapple Corner EFL 33kV Substation', 'operator': 'EFL', 'plant:output:electricity': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:29:07.812440",
+        "url": "https://www.openstreetmap.org/way/1361266109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.2257187,
+          -17.7047928
+        ]
+      },
+      "properties": {
+        "id": "node/4234617732",
+        "element_id": 4234617732,
+        "element_type": "node",
+        "country": "Fiji",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:29:07.813536",
+        "url": "https://www.openstreetmap.org/node/4234617732"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.2257187,
+          -17.7047928
+        ]
+      },
+      "properties": {
+        "id": "node/4234617732",
+        "element_id": 4234617732,
+        "element_type": "node",
+        "country": "Fiji",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:29:07.813536",
+        "url": "https://www.openstreetmap.org/node/4234617732"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.45631938280343,
+          -17.743148631467307
+        ]
+      },
+      "properties": {
+        "id": "way/1361278651",
+        "element_id": 1361278651,
+        "element_type": "way",
+        "country": "Fiji",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Nasoso EFL 33kV Substation', 'operator': 'Energy Fiji Limited', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:29:07.813536",
+        "url": "https://www.openstreetmap.org/way/1361278651"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.80258378315546,
+          -18.24315110045205
+        ]
+      },
+      "properties": {
+        "id": "way/1387136380",
+        "element_id": 1387136380,
+        "element_type": "way",
+        "country": "Fiji",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:29:07.813536",
+        "url": "https://www.openstreetmap.org/way/1387136380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.80258378315546,
+          -18.24315110045205
+        ]
+      },
+      "properties": {
+        "id": "way/1387136380",
+        "element_id": 1387136380,
+        "element_type": "way",
+        "country": "Fiji",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:29:07.813536",
+        "url": "https://www.openstreetmap.org/way/1387136380"
+      }
+    }
+  ]
+}

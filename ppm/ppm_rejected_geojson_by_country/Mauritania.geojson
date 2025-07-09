@@ -1,0 +1,863 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.99536003586685,
+          18.070452071950186
+        ]
+      },
+      "properties": {
+        "id": "relation/5498224",
+        "element_id": 5498224,
+        "element_type": "relation",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'سونيلك السبخة', 'name:ar': 'سونيلك السبخة', 'name:fr': 'sonelec sebkha', 'operator': 'الشركة الموريتانية للكهرباء والشركة الوطنية للماء', 'operator:ar': 'الشركة الموريتانية للكهرباء والشركة الوطنية للماء', 'power': 'plant', 'route': 'power', 'type': 'route'}",
+        "timestamp": "2025-07-07 18:40:34.014098",
+        "url": "https://www.openstreetmap.org/relation/5498224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.94666643725346,
+          21.3333576681662
+        ]
+      },
+      "properties": {
+        "id": "relation/17775539",
+        "element_id": 17775539,
+        "element_type": "relation",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:34.018097",
+        "url": "https://www.openstreetmap.org/relation/17775539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.94666643725346,
+          21.3333576681662
+        ]
+      },
+      "properties": {
+        "id": "relation/17775539",
+        "element_id": 17775539,
+        "element_type": "relation",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:40:34.018097",
+        "url": "https://www.openstreetmap.org/relation/17775539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.94666643725346,
+          21.3333576681662
+        ]
+      },
+      "properties": {
+        "id": "relation/17775539",
+        "element_id": 17775539,
+        "element_type": "relation",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:40:34.019100",
+        "url": "https://www.openstreetmap.org/relation/17775539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.055640879090124,
+          20.513599714617
+        ]
+      },
+      "properties": {
+        "id": "way/221471951",
+        "element_id": 221471951,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:34.020096",
+        "url": "https://www.openstreetmap.org/way/221471951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.055640879090124,
+          20.513599714617
+        ]
+      },
+      "properties": {
+        "id": "way/221471951",
+        "element_id": 221471951,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Atar أطار', 'addr:city:fr': 'Atar', 'name': \"Société Mauritanienne d'Électricité مركز الشركة الموريتـ ـانية للكهربـاء\", 'name:ar': 'مركز الشركة الموريتانية للكهربـاء', 'name:fr': \"Société Mauritanienne d'Électricité\", 'plant:source': 'oil', 'power': 'plant', 'short_name': 'SOMELEC'}",
+        "timestamp": "2025-07-07 18:40:34.021100",
+        "url": "https://www.openstreetmap.org/way/221471951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.012426050000002,
+          20.38914505
+        ]
+      },
+      "properties": {
+        "id": "way/432087551",
+        "element_id": 432087551,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:method': 'combustion', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:34.022097",
+        "url": "https://www.openstreetmap.org/way/432087551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.012426050000002,
+          20.38914505
+        ]
+      },
+      "properties": {
+        "id": "way/432087551",
+        "element_id": 432087551,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:method': 'combustion', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:34.024097",
+        "url": "https://www.openstreetmap.org/way/432087551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.533202074891605,
+          21.295313504773294
+        ]
+      },
+      "properties": {
+        "id": "way/552928639",
+        "element_id": 552928639,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 12 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:34.024097",
+        "url": "https://www.openstreetmap.org/way/552928639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.533202074891605,
+          21.295313504773294
+        ]
+      },
+      "properties": {
+        "id": "way/552928639",
+        "element_id": 552928639,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'بو انوار', 'addr:city:ar': 'بو انوار', 'addr:city:fr': 'Boulenouar', 'barrier': 'wall', 'landuse': 'industrial', 'name': 'Centrale solaire de Boulenouar', 'name:fr': 'Centrale solaire de Boulenouar', 'operator': 'إلكنوار', 'operator:ar': 'إلكنوار', 'operator:fr': 'Elecnor', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:34.025097",
+        "url": "https://www.openstreetmap.org/way/552928639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.457909508277265,
+          22.724029033702227
+        ]
+      },
+      "properties": {
+        "id": "way/652051624",
+        "element_id": 652051624,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:34.025097",
+        "url": "https://www.openstreetmap.org/way/652051624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.457909508277265,
+          22.724029033702227
+        ]
+      },
+      "properties": {
+        "id": "way/652051624",
+        "element_id": 652051624,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:34.025097",
+        "url": "https://www.openstreetmap.org/way/652051624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.507196632269377,
+          16.66649067819391
+        ]
+      },
+      "properties": {
+        "id": "way/951446914",
+        "element_id": 951446914,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'source': 'maxar premium'}",
+        "timestamp": "2025-07-07 18:40:34.026097",
+        "url": "https://www.openstreetmap.org/way/951446914"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.507196632269377,
+          16.66649067819391
+        ]
+      },
+      "properties": {
+        "id": "way/951446914",
+        "element_id": 951446914,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:34.026097",
+        "url": "https://www.openstreetmap.org/way/951446914"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.40154473551977,
+          19.38786314943139
+        ]
+      },
+      "properties": {
+        "id": "way/965598163",
+        "element_id": 965598163,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'source': 'maxar premium'}",
+        "timestamp": "2025-07-07 18:40:34.026097",
+        "url": "https://www.openstreetmap.org/way/965598163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.40154473551977,
+          19.38786314943139
+        ]
+      },
+      "properties": {
+        "id": "way/965598163",
+        "element_id": 965598163,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:34.026097",
+        "url": "https://www.openstreetmap.org/way/965598163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.973111000250189,
+          18.293987774750235
+        ]
+      },
+      "properties": {
+        "id": "way/972568354",
+        "element_id": 972568354,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'source': 'maxar standard'}",
+        "timestamp": "2025-07-07 18:40:34.026097",
+        "url": "https://www.openstreetmap.org/way/972568354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.973111000250189,
+          18.293987774750235
+        ]
+      },
+      "properties": {
+        "id": "way/972568354",
+        "element_id": 972568354,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:34.026097",
+        "url": "https://www.openstreetmap.org/way/972568354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.400509610218828,
+          19.74644208859185
+        ]
+      },
+      "properties": {
+        "id": "way/973102288",
+        "element_id": 973102288,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:34.026097",
+        "url": "https://www.openstreetmap.org/way/973102288"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.99014199484747,
+          20.169676689441943
+        ]
+      },
+      "properties": {
+        "id": "way/1132463112",
+        "element_id": 1132463112,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'source': 'maxar premium imagery'}",
+        "timestamp": "2025-07-07 18:40:34.027102",
+        "url": "https://www.openstreetmap.org/way/1132463112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.99014199484747,
+          20.169676689441943
+        ]
+      },
+      "properties": {
+        "id": "way/1132463112",
+        "element_id": 1132463112,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:34.027102",
+        "url": "https://www.openstreetmap.org/way/1132463112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.990688775198455,
+          20.170870809649383
+        ]
+      },
+      "properties": {
+        "id": "way/1132463114",
+        "element_id": 1132463114,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'wind_turbine', 'plant:output:electricity': 'yes', 'plant:source': 'wind', 'power': 'plant', 'source': 'maxar premium imagery'}",
+        "timestamp": "2025-07-07 18:40:34.027102",
+        "url": "https://www.openstreetmap.org/way/1132463114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.990688775198455,
+          20.170870809649383
+        ]
+      },
+      "properties": {
+        "id": "way/1132463114",
+        "element_id": 1132463114,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:34.027102",
+        "url": "https://www.openstreetmap.org/way/1132463114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.940870313969114,
+          16.875451874988784
+        ]
+      },
+      "properties": {
+        "id": "way/1166257082",
+        "element_id": 1166257082,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:34.027102",
+        "url": "https://www.openstreetmap.org/way/1166257082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.940870313969114,
+          16.875451874988784
+        ]
+      },
+      "properties": {
+        "id": "way/1166257082",
+        "element_id": 1166257082,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:34.027102",
+        "url": "https://www.openstreetmap.org/way/1166257082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.530409518382148,
+          20.540032922124382
+        ]
+      },
+      "properties": {
+        "id": "way/1189002446",
+        "element_id": 1189002446,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Tasiat Mine Power Station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:34.027102",
+        "url": "https://www.openstreetmap.org/way/1189002446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.287337666168677,
+          16.5986760870799
+        ]
+      },
+      "properties": {
+        "id": "way/1215001079",
+        "element_id": 1215001079,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:34.027102",
+        "url": "https://www.openstreetmap.org/way/1215001079"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.86306383173065,
+          15.32600345441998
+        ]
+      },
+      "properties": {
+        "id": "way/988085872",
+        "element_id": 988085872,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Sonalec', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:34.027102",
+        "url": "https://www.openstreetmap.org/way/988085872"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.287337666168677,
+          16.5986760870799
+        ]
+      },
+      "properties": {
+        "id": "way/1215001079",
+        "element_id": 1215001079,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Centrale hybride de Néma en Mauritanie', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:34.028097",
+        "url": "https://www.openstreetmap.org/way/1215001079"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.742789352470682,
+          21.31136881298243
+        ]
+      },
+      "properties": {
+        "id": "way/1315995731",
+        "element_id": 1315995731,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:34.029299",
+        "url": "https://www.openstreetmap.org/way/1315995731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.742789352470682,
+          21.31136881298243
+        ]
+      },
+      "properties": {
+        "id": "way/1315995731",
+        "element_id": 1315995731,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:34.029299",
+        "url": "https://www.openstreetmap.org/way/1315995731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.190060338528458,
+          17.8078860763696
+        ]
+      },
+      "properties": {
+        "id": "way/1316663775",
+        "element_id": 1316663775,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:34.029299",
+        "url": "https://www.openstreetmap.org/way/1316663775"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.190060338528458,
+          17.8078860763696
+        ]
+      },
+      "properties": {
+        "id": "way/1316663775",
+        "element_id": 1316663775,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:34.029299",
+        "url": "https://www.openstreetmap.org/way/1316663775"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.706865662720508,
+          17.53307927886448
+        ]
+      },
+      "properties": {
+        "id": "way/1317948964",
+        "element_id": 1317948964,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:34.029299",
+        "url": "https://www.openstreetmap.org/way/1317948964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.706865662720508,
+          17.53307927886448
+        ]
+      },
+      "properties": {
+        "id": "way/1317948964",
+        "element_id": 1317948964,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:34.029299",
+        "url": "https://www.openstreetmap.org/way/1317948964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.577807327099343,
+          25.22707220240701
+        ]
+      },
+      "properties": {
+        "id": "way/1362826445",
+        "element_id": 1362826445,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:34.029299",
+        "url": "https://www.openstreetmap.org/way/1362826445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.577807327099343,
+          25.22707220240701
+        ]
+      },
+      "properties": {
+        "id": "way/1362826445",
+        "element_id": 1362826445,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:34.029299",
+        "url": "https://www.openstreetmap.org/way/1362826445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.577803727099342,
+          25.22701570240701
+        ]
+      },
+      "properties": {
+        "id": "way/1362826446",
+        "element_id": 1362826446,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:34.029299",
+        "url": "https://www.openstreetmap.org/way/1362826446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.577803727099342,
+          25.22701570240701
+        ]
+      },
+      "properties": {
+        "id": "way/1362826446",
+        "element_id": 1362826446,
+        "element_type": "way",
+        "country": "Mauritania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:34.029299",
+        "url": "https://www.openstreetmap.org/way/1362826446"
+      }
+    }
+  ]
+}

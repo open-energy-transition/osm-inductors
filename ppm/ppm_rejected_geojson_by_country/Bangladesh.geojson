@@ -1,0 +1,1743 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2161653659704,
+          22.495973531478672
+        ]
+      },
+      "properties": {
+        "id": "relation/13945320",
+        "element_id": 13945320,
+        "element_type": "relation",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:22:45.072065",
+        "url": "https://www.openstreetmap.org/relation/13945320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.74594272481495,
+          24.38614740145463
+        ]
+      },
+      "properties": {
+        "id": "relation/14328917",
+        "element_id": 14328917,
+        "element_type": "relation",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Sirajganj Power Plants', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:22:45.073061",
+        "url": "https://www.openstreetmap.org/relation/14328917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.52582250955533,
+          23.68267054612376
+        ]
+      },
+      "properties": {
+        "id": "relation/15664482",
+        "element_id": 15664482,
+        "element_type": "relation",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Siddhirganj Power Plants', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:22:45.074499",
+        "url": "https://www.openstreetmap.org/relation/15664482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4410700613368,
+          23.743618152542297
+        ]
+      },
+      "properties": {
+        "id": "way/499009633",
+        "element_id": 499009633,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building:levels': '1', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.083510",
+        "url": "https://www.openstreetmap.org/way/499009633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4410700613368,
+          23.743618152542297
+        ]
+      },
+      "properties": {
+        "id": "way/499009633",
+        "element_id": 499009633,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building:levels': '1', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.083510",
+        "url": "https://www.openstreetmap.org/way/499009633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.60929440492104,
+          23.613038359201678
+        ]
+      },
+      "properties": {
+        "id": "way/526352720",
+        "element_id": 526352720,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Unique Power Plant Limited Meghna Bridge', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.084510",
+        "url": "https://www.openstreetmap.org/way/526352720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0445194189692,
+          24.064117900571876
+        ]
+      },
+      "properties": {
+        "id": "way/530960829",
+        "element_id": 530960829,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:45.085510",
+        "url": "https://www.openstreetmap.org/way/530960829"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.19100330769831,
+          23.665918341660216
+        ]
+      },
+      "properties": {
+        "id": "way/532468377",
+        "element_id": 532468377,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Jhenaidah Palli Biddyut Somitee', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.085510",
+        "url": "https://www.openstreetmap.org/way/532468377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3760854997266,
+          24.25309215127084
+        ]
+      },
+      "properties": {
+        "id": "way/533092233",
+        "element_id": 533092233,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:22:45.086509",
+        "url": "https://www.openstreetmap.org/way/533092233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3760854997266,
+          24.25309215127084
+        ]
+      },
+      "properties": {
+        "id": "way/533092233",
+        "element_id": 533092233,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'combustion', 'generator:output:electricity': '330 MW', 'generator:source': 'gas', 'generator:type': 'combined_cycle', 'landuse': 'industrial', 'name': 'Shahjibazar CCPP', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.086509",
+        "url": "https://www.openstreetmap.org/way/533092233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.91058210239692,
+          25.78013781478024
+        ]
+      },
+      "properties": {
+        "id": "way/536851025",
+        "element_id": 536851025,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'BPDB, Niamotpur', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.087509",
+        "url": "https://www.openstreetmap.org/way/536851025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9933833,
+          24.03045795
+        ]
+      },
+      "properties": {
+        "id": "way/541149845",
+        "element_id": 541149845,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.087509",
+        "url": "https://www.openstreetmap.org/way/541149845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9933833,
+          24.03045795
+        ]
+      },
+      "properties": {
+        "id": "way/541149845",
+        "element_id": 541149845,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.087509",
+        "url": "https://www.openstreetmap.org/way/541149845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.99285188719142,
+          24.03146155567269
+        ]
+      },
+      "properties": {
+        "id": "way/541151661",
+        "element_id": 541151661,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.087509",
+        "url": "https://www.openstreetmap.org/way/541151661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.99285188719142,
+          24.03146155567269
+        ]
+      },
+      "properties": {
+        "id": "way/541151661",
+        "element_id": 541151661,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.087509",
+        "url": "https://www.openstreetmap.org/way/541151661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.98818915157142,
+          24.02372646211652
+        ]
+      },
+      "properties": {
+        "id": "way/541168056",
+        "element_id": 541168056,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.087509",
+        "url": "https://www.openstreetmap.org/way/541168056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.98818915157142,
+          24.02372646211652
+        ]
+      },
+      "properties": {
+        "id": "way/541168056",
+        "element_id": 541168056,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.087509",
+        "url": "https://www.openstreetmap.org/way/541168056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.63859623868811,
+          25.811450872170028
+        ]
+      },
+      "properties": {
+        "id": "way/541656069",
+        "element_id": 541656069,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Power Development Board বিদ্যুৎ উন্নয়ন বোর্ড', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.088509",
+        "url": "https://www.openstreetmap.org/way/541656069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.53956011641374,
+          24.29202507761441
+        ]
+      },
+      "properties": {
+        "id": "way/584664585",
+        "element_id": 584664585,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Omera Cylinders Limited (OCL)', 'name:bn': 'ওমেরা সিলিন্ডারস লিমিটেড (ওসিএল)', 'operator': 'East Coast Group', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.088509",
+        "url": "https://www.openstreetmap.org/way/584664585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.79859678179658,
+          22.64408279149041
+        ]
+      },
+      "properties": {
+        "id": "way/596721358",
+        "element_id": 596721358,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:street': 'BSCIC Doratana Road', 'landuse': 'industrial', 'location': 'platform', 'power': 'plant', 'source': 'BDRCS', 'transformer': 'generator'}",
+        "timestamp": "2025-07-07 18:22:45.089509",
+        "url": "https://www.openstreetmap.org/way/596721358"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.79859678179658,
+          22.64408279149041
+        ]
+      },
+      "properties": {
+        "id": "way/596721358",
+        "element_id": 596721358,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:street': 'BSCIC Doratana Road', 'landuse': 'industrial', 'location': 'platform', 'power': 'plant', 'source': 'BDRCS', 'transformer': 'generator'}",
+        "timestamp": "2025-07-07 18:22:45.089509",
+        "url": "https://www.openstreetmap.org/way/596721358"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.06896298400778,
+          21.96321350083621
+        ]
+      },
+      "properties": {
+        "id": "way/663775672",
+        "element_id": 663775672,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:district': 'Barguna', 'addr:union': 'Nishanbaria', 'addr:ward': '2', 'description': 'Proposed', 'name': 'Power plant', 'power': 'plant', 'source': 'survey', 'source:date': '2018-12-25', 'source:name': 'logic_undp', 'source_ref': 'https://www.openstreetmap.org/user/aHaSaN/diary', 'type': 'physical'}",
+        "timestamp": "2025-07-07 18:22:45.090512",
+        "url": "https://www.openstreetmap.org/way/663775672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7423431134031,
+          22.446587556728577
+        ]
+      },
+      "properties": {
+        "id": "way/757725731",
+        "element_id": 757725731,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.090512",
+        "url": "https://www.openstreetmap.org/way/757725731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7423431134031,
+          22.446587556728577
+        ]
+      },
+      "properties": {
+        "id": "way/757725731",
+        "element_id": 757725731,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.091509",
+        "url": "https://www.openstreetmap.org/way/757725731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.87751840203948,
+          22.335453455869967
+        ]
+      },
+      "properties": {
+        "id": "way/977101476",
+        "element_id": 977101476,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:45.097510",
+        "url": "https://www.openstreetmap.org/way/977101476"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.63493821720581,
+          22.77760028728208
+        ]
+      },
+      "properties": {
+        "id": "way/1022525593",
+        "element_id": 1022525593,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.098509",
+        "url": "https://www.openstreetmap.org/way/1022525593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.63493821720581,
+          22.77760028728208
+        ]
+      },
+      "properties": {
+        "id": "way/1022525593",
+        "element_id": 1022525593,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:45.098509",
+        "url": "https://www.openstreetmap.org/way/1022525593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.87770213374188,
+          22.33427262192571
+        ]
+      },
+      "properties": {
+        "id": "way/978807880",
+        "element_id": 978807880,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Karnaphuli Power Ltd Power Plant', 'note': '110 MW', 'operator': 'Karnaphuli Power Limited', 'power': 'plant', 'source': 'https://bpplbd.com/karnaphuli-power-limited/'}",
+        "timestamp": "2025-07-07 18:22:45.098509",
+        "url": "https://www.openstreetmap.org/way/978807880"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.42458596162636,
+          23.797435177676157
+        ]
+      },
+      "properties": {
+        "id": "way/992430324",
+        "element_id": 992430324,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Dhaka', 'addr:postcode': '1212', 'landuse': 'industrial', 'name': 'বারিধারা ৩৩/১১ কেভি সাব-স্টেশন', 'name:en': 'Baridhara 33/11 KV Sub-station', 'operator': 'Dhaka Electric Supply Company Limited (DESCO)', 'plant:output:electricity': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.098509",
+        "url": "https://www.openstreetmap.org/way/992430324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.00461915108534,
+          24.04083981303883
+        ]
+      },
+      "properties": {
+        "id": "way/1041851996",
+        "element_id": 1041851996,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:45.099509",
+        "url": "https://www.openstreetmap.org/way/1041851996"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5363041983315,
+          22.86826919423553
+        ]
+      },
+      "properties": {
+        "id": "way/1043525206",
+        "element_id": 1043525206,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:45.104509",
+        "url": "https://www.openstreetmap.org/way/1043525206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.41001818943177,
+          26.48297502298166
+        ]
+      },
+      "properties": {
+        "id": "way/1046717171",
+        "element_id": 1046717171,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Sympa Solar Power Limited', 'plant:method': 'photovoltaic', 'plant:output:electricity': '8 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.106513",
+        "url": "https://www.openstreetmap.org/way/1046717171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.88401061380497,
+          24.074215444681748
+        ]
+      },
+      "properties": {
+        "id": "way/1047780200",
+        "element_id": 1047780200,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:45.110513",
+        "url": "https://www.openstreetmap.org/way/1047780200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.59611961637845,
+          24.5961295528701
+        ]
+      },
+      "properties": {
+        "id": "way/1052370247",
+        "element_id": 1052370247,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:22:45.110513",
+        "url": "https://www.openstreetmap.org/way/1052370247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.59611961637845,
+          24.5961295528701
+        ]
+      },
+      "properties": {
+        "id": "way/1052370247",
+        "element_id": 1052370247,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Bibiyana Chevron South South Pad', 'operator': 'Chevron', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.110513",
+        "url": "https://www.openstreetmap.org/way/1052370247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.66512741012536,
+          22.92364751659244
+        ]
+      },
+      "properties": {
+        "id": "way/1073027135",
+        "element_id": 1073027135,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Terokhada, Khulna', 'addr:housenumber': 'Ikhari', 'addr:postcode': '9230', 'addr:street': 'Terakhada Road খুলনা টু তেরখাদা রোড', 'landuse': 'industrial', 'name': 'Power Station Terokhada Khulna', 'name:en': 'Terokhada Power Station , Terokhada, Khulna', 'operator': 'Govt.', 'phone': '01733351075', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.111513",
+        "url": "https://www.openstreetmap.org/way/1073027135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.97719993729288,
+          25.092493927445343
+        ]
+      },
+      "properties": {
+        "id": "way/1079695052",
+        "element_id": 1079695052,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.111513",
+        "url": "https://www.openstreetmap.org/way/1079695052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.97719993729288,
+          25.092493927445343
+        ]
+      },
+      "properties": {
+        "id": "way/1079695052",
+        "element_id": 1079695052,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.111513",
+        "url": "https://www.openstreetmap.org/way/1079695052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.44283418428628,
+          24.93872413628776
+        ]
+      },
+      "properties": {
+        "id": "way/1079969913",
+        "element_id": 1079969913,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'sylhet', 'addr:street': 'Zakiganj-Sylhet Rd', 'landuse': 'industrial', 'name': 'Kaligonj Polli Bidyut Complain Centre', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.111513",
+        "url": "https://www.openstreetmap.org/way/1079969913"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.36390525,
+          24.885896899999995
+        ]
+      },
+      "properties": {
+        "id": "way/1083334380",
+        "element_id": 1083334380,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:45.111513",
+        "url": "https://www.openstreetmap.org/way/1083334380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.91780563035312,
+          24.68435057878953
+        ]
+      },
+      "properties": {
+        "id": "way/1083565754",
+        "element_id": 1083565754,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Energyprima Limited(Hosaf Group),50MW Power Plant', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.111513",
+        "url": "https://www.openstreetmap.org/way/1083565754"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.88353654088704,
+          21.7016268341118
+        ]
+      },
+      "properties": {
+        "id": "way/1098932510",
+        "element_id": 1098932510,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:45.111513",
+        "url": "https://www.openstreetmap.org/way/1098932510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.44873304321246,
+          22.835543809544987
+        ]
+      },
+      "properties": {
+        "id": "way/1120520888",
+        "element_id": 1120520888,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'wind_turbine', 'plant:output:electricity': 'yes', 'plant:source': 'wind', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.112513",
+        "url": "https://www.openstreetmap.org/way/1120520888"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.44873304321246,
+          22.835543809544987
+        ]
+      },
+      "properties": {
+        "id": "way/1120520888",
+        "element_id": 1120520888,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:45.112513",
+        "url": "https://www.openstreetmap.org/way/1120520888"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5278830546102,
+          23.686226807639724
+        ]
+      },
+      "properties": {
+        "id": "way/1138874230",
+        "element_id": 1138874230,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'NEPC Consortium Power Barge', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.112513",
+        "url": "https://www.openstreetmap.org/way/1138874230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.53971093615102,
+          22.86569892205195
+        ]
+      },
+      "properties": {
+        "id": "way/1173794119",
+        "element_id": 1173794119,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:45.112513",
+        "url": "https://www.openstreetmap.org/way/1173794119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.24669434999998,
+          20.98567285
+        ]
+      },
+      "properties": {
+        "id": "way/1180201252",
+        "element_id": 1180201252,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:22:45.112513",
+        "url": "https://www.openstreetmap.org/way/1180201252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.24669434999998,
+          20.98567285
+        ]
+      },
+      "properties": {
+        "id": "way/1180201252",
+        "element_id": 1180201252,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.112513",
+        "url": "https://www.openstreetmap.org/way/1180201252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.24669434999998,
+          20.98567285
+        ]
+      },
+      "properties": {
+        "id": "way/1180201252",
+        "element_id": 1180201252,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.112513",
+        "url": "https://www.openstreetmap.org/way/1180201252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.24733435,
+          20.9850206
+        ]
+      },
+      "properties": {
+        "id": "way/1181919765",
+        "element_id": 1181919765,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:22:45.113727",
+        "url": "https://www.openstreetmap.org/way/1181919765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.24733435,
+          20.9850206
+        ]
+      },
+      "properties": {
+        "id": "way/1181919765",
+        "element_id": 1181919765,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.113727",
+        "url": "https://www.openstreetmap.org/way/1181919765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.24733435,
+          20.9850206
+        ]
+      },
+      "properties": {
+        "id": "way/1181919765",
+        "element_id": 1181919765,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.113727",
+        "url": "https://www.openstreetmap.org/way/1181919765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.247090732689,
+          20.984957857909297
+        ]
+      },
+      "properties": {
+        "id": "way/1181919766",
+        "element_id": 1181919766,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:22:45.114738",
+        "url": "https://www.openstreetmap.org/way/1181919766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.247090732689,
+          20.984957857909297
+        ]
+      },
+      "properties": {
+        "id": "way/1181919766",
+        "element_id": 1181919766,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.114738",
+        "url": "https://www.openstreetmap.org/way/1181919766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.247090732689,
+          20.984957857909297
+        ]
+      },
+      "properties": {
+        "id": "way/1181919766",
+        "element_id": 1181919766,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.114738",
+        "url": "https://www.openstreetmap.org/way/1181919766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.24671243944135,
+          20.984583769450136
+        ]
+      },
+      "properties": {
+        "id": "way/1181919767",
+        "element_id": 1181919767,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:22:45.114738",
+        "url": "https://www.openstreetmap.org/way/1181919767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.24671243944135,
+          20.984583769450136
+        ]
+      },
+      "properties": {
+        "id": "way/1181919767",
+        "element_id": 1181919767,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.114738",
+        "url": "https://www.openstreetmap.org/way/1181919767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.24671243944135,
+          20.984583769450136
+        ]
+      },
+      "properties": {
+        "id": "way/1181919767",
+        "element_id": 1181919767,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.114738",
+        "url": "https://www.openstreetmap.org/way/1181919767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.24675263343836,
+          20.984659808564416
+        ]
+      },
+      "properties": {
+        "id": "way/1181919768",
+        "element_id": 1181919768,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:22:45.114738",
+        "url": "https://www.openstreetmap.org/way/1181919768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.24675263343836,
+          20.984659808564416
+        ]
+      },
+      "properties": {
+        "id": "way/1181919768",
+        "element_id": 1181919768,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.114738",
+        "url": "https://www.openstreetmap.org/way/1181919768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.24675263343836,
+          20.984659808564416
+        ]
+      },
+      "properties": {
+        "id": "way/1181919768",
+        "element_id": 1181919768,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.114738",
+        "url": "https://www.openstreetmap.org/way/1181919768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2468029861635,
+          20.984690961983382
+        ]
+      },
+      "properties": {
+        "id": "way/1181919769",
+        "element_id": 1181919769,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:22:45.114738",
+        "url": "https://www.openstreetmap.org/way/1181919769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2468029861635,
+          20.984690961983382
+        ]
+      },
+      "properties": {
+        "id": "way/1181919769",
+        "element_id": 1181919769,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.114738",
+        "url": "https://www.openstreetmap.org/way/1181919769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2468029861635,
+          20.984690961983382
+        ]
+      },
+      "properties": {
+        "id": "way/1181919769",
+        "element_id": 1181919769,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.114738",
+        "url": "https://www.openstreetmap.org/way/1181919769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.74314543582332,
+          22.450222117314723
+        ]
+      },
+      "properties": {
+        "id": "way/1196308933",
+        "element_id": 1196308933,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Infinia Power House, Kadamrasul, Chattogram', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.114738",
+        "url": "https://www.openstreetmap.org/way/1196308933"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.80269318695045,
+          22.650779538070665
+        ]
+      },
+      "properties": {
+        "id": "way/1267378173",
+        "element_id": 1267378173,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'office', 'name': 'Bangladesh Power Development Board', 'operator': 'Bangladesh Power Development Board', 'operator:short': 'BPDB', 'operator:wikidata': 'Q4855365', 'power': 'plant', 'ref': 'Government Office', 'roof:orientation': 'across', 'source': 'BDRCS'}",
+        "timestamp": "2025-07-07 18:22:45.115735",
+        "url": "https://www.openstreetmap.org/way/1267378173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.66211260450352,
+          24.123882915857223
+        ]
+      },
+      "properties": {
+        "id": "way/1267482713",
+        "element_id": 1267482713,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.115735",
+        "url": "https://www.openstreetmap.org/way/1267482713"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.66211260450352,
+          24.123882915857223
+        ]
+      },
+      "properties": {
+        "id": "way/1267482713",
+        "element_id": 1267482713,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.115735",
+        "url": "https://www.openstreetmap.org/way/1267482713"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.024702975841,
+          24.86794874344113
+        ]
+      },
+      "properties": {
+        "id": "way/1287933833",
+        "element_id": 1287933833,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Kailashtilla Gas Field (MSTE)', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.115735",
+        "url": "https://www.openstreetmap.org/way/1287933833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25328121809652,
+          25.015996562207427
+        ]
+      },
+      "properties": {
+        "id": "way/1289844389",
+        "element_id": 1289844389,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'কানাইঘাট বিদ্যুৎ উপকেন্দ্র ।', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.115735",
+        "url": "https://www.openstreetmap.org/way/1289844389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.10968806354056,
+          23.99805568497565
+        ]
+      },
+      "properties": {
+        "id": "way/1291639526",
+        "element_id": 1291639526,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:45.115735",
+        "url": "https://www.openstreetmap.org/way/1291639526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5231976152248,
+          23.68212027558248
+        ]
+      },
+      "properties": {
+        "id": "way/1296168782",
+        "element_id": 1296168782,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:22:45.115735",
+        "url": "https://www.openstreetmap.org/way/1296168782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5231976152248,
+          23.68212027558248
+        ]
+      },
+      "properties": {
+        "id": "way/1296168782",
+        "element_id": 1296168782,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'Narayanganj power station', 'operator': 'Desh Energy', 'plant:source': 'diesel', 'power': 'plant', 'source': 'https://www.gem.wiki/Narayanganj_power_station'}",
+        "timestamp": "2025-07-07 18:22:45.115735",
+        "url": "https://www.openstreetmap.org/way/1296168782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.01847213156616,
+          24.043644476956278
+        ]
+      },
+      "properties": {
+        "id": "way/1307560517",
+        "element_id": 1307560517,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:45.115735",
+        "url": "https://www.openstreetmap.org/way/1307560517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37534246580364,
+          23.76214652193418
+        ]
+      },
+      "properties": {
+        "id": "way/1309237436",
+        "element_id": 1309237436,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:45.116735",
+        "url": "https://www.openstreetmap.org/way/1309237436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.73732852337793,
+          24.40254371284668
+        ]
+      },
+      "properties": {
+        "id": "way/1351775245",
+        "element_id": 1351775245,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "68 MW (AC)",
+        "details": "Tag 'plant:output:electricity' has value '68 MW (AC)' which could not be parsed",
+        "timestamp": "2025-07-07 18:22:45.116735",
+        "url": "https://www.openstreetmap.org/way/1351775245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.16008346377583,
+          23.96111545885346
+        ]
+      },
+      "properties": {
+        "id": "way/1382241644",
+        "element_id": 1382241644,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:22:45.117735",
+        "url": "https://www.openstreetmap.org/way/1382241644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.16008346377583,
+          23.96111545885346
+        ]
+      },
+      "properties": {
+        "id": "way/1382241644",
+        "element_id": 1382241644,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'construction': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.117735",
+        "url": "https://www.openstreetmap.org/way/1382241644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.16008346377583,
+          23.96111545885346
+        ]
+      },
+      "properties": {
+        "id": "way/1382241644",
+        "element_id": 1382241644,
+        "element_type": "way",
+        "country": "Bangladesh",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'construction': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:45.117735",
+        "url": "https://www.openstreetmap.org/way/1382241644"
+      }
+    }
+  ]
+}

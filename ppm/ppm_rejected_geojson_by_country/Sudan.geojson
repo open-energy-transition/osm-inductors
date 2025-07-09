@@ -1,0 +1,3349 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.48545143581647,
+          15.238524583739464
+        ]
+      },
+      "properties": {
+        "id": "way/157755082",
+        "element_id": 157755082,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:21.281464",
+        "url": "https://www.openstreetmap.org/way/157755082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.05298979078324,
+          18.66900405631429
+        ]
+      },
+      "properties": {
+        "id": "way/218610666",
+        "element_id": 218610666,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:21.282602",
+        "url": "https://www.openstreetmap.org/way/218610666"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.906491900000006,
+          14.9258996
+        ]
+      },
+      "properties": {
+        "id": "way/261472032",
+        "element_id": 261472032,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:21.282602",
+        "url": "https://www.openstreetmap.org/way/261472032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.30942276600828,
+          11.698562810070667
+        ]
+      },
+      "properties": {
+        "id": "way/457192885",
+        "element_id": 457192885,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.283619",
+        "url": "https://www.openstreetmap.org/way/457192885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.30942276600828,
+          11.698562810070667
+        ]
+      },
+      "properties": {
+        "id": "way/457192885",
+        "element_id": 457192885,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.283619",
+        "url": "https://www.openstreetmap.org/way/457192885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.309459098652376,
+          11.69887524084552
+        ]
+      },
+      "properties": {
+        "id": "way/457192892",
+        "element_id": 457192892,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'area': 'yes', 'barrier': 'wall', 'landuse': 'industrial', 'name': 'Al Fula Power Plant', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.283619",
+        "url": "https://www.openstreetmap.org/way/457192892"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.91806297406849,
+          14.243392984277197
+        ]
+      },
+      "properties": {
+        "id": "way/753188468",
+        "element_id": 753188468,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:21.283619",
+        "url": "https://www.openstreetmap.org/way/753188468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.405534042890096,
+          10.303951475348548
+        ]
+      },
+      "properties": {
+        "id": "way/842086387",
+        "element_id": 842086387,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.283619",
+        "url": "https://www.openstreetmap.org/way/842086387"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.405534042890096,
+          10.303951475348548
+        ]
+      },
+      "properties": {
+        "id": "way/842086387",
+        "element_id": 842086387,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.283619",
+        "url": "https://www.openstreetmap.org/way/842086387"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.390282794296795,
+          10.29435731044062
+        ]
+      },
+      "properties": {
+        "id": "way/842086389",
+        "element_id": 842086389,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.283619",
+        "url": "https://www.openstreetmap.org/way/842086389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.390282794296795,
+          10.29435731044062
+        ]
+      },
+      "properties": {
+        "id": "way/842086389",
+        "element_id": 842086389,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.283619",
+        "url": "https://www.openstreetmap.org/way/842086389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.40162064479501,
+          10.309128297250034
+        ]
+      },
+      "properties": {
+        "id": "way/842086391",
+        "element_id": 842086391,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.283619",
+        "url": "https://www.openstreetmap.org/way/842086391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.40162064479501,
+          10.309128297250034
+        ]
+      },
+      "properties": {
+        "id": "way/842086391",
+        "element_id": 842086391,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.283619",
+        "url": "https://www.openstreetmap.org/way/842086391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.390972405151107,
+          10.295849817912064
+        ]
+      },
+      "properties": {
+        "id": "way/842086392",
+        "element_id": 842086392,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.284615",
+        "url": "https://www.openstreetmap.org/way/842086392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.390972405151107,
+          10.295849817912064
+        ]
+      },
+      "properties": {
+        "id": "way/842086392",
+        "element_id": 842086392,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.284615",
+        "url": "https://www.openstreetmap.org/way/842086392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.38009316055312,
+          10.132807092162622
+        ]
+      },
+      "properties": {
+        "id": "way/842088028",
+        "element_id": 842088028,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.284615",
+        "url": "https://www.openstreetmap.org/way/842088028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.38009316055312,
+          10.132807092162622
+        ]
+      },
+      "properties": {
+        "id": "way/842088028",
+        "element_id": 842088028,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.284615",
+        "url": "https://www.openstreetmap.org/way/842088028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.379523891324787,
+          10.136217928079194
+        ]
+      },
+      "properties": {
+        "id": "way/842088030",
+        "element_id": 842088030,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.284615",
+        "url": "https://www.openstreetmap.org/way/842088030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.379523891324787,
+          10.136217928079194
+        ]
+      },
+      "properties": {
+        "id": "way/842088030",
+        "element_id": 842088030,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.284615",
+        "url": "https://www.openstreetmap.org/way/842088030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.379905189515377,
+          10.124474368171477
+        ]
+      },
+      "properties": {
+        "id": "way/842088031",
+        "element_id": 842088031,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.284615",
+        "url": "https://www.openstreetmap.org/way/842088031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.379905189515377,
+          10.124474368171477
+        ]
+      },
+      "properties": {
+        "id": "way/842088031",
+        "element_id": 842088031,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.284615",
+        "url": "https://www.openstreetmap.org/way/842088031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.383409593512795,
+          10.143578603138534
+        ]
+      },
+      "properties": {
+        "id": "way/842088032",
+        "element_id": 842088032,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.284615",
+        "url": "https://www.openstreetmap.org/way/842088032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.383409593512795,
+          10.143578603138534
+        ]
+      },
+      "properties": {
+        "id": "way/842088032",
+        "element_id": 842088032,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.284615",
+        "url": "https://www.openstreetmap.org/way/842088032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.394752670513544,
+          10.142565997494437
+        ]
+      },
+      "properties": {
+        "id": "way/842088034",
+        "element_id": 842088034,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.285614",
+        "url": "https://www.openstreetmap.org/way/842088034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.394752670513544,
+          10.142565997494437
+        ]
+      },
+      "properties": {
+        "id": "way/842088034",
+        "element_id": 842088034,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.285614",
+        "url": "https://www.openstreetmap.org/way/842088034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.39292683675849,
+          10.146069723555902
+        ]
+      },
+      "properties": {
+        "id": "way/842088035",
+        "element_id": 842088035,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.285614",
+        "url": "https://www.openstreetmap.org/way/842088035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.39292683675849,
+          10.146069723555902
+        ]
+      },
+      "properties": {
+        "id": "way/842088035",
+        "element_id": 842088035,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.285614",
+        "url": "https://www.openstreetmap.org/way/842088035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.382341802540388,
+          10.138273888009367
+        ]
+      },
+      "properties": {
+        "id": "way/842088036",
+        "element_id": 842088036,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.285614",
+        "url": "https://www.openstreetmap.org/way/842088036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.382341802540388,
+          10.138273888009367
+        ]
+      },
+      "properties": {
+        "id": "way/842088036",
+        "element_id": 842088036,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.285614",
+        "url": "https://www.openstreetmap.org/way/842088036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.38367147049583,
+          10.15060512844648
+        ]
+      },
+      "properties": {
+        "id": "way/842088037",
+        "element_id": 842088037,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.285614",
+        "url": "https://www.openstreetmap.org/way/842088037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.38367147049583,
+          10.15060512844648
+        ]
+      },
+      "properties": {
+        "id": "way/842088037",
+        "element_id": 842088037,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.285614",
+        "url": "https://www.openstreetmap.org/way/842088037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.384147967508387,
+          10.156981092961985
+        ]
+      },
+      "properties": {
+        "id": "way/842088039",
+        "element_id": 842088039,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.285614",
+        "url": "https://www.openstreetmap.org/way/842088039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.384147967508387,
+          10.156981092961985
+        ]
+      },
+      "properties": {
+        "id": "way/842088039",
+        "element_id": 842088039,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.285614",
+        "url": "https://www.openstreetmap.org/way/842088039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2488772964941,
+          19.519918318990097
+        ]
+      },
+      "properties": {
+        "id": "way/843330771",
+        "element_id": 843330771,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.285614",
+        "url": "https://www.openstreetmap.org/way/843330771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.468661304033134,
+          14.072115993558146
+        ]
+      },
+      "properties": {
+        "id": "way/946578910",
+        "element_id": 946578910,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:21.286615",
+        "url": "https://www.openstreetmap.org/way/946578910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.00079408601498,
+          17.612533432646668
+        ]
+      },
+      "properties": {
+        "id": "way/1223707633",
+        "element_id": 1223707633,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:21.288618",
+        "url": "https://www.openstreetmap.org/way/1223707633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.411025000022388,
+          10.11136762135208
+        ]
+      },
+      "properties": {
+        "id": "way/1275412437",
+        "element_id": 1275412437,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.288618",
+        "url": "https://www.openstreetmap.org/way/1275412437"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.411025000022388,
+          10.11136762135208
+        ]
+      },
+      "properties": {
+        "id": "way/1275412437",
+        "element_id": 1275412437,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.288618",
+        "url": "https://www.openstreetmap.org/way/1275412437"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.41185882919703,
+          10.11627255925062
+        ]
+      },
+      "properties": {
+        "id": "way/1275412438",
+        "element_id": 1275412438,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.288618",
+        "url": "https://www.openstreetmap.org/way/1275412438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.41185882919703,
+          10.11627255925062
+        ]
+      },
+      "properties": {
+        "id": "way/1275412438",
+        "element_id": 1275412438,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.288618",
+        "url": "https://www.openstreetmap.org/way/1275412438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.411288707068184,
+          10.120169456247885
+        ]
+      },
+      "properties": {
+        "id": "way/1275412439",
+        "element_id": 1275412439,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.288618",
+        "url": "https://www.openstreetmap.org/way/1275412439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.411288707068184,
+          10.120169456247885
+        ]
+      },
+      "properties": {
+        "id": "way/1275412439",
+        "element_id": 1275412439,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.288618",
+        "url": "https://www.openstreetmap.org/way/1275412439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.410143058134253,
+          10.12301620649163
+        ]
+      },
+      "properties": {
+        "id": "way/1275412442",
+        "element_id": 1275412442,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.288618",
+        "url": "https://www.openstreetmap.org/way/1275412442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.410143058134253,
+          10.12301620649163
+        ]
+      },
+      "properties": {
+        "id": "way/1275412442",
+        "element_id": 1275412442,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.288618",
+        "url": "https://www.openstreetmap.org/way/1275412442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.386631302842154,
+          10.25816866149216
+        ]
+      },
+      "properties": {
+        "id": "way/1275412443",
+        "element_id": 1275412443,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.288618",
+        "url": "https://www.openstreetmap.org/way/1275412443"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.386631302842154,
+          10.25816866149216
+        ]
+      },
+      "properties": {
+        "id": "way/1275412443",
+        "element_id": 1275412443,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.288618",
+        "url": "https://www.openstreetmap.org/way/1275412443"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.468661304033134,
+          14.072115993558146
+        ]
+      },
+      "properties": {
+        "id": "way/946578910",
+        "element_id": 946578910,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'White Nile Sugar Co Power Plant', 'plant:source': 'biomass', 'power': 'plant', 'source': 'http://www.usipl.com/project-detail/White-Nile-Sugar-Company,-Sudan'}",
+        "timestamp": "2025-07-07 18:49:21.288618",
+        "url": "https://www.openstreetmap.org/way/946578910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.385581879000338,
+          10.261194089868214
+        ]
+      },
+      "properties": {
+        "id": "way/1275412444",
+        "element_id": 1275412444,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.289615",
+        "url": "https://www.openstreetmap.org/way/1275412444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.385581879000338,
+          10.261194089868214
+        ]
+      },
+      "properties": {
+        "id": "way/1275412444",
+        "element_id": 1275412444,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.289615",
+        "url": "https://www.openstreetmap.org/way/1275412444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.38081793940377,
+          10.260122280384572
+        ]
+      },
+      "properties": {
+        "id": "way/1275412445",
+        "element_id": 1275412445,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.289615",
+        "url": "https://www.openstreetmap.org/way/1275412445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.38081793940377,
+          10.260122280384572
+        ]
+      },
+      "properties": {
+        "id": "way/1275412445",
+        "element_id": 1275412445,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.289615",
+        "url": "https://www.openstreetmap.org/way/1275412445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.38304305827451,
+          10.26473422718831
+        ]
+      },
+      "properties": {
+        "id": "way/1275412446",
+        "element_id": 1275412446,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.289615",
+        "url": "https://www.openstreetmap.org/way/1275412446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.38304305827451,
+          10.26473422718831
+        ]
+      },
+      "properties": {
+        "id": "way/1275412446",
+        "element_id": 1275412446,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.289615",
+        "url": "https://www.openstreetmap.org/way/1275412446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.37559183333333,
+          10.264487750731767
+        ]
+      },
+      "properties": {
+        "id": "way/1275412447",
+        "element_id": 1275412447,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.289615",
+        "url": "https://www.openstreetmap.org/way/1275412447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.37559183333333,
+          10.264487750731767
+        ]
+      },
+      "properties": {
+        "id": "way/1275412447",
+        "element_id": 1275412447,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.289615",
+        "url": "https://www.openstreetmap.org/way/1275412447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.372478854309847,
+          10.26563825208294
+        ]
+      },
+      "properties": {
+        "id": "way/1275412448",
+        "element_id": 1275412448,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.289615",
+        "url": "https://www.openstreetmap.org/way/1275412448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.372478854309847,
+          10.26563825208294
+        ]
+      },
+      "properties": {
+        "id": "way/1275412448",
+        "element_id": 1275412448,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.289615",
+        "url": "https://www.openstreetmap.org/way/1275412448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.37172604367506,
+          10.269196499132912
+        ]
+      },
+      "properties": {
+        "id": "way/1275412449",
+        "element_id": 1275412449,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.289615",
+        "url": "https://www.openstreetmap.org/way/1275412449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.37172604367506,
+          10.269196499132912
+        ]
+      },
+      "properties": {
+        "id": "way/1275412449",
+        "element_id": 1275412449,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.289615",
+        "url": "https://www.openstreetmap.org/way/1275412449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3824309854928,
+          10.269327044745785
+        ]
+      },
+      "properties": {
+        "id": "way/1275412450",
+        "element_id": 1275412450,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.289615",
+        "url": "https://www.openstreetmap.org/way/1275412450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3824309854928,
+          10.269327044745785
+        ]
+      },
+      "properties": {
+        "id": "way/1275412450",
+        "element_id": 1275412450,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.289615",
+        "url": "https://www.openstreetmap.org/way/1275412450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.380822666758547,
+          10.269599564738431
+        ]
+      },
+      "properties": {
+        "id": "way/1275412451",
+        "element_id": 1275412451,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.290614",
+        "url": "https://www.openstreetmap.org/way/1275412451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.380822666758547,
+          10.269599564738431
+        ]
+      },
+      "properties": {
+        "id": "way/1275412451",
+        "element_id": 1275412451,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.290614",
+        "url": "https://www.openstreetmap.org/way/1275412451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.378680161894525,
+          10.269473533938497
+        ]
+      },
+      "properties": {
+        "id": "way/1275412453",
+        "element_id": 1275412453,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.290614",
+        "url": "https://www.openstreetmap.org/way/1275412453"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.378680161894525,
+          10.269473533938497
+        ]
+      },
+      "properties": {
+        "id": "way/1275412453",
+        "element_id": 1275412453,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.290614",
+        "url": "https://www.openstreetmap.org/way/1275412453"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.37334416527186,
+          10.27534134702236
+        ]
+      },
+      "properties": {
+        "id": "way/1275412454",
+        "element_id": 1275412454,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.290614",
+        "url": "https://www.openstreetmap.org/way/1275412454"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.37334416527186,
+          10.27534134702236
+        ]
+      },
+      "properties": {
+        "id": "way/1275412454",
+        "element_id": 1275412454,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.290614",
+        "url": "https://www.openstreetmap.org/way/1275412454"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.37065268754123,
+          10.276514965614828
+        ]
+      },
+      "properties": {
+        "id": "way/1275412455",
+        "element_id": 1275412455,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.290614",
+        "url": "https://www.openstreetmap.org/way/1275412455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.37065268754123,
+          10.276514965614828
+        ]
+      },
+      "properties": {
+        "id": "way/1275412455",
+        "element_id": 1275412455,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.290614",
+        "url": "https://www.openstreetmap.org/way/1275412455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.373167418963643,
+          10.277432815872496
+        ]
+      },
+      "properties": {
+        "id": "way/1275412456",
+        "element_id": 1275412456,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.290614",
+        "url": "https://www.openstreetmap.org/way/1275412456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.373167418963643,
+          10.277432815872496
+        ]
+      },
+      "properties": {
+        "id": "way/1275412456",
+        "element_id": 1275412456,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.290614",
+        "url": "https://www.openstreetmap.org/way/1275412456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.37324903264032,
+          10.27955060791198
+        ]
+      },
+      "properties": {
+        "id": "way/1275412458",
+        "element_id": 1275412458,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.290614",
+        "url": "https://www.openstreetmap.org/way/1275412458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.37324903264032,
+          10.27955060791198
+        ]
+      },
+      "properties": {
+        "id": "way/1275412458",
+        "element_id": 1275412458,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.290614",
+        "url": "https://www.openstreetmap.org/way/1275412458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.39006516168172,
+          10.276221527588875
+        ]
+      },
+      "properties": {
+        "id": "way/1275412459",
+        "element_id": 1275412459,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.290614",
+        "url": "https://www.openstreetmap.org/way/1275412459"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.39006516168172,
+          10.276221527588875
+        ]
+      },
+      "properties": {
+        "id": "way/1275412459",
+        "element_id": 1275412459,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.290614",
+        "url": "https://www.openstreetmap.org/way/1275412459"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.39283123741225,
+          10.28058832544368
+        ]
+      },
+      "properties": {
+        "id": "way/1275412460",
+        "element_id": 1275412460,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.290614",
+        "url": "https://www.openstreetmap.org/way/1275412460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.39283123741225,
+          10.28058832544368
+        ]
+      },
+      "properties": {
+        "id": "way/1275412460",
+        "element_id": 1275412460,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.290614",
+        "url": "https://www.openstreetmap.org/way/1275412460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.39898694659237,
+          10.277468299585635
+        ]
+      },
+      "properties": {
+        "id": "way/1275412461",
+        "element_id": 1275412461,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.291614",
+        "url": "https://www.openstreetmap.org/way/1275412461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.39898694659237,
+          10.277468299585635
+        ]
+      },
+      "properties": {
+        "id": "way/1275412461",
+        "element_id": 1275412461,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.291614",
+        "url": "https://www.openstreetmap.org/way/1275412461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.39754185150459,
+          10.281433848790568
+        ]
+      },
+      "properties": {
+        "id": "way/1275412462",
+        "element_id": 1275412462,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.291614",
+        "url": "https://www.openstreetmap.org/way/1275412462"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.39754185150459,
+          10.281433848790568
+        ]
+      },
+      "properties": {
+        "id": "way/1275412462",
+        "element_id": 1275412462,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.291614",
+        "url": "https://www.openstreetmap.org/way/1275412462"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.40136743576776,
+          10.273661803242748
+        ]
+      },
+      "properties": {
+        "id": "way/1275412463",
+        "element_id": 1275412463,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.291614",
+        "url": "https://www.openstreetmap.org/way/1275412463"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.40136743576776,
+          10.273661803242748
+        ]
+      },
+      "properties": {
+        "id": "way/1275412463",
+        "element_id": 1275412463,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.291614",
+        "url": "https://www.openstreetmap.org/way/1275412463"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.401099948762337,
+          10.268990602843408
+        ]
+      },
+      "properties": {
+        "id": "way/1275412464",
+        "element_id": 1275412464,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.291614",
+        "url": "https://www.openstreetmap.org/way/1275412464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.401099948762337,
+          10.268990602843408
+        ]
+      },
+      "properties": {
+        "id": "way/1275412464",
+        "element_id": 1275412464,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.291614",
+        "url": "https://www.openstreetmap.org/way/1275412464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.40692264966853,
+          10.269849874786564
+        ]
+      },
+      "properties": {
+        "id": "way/1275412465",
+        "element_id": 1275412465,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.291614",
+        "url": "https://www.openstreetmap.org/way/1275412465"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.40692264966853,
+          10.269849874786564
+        ]
+      },
+      "properties": {
+        "id": "way/1275412465",
+        "element_id": 1275412465,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.291614",
+        "url": "https://www.openstreetmap.org/way/1275412465"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.40513074488809,
+          10.266078233023634
+        ]
+      },
+      "properties": {
+        "id": "way/1275412466",
+        "element_id": 1275412466,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.291614",
+        "url": "https://www.openstreetmap.org/way/1275412466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.40513074488809,
+          10.266078233023634
+        ]
+      },
+      "properties": {
+        "id": "way/1275412466",
+        "element_id": 1275412466,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.291614",
+        "url": "https://www.openstreetmap.org/way/1275412466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.41190743774952,
+          10.264453182404765
+        ]
+      },
+      "properties": {
+        "id": "way/1275412467",
+        "element_id": 1275412467,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.291614",
+        "url": "https://www.openstreetmap.org/way/1275412467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.41190743774952,
+          10.264453182404765
+        ]
+      },
+      "properties": {
+        "id": "way/1275412467",
+        "element_id": 1275412467,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.291614",
+        "url": "https://www.openstreetmap.org/way/1275412467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.40404462384653,
+          10.260204155626084
+        ]
+      },
+      "properties": {
+        "id": "way/1275412468",
+        "element_id": 1275412468,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.291614",
+        "url": "https://www.openstreetmap.org/way/1275412468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.40404462384653,
+          10.260204155626084
+        ]
+      },
+      "properties": {
+        "id": "way/1275412468",
+        "element_id": 1275412468,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.291614",
+        "url": "https://www.openstreetmap.org/way/1275412468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3960042114071,
+          10.29086666150055
+        ]
+      },
+      "properties": {
+        "id": "way/1275412469",
+        "element_id": 1275412469,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.292614",
+        "url": "https://www.openstreetmap.org/way/1275412469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3960042114071,
+          10.29086666150055
+        ]
+      },
+      "properties": {
+        "id": "way/1275412469",
+        "element_id": 1275412469,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.292614",
+        "url": "https://www.openstreetmap.org/way/1275412469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.391269254101637,
+          10.292198183436216
+        ]
+      },
+      "properties": {
+        "id": "way/1275412470",
+        "element_id": 1275412470,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.292614",
+        "url": "https://www.openstreetmap.org/way/1275412470"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.391269254101637,
+          10.292198183436216
+        ]
+      },
+      "properties": {
+        "id": "way/1275412470",
+        "element_id": 1275412470,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.292614",
+        "url": "https://www.openstreetmap.org/way/1275412470"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.38672448703697,
+          10.29097887898626
+        ]
+      },
+      "properties": {
+        "id": "way/1275412471",
+        "element_id": 1275412471,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.292614",
+        "url": "https://www.openstreetmap.org/way/1275412471"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.38672448703697,
+          10.29097887898626
+        ]
+      },
+      "properties": {
+        "id": "way/1275412471",
+        "element_id": 1275412471,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.292614",
+        "url": "https://www.openstreetmap.org/way/1275412471"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.38491392937371,
+          10.290754905867592
+        ]
+      },
+      "properties": {
+        "id": "way/1275412472",
+        "element_id": 1275412472,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.292614",
+        "url": "https://www.openstreetmap.org/way/1275412472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.38491392937371,
+          10.290754905867592
+        ]
+      },
+      "properties": {
+        "id": "way/1275412472",
+        "element_id": 1275412472,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.292614",
+        "url": "https://www.openstreetmap.org/way/1275412472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.382193645811306,
+          10.286709874334512
+        ]
+      },
+      "properties": {
+        "id": "way/1275412473",
+        "element_id": 1275412473,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.292614",
+        "url": "https://www.openstreetmap.org/way/1275412473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.382193645811306,
+          10.286709874334512
+        ]
+      },
+      "properties": {
+        "id": "way/1275412473",
+        "element_id": 1275412473,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.292614",
+        "url": "https://www.openstreetmap.org/way/1275412473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.395300393506336,
+          10.283773637508457
+        ]
+      },
+      "properties": {
+        "id": "way/1275412475",
+        "element_id": 1275412475,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.293614",
+        "url": "https://www.openstreetmap.org/way/1275412475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.395300393506336,
+          10.283773637508457
+        ]
+      },
+      "properties": {
+        "id": "way/1275412475",
+        "element_id": 1275412475,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.293614",
+        "url": "https://www.openstreetmap.org/way/1275412475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.368952259732307,
+          10.263953617543075
+        ]
+      },
+      "properties": {
+        "id": "way/1275412479",
+        "element_id": 1275412479,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.293614",
+        "url": "https://www.openstreetmap.org/way/1275412479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.368952259732307,
+          10.263953617543075
+        ]
+      },
+      "properties": {
+        "id": "way/1275412479",
+        "element_id": 1275412479,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.293614",
+        "url": "https://www.openstreetmap.org/way/1275412479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.36458657045881,
+          10.27072976408072
+        ]
+      },
+      "properties": {
+        "id": "way/1275412480",
+        "element_id": 1275412480,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.293614",
+        "url": "https://www.openstreetmap.org/way/1275412480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.36458657045881,
+          10.27072976408072
+        ]
+      },
+      "properties": {
+        "id": "way/1275412480",
+        "element_id": 1275412480,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.293614",
+        "url": "https://www.openstreetmap.org/way/1275412480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.36719086458676,
+          10.275968043666152
+        ]
+      },
+      "properties": {
+        "id": "way/1275412481",
+        "element_id": 1275412481,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.293614",
+        "url": "https://www.openstreetmap.org/way/1275412481"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.36719086458676,
+          10.275968043666152
+        ]
+      },
+      "properties": {
+        "id": "way/1275412481",
+        "element_id": 1275412481,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.293614",
+        "url": "https://www.openstreetmap.org/way/1275412481"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35912717783836,
+          10.275015004641082
+        ]
+      },
+      "properties": {
+        "id": "way/1275412482",
+        "element_id": 1275412482,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.293614",
+        "url": "https://www.openstreetmap.org/way/1275412482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35912717783836,
+          10.275015004641082
+        ]
+      },
+      "properties": {
+        "id": "way/1275412482",
+        "element_id": 1275412482,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.293614",
+        "url": "https://www.openstreetmap.org/way/1275412482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.356011632160893,
+          10.275960575963396
+        ]
+      },
+      "properties": {
+        "id": "way/1275412483",
+        "element_id": 1275412483,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.293614",
+        "url": "https://www.openstreetmap.org/way/1275412483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.356011632160893,
+          10.275960575963396
+        ]
+      },
+      "properties": {
+        "id": "way/1275412483",
+        "element_id": 1275412483,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.293614",
+        "url": "https://www.openstreetmap.org/way/1275412483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35446927179891,
+          10.273921482183368
+        ]
+      },
+      "properties": {
+        "id": "way/1275412484",
+        "element_id": 1275412484,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.294616",
+        "url": "https://www.openstreetmap.org/way/1275412484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35446927179891,
+          10.273921482183368
+        ]
+      },
+      "properties": {
+        "id": "way/1275412484",
+        "element_id": 1275412484,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.294616",
+        "url": "https://www.openstreetmap.org/way/1275412484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35231997688621,
+          10.2767859115469
+        ]
+      },
+      "properties": {
+        "id": "way/1275412485",
+        "element_id": 1275412485,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.294616",
+        "url": "https://www.openstreetmap.org/way/1275412485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35231997688621,
+          10.2767859115469
+        ]
+      },
+      "properties": {
+        "id": "way/1275412485",
+        "element_id": 1275412485,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.294616",
+        "url": "https://www.openstreetmap.org/way/1275412485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34862269590506,
+          10.280284046810412
+        ]
+      },
+      "properties": {
+        "id": "way/1275412487",
+        "element_id": 1275412487,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.294616",
+        "url": "https://www.openstreetmap.org/way/1275412487"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34862269590506,
+          10.280284046810412
+        ]
+      },
+      "properties": {
+        "id": "way/1275412487",
+        "element_id": 1275412487,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.294616",
+        "url": "https://www.openstreetmap.org/way/1275412487"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35387653218098,
+          10.281979476008264
+        ]
+      },
+      "properties": {
+        "id": "way/1275412488",
+        "element_id": 1275412488,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.294616",
+        "url": "https://www.openstreetmap.org/way/1275412488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35387653218098,
+          10.281979476008264
+        ]
+      },
+      "properties": {
+        "id": "way/1275412488",
+        "element_id": 1275412488,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.294616",
+        "url": "https://www.openstreetmap.org/way/1275412488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.360153703250685,
+          10.278370073158248
+        ]
+      },
+      "properties": {
+        "id": "way/1275412489",
+        "element_id": 1275412489,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.294616",
+        "url": "https://www.openstreetmap.org/way/1275412489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.360153703250685,
+          10.278370073158248
+        ]
+      },
+      "properties": {
+        "id": "way/1275412489",
+        "element_id": 1275412489,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.294616",
+        "url": "https://www.openstreetmap.org/way/1275412489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.36235752583666,
+          10.280515734354688
+        ]
+      },
+      "properties": {
+        "id": "way/1275412490",
+        "element_id": 1275412490,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.294616",
+        "url": "https://www.openstreetmap.org/way/1275412490"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.36235752583666,
+          10.280515734354688
+        ]
+      },
+      "properties": {
+        "id": "way/1275412490",
+        "element_id": 1275412490,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.294616",
+        "url": "https://www.openstreetmap.org/way/1275412490"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.368523291356293,
+          10.282172854519878
+        ]
+      },
+      "properties": {
+        "id": "way/1275412491",
+        "element_id": 1275412491,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.294616",
+        "url": "https://www.openstreetmap.org/way/1275412491"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.368523291356293,
+          10.282172854519878
+        ]
+      },
+      "properties": {
+        "id": "way/1275412491",
+        "element_id": 1275412491,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.294616",
+        "url": "https://www.openstreetmap.org/way/1275412491"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.366344543923624,
+          10.284955519038968
+        ]
+      },
+      "properties": {
+        "id": "way/1275412492",
+        "element_id": 1275412492,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.295615",
+        "url": "https://www.openstreetmap.org/way/1275412492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.366344543923624,
+          10.284955519038968
+        ]
+      },
+      "properties": {
+        "id": "way/1275412492",
+        "element_id": 1275412492,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.295615",
+        "url": "https://www.openstreetmap.org/way/1275412492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.36322384713821,
+          10.284897590055744
+        ]
+      },
+      "properties": {
+        "id": "way/1275412493",
+        "element_id": 1275412493,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.295615",
+        "url": "https://www.openstreetmap.org/way/1275412493"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.36322384713821,
+          10.284897590055744
+        ]
+      },
+      "properties": {
+        "id": "way/1275412493",
+        "element_id": 1275412493,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.295615",
+        "url": "https://www.openstreetmap.org/way/1275412493"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.359704679135675,
+          10.285464862532075
+        ]
+      },
+      "properties": {
+        "id": "way/1275412494",
+        "element_id": 1275412494,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.295615",
+        "url": "https://www.openstreetmap.org/way/1275412494"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.359704679135675,
+          10.285464862532075
+        ]
+      },
+      "properties": {
+        "id": "way/1275412494",
+        "element_id": 1275412494,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.295615",
+        "url": "https://www.openstreetmap.org/way/1275412494"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.352197116029743,
+          10.28821233095294
+        ]
+      },
+      "properties": {
+        "id": "way/1275412495",
+        "element_id": 1275412495,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.295615",
+        "url": "https://www.openstreetmap.org/way/1275412495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.352197116029743,
+          10.28821233095294
+        ]
+      },
+      "properties": {
+        "id": "way/1275412495",
+        "element_id": 1275412495,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.295615",
+        "url": "https://www.openstreetmap.org/way/1275412495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34910502794143,
+          10.291769557324567
+        ]
+      },
+      "properties": {
+        "id": "way/1275412496",
+        "element_id": 1275412496,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.295615",
+        "url": "https://www.openstreetmap.org/way/1275412496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34910502794143,
+          10.291769557324567
+        ]
+      },
+      "properties": {
+        "id": "way/1275412496",
+        "element_id": 1275412496,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.295615",
+        "url": "https://www.openstreetmap.org/way/1275412496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35592477933075,
+          10.29329283349804
+        ]
+      },
+      "properties": {
+        "id": "way/1275412497",
+        "element_id": 1275412497,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.295615",
+        "url": "https://www.openstreetmap.org/way/1275412497"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35592477933075,
+          10.29329283349804
+        ]
+      },
+      "properties": {
+        "id": "way/1275412497",
+        "element_id": 1275412497,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.295615",
+        "url": "https://www.openstreetmap.org/way/1275412497"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.357539799322875,
+          10.2959549441193
+        ]
+      },
+      "properties": {
+        "id": "way/1275412498",
+        "element_id": 1275412498,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.295615",
+        "url": "https://www.openstreetmap.org/way/1275412498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.357539799322875,
+          10.2959549441193
+        ]
+      },
+      "properties": {
+        "id": "way/1275412498",
+        "element_id": 1275412498,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.295615",
+        "url": "https://www.openstreetmap.org/way/1275412498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.36590664819617,
+          10.288416300922318
+        ]
+      },
+      "properties": {
+        "id": "way/1275412499",
+        "element_id": 1275412499,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.295615",
+        "url": "https://www.openstreetmap.org/way/1275412499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.36590664819617,
+          10.288416300922318
+        ]
+      },
+      "properties": {
+        "id": "way/1275412499",
+        "element_id": 1275412499,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.295615",
+        "url": "https://www.openstreetmap.org/way/1275412499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.349081538262205,
+          10.29915933292815
+        ]
+      },
+      "properties": {
+        "id": "way/1275412500",
+        "element_id": 1275412500,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.296614",
+        "url": "https://www.openstreetmap.org/way/1275412500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.349081538262205,
+          10.29915933292815
+        ]
+      },
+      "properties": {
+        "id": "way/1275412500",
+        "element_id": 1275412500,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.296614",
+        "url": "https://www.openstreetmap.org/way/1275412500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.345839332738883,
+          10.29937599785049
+        ]
+      },
+      "properties": {
+        "id": "way/1275412501",
+        "element_id": 1275412501,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.296614",
+        "url": "https://www.openstreetmap.org/way/1275412501"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.345839332738883,
+          10.29937599785049
+        ]
+      },
+      "properties": {
+        "id": "way/1275412501",
+        "element_id": 1275412501,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:21.296614",
+        "url": "https://www.openstreetmap.org/way/1275412501"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.313365924624726,
+          19.38967732239006
+        ]
+      },
+      "properties": {
+        "id": "way/1324823988",
+        "element_id": 1324823988,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'Karadeniz Powership Kaya Bey', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.296614",
+        "url": "https://www.openstreetmap.org/way/1324823988"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.31302000273509,
+          19.38966496620509
+        ]
+      },
+      "properties": {
+        "id": "way/1324823989",
+        "element_id": 1324823989,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'Karadeniz Powership Rauf Bey', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.296614",
+        "url": "https://www.openstreetmap.org/way/1324823989"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.31269392695086,
+          19.389523672994518
+        ]
+      },
+      "properties": {
+        "id": "way/1324823990",
+        "element_id": 1324823990,
+        "element_type": "way",
+        "country": "Sudan",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'Karadeniz Powership Alican Bey', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:21.296614",
+        "url": "https://www.openstreetmap.org/way/1324823990"
+      }
+    }
+  ]
+}

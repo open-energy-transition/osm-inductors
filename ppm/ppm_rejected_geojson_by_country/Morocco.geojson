@@ -1,0 +1,5395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.863623284631953,
+          31.009218067735677
+        ]
+      },
+      "properties": {
+        "id": "relation/10810672",
+        "element_id": 10810672,
+        "element_type": "relation",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:41:16.015620",
+        "url": "https://www.openstreetmap.org/relation/10810672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.870630941666136,
+          31.06189363280206
+        ]
+      },
+      "properties": {
+        "id": "relation/10810674",
+        "element_id": 10810674,
+        "element_type": "relation",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:41:16.016619",
+        "url": "https://www.openstreetmap.org/relation/10810674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.531689517256112,
+          31.700701437252874
+        ]
+      },
+      "properties": {
+        "id": "relation/18911875",
+        "element_id": 18911875,
+        "element_type": "relation",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.056233",
+        "url": "https://www.openstreetmap.org/relation/18911875"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4994402,
+          31.7110645
+        ]
+      },
+      "properties": {
+        "id": "node/12710745294",
+        "element_id": 12710745294,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.057233",
+        "url": "https://www.openstreetmap.org/node/12710745294"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4994402,
+          31.7110645
+        ]
+      },
+      "properties": {
+        "id": "node/12710745294",
+        "element_id": 12710745294,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.057233",
+        "url": "https://www.openstreetmap.org/node/12710745294"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.504751,
+          31.709878
+        ]
+      },
+      "properties": {
+        "id": "node/12710745295",
+        "element_id": 12710745295,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.057233",
+        "url": "https://www.openstreetmap.org/node/12710745295"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.504751,
+          31.709878
+        ]
+      },
+      "properties": {
+        "id": "node/12710745295",
+        "element_id": 12710745295,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.057233",
+        "url": "https://www.openstreetmap.org/node/12710745295"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5099545,
+          31.7094125
+        ]
+      },
+      "properties": {
+        "id": "node/12710745296",
+        "element_id": 12710745296,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.057233",
+        "url": "https://www.openstreetmap.org/node/12710745296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5099545,
+          31.7094125
+        ]
+      },
+      "properties": {
+        "id": "node/12710745296",
+        "element_id": 12710745296,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.057233",
+        "url": "https://www.openstreetmap.org/node/12710745296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.531689517256112,
+          31.700701437252874
+        ]
+      },
+      "properties": {
+        "id": "relation/18911875",
+        "element_id": 18911875,
+        "element_type": "relation",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Parc Éolien Jbel Lahdid', 'plant:source': 'wind', 'power': 'plant', 'type': 'site', 'website': 'https://www.mem.gov.ma/Pages/secteur.aspx?e=2&sprj=140'}",
+        "timestamp": "2025-07-07 18:41:16.057233",
+        "url": "https://www.openstreetmap.org/relation/18911875"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5217347,
+          31.7081255
+        ]
+      },
+      "properties": {
+        "id": "node/12710745277",
+        "element_id": 12710745277,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5217347,
+          31.7081255
+        ]
+      },
+      "properties": {
+        "id": "node/12710745277",
+        "element_id": 12710745277,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5540071,
+          31.7013345
+        ]
+      },
+      "properties": {
+        "id": "node/12710745278",
+        "element_id": 12710745278,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5540071,
+          31.7013345
+        ]
+      },
+      "properties": {
+        "id": "node/12710745278",
+        "element_id": 12710745278,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5595432,
+          31.697811
+        ]
+      },
+      "properties": {
+        "id": "node/12710745279",
+        "element_id": 12710745279,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5595432,
+          31.697811
+        ]
+      },
+      "properties": {
+        "id": "node/12710745279",
+        "element_id": 12710745279,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5648861,
+          31.6925163
+        ]
+      },
+      "properties": {
+        "id": "node/12710745280",
+        "element_id": 12710745280,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5648861,
+          31.6925163
+        ]
+      },
+      "properties": {
+        "id": "node/12710745280",
+        "element_id": 12710745280,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5708084,
+          31.6897046
+        ]
+      },
+      "properties": {
+        "id": "node/12710745281",
+        "element_id": 12710745281,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745281"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5708084,
+          31.6897046
+        ]
+      },
+      "properties": {
+        "id": "node/12710745281",
+        "element_id": 12710745281,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745281"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5761085,
+          31.6855233
+        ]
+      },
+      "properties": {
+        "id": "node/12710745282",
+        "element_id": 12710745282,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5761085,
+          31.6855233
+        ]
+      },
+      "properties": {
+        "id": "node/12710745282",
+        "element_id": 12710745282,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5714951,
+          31.682474
+        ]
+      },
+      "properties": {
+        "id": "node/12710745283",
+        "element_id": 12710745283,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5714951,
+          31.682474
+        ]
+      },
+      "properties": {
+        "id": "node/12710745283",
+        "element_id": 12710745283,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.583962,
+          31.6790775
+        ]
+      },
+      "properties": {
+        "id": "node/12710745284",
+        "element_id": 12710745284,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.583962,
+          31.6790775
+        ]
+      },
+      "properties": {
+        "id": "node/12710745284",
+        "element_id": 12710745284,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5794988,
+          31.6780458
+        ]
+      },
+      "properties": {
+        "id": "node/12710745285",
+        "element_id": 12710745285,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5794988,
+          31.6780458
+        ]
+      },
+      "properties": {
+        "id": "node/12710745285",
+        "element_id": 12710745285,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.583447,
+          31.6706317
+        ]
+      },
+      "properties": {
+        "id": "node/12710745286",
+        "element_id": 12710745286,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.583447,
+          31.6706317
+        ]
+      },
+      "properties": {
+        "id": "node/12710745286",
+        "element_id": 12710745286,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5886076,
+          31.6725583
+        ]
+      },
+      "properties": {
+        "id": "node/12710745287",
+        "element_id": 12710745287,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5886076,
+          31.6725583
+        ]
+      },
+      "properties": {
+        "id": "node/12710745287",
+        "element_id": 12710745287,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4496477,
+          31.7348194
+        ]
+      },
+      "properties": {
+        "id": "node/12710745288",
+        "element_id": 12710745288,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745288"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4496477,
+          31.7348194
+        ]
+      },
+      "properties": {
+        "id": "node/12710745288",
+        "element_id": 12710745288,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745288"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4600439,
+          31.7297276
+        ]
+      },
+      "properties": {
+        "id": "node/12710745289",
+        "element_id": 12710745289,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4600439,
+          31.7297276
+        ]
+      },
+      "properties": {
+        "id": "node/12710745289",
+        "element_id": 12710745289,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4664383,
+          31.7249002
+        ]
+      },
+      "properties": {
+        "id": "node/12710745290",
+        "element_id": 12710745290,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4664383,
+          31.7249002
+        ]
+      },
+      "properties": {
+        "id": "node/12710745290",
+        "element_id": 12710745290,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4719958,
+          31.7227739
+        ]
+      },
+      "properties": {
+        "id": "node/12710745291",
+        "element_id": 12710745291,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4719958,
+          31.7227739
+        ]
+      },
+      "properties": {
+        "id": "node/12710745291",
+        "element_id": 12710745291,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4793666,
+          31.7186032
+        ]
+      },
+      "properties": {
+        "id": "node/12710745292",
+        "element_id": 12710745292,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4793666,
+          31.7186032
+        ]
+      },
+      "properties": {
+        "id": "node/12710745292",
+        "element_id": 12710745292,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4872415,
+          31.7159291
+        ]
+      },
+      "properties": {
+        "id": "node/12710745293",
+        "element_id": 12710745293,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745293"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4872415,
+          31.7159291
+        ]
+      },
+      "properties": {
+        "id": "node/12710745293",
+        "element_id": 12710745293,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.058233",
+        "url": "https://www.openstreetmap.org/node/12710745293"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.376515115366749,
+          31.817891338670723
+        ]
+      },
+      "properties": {
+        "id": "relation/18911884",
+        "element_id": 18911884,
+        "element_type": "relation",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.060233",
+        "url": "https://www.openstreetmap.org/relation/18911884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.376515115366749,
+          31.817891338670723
+        ]
+      },
+      "properties": {
+        "id": "relation/18911884",
+        "element_id": 18911884,
+        "element_type": "relation",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'wind', 'power': 'plant', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:41:16.060233",
+        "url": "https://www.openstreetmap.org/relation/18911884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3765736,
+          31.8053727
+        ]
+      },
+      "properties": {
+        "id": "node/12710840038",
+        "element_id": 12710840038,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3765736,
+          31.8053727
+        ]
+      },
+      "properties": {
+        "id": "node/12710840038",
+        "element_id": 12710840038,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3792987,
+          31.8000295
+        ]
+      },
+      "properties": {
+        "id": "node/12710840039",
+        "element_id": 12710840039,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3792987,
+          31.8000295
+        ]
+      },
+      "properties": {
+        "id": "node/12710840039",
+        "element_id": 12710840039,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3846846,
+          31.7952149
+        ]
+      },
+      "properties": {
+        "id": "node/12710840040",
+        "element_id": 12710840040,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3846846,
+          31.7952149
+        ]
+      },
+      "properties": {
+        "id": "node/12710840040",
+        "element_id": 12710840040,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3762303,
+          31.8145812
+        ]
+      },
+      "properties": {
+        "id": "node/12710840041",
+        "element_id": 12710840041,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3762303,
+          31.8145812
+        ]
+      },
+      "properties": {
+        "id": "node/12710840041",
+        "element_id": 12710840041,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3854785,
+          31.8184832
+        ]
+      },
+      "properties": {
+        "id": "node/12710840042",
+        "element_id": 12710840042,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3854785,
+          31.8184832
+        ]
+      },
+      "properties": {
+        "id": "node/12710840042",
+        "element_id": 12710840042,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3906927,
+          31.8203612
+        ]
+      },
+      "properties": {
+        "id": "node/12710840043",
+        "element_id": 12710840043,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3906927,
+          31.8203612
+        ]
+      },
+      "properties": {
+        "id": "node/12710840043",
+        "element_id": 12710840043,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3745995,
+          31.8233513
+        ]
+      },
+      "properties": {
+        "id": "node/12710840044",
+        "element_id": 12710840044,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3745995,
+          31.8233513
+        ]
+      },
+      "properties": {
+        "id": "node/12710840044",
+        "element_id": 12710840044,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3813801,
+          31.8269976
+        ]
+      },
+      "properties": {
+        "id": "node/12710840045",
+        "element_id": 12710840045,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3813801,
+          31.8269976
+        ]
+      },
+      "properties": {
+        "id": "node/12710840045",
+        "element_id": 12710840045,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3729258,
+          31.8323028
+        ]
+      },
+      "properties": {
+        "id": "node/12710840046",
+        "element_id": 12710840046,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3729258,
+          31.8323028
+        ]
+      },
+      "properties": {
+        "id": "node/12710840046",
+        "element_id": 12710840046,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3635273,
+          31.8270523
+        ]
+      },
+      "properties": {
+        "id": "node/12710840047",
+        "element_id": 12710840047,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3635273,
+          31.8270523
+        ]
+      },
+      "properties": {
+        "id": "node/12710840047",
+        "element_id": 12710840047,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3650508,
+          31.8317559
+        ]
+      },
+      "properties": {
+        "id": "node/12710840048",
+        "element_id": 12710840048,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3650508,
+          31.8317559
+        ]
+      },
+      "properties": {
+        "id": "node/12710840048",
+        "element_id": 12710840048,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3564463,
+          31.8339435
+        ]
+      },
+      "properties": {
+        "id": "node/12710840049",
+        "element_id": 12710840049,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3564463,
+          31.8339435
+        ]
+      },
+      "properties": {
+        "id": "node/12710840049",
+        "element_id": 12710840049,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/node/12710840049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.376515115366749,
+          31.817891338670723
+        ]
+      },
+      "properties": {
+        "id": "relation/18911884",
+        "element_id": 18911884,
+        "element_type": "relation",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'wind', 'power': 'plant', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:41:16.061233",
+        "url": "https://www.openstreetmap.org/relation/18911884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.391399527915665,
+          31.626775298946857
+        ]
+      },
+      "properties": {
+        "id": "relation/19062338",
+        "element_id": 19062338,
+        "element_type": "relation",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.063233",
+        "url": "https://www.openstreetmap.org/relation/19062338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.391399527915665,
+          31.626775298946857
+        ]
+      },
+      "properties": {
+        "id": "relation/19062338",
+        "element_id": 19062338,
+        "element_type": "relation",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'wind', 'power': 'plant', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:41:16.063233",
+        "url": "https://www.openstreetmap.org/relation/19062338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3844324,
+          31.6127361
+        ]
+      },
+      "properties": {
+        "id": "node/12799952802",
+        "element_id": 12799952802,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3844324,
+          31.6127361
+        ]
+      },
+      "properties": {
+        "id": "node/12799952802",
+        "element_id": 12799952802,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4042245,
+          31.6064201
+        ]
+      },
+      "properties": {
+        "id": "node/12799952805",
+        "element_id": 12799952805,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4042245,
+          31.6064201
+        ]
+      },
+      "properties": {
+        "id": "node/12799952805",
+        "element_id": 12799952805,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4099724,
+          31.612229
+        ]
+      },
+      "properties": {
+        "id": "node/12799952806",
+        "element_id": 12799952806,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4099724,
+          31.612229
+        ]
+      },
+      "properties": {
+        "id": "node/12799952806",
+        "element_id": 12799952806,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4116274,
+          31.616071
+        ]
+      },
+      "properties": {
+        "id": "node/12799952807",
+        "element_id": 12799952807,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952807"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4116274,
+          31.616071
+        ]
+      },
+      "properties": {
+        "id": "node/12799952807",
+        "element_id": 12799952807,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952807"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4071749,
+          31.6213997
+        ]
+      },
+      "properties": {
+        "id": "node/12799952808",
+        "element_id": 12799952808,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4071749,
+          31.6213997
+        ]
+      },
+      "properties": {
+        "id": "node/12799952808",
+        "element_id": 12799952808,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4046885,
+          31.6349975
+        ]
+      },
+      "properties": {
+        "id": "node/12799952809",
+        "element_id": 12799952809,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952809"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4046885,
+          31.6349975
+        ]
+      },
+      "properties": {
+        "id": "node/12799952809",
+        "element_id": 12799952809,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952809"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4036022,
+          31.6301287
+        ]
+      },
+      "properties": {
+        "id": "node/12799952811",
+        "element_id": 12799952811,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4036022,
+          31.6301287
+        ]
+      },
+      "properties": {
+        "id": "node/12799952811",
+        "element_id": 12799952811,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.415251,
+          31.6308344
+        ]
+      },
+      "properties": {
+        "id": "node/12799952812",
+        "element_id": 12799952812,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952812"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.415251,
+          31.6308344
+        ]
+      },
+      "properties": {
+        "id": "node/12799952812",
+        "element_id": 12799952812,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952812"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4196954,
+          31.6344358
+        ]
+      },
+      "properties": {
+        "id": "node/12799952813",
+        "element_id": 12799952813,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4196954,
+          31.6344358
+        ]
+      },
+      "properties": {
+        "id": "node/12799952813",
+        "element_id": 12799952813,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4094038,
+          31.6416633
+        ]
+      },
+      "properties": {
+        "id": "node/12799952814",
+        "element_id": 12799952814,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952814"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4094038,
+          31.6416633
+        ]
+      },
+      "properties": {
+        "id": "node/12799952814",
+        "element_id": 12799952814,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952814"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4170803,
+          31.6488651
+        ]
+      },
+      "properties": {
+        "id": "node/12799952816",
+        "element_id": 12799952816,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/node/12799952816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.391399527915665,
+          31.626775298946857
+        ]
+      },
+      "properties": {
+        "id": "relation/19062338",
+        "element_id": 19062338,
+        "element_type": "relation",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'wind', 'power': 'plant', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:41:16.064339",
+        "url": "https://www.openstreetmap.org/relation/19062338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3611723,
+          31.6091956
+        ]
+      },
+      "properties": {
+        "id": "node/12799949897",
+        "element_id": 12799949897,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799949897"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3611723,
+          31.6091956
+        ]
+      },
+      "properties": {
+        "id": "node/12799949897",
+        "element_id": 12799949897,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799949897"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3593967,
+          31.6271711
+        ]
+      },
+      "properties": {
+        "id": "node/12799949898",
+        "element_id": 12799949898,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799949898"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3593967,
+          31.6271711
+        ]
+      },
+      "properties": {
+        "id": "node/12799949898",
+        "element_id": 12799949898,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799949898"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3574977,
+          31.6235992
+        ]
+      },
+      "properties": {
+        "id": "node/12799949899",
+        "element_id": 12799949899,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799949899"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3574977,
+          31.6235992
+        ]
+      },
+      "properties": {
+        "id": "node/12799949899",
+        "element_id": 12799949899,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799949899"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3594879,
+          31.6186292
+        ]
+      },
+      "properties": {
+        "id": "node/12799949900",
+        "element_id": 12799949900,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799949900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3594879,
+          31.6186292
+        ]
+      },
+      "properties": {
+        "id": "node/12799949900",
+        "element_id": 12799949900,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799949900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3686074,
+          31.6156416
+        ]
+      },
+      "properties": {
+        "id": "node/12799952801",
+        "element_id": 12799952801,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799952801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3686074,
+          31.6156416
+        ]
+      },
+      "properties": {
+        "id": "node/12799952801",
+        "element_id": 12799952801,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799952801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3807846,
+          31.6253304
+        ]
+      },
+      "properties": {
+        "id": "node/12799952803",
+        "element_id": 12799952803,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799952803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3807846,
+          31.6253304
+        ]
+      },
+      "properties": {
+        "id": "node/12799952803",
+        "element_id": 12799952803,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799952803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3953007,
+          31.622062
+        ]
+      },
+      "properties": {
+        "id": "node/12799952804",
+        "element_id": 12799952804,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799952804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3953007,
+          31.622062
+        ]
+      },
+      "properties": {
+        "id": "node/12799952804",
+        "element_id": 12799952804,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799952804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4182913,
+          31.6550082
+        ]
+      },
+      "properties": {
+        "id": "node/12799952810",
+        "element_id": 12799952810,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799952810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4182913,
+          31.6550082
+        ]
+      },
+      "properties": {
+        "id": "node/12799952810",
+        "element_id": 12799952810,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799952810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4123408,
+          31.6461913
+        ]
+      },
+      "properties": {
+        "id": "node/12799952815",
+        "element_id": 12799952815,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799952815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4123408,
+          31.6461913
+        ]
+      },
+      "properties": {
+        "id": "node/12799952815",
+        "element_id": 12799952815,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799952815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4170803,
+          31.6488651
+        ]
+      },
+      "properties": {
+        "id": "node/12799952816",
+        "element_id": 12799952816,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799952816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3625188,
+          31.6315149
+        ]
+      },
+      "properties": {
+        "id": "node/12799999340",
+        "element_id": 12799999340,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': 'yes', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799999340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3625188,
+          31.6315149
+        ]
+      },
+      "properties": {
+        "id": "node/12799999340",
+        "element_id": 12799999340,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "generator",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'generator:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.065415",
+        "url": "https://www.openstreetmap.org/node/12799999340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.620452078599373,
+          34.09544352525185
+        ]
+      },
+      "properties": {
+        "id": "way/163508115",
+        "element_id": 163508115,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 11 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.070413",
+        "url": "https://www.openstreetmap.org/way/163508115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.86916787283621,
+          31.03638016111321
+        ]
+      },
+      "properties": {
+        "id": "way/396095146",
+        "element_id": 396095146,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:41:16.075413",
+        "url": "https://www.openstreetmap.org/way/396095146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.464052058463677,
+          32.10683663843565
+        ]
+      },
+      "properties": {
+        "id": "way/504108035",
+        "element_id": 504108035,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 13 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.075413",
+        "url": "https://www.openstreetmap.org/way/504108035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.385342790694589,
+          27.019275218596075
+        ]
+      },
+      "properties": {
+        "id": "way/530569765",
+        "element_id": 530569765,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.076413",
+        "url": "https://www.openstreetmap.org/way/530569765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.385342790694589,
+          27.019275218596075
+        ]
+      },
+      "properties": {
+        "id": "way/530569765",
+        "element_id": 530569765,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Parc Éolien de Laâyoune', 'name:en': 'Laâyoune Wind Farm', 'name:fr': 'Parc Éolien de Laâyoune', 'plant:source': 'wind', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.077413",
+        "url": "https://www.openstreetmap.org/way/530569765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.958531452483165,
+          21.424463537559895
+        ]
+      },
+      "properties": {
+        "id": "way/552928634",
+        "element_id": 552928634,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.077413",
+        "url": "https://www.openstreetmap.org/way/552928634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.958531452483165,
+          21.424463537559895
+        ]
+      },
+      "properties": {
+        "id": "way/552928634",
+        "element_id": 552928634,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.079413",
+        "url": "https://www.openstreetmap.org/way/552928634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.927560128499705,
+          32.22151217947669
+        ]
+      },
+      "properties": {
+        "id": "way/643476929",
+        "element_id": 643476929,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Benguerir ⴱⴰⵏⴳⵔⵉⵔ بن\\xa0گرير', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.079413",
+        "url": "https://www.openstreetmap.org/way/643476929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.927560128499705,
+          32.22151217947669
+        ]
+      },
+      "properties": {
+        "id": "way/643476929",
+        "element_id": 643476929,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.079413",
+        "url": "https://www.openstreetmap.org/way/643476929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.234821225681612,
+          35.279230157171064
+        ]
+      },
+      "properties": {
+        "id": "way/834066917",
+        "element_id": 834066917,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.080413",
+        "url": "https://www.openstreetmap.org/way/834066917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.606972103670038,
+          33.027406857326895
+        ]
+      },
+      "properties": {
+        "id": "way/834066939",
+        "element_id": 834066939,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.082413",
+        "url": "https://www.openstreetmap.org/way/834066939"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.492544998417444,
+          33.08008943931283
+        ]
+      },
+      "properties": {
+        "id": "way/834066940",
+        "element_id": 834066940,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.082413",
+        "url": "https://www.openstreetmap.org/way/834066940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1038111497994687,
+          34.07025511583412
+        ]
+      },
+      "properties": {
+        "id": "way/891089476",
+        "element_id": 891089476,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 14 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.083413",
+        "url": "https://www.openstreetmap.org/way/891089476"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.245449451800184,
+          32.05367417550588
+        ]
+      },
+      "properties": {
+        "id": "way/1106030628",
+        "element_id": 1106030628,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.084413",
+        "url": "https://www.openstreetmap.org/way/1106030628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.245449451800184,
+          32.05367417550588
+        ]
+      },
+      "properties": {
+        "id": "way/1106030628",
+        "element_id": 1106030628,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.084413",
+        "url": "https://www.openstreetmap.org/way/1106030628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.24005820712699,
+          32.05395962898043
+        ]
+      },
+      "properties": {
+        "id": "way/1106030629",
+        "element_id": 1106030629,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.084413",
+        "url": "https://www.openstreetmap.org/way/1106030629"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.24005820712699,
+          32.05395962898043
+        ]
+      },
+      "properties": {
+        "id": "way/1106030629",
+        "element_id": 1106030629,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.084413",
+        "url": "https://www.openstreetmap.org/way/1106030629"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.199080173021019,
+          32.039768289054585
+        ]
+      },
+      "properties": {
+        "id": "way/1106030630",
+        "element_id": 1106030630,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.084413",
+        "url": "https://www.openstreetmap.org/way/1106030630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.199080173021019,
+          32.039768289054585
+        ]
+      },
+      "properties": {
+        "id": "way/1106030630",
+        "element_id": 1106030630,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.084413",
+        "url": "https://www.openstreetmap.org/way/1106030630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.681991121396353,
+          30.504109035223923
+        ]
+      },
+      "properties": {
+        "id": "way/1187902088",
+        "element_id": 1187902088,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'waste', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.085413",
+        "url": "https://www.openstreetmap.org/way/1187902088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.681991121396353,
+          30.504109035223923
+        ]
+      },
+      "properties": {
+        "id": "way/1187902088",
+        "element_id": 1187902088,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.085413",
+        "url": "https://www.openstreetmap.org/way/1187902088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.23453673765996,
+          30.984282824796995
+        ]
+      },
+      "properties": {
+        "id": "way/1206612071",
+        "element_id": 1206612071,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.085413",
+        "url": "https://www.openstreetmap.org/way/1206612071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.23453673765996,
+          30.984282824796995
+        ]
+      },
+      "properties": {
+        "id": "way/1206612071",
+        "element_id": 1206612071,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.085413",
+        "url": "https://www.openstreetmap.org/way/1206612071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.579128682969225,
+          31.284224551978983
+        ]
+      },
+      "properties": {
+        "id": "way/1207270128",
+        "element_id": 1207270128,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.085413",
+        "url": "https://www.openstreetmap.org/way/1207270128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.579128682969225,
+          31.284224551978983
+        ]
+      },
+      "properties": {
+        "id": "way/1207270128",
+        "element_id": 1207270128,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.085413",
+        "url": "https://www.openstreetmap.org/way/1207270128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.579128682969225,
+          31.284224551978983
+        ]
+      },
+      "properties": {
+        "id": "way/1207270128",
+        "element_id": 1207270128,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.086413",
+        "url": "https://www.openstreetmap.org/way/1207270128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.974274815219258,
+          35.033936511202974
+        ]
+      },
+      "properties": {
+        "id": "way/1208255603",
+        "element_id": 1208255603,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.086413",
+        "url": "https://www.openstreetmap.org/way/1208255603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.974274815219258,
+          35.033936511202974
+        ]
+      },
+      "properties": {
+        "id": "way/1208255603",
+        "element_id": 1208255603,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.086413",
+        "url": "https://www.openstreetmap.org/way/1208255603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9555920610288755,
+          31.49208137421472
+        ]
+      },
+      "properties": {
+        "id": "way/1208899673",
+        "element_id": 1208899673,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.087413",
+        "url": "https://www.openstreetmap.org/way/1208899673"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9555920610288755,
+          31.49208137421472
+        ]
+      },
+      "properties": {
+        "id": "way/1208899673",
+        "element_id": 1208899673,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.087413",
+        "url": "https://www.openstreetmap.org/way/1208899673"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.719237574346776,
+          31.581019746949604
+        ]
+      },
+      "properties": {
+        "id": "way/1209754876",
+        "element_id": 1209754876,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.087413",
+        "url": "https://www.openstreetmap.org/way/1209754876"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.719237574346776,
+          31.581019746949604
+        ]
+      },
+      "properties": {
+        "id": "way/1209754876",
+        "element_id": 1209754876,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.087413",
+        "url": "https://www.openstreetmap.org/way/1209754876"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.769825306565466,
+          31.30137047804605
+        ]
+      },
+      "properties": {
+        "id": "way/1218058865",
+        "element_id": 1218058865,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.087413",
+        "url": "https://www.openstreetmap.org/way/1218058865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.769825306565466,
+          31.30137047804605
+        ]
+      },
+      "properties": {
+        "id": "way/1218058865",
+        "element_id": 1218058865,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.087413",
+        "url": "https://www.openstreetmap.org/way/1218058865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.983911868544308,
+          30.495480664832936
+        ]
+      },
+      "properties": {
+        "id": "way/1219060038",
+        "element_id": 1219060038,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.087413",
+        "url": "https://www.openstreetmap.org/way/1219060038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.983911868544308,
+          30.495480664832936
+        ]
+      },
+      "properties": {
+        "id": "way/1219060038",
+        "element_id": 1219060038,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.087413",
+        "url": "https://www.openstreetmap.org/way/1219060038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.985985665793843,
+          30.49092327121673
+        ]
+      },
+      "properties": {
+        "id": "way/1219060064",
+        "element_id": 1219060064,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.087413",
+        "url": "https://www.openstreetmap.org/way/1219060064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.985985665793843,
+          30.49092327121673
+        ]
+      },
+      "properties": {
+        "id": "way/1219060064",
+        "element_id": 1219060064,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.087413",
+        "url": "https://www.openstreetmap.org/way/1219060064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.214009689014128,
+          29.31262002267306
+        ]
+      },
+      "properties": {
+        "id": "way/1222303018",
+        "element_id": 1222303018,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:41:16.087413",
+        "url": "https://www.openstreetmap.org/way/1222303018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.214009689014128,
+          29.31262002267306
+        ]
+      },
+      "properties": {
+        "id": "way/1222303018",
+        "element_id": 1222303018,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.087413",
+        "url": "https://www.openstreetmap.org/way/1222303018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.214423427032738,
+          29.31545767291595
+        ]
+      },
+      "properties": {
+        "id": "way/1222303031",
+        "element_id": 1222303031,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:41:16.087413",
+        "url": "https://www.openstreetmap.org/way/1222303031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.214423427032738,
+          29.31545767291595
+        ]
+      },
+      "properties": {
+        "id": "way/1222303031",
+        "element_id": 1222303031,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.087413",
+        "url": "https://www.openstreetmap.org/way/1222303031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.21443095,
+          29.315512700000003
+        ]
+      },
+      "properties": {
+        "id": "way/1222303033",
+        "element_id": 1222303033,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:41:16.087413",
+        "url": "https://www.openstreetmap.org/way/1222303033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.21443095,
+          29.315512700000003
+        ]
+      },
+      "properties": {
+        "id": "way/1222303033",
+        "element_id": 1222303033,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.087413",
+        "url": "https://www.openstreetmap.org/way/1222303033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.803332548913345,
+          31.525761078877075
+        ]
+      },
+      "properties": {
+        "id": "way/1223835634",
+        "element_id": 1223835634,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.088413",
+        "url": "https://www.openstreetmap.org/way/1223835634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.803332548913345,
+          31.525761078877075
+        ]
+      },
+      "properties": {
+        "id": "way/1223835634",
+        "element_id": 1223835634,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.088413",
+        "url": "https://www.openstreetmap.org/way/1223835634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.78321925,
+          31.594961
+        ]
+      },
+      "properties": {
+        "id": "way/1230227334",
+        "element_id": 1230227334,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.088413",
+        "url": "https://www.openstreetmap.org/way/1230227334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.78321925,
+          31.594961
+        ]
+      },
+      "properties": {
+        "id": "way/1230227334",
+        "element_id": 1230227334,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.088413",
+        "url": "https://www.openstreetmap.org/way/1230227334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.783106629724112,
+          31.595157896036294
+        ]
+      },
+      "properties": {
+        "id": "way/1230227335",
+        "element_id": 1230227335,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.088413",
+        "url": "https://www.openstreetmap.org/way/1230227335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.783106629724112,
+          31.595157896036294
+        ]
+      },
+      "properties": {
+        "id": "way/1230227335",
+        "element_id": 1230227335,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.088413",
+        "url": "https://www.openstreetmap.org/way/1230227335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.710801424704867,
+          31.58640139020498
+        ]
+      },
+      "properties": {
+        "id": "way/1234695909",
+        "element_id": 1234695909,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.088413",
+        "url": "https://www.openstreetmap.org/way/1234695909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.710801424704867,
+          31.58640139020498
+        ]
+      },
+      "properties": {
+        "id": "way/1234695909",
+        "element_id": 1234695909,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.088413",
+        "url": "https://www.openstreetmap.org/way/1234695909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.960066015965384,
+          31.57125433086925
+        ]
+      },
+      "properties": {
+        "id": "way/1235876839",
+        "element_id": 1235876839,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.088413",
+        "url": "https://www.openstreetmap.org/way/1235876839"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.960066015965384,
+          31.57125433086925
+        ]
+      },
+      "properties": {
+        "id": "way/1235876839",
+        "element_id": 1235876839,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.088413",
+        "url": "https://www.openstreetmap.org/way/1235876839"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.960407511930351,
+          31.57184604044689
+        ]
+      },
+      "properties": {
+        "id": "way/1235876840",
+        "element_id": 1235876840,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.088413",
+        "url": "https://www.openstreetmap.org/way/1235876840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.960407511930351,
+          31.57184604044689
+        ]
+      },
+      "properties": {
+        "id": "way/1235876840",
+        "element_id": 1235876840,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.088413",
+        "url": "https://www.openstreetmap.org/way/1235876840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.972888969928805,
+          31.570852725233426
+        ]
+      },
+      "properties": {
+        "id": "way/1235876841",
+        "element_id": 1235876841,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.088413",
+        "url": "https://www.openstreetmap.org/way/1235876841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.972888969928805,
+          31.570852725233426
+        ]
+      },
+      "properties": {
+        "id": "way/1235876841",
+        "element_id": 1235876841,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.088413",
+        "url": "https://www.openstreetmap.org/way/1235876841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.975680840112894,
+          31.571180458088783
+        ]
+      },
+      "properties": {
+        "id": "way/1235876844",
+        "element_id": 1235876844,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.089413",
+        "url": "https://www.openstreetmap.org/way/1235876844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.975680840112894,
+          31.571180458088783
+        ]
+      },
+      "properties": {
+        "id": "way/1235876844",
+        "element_id": 1235876844,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.089413",
+        "url": "https://www.openstreetmap.org/way/1235876844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.958168519197004,
+          31.565709494600505
+        ]
+      },
+      "properties": {
+        "id": "way/1235876858",
+        "element_id": 1235876858,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.089413",
+        "url": "https://www.openstreetmap.org/way/1235876858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.958168519197004,
+          31.565709494600505
+        ]
+      },
+      "properties": {
+        "id": "way/1235876858",
+        "element_id": 1235876858,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.089413",
+        "url": "https://www.openstreetmap.org/way/1235876858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.958159487333204,
+          31.565633426529637
+        ]
+      },
+      "properties": {
+        "id": "way/1235876859",
+        "element_id": 1235876859,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.089413",
+        "url": "https://www.openstreetmap.org/way/1235876859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.958159487333204,
+          31.565633426529637
+        ]
+      },
+      "properties": {
+        "id": "way/1235876859",
+        "element_id": 1235876859,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.089413",
+        "url": "https://www.openstreetmap.org/way/1235876859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.959282068011487,
+          31.565708288963688
+        ]
+      },
+      "properties": {
+        "id": "way/1235876861",
+        "element_id": 1235876861,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.089413",
+        "url": "https://www.openstreetmap.org/way/1235876861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.959282068011487,
+          31.565708288963688
+        ]
+      },
+      "properties": {
+        "id": "way/1235876861",
+        "element_id": 1235876861,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.089413",
+        "url": "https://www.openstreetmap.org/way/1235876861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.97428314288589,
+          31.56720484650839
+        ]
+      },
+      "properties": {
+        "id": "way/1235876870",
+        "element_id": 1235876870,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.089413",
+        "url": "https://www.openstreetmap.org/way/1235876870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.97428314288589,
+          31.56720484650839
+        ]
+      },
+      "properties": {
+        "id": "way/1235876870",
+        "element_id": 1235876870,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.089413",
+        "url": "https://www.openstreetmap.org/way/1235876870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.972274352693764,
+          31.567348515280116
+        ]
+      },
+      "properties": {
+        "id": "way/1235876871",
+        "element_id": 1235876871,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.089413",
+        "url": "https://www.openstreetmap.org/way/1235876871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.972274352693764,
+          31.567348515280116
+        ]
+      },
+      "properties": {
+        "id": "way/1235876871",
+        "element_id": 1235876871,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.089413",
+        "url": "https://www.openstreetmap.org/way/1235876871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.072183196756866,
+          31.596344164939943
+        ]
+      },
+      "properties": {
+        "id": "way/1235877204",
+        "element_id": 1235877204,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.089413",
+        "url": "https://www.openstreetmap.org/way/1235877204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.072183196756866,
+          31.596344164939943
+        ]
+      },
+      "properties": {
+        "id": "way/1235877204",
+        "element_id": 1235877204,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.089413",
+        "url": "https://www.openstreetmap.org/way/1235877204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.738404499011194,
+          31.591261606488203
+        ]
+      },
+      "properties": {
+        "id": "way/1235897792",
+        "element_id": 1235897792,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.089413",
+        "url": "https://www.openstreetmap.org/way/1235897792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.738404499011194,
+          31.591261606488203
+        ]
+      },
+      "properties": {
+        "id": "way/1235897792",
+        "element_id": 1235897792,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.089413",
+        "url": "https://www.openstreetmap.org/way/1235897792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.726709793473871,
+          31.585167854521785
+        ]
+      },
+      "properties": {
+        "id": "way/1235897814",
+        "element_id": 1235897814,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.090413",
+        "url": "https://www.openstreetmap.org/way/1235897814"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.726709793473871,
+          31.585167854521785
+        ]
+      },
+      "properties": {
+        "id": "way/1235897814",
+        "element_id": 1235897814,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.090413",
+        "url": "https://www.openstreetmap.org/way/1235897814"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.437872071818505,
+          31.451077544260496
+        ]
+      },
+      "properties": {
+        "id": "way/1236308788",
+        "element_id": 1236308788,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.090413",
+        "url": "https://www.openstreetmap.org/way/1236308788"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.437872071818505,
+          31.451077544260496
+        ]
+      },
+      "properties": {
+        "id": "way/1236308788",
+        "element_id": 1236308788,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.090413",
+        "url": "https://www.openstreetmap.org/way/1236308788"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.049662865322157,
+          30.959857917962303
+        ]
+      },
+      "properties": {
+        "id": "way/1237991594",
+        "element_id": 1237991594,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.090413",
+        "url": "https://www.openstreetmap.org/way/1237991594"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.049662865322157,
+          30.959857917962303
+        ]
+      },
+      "properties": {
+        "id": "way/1237991594",
+        "element_id": 1237991594,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.090413",
+        "url": "https://www.openstreetmap.org/way/1237991594"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.049799766770758,
+          30.960017151191423
+        ]
+      },
+      "properties": {
+        "id": "way/1237991595",
+        "element_id": 1237991595,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.090413",
+        "url": "https://www.openstreetmap.org/way/1237991595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.049799766770758,
+          30.960017151191423
+        ]
+      },
+      "properties": {
+        "id": "way/1237991595",
+        "element_id": 1237991595,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.090413",
+        "url": "https://www.openstreetmap.org/way/1237991595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.04983755,
+          30.9594904
+        ]
+      },
+      "properties": {
+        "id": "way/1237991596",
+        "element_id": 1237991596,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.090413",
+        "url": "https://www.openstreetmap.org/way/1237991596"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.04983755,
+          30.9594904
+        ]
+      },
+      "properties": {
+        "id": "way/1237991596",
+        "element_id": 1237991596,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.090413",
+        "url": "https://www.openstreetmap.org/way/1237991596"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.050009666770759,
+          30.959742251191432
+        ]
+      },
+      "properties": {
+        "id": "way/1237991597",
+        "element_id": 1237991597,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.090413",
+        "url": "https://www.openstreetmap.org/way/1237991597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.050009666770759,
+          30.959742251191432
+        ]
+      },
+      "properties": {
+        "id": "way/1237991597",
+        "element_id": 1237991597,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.090413",
+        "url": "https://www.openstreetmap.org/way/1237991597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.050074699999999,
+          30.95987515
+        ]
+      },
+      "properties": {
+        "id": "way/1237991598",
+        "element_id": 1237991598,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.090413",
+        "url": "https://www.openstreetmap.org/way/1237991598"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.050074699999999,
+          30.95987515
+        ]
+      },
+      "properties": {
+        "id": "way/1237991598",
+        "element_id": 1237991598,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.090413",
+        "url": "https://www.openstreetmap.org/way/1237991598"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.050189466770759,
+          30.960057551191426
+        ]
+      },
+      "properties": {
+        "id": "way/1237991599",
+        "element_id": 1237991599,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.091413",
+        "url": "https://www.openstreetmap.org/way/1237991599"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.050189466770759,
+          30.960057551191426
+        ]
+      },
+      "properties": {
+        "id": "way/1237991599",
+        "element_id": 1237991599,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.091413",
+        "url": "https://www.openstreetmap.org/way/1237991599"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.050062498551285,
+          30.96020001677099
+        ]
+      },
+      "properties": {
+        "id": "way/1237991600",
+        "element_id": 1237991600,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.091413",
+        "url": "https://www.openstreetmap.org/way/1237991600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.050062498551285,
+          30.96020001677099
+        ]
+      },
+      "properties": {
+        "id": "way/1237991600",
+        "element_id": 1237991600,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.091413",
+        "url": "https://www.openstreetmap.org/way/1237991600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.050118298551283,
+          30.960317916770983
+        ]
+      },
+      "properties": {
+        "id": "way/1237991601",
+        "element_id": 1237991601,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.091413",
+        "url": "https://www.openstreetmap.org/way/1237991601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.050118298551283,
+          30.960317916770983
+        ]
+      },
+      "properties": {
+        "id": "way/1237991601",
+        "element_id": 1237991601,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.091413",
+        "url": "https://www.openstreetmap.org/way/1237991601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.970727243961724,
+          31.45294216436905
+        ]
+      },
+      "properties": {
+        "id": "way/1239620926",
+        "element_id": 1239620926,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.091413",
+        "url": "https://www.openstreetmap.org/way/1239620926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.970727243961724,
+          31.45294216436905
+        ]
+      },
+      "properties": {
+        "id": "way/1239620926",
+        "element_id": 1239620926,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.091413",
+        "url": "https://www.openstreetmap.org/way/1239620926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.150703032463616,
+          31.664893797801493
+        ]
+      },
+      "properties": {
+        "id": "way/1245821075",
+        "element_id": 1245821075,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.091413",
+        "url": "https://www.openstreetmap.org/way/1245821075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.150703032463616,
+          31.664893797801493
+        ]
+      },
+      "properties": {
+        "id": "way/1245821075",
+        "element_id": 1245821075,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.091413",
+        "url": "https://www.openstreetmap.org/way/1245821075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.842238210700305,
+          31.03040272468141
+        ]
+      },
+      "properties": {
+        "id": "way/1265920887",
+        "element_id": 1265920887,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.091413",
+        "url": "https://www.openstreetmap.org/way/1265920887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.842238210700305,
+          31.03040272468141
+        ]
+      },
+      "properties": {
+        "id": "way/1265920887",
+        "element_id": 1265920887,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.093413",
+        "url": "https://www.openstreetmap.org/way/1265920887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.778884050000001,
+          31.54015075
+        ]
+      },
+      "properties": {
+        "id": "way/1272371214",
+        "element_id": 1272371214,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.093413",
+        "url": "https://www.openstreetmap.org/way/1272371214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.778884050000001,
+          31.54015075
+        ]
+      },
+      "properties": {
+        "id": "way/1272371214",
+        "element_id": 1272371214,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.093413",
+        "url": "https://www.openstreetmap.org/way/1272371214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.47789605,
+          29.8623894
+        ]
+      },
+      "properties": {
+        "id": "way/1276491352",
+        "element_id": 1276491352,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.093413",
+        "url": "https://www.openstreetmap.org/way/1276491352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.47789605,
+          29.8623894
+        ]
+      },
+      "properties": {
+        "id": "way/1276491352",
+        "element_id": 1276491352,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.093413",
+        "url": "https://www.openstreetmap.org/way/1276491352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.47789605,
+          29.8623894
+        ]
+      },
+      "properties": {
+        "id": "way/1276491352",
+        "element_id": 1276491352,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.094413",
+        "url": "https://www.openstreetmap.org/way/1276491352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.932220307219078,
+          34.00730655177077
+        ]
+      },
+      "properties": {
+        "id": "way/1295450035",
+        "element_id": 1295450035,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.094413",
+        "url": "https://www.openstreetmap.org/way/1295450035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.932410840379427,
+          35.66631211092085
+        ]
+      },
+      "properties": {
+        "id": "way/1327843662",
+        "element_id": 1327843662,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.095413",
+        "url": "https://www.openstreetmap.org/way/1327843662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.932410840379427,
+          35.66631211092085
+        ]
+      },
+      "properties": {
+        "id": "way/1327843662",
+        "element_id": 1327843662,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.095413",
+        "url": "https://www.openstreetmap.org/way/1327843662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.932410840379427,
+          35.66631211092085
+        ]
+      },
+      "properties": {
+        "id": "way/1327843662",
+        "element_id": 1327843662,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.096413",
+        "url": "https://www.openstreetmap.org/way/1327843662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.06401764022581,
+          32.936524242936684
+        ]
+      },
+      "properties": {
+        "id": "way/1332404438",
+        "element_id": 1332404438,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.096413",
+        "url": "https://www.openstreetmap.org/way/1332404438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.06401764022581,
+          32.936524242936684
+        ]
+      },
+      "properties": {
+        "id": "way/1332404438",
+        "element_id": 1332404438,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.096413",
+        "url": "https://www.openstreetmap.org/way/1332404438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.06401764022581,
+          32.936524242936684
+        ]
+      },
+      "properties": {
+        "id": "way/1332404438",
+        "element_id": 1332404438,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.097414",
+        "url": "https://www.openstreetmap.org/way/1332404438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.06046054228347,
+          32.9385764167161
+        ]
+      },
+      "properties": {
+        "id": "way/1332404444",
+        "element_id": 1332404444,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.097414",
+        "url": "https://www.openstreetmap.org/way/1332404444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.06046054228347,
+          32.9385764167161
+        ]
+      },
+      "properties": {
+        "id": "way/1332404444",
+        "element_id": 1332404444,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.097414",
+        "url": "https://www.openstreetmap.org/way/1332404444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.06046054228347,
+          32.9385764167161
+        ]
+      },
+      "properties": {
+        "id": "way/1332404444",
+        "element_id": 1332404444,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.097414",
+        "url": "https://www.openstreetmap.org/way/1332404444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.059568806091395,
+          32.93858604675014
+        ]
+      },
+      "properties": {
+        "id": "way/1332404450",
+        "element_id": 1332404450,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.097414",
+        "url": "https://www.openstreetmap.org/way/1332404450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.059568806091395,
+          32.93858604675014
+        ]
+      },
+      "properties": {
+        "id": "way/1332404450",
+        "element_id": 1332404450,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.097414",
+        "url": "https://www.openstreetmap.org/way/1332404450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.059568806091395,
+          32.93858604675014
+        ]
+      },
+      "properties": {
+        "id": "way/1332404450",
+        "element_id": 1332404450,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:41:16.097414",
+        "url": "https://www.openstreetmap.org/way/1332404450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.893963074232486,
+          31.802008085175352
+        ]
+      },
+      "properties": {
+        "id": "way/1372797737",
+        "element_id": 1372797737,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.097414",
+        "url": "https://www.openstreetmap.org/way/1372797737"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.29726841805531,
+          33.28891512464867
+        ]
+      },
+      "properties": {
+        "id": "way/1373328973",
+        "element_id": 1373328973,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.097414",
+        "url": "https://www.openstreetmap.org/way/1373328973"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.29726841805531,
+          33.28891512464867
+        ]
+      },
+      "properties": {
+        "id": "way/1373328973",
+        "element_id": 1373328973,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.097414",
+        "url": "https://www.openstreetmap.org/way/1373328973"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.29726841805531,
+          33.28891512464867
+        ]
+      },
+      "properties": {
+        "id": "way/1373328973",
+        "element_id": 1373328973,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.099410",
+        "url": "https://www.openstreetmap.org/way/1373328973"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.549495488445569,
+          33.239500408399
+        ]
+      },
+      "properties": {
+        "id": "way/1373329833",
+        "element_id": 1373329833,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.099410",
+        "url": "https://www.openstreetmap.org/way/1373329833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.549495488445569,
+          33.239500408399
+        ]
+      },
+      "properties": {
+        "id": "way/1373329833",
+        "element_id": 1373329833,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.099410",
+        "url": "https://www.openstreetmap.org/way/1373329833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.549495488445569,
+          33.239500408399
+        ]
+      },
+      "properties": {
+        "id": "way/1373329833",
+        "element_id": 1373329833,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.100924",
+        "url": "https://www.openstreetmap.org/way/1373329833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.663632896091407,
+          34.29569445787738
+        ]
+      },
+      "properties": {
+        "id": "way/1373342686",
+        "element_id": 1373342686,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:41:16.100924",
+        "url": "https://www.openstreetmap.org/way/1373342686"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.663632896091407,
+          34.29569445787738
+        ]
+      },
+      "properties": {
+        "id": "way/1373342686",
+        "element_id": 1373342686,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.100924",
+        "url": "https://www.openstreetmap.org/way/1373342686"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8694001,
+          31.0492001
+        ]
+      },
+      "properties": {
+        "id": "node/12724302492",
+        "element_id": 12724302492,
+        "element_type": "node",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Noor', 'power': 'plant', 'website:de': 'https://de.m.wikipedia.org/wiki/Kraftwerk_Ouarzazate'}",
+        "timestamp": "2025-07-07 18:41:16.102432",
+        "url": "https://www.openstreetmap.org/node/12724302492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.663632896091407,
+          34.29569445787738
+        ]
+      },
+      "properties": {
+        "id": "way/1373342686",
+        "element_id": 1373342686,
+        "element_type": "way",
+        "country": "Morocco",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:41:16.102432",
+        "url": "https://www.openstreetmap.org/way/1373342686"
+      }
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.652165644980216,
+          4.972117607095431
+        ]
+      },
+      "properties": {
+        "id": "way/203177226",
+        "element_id": 203177226,
+        "element_type": "way",
+        "country": "Côte d'Ivoire",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:27:38.940579",
+        "url": "https://www.openstreetmap.org/way/203177226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.652165644980216,
+          4.972117607095431
+        ]
+      },
+      "properties": {
+        "id": "way/203177226",
+        "element_id": 203177226,
+        "element_type": "way",
+        "country": "Côte d'Ivoire",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:38.940579",
+        "url": "https://www.openstreetmap.org/way/203177226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.652165644980216,
+          4.972117607095431
+        ]
+      },
+      "properties": {
+        "id": "way/203177226",
+        "element_id": 203177226,
+        "element_type": "way",
+        "country": "Côte d'Ivoire",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:27:38.940579",
+        "url": "https://www.openstreetmap.org/way/203177226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0050241,
+          9.2509245
+        ]
+      },
+      "properties": {
+        "id": "node/12842632326",
+        "element_id": 12842632326,
+        "element_type": "node",
+        "country": "Côte d'Ivoire",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Poste 90kV Bouna', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:38.944585",
+        "url": "https://www.openstreetmap.org/node/12842632326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.570860719379019,
+          5.697807400431931
+        ]
+      },
+      "properties": {
+        "id": "way/1043106265",
+        "element_id": 1043106265,
+        "element_type": "way",
+        "country": "Côte d'Ivoire",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:27:38.944585",
+        "url": "https://www.openstreetmap.org/way/1043106265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7556273022962383,
+          5.228472289825456
+        ]
+      },
+      "properties": {
+        "id": "way/1229027527",
+        "element_id": 1229027527,
+        "element_type": "way",
+        "country": "Côte d'Ivoire",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:38.944585",
+        "url": "https://www.openstreetmap.org/way/1229027527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7556273022962383,
+          5.228472289825456
+        ]
+      },
+      "properties": {
+        "id": "way/1229027527",
+        "element_id": 1229027527,
+        "element_type": "way",
+        "country": "Côte d'Ivoire",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:27:38.944585",
+        "url": "https://www.openstreetmap.org/way/1229027527"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1061 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.46755869544124,
+          3.900120844709169
+        ]
+      },
+      "properties": {
+        "id": "relation/9245407",
+        "element_id": 9245407,
+        "element_type": "relation",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:40:13.394861",
+        "url": "https://www.openstreetmap.org/relation/9245407"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.46755869544124,
+          3.900120844709169
+        ]
+      },
+      "properties": {
+        "id": "relation/9245407",
+        "element_id": 9245407,
+        "element_type": "relation",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:40:13.394861",
+        "url": "https://www.openstreetmap.org/relation/9245407"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.24693675,
+          6.287112950000001
+        ]
+      },
+      "properties": {
+        "id": "way/298204770",
+        "element_id": 298204770,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Power House', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.395858",
+        "url": "https://www.openstreetmap.org/way/298204770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.53840123516643,
+          4.204171302839362
+        ]
+      },
+      "properties": {
+        "id": "way/436343699",
+        "element_id": 436343699,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': \"Hulhumale'\", 'addr:postcode': '23000', 'addr:street': 'Midhuli Magu', 'landuse': 'industrial', 'name:en': 'Hulhumale Stelco power station', 'power': 'plant', 'source': 'https://www.gem.wiki/Hulhumale_power_station'}",
+        "timestamp": "2025-07-07 18:40:13.395858",
+        "url": "https://www.openstreetmap.org/way/436343699"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.45479253597982,
+          0.2874892868241657
+        ]
+      },
+      "properties": {
+        "id": "way/437890283",
+        "element_id": 437890283,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:13.395858",
+        "url": "https://www.openstreetmap.org/way/437890283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.45479253597982,
+          0.2874892868241657
+        ]
+      },
+      "properties": {
+        "id": "way/437890283",
+        "element_id": 437890283,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:13.395858",
+        "url": "https://www.openstreetmap.org/way/437890283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.36621450246781,
+          5.448656598770739
+        ]
+      },
+      "properties": {
+        "id": "way/590293031",
+        "element_id": 590293031,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:13.395858",
+        "url": "https://www.openstreetmap.org/way/590293031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.36621450246781,
+          5.448656598770739
+        ]
+      },
+      "properties": {
+        "id": "way/590293031",
+        "element_id": 590293031,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Naifaru Power House', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.398261",
+        "url": "https://www.openstreetmap.org/way/590293031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.51371539520235,
+          4.170202307006632
+        ]
+      },
+      "properties": {
+        "id": "way/672730035",
+        "element_id": 672730035,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.398261",
+        "url": "https://www.openstreetmap.org/way/672730035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.51371539520235,
+          4.170202307006632
+        ]
+      },
+      "properties": {
+        "id": "way/672730035",
+        "element_id": 672730035,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.398261",
+        "url": "https://www.openstreetmap.org/way/672730035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.099182792532,
+          -0.6293622236777178
+        ]
+      },
+      "properties": {
+        "id": "way/716398267",
+        "element_id": 716398267,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Central Power Station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.398261",
+        "url": "https://www.openstreetmap.org/way/716398267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.95297903087362,
+          6.550689073486186
+        ]
+      },
+      "properties": {
+        "id": "way/814112445",
+        "element_id": 814112445,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:13.398261",
+        "url": "https://www.openstreetmap.org/way/814112445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.95297903087362,
+          6.550689073486186
+        ]
+      },
+      "properties": {
+        "id": "way/814112445",
+        "element_id": 814112445,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "700 kW",
+        "details": "Tag 'plant:output:electricity' has value '700 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:40:13.398261",
+        "url": "https://www.openstreetmap.org/way/814112445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1358902873458,
+          5.156948766913409
+        ]
+      },
+      "properties": {
+        "id": "way/908903885",
+        "element_id": 908903885,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Dharavandhoo', 'addr:postcode': '06060', 'landuse': 'industrial', 'name': 'Power House', 'operator': 'Fenaka Corporation', 'plant:method': 'combustion', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.400258",
+        "url": "https://www.openstreetmap.org/way/908903885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.71452474695398,
+          4.4411294309416975
+        ]
+      },
+      "properties": {
+        "id": "way/1001663712",
+        "element_id": 1001663712,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:13.402259",
+        "url": "https://www.openstreetmap.org/way/1001663712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.71452474695398,
+          4.4411294309416975
+        ]
+      },
+      "properties": {
+        "id": "way/1001663712",
+        "element_id": 1001663712,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.402259",
+        "url": "https://www.openstreetmap.org/way/1001663712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.22620374176822,
+          -0.5889440668089204
+        ]
+      },
+      "properties": {
+        "id": "way/966098789",
+        "element_id": 966098789,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'FENAKA', 'power': 'plant', 'ref': 'Fenaka'}",
+        "timestamp": "2025-07-07 18:40:13.402259",
+        "url": "https://www.openstreetmap.org/way/966098789"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.71452474695398,
+          4.4411294309416975
+        ]
+      },
+      "properties": {
+        "id": "way/1001663712",
+        "element_id": 1001663712,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.403258",
+        "url": "https://www.openstreetmap.org/way/1001663712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.95629861261361,
+          3.609345134959739
+        ]
+      },
+      "properties": {
+        "id": "way/1003000885",
+        "element_id": 1003000885,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Stelco Dhangethi', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.404257",
+        "url": "https://www.openstreetmap.org/way/1003000885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.95603162963035,
+          6.5525565924940326
+        ]
+      },
+      "properties": {
+        "id": "way/1030017884",
+        "element_id": 1030017884,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:block_number': '118', 'addr:city': 'Vaikaradhoo', 'addr:postcode': '02140', 'addr:street': 'Thuhkoi Hingun', 'landuse': 'industrial', 'operator': 'Fenaka Corporation Limited (Vaikaradhoo)', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.404257",
+        "url": "https://www.openstreetmap.org/way/1030017884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.95603162963035,
+          6.5525565924940326
+        ]
+      },
+      "properties": {
+        "id": "way/1030017884",
+        "element_id": 1030017884,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:block_number': '118', 'addr:city': 'Vaikaradhoo', 'addr:postcode': '02140', 'addr:street': 'Thuhkoi Hingun', 'landuse': 'industrial', 'operator': 'Fenaka Corporation Limited (Vaikaradhoo)', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.404257",
+        "url": "https://www.openstreetmap.org/way/1030017884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97648648964548,
+          6.547209599030786
+        ]
+      },
+      "properties": {
+        "id": "way/1035327404",
+        "element_id": 1035327404,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.404257",
+        "url": "https://www.openstreetmap.org/way/1035327404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97648648964548,
+          6.547209599030786
+        ]
+      },
+      "properties": {
+        "id": "way/1035327404",
+        "element_id": 1035327404,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.404257",
+        "url": "https://www.openstreetmap.org/way/1035327404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.07130031381769,
+          6.613292302825808
+        ]
+      },
+      "properties": {
+        "id": "way/1042615541",
+        "element_id": 1042615541,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:13.404257",
+        "url": "https://www.openstreetmap.org/way/1042615541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2763607619668,
+          0.2328212955585656
+        ]
+      },
+      "properties": {
+        "id": "way/1104795141",
+        "element_id": 1104795141,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:13.405257",
+        "url": "https://www.openstreetmap.org/way/1104795141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2763607619668,
+          0.2328212955585656
+        ]
+      },
+      "properties": {
+        "id": "way/1104795141",
+        "element_id": 1104795141,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "850",
+        "details": "Tag 'plant:output:electricity' has value '850' which could not be parsed",
+        "timestamp": "2025-07-07 18:40:13.405257",
+        "url": "https://www.openstreetmap.org/way/1104795141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5110080822616,
+          0.3392424164844136
+        ]
+      },
+      "properties": {
+        "id": "way/1128062915",
+        "element_id": 1128062915,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Power station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.405257",
+        "url": "https://www.openstreetmap.org/way/1128062915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.74860804765,
+          4.189812900544945
+        ]
+      },
+      "properties": {
+        "id": "way/1154672338",
+        "element_id": 1154672338,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:13.405257",
+        "url": "https://www.openstreetmap.org/way/1154672338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.36908966951488,
+          5.458913676179469
+        ]
+      },
+      "properties": {
+        "id": "way/1216006035",
+        "element_id": 1216006035,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.405257",
+        "url": "https://www.openstreetmap.org/way/1216006035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.36908966951488,
+          5.458913676179469
+        ]
+      },
+      "properties": {
+        "id": "way/1216006035",
+        "element_id": 1216006035,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.405257",
+        "url": "https://www.openstreetmap.org/way/1216006035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.92461206677147,
+          7.088907582893771
+        ]
+      },
+      "properties": {
+        "id": "way/1216154620",
+        "element_id": 1216154620,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:13.405257",
+        "url": "https://www.openstreetmap.org/way/1216154620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99465174981017,
+          4.877545294596969
+        ]
+      },
+      "properties": {
+        "id": "way/1284783326",
+        "element_id": 1284783326,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:13.406257",
+        "url": "https://www.openstreetmap.org/way/1284783326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99465174981017,
+          4.877545294596969
+        ]
+      },
+      "properties": {
+        "id": "way/1284783326",
+        "element_id": 1284783326,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.406257",
+        "url": "https://www.openstreetmap.org/way/1284783326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99465174981017,
+          4.877545294596969
+        ]
+      },
+      "properties": {
+        "id": "way/1284783326",
+        "element_id": 1284783326,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.407257",
+        "url": "https://www.openstreetmap.org/way/1284783326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.998712557599,
+          4.876724323133446
+        ]
+      },
+      "properties": {
+        "id": "way/1284786698",
+        "element_id": 1284786698,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.407257",
+        "url": "https://www.openstreetmap.org/way/1284786698"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.998712557599,
+          4.876724323133446
+        ]
+      },
+      "properties": {
+        "id": "way/1284786698",
+        "element_id": 1284786698,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:13.407257",
+        "url": "https://www.openstreetmap.org/way/1284786698"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5378776595275,
+          4.1892126246198655
+        ]
+      },
+      "properties": {
+        "id": "way/1330630853",
+        "element_id": 1330630853,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.407257",
+        "url": "https://www.openstreetmap.org/way/1330630853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5378776595275,
+          4.1892126246198655
+        ]
+      },
+      "properties": {
+        "id": "way/1330630853",
+        "element_id": 1330630853,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:13.407257",
+        "url": "https://www.openstreetmap.org/way/1330630853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.53729626187754,
+          4.187761832685364
+        ]
+      },
+      "properties": {
+        "id": "way/1330630854",
+        "element_id": 1330630854,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.407257",
+        "url": "https://www.openstreetmap.org/way/1330630854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.53729626187754,
+          4.187761832685364
+        ]
+      },
+      "properties": {
+        "id": "way/1330630854",
+        "element_id": 1330630854,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:13.407257",
+        "url": "https://www.openstreetmap.org/way/1330630854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9928513,
+          6.8463259
+        ]
+      },
+      "properties": {
+        "id": "node/10196627343",
+        "element_id": 10196627343,
+        "element_type": "node",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:13.408257",
+        "url": "https://www.openstreetmap.org/node/10196627343"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.53811360322918,
+          4.218393273568672
+        ]
+      },
+      "properties": {
+        "id": "way/1330634423",
+        "element_id": 1330634423,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.408257",
+        "url": "https://www.openstreetmap.org/way/1330634423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.53811360322918,
+          4.218393273568672
+        ]
+      },
+      "properties": {
+        "id": "way/1330634423",
+        "element_id": 1330634423,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:13.408257",
+        "url": "https://www.openstreetmap.org/way/1330634423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.53800060019066,
+          4.218419099444036
+        ]
+      },
+      "properties": {
+        "id": "way/1330634424",
+        "element_id": 1330634424,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.408257",
+        "url": "https://www.openstreetmap.org/way/1330634424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.53800060019066,
+          4.218419099444036
+        ]
+      },
+      "properties": {
+        "id": "way/1330634424",
+        "element_id": 1330634424,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:13.408257",
+        "url": "https://www.openstreetmap.org/way/1330634424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.53820629966187,
+          4.218359751189918
+        ]
+      },
+      "properties": {
+        "id": "way/1330634425",
+        "element_id": 1330634425,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.408257",
+        "url": "https://www.openstreetmap.org/way/1330634425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.53820629966187,
+          4.218359751189918
+        ]
+      },
+      "properties": {
+        "id": "way/1330634425",
+        "element_id": 1330634425,
+        "element_type": "way",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:13.408257",
+        "url": "https://www.openstreetmap.org/way/1330634425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9928513,
+          6.8463259
+        ]
+      },
+      "properties": {
+        "id": "node/10196627343",
+        "element_id": 10196627343,
+        "element_type": "node",
+        "country": "Maldives",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Fenaka Power Station', 'office': 'government', 'operator': 'Fenaka Pvt Ltd', 'plant:source': 'gas;solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:13.410257",
+        "url": "https://www.openstreetmap.org/node/10196627343"
+      }
+    }
+  ]
+}

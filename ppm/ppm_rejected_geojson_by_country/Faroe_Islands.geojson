@@ -1,0 +1,379 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.149585213567449,
+          62.154211544276016
+        ]
+      },
+      "properties": {
+        "id": "way/40654173",
+        "element_id": 40654173,
+        "element_type": "way",
+        "country": "Faroe Islands",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 13 tags but none specify technology",
+        "timestamp": "2025-07-07 18:29:00.334821",
+        "url": "https://www.openstreetmap.org/way/40654173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.147779358146167,
+          62.150600497293766
+        ]
+      },
+      "properties": {
+        "id": "way/45774818",
+        "element_id": 45774818,
+        "element_type": "way",
+        "country": "Faroe Islands",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:29:00.334821",
+        "url": "https://www.openstreetmap.org/way/45774818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.147779358146167,
+          62.150600497293766
+        ]
+      },
+      "properties": {
+        "id": "way/45774818",
+        "element_id": 45774818,
+        "element_type": "way",
+        "country": "Faroe Islands",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'operator': 'SEV', 'plant:output:electricity': '4.8 MW', 'plant:source': 'hydro', 'power': 'plant', 'start_date': '1963'}",
+        "timestamp": "2025-07-07 18:29:00.334821",
+        "url": "https://www.openstreetmap.org/way/45774818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6460224,
+          62.10264679999999
+        ]
+      },
+      "properties": {
+        "id": "way/527318150",
+        "element_id": 527318150,
+        "element_type": "way",
+        "country": "Faroe Islands",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:29:00.337047",
+        "url": "https://www.openstreetmap.org/way/527318150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6460224,
+          62.10264679999999
+        ]
+      },
+      "properties": {
+        "id": "way/527318150",
+        "element_id": 527318150,
+        "element_type": "way",
+        "country": "Faroe Islands",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:29:00.337047",
+        "url": "https://www.openstreetmap.org/way/527318150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.855814755476335,
+          62.05053732368986
+        ]
+      },
+      "properties": {
+        "id": "way/767697897",
+        "element_id": 767697897,
+        "element_type": "way",
+        "country": "Faroe Islands",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:29:00.337047",
+        "url": "https://www.openstreetmap.org/way/767697897"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.812822784578066,
+          62.04715397631068
+        ]
+      },
+      "properties": {
+        "id": "way/984932708",
+        "element_id": 984932708,
+        "element_type": "way",
+        "country": "Faroe Islands",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:29:00.337047",
+        "url": "https://www.openstreetmap.org/way/984932708"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.812822784578066,
+          62.04715397631068
+        ]
+      },
+      "properties": {
+        "id": "way/984932708",
+        "element_id": 984932708,
+        "element_type": "way",
+        "country": "Faroe Islands",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Førka', 'plant:source': 'biogas', 'power': 'plant', 'start_date': '2020'}",
+        "timestamp": "2025-07-07 18:29:00.337047",
+        "url": "https://www.openstreetmap.org/way/984932708"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6464799,
+          62.1029103
+        ]
+      },
+      "properties": {
+        "id": "node/4905804484",
+        "element_id": 4905804484,
+        "element_type": "node",
+        "country": "Faroe Islands",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'powerstation', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:29:00.338055",
+        "url": "https://www.openstreetmap.org/node/4905804484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.072546465285641,
+          62.28099466053682
+        ]
+      },
+      "properties": {
+        "id": "way/1220078533",
+        "element_id": 1220078533,
+        "element_type": "way",
+        "country": "Faroe Islands",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:29:00.338055",
+        "url": "https://www.openstreetmap.org/way/1220078533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.072546465285641,
+          62.28099466053682
+        ]
+      },
+      "properties": {
+        "id": "way/1220078533",
+        "element_id": 1220078533,
+        "element_type": "way",
+        "country": "Faroe Islands",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:29:00.338055",
+        "url": "https://www.openstreetmap.org/way/1220078533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.072546465285641,
+          62.28099466053682
+        ]
+      },
+      "properties": {
+        "id": "way/1220078533",
+        "element_id": 1220078533,
+        "element_type": "way",
+        "country": "Faroe Islands",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:29:00.338055",
+        "url": "https://www.openstreetmap.org/way/1220078533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.147738635439289,
+          62.15059804998305
+        ]
+      },
+      "properties": {
+        "id": "way/1240294383",
+        "element_id": 1240294383,
+        "element_type": "way",
+        "country": "Faroe Islands",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:29:00.338055",
+        "url": "https://www.openstreetmap.org/way/1240294383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.147738635439289,
+          62.15059804998305
+        ]
+      },
+      "properties": {
+        "id": "way/1240294383",
+        "element_id": 1240294383,
+        "element_type": "way",
+        "country": "Faroe Islands",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:29:00.338055",
+        "url": "https://www.openstreetmap.org/way/1240294383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.10848390871791,
+          62.15467984825375
+        ]
+      },
+      "properties": {
+        "id": "way/1245154252",
+        "element_id": 1245154252,
+        "element_type": "way",
+        "country": "Faroe Islands",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:29:00.338055",
+        "url": "https://www.openstreetmap.org/way/1245154252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.10848390871791,
+          62.15467984825375
+        ]
+      },
+      "properties": {
+        "id": "way/1245154252",
+        "element_id": 1245154252,
+        "element_type": "way",
+        "country": "Faroe Islands",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:29:00.338055",
+        "url": "https://www.openstreetmap.org/way/1245154252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.10848390871791,
+          62.15467984825375
+        ]
+      },
+      "properties": {
+        "id": "way/1245154252",
+        "element_id": 1245154252,
+        "element_type": "way",
+        "country": "Faroe Islands",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:29:00.338055",
+        "url": "https://www.openstreetmap.org/way/1245154252"
+      }
+    }
+  ]
+}

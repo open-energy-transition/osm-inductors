@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.794519089865936,
+          8.53198764767908
+        ]
+      },
+      "properties": {
+        "id": "way/1136273735",
+        "element_id": 1136273735,
+        "element_type": "way",
+        "country": "Chad",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:36.619862",
+        "url": "https://www.openstreetmap.org/way/1136273735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.794519089865936,
+          8.53198764767908
+        ]
+      },
+      "properties": {
+        "id": "way/1136273735",
+        "element_id": 1136273735,
+        "element_type": "way",
+        "country": "Chad",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Doba Kome Power Plant', 'plant:source': 'diesel', 'power': 'plant', 'source': 'https://documents1.worldbank.org/curated/en/289441468743146491/pdf/multi-page.pdf', 'wikipedia': 'en:List of power stations in Chad'}",
+        "timestamp": "2025-07-07 18:25:36.619862",
+        "url": "https://www.openstreetmap.org/way/1136273735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.637433444790158,
+          7.912542148619535
+        ]
+      },
+      "properties": {
+        "id": "way/189490518",
+        "element_id": 189490518,
+        "element_type": "way",
+        "country": "Chad",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'name': 'Centrale Électrique محطة كهرباء', 'name:ar': 'محطة كهرباء', 'name:fr': 'Centrale Électrique', 'operator': 'Government', 'power': 'plant', 'project:eurosha_2012': 'yes', 'source': 'GPS', 'source:date': '2012-11-06'}",
+        "timestamp": "2025-07-07 18:25:36.619862",
+        "url": "https://www.openstreetmap.org/way/189490518"
+      }
+    }
+  ]
+}

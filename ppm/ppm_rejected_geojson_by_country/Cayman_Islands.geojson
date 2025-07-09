@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.36374702486296,
+          19.303209516192915
+        ]
+      },
+      "properties": {
+        "id": "way/1136859023",
+        "element_id": 1136859023,
+        "element_type": "way",
+        "country": "Cayman Islands",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:25:27.697347",
+        "url": "https://www.openstreetmap.org/way/1136859023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.36374702486296,
+          19.303209516192915
+        ]
+      },
+      "properties": {
+        "id": "way/1136859023",
+        "element_id": 1136859023,
+        "element_type": "way",
+        "country": "Cayman Islands",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'CUC North Sound Road Power Plant', 'operator': 'Caribbean Utilities Company', 'plant:source': 'diesel', 'power': 'plant', 'source': 'https://www.bwsc.com/Files/Files/PDF/Project%20brochures/Turnkey%20contractor/Central%20America%20and%20Caribbean/BWSC_Caribbean_Cayman_IV_30-0235.pdf'}",
+        "timestamp": "2025-07-07 18:25:27.697347",
+        "url": "https://www.openstreetmap.org/way/1136859023"
+      }
+    }
+  ]
+}

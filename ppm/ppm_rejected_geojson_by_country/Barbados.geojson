@@ -1,0 +1,1259 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.63205924806875,
+          13.125570243355751
+        ]
+      },
+      "properties": {
+        "id": "way/385133340",
+        "element_id": 385133340,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:22:48.653527",
+        "url": "https://www.openstreetmap.org/way/385133340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.63205924806875,
+          13.125570243355751
+        ]
+      },
+      "properties": {
+        "id": "way/385133340",
+        "element_id": 385133340,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'Spring Garden Power Plant', 'plant:source': 'diesel', 'power': 'plant', 'source': 'KG Ground Survey 2015;https://www.gem.wiki/Spring_Garden_power_station'}",
+        "timestamp": "2025-07-07 18:22:48.653527",
+        "url": "https://www.openstreetmap.org/way/385133340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.63049702125539,
+          13.294551006261928
+        ]
+      },
+      "properties": {
+        "id": "way/938041600",
+        "element_id": 938041600,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.654524",
+        "url": "https://www.openstreetmap.org/way/938041600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.49501881258411,
+          13.161710634425754
+        ]
+      },
+      "properties": {
+        "id": "way/938042555",
+        "element_id": 938042555,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'solar', 'generator:type': 'solar_photovoltaic_panel', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.654524",
+        "url": "https://www.openstreetmap.org/way/938042555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.49501881258411,
+          13.161710634425754
+        ]
+      },
+      "properties": {
+        "id": "way/938042555",
+        "element_id": 938042555,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.654524",
+        "url": "https://www.openstreetmap.org/way/938042555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.50035086521773,
+          13.134411926490197
+        ]
+      },
+      "properties": {
+        "id": "way/945024198",
+        "element_id": 945024198,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.654524",
+        "url": "https://www.openstreetmap.org/way/945024198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.50035086521773,
+          13.134411926490197
+        ]
+      },
+      "properties": {
+        "id": "way/945024198",
+        "element_id": 945024198,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.654524",
+        "url": "https://www.openstreetmap.org/way/945024198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.49575355,
+          13.1011977
+        ]
+      },
+      "properties": {
+        "id": "way/945750149",
+        "element_id": 945750149,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.654524",
+        "url": "https://www.openstreetmap.org/way/945750149"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.49575355,
+          13.1011977
+        ]
+      },
+      "properties": {
+        "id": "way/945750149",
+        "element_id": 945750149,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.654524",
+        "url": "https://www.openstreetmap.org/way/945750149"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.57636594181255,
+          13.090011661766464
+        ]
+      },
+      "properties": {
+        "id": "way/961074676",
+        "element_id": 961074676,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.654524",
+        "url": "https://www.openstreetmap.org/way/961074676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.57636594181255,
+          13.090011661766464
+        ]
+      },
+      "properties": {
+        "id": "way/961074676",
+        "element_id": 961074676,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.654524",
+        "url": "https://www.openstreetmap.org/way/961074676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.52712289181244,
+          13.114322517515836
+        ]
+      },
+      "properties": {
+        "id": "way/1035874728",
+        "element_id": 1035874728,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.655522",
+        "url": "https://www.openstreetmap.org/way/1035874728"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.52712289181244,
+          13.114322517515836
+        ]
+      },
+      "properties": {
+        "id": "way/1035874728",
+        "element_id": 1035874728,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.655522",
+        "url": "https://www.openstreetmap.org/way/1035874728"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.53919211131347,
+          13.11365446366196
+        ]
+      },
+      "properties": {
+        "id": "way/1051875764",
+        "element_id": 1051875764,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.655522",
+        "url": "https://www.openstreetmap.org/way/1051875764"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.53919211131347,
+          13.11365446366196
+        ]
+      },
+      "properties": {
+        "id": "way/1051875764",
+        "element_id": 1051875764,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.655522",
+        "url": "https://www.openstreetmap.org/way/1051875764"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.486963069445984,
+          13.1027115199817
+        ]
+      },
+      "properties": {
+        "id": "way/1051876107",
+        "element_id": 1051876107,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Foursquare', 'addr:street': 'Market Road', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.655522",
+        "url": "https://www.openstreetmap.org/way/1051876107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.486963069445984,
+          13.1027115199817
+        ]
+      },
+      "properties": {
+        "id": "way/1051876107",
+        "element_id": 1051876107,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.655522",
+        "url": "https://www.openstreetmap.org/way/1051876107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.48892413973416,
+          13.10199975191593
+        ]
+      },
+      "properties": {
+        "id": "way/1051876108",
+        "element_id": 1051876108,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Woodbourne', 'addr:street': 'Woodbourne Park', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.655522",
+        "url": "https://www.openstreetmap.org/way/1051876108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.48892413973416,
+          13.10199975191593
+        ]
+      },
+      "properties": {
+        "id": "way/1051876108",
+        "element_id": 1051876108,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.655522",
+        "url": "https://www.openstreetmap.org/way/1051876108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.49961705337104,
+          13.16410158574919
+        ]
+      },
+      "properties": {
+        "id": "way/1054042536",
+        "element_id": 1054042536,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Ashford', 'addr:street': 'Ashford Dairy Farm', 'operator': 'Pavana Energy Ltd.', 'plant:method': 'wind_turbine', 'plant:output:electricity': '1 MW', 'plant:source': 'wind', 'power': 'plant', 'website': 'https://pavanaenergy.com/ashford-plantation/'}",
+        "timestamp": "2025-07-07 18:22:48.655522",
+        "url": "https://www.openstreetmap.org/way/1054042536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.59998112802167,
+          13.154791171957887
+        ]
+      },
+      "properties": {
+        "id": "way/992078319",
+        "element_id": 992078319,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.655522",
+        "url": "https://www.openstreetmap.org/way/992078319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.59998112802167,
+          13.154791171957887
+        ]
+      },
+      "properties": {
+        "id": "way/992078319",
+        "element_id": 992078319,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.655522",
+        "url": "https://www.openstreetmap.org/way/992078319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.52908222473489,
+          13.108647815089876
+        ]
+      },
+      "properties": {
+        "id": "way/993182966",
+        "element_id": 993182966,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.655522",
+        "url": "https://www.openstreetmap.org/way/993182966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.52908222473489,
+          13.108647815089876
+        ]
+      },
+      "properties": {
+        "id": "way/993182966",
+        "element_id": 993182966,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.655522",
+        "url": "https://www.openstreetmap.org/way/993182966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.46780723857053,
+          13.11727387940791
+        ]
+      },
+      "properties": {
+        "id": "way/1061142986",
+        "element_id": 1061142986,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.656521",
+        "url": "https://www.openstreetmap.org/way/1061142986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.46780723857053,
+          13.11727387940791
+        ]
+      },
+      "properties": {
+        "id": "way/1061142986",
+        "element_id": 1061142986,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.656521",
+        "url": "https://www.openstreetmap.org/way/1061142986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.49694378272806,
+          13.077592352782732
+        ]
+      },
+      "properties": {
+        "id": "way/1071158178",
+        "element_id": 1071158178,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.656521",
+        "url": "https://www.openstreetmap.org/way/1071158178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.49694378272806,
+          13.077592352782732
+        ]
+      },
+      "properties": {
+        "id": "way/1071158178",
+        "element_id": 1071158178,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.656521",
+        "url": "https://www.openstreetmap.org/way/1071158178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.63642023302005,
+          13.195435188852551
+        ]
+      },
+      "properties": {
+        "id": "way/1088955811",
+        "element_id": 1088955811,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.656521",
+        "url": "https://www.openstreetmap.org/way/1088955811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.63642023302005,
+          13.195435188852551
+        ]
+      },
+      "properties": {
+        "id": "way/1088955811",
+        "element_id": 1088955811,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.656521",
+        "url": "https://www.openstreetmap.org/way/1088955811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6264993714069,
+          13.26814414635786
+        ]
+      },
+      "properties": {
+        "id": "way/1094609702",
+        "element_id": 1094609702,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.656521",
+        "url": "https://www.openstreetmap.org/way/1094609702"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6264993714069,
+          13.26814414635786
+        ]
+      },
+      "properties": {
+        "id": "way/1094609702",
+        "element_id": 1094609702,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.656521",
+        "url": "https://www.openstreetmap.org/way/1094609702"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.62655976552866,
+          13.267173318163769
+        ]
+      },
+      "properties": {
+        "id": "way/1094609703",
+        "element_id": 1094609703,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.656521",
+        "url": "https://www.openstreetmap.org/way/1094609703"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.62655976552866,
+          13.267173318163769
+        ]
+      },
+      "properties": {
+        "id": "way/1094609703",
+        "element_id": 1094609703,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.656521",
+        "url": "https://www.openstreetmap.org/way/1094609703"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.61167265631647,
+          13.332781826576769
+        ]
+      },
+      "properties": {
+        "id": "way/1102938240",
+        "element_id": 1102938240,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.656521",
+        "url": "https://www.openstreetmap.org/way/1102938240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.61167265631647,
+          13.332781826576769
+        ]
+      },
+      "properties": {
+        "id": "way/1102938240",
+        "element_id": 1102938240,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.656521",
+        "url": "https://www.openstreetmap.org/way/1102938240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.56633182334127,
+          13.19054723605009
+        ]
+      },
+      "properties": {
+        "id": "way/1144906840",
+        "element_id": 1144906840,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.657521",
+        "url": "https://www.openstreetmap.org/way/1144906840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.56633182334127,
+          13.19054723605009
+        ]
+      },
+      "properties": {
+        "id": "way/1144906840",
+        "element_id": 1144906840,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.657521",
+        "url": "https://www.openstreetmap.org/way/1144906840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.49522278484676,
+          13.103982123628311
+        ]
+      },
+      "properties": {
+        "id": "way/1192115468",
+        "element_id": 1192115468,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.657521",
+        "url": "https://www.openstreetmap.org/way/1192115468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.49522278484676,
+          13.103982123628311
+        ]
+      },
+      "properties": {
+        "id": "way/1192115468",
+        "element_id": 1192115468,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.657521",
+        "url": "https://www.openstreetmap.org/way/1192115468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.55828109710813,
+          13.083010276753784
+        ]
+      },
+      "properties": {
+        "id": "way/1193058999",
+        "element_id": 1193058999,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.657521",
+        "url": "https://www.openstreetmap.org/way/1193058999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.55828109710813,
+          13.083010276753784
+        ]
+      },
+      "properties": {
+        "id": "way/1193058999",
+        "element_id": 1193058999,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.657521",
+        "url": "https://www.openstreetmap.org/way/1193058999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.61099255641572,
+          13.331950374854967
+        ]
+      },
+      "properties": {
+        "id": "way/1235301236",
+        "element_id": 1235301236,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.657521",
+        "url": "https://www.openstreetmap.org/way/1235301236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.61099255641572,
+          13.331950374854967
+        ]
+      },
+      "properties": {
+        "id": "way/1235301236",
+        "element_id": 1235301236,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.657521",
+        "url": "https://www.openstreetmap.org/way/1235301236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.60865879100388,
+          13.327319611841098
+        ]
+      },
+      "properties": {
+        "id": "way/1235301237",
+        "element_id": 1235301237,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.657521",
+        "url": "https://www.openstreetmap.org/way/1235301237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.60865879100388,
+          13.327319611841098
+        ]
+      },
+      "properties": {
+        "id": "way/1235301237",
+        "element_id": 1235301237,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.657521",
+        "url": "https://www.openstreetmap.org/way/1235301237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.60129637178765,
+          13.10084535739163
+        ]
+      },
+      "properties": {
+        "id": "way/1236165891",
+        "element_id": 1236165891,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.657521",
+        "url": "https://www.openstreetmap.org/way/1236165891"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.60129637178765,
+          13.10084535739163
+        ]
+      },
+      "properties": {
+        "id": "way/1236165891",
+        "element_id": 1236165891,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.657521",
+        "url": "https://www.openstreetmap.org/way/1236165891"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4460257872919,
+          13.121033646491604
+        ]
+      },
+      "properties": {
+        "id": "way/1241551025",
+        "element_id": 1241551025,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.657521",
+        "url": "https://www.openstreetmap.org/way/1241551025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4460257872919,
+          13.121033646491604
+        ]
+      },
+      "properties": {
+        "id": "way/1241551025",
+        "element_id": 1241551025,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.657521",
+        "url": "https://www.openstreetmap.org/way/1241551025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.54724643144072,
+          13.187315594420577
+        ]
+      },
+      "properties": {
+        "id": "way/1288161382",
+        "element_id": 1288161382,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:22:48.658521",
+        "url": "https://www.openstreetmap.org/way/1288161382"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.54724643144072,
+          13.187315594420577
+        ]
+      },
+      "properties": {
+        "id": "way/1288161382",
+        "element_id": 1288161382,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.658521",
+        "url": "https://www.openstreetmap.org/way/1288161382"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.54724643144072,
+          13.187315594420577
+        ]
+      },
+      "properties": {
+        "id": "way/1288161382",
+        "element_id": 1288161382,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.658521",
+        "url": "https://www.openstreetmap.org/way/1288161382"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.59310615757434,
+          13.117112029599475
+        ]
+      },
+      "properties": {
+        "id": "way/1301814745",
+        "element_id": 1301814745,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:street': 'Belle Pumping Station Road', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.658521",
+        "url": "https://www.openstreetmap.org/way/1301814745"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.59310615757434,
+          13.117112029599475
+        ]
+      },
+      "properties": {
+        "id": "way/1301814745",
+        "element_id": 1301814745,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.658521",
+        "url": "https://www.openstreetmap.org/way/1301814745"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.50244440735523,
+          13.138814494979709
+        ]
+      },
+      "properties": {
+        "id": "way/1408706210",
+        "element_id": 1408706210,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:48.658521",
+        "url": "https://www.openstreetmap.org/way/1408706210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.50244440735523,
+          13.138814494979709
+        ]
+      },
+      "properties": {
+        "id": "way/1408706210",
+        "element_id": 1408706210,
+        "element_type": "way",
+        "country": "Barbados",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:48.658521",
+        "url": "https://www.openstreetmap.org/way/1408706210"
+      }
+    }
+  ]
+}

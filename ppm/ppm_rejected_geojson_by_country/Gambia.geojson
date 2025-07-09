@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.568874717074046,
+          13.452289162340616
+        ]
+      },
+      "properties": {
+        "id": "way/949317390",
+        "element_id": 949317390,
+        "element_type": "way",
+        "country": "Gambia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:51:02.099927",
+        "url": "https://www.openstreetmap.org/way/949317390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.196380042328451,
+          13.295760652805466
+        ]
+      },
+      "properties": {
+        "id": "way/984507626",
+        "element_id": 984507626,
+        "element_type": "way",
+        "country": "Gambia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Nawec power sation URR', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:51:02.099927",
+        "url": "https://www.openstreetmap.org/way/984507626"
+      }
+    }
+  ]
+}

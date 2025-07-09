@@ -1,0 +1,379 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.323318551887883,
+          -26.58966806794551
+        ]
+      },
+      "properties": {
+        "id": "way/1080503202",
+        "element_id": 1080503202,
+        "element_type": "way",
+        "country": "Eswatini",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Edwaleni', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:47.477648",
+        "url": "https://www.openstreetmap.org/way/1080503202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.35309762384374,
+          -26.61511877912204
+        ]
+      },
+      "properties": {
+        "id": "way/248625098",
+        "element_id": 248625098,
+        "element_type": "way",
+        "country": "Eswatini",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:28:47.477648",
+        "url": "https://www.openstreetmap.org/way/248625098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.35309762384374,
+          -26.61511877912204
+        ]
+      },
+      "properties": {
+        "id": "way/248625098",
+        "element_id": 248625098,
+        "element_type": "way",
+        "country": "Eswatini",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:47.477648",
+        "url": "https://www.openstreetmap.org/way/248625098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.353936561335324,
+          -26.61522308477583
+        ]
+      },
+      "properties": {
+        "id": "way/1080518048",
+        "element_id": 1080518048,
+        "element_type": "way",
+        "country": "Eswatini",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Maguduza', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:47.478770",
+        "url": "https://www.openstreetmap.org/way/1080518048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.29504365450289,
+          -26.510524816509687
+        ]
+      },
+      "properties": {
+        "id": "way/1144447282",
+        "element_id": 1144447282,
+        "element_type": "way",
+        "country": "Eswatini",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:47.479767",
+        "url": "https://www.openstreetmap.org/way/1144447282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.29504365450289,
+          -26.510524816509687
+        ]
+      },
+      "properties": {
+        "id": "way/1144447282",
+        "element_id": 1144447282,
+        "element_type": "way",
+        "country": "Eswatini",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:47.479767",
+        "url": "https://www.openstreetmap.org/way/1144447282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.94206339208857,
+          -26.772549871731204
+        ]
+      },
+      "properties": {
+        "id": "way/1190930117",
+        "element_id": 1190930117,
+        "element_type": "way",
+        "country": "Eswatini",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Ubombo Sugar Mill power station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:47.479767",
+        "url": "https://www.openstreetmap.org/way/1190930117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.384807393778534,
+          -26.504766859926885
+        ]
+      },
+      "properties": {
+        "id": "way/1323385435",
+        "element_id": 1323385435,
+        "element_type": "way",
+        "country": "Eswatini",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:47.480766",
+        "url": "https://www.openstreetmap.org/way/1323385435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.384807393778534,
+          -26.504766859926885
+        ]
+      },
+      "properties": {
+        "id": "way/1323385435",
+        "element_id": 1323385435,
+        "element_type": "way",
+        "country": "Eswatini",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:47.480766",
+        "url": "https://www.openstreetmap.org/way/1323385435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.291524800628963,
+          -26.517199899072303
+        ]
+      },
+      "properties": {
+        "id": "way/1325617017",
+        "element_id": 1325617017,
+        "element_type": "way",
+        "country": "Eswatini",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:47.480766",
+        "url": "https://www.openstreetmap.org/way/1325617017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.291524800628963,
+          -26.517199899072303
+        ]
+      },
+      "properties": {
+        "id": "way/1325617017",
+        "element_id": 1325617017,
+        "element_type": "way",
+        "country": "Eswatini",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:47.480766",
+        "url": "https://www.openstreetmap.org/way/1325617017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.269354701144728,
+          -26.55833449411716
+        ]
+      },
+      "properties": {
+        "id": "way/1330351590",
+        "element_id": 1330351590,
+        "element_type": "way",
+        "country": "Eswatini",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:47.480766",
+        "url": "https://www.openstreetmap.org/way/1330351590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.269354701144728,
+          -26.55833449411716
+        ]
+      },
+      "properties": {
+        "id": "way/1330351590",
+        "element_id": 1330351590,
+        "element_type": "way",
+        "country": "Eswatini",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:47.480766",
+        "url": "https://www.openstreetmap.org/way/1330351590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.55493992357964,
+          -26.67390584411652
+        ]
+      },
+      "properties": {
+        "id": "way/1330351617",
+        "element_id": 1330351617,
+        "element_type": "way",
+        "country": "Eswatini",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:47.481766",
+        "url": "https://www.openstreetmap.org/way/1330351617"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.55493992357964,
+          -26.67390584411652
+        ]
+      },
+      "properties": {
+        "id": "way/1330351617",
+        "element_id": 1330351617,
+        "element_type": "way",
+        "country": "Eswatini",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:47.481766",
+        "url": "https://www.openstreetmap.org/way/1330351617"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.696601659379237,
+          -26.721716028529272
+        ]
+      },
+      "properties": {
+        "id": "way/1330351626",
+        "element_id": 1330351626,
+        "element_type": "way",
+        "country": "Eswatini",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:28:47.481766",
+        "url": "https://www.openstreetmap.org/way/1330351626"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.696601659379237,
+          -26.721716028529272
+        ]
+      },
+      "properties": {
+        "id": "way/1330351626",
+        "element_id": 1330351626,
+        "element_type": "way",
+        "country": "Eswatini",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:28:47.481766",
+        "url": "https://www.openstreetmap.org/way/1330351626"
+      }
+    }
+  ]
+}

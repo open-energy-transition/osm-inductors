@@ -1,0 +1,1523 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8452389862415,
+          47.392060252026845
+        ]
+      },
+      "properties": {
+        "id": "relation/15348077",
+        "element_id": 15348077,
+        "element_type": "relation",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Cazangerie', 'name:ru': 'Котельная', 'name:uk': 'Котельня', 'plant:method': 'combustion', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:40:53.219130",
+        "url": "https://www.openstreetmap.org/relation/15348077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.937344579388007,
+          46.63393975150763
+        ]
+      },
+      "properties": {
+        "id": "way/28200269",
+        "element_id": 28200269,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "gas;oil;coal",
+        "details": "Source value 'gas;oil;coal' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:40:53.219130",
+        "url": "https://www.openstreetmap.org/way/28200269"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2280443756418,
+          47.8390327008552
+        ]
+      },
+      "properties": {
+        "id": "way/48374399",
+        "element_id": 48374399,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:53.220251",
+        "url": "https://www.openstreetmap.org/way/48374399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.086888751344947,
+          47.08831156456702
+        ]
+      },
+      "properties": {
+        "id": "way/57847344",
+        "element_id": 57847344,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:53.220251",
+        "url": "https://www.openstreetmap.org/way/57847344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.584043959265607,
+          48.24774256692642
+        ]
+      },
+      "properties": {
+        "id": "way/84727715",
+        "element_id": 84727715,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'name': 'Casangerie', 'name:ru': 'Котельная', 'name:uk': 'Котельня', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.220251",
+        "url": "https://www.openstreetmap.org/way/84727715"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.570686885052137,
+          48.48736952571392
+        ]
+      },
+      "properties": {
+        "id": "way/90163313",
+        "element_id": 90163313,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 13 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:53.220251",
+        "url": "https://www.openstreetmap.org/way/90163313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.82002986746854,
+          48.04029390326931
+        ]
+      },
+      "properties": {
+        "id": "way/99714533",
+        "element_id": 99714533,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'combustion', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.221261",
+        "url": "https://www.openstreetmap.org/way/99714533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.409193100000007,
+          48.09965820000001
+        ]
+      },
+      "properties": {
+        "id": "way/100421797",
+        "element_id": 100421797,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Cazangerie', 'plant:method': 'combustion', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.222260",
+        "url": "https://www.openstreetmap.org/way/100421797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.82002986746854,
+          48.04029390326931
+        ]
+      },
+      "properties": {
+        "id": "way/99714533",
+        "element_id": 99714533,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'combustion', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.222260",
+        "url": "https://www.openstreetmap.org/way/99714533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.66614700000001,
+          46.83742215
+        ]
+      },
+      "properties": {
+        "id": "way/161973864",
+        "element_id": 161973864,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'industrial': 'heating_station', 'landuse': 'industrial', 'name': 'Котельная', 'name:md': 'Казанӂерия', 'name:ro': 'Cazangeria', 'name:ru': 'Котельная', 'name:uk': 'Котельня', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.223260",
+        "url": "https://www.openstreetmap.org/way/161973864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.008158712968022,
+          47.77350048599999
+        ]
+      },
+      "properties": {
+        "id": "way/174339367",
+        "element_id": 174339367,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Рыбница', 'addr:country': 'MD', 'addr:housename': 'Котельная', 'addr:housenumber': '45', 'addr:street': 'улица Маяковского', 'building': 'yes', 'landuse': 'industrial', 'name': 'Котельная №1', 'name:md': 'Казанӂерия №1', 'name:ro': 'Cazangeria №1', 'name:ru': 'Котельная №1', 'name:uk': 'Котельня №1', 'operator': 'ГУП \"Тирастеплоэнерго\"', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.223260",
+        "url": "https://www.openstreetmap.org/way/174339367"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.64147090734449,
+          46.30117705431327
+        ]
+      },
+      "properties": {
+        "id": "way/284693309",
+        "element_id": 284693309,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.223260",
+        "url": "https://www.openstreetmap.org/way/284693309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.64147090734449,
+          46.30117705431327
+        ]
+      },
+      "properties": {
+        "id": "way/284693309",
+        "element_id": 284693309,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.223260",
+        "url": "https://www.openstreetmap.org/way/284693309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.466111250000004,
+          46.823531
+        ]
+      },
+      "properties": {
+        "id": "way/295088585",
+        "element_id": 295088585,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "no",
+        "details": "Tag 'plant:output:electricity' has value 'no' which could not be parsed",
+        "timestamp": "2025-07-07 18:40:53.223260",
+        "url": "https://www.openstreetmap.org/way/295088585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6336442,
+          46.30136794999999
+        ]
+      },
+      "properties": {
+        "id": "way/318342285",
+        "element_id": 318342285,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.223260",
+        "url": "https://www.openstreetmap.org/way/318342285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6336442,
+          46.30136794999999
+        ]
+      },
+      "properties": {
+        "id": "way/318342285",
+        "element_id": 318342285,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.223260",
+        "url": "https://www.openstreetmap.org/way/318342285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.720428324124786,
+          48.06952094264789
+        ]
+      },
+      "properties": {
+        "id": "way/405368508",
+        "element_id": 405368508,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'name': 'Котельная №', 'name:ru': 'Котельная №', 'name:uk': 'Котельня №', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.223260",
+        "url": "https://www.openstreetmap.org/way/405368508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.811741619603996,
+          48.10234600243139
+        ]
+      },
+      "properties": {
+        "id": "way/418710968",
+        "element_id": 418710968,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:53.224260",
+        "url": "https://www.openstreetmap.org/way/418710968"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.811741619603996,
+          48.10234600243139
+        ]
+      },
+      "properties": {
+        "id": "way/418710968",
+        "element_id": 418710968,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.224260",
+        "url": "https://www.openstreetmap.org/way/418710968"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.811741619603996,
+          48.10234600243139
+        ]
+      },
+      "properties": {
+        "id": "way/418710968",
+        "element_id": 418710968,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.225668",
+        "url": "https://www.openstreetmap.org/way/418710968"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.741532805752662,
+          47.55330106391849
+        ]
+      },
+      "properties": {
+        "id": "way/446185883",
+        "element_id": 446185883,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Fălești', 'building': 'industrial', 'landuse': 'industrial', 'name': 'Cazangeria', 'name:ru': 'Котельная', 'name:uk': 'Котельня', 'plant:method': 'combustion', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.225668",
+        "url": "https://www.openstreetmap.org/way/446185883"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.71698856401964,
+          48.00538183305153
+        ]
+      },
+      "properties": {
+        "id": "way/462784824",
+        "element_id": 462784824,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.225668",
+        "url": "https://www.openstreetmap.org/way/462784824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.71698856401964,
+          48.00538183305153
+        ]
+      },
+      "properties": {
+        "id": "way/462784824",
+        "element_id": 462784824,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.225668",
+        "url": "https://www.openstreetmap.org/way/462784824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.54775687853468,
+          48.01075513371987
+        ]
+      },
+      "properties": {
+        "id": "way/671873186",
+        "element_id": 671873186,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Котельная', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.225668",
+        "url": "https://www.openstreetmap.org/way/671873186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.484860488417425,
+          48.40646178051762
+        ]
+      },
+      "properties": {
+        "id": "way/704153824",
+        "element_id": 704153824,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:40:53.225668",
+        "url": "https://www.openstreetmap.org/way/704153824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.484860488417425,
+          48.40646178051762
+        ]
+      },
+      "properties": {
+        "id": "way/704153824",
+        "element_id": 704153824,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'name': 'Cazanjerie', 'name:ru': 'Котельная', 'plant:output:steam': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.226724",
+        "url": "https://www.openstreetmap.org/way/704153824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.75240230515652,
+          48.45550579271223
+        ]
+      },
+      "properties": {
+        "id": "way/706263069",
+        "element_id": 706263069,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Cazangerie', 'name:ru': 'Котельная', 'name:uk': 'Котельня', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.227724",
+        "url": "https://www.openstreetmap.org/way/706263069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51437378254016,
+          48.39362755027905
+        ]
+      },
+      "properties": {
+        "id": "way/711795448",
+        "element_id": 711795448,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'name': 'Cazangeria', 'name:ru': 'Котельная', 'name:uk': 'Котельня', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.227724",
+        "url": "https://www.openstreetmap.org/way/711795448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.760255754246323,
+          48.451033262883904
+        ]
+      },
+      "properties": {
+        "id": "way/711921811",
+        "element_id": 711921811,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'industrial': 'heating_station', 'landuse': 'industrial', 'name': 'Cazangerie', 'name:ru': 'Котельная', 'name:uk': 'Котельня', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.227724",
+        "url": "https://www.openstreetmap.org/way/711921811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.74626199008092,
+          48.45093341582496
+        ]
+      },
+      "properties": {
+        "id": "way/712433144",
+        "element_id": 712433144,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'landuse': 'industrial', 'name': 'Cazangerie', 'name:ru': 'Котельная', 'name:uk': 'Котельня', 'power': 'plant', 'power:output:hot_water': 'yes'}",
+        "timestamp": "2025-07-07 18:40:53.227724",
+        "url": "https://www.openstreetmap.org/way/712433144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.47171438169176,
+          48.41585423379633
+        ]
+      },
+      "properties": {
+        "id": "way/718080055",
+        "element_id": 718080055,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Ocniţa', 'addr:country': 'MD', 'addr:housenumber': '51', 'addr:street': 'strada Burebista', 'building': 'industrial', 'landuse': 'industrial', 'name': 'Cazangeria', 'name:ru': 'Котельная', 'name:uk': 'Котельня', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.227724",
+        "url": "https://www.openstreetmap.org/way/718080055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.47050745,
+          48.41361275
+        ]
+      },
+      "properties": {
+        "id": "way/727641740",
+        "element_id": 727641740,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Ocnița', 'building': 'industrial', 'landuse': 'industrial', 'name': 'Cazanjeria', 'name:ru': 'Котельная', 'name:uk': 'Котельня', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.227724",
+        "url": "https://www.openstreetmap.org/way/727641740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.470087510358237,
+          48.41081978475581
+        ]
+      },
+      "properties": {
+        "id": "way/732337050",
+        "element_id": 732337050,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.227724",
+        "url": "https://www.openstreetmap.org/way/732337050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.470087510358237,
+          48.41081978475581
+        ]
+      },
+      "properties": {
+        "id": "way/732337050",
+        "element_id": 732337050,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.227724",
+        "url": "https://www.openstreetmap.org/way/732337050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.476488615102628,
+          48.4095927156734
+        ]
+      },
+      "properties": {
+        "id": "way/734311739",
+        "element_id": 734311739,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'name:ru': 'Котельная', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.227724",
+        "url": "https://www.openstreetmap.org/way/734311739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.476488615102628,
+          48.4095927156734
+        ]
+      },
+      "properties": {
+        "id": "way/734311739",
+        "element_id": 734311739,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'name:ru': 'Котельная', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.227724",
+        "url": "https://www.openstreetmap.org/way/734311739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.48486658386744,
+          48.41618275260088
+        ]
+      },
+      "properties": {
+        "id": "way/735034814",
+        "element_id": 735034814,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Ocnița', 'addr:country': 'MD', 'addr:housenumber': '38', 'addr:street': 'strada Constantin Stamati', 'barrier': 'fence', 'landuse': 'industrial', 'name': 'Cazangerie', 'name:ru': 'Котельная', 'name:uk': 'Котельня', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.228724",
+        "url": "https://www.openstreetmap.org/way/735034814"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49434513279365,
+          48.413479894935215
+        ]
+      },
+      "properties": {
+        "id": "way/736497664",
+        "element_id": 736497664,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'disused': 'yes', 'landuse': 'industrial', 'name': 'Cazangeria', 'name:ru': 'Котельная', 'name:uk': 'Котельня', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.228724",
+        "url": "https://www.openstreetmap.org/way/736497664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.58330565,
+          48.46737535
+        ]
+      },
+      "properties": {
+        "id": "way/778498724",
+        "element_id": 778498724,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:53.228724",
+        "url": "https://www.openstreetmap.org/way/778498724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.582808131818886,
+          48.46940626817888
+        ]
+      },
+      "properties": {
+        "id": "way/779040436",
+        "element_id": 779040436,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'landuse': 'industrial', 'name': 'Cazangeria', 'name:ru': 'Котельная', 'name:uk': 'Котельня', 'power': 'plant', 'power:output:hot_water': 'yes'}",
+        "timestamp": "2025-07-07 18:40:53.228724",
+        "url": "https://www.openstreetmap.org/way/779040436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.61057395,
+          47.15341025000001
+        ]
+      },
+      "properties": {
+        "id": "way/815443292",
+        "element_id": 815443292,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:source': 'solar', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.228724",
+        "url": "https://www.openstreetmap.org/way/815443292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.61057395,
+          47.15341025000001
+        ]
+      },
+      "properties": {
+        "id": "way/815443292",
+        "element_id": 815443292,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:53.228724",
+        "url": "https://www.openstreetmap.org/way/815443292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.923689171363925,
+          47.789842117107206
+        ]
+      },
+      "properties": {
+        "id": "way/835014966",
+        "element_id": 835014966,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.228724",
+        "url": "https://www.openstreetmap.org/way/835014966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.923689171363925,
+          47.789842117107206
+        ]
+      },
+      "properties": {
+        "id": "way/835014966",
+        "element_id": 835014966,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:53.228724",
+        "url": "https://www.openstreetmap.org/way/835014966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.802895930205192,
+          47.2050927208476
+        ]
+      },
+      "properties": {
+        "id": "way/842166618",
+        "element_id": 842166618,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:53.229724",
+        "url": "https://www.openstreetmap.org/way/842166618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.830465247141277,
+          47.23960542910445
+        ]
+      },
+      "properties": {
+        "id": "way/843063506",
+        "element_id": 843063506,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.229724",
+        "url": "https://www.openstreetmap.org/way/843063506"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.830465247141277,
+          47.23960542910445
+        ]
+      },
+      "properties": {
+        "id": "way/843063506",
+        "element_id": 843063506,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:53.229724",
+        "url": "https://www.openstreetmap.org/way/843063506"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.909417449463916,
+          46.978244031889616
+        ]
+      },
+      "properties": {
+        "id": "way/847836521",
+        "element_id": 847836521,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:53.229724",
+        "url": "https://www.openstreetmap.org/way/847836521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3917495,
+          48.1210427
+        ]
+      },
+      "properties": {
+        "id": "way/859973334",
+        "element_id": 859973334,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.229724",
+        "url": "https://www.openstreetmap.org/way/859973334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3917495,
+          48.1210427
+        ]
+      },
+      "properties": {
+        "id": "way/859973334",
+        "element_id": 859973334,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.229724",
+        "url": "https://www.openstreetmap.org/way/859973334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.984883600000003,
+          47.13790415
+        ]
+      },
+      "properties": {
+        "id": "way/902226357",
+        "element_id": 902226357,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.229724",
+        "url": "https://www.openstreetmap.org/way/902226357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.984883600000003,
+          47.13790415
+        ]
+      },
+      "properties": {
+        "id": "way/902226357",
+        "element_id": 902226357,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:53.229724",
+        "url": "https://www.openstreetmap.org/way/902226357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.890232304647935,
+          46.9606398483793
+        ]
+      },
+      "properties": {
+        "id": "way/1013883264",
+        "element_id": 1013883264,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:53.230724",
+        "url": "https://www.openstreetmap.org/way/1013883264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.535110487844225,
+          45.80015759376115
+        ]
+      },
+      "properties": {
+        "id": "way/1037181207",
+        "element_id": 1037181207,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.230724",
+        "url": "https://www.openstreetmap.org/way/1037181207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.535110487844225,
+          45.80015759376115
+        ]
+      },
+      "properties": {
+        "id": "way/1037181207",
+        "element_id": 1037181207,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.230724",
+        "url": "https://www.openstreetmap.org/way/1037181207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.504622583576992,
+          45.81991707627402
+        ]
+      },
+      "properties": {
+        "id": "way/1037520134",
+        "element_id": 1037520134,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Musaitu', 'addr:country': 'MD', 'addr:housenumber': '157', 'addr:street': 'strada Pervomaiskaia', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.230724",
+        "url": "https://www.openstreetmap.org/way/1037520134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.504622583576992,
+          45.81991707627402
+        ]
+      },
+      "properties": {
+        "id": "way/1037520134",
+        "element_id": 1037520134,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Musaitu', 'addr:country': 'MD', 'addr:housenumber': '157', 'addr:street': 'strada Pervomaiskaia', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.230724",
+        "url": "https://www.openstreetmap.org/way/1037520134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.00588954551784,
+          46.76680003147597
+        ]
+      },
+      "properties": {
+        "id": "way/1091100154",
+        "element_id": 1091100154,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'старая школьная котельня', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.230724",
+        "url": "https://www.openstreetmap.org/way/1091100154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.77122718120021,
+          46.51068193366475
+        ]
+      },
+      "properties": {
+        "id": "way/1165000057",
+        "element_id": 1165000057,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Cimișlia', 'addr:country': 'MD', 'addr:housenumber': '3', 'addr:street': 'strada Cetatea Albă', 'landuse': 'industrial', 'name': 'Котельная (бывшая)', 'plant:output:hot_water': 'yes', 'power': 'plant', 'start_date': '1974'}",
+        "timestamp": "2025-07-07 18:40:53.230724",
+        "url": "https://www.openstreetmap.org/way/1165000057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.518989406684465,
+          47.77680860785739
+        ]
+      },
+      "properties": {
+        "id": "way/1175950567",
+        "element_id": 1175950567,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.230724",
+        "url": "https://www.openstreetmap.org/way/1175950567"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.518989406684465,
+          47.77680860785739
+        ]
+      },
+      "properties": {
+        "id": "way/1175950567",
+        "element_id": 1175950567,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.230724",
+        "url": "https://www.openstreetmap.org/way/1175950567"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.770439116359324,
+          46.92382214343757
+        ]
+      },
+      "properties": {
+        "id": "way/1193734175",
+        "element_id": 1193734175,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:53.231806",
+        "url": "https://www.openstreetmap.org/way/1193734175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.81339435238201,
+          46.93973430039722
+        ]
+      },
+      "properties": {
+        "id": "way/1193734180",
+        "element_id": 1193734180,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:53.231806",
+        "url": "https://www.openstreetmap.org/way/1193734180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.689457366666662,
+          47.10401146666666
+        ]
+      },
+      "properties": {
+        "id": "way/1230827100",
+        "element_id": 1230827100,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:53.231806",
+        "url": "https://www.openstreetmap.org/way/1230827100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.732441845315268,
+          48.00414937993845
+        ]
+      },
+      "properties": {
+        "id": "way/1232610328",
+        "element_id": 1232610328,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.231806",
+        "url": "https://www.openstreetmap.org/way/1232610328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.732441845315268,
+          48.00414937993845
+        ]
+      },
+      "properties": {
+        "id": "way/1232610328",
+        "element_id": 1232610328,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.231806",
+        "url": "https://www.openstreetmap.org/way/1232610328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.70396701610272,
+          46.94135634702392
+        ]
+      },
+      "properties": {
+        "id": "way/1244034219",
+        "element_id": 1244034219,
+        "element_type": "way",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:53.231806",
+        "url": "https://www.openstreetmap.org/way/1244034219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.426342,
+          46.7808657
+        ]
+      },
+      "properties": {
+        "id": "node/4905410765",
+        "element_id": 4905410765,
+        "element_type": "node",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.232815",
+        "url": "https://www.openstreetmap.org/node/4905410765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.426342,
+          46.7808657
+        ]
+      },
+      "properties": {
+        "id": "node/4905410765",
+        "element_id": 4905410765,
+        "element_type": "node",
+        "country": "Moldova, Republic of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:53.232815",
+        "url": "https://www.openstreetmap.org/node/4905410765"
+      }
+    }
+  ]
+}

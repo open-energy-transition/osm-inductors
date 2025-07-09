@@ -1,0 +1,2117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.34012348737577,
+          42.70445740307792
+        ]
+      },
+      "properties": {
+        "id": "relation/7188466",
+        "element_id": 7188466,
+        "element_type": "relation",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.736088",
+        "url": "https://www.openstreetmap.org/relation/7188466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.34012348737577,
+          42.70445740307792
+        ]
+      },
+      "properties": {
+        "id": "relation/7188466",
+        "element_id": 7188466,
+        "element_type": "relation",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'designation': 'Hidroenergetski sistem Vlasina', 'name': 'Хидроенергетски систем Власина', 'name:en': 'Vlasina hydroelectric system', 'name:sr': 'Хидроенергетски систем Власина', 'name:sr-Latn': 'Hidroenergetski sistem Vlasina', 'plant:source': 'hydro', 'power': 'plant', 'source': 'Official Documentation', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:47:12.738104",
+        "url": "https://www.openstreetmap.org/relation/7188466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.863007047810765,
+          45.232461133735626
+        ]
+      },
+      "properties": {
+        "id": "relation/9452076",
+        "element_id": 9452076,
+        "element_type": "relation",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'industrial': 'heating_station', 'int_name': 'Toplana Miseluk', 'landuse': 'industrial', 'name': 'Топлана Мишелук', 'name:en': 'Mišeluk heating station', 'name:sr': 'Топлана Мишелук', 'name:sr-Latn': 'Toplana Mišeluk', 'operator': 'Novosadska toplana', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:47:12.744535",
+        "url": "https://www.openstreetmap.org/relation/9452076"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.93017,
+          45.0642947
+        ]
+      },
+      "properties": {
+        "id": "node/5175332041",
+        "element_id": 5175332041,
+        "element_type": "node",
+        "country": "Serbia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '2 MW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'operator': 'Елицио', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:47:12.745535",
+        "url": "https://www.openstreetmap.org/node/5175332041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9343285,
+          45.0663079
+        ]
+      },
+      "properties": {
+        "id": "node/5175332042",
+        "element_id": 5175332042,
+        "element_type": "node",
+        "country": "Serbia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '2 MW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'operator': 'Елицио', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:47:12.745535",
+        "url": "https://www.openstreetmap.org/node/5175332042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9381108,
+          45.0687104
+        ]
+      },
+      "properties": {
+        "id": "node/5175332043",
+        "element_id": 5175332043,
+        "element_type": "node",
+        "country": "Serbia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '2 MW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'operator': 'Елицио', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:47:12.745535",
+        "url": "https://www.openstreetmap.org/node/5175332043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9448925,
+          45.0721905
+        ]
+      },
+      "properties": {
+        "id": "node/5175332044",
+        "element_id": 5175332044,
+        "element_type": "node",
+        "country": "Serbia",
+        "unit_type": "generator",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'wind_turbine', 'generator:output:electricity': '2 MW', 'generator:source': 'wind', 'generator:type': 'horizontal_axis', 'operator': 'Елицио', 'power': 'generator'}",
+        "timestamp": "2025-07-07 18:47:12.745535",
+        "url": "https://www.openstreetmap.org/node/5175332044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.700414935271983,
+          45.20216326181501
+        ]
+      },
+      "properties": {
+        "id": "relation/10320904",
+        "element_id": 10320904,
+        "element_type": "relation",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Prima Energy', 'plant:method': 'photovoltaic', 'plant:output:electricity': '1 MW', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:47:12.747541",
+        "url": "https://www.openstreetmap.org/relation/10320904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.839481524268223,
+          45.24470698869583
+        ]
+      },
+      "properties": {
+        "id": "way/219386592",
+        "element_id": 219386592,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:housenumber': '1', 'addr:street': 'Владимира Николића', 'building': 'industrial', 'landuse': 'industrial', 'operator': 'Novosadska toplana', 'plant:method': 'combustion', 'plant:output:electricity': '0 MW', 'plant:output:heat': '140 MW', 'plant:source': 'gas', 'power': 'plant', 'ref:RS:kucni_broj': '5498581', 'start_date': '1961', 'website': 'http://nstoplana.rs/tehnicki-sistem/to-jug/'}",
+        "timestamp": "2025-07-07 18:47:12.762046",
+        "url": "https://www.openstreetmap.org/way/219386592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.839481524268223,
+          45.24470698869583
+        ]
+      },
+      "properties": {
+        "id": "way/219386592",
+        "element_id": 219386592,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity zero",
+        "keywords": "0 MW",
+        "details": "Tag 'plant:output:electricity' parsed to zero capacity from value '0 MW'",
+        "timestamp": "2025-07-07 18:47:12.762046",
+        "url": "https://www.openstreetmap.org/way/219386592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.850779256202745,
+          45.26108721406552
+        ]
+      },
+      "properties": {
+        "id": "way/237344400",
+        "element_id": 237344400,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.762046",
+        "url": "https://www.openstreetmap.org/way/237344400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.654608,
+          43.47052585
+        ]
+      },
+      "properties": {
+        "id": "way/317520132",
+        "element_id": 317520132,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 12 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.763046",
+        "url": "https://www.openstreetmap.org/way/317520132"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.91371827211172,
+          43.32548507977776
+        ]
+      },
+      "properties": {
+        "id": "way/319302263",
+        "element_id": 319302263,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'industrial': 'heating_station', 'int_name': 'Gradska toplana „Nis“', 'landuse': 'industrial', 'name': 'Градска топлана „Ниш“', 'name:sr': 'Градска топлана „Ниш“', 'name:sr-Latn': 'Gradska toplana „Niš“', 'plant:method': 'combustion', 'plant:output:hot_water': '246.56 MW', 'plant:source': 'gas;oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.765047",
+        "url": "https://www.openstreetmap.org/way/319302263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.39152109451534,
+          44.84407528601435
+        ]
+      },
+      "properties": {
+        "id": "way/345045255",
+        "element_id": 345045255,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 14 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.767085",
+        "url": "https://www.openstreetmap.org/way/345045255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.39152109451534,
+          44.84407528601435
+        ]
+      },
+      "properties": {
+        "id": "way/345045255",
+        "element_id": 345045255,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Земун', 'addr:housenumber': '10', 'addr:postcode': '11080', 'addr:street': 'Мића Радаковића', 'int_name': 'Toplana „Zemun“', 'name': 'Топлана „Земун“', 'name:en': 'Zemun Heating Plant', 'name:sr': 'Топлана „Земун“', 'name:sr-Latn': 'Toplana „Zemun“', 'operator': 'ЈКП Београдске електране', 'plant:output:heat': '60 MW', 'plant:source': 'gas', 'power': 'plant', 'website': 'https://www.beoelektrane.rs/?lng=cir'}",
+        "timestamp": "2025-07-07 18:47:12.768461",
+        "url": "https://www.openstreetmap.org/way/345045255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.65333969518041,
+          44.883151214258326
+        ]
+      },
+      "properties": {
+        "id": "way/384162302",
+        "element_id": 384162302,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.768461",
+        "url": "https://www.openstreetmap.org/way/384162302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.65333969518041,
+          44.883151214258326
+        ]
+      },
+      "properties": {
+        "id": "way/384162302",
+        "element_id": 384162302,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.768461",
+        "url": "https://www.openstreetmap.org/way/384162302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.415844009899107,
+          44.73609189957132
+        ]
+      },
+      "properties": {
+        "id": "way/392690636",
+        "element_id": 392690636,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.768461",
+        "url": "https://www.openstreetmap.org/way/392690636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.37824105503252,
+          44.73213362116409
+        ]
+      },
+      "properties": {
+        "id": "way/414841018",
+        "element_id": 414841018,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.769469",
+        "url": "https://www.openstreetmap.org/way/414841018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.16367763793306,
+          42.671774812423365
+        ]
+      },
+      "properties": {
+        "id": "way/415815707",
+        "element_id": 415815707,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 12 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.769469",
+        "url": "https://www.openstreetmap.org/way/415815707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.46054505,
+          44.71142525
+        ]
+      },
+      "properties": {
+        "id": "way/416221069",
+        "element_id": 416221069,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.769469",
+        "url": "https://www.openstreetmap.org/way/416221069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.46054505,
+          44.71142525
+        ]
+      },
+      "properties": {
+        "id": "way/416221069",
+        "element_id": 416221069,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'int_name': 'Toplana „Resnik“', 'name': 'Топлана „Ресник“', 'name:en': 'Resnik Heating Plant', 'name:sr': 'Топлана „Ресник“', 'name:sr-Latn': 'Toplana „Resnik“', 'operator': 'ЈКП Београдске електране', 'plant:source': 'gas', 'power': 'plant', 'website': 'https://www.beoelektrane.rs/?lng=cir'}",
+        "timestamp": "2025-07-07 18:47:12.771471",
+        "url": "https://www.openstreetmap.org/way/416221069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.57695951255088,
+          43.52288714576468
+        ]
+      },
+      "properties": {
+        "id": "way/419795913",
+        "element_id": 419795913,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 12 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.771471",
+        "url": "https://www.openstreetmap.org/way/419795913"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.58112387282134,
+          43.28733206604205
+        ]
+      },
+      "properties": {
+        "id": "way/423070307",
+        "element_id": 423070307,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.772471",
+        "url": "https://www.openstreetmap.org/way/423070307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.912627536405346,
+          43.3143737751336
+        ]
+      },
+      "properties": {
+        "id": "way/473523744",
+        "element_id": 473523744,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Ниш', 'addr:housenumber': '48', 'addr:postcode': '18000', 'addr:street': 'Булевар др Зорана Ђинђића', 'building': 'yes', 'int_name': 'Toplotni izvor UKC - Nis', 'landuse': 'industrial', 'name': 'Топлотни извор УКЦ - Ниш', 'operator': 'Градска топлана Ниш', 'plant:output:heat': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.772471",
+        "url": "https://www.openstreetmap.org/way/473523744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.24907545054308,
+          42.68911100172284
+        ]
+      },
+      "properties": {
+        "id": "way/488924646",
+        "element_id": 488924646,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 14 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.772471",
+        "url": "https://www.openstreetmap.org/way/488924646"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.06898804104426,
+          42.67582572322749
+        ]
+      },
+      "properties": {
+        "id": "way/488930823",
+        "element_id": 488930823,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 13 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.772471",
+        "url": "https://www.openstreetmap.org/way/488930823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.326120496435053,
+          44.449129918451526
+        ]
+      },
+      "properties": {
+        "id": "way/530766368",
+        "element_id": 530766368,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.773522",
+        "url": "https://www.openstreetmap.org/way/530766368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.326120496435053,
+          44.449129918451526
+        ]
+      },
+      "properties": {
+        "id": "way/530766368",
+        "element_id": 530766368,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.773522",
+        "url": "https://www.openstreetmap.org/way/530766368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.27375229791041,
+          43.23616281208668
+        ]
+      },
+      "properties": {
+        "id": "way/552112929",
+        "element_id": 552112929,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.773522",
+        "url": "https://www.openstreetmap.org/way/552112929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.495748631888244,
+          44.77466063055518
+        ]
+      },
+      "properties": {
+        "id": "way/572762372",
+        "element_id": 572762372,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.773522",
+        "url": "https://www.openstreetmap.org/way/572762372"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.615265535155203,
+          43.15785891982717
+        ]
+      },
+      "properties": {
+        "id": "way/617222166",
+        "element_id": 617222166,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.774530",
+        "url": "https://www.openstreetmap.org/way/617222166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.71250687681452,
+          43.406257483406
+        ]
+      },
+      "properties": {
+        "id": "way/675257180",
+        "element_id": 675257180,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'MHE Planska', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.776530",
+        "url": "https://www.openstreetmap.org/way/675257180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.910778101610905,
+          43.64298467571669
+        ]
+      },
+      "properties": {
+        "id": "way/676521088",
+        "element_id": 676521088,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.777530",
+        "url": "https://www.openstreetmap.org/way/676521088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.910778101610905,
+          43.64298467571669
+        ]
+      },
+      "properties": {
+        "id": "way/676521088",
+        "element_id": 676521088,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.777530",
+        "url": "https://www.openstreetmap.org/way/676521088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.910778101610905,
+          43.64298467571669
+        ]
+      },
+      "properties": {
+        "id": "way/676521088",
+        "element_id": 676521088,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.777530",
+        "url": "https://www.openstreetmap.org/way/676521088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.40973538399864,
+          44.800600785208935
+        ]
+      },
+      "properties": {
+        "id": "way/678830571",
+        "element_id": 678830571,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.777530",
+        "url": "https://www.openstreetmap.org/way/678830571"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.45487404639415,
+          44.74940719863568
+        ]
+      },
+      "properties": {
+        "id": "way/678836823",
+        "element_id": 678836823,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.777530",
+        "url": "https://www.openstreetmap.org/way/678836823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.486149284089866,
+          44.75434336420955
+        ]
+      },
+      "properties": {
+        "id": "way/678836824",
+        "element_id": 678836824,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.778927",
+        "url": "https://www.openstreetmap.org/way/678836824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.51208545789621,
+          44.7855654530282
+        ]
+      },
+      "properties": {
+        "id": "way/678836830",
+        "element_id": 678836830,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.778927",
+        "url": "https://www.openstreetmap.org/way/678836830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.533740440729005,
+          44.78856731434738
+        ]
+      },
+      "properties": {
+        "id": "way/678842485",
+        "element_id": 678842485,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.778927",
+        "url": "https://www.openstreetmap.org/way/678842485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.53560041462506,
+          44.814682808948746
+        ]
+      },
+      "properties": {
+        "id": "way/678842492",
+        "element_id": 678842492,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.779936",
+        "url": "https://www.openstreetmap.org/way/678842492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.468726863432128,
+          44.82817585737302
+        ]
+      },
+      "properties": {
+        "id": "way/678842495",
+        "element_id": 678842495,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.779936",
+        "url": "https://www.openstreetmap.org/way/678842495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.414987769178733,
+          44.77923620418448
+        ]
+      },
+      "properties": {
+        "id": "way/678842501",
+        "element_id": 678842501,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.779936",
+        "url": "https://www.openstreetmap.org/way/678842501"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.45264250066299,
+          44.87415887444002
+        ]
+      },
+      "properties": {
+        "id": "way/678844483",
+        "element_id": 678844483,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.779936",
+        "url": "https://www.openstreetmap.org/way/678844483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.45264250066299,
+          44.87415887444002
+        ]
+      },
+      "properties": {
+        "id": "way/678844483",
+        "element_id": 678844483,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'int_name': 'Toplana „Borca“', 'name': 'Топлана „Борча“', 'name:en': 'Borča Heating Plant', 'name:sr': 'Топлана „Борча“', 'name:sr-Latn': 'Toplana „Borča“', 'operator': 'ЈКП Београдске електране', 'plant:output:heat': '30.9 MW', 'plant:source': 'gas', 'power': 'plant', 'website': 'https://www.beoelektrane.rs/?lng=cir'}",
+        "timestamp": "2025-07-07 18:47:12.781936",
+        "url": "https://www.openstreetmap.org/way/678844483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.28643777505004,
+          44.89065668133942
+        ]
+      },
+      "properties": {
+        "id": "way/678845200",
+        "element_id": 678845200,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'int_name': 'Toplana \"Batajnica\"', 'name': 'Топлана \"Батајница\"', 'name:sr': 'Топлана \"Батајница\"', 'name:sr-Latn': 'Toplana \"Batajnica\"', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.781936",
+        "url": "https://www.openstreetmap.org/way/678845200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.377858895097425,
+          44.69415510561718
+        ]
+      },
+      "properties": {
+        "id": "way/678846806",
+        "element_id": 678846806,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'int_name': 'Toplana \"Sremcica\"', 'landuse': 'industrial', 'name': 'Топлана \"Сремчица\"', 'name:sr': 'Топлана \"Сремчица\"', 'name:sr-Latn': 'Toplana \"Sremčica\"', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.781936",
+        "url": "https://www.openstreetmap.org/way/678846806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.914822244999414,
+          44.00326056458332
+        ]
+      },
+      "properties": {
+        "id": "way/696534059",
+        "element_id": 696534059,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'int_name': 'Toplana', 'name': 'Топлана', 'name:sr': 'Топлана', 'name:sr-Latn': 'Toplana', 'plant:method': 'combustion', 'plant:output:heat': 'yes', 'plant:output:hot_water': 'yes', 'plant:source': 'coal', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.784938",
+        "url": "https://www.openstreetmap.org/way/696534059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.28844477995769,
+          43.85079248704345
+        ]
+      },
+      "properties": {
+        "id": "way/726554061",
+        "element_id": 726554061,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.786936",
+        "url": "https://www.openstreetmap.org/way/726554061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.28844477995769,
+          43.85079248704345
+        ]
+      },
+      "properties": {
+        "id": "way/726554061",
+        "element_id": 726554061,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.786936",
+        "url": "https://www.openstreetmap.org/way/726554061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1859135,
+          43.8985947
+        ]
+      },
+      "properties": {
+        "id": "way/753143113",
+        "element_id": 753143113,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.787936",
+        "url": "https://www.openstreetmap.org/way/753143113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.231876143057185,
+          43.90912552644505
+        ]
+      },
+      "properties": {
+        "id": "way/753143494",
+        "element_id": 753143494,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.787936",
+        "url": "https://www.openstreetmap.org/way/753143494"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.832709656009385,
+          45.26584130543687
+        ]
+      },
+      "properties": {
+        "id": "way/754896527",
+        "element_id": 754896527,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.787936",
+        "url": "https://www.openstreetmap.org/way/754896527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.25507993824713,
+          42.95525983464395
+        ]
+      },
+      "properties": {
+        "id": "way/771076870",
+        "element_id": 771076870,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.787936",
+        "url": "https://www.openstreetmap.org/way/771076870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.25507993824713,
+          42.95525983464395
+        ]
+      },
+      "properties": {
+        "id": "way/771076870",
+        "element_id": 771076870,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.787936",
+        "url": "https://www.openstreetmap.org/way/771076870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.256906182498533,
+          42.95444694214035
+        ]
+      },
+      "properties": {
+        "id": "way/771076871",
+        "element_id": 771076871,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.789182",
+        "url": "https://www.openstreetmap.org/way/771076871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.256906182498533,
+          42.95444694214035
+        ]
+      },
+      "properties": {
+        "id": "way/771076871",
+        "element_id": 771076871,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.789182",
+        "url": "https://www.openstreetmap.org/way/771076871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.34683215,
+          43.9020898
+        ]
+      },
+      "properties": {
+        "id": "way/820458043",
+        "element_id": 820458043,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:housenumber': '52', 'addr:street': 'Книћанинова', 'building': 'industrial', 'int_name': 'Toplana Ljubic', 'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'gas', 'power': 'plant', 'ref:RS:kucni_broj': '5803672'}",
+        "timestamp": "2025-07-07 18:47:12.789182",
+        "url": "https://www.openstreetmap.org/way/820458043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.34683215,
+          43.9020898
+        ]
+      },
+      "properties": {
+        "id": "way/820458043",
+        "element_id": 820458043,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.789182",
+        "url": "https://www.openstreetmap.org/way/820458043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.01509887786429,
+          43.62981521023993
+        ]
+      },
+      "properties": {
+        "id": "way/828905525",
+        "element_id": 828905525,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.789182",
+        "url": "https://www.openstreetmap.org/way/828905525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.01509887786429,
+          43.62981521023993
+        ]
+      },
+      "properties": {
+        "id": "way/828905525",
+        "element_id": 828905525,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.789182",
+        "url": "https://www.openstreetmap.org/way/828905525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.01509887786429,
+          43.62981521023993
+        ]
+      },
+      "properties": {
+        "id": "way/828905525",
+        "element_id": 828905525,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.789182",
+        "url": "https://www.openstreetmap.org/way/828905525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.42932793116052,
+          44.57218449213104
+        ]
+      },
+      "properties": {
+        "id": "way/843685084",
+        "element_id": 843685084,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 11 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.790310",
+        "url": "https://www.openstreetmap.org/way/843685084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.42932793116052,
+          44.57218449213104
+        ]
+      },
+      "properties": {
+        "id": "way/843685084",
+        "element_id": 843685084,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'int_name': 'Toplana „Barajevo“', 'landuse': 'industrial', 'name': 'Топлана „Барајево“', 'name:en': 'Barajevo Heating Plant', 'name:sr': 'Топлана „Барајево“', 'name:sr-Latn': 'Toplana „Barajevo“', 'operator': 'ЈКП Београдске електране', 'plant:output:heat': '7.6 MW', 'plant:source': 'coal;biomass', 'power': 'plant', 'website': 'https://www.beoelektrane.rs/?lng=cir'}",
+        "timestamp": "2025-07-07 18:47:12.791318",
+        "url": "https://www.openstreetmap.org/way/843685084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5797005162286,
+          43.35562742632737
+        ]
+      },
+      "properties": {
+        "id": "way/881723989",
+        "element_id": 881723989,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.791318",
+        "url": "https://www.openstreetmap.org/way/881723989"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5797005162286,
+          43.35562742632737
+        ]
+      },
+      "properties": {
+        "id": "way/881723989",
+        "element_id": 881723989,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.791318",
+        "url": "https://www.openstreetmap.org/way/881723989"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.257304409316884,
+          43.91027234015826
+        ]
+      },
+      "properties": {
+        "id": "way/906485682",
+        "element_id": 906485682,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.792317",
+        "url": "https://www.openstreetmap.org/way/906485682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.257304409316884,
+          43.91027234015826
+        ]
+      },
+      "properties": {
+        "id": "way/906485682",
+        "element_id": 906485682,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.792317",
+        "url": "https://www.openstreetmap.org/way/906485682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.04867377769269,
+          45.13774885154606
+        ]
+      },
+      "properties": {
+        "id": "way/949632886",
+        "element_id": 949632886,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.792317",
+        "url": "https://www.openstreetmap.org/way/949632886"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.04867377769269,
+          45.13774885154606
+        ]
+      },
+      "properties": {
+        "id": "way/949632886",
+        "element_id": 949632886,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.793317",
+        "url": "https://www.openstreetmap.org/way/949632886"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.30295703917209,
+          44.80991860125263
+        ]
+      },
+      "properties": {
+        "id": "way/1047661427",
+        "element_id": 1047661427,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': '1 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.794317",
+        "url": "https://www.openstreetmap.org/way/1047661427"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.406781776519303,
+          43.86489812173018
+        ]
+      },
+      "properties": {
+        "id": "way/958434260",
+        "element_id": 958434260,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.794317",
+        "url": "https://www.openstreetmap.org/way/958434260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.27517955850616,
+          43.140412340677166
+        ]
+      },
+      "properties": {
+        "id": "way/961077462",
+        "element_id": 961077462,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.794317",
+        "url": "https://www.openstreetmap.org/way/961077462"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.684285343890497,
+          43.71854632220266
+        ]
+      },
+      "properties": {
+        "id": "way/996555667",
+        "element_id": 996555667,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:housenumber': '4b', 'addr:street': 'Јошаничка', 'building': 'industrial', 'operator': 'Електропривреда Србије', 'operator:wikidata': 'Q1327532', 'operator:wikipedia': 'sr:Електропривреда Србије', 'power': 'plant', 'ref:RS:kucni_broj': '6742272'}",
+        "timestamp": "2025-07-07 18:47:12.794317",
+        "url": "https://www.openstreetmap.org/way/996555667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.684285343890497,
+          43.71854632220266
+        ]
+      },
+      "properties": {
+        "id": "way/996555667",
+        "element_id": 996555667,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:housenumber': '4b', 'addr:street': 'Јошаничка', 'building': 'industrial', 'operator': 'Електропривреда Србије', 'operator:wikidata': 'Q1327532', 'operator:wikipedia': 'sr:Електропривреда Србије', 'power': 'plant', 'ref:RS:kucni_broj': '6742272'}",
+        "timestamp": "2025-07-07 18:47:12.794317",
+        "url": "https://www.openstreetmap.org/way/996555667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.531127357912823,
+          43.41359321418426
+        ]
+      },
+      "properties": {
+        "id": "way/1065024366",
+        "element_id": 1065024366,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.795317",
+        "url": "https://www.openstreetmap.org/way/1065024366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.531127357912823,
+          43.41359321418426
+        ]
+      },
+      "properties": {
+        "id": "way/1065024366",
+        "element_id": 1065024366,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.795317",
+        "url": "https://www.openstreetmap.org/way/1065024366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.531127357912823,
+          43.41359321418426
+        ]
+      },
+      "properties": {
+        "id": "way/1065024366",
+        "element_id": 1065024366,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.795317",
+        "url": "https://www.openstreetmap.org/way/1065024366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.222728615528144,
+          43.28495943948865
+        ]
+      },
+      "properties": {
+        "id": "way/1071102221",
+        "element_id": 1071102221,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.795317",
+        "url": "https://www.openstreetmap.org/way/1071102221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.550117107296817,
+          43.54386108978347
+        ]
+      },
+      "properties": {
+        "id": "way/1079701481",
+        "element_id": 1079701481,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'int_name': 'MHE Rekovici', 'landuse': 'industrial', 'name': 'МХЕ Рековићи', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.795317",
+        "url": "https://www.openstreetmap.org/way/1079701481"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.28361968676201,
+          45.8334343763669
+        ]
+      },
+      "properties": {
+        "id": "way/1086947154",
+        "element_id": 1086947154,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.795317",
+        "url": "https://www.openstreetmap.org/way/1086947154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.28361968676201,
+          45.8334343763669
+        ]
+      },
+      "properties": {
+        "id": "way/1086947154",
+        "element_id": 1086947154,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.795317",
+        "url": "https://www.openstreetmap.org/way/1086947154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.38212519274278,
+          43.2104393442185
+        ]
+      },
+      "properties": {
+        "id": "way/1174940797",
+        "element_id": 1174940797,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.795317",
+        "url": "https://www.openstreetmap.org/way/1174940797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.38212519274278,
+          43.2104393442185
+        ]
+      },
+      "properties": {
+        "id": "way/1174940797",
+        "element_id": 1174940797,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.795317",
+        "url": "https://www.openstreetmap.org/way/1174940797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.38212519274278,
+          43.2104393442185
+        ]
+      },
+      "properties": {
+        "id": "way/1174940797",
+        "element_id": 1174940797,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.795317",
+        "url": "https://www.openstreetmap.org/way/1174940797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.680213683367366,
+          44.83104917374565
+        ]
+      },
+      "properties": {
+        "id": "way/1190922468",
+        "element_id": 1190922468,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:12.796321",
+        "url": "https://www.openstreetmap.org/way/1190922468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.598387991613706,
+          43.14908123017763
+        ]
+      },
+      "properties": {
+        "id": "way/1222729472",
+        "element_id": 1222729472,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.796321",
+        "url": "https://www.openstreetmap.org/way/1222729472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.598387991613706,
+          43.14908123017763
+        ]
+      },
+      "properties": {
+        "id": "way/1222729472",
+        "element_id": 1222729472,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'industrial': 'heating_station', 'int_name': 'JKP Gradska toplana Pirot', 'landuse': 'industrial', 'name': 'ЈКП Градска топлана Пирот', 'plant:source': 'gas', 'power': 'plant', 'start_date': '1975-04-01'}",
+        "timestamp": "2025-07-07 18:47:12.798317",
+        "url": "https://www.openstreetmap.org/way/1222729472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.803410398257068,
+          45.2699801733464
+        ]
+      },
+      "properties": {
+        "id": "way/1288044772",
+        "element_id": 1288044772,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity zero",
+        "keywords": "0 MW",
+        "details": "Tag 'plant:output:electricity' parsed to zero capacity from value '0 MW'",
+        "timestamp": "2025-07-07 18:47:12.798317",
+        "url": "https://www.openstreetmap.org/way/1288044772"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.870033426154315,
+          45.38700859698557
+        ]
+      },
+      "properties": {
+        "id": "way/1297330195",
+        "element_id": 1297330195,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:47:12.798317",
+        "url": "https://www.openstreetmap.org/way/1297330195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.870033426154315,
+          45.38700859698557
+        ]
+      },
+      "properties": {
+        "id": "way/1297330195",
+        "element_id": 1297330195,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.798317",
+        "url": "https://www.openstreetmap.org/way/1297330195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.870033426154315,
+          45.38700859698557
+        ]
+      },
+      "properties": {
+        "id": "way/1297330195",
+        "element_id": 1297330195,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.800318",
+        "url": "https://www.openstreetmap.org/way/1297330195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.93171498766558,
+          44.662336699177416
+        ]
+      },
+      "properties": {
+        "id": "way/1351272152",
+        "element_id": 1351272152,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "no",
+        "details": "Tag 'plant:output:electricity' has value 'no' which could not be parsed",
+        "timestamp": "2025-07-07 18:47:12.800318",
+        "url": "https://www.openstreetmap.org/way/1351272152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.07803360308277,
+          45.08503192935167
+        ]
+      },
+      "properties": {
+        "id": "way/1371934316",
+        "element_id": 1371934316,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.801317",
+        "url": "https://www.openstreetmap.org/way/1371934316"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.07803360308277,
+          45.08503192935167
+        ]
+      },
+      "properties": {
+        "id": "way/1371934316",
+        "element_id": 1371934316,
+        "element_type": "way",
+        "country": "Serbia",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:12.802317",
+        "url": "https://www.openstreetmap.org/way/1371934316"
+      }
+    }
+  ]
+}

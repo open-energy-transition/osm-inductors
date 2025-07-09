@@ -1,0 +1,4163 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.1622914860238,
+          9.286795904371637
+        ]
+      },
+      "properties": {
+        "id": "relation/5495786",
+        "element_id": 5495786,
+        "element_type": "relation",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 11 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.784459",
+        "url": "https://www.openstreetmap.org/relation/5495786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9523410850521,
+          14.70326312314283
+        ]
+      },
+      "properties": {
+        "id": "relation/7923642",
+        "element_id": 7923642,
+        "element_type": "relation",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'operator': 'Valenzuela Solar Energy, Inc.', 'plant:method': 'photovoltaic', 'plant:output:electricity': '8.6 MW', 'plant:source': 'solar', 'plant:type': 'solar_photovoltaic_panel', 'power': 'plant', 'start_date': '2015-11', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:44:21.786457",
+        "url": "https://www.openstreetmap.org/relation/7923642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.61240693057638,
+          7.094030700239445
+        ]
+      },
+      "properties": {
+        "id": "relation/13009207",
+        "element_id": 13009207,
+        "element_type": "relation",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'addr:barangay': 'Barangay 19-B', 'addr:city': 'Davao City', 'addr:district': 'Poblacion District', 'addr:postcode': '8000', 'addr:province': 'Davao del Sur', 'addr:street': 'J. P. Laurel Avenue', 'landuse': 'industrial', 'name': 'Bajada Power Plant', 'operator': 'Davao Light and Power Company', 'operator:short': 'DLPC', 'operator:type': 'private', 'operator:wikidata': 'Q5228152', 'plant:method': 'combustion', 'plant:source': 'diesel', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:44:21.796527",
+        "url": "https://www.openstreetmap.org/relation/13009207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6475653280717,
+          13.462383975114722
+        ]
+      },
+      "properties": {
+        "id": "relation/13088524",
+        "element_id": 13088524,
+        "element_type": "relation",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.811025",
+        "url": "https://www.openstreetmap.org/relation/13088524"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6447805584459,
+          15.446406528309044
+        ]
+      },
+      "properties": {
+        "id": "relation/13687759",
+        "element_id": 13687759,
+        "element_type": "relation",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Tarlac Solar Power Project-2', 'operator': 'PetroSolar Corporation', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:44:21.819036",
+        "url": "https://www.openstreetmap.org/relation/13687759"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5338031458427,
+          15.418024694203282
+        ]
+      },
+      "properties": {
+        "id": "relation/14722224",
+        "element_id": 14722224,
+        "element_type": "relation",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:44:21.824558",
+        "url": "https://www.openstreetmap.org/relation/14722224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5338031458427,
+          15.418024694203282
+        ]
+      },
+      "properties": {
+        "id": "relation/14722224",
+        "element_id": 14722224,
+        "element_type": "relation",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.824558",
+        "url": "https://www.openstreetmap.org/relation/14722224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67222576891751,
+          15.167799438538973
+        ]
+      },
+      "properties": {
+        "id": "relation/16266383",
+        "element_id": 16266383,
+        "element_type": "relation",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.831921",
+        "url": "https://www.openstreetmap.org/relation/16266383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95541615031748,
+          15.445242639302204
+        ]
+      },
+      "properties": {
+        "id": "relation/16505329",
+        "element_id": 16505329,
+        "element_type": "relation",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.834923",
+        "url": "https://www.openstreetmap.org/relation/16505329"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.71390212001587,
+          18.12039670842944
+        ]
+      },
+      "properties": {
+        "id": "relation/16533845",
+        "element_id": 16533845,
+        "element_type": "relation",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.835923",
+        "url": "https://www.openstreetmap.org/relation/16533845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.48393286759637,
+          18.052284106605565
+        ]
+      },
+      "properties": {
+        "id": "relation/16534987",
+        "element_id": 16534987,
+        "element_type": "relation",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'type': 'multipolygon'}",
+        "timestamp": "2025-07-07 18:44:21.835923",
+        "url": "https://www.openstreetmap.org/relation/16534987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.48393286759637,
+          18.052284106605565
+        ]
+      },
+      "properties": {
+        "id": "relation/16534987",
+        "element_id": 16534987,
+        "element_type": "relation",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.835923",
+        "url": "https://www.openstreetmap.org/relation/16534987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.62597261832168,
+          15.1940481072614
+        ]
+      },
+      "properties": {
+        "id": "relation/16535003",
+        "element_id": 16535003,
+        "element_type": "relation",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.836921",
+        "url": "https://www.openstreetmap.org/relation/16535003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.09597907827118,
+          9.635946855747616
+        ]
+      },
+      "properties": {
+        "id": "relation/16684483",
+        "element_id": 16684483,
+        "element_type": "relation",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.836921",
+        "url": "https://www.openstreetmap.org/relation/16684483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.22614254276333,
+          14.069775764781976
+        ]
+      },
+      "properties": {
+        "id": "relation/17337525",
+        "element_id": 17337525,
+        "element_type": "relation",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:44:21.838921",
+        "url": "https://www.openstreetmap.org/relation/17337525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.74631682668948,
+          9.76917967697747
+        ]
+      },
+      "properties": {
+        "id": "way/106052675",
+        "element_id": 106052675,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Puerto Princesa', 'landuse': 'industrial', 'name': 'NAPOCOR Puerto Princesa Power Plant', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.841921",
+        "url": "https://www.openstreetmap.org/way/106052675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1928604839067,
+          8.184453086955555
+        ]
+      },
+      "properties": {
+        "id": "way/141727551",
+        "element_id": 141727551,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.841921",
+        "url": "https://www.openstreetmap.org/way/141727551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.95430599514168,
+          14.63956591700407
+        ]
+      },
+      "properties": {
+        "id": "way/149885287",
+        "element_id": 149885287,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.842921",
+        "url": "https://www.openstreetmap.org/way/149885287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.95430599514168,
+          14.63956591700407
+        ]
+      },
+      "properties": {
+        "id": "way/149885287",
+        "element_id": 149885287,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'description': 'Gas Turbine Power Plant', 'generator:method': 'combustion', 'generator:output:electricity': 'yes', 'generator:source': 'gas', 'generator:type': 'gas_turbine', 'landuse': 'industrial', 'name': 'Navotas Power Plant', 'power': 'plant', 'source': 'https://www.industryabout.com/country-territories-3/694-philippines/fossil-fuels-energy/6059-navotas-gas-power-plant'}",
+        "timestamp": "2025-07-07 18:44:21.843921",
+        "url": "https://www.openstreetmap.org/way/149885287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.63193555877214,
+          11.025036968913271
+        ]
+      },
+      "properties": {
+        "id": "way/173017165",
+        "element_id": 173017165,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Panay Diesel Power Plant 3 (PDPP3)', 'plant:method': 'combustion', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.846195",
+        "url": "https://www.openstreetmap.org/way/173017165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.11677780937688,
+          14.278469721116878
+        ]
+      },
+      "properties": {
+        "id": "way/185930322",
+        "element_id": 185930322,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Meralco Santa Rosa', 'power': 'plant', 'source': 'Bing'}",
+        "timestamp": "2025-07-07 18:44:21.848428",
+        "url": "https://www.openstreetmap.org/way/185930322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.26636145612528,
+          13.59628331832386
+        ]
+      },
+      "properties": {
+        "id": "way/245016474",
+        "element_id": 245016474,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'First Catanduanes Electric Cooperative, Inc. (FICELCO)', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.848428",
+        "url": "https://www.openstreetmap.org/way/245016474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.00557329636324,
+          11.091739945800608
+        ]
+      },
+      "properties": {
+        "id": "way/246667669",
+        "element_id": 246667669,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.848428",
+        "url": "https://www.openstreetmap.org/way/246667669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.00557329636324,
+          11.091739945800608
+        ]
+      },
+      "properties": {
+        "id": "way/246667669",
+        "element_id": 246667669,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'PRYCE GAS Plant', 'plant:source': 'gas', 'power': 'plant', 'source': 'bing'}",
+        "timestamp": "2025-07-07 18:44:21.850438",
+        "url": "https://www.openstreetmap.org/way/246667669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.64934485569356,
+          11.152754568991368
+        ]
+      },
+      "properties": {
+        "id": "way/254493891",
+        "element_id": 254493891,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.850438",
+        "url": "https://www.openstreetmap.org/way/254493891"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.21435169670298,
+          7.0810929714208175
+        ]
+      },
+      "properties": {
+        "id": "way/267003417",
+        "element_id": 267003417,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.851438",
+        "url": "https://www.openstreetmap.org/way/267003417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.86031263574478,
+          14.414321616476265
+        ]
+      },
+      "properties": {
+        "id": "way/316944399",
+        "element_id": 316944399,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Rosario', 'addr:postcode': '4106', 'addr:province': 'Cavite', 'landuse': 'industrial', 'name': 'Magellan Cogeneration', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.851438",
+        "url": "https://www.openstreetmap.org/way/316944399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.21960012315476,
+          7.012952113402892
+        ]
+      },
+      "properties": {
+        "id": "way/377852790",
+        "element_id": 377852790,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.853438",
+        "url": "https://www.openstreetmap.org/way/377852790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.19506475919576,
+          8.17006550164112
+        ]
+      },
+      "properties": {
+        "id": "way/386455923",
+        "element_id": 386455923,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.853438",
+        "url": "https://www.openstreetmap.org/way/386455923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.42835089474512,
+          5.417053187675771
+        ]
+      },
+      "properties": {
+        "id": "way/401884718",
+        "element_id": 401884718,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.855438",
+        "url": "https://www.openstreetmap.org/way/401884718"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.42835089474512,
+          5.417053187675771
+        ]
+      },
+      "properties": {
+        "id": "way/401884718",
+        "element_id": 401884718,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'addr:barangay': 'Mabila', 'addr:city': 'Sarangani', 'addr:postcode': '8015', 'addr:province': 'Davao Occidental', 'landuse': 'industrial', 'name': 'Balut Diesel Power Plant', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.856540",
+        "url": "https://www.openstreetmap.org/way/401884718"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.16436832697536,
+          14.13868343957961
+        ]
+      },
+      "properties": {
+        "id": "way/426278018",
+        "element_id": 426278018,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.856540",
+        "url": "https://www.openstreetmap.org/way/426278018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.99173849581082,
+          15.49684217695686
+        ]
+      },
+      "properties": {
+        "id": "way/431408943",
+        "element_id": 431408943,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.857554",
+        "url": "https://www.openstreetmap.org/way/431408943"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.60707145,
+          10.35291025
+        ]
+      },
+      "properties": {
+        "id": "way/457588162",
+        "element_id": 457588162,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.857554",
+        "url": "https://www.openstreetmap.org/way/457588162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.60707145,
+          10.35291025
+        ]
+      },
+      "properties": {
+        "id": "way/457588162",
+        "element_id": 457588162,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'generator:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.857554",
+        "url": "https://www.openstreetmap.org/way/457588162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.60707145,
+          10.35291025
+        ]
+      },
+      "properties": {
+        "id": "way/457588162",
+        "element_id": 457588162,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'generator:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.859555",
+        "url": "https://www.openstreetmap.org/way/457588162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61337535640088,
+          16.3742496251555
+        ]
+      },
+      "properties": {
+        "id": "way/483027469",
+        "element_id": 483027469,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Power Plant', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.859555",
+        "url": "https://www.openstreetmap.org/way/483027469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.16021866826006,
+          14.90701222610184
+        ]
+      },
+      "properties": {
+        "id": "way/485734072",
+        "element_id": 485734072,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.859555",
+        "url": "https://www.openstreetmap.org/way/485734072"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.16021866826006,
+          14.90701222610184
+        ]
+      },
+      "properties": {
+        "id": "way/485734072",
+        "element_id": 485734072,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.859555",
+        "url": "https://www.openstreetmap.org/way/485734072"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.78717982504118,
+          8.555802003750147
+        ]
+      },
+      "properties": {
+        "id": "way/502798652",
+        "element_id": 502798652,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.860588",
+        "url": "https://www.openstreetmap.org/way/502798652"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63813259966696,
+          11.162142769894908
+        ]
+      },
+      "properties": {
+        "id": "way/506206651",
+        "element_id": 506206651,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.860588",
+        "url": "https://www.openstreetmap.org/way/506206651"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.09604136773872,
+          9.63621596947648
+        ]
+      },
+      "properties": {
+        "id": "way/513262610",
+        "element_id": 513262610,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.861725",
+        "url": "https://www.openstreetmap.org/way/513262610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.16622857507214,
+          10.9454480110923
+        ]
+      },
+      "properties": {
+        "id": "way/513473977",
+        "element_id": 513473977,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.861725",
+        "url": "https://www.openstreetmap.org/way/513473977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.969763817027,
+          7.554946390934969
+        ]
+      },
+      "properties": {
+        "id": "way/528716075",
+        "element_id": 528716075,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.862723",
+        "url": "https://www.openstreetmap.org/way/528716075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.66834727196655,
+          13.923736524075387
+        ]
+      },
+      "properties": {
+        "id": "way/528732939",
+        "element_id": 528732939,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.863723",
+        "url": "https://www.openstreetmap.org/way/528732939"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58357752113248,
+          16.850969370368897
+        ]
+      },
+      "properties": {
+        "id": "way/537098792",
+        "element_id": 537098792,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.864729",
+        "url": "https://www.openstreetmap.org/way/537098792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.59004877307817,
+          10.726152808839425
+        ]
+      },
+      "properties": {
+        "id": "way/539156478",
+        "element_id": 539156478,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Panay Power Bunker Fuel Power Station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.864729",
+        "url": "https://www.openstreetmap.org/way/539156478"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.62969023767631,
+          11.172980830600013
+        ]
+      },
+      "properties": {
+        "id": "way/539189141",
+        "element_id": 539189141,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.864729",
+        "url": "https://www.openstreetmap.org/way/539189141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61017542381484,
+          15.236101732453587
+        ]
+      },
+      "properties": {
+        "id": "way/540368298",
+        "element_id": 540368298,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.864729",
+        "url": "https://www.openstreetmap.org/way/540368298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9916829654473,
+          12.417272698509686
+        ]
+      },
+      "properties": {
+        "id": "way/540589756",
+        "element_id": 540589756,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'National Power Corporation', 'operator': 'NAPOCOR', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.864729",
+        "url": "https://www.openstreetmap.org/way/540589756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.96092029999998,
+          12.0641278
+        ]
+      },
+      "properties": {
+        "id": "way/555264236",
+        "element_id": 555264236,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.865723",
+        "url": "https://www.openstreetmap.org/way/555264236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.96092029999998,
+          12.0641278
+        ]
+      },
+      "properties": {
+        "id": "way/555264236",
+        "element_id": 555264236,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'San Jose Diesel Power Plant', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.866889",
+        "url": "https://www.openstreetmap.org/way/555264236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.72227735147762,
+          12.91227121615546
+        ]
+      },
+      "properties": {
+        "id": "way/555264282",
+        "element_id": 555264282,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.866889",
+        "url": "https://www.openstreetmap.org/way/555264282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.72227735147762,
+          12.91227121615546
+        ]
+      },
+      "properties": {
+        "id": "way/555264282",
+        "element_id": 555264282,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'NPC Diesel Power Plant', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.868897",
+        "url": "https://www.openstreetmap.org/way/555264282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9582926282064,
+          14.684917245535468
+        ]
+      },
+      "properties": {
+        "id": "way/571889596",
+        "element_id": 571889596,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Malabon', 'addr:street': 'M. H. Del Pilar', 'landuse': 'industrial', 'power': 'plant', 'wall:material': 'concrete'}",
+        "timestamp": "2025-07-07 18:44:21.868897",
+        "url": "https://www.openstreetmap.org/way/571889596"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9582926282064,
+          14.684917245535468
+        ]
+      },
+      "properties": {
+        "id": "way/571889596",
+        "element_id": 571889596,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Malabon', 'addr:street': 'M. H. Del Pilar', 'landuse': 'industrial', 'power': 'plant', 'wall:material': 'concrete'}",
+        "timestamp": "2025-07-07 18:44:21.868897",
+        "url": "https://www.openstreetmap.org/way/571889596"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.76750856532236,
+          8.766099969985776
+        ]
+      },
+      "properties": {
+        "id": "way/574202289",
+        "element_id": 574202289,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.868897",
+        "url": "https://www.openstreetmap.org/way/574202289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.92931462850522,
+          13.060037040403827
+        ]
+      },
+      "properties": {
+        "id": "way/592788976",
+        "element_id": 592788976,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.869897",
+        "url": "https://www.openstreetmap.org/way/592788976"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97321939377692,
+          15.007370282412907
+        ]
+      },
+      "properties": {
+        "id": "way/601146151",
+        "element_id": 601146151,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.869897",
+        "url": "https://www.openstreetmap.org/way/601146151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.22922315101908,
+          10.773542190501178
+        ]
+      },
+      "properties": {
+        "id": "way/606044631",
+        "element_id": 606044631,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.870897",
+        "url": "https://www.openstreetmap.org/way/606044631"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.22922315101908,
+          10.773542190501178
+        ]
+      },
+      "properties": {
+        "id": "way/606044631",
+        "element_id": 606044631,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Century Peak Hydro Powerplant', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.871897",
+        "url": "https://www.openstreetmap.org/way/606044631"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.74439490492556,
+          6.333856042857287
+        ]
+      },
+      "properties": {
+        "id": "way/644450031",
+        "element_id": 644450031,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.873202",
+        "url": "https://www.openstreetmap.org/way/644450031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.74439490492556,
+          6.333856042857287
+        ]
+      },
+      "properties": {
+        "id": "way/644450031",
+        "element_id": 644450031,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.873202",
+        "url": "https://www.openstreetmap.org/way/644450031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.59708695868024,
+          12.30434607220266
+        ]
+      },
+      "properties": {
+        "id": "way/646201909",
+        "element_id": 646201909,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Romblon ELectric Cooperative', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.874203",
+        "url": "https://www.openstreetmap.org/way/646201909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.0963645406798,
+          12.938654876686035
+        ]
+      },
+      "properties": {
+        "id": "way/649104784",
+        "element_id": 649104784,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.874203",
+        "url": "https://www.openstreetmap.org/way/649104784"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.03928573805568,
+          12.78590697322571
+        ]
+      },
+      "properties": {
+        "id": "way/649202627",
+        "element_id": 649202627,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'NPC Power Plant', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.874203",
+        "url": "https://www.openstreetmap.org/way/649202627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.64317736381462,
+          11.077663375386535
+        ]
+      },
+      "properties": {
+        "id": "way/650546826",
+        "element_id": 650546826,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.874203",
+        "url": "https://www.openstreetmap.org/way/650546826"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.64317736381462,
+          11.077663375386535
+        ]
+      },
+      "properties": {
+        "id": "way/650546826",
+        "element_id": 650546826,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Doong NPC Diesel Plant', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.876200",
+        "url": "https://www.openstreetmap.org/way/650546826"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.16785950592735,
+          10.616195951566183
+        ]
+      },
+      "properties": {
+        "id": "way/661056273",
+        "element_id": 661056273,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.876200",
+        "url": "https://www.openstreetmap.org/way/661056273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.99086347199082,
+          6.698414289192919
+        ]
+      },
+      "properties": {
+        "id": "way/663531518",
+        "element_id": 663531518,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'BASELCO', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.876200",
+        "url": "https://www.openstreetmap.org/way/663531518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.61724864863096,
+          10.704806811969911
+        ]
+      },
+      "properties": {
+        "id": "way/680879194",
+        "element_id": 680879194,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.877202",
+        "url": "https://www.openstreetmap.org/way/680879194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.61724864863096,
+          10.704806811969911
+        ]
+      },
+      "properties": {
+        "id": "way/680879194",
+        "element_id": 680879194,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.877202",
+        "url": "https://www.openstreetmap.org/way/680879194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.09286758535508,
+          6.0570832229409
+        ]
+      },
+      "properties": {
+        "id": "way/692881644",
+        "element_id": 692881644,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': '69 KV Power Station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.877202",
+        "url": "https://www.openstreetmap.org/way/692881644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.24872557748084,
+          8.331788482660718
+        ]
+      },
+      "properties": {
+        "id": "way/702960231",
+        "element_id": 702960231,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.877202",
+        "url": "https://www.openstreetmap.org/way/702960231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.24872557748084,
+          8.331788482660718
+        ]
+      },
+      "properties": {
+        "id": "way/702960231",
+        "element_id": 702960231,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.877202",
+        "url": "https://www.openstreetmap.org/way/702960231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.24872557748084,
+          8.331788482660718
+        ]
+      },
+      "properties": {
+        "id": "way/702960231",
+        "element_id": 702960231,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.879200",
+        "url": "https://www.openstreetmap.org/way/702960231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.52767956525022,
+          9.224543329902788
+        ]
+      },
+      "properties": {
+        "id": "way/710674036",
+        "element_id": 710674036,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'S.I. Power Corporation', 'other_name': 'SIPCOR', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.879200",
+        "url": "https://www.openstreetmap.org/way/710674036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.16511445174162,
+          11.804673901638948
+        ]
+      },
+      "properties": {
+        "id": "way/805500373",
+        "element_id": 805500373,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.880202",
+        "url": "https://www.openstreetmap.org/way/805500373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.16511445174162,
+          11.804673901638948
+        ]
+      },
+      "properties": {
+        "id": "way/805500373",
+        "element_id": 805500373,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.880202",
+        "url": "https://www.openstreetmap.org/way/805500373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.01614926040024,
+          7.989337142696441
+        ]
+      },
+      "properties": {
+        "id": "way/821487687",
+        "element_id": 821487687,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.880202",
+        "url": "https://www.openstreetmap.org/way/821487687"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.01614926040024,
+          7.989337142696441
+        ]
+      },
+      "properties": {
+        "id": "way/821487687",
+        "element_id": 821487687,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.880202",
+        "url": "https://www.openstreetmap.org/way/821487687"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.52372004633928,
+          7.084509699280485
+        ]
+      },
+      "properties": {
+        "id": "way/874088033",
+        "element_id": 874088033,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.881202",
+        "url": "https://www.openstreetmap.org/way/874088033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.52372004633928,
+          7.084509699280485
+        ]
+      },
+      "properties": {
+        "id": "way/874088033",
+        "element_id": 874088033,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "1920 kW",
+        "details": "Tag 'plant:output:electricity' has value '1920 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:44:21.881202",
+        "url": "https://www.openstreetmap.org/way/874088033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.49171424603234,
+          7.095954352757293
+        ]
+      },
+      "properties": {
+        "id": "way/879039749",
+        "element_id": 879039749,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.881202",
+        "url": "https://www.openstreetmap.org/way/879039749"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.49171424603234,
+          7.095954352757293
+        ]
+      },
+      "properties": {
+        "id": "way/879039749",
+        "element_id": 879039749,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "300 kW",
+        "details": "Tag 'plant:output:electricity' has value '300 kW' which could not be parsed",
+        "timestamp": "2025-07-07 18:44:21.882202",
+        "url": "https://www.openstreetmap.org/way/879039749"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8164251102544,
+          14.297539892026908
+        ]
+      },
+      "properties": {
+        "id": "way/879516719",
+        "element_id": 879516719,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'note': 'geometry is approximated, using sentinel 2 imagery', 'operator': 'G.A. Philkor Multi Energy Corporation', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant', 'source': 'sentinel-2'}",
+        "timestamp": "2025-07-07 18:44:21.882202",
+        "url": "https://www.openstreetmap.org/way/879516719"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8164251102544,
+          14.297539892026908
+        ]
+      },
+      "properties": {
+        "id": "way/879516719",
+        "element_id": 879516719,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.882202",
+        "url": "https://www.openstreetmap.org/way/879516719"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.03093509548252,
+          15.00711472245044
+        ]
+      },
+      "properties": {
+        "id": "way/885874116",
+        "element_id": 885874116,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'San Ildefonso Alternative Energy Corporation', 'operator:type': 'private', 'plant:method': 'photovoltaic', 'plant:output:electricity': '22 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.882202",
+        "url": "https://www.openstreetmap.org/way/885874116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.95943624339242,
+          9.268982236379683
+        ]
+      },
+      "properties": {
+        "id": "way/892121755",
+        "element_id": 892121755,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'SURSECO II', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.882202",
+        "url": "https://www.openstreetmap.org/way/892121755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.64080200450576,
+          12.349016207763151
+        ]
+      },
+      "properties": {
+        "id": "way/907605727",
+        "element_id": 907605727,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'operator': 'DMCI Power', 'plant:method': 'combustion', 'plant:output:electricity': '20 MW', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.882202",
+        "url": "https://www.openstreetmap.org/way/907605727"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.92198613737784,
+          11.141245453283933
+        ]
+      },
+      "properties": {
+        "id": "way/941668491",
+        "element_id": 941668491,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'SEPALCO', 'plant:method': 'photovoltaic', 'plant:output:electricity': '50 MW', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.885202",
+        "url": "https://www.openstreetmap.org/way/941668491"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.92250699798814,
+          14.76419886863747
+        ]
+      },
+      "properties": {
+        "id": "way/942024012",
+        "element_id": 942024012,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'landuse': 'industrial', 'name': 'Polillo Power Plant', 'power': 'plant', 'source': 'node 5479258922'}",
+        "timestamp": "2025-07-07 18:44:21.885202",
+        "url": "https://www.openstreetmap.org/way/942024012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.98229863464216,
+          8.429954619174667
+        ]
+      },
+      "properties": {
+        "id": "way/972982990",
+        "element_id": 972982990,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.886202",
+        "url": "https://www.openstreetmap.org/way/972982990"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6694789372943,
+          11.13082113682704
+        ]
+      },
+      "properties": {
+        "id": "way/972982998",
+        "element_id": 972982998,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.886202",
+        "url": "https://www.openstreetmap.org/way/972982998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.67275738198168,
+          11.11518147166202
+        ]
+      },
+      "properties": {
+        "id": "way/972982999",
+        "element_id": 972982999,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.886202",
+        "url": "https://www.openstreetmap.org/way/972982999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6460799889577,
+          11.15324729532128
+        ]
+      },
+      "properties": {
+        "id": "way/972983000",
+        "element_id": 972983000,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.886202",
+        "url": "https://www.openstreetmap.org/way/972983000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.16033166245748,
+          13.36656077083362
+        ]
+      },
+      "properties": {
+        "id": "way/985412190",
+        "element_id": 985412190,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.887202",
+        "url": "https://www.openstreetmap.org/way/985412190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.16033166245748,
+          13.36656077083362
+        ]
+      },
+      "properties": {
+        "id": "way/985412190",
+        "element_id": 985412190,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'operator': 'DMCI Power', 'plant:source': 'biomass', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.887202",
+        "url": "https://www.openstreetmap.org/way/985412190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.16033166245748,
+          13.36656077083362
+        ]
+      },
+      "properties": {
+        "id": "way/985412190",
+        "element_id": 985412190,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'operator': 'DMCI Power', 'plant:source': 'biomass', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.888201",
+        "url": "https://www.openstreetmap.org/way/985412190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.73671025520473,
+          9.850581409224644
+        ]
+      },
+      "properties": {
+        "id": "way/989904283",
+        "element_id": 989904283,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Delta P Power Plant', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.888201",
+        "url": "https://www.openstreetmap.org/way/989904283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.10236416102312,
+          16.732252275155016
+        ]
+      },
+      "properties": {
+        "id": "way/1082256331",
+        "element_id": 1082256331,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.889201",
+        "url": "https://www.openstreetmap.org/way/1082256331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.87346500973108,
+          10.149893633840126
+        ]
+      },
+      "properties": {
+        "id": "way/990835912",
+        "element_id": 990835912,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.889201",
+        "url": "https://www.openstreetmap.org/way/990835912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.48505210667784,
+          9.349301641782189
+        ]
+      },
+      "properties": {
+        "id": "way/993568433",
+        "element_id": 993568433,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.889201",
+        "url": "https://www.openstreetmap.org/way/993568433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.30430163153116,
+          11.823612072501057
+        ]
+      },
+      "properties": {
+        "id": "way/1086683249",
+        "element_id": 1086683249,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.890202",
+        "url": "https://www.openstreetmap.org/way/1086683249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.71721925177825,
+          6.938182233453535
+        ]
+      },
+      "properties": {
+        "id": "way/1118870543",
+        "element_id": 1118870543,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'addr:barangay': 'Santa Cruz', 'addr:city': 'Samal', 'addr:district': 'Kaputian District', 'addr:postcode': '8119', 'addr:province': 'Davao del Norte', 'landuse': 'industrial', 'name': 'Talikud Diesel Power Plant', 'plant:method': 'combustion', 'plant:source': 'diesel', 'power': 'plant', 'short_name': 'Talikud DPP'}",
+        "timestamp": "2025-07-07 18:44:21.895202",
+        "url": "https://www.openstreetmap.org/way/1118870543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34980693255166,
+          7.900085375351781
+        ]
+      },
+      "properties": {
+        "id": "way/1127372997",
+        "element_id": 1127372997,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.897200",
+        "url": "https://www.openstreetmap.org/way/1127372997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34980693255166,
+          7.900085375351781
+        ]
+      },
+      "properties": {
+        "id": "way/1127372997",
+        "element_id": 1127372997,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.897200",
+        "url": "https://www.openstreetmap.org/way/1127372997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.24710984399184,
+          8.326612310865139
+        ]
+      },
+      "properties": {
+        "id": "way/1135514550",
+        "element_id": 1135514550,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.897200",
+        "url": "https://www.openstreetmap.org/way/1135514550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.24710984399184,
+          8.326612310865139
+        ]
+      },
+      "properties": {
+        "id": "way/1135514550",
+        "element_id": 1135514550,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': '15 MW MEGC Dalipuga Iligan Diesel Power Plant', 'operator': 'Mapalad Energy Generating Corporation', 'plant:source': 'diesel', 'power': 'plant', 'source': 'https://eneken.ieej.or.jp/data/5228.pdf'}",
+        "timestamp": "2025-07-07 18:44:21.899200",
+        "url": "https://www.openstreetmap.org/way/1135514550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.25472389600291,
+          8.327196701084018
+        ]
+      },
+      "properties": {
+        "id": "way/1135517694",
+        "element_id": 1135517694,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.899200",
+        "url": "https://www.openstreetmap.org/way/1135517694"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.25472389600291,
+          8.327196701084018
+        ]
+      },
+      "properties": {
+        "id": "way/1135517694",
+        "element_id": 1135517694,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'MPC Iligan DPP', 'operator': 'Mapalad Power Corporation', 'plant:source': 'diesel', 'power': 'plant', 'source': 'https://www.doe.gov.ph/sites/default/files/pdf/announcements/electric_power_plants_03_mindanao_connected_december_2021.pdf'}",
+        "timestamp": "2025-07-07 18:44:21.900201",
+        "url": "https://www.openstreetmap.org/way/1135517694"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63142889409858,
+          11.085192345874248
+        ]
+      },
+      "properties": {
+        "id": "way/1156212931",
+        "element_id": 1156212931,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.900201",
+        "url": "https://www.openstreetmap.org/way/1156212931"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63142889409858,
+          11.085192345874248
+        ]
+      },
+      "properties": {
+        "id": "way/1156212931",
+        "element_id": 1156212931,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.900201",
+        "url": "https://www.openstreetmap.org/way/1156212931"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63218478898062,
+          11.08521508002661
+        ]
+      },
+      "properties": {
+        "id": "way/1156212932",
+        "element_id": 1156212932,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.900201",
+        "url": "https://www.openstreetmap.org/way/1156212932"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63218478898062,
+          11.08521508002661
+        ]
+      },
+      "properties": {
+        "id": "way/1156212932",
+        "element_id": 1156212932,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.900201",
+        "url": "https://www.openstreetmap.org/way/1156212932"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63218423644828,
+          11.08571727721004
+        ]
+      },
+      "properties": {
+        "id": "way/1156212933",
+        "element_id": 1156212933,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.901201",
+        "url": "https://www.openstreetmap.org/way/1156212933"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63218423644828,
+          11.08571727721004
+        ]
+      },
+      "properties": {
+        "id": "way/1156212933",
+        "element_id": 1156212933,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.901201",
+        "url": "https://www.openstreetmap.org/way/1156212933"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63214684361346,
+          11.086600481511892
+        ]
+      },
+      "properties": {
+        "id": "way/1156212934",
+        "element_id": 1156212934,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.901201",
+        "url": "https://www.openstreetmap.org/way/1156212934"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63214684361346,
+          11.086600481511892
+        ]
+      },
+      "properties": {
+        "id": "way/1156212934",
+        "element_id": 1156212934,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.901201",
+        "url": "https://www.openstreetmap.org/way/1156212934"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63289702344366,
+          11.086583252490463
+        ]
+      },
+      "properties": {
+        "id": "way/1156212935",
+        "element_id": 1156212935,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.901201",
+        "url": "https://www.openstreetmap.org/way/1156212935"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63289702344366,
+          11.086583252490463
+        ]
+      },
+      "properties": {
+        "id": "way/1156212935",
+        "element_id": 1156212935,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.901201",
+        "url": "https://www.openstreetmap.org/way/1156212935"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63141135645095,
+          11.085716471663783
+        ]
+      },
+      "properties": {
+        "id": "way/1156212936",
+        "element_id": 1156212936,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.901201",
+        "url": "https://www.openstreetmap.org/way/1156212936"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63141135645095,
+          11.085716471663783
+        ]
+      },
+      "properties": {
+        "id": "way/1156212936",
+        "element_id": 1156212936,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.901201",
+        "url": "https://www.openstreetmap.org/way/1156212936"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63350462975268,
+          11.08665797246403
+        ]
+      },
+      "properties": {
+        "id": "way/1156212937",
+        "element_id": 1156212937,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.901201",
+        "url": "https://www.openstreetmap.org/way/1156212937"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63350462975268,
+          11.08665797246403
+        ]
+      },
+      "properties": {
+        "id": "way/1156212937",
+        "element_id": 1156212937,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.901201",
+        "url": "https://www.openstreetmap.org/way/1156212937"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63352016973326,
+          11.086022762481976
+        ]
+      },
+      "properties": {
+        "id": "way/1156212938",
+        "element_id": 1156212938,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.901201",
+        "url": "https://www.openstreetmap.org/way/1156212938"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63352016973326,
+          11.086022762481976
+        ]
+      },
+      "properties": {
+        "id": "way/1156212938",
+        "element_id": 1156212938,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.901201",
+        "url": "https://www.openstreetmap.org/way/1156212938"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63287835833556,
+          11.085963168149169
+        ]
+      },
+      "properties": {
+        "id": "way/1156212939",
+        "element_id": 1156212939,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.901201",
+        "url": "https://www.openstreetmap.org/way/1156212939"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63287835833556,
+          11.085963168149169
+        ]
+      },
+      "properties": {
+        "id": "way/1156212939",
+        "element_id": 1156212939,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.901201",
+        "url": "https://www.openstreetmap.org/way/1156212939"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6321796617882,
+          11.08613250015808
+        ]
+      },
+      "properties": {
+        "id": "way/1156212940",
+        "element_id": 1156212940,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.902208",
+        "url": "https://www.openstreetmap.org/way/1156212940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.6321796617882,
+          11.08613250015808
+        ]
+      },
+      "properties": {
+        "id": "way/1156212940",
+        "element_id": 1156212940,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.902208",
+        "url": "https://www.openstreetmap.org/way/1156212940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63144020488916,
+          11.086116130734908
+        ]
+      },
+      "properties": {
+        "id": "way/1156212941",
+        "element_id": 1156212941,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.902208",
+        "url": "https://www.openstreetmap.org/way/1156212941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63144020488916,
+          11.086116130734908
+        ]
+      },
+      "properties": {
+        "id": "way/1156212941",
+        "element_id": 1156212941,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.902208",
+        "url": "https://www.openstreetmap.org/way/1156212941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63142133448008,
+          11.08663207308966
+        ]
+      },
+      "properties": {
+        "id": "way/1156212942",
+        "element_id": 1156212942,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.902208",
+        "url": "https://www.openstreetmap.org/way/1156212942"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63142133448008,
+          11.08663207308966
+        ]
+      },
+      "properties": {
+        "id": "way/1156212942",
+        "element_id": 1156212942,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.902208",
+        "url": "https://www.openstreetmap.org/way/1156212942"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.72601494141752,
+          8.4767800609492
+        ]
+      },
+      "properties": {
+        "id": "way/1163763467",
+        "element_id": 1163763467,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.902208",
+        "url": "https://www.openstreetmap.org/way/1163763467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.33579284093724,
+          14.390476208688462
+        ]
+      },
+      "properties": {
+        "id": "way/1177381240",
+        "element_id": 1177381240,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.903202",
+        "url": "https://www.openstreetmap.org/way/1177381240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8131206910392,
+          17.416103584593223
+        ]
+      },
+      "properties": {
+        "id": "way/1180700842",
+        "element_id": 1180700842,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.904202",
+        "url": "https://www.openstreetmap.org/way/1180700842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8131206910392,
+          17.416103584593223
+        ]
+      },
+      "properties": {
+        "id": "way/1180700842",
+        "element_id": 1180700842,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.904202",
+        "url": "https://www.openstreetmap.org/way/1180700842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.58326045031296,
+          10.024466685867733
+        ]
+      },
+      "properties": {
+        "id": "way/1194287177",
+        "element_id": 1194287177,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'addr:barangay': 'Wilson', 'addr:city': 'San Jose', 'addr:province': 'Dinagat', 'name': 'Dinagat Diesel Power Plant', 'plant:method': 'combustion', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.905202",
+        "url": "https://www.openstreetmap.org/way/1194287177"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.40205807861524,
+          10.62931509915174
+        ]
+      },
+      "properties": {
+        "id": "way/1200031767",
+        "element_id": 1200031767,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.907200",
+        "url": "https://www.openstreetmap.org/way/1200031767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.972636340722,
+          8.485269193631915
+        ]
+      },
+      "properties": {
+        "id": "way/1202855214",
+        "element_id": 1202855214,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.907200",
+        "url": "https://www.openstreetmap.org/way/1202855214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.06958159923192,
+          14.717544544976509
+        ]
+      },
+      "properties": {
+        "id": "way/1217253342",
+        "element_id": 1217253342,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.907200",
+        "url": "https://www.openstreetmap.org/way/1217253342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.06958159923192,
+          14.717544544976509
+        ]
+      },
+      "properties": {
+        "id": "way/1217253342",
+        "element_id": 1217253342,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.907200",
+        "url": "https://www.openstreetmap.org/way/1217253342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.65019046079256,
+          13.915809639576764
+        ]
+      },
+      "properties": {
+        "id": "way/1217262942",
+        "element_id": 1217262942,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.908205",
+        "url": "https://www.openstreetmap.org/way/1217262942"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.65019046079256,
+          13.915809639576764
+        ]
+      },
+      "properties": {
+        "id": "way/1217262942",
+        "element_id": 1217262942,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.908205",
+        "url": "https://www.openstreetmap.org/way/1217262942"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2549166047634,
+          6.107888686398585
+        ]
+      },
+      "properties": {
+        "id": "way/1217310176",
+        "element_id": 1217310176,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.908205",
+        "url": "https://www.openstreetmap.org/way/1217310176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2549166047634,
+          6.107888686398585
+        ]
+      },
+      "properties": {
+        "id": "way/1217310176",
+        "element_id": 1217310176,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.908205",
+        "url": "https://www.openstreetmap.org/way/1217310176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.75818533347032,
+          14.970857188049436
+        ]
+      },
+      "properties": {
+        "id": "way/1220602348",
+        "element_id": 1220602348,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator:type': 'private', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.908205",
+        "url": "https://www.openstreetmap.org/way/1220602348"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.75818533347032,
+          14.970857188049436
+        ]
+      },
+      "properties": {
+        "id": "way/1220602348",
+        "element_id": 1220602348,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.908205",
+        "url": "https://www.openstreetmap.org/way/1220602348"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.09554341194143,
+          9.634064614732775
+        ]
+      },
+      "properties": {
+        "id": "way/1222876388",
+        "element_id": 1222876388,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.908205",
+        "url": "https://www.openstreetmap.org/way/1222876388"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61457999725862,
+          15.37664798034955
+        ]
+      },
+      "properties": {
+        "id": "way/1225188837",
+        "element_id": 1225188837,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:44:21.908205",
+        "url": "https://www.openstreetmap.org/way/1225188837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.80957927739712,
+          12.015156544330235
+        ]
+      },
+      "properties": {
+        "id": "way/1232964061",
+        "element_id": 1232964061,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.909479",
+        "url": "https://www.openstreetmap.org/way/1232964061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.27257760076937,
+          12.578366160602087
+        ]
+      },
+      "properties": {
+        "id": "way/1243108530",
+        "element_id": 1243108530,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'operator': 'National Power Corporation', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.909479",
+        "url": "https://www.openstreetmap.org/way/1243108530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.27257760076937,
+          12.578366160602087
+        ]
+      },
+      "properties": {
+        "id": "way/1243108530",
+        "element_id": 1243108530,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'operator': 'National Power Corporation', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.909479",
+        "url": "https://www.openstreetmap.org/way/1243108530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63988008305402,
+          12.050339861803366
+        ]
+      },
+      "properties": {
+        "id": "way/1265454211",
+        "element_id": 1265454211,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'description': 'EU-European Union Funded (SAMELCO I)', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.909479",
+        "url": "https://www.openstreetmap.org/way/1265454211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63988008305402,
+          12.050339861803366
+        ]
+      },
+      "properties": {
+        "id": "way/1265454211",
+        "element_id": 1265454211,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.909479",
+        "url": "https://www.openstreetmap.org/way/1265454211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.62579559872547,
+          11.083651553758829
+        ]
+      },
+      "properties": {
+        "id": "way/1268841585",
+        "element_id": 1268841585,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.909479",
+        "url": "https://www.openstreetmap.org/way/1268841585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.62579559872547,
+          11.083651553758829
+        ]
+      },
+      "properties": {
+        "id": "way/1268841585",
+        "element_id": 1268841585,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.911486",
+        "url": "https://www.openstreetmap.org/way/1268841585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.25119337552864,
+          15.021041994916008
+        ]
+      },
+      "properties": {
+        "id": "way/1293624884",
+        "element_id": 1293624884,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.911486",
+        "url": "https://www.openstreetmap.org/way/1293624884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.25272569334358,
+          13.73026483043572
+        ]
+      },
+      "properties": {
+        "id": "way/1295600924",
+        "element_id": 1295600924,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.912486",
+        "url": "https://www.openstreetmap.org/way/1295600924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.25272569334358,
+          13.73026483043572
+        ]
+      },
+      "properties": {
+        "id": "way/1295600924",
+        "element_id": 1295600924,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Calabanga Solar Power Project', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.913486",
+        "url": "https://www.openstreetmap.org/way/1295600924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0741384804481,
+          14.89318301449599
+        ]
+      },
+      "properties": {
+        "id": "way/1304922824",
+        "element_id": 1304922824,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.913486",
+        "url": "https://www.openstreetmap.org/way/1304922824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0741384804481,
+          14.89318301449599
+        ]
+      },
+      "properties": {
+        "id": "way/1304922824",
+        "element_id": 1304922824,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name:en': 'Norzagaray Bulacan Bunker C-fired diesel power station', 'plant:source': 'diesel', 'power': 'plant', 'source': 'https://www.gem.wiki/Bulacan_Bunker_C-fired_diesel_power_station'}",
+        "timestamp": "2025-07-07 18:44:21.915681",
+        "url": "https://www.openstreetmap.org/way/1304922824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.61761067974676,
+          6.39260573430676
+        ]
+      },
+      "properties": {
+        "id": "way/1314439328",
+        "element_id": 1314439328,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'description': 'below-SeaLevel Coal Smouldering', 'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'plant:output:heat': 'yes', 'plant:output:steam': 'yes', 'plant:source': 'coal', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.915681",
+        "url": "https://www.openstreetmap.org/way/1314439328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.61761067974676,
+          6.39260573430676
+        ]
+      },
+      "properties": {
+        "id": "way/1314439328",
+        "element_id": 1314439328,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.915681",
+        "url": "https://www.openstreetmap.org/way/1314439328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.71859863190512,
+          15.055443955040973
+        ]
+      },
+      "properties": {
+        "id": "way/1321600979",
+        "element_id": 1321600979,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "battery",
+        "details": "Source value 'battery' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:44:21.915681",
+        "url": "https://www.openstreetmap.org/way/1321600979"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.95404497565669,
+          11.32385195459454
+        ]
+      },
+      "properties": {
+        "id": "way/1331993759",
+        "element_id": 1331993759,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.916678",
+        "url": "https://www.openstreetmap.org/way/1331993759"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.95404497565669,
+          11.32385195459454
+        ]
+      },
+      "properties": {
+        "id": "way/1331993759",
+        "element_id": 1331993759,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.916678",
+        "url": "https://www.openstreetmap.org/way/1331993759"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67277215225376,
+          15.210694609195368
+        ]
+      },
+      "properties": {
+        "id": "way/1336361650",
+        "element_id": 1336361650,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.916678",
+        "url": "https://www.openstreetmap.org/way/1336361650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2626577173902,
+          9.870434100594329
+        ]
+      },
+      "properties": {
+        "id": "way/1337363506",
+        "element_id": 1337363506,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.917678",
+        "url": "https://www.openstreetmap.org/way/1337363506"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9272946739978,
+          13.468887706153769
+        ]
+      },
+      "properties": {
+        "id": "way/1353806140",
+        "element_id": 1353806140,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.917678",
+        "url": "https://www.openstreetmap.org/way/1353806140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9272946739978,
+          13.468887706153769
+        ]
+      },
+      "properties": {
+        "id": "way/1353806140",
+        "element_id": 1353806140,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.917678",
+        "url": "https://www.openstreetmap.org/way/1353806140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.71772023189418,
+          6.933836225332562
+        ]
+      },
+      "properties": {
+        "id": "way/1359378253",
+        "element_id": 1359378253,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'addr:barangay': 'Santa Cruz', 'addr:city': 'Island Garden City of Samal', 'addr:district': 'Kaputian District', 'addr:place': 'Purok Solid', 'addr:postcode': '8119', 'addr:province': 'Davao del Norte', 'landuse': 'industrial', 'name': 'Talicud Solar Power Plant', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.918678",
+        "url": "https://www.openstreetmap.org/way/1359378253"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.48818786247833,
+          14.762896859125586
+        ]
+      },
+      "properties": {
+        "id": "way/1369713659",
+        "element_id": 1369713659,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.920681",
+        "url": "https://www.openstreetmap.org/way/1369713659"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.48818786247833,
+          14.762896859125586
+        ]
+      },
+      "properties": {
+        "id": "way/1369713659",
+        "element_id": 1369713659,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'photovoltaic', 'generator:output:electricity': '48.1 MW', 'generator:source': 'solar', 'generator:type': 'solar_photovoltaic_panel', 'landuse': 'industrial', 'name': 'Samal Solar Power', 'operator': 'Samal Solar Renewables Energy Corporation', 'operator:type': 'private', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.922855",
+        "url": "https://www.openstreetmap.org/way/1369713659"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.501958177148,
+          14.864528149234122
+        ]
+      },
+      "properties": {
+        "id": "way/1372401043",
+        "element_id": 1372401043,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.922855",
+        "url": "https://www.openstreetmap.org/way/1372401043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.501958177148,
+          14.864528149234122
+        ]
+      },
+      "properties": {
+        "id": "way/1372401043",
+        "element_id": 1372401043,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'photovoltaic', 'generator:output:electricity': '48.1 MW', 'generator:source': 'solar', 'generator:type': 'solar_photovoltaic_panel', 'landuse': 'industrial', 'name': 'Balsik Solar Power', 'operator': 'Alternergy Holdings Corporation', 'operator:type': 'private', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.923860",
+        "url": "https://www.openstreetmap.org/way/1372401043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.64104885418595,
+          16.073880654570225
+        ]
+      },
+      "properties": {
+        "id": "way/1382221838",
+        "element_id": 1382221838,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.923860",
+        "url": "https://www.openstreetmap.org/way/1382221838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.72110311810933,
+          11.957914992432531
+        ]
+      },
+      "properties": {
+        "id": "way/1388697748",
+        "element_id": 1388697748,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:44:21.925131",
+        "url": "https://www.openstreetmap.org/way/1388697748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.18280492670934,
+          10.408313758259805
+        ]
+      },
+      "properties": {
+        "id": "way/1390481707",
+        "element_id": 1390481707,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'addr:barangay': 'Port Barton', 'addr:city': 'San Vicente', 'addr:place': 'Purok Maunlad', 'addr:postcode': '5309', 'addr:province': 'Palawan', 'contact:facebook': 'https://www.facebook.com/profile.php?id=100083279747503', 'landuse': 'industrial', 'name': 'Port Barton Diesel Power Plant', 'operator': 'PowerSource Philippines Incorporated', 'operator:short': 'PSPI', 'operator:type': 'private', 'plant:method': 'combustion', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.926158",
+        "url": "https://www.openstreetmap.org/way/1390481707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.50813138045967,
+          9.71895503052082
+        ]
+      },
+      "properties": {
+        "id": "way/1408950805",
+        "element_id": 1408950805,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'operator': 'Nickel Asia Philippines', 'plant:method': 'combustion', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.928158",
+        "url": "https://www.openstreetmap.org/way/1408950805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.50813138045967,
+          9.71895503052082
+        ]
+      },
+      "properties": {
+        "id": "way/1408950805",
+        "element_id": 1408950805,
+        "element_type": "way",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'operator': 'Nickel Asia Philippines', 'plant:method': 'combustion', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.929158",
+        "url": "https://www.openstreetmap.org/way/1408950805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4209948,
+          7.1738077
+        ]
+      },
+      "properties": {
+        "id": "node/5479285193",
+        "element_id": 5479285193,
+        "element_type": "node",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.930158",
+        "url": "https://www.openstreetmap.org/node/5479285193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4209948,
+          7.1738077
+        ]
+      },
+      "properties": {
+        "id": "node/5479285193",
+        "element_id": 5479285193,
+        "element_type": "node",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'water-storage', 'generator:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.930158",
+        "url": "https://www.openstreetmap.org/node/5479285193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7261782,
+          12.5701625
+        ]
+      },
+      "properties": {
+        "id": "node/11890129693",
+        "element_id": 11890129693,
+        "element_type": "node",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:44:21.931161",
+        "url": "https://www.openstreetmap.org/node/11890129693"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7261782,
+          12.5701625
+        ]
+      },
+      "properties": {
+        "id": "node/11890129693",
+        "element_id": 11890129693,
+        "element_type": "node",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'generator:output:electricity': '2.475', 'generator:source': 'diesel', 'operator': 'NATIONAL POWER CORPORATION', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.931161",
+        "url": "https://www.openstreetmap.org/node/11890129693"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.4209948,
+          7.1738077
+        ]
+      },
+      "properties": {
+        "id": "node/5479285193",
+        "element_id": 5479285193,
+        "element_type": "node",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:method': 'water-storage', 'generator:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.931161",
+        "url": "https://www.openstreetmap.org/node/5479285193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7261782,
+          12.5701625
+        ]
+      },
+      "properties": {
+        "id": "node/11890129693",
+        "element_id": 11890129693,
+        "element_type": "node",
+        "country": "Philippines",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'generator:output:electricity': '2.475', 'generator:source': 'diesel', 'operator': 'NATIONAL POWER CORPORATION', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:44:21.933163",
+        "url": "https://www.openstreetmap.org/node/11890129693"
+      }
+    }
+  ]
+}

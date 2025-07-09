@@ -1,0 +1,1589 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.781213351874843,
+          42.358339376154944
+        ]
+      },
+      "properties": {
+        "id": "way/241407322",
+        "element_id": 241407322,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:56.970107",
+        "url": "https://www.openstreetmap.org/way/241407322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.945349160261102,
+          42.29951483075255
+        ]
+      },
+      "properties": {
+        "id": "way/242174111",
+        "element_id": 242174111,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.970107",
+        "url": "https://www.openstreetmap.org/way/242174111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.945349160261102,
+          42.29951483075255
+        ]
+      },
+      "properties": {
+        "id": "way/242174111",
+        "element_id": 242174111,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'name': 'Hydroelectric power station Curraj Poshtëm', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.970107",
+        "url": "https://www.openstreetmap.org/way/242174111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.583143441243568,
+          41.020065372922446
+        ]
+      },
+      "properties": {
+        "id": "way/291725788",
+        "element_id": 291725788,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.970107",
+        "url": "https://www.openstreetmap.org/way/291725788"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.583143441243568,
+          41.020065372922446
+        ]
+      },
+      "properties": {
+        "id": "way/291725788",
+        "element_id": 291725788,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.970107",
+        "url": "https://www.openstreetmap.org/way/291725788"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.583143441243568,
+          41.020065372922446
+        ]
+      },
+      "properties": {
+        "id": "way/291725788",
+        "element_id": 291725788,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:56.970107",
+        "url": "https://www.openstreetmap.org/way/291725788"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.46963415,
+          40.921083
+        ]
+      },
+      "properties": {
+        "id": "way/325926486",
+        "element_id": 325926486,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.971316",
+        "url": "https://www.openstreetmap.org/way/325926486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.46963415,
+          40.921083
+        ]
+      },
+      "properties": {
+        "id": "way/325926486",
+        "element_id": 325926486,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.971316",
+        "url": "https://www.openstreetmap.org/way/325926486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.46963415,
+          40.921083
+        ]
+      },
+      "properties": {
+        "id": "way/325926486",
+        "element_id": 325926486,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:56.971316",
+        "url": "https://www.openstreetmap.org/way/325926486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.569243412589675,
+          40.27107182403312
+        ]
+      },
+      "properties": {
+        "id": "way/432555534",
+        "element_id": 432555534,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.971316",
+        "url": "https://www.openstreetmap.org/way/432555534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.569243412589675,
+          40.27107182403312
+        ]
+      },
+      "properties": {
+        "id": "way/432555534",
+        "element_id": 432555534,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.971316",
+        "url": "https://www.openstreetmap.org/way/432555534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.569243412589675,
+          40.27107182403312
+        ]
+      },
+      "properties": {
+        "id": "way/432555534",
+        "element_id": 432555534,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.971316",
+        "url": "https://www.openstreetmap.org/way/432555534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.892829849829702,
+          41.679867283355726
+        ]
+      },
+      "properties": {
+        "id": "way/485404310",
+        "element_id": 485404310,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.972326",
+        "url": "https://www.openstreetmap.org/way/485404310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.598936942090955,
+          42.5078045404315
+        ]
+      },
+      "properties": {
+        "id": "way/609905420",
+        "element_id": 609905420,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:56.972326",
+        "url": "https://www.openstreetmap.org/way/609905420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.828107424091808,
+          41.69402244972262
+        ]
+      },
+      "properties": {
+        "id": "way/617592429",
+        "element_id": 617592429,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.972326",
+        "url": "https://www.openstreetmap.org/way/617592429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.13726941647264,
+          39.91683733026797
+        ]
+      },
+      "properties": {
+        "id": "way/663790655",
+        "element_id": 663790655,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.973326",
+        "url": "https://www.openstreetmap.org/way/663790655"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.95967745546845,
+          41.867833701292696
+        ]
+      },
+      "properties": {
+        "id": "way/663945299",
+        "element_id": 663945299,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.973326",
+        "url": "https://www.openstreetmap.org/way/663945299"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.27554579873506,
+          41.6338469172572
+        ]
+      },
+      "properties": {
+        "id": "way/669410105",
+        "element_id": 669410105,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.973326",
+        "url": "https://www.openstreetmap.org/way/669410105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.27554579873506,
+          41.6338469172572
+        ]
+      },
+      "properties": {
+        "id": "way/669410105",
+        "element_id": 669410105,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'note': 'deduced from its situation', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.973326",
+        "url": "https://www.openstreetmap.org/way/669410105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.27554579873506,
+          41.6338469172572
+        ]
+      },
+      "properties": {
+        "id": "way/669410105",
+        "element_id": 669410105,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:56.973326",
+        "url": "https://www.openstreetmap.org/way/669410105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.316702081567307,
+          41.49637433272942
+        ]
+      },
+      "properties": {
+        "id": "way/675701467",
+        "element_id": 675701467,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.973326",
+        "url": "https://www.openstreetmap.org/way/675701467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.316702081567307,
+          41.49637433272942
+        ]
+      },
+      "properties": {
+        "id": "way/675701467",
+        "element_id": 675701467,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.973326",
+        "url": "https://www.openstreetmap.org/way/675701467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.316702081567307,
+          41.49637433272942
+        ]
+      },
+      "properties": {
+        "id": "way/675701467",
+        "element_id": 675701467,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.973326",
+        "url": "https://www.openstreetmap.org/way/675701467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.26632872000814,
+          41.873325521797724
+        ]
+      },
+      "properties": {
+        "id": "way/676926068",
+        "element_id": 676926068,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.973326",
+        "url": "https://www.openstreetmap.org/way/676926068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.26632872000814,
+          41.873325521797724
+        ]
+      },
+      "properties": {
+        "id": "way/676926068",
+        "element_id": 676926068,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.973326",
+        "url": "https://www.openstreetmap.org/way/676926068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.26632872000814,
+          41.873325521797724
+        ]
+      },
+      "properties": {
+        "id": "way/676926068",
+        "element_id": 676926068,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.973326",
+        "url": "https://www.openstreetmap.org/way/676926068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.528960647205697,
+          40.71995648368199
+        ]
+      },
+      "properties": {
+        "id": "way/682528196",
+        "element_id": 682528196,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.974327",
+        "url": "https://www.openstreetmap.org/way/682528196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.528960647205697,
+          40.71995648368199
+        ]
+      },
+      "properties": {
+        "id": "way/682528196",
+        "element_id": 682528196,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.974327",
+        "url": "https://www.openstreetmap.org/way/682528196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.528960647205697,
+          40.71995648368199
+        ]
+      },
+      "properties": {
+        "id": "way/682528196",
+        "element_id": 682528196,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.974327",
+        "url": "https://www.openstreetmap.org/way/682528196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.060762900000004,
+          40.9660699
+        ]
+      },
+      "properties": {
+        "id": "way/689854692",
+        "element_id": 689854692,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.974327",
+        "url": "https://www.openstreetmap.org/way/689854692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.48023545,
+          40.43521044999999
+        ]
+      },
+      "properties": {
+        "id": "way/699997197",
+        "element_id": 699997197,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.974327",
+        "url": "https://www.openstreetmap.org/way/699997197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.48023545,
+          40.43521044999999
+        ]
+      },
+      "properties": {
+        "id": "way/699997197",
+        "element_id": 699997197,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'note': 'under construction when the Digital Globe Premium image was taken', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.974327",
+        "url": "https://www.openstreetmap.org/way/699997197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.48023545,
+          40.43521044999999
+        ]
+      },
+      "properties": {
+        "id": "way/699997197",
+        "element_id": 699997197,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'note': 'under construction when the Digital Globe Premium image was taken', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.974327",
+        "url": "https://www.openstreetmap.org/way/699997197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.51333310919173,
+          40.96877172642655
+        ]
+      },
+      "properties": {
+        "id": "way/704675790",
+        "element_id": 704675790,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.974327",
+        "url": "https://www.openstreetmap.org/way/704675790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.51333310919173,
+          40.96877172642655
+        ]
+      },
+      "properties": {
+        "id": "way/704675790",
+        "element_id": 704675790,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.974327",
+        "url": "https://www.openstreetmap.org/way/704675790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.51333310919173,
+          40.96877172642655
+        ]
+      },
+      "properties": {
+        "id": "way/704675790",
+        "element_id": 704675790,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.974327",
+        "url": "https://www.openstreetmap.org/way/704675790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.30969386300012,
+          41.738999808013645
+        ]
+      },
+      "properties": {
+        "id": "way/1158431597",
+        "element_id": 1158431597,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:56.975326",
+        "url": "https://www.openstreetmap.org/way/1158431597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.414870817493775,
+          41.44305109081439
+        ]
+      },
+      "properties": {
+        "id": "way/909312003",
+        "element_id": 909312003,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.975326",
+        "url": "https://www.openstreetmap.org/way/909312003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.414870817493775,
+          41.44305109081439
+        ]
+      },
+      "properties": {
+        "id": "way/909312003",
+        "element_id": 909312003,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.975326",
+        "url": "https://www.openstreetmap.org/way/909312003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.414870817493775,
+          41.44305109081439
+        ]
+      },
+      "properties": {
+        "id": "way/909312003",
+        "element_id": 909312003,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.975326",
+        "url": "https://www.openstreetmap.org/way/909312003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4150961,
+          41.511326
+        ]
+      },
+      "properties": {
+        "id": "way/909312006",
+        "element_id": 909312006,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.975326",
+        "url": "https://www.openstreetmap.org/way/909312006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.085583085041357,
+          39.90041815267279
+        ]
+      },
+      "properties": {
+        "id": "way/909312007",
+        "element_id": 909312007,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.975326",
+        "url": "https://www.openstreetmap.org/way/909312007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.085583085041357,
+          39.90041815267279
+        ]
+      },
+      "properties": {
+        "id": "way/909312007",
+        "element_id": 909312007,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'landuse': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.975326",
+        "url": "https://www.openstreetmap.org/way/909312007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.085583085041357,
+          39.90041815267279
+        ]
+      },
+      "properties": {
+        "id": "way/909312007",
+        "element_id": 909312007,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:56.975326",
+        "url": "https://www.openstreetmap.org/way/909312007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.10462305,
+          39.9116064
+        ]
+      },
+      "properties": {
+        "id": "way/909312008",
+        "element_id": 909312008,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.975326",
+        "url": "https://www.openstreetmap.org/way/909312008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8614553,
+          41.7964345
+        ]
+      },
+      "properties": {
+        "id": "way/909312011",
+        "element_id": 909312011,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.975326",
+        "url": "https://www.openstreetmap.org/way/909312011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.78524906897855,
+          41.73848440773818
+        ]
+      },
+      "properties": {
+        "id": "way/909312017",
+        "element_id": 909312017,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.975326",
+        "url": "https://www.openstreetmap.org/way/909312017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.52074500884716,
+          41.51050003082271
+        ]
+      },
+      "properties": {
+        "id": "way/1288589763",
+        "element_id": 1288589763,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.976326",
+        "url": "https://www.openstreetmap.org/way/1288589763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.52074500884716,
+          41.51050003082271
+        ]
+      },
+      "properties": {
+        "id": "way/1288589763",
+        "element_id": 1288589763,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:56.976326",
+        "url": "https://www.openstreetmap.org/way/1288589763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2908115,
+          41.23183535
+        ]
+      },
+      "properties": {
+        "id": "way/1321482073",
+        "element_id": 1321482073,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'service', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.976326",
+        "url": "https://www.openstreetmap.org/way/1321482073"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2908115,
+          41.23183535
+        ]
+      },
+      "properties": {
+        "id": "way/1321482073",
+        "element_id": 1321482073,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'service', 'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.976326",
+        "url": "https://www.openstreetmap.org/way/1321482073"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.319755227180988,
+          41.23948546086759
+        ]
+      },
+      "properties": {
+        "id": "way/1321489760",
+        "element_id": 1321489760,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.976326",
+        "url": "https://www.openstreetmap.org/way/1321489760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.319755227180988,
+          41.23948546086759
+        ]
+      },
+      "properties": {
+        "id": "way/1321489760",
+        "element_id": 1321489760,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'run-of-the-river', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.976326",
+        "url": "https://www.openstreetmap.org/way/1321489760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7468985482498,
+          41.354198866400175
+        ]
+      },
+      "properties": {
+        "id": "way/1330773815",
+        "element_id": 1330773815,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.976326",
+        "url": "https://www.openstreetmap.org/way/1330773815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7468985482498,
+          41.354198866400175
+        ]
+      },
+      "properties": {
+        "id": "way/1330773815",
+        "element_id": 1330773815,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.977325",
+        "url": "https://www.openstreetmap.org/way/1330773815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7468985482498,
+          41.354198866400175
+        ]
+      },
+      "properties": {
+        "id": "way/1330773815",
+        "element_id": 1330773815,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.977325",
+        "url": "https://www.openstreetmap.org/way/1330773815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.508821832242788,
+          40.45701424913415
+        ]
+      },
+      "properties": {
+        "id": "way/1362945926",
+        "element_id": 1362945926,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.977325",
+        "url": "https://www.openstreetmap.org/way/1362945926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.508821832242788,
+          40.45701424913415
+        ]
+      },
+      "properties": {
+        "id": "way/1362945926",
+        "element_id": 1362945926,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.977325",
+        "url": "https://www.openstreetmap.org/way/1362945926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.508821832242788,
+          40.45701424913415
+        ]
+      },
+      "properties": {
+        "id": "way/1362945926",
+        "element_id": 1362945926,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.977325",
+        "url": "https://www.openstreetmap.org/way/1362945926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.51815365,
+          40.4574082
+        ]
+      },
+      "properties": {
+        "id": "way/1362945932",
+        "element_id": 1362945932,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.977325",
+        "url": "https://www.openstreetmap.org/way/1362945932"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.51815365,
+          40.4574082
+        ]
+      },
+      "properties": {
+        "id": "way/1362945932",
+        "element_id": 1362945932,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.977325",
+        "url": "https://www.openstreetmap.org/way/1362945932"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.51815365,
+          40.4574082
+        ]
+      },
+      "properties": {
+        "id": "way/1362945932",
+        "element_id": 1362945932,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.977325",
+        "url": "https://www.openstreetmap.org/way/1362945932"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.03607321531551,
+          40.49079528227704
+        ]
+      },
+      "properties": {
+        "id": "way/1364019430",
+        "element_id": 1364019430,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.977325",
+        "url": "https://www.openstreetmap.org/way/1364019430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.03607321531551,
+          40.49079528227704
+        ]
+      },
+      "properties": {
+        "id": "way/1364019430",
+        "element_id": 1364019430,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.977325",
+        "url": "https://www.openstreetmap.org/way/1364019430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.03607321531551,
+          40.49079528227704
+        ]
+      },
+      "properties": {
+        "id": "way/1364019430",
+        "element_id": 1364019430,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.977325",
+        "url": "https://www.openstreetmap.org/way/1364019430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.66562274546288,
+          40.29672420719834
+        ]
+      },
+      "properties": {
+        "id": "way/1366019263",
+        "element_id": 1366019263,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:20:56.977325",
+        "url": "https://www.openstreetmap.org/way/1366019263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.66562274546288,
+          40.29672420719834
+        ]
+      },
+      "properties": {
+        "id": "way/1366019263",
+        "element_id": 1366019263,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.977325",
+        "url": "https://www.openstreetmap.org/way/1366019263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.66562274546288,
+          40.29672420719834
+        ]
+      },
+      "properties": {
+        "id": "way/1366019263",
+        "element_id": 1366019263,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.977325",
+        "url": "https://www.openstreetmap.org/way/1366019263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.905959529976748,
+          41.36798898358238
+        ]
+      },
+      "properties": {
+        "id": "way/1381620621",
+        "element_id": 1381620621,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.977325",
+        "url": "https://www.openstreetmap.org/way/1381620621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.905959529976748,
+          41.36798898358238
+        ]
+      },
+      "properties": {
+        "id": "way/1381620621",
+        "element_id": 1381620621,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:20:56.977325",
+        "url": "https://www.openstreetmap.org/way/1381620621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.80356623942719,
+          41.51725293450094
+        ]
+      },
+      "properties": {
+        "id": "way/1383243312",
+        "element_id": 1383243312,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.978326",
+        "url": "https://www.openstreetmap.org/way/1383243312"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.80356623942719,
+          41.51725293450094
+        ]
+      },
+      "properties": {
+        "id": "way/1383243312",
+        "element_id": 1383243312,
+        "element_type": "way",
+        "country": "Albania",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:20:56.978326",
+        "url": "https://www.openstreetmap.org/way/1383243312"
+      }
+    }
+  ]
+}

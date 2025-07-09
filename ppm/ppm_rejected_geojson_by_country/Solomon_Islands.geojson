@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.0018735700124,
+          -9.432264471025713
+        ]
+      },
+      "properties": {
+        "id": "way/745490625",
+        "element_id": 745490625,
+        "element_type": "way",
+        "country": "Solomon Islands",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Solomon Power', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:53.989801",
+        "url": "https://www.openstreetmap.org/way/745490625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.06253548459094,
+          -9.437972814107676
+        ]
+      },
+      "properties": {
+        "id": "way/747751675",
+        "element_id": 747751675,
+        "element_type": "way",
+        "country": "Solomon Islands",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:53.989801",
+        "url": "https://www.openstreetmap.org/way/747751675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.06253548459094,
+          -9.437972814107676
+        ]
+      },
+      "properties": {
+        "id": "way/747751675",
+        "element_id": 747751675,
+        "element_type": "way",
+        "country": "Solomon Islands",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:53.989801",
+        "url": "https://www.openstreetmap.org/way/747751675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.87270492775988,
+          -8.57671443496792
+        ]
+      },
+      "properties": {
+        "id": "way/1034251912",
+        "element_id": 1034251912,
+        "element_type": "way",
+        "country": "Solomon Islands",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:53.991179",
+        "url": "https://www.openstreetmap.org/way/1034251912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.87270492775988,
+          -8.57671443496792
+        ]
+      },
+      "properties": {
+        "id": "way/1034251912",
+        "element_id": 1034251912,
+        "element_type": "way",
+        "country": "Solomon Islands",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:53.991179",
+        "url": "https://www.openstreetmap.org/way/1034251912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.25544517478536,
+          -8.330376725985492
+        ]
+      },
+      "properties": {
+        "id": "way/1103419094",
+        "element_id": 1103419094,
+        "element_type": "way",
+        "country": "Solomon Islands",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:53.991179",
+        "url": "https://www.openstreetmap.org/way/1103419094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.25544517478536,
+          -8.330376725985492
+        ]
+      },
+      "properties": {
+        "id": "way/1103419094",
+        "element_id": 1103419094,
+        "element_type": "way",
+        "country": "Solomon Islands",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:53.991179",
+        "url": "https://www.openstreetmap.org/way/1103419094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.0625286100106,
+          -9.437973031738135
+        ]
+      },
+      "properties": {
+        "id": "way/748628112",
+        "element_id": 748628112,
+        "element_type": "way",
+        "country": "Solomon Islands",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:47:53.991179",
+        "url": "https://www.openstreetmap.org/way/748628112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.0625286100106,
+          -9.437973031738135
+        ]
+      },
+      "properties": {
+        "id": "way/748628112",
+        "element_id": 748628112,
+        "element_type": "way",
+        "country": "Solomon Islands",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:47:53.991179",
+        "url": "https://www.openstreetmap.org/way/748628112"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4513778148905,
+          12.480622457503411
+        ]
+      },
+      "properties": {
+        "id": "way/1207728373",
+        "element_id": 1207728373,
+        "element_type": "way",
+        "country": "Grenada",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:33:40.822549",
+        "url": "https://www.openstreetmap.org/way/1207728373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.69063195,
+          12.030480300000002
+        ]
+      },
+      "properties": {
+        "id": "way/1281257433",
+        "element_id": 1281257433,
+        "element_type": "way",
+        "country": "Grenada",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:33:40.823531",
+        "url": "https://www.openstreetmap.org/way/1281257433"
+      }
+    }
+  ]
+}

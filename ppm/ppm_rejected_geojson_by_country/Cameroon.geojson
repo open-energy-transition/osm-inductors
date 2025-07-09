@@ -1,0 +1,709 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.421774273057371,
+          3.2589409239041087
+        ]
+      },
+      "properties": {
+        "id": "relation/12590035",
+        "element_id": 12590035,
+        "element_type": "relation",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:24:53.136155",
+        "url": "https://www.openstreetmap.org/relation/12590035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.408094272998293,
+          3.558570513212863
+        ]
+      },
+      "properties": {
+        "id": "way/334876428",
+        "element_id": 334876428,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Centrale Electrique de Mindourou', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:53.137155",
+        "url": "https://www.openstreetmap.org/way/334876428"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.317607187923896,
+          5.542625781181867
+        ]
+      },
+      "properties": {
+        "id": "way/354337479",
+        "element_id": 354337479,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Camp SONEL', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:53.137155",
+        "url": "https://www.openstreetmap.org/way/354337479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.673622624350964,
+          4.61433013150938
+        ]
+      },
+      "properties": {
+        "id": "way/479560652",
+        "element_id": 479560652,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Centrale Thermique de Mokolo 4', 'operator': 'Eneo', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:53.138155",
+        "url": "https://www.openstreetmap.org/way/479560652"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.454148747669748,
+          3.697495158726914
+        ]
+      },
+      "properties": {
+        "id": "way/647168950",
+        "element_id": 647168950,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Messondo - Plateau', 'landuse': 'industrial', 'name': 'Ancien site Sonel', 'operator': 'Sonel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:53.138155",
+        "url": "https://www.openstreetmap.org/way/647168950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3487448746258,
+          2.373163523848824
+        ]
+      },
+      "properties": {
+        "id": "way/840719533",
+        "element_id": 840719533,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:24:53.140155",
+        "url": "https://www.openstreetmap.org/way/840719533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.762637447505174,
+          4.034768391430409
+        ]
+      },
+      "properties": {
+        "id": "way/840726197",
+        "element_id": 840726197,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Centrale thermique de Logbaba II', 'plant:method': 'combustion', 'plant:output:electricity': 'yes', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:53.140155",
+        "url": "https://www.openstreetmap.org/way/840726197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.715380056925904,
+          4.016020068808129
+        ]
+      },
+      "properties": {
+        "id": "way/936493148",
+        "element_id": 936493148,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:53.140155",
+        "url": "https://www.openstreetmap.org/way/936493148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.715380056925904,
+          4.016020068808129
+        ]
+      },
+      "properties": {
+        "id": "way/936493148",
+        "element_id": 936493148,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:24:53.140155",
+        "url": "https://www.openstreetmap.org/way/936493148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.71620546591972,
+          4.380273663282299
+        ]
+      },
+      "properties": {
+        "id": "way/944841134",
+        "element_id": 944841134,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:24:53.140155",
+        "url": "https://www.openstreetmap.org/way/944841134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.349555868992615,
+          2.73403185711241
+        ]
+      },
+      "properties": {
+        "id": "way/962982893",
+        "element_id": 962982893,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:24:53.140155",
+        "url": "https://www.openstreetmap.org/way/962982893"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.349555868992615,
+          2.73403185711241
+        ]
+      },
+      "properties": {
+        "id": "way/962982893",
+        "element_id": 962982893,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:53.140155",
+        "url": "https://www.openstreetmap.org/way/962982893"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.27201136252804,
+          3.1202362477121977
+        ]
+      },
+      "properties": {
+        "id": "way/1006930158",
+        "element_id": 1006930158,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:24:53.141340",
+        "url": "https://www.openstreetmap.org/way/1006930158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.27201136252804,
+          3.1202362477121977
+        ]
+      },
+      "properties": {
+        "id": "way/1006930158",
+        "element_id": 1006930158,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:53.141340",
+        "url": "https://www.openstreetmap.org/way/1006930158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.27201136252804,
+          3.1202362477121977
+        ]
+      },
+      "properties": {
+        "id": "way/1006930158",
+        "element_id": 1006930158,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:24:53.141340",
+        "url": "https://www.openstreetmap.org/way/1006930158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.550883785084864,
+          3.816149496134148
+        ]
+      },
+      "properties": {
+        "id": "way/1056055961",
+        "element_id": 1056055961,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:24:53.141340",
+        "url": "https://www.openstreetmap.org/way/1056055961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.550883785084864,
+          3.816149496134148
+        ]
+      },
+      "properties": {
+        "id": "way/1056055961",
+        "element_id": 1056055961,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:53.141340",
+        "url": "https://www.openstreetmap.org/way/1056055961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.550883785084864,
+          3.816149496134148
+        ]
+      },
+      "properties": {
+        "id": "way/1056055961",
+        "element_id": 1056055961,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:24:53.141340",
+        "url": "https://www.openstreetmap.org/way/1056055961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8395274358666,
+          2.3781584797445245
+        ]
+      },
+      "properties": {
+        "id": "way/1068549095",
+        "element_id": 1068549095,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Centrale Thermique', 'name:de': 'Thermisches Kraftwerk', 'name:es': 'Central Térmica', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:53.141340",
+        "url": "https://www.openstreetmap.org/way/1068549095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1640479420534,
+          2.812776975441295
+        ]
+      },
+      "properties": {
+        "id": "way/1068817277",
+        "element_id": 1068817277,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:53.141340",
+        "url": "https://www.openstreetmap.org/way/1068817277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1640479420534,
+          2.812776975441295
+        ]
+      },
+      "properties": {
+        "id": "way/1068817277",
+        "element_id": 1068817277,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:53.141340",
+        "url": "https://www.openstreetmap.org/way/1068817277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59242479631816,
+          3.9741437711511383
+        ]
+      },
+      "properties": {
+        "id": "way/1116226675",
+        "element_id": 1116226675,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:hot_air': 'yes', 'plant:source': 'waste', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:53.141340",
+        "url": "https://www.openstreetmap.org/way/1116226675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.349555868992615,
+          2.73403185711241
+        ]
+      },
+      "properties": {
+        "id": "way/962982893",
+        "element_id": 962982893,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:53.141340",
+        "url": "https://www.openstreetmap.org/way/962982893"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.719141783523543,
+          4.55853018469592
+        ]
+      },
+      "properties": {
+        "id": "way/969327904",
+        "element_id": 969327904,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:53.141340",
+        "url": "https://www.openstreetmap.org/way/969327904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.719141783523543,
+          4.55853018469592
+        ]
+      },
+      "properties": {
+        "id": "way/969327904",
+        "element_id": 969327904,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:24:53.141340",
+        "url": "https://www.openstreetmap.org/way/969327904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59242479631816,
+          3.9741437711511383
+        ]
+      },
+      "properties": {
+        "id": "way/1116226675",
+        "element_id": 1116226675,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'combustion', 'plant:output:hot_air': 'yes', 'plant:source': 'waste', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:53.142351",
+        "url": "https://www.openstreetmap.org/way/1116226675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.925672520337397,
+          9.879929402859162
+        ]
+      },
+      "properties": {
+        "id": "way/1284667345",
+        "element_id": 1284667345,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:24:53.142351",
+        "url": "https://www.openstreetmap.org/way/1284667345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.571460874845902,
+          4.18460257699703
+        ]
+      },
+      "properties": {
+        "id": "way/1363854278",
+        "element_id": 1363854278,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:53.142351",
+        "url": "https://www.openstreetmap.org/way/1363854278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.571460874845902,
+          4.18460257699703
+        ]
+      },
+      "properties": {
+        "id": "way/1363854278",
+        "element_id": 1363854278,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:24:53.142351",
+        "url": "https://www.openstreetmap.org/way/1363854278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8085297,
+          6.3047293
+        ]
+      },
+      "properties": {
+        "id": "node/6208644727",
+        "element_id": 6208644727,
+        "element_type": "node",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 9 tags but none specify technology",
+        "timestamp": "2025-07-07 18:24:53.143351",
+        "url": "https://www.openstreetmap.org/node/6208644727"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.708348256226609,
+          3.235105473044449
+        ]
+      },
+      "properties": {
+        "id": "way/1378357766",
+        "element_id": 1378357766,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:24:53.143351",
+        "url": "https://www.openstreetmap.org/way/1378357766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.708348256226609,
+          3.235105473044449
+        ]
+      },
+      "properties": {
+        "id": "way/1378357766",
+        "element_id": 1378357766,
+        "element_type": "way",
+        "country": "Cameroon",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:24:53.143351",
+        "url": "https://www.openstreetmap.org/way/1378357766"
+      }
+    }
+  ]
+}

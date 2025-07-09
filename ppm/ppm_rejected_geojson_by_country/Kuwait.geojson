@@ -1,0 +1,313 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.80893653150047,
+          29.329162777297565
+        ]
+      },
+      "properties": {
+        "id": "way/552680897",
+        "element_id": 552680897,
+        "element_type": "way",
+        "country": "Kuwait",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'operator': 'وزارة الطاقة', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:49.496437",
+        "url": "https://www.openstreetmap.org/way/552680897"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.80893653150047,
+          29.329162777297565
+        ]
+      },
+      "properties": {
+        "id": "way/552680897",
+        "element_id": 552680897,
+        "element_type": "way",
+        "country": "Kuwait",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'operator': 'وزارة الطاقة', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:49.496437",
+        "url": "https://www.openstreetmap.org/way/552680897"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.91924169805673,
+          29.319773255808084
+        ]
+      },
+      "properties": {
+        "id": "way/677755428",
+        "element_id": 677755428,
+        "element_type": "way",
+        "country": "Kuwait",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:49.497434",
+        "url": "https://www.openstreetmap.org/way/677755428"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.91924169805673,
+          29.319773255808084
+        ]
+      },
+      "properties": {
+        "id": "way/677755428",
+        "element_id": 677755428,
+        "element_type": "way",
+        "country": "Kuwait",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:49.497434",
+        "url": "https://www.openstreetmap.org/way/677755428"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.04717431418717,
+          29.19667999787039
+        ]
+      },
+      "properties": {
+        "id": "way/780613290",
+        "element_id": 780613290,
+        "element_type": "way",
+        "country": "Kuwait",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:38:49.498435",
+        "url": "https://www.openstreetmap.org/way/780613290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.913245090174,
+          28.61068317600229
+        ]
+      },
+      "properties": {
+        "id": "way/881956057",
+        "element_id": 881956057,
+        "element_type": "way",
+        "country": "Kuwait",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'WAFRA FIELD power station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:49.498435",
+        "url": "https://www.openstreetmap.org/way/881956057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.68919802968881,
+          29.399054605227228
+        ]
+      },
+      "properties": {
+        "id": "way/956664015",
+        "element_id": 956664015,
+        "element_type": "way",
+        "country": "Kuwait",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:49.499437",
+        "url": "https://www.openstreetmap.org/way/956664015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.68919802968881,
+          29.399054605227228
+        ]
+      },
+      "properties": {
+        "id": "way/956664015",
+        "element_id": 956664015,
+        "element_type": "way",
+        "country": "Kuwait",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:38:49.499437",
+        "url": "https://www.openstreetmap.org/way/956664015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.690054288374895,
+          29.39973256980894
+        ]
+      },
+      "properties": {
+        "id": "way/956664016",
+        "element_id": 956664016,
+        "element_type": "way",
+        "country": "Kuwait",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:49.499437",
+        "url": "https://www.openstreetmap.org/way/956664016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.690054288374895,
+          29.39973256980894
+        ]
+      },
+      "properties": {
+        "id": "way/956664016",
+        "element_id": 956664016,
+        "element_type": "way",
+        "country": "Kuwait",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:38:49.499437",
+        "url": "https://www.openstreetmap.org/way/956664016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.69040724372847,
+          29.39799640112554
+        ]
+      },
+      "properties": {
+        "id": "way/956664017",
+        "element_id": 956664017,
+        "element_type": "way",
+        "country": "Kuwait",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:49.499437",
+        "url": "https://www.openstreetmap.org/way/956664017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.69040724372847,
+          29.39799640112554
+        ]
+      },
+      "properties": {
+        "id": "way/956664017",
+        "element_id": 956664017,
+        "element_type": "way",
+        "country": "Kuwait",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:38:49.499437",
+        "url": "https://www.openstreetmap.org/way/956664017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1021222,
+          29.1949847
+        ]
+      },
+      "properties": {
+        "id": "node/6187958419",
+        "element_id": 6187958419,
+        "element_type": "node",
+        "country": "Kuwait",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:49.500437",
+        "url": "https://www.openstreetmap.org/node/6187958419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1021222,
+          29.1949847
+        ]
+      },
+      "properties": {
+        "id": "node/6187958419",
+        "element_id": 6187958419,
+        "element_type": "node",
+        "country": "Kuwait",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:38:49.500437",
+        "url": "https://www.openstreetmap.org/node/6187958419"
+      }
+    }
+  ]
+}

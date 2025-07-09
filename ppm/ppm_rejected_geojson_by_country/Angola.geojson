@@ -1,0 +1,797 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.72274750147288,
+          -12.463349076956652
+        ]
+      },
+      "properties": {
+        "id": "way/343230501",
+        "element_id": 343230501,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "22.8",
+        "details": "Tag 'plant:output:electricity' has value '22.8' which could not be parsed",
+        "timestamp": "2025-07-07 18:21:17.193613",
+        "url": "https://www.openstreetmap.org/way/343230501"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.197476805821728,
+          -8.870361274339643
+        ]
+      },
+      "properties": {
+        "id": "way/473956004",
+        "element_id": 473956004,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:17.194613",
+        "url": "https://www.openstreetmap.org/way/473956004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.197476805821728,
+          -8.870361274339643
+        ]
+      },
+      "properties": {
+        "id": "way/473956004",
+        "element_id": 473956004,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:17.194613",
+        "url": "https://www.openstreetmap.org/way/473956004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.632139957371866,
+          -12.457145286070018
+        ]
+      },
+      "properties": {
+        "id": "way/531017619",
+        "element_id": 531017619,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:17.194613",
+        "url": "https://www.openstreetmap.org/way/531017619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.632139957371866,
+          -12.457145286070018
+        ]
+      },
+      "properties": {
+        "id": "way/531017619",
+        "element_id": 531017619,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:17.194613",
+        "url": "https://www.openstreetmap.org/way/531017619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.513801383257528,
+          -14.930944170625644
+        ]
+      },
+      "properties": {
+        "id": "way/663880503",
+        "element_id": 663880503,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Lubango', 'addr:street': 'Rua 4 de Abril', 'landuse': 'industrial', 'name': 'Rede Nacional de Transporte de Electricidade (RNT)', 'operator': 'Ministério da Energia e Águas', 'power': 'plant', 'start_date': '1955', 'substation': 'substation'}",
+        "timestamp": "2025-07-07 18:21:17.196753",
+        "url": "https://www.openstreetmap.org/way/663880503"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.62025751253252,
+          -15.183970739074216
+        ]
+      },
+      "properties": {
+        "id": "way/747806445",
+        "element_id": 747806445,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:17.198753",
+        "url": "https://www.openstreetmap.org/way/747806445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.566460932036456,
+          -9.107923526068042
+        ]
+      },
+      "properties": {
+        "id": "way/765804930",
+        "element_id": 765804930,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'CIF Thermal Power Station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:17.198753",
+        "url": "https://www.openstreetmap.org/way/765804930"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.91651337038912,
+          -15.77354955220206
+        ]
+      },
+      "properties": {
+        "id": "way/859039488",
+        "element_id": 859039488,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "photovoltaic;combustion",
+        "details": "\"photovoltaic;combustion\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:21:17.199756",
+        "url": "https://www.openstreetmap.org/way/859039488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.460806422337562,
+          -14.94873988087311
+        ]
+      },
+      "properties": {
+        "id": "way/901286518",
+        "element_id": 901286518,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Grupo Gerador', 'operator': 'DPEA', 'plant:method': 'combustion', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:17.199756",
+        "url": "https://www.openstreetmap.org/way/901286518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.513923311223754,
+          -14.93162544165129
+        ]
+      },
+      "properties": {
+        "id": "way/903484955",
+        "element_id": 903484955,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Lubango', 'addr:street': 'Rua 4 de Abril', 'landuse': 'industrial', 'name': 'Prodel - Empresa Pública de Produção de Eletricidade, E.P.', 'operator': 'Ministério da Energia e Águas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:17.200753",
+        "url": "https://www.openstreetmap.org/way/903484955"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.891108643462712,
+          -15.733911659843764
+        ]
+      },
+      "properties": {
+        "id": "way/915832054",
+        "element_id": 915832054,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:17.200753",
+        "url": "https://www.openstreetmap.org/way/915832054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.891108643462712,
+          -15.733911659843764
+        ]
+      },
+      "properties": {
+        "id": "way/915832054",
+        "element_id": 915832054,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:17.200753",
+        "url": "https://www.openstreetmap.org/way/915832054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.979777275927038,
+          -15.42889922335216
+        ]
+      },
+      "properties": {
+        "id": "way/1073959379",
+        "element_id": 1073959379,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:17.201753",
+        "url": "https://www.openstreetmap.org/way/1073959379"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.979777275927038,
+          -15.42889922335216
+        ]
+      },
+      "properties": {
+        "id": "way/1073959379",
+        "element_id": 1073959379,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:17.201753",
+        "url": "https://www.openstreetmap.org/way/1073959379"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.188916155291242,
+          -8.893285909108368
+        ]
+      },
+      "properties": {
+        "id": "way/1079918857",
+        "element_id": 1079918857,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "combined_cycle",
+        "details": "\"combined_cycle\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Oil\"",
+        "timestamp": "2025-07-07 18:21:17.201753",
+        "url": "https://www.openstreetmap.org/way/1079918857"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.898866721834512,
+          -12.443795499457002
+        ]
+      },
+      "properties": {
+        "id": "way/1079921172",
+        "element_id": 1079921172,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "combined_cycle",
+        "details": "\"combined_cycle\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Oil\"",
+        "timestamp": "2025-07-07 18:21:17.202753",
+        "url": "https://www.openstreetmap.org/way/1079921172"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.898866721834512,
+          -12.443795499457002
+        ]
+      },
+      "properties": {
+        "id": "way/1079921172",
+        "element_id": 1079921172,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Bie', 'operator': 'PRODEL', 'plant:method': 'combined_cycle', 'plant:source': 'diesel', 'power': 'plant', 'start_date': '2019'}",
+        "timestamp": "2025-07-07 18:21:17.202753",
+        "url": "https://www.openstreetmap.org/way/1079921172"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.640532487835635,
+          -12.78174076604406
+        ]
+      },
+      "properties": {
+        "id": "way/1079923582",
+        "element_id": 1079923582,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "combined_cycle",
+        "details": "\"combined_cycle\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Oil\"",
+        "timestamp": "2025-07-07 18:21:17.202753",
+        "url": "https://www.openstreetmap.org/way/1079923582"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.426686969980484,
+          -8.798965333556433
+        ]
+      },
+      "properties": {
+        "id": "way/1080608402",
+        "element_id": 1080608402,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:17.204753",
+        "url": "https://www.openstreetmap.org/way/1080608402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.165054695560409,
+          -8.954023278784202
+        ]
+      },
+      "properties": {
+        "id": "way/1080619676",
+        "element_id": 1080619676,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:17.204753",
+        "url": "https://www.openstreetmap.org/way/1080619676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.983637169948084,
+          -16.765295111400068
+        ]
+      },
+      "properties": {
+        "id": "way/1111487006",
+        "element_id": 1111487006,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "solar_radiation;diesel",
+        "details": "Source value 'solar_radiation;diesel' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:21:17.205881",
+        "url": "https://www.openstreetmap.org/way/1111487006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.76738024344213,
+          -12.84961719406359
+        ]
+      },
+      "properties": {
+        "id": "way/1208245384",
+        "element_id": 1208245384,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "8",
+        "details": "Tag 'plant:output:electricity' has value '8' which could not be parsed",
+        "timestamp": "2025-07-07 18:21:17.206891",
+        "url": "https://www.openstreetmap.org/way/1208245384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.433351876207135,
+          -8.765204472399367
+        ]
+      },
+      "properties": {
+        "id": "way/1208441734",
+        "element_id": 1208441734,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:17.206891",
+        "url": "https://www.openstreetmap.org/way/1208441734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.724389891616822,
+          -9.580055674683658
+        ]
+      },
+      "properties": {
+        "id": "way/1236402273",
+        "element_id": 1236402273,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:17.207890",
+        "url": "https://www.openstreetmap.org/way/1236402273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.724389891616822,
+          -9.580055674683658
+        ]
+      },
+      "properties": {
+        "id": "way/1236402273",
+        "element_id": 1236402273,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Biocom Power Plant', 'name:en': 'Biocom Power Plant', 'plant:source': 'biomass', 'power': 'plant', 'source': 'https://www.gem.wiki/Biocom_power_station'}",
+        "timestamp": "2025-07-07 18:21:17.207890",
+        "url": "https://www.openstreetmap.org/way/1236402273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.297757607571096,
+          -8.781100324432838
+        ]
+      },
+      "properties": {
+        "id": "way/1280397201",
+        "element_id": 1280397201,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Sonangol Luanda Refinery Power Station', 'name:en': 'Sonangol Luanda Refinery Power Station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:17.208890",
+        "url": "https://www.openstreetmap.org/way/1280397201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.891097136811595,
+          -15.730336036878157
+        ]
+      },
+      "properties": {
+        "id": "way/1298631571",
+        "element_id": 1298631571,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:17.208890",
+        "url": "https://www.openstreetmap.org/way/1298631571"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.891097136811595,
+          -15.730336036878157
+        ]
+      },
+      "properties": {
+        "id": "way/1298631571",
+        "element_id": 1298631571,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:17.208890",
+        "url": "https://www.openstreetmap.org/way/1298631571"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.17876958985375,
+          -16.49197664976867
+        ]
+      },
+      "properties": {
+        "id": "way/1305271906",
+        "element_id": 1305271906,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:17.208890",
+        "url": "https://www.openstreetmap.org/way/1305271906"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36562046863806,
+          -9.116150982126724
+        ]
+      },
+      "properties": {
+        "id": "way/1314817572",
+        "element_id": 1314817572,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Central Térmica do Cassaque', 'plant:method': 'combustion', 'plant:output:electricity': '24 MW', 'power': 'plant', 'website': 'https://grdservices.co.ao/project/cassaque/'}",
+        "timestamp": "2025-07-07 18:21:17.208890",
+        "url": "https://www.openstreetmap.org/way/1314817572"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.423143910135263,
+          -9.614980170390476
+        ]
+      },
+      "properties": {
+        "id": "way/1323735847",
+        "element_id": 1323735847,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "photovoltaic;diesel",
+        "details": "\"photovoltaic;diesel\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:21:17.208890",
+        "url": "https://www.openstreetmap.org/way/1323735847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.423143910135263,
+          -9.614980170390476
+        ]
+      },
+      "properties": {
+        "id": "way/1323735847",
+        "element_id": 1323735847,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'name': 'Saurimo Diamond Hub Hybrid Power Station', 'operator': 'Saurimo Diamond Hub', 'plant:method': 'photovoltaic;diesel', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:17.208890",
+        "url": "https://www.openstreetmap.org/way/1323735847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.266998934571342,
+          -12.916486526111898
+        ]
+      },
+      "properties": {
+        "id": "way/1395054846",
+        "element_id": 1395054846,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:21:17.209890",
+        "url": "https://www.openstreetmap.org/way/1395054846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.266998934571342,
+          -12.916486526111898
+        ]
+      },
+      "properties": {
+        "id": "way/1395054846",
+        "element_id": 1395054846,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:17.209890",
+        "url": "https://www.openstreetmap.org/way/1395054846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.266998934571342,
+          -12.916486526111898
+        ]
+      },
+      "properties": {
+        "id": "way/1395054846",
+        "element_id": 1395054846,
+        "element_type": "way",
+        "country": "Angola",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:17.209890",
+        "url": "https://www.openstreetmap.org/way/1395054846"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.491108121317297,
+          54.28472590520527
+        ]
+      },
+      "properties": {
+        "id": "way/674701536",
+        "element_id": 674701536,
+        "element_type": "way",
+        "country": "Isle of Man",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:36:10.180122",
+        "url": "https://www.openstreetmap.org/way/674701536"
+      }
+    }
+  ]
+}

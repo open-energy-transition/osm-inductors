@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.7368437760637,
+          8.724488967768258
+        ]
+      },
+      "properties": {
+        "id": "way/1375771475",
+        "element_id": 1375771475,
+        "element_type": "way",
+        "country": "Marshall Islands",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:40:29.374315",
+        "url": "https://www.openstreetmap.org/way/1375771475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.7368437760637,
+          8.724488967768258
+        ]
+      },
+      "properties": {
+        "id": "way/1375771475",
+        "element_id": 1375771475,
+        "element_type": "way",
+        "country": "Marshall Islands",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:40:29.374315",
+        "url": "https://www.openstreetmap.org/way/1375771475"
+      }
+    }
+  ]
+}

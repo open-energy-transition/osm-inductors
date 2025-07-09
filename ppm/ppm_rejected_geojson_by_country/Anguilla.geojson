@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.05347808740461,
+          18.201309833970893
+        ]
+      },
+      "properties": {
+        "id": "way/1265907375",
+        "element_id": 1265907375,
+        "element_type": "way",
+        "country": "Anguilla",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:21:21.607979",
+        "url": "https://www.openstreetmap.org/way/1265907375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.05347808740461,
+          18.201309833970893
+        ]
+      },
+      "properties": {
+        "id": "way/1265907375",
+        "element_id": 1265907375,
+        "element_type": "way",
+        "country": "Anguilla",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:21:21.607979",
+        "url": "https://www.openstreetmap.org/way/1265907375"
+      }
+    }
+  ]
+}

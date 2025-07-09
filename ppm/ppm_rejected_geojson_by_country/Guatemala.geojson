@@ -1,0 +1,1017 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.45636210811692,
+          14.801965532335222
+        ]
+      },
+      "properties": {
+        "id": "relation/14536760",
+        "element_id": 14536760,
+        "element_type": "relation",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:43.734755",
+        "url": "https://www.openstreetmap.org/relation/14536760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.99207835843956,
+          14.333981994766717
+        ]
+      },
+      "properties": {
+        "id": "way/291767180",
+        "element_id": 291767180,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing source type",
+        "keywords": "biomass,coal,oil",
+        "details": "Source value 'biomass,coal,oil' from tag 'generator:source' is not recognized",
+        "timestamp": "2025-07-07 18:33:43.736755",
+        "url": "https://www.openstreetmap.org/way/291767180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5239898623138,
+          14.718812655297254
+        ]
+      },
+      "properties": {
+        "id": "way/387414784",
+        "element_id": 387414784,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:43.737754",
+        "url": "https://www.openstreetmap.org/way/387414784"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70843176801864,
+          14.391204432597014
+        ]
+      },
+      "properties": {
+        "id": "way/444869133",
+        "element_id": 444869133,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:43.738755",
+        "url": "https://www.openstreetmap.org/way/444869133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70843176801864,
+          14.391204432597014
+        ]
+      },
+      "properties": {
+        "id": "way/444869133",
+        "element_id": 444869133,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'name': 'Hidroeléctrica Palín 2', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:43.739758",
+        "url": "https://www.openstreetmap.org/way/444869133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.719664607044,
+          14.335205093519976
+        ]
+      },
+      "properties": {
+        "id": "way/768768837",
+        "element_id": 768768837,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:43.742754",
+        "url": "https://www.openstreetmap.org/way/768768837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.80719301283844,
+          14.250289230985471
+        ]
+      },
+      "properties": {
+        "id": "way/768778622",
+        "element_id": 768778622,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:33:43.742754",
+        "url": "https://www.openstreetmap.org/way/768778622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.53155065170368,
+          14.687657031370874
+        ]
+      },
+      "properties": {
+        "id": "way/772676203",
+        "element_id": 772676203,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:43.742754",
+        "url": "https://www.openstreetmap.org/way/772676203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.49905983560068,
+          14.294631193460516
+        ]
+      },
+      "properties": {
+        "id": "way/929872418",
+        "element_id": 929872418,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:43.743855",
+        "url": "https://www.openstreetmap.org/way/929872418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.49905983560068,
+          14.294631193460516
+        ]
+      },
+      "properties": {
+        "id": "way/929872418",
+        "element_id": 929872418,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:43.743855",
+        "url": "https://www.openstreetmap.org/way/929872418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.49905983560068,
+          14.294631193460516
+        ]
+      },
+      "properties": {
+        "id": "way/929872418",
+        "element_id": 929872418,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:33:43.743855",
+        "url": "https://www.openstreetmap.org/way/929872418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.51857894959424,
+          14.105600583356813
+        ]
+      },
+      "properties": {
+        "id": "way/1057945308",
+        "element_id": 1057945308,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:43.744890",
+        "url": "https://www.openstreetmap.org/way/1057945308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.51857894959424,
+          14.105600583356813
+        ]
+      },
+      "properties": {
+        "id": "way/1057945308",
+        "element_id": 1057945308,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:43.744890",
+        "url": "https://www.openstreetmap.org/way/1057945308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.51857894959424,
+          14.105600583356813
+        ]
+      },
+      "properties": {
+        "id": "way/1057945308",
+        "element_id": 1057945308,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:33:43.744890",
+        "url": "https://www.openstreetmap.org/way/1057945308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.51942584917282,
+          14.106050133051612
+        ]
+      },
+      "properties": {
+        "id": "way/1057945309",
+        "element_id": 1057945309,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:43.744890",
+        "url": "https://www.openstreetmap.org/way/1057945309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.51942584917282,
+          14.106050133051612
+        ]
+      },
+      "properties": {
+        "id": "way/1057945309",
+        "element_id": 1057945309,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:43.744890",
+        "url": "https://www.openstreetmap.org/way/1057945309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.51942584917282,
+          14.106050133051612
+        ]
+      },
+      "properties": {
+        "id": "way/1057945309",
+        "element_id": 1057945309,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:33:43.744890",
+        "url": "https://www.openstreetmap.org/way/1057945309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.51987179745107,
+          14.105851232811686
+        ]
+      },
+      "properties": {
+        "id": "way/1057945310",
+        "element_id": 1057945310,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:43.744890",
+        "url": "https://www.openstreetmap.org/way/1057945310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.51987179745107,
+          14.105851232811686
+        ]
+      },
+      "properties": {
+        "id": "way/1057945310",
+        "element_id": 1057945310,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:43.744890",
+        "url": "https://www.openstreetmap.org/way/1057945310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.51987179745107,
+          14.105851232811686
+        ]
+      },
+      "properties": {
+        "id": "way/1057945310",
+        "element_id": 1057945310,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:33:43.744890",
+        "url": "https://www.openstreetmap.org/way/1057945310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5062308263294,
+          14.77392863211519
+        ]
+      },
+      "properties": {
+        "id": "way/991781734",
+        "element_id": 991781734,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:43.744890",
+        "url": "https://www.openstreetmap.org/way/991781734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5718009,
+          14.650704700000002
+        ]
+      },
+      "properties": {
+        "id": "way/1063472417",
+        "element_id": 1063472417,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:43.746395",
+        "url": "https://www.openstreetmap.org/way/1063472417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.62960710909432,
+          14.706484657515606
+        ]
+      },
+      "properties": {
+        "id": "way/1070056037",
+        "element_id": 1070056037,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:43.746395",
+        "url": "https://www.openstreetmap.org/way/1070056037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.62960710909432,
+          14.706484657515606
+        ]
+      },
+      "properties": {
+        "id": "way/1070056037",
+        "element_id": 1070056037,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:33:43.746395",
+        "url": "https://www.openstreetmap.org/way/1070056037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6282709,
+          14.659100250000002
+        ]
+      },
+      "properties": {
+        "id": "way/1070062468",
+        "element_id": 1070062468,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:43.746395",
+        "url": "https://www.openstreetmap.org/way/1070062468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6282709,
+          14.659100250000002
+        ]
+      },
+      "properties": {
+        "id": "way/1070062468",
+        "element_id": 1070062468,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:33:43.746395",
+        "url": "https://www.openstreetmap.org/way/1070062468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.64136002096176,
+          14.682757239752114
+        ]
+      },
+      "properties": {
+        "id": "way/1070062805",
+        "element_id": 1070062805,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:43.746395",
+        "url": "https://www.openstreetmap.org/way/1070062805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.64136002096176,
+          14.682757239752114
+        ]
+      },
+      "properties": {
+        "id": "way/1070062805",
+        "element_id": 1070062805,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:33:43.746395",
+        "url": "https://www.openstreetmap.org/way/1070062805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.59894718020762,
+          14.629405817451667
+        ]
+      },
+      "properties": {
+        "id": "way/1085338626",
+        "element_id": 1085338626,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:43.746395",
+        "url": "https://www.openstreetmap.org/way/1085338626"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.94626081415176,
+          14.956109643027284
+        ]
+      },
+      "properties": {
+        "id": "way/1091625204",
+        "element_id": 1091625204,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:43.747401",
+        "url": "https://www.openstreetmap.org/way/1091625204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.94626081415176,
+          14.956109643027284
+        ]
+      },
+      "properties": {
+        "id": "way/1091625204",
+        "element_id": 1091625204,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:43.747401",
+        "url": "https://www.openstreetmap.org/way/1091625204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.94626081415176,
+          14.956109643027284
+        ]
+      },
+      "properties": {
+        "id": "way/1091625204",
+        "element_id": 1091625204,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:43.748400",
+        "url": "https://www.openstreetmap.org/way/1091625204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.94356956658962,
+          14.918712991894212
+        ]
+      },
+      "properties": {
+        "id": "way/1091625207",
+        "element_id": 1091625207,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 2 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:43.748400",
+        "url": "https://www.openstreetmap.org/way/1091625207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.94356956658962,
+          14.918712991894212
+        ]
+      },
+      "properties": {
+        "id": "way/1091625207",
+        "element_id": 1091625207,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:43.748400",
+        "url": "https://www.openstreetmap.org/way/1091625207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.94356956658962,
+          14.918712991894212
+        ]
+      },
+      "properties": {
+        "id": "way/1091625207",
+        "element_id": 1091625207,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:43.749399",
+        "url": "https://www.openstreetmap.org/way/1091625207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.547469,
+          14.67226895
+        ]
+      },
+      "properties": {
+        "id": "way/1091625211",
+        "element_id": 1091625211,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:43.749399",
+        "url": "https://www.openstreetmap.org/way/1091625211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.58227521139736,
+          14.462007148166904
+        ]
+      },
+      "properties": {
+        "id": "way/1138038995",
+        "element_id": 1138038995,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:33:43.749399",
+        "url": "https://www.openstreetmap.org/way/1138038995"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.58227521139736,
+          14.462007148166904
+        ]
+      },
+      "properties": {
+        "id": "way/1138038995",
+        "element_id": 1138038995,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Planta Generadora La Laguna', 'plant:source': 'biogas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:43.750400",
+        "url": "https://www.openstreetmap.org/way/1138038995"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.99375892955402,
+          14.331733643961083
+        ]
+      },
+      "properties": {
+        "id": "way/1194095694",
+        "element_id": 1194095694,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Pantaleón power station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:43.750400",
+        "url": "https://www.openstreetmap.org/way/1194095694"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.10909449957909,
+          13.861260014904442
+        ]
+      },
+      "properties": {
+        "id": "way/1250850881",
+        "element_id": 1250850881,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:43.750400",
+        "url": "https://www.openstreetmap.org/way/1250850881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.10909449957909,
+          13.861260014904442
+        ]
+      },
+      "properties": {
+        "id": "way/1250850881",
+        "element_id": 1250850881,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:33:43.750400",
+        "url": "https://www.openstreetmap.org/way/1250850881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.58918622541368,
+          15.490663996757355
+        ]
+      },
+      "properties": {
+        "id": "way/1254923123",
+        "element_id": 1254923123,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:method': 'water-storage', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:43.750400",
+        "url": "https://www.openstreetmap.org/way/1254923123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.58918622541368,
+          15.490663996757355
+        ]
+      },
+      "properties": {
+        "id": "way/1254923123",
+        "element_id": 1254923123,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:method': 'water-storage', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:43.751400",
+        "url": "https://www.openstreetmap.org/way/1254923123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4618220280027,
+          15.33291563253303
+        ]
+      },
+      "properties": {
+        "id": "way/1295221617",
+        "element_id": 1295221617,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Energuate Sub Estación Huehuetenango', 'operator': 'Energuate', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:43.751400",
+        "url": "https://www.openstreetmap.org/way/1295221617"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.65072459177375,
+          14.975145888379814
+        ]
+      },
+      "properties": {
+        "id": "way/1349862261",
+        "element_id": 1349862261,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:33:43.751400",
+        "url": "https://www.openstreetmap.org/way/1349862261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.65072459177375,
+          14.975145888379814
+        ]
+      },
+      "properties": {
+        "id": "way/1349862261",
+        "element_id": 1349862261,
+        "element_type": "way",
+        "country": "Guatemala",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:33:43.751400",
+        "url": "https://www.openstreetmap.org/way/1349862261"
+      }
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.75121666395121,
+          26.51896636310033
+        ]
+      },
+      "properties": {
+        "id": "way/178169252",
+        "element_id": 178169252,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '60', 'landuse': 'industrial', 'operator': 'Grand Bahama Power Company', 'plant:output:electricity': 'yes', 'power': 'plant', 'website': 'https://gb-power.com/'}",
+        "timestamp": "2025-07-07 18:22:32.645109",
+        "url": "https://www.openstreetmap.org/way/178169252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.75121666395121,
+          26.51896636310033
+        ]
+      },
+      "properties": {
+        "id": "way/178169252",
+        "element_id": 178169252,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'frequency': '60', 'landuse': 'industrial', 'operator': 'Grand Bahama Power Company', 'plant:output:electricity': 'yes', 'power': 'plant', 'website': 'https://gb-power.com/'}",
+        "timestamp": "2025-07-07 18:22:32.645109",
+        "url": "https://www.openstreetmap.org/way/178169252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04181728301155,
+          26.362604944012297
+        ]
+      },
+      "properties": {
+        "id": "way/186787347",
+        "element_id": 186787347,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'area': 'yes', 'name': 'BEC Power Plant', 'operator': 'BEC', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:32.645109",
+        "url": "https://www.openstreetmap.org/way/186787347"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35783959649727,
+          25.036582545860515
+        ]
+      },
+      "properties": {
+        "id": "way/302164791",
+        "element_id": 302164791,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:22:32.645109",
+        "url": "https://www.openstreetmap.org/way/302164791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35783959649727,
+          25.036582545860515
+        ]
+      },
+      "properties": {
+        "id": "way/302164791",
+        "element_id": 302164791,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'alt_name': 'Bahamas Power & Light (BPL)', 'landuse': 'industrial', 'name': 'Bahamas Electricity Corporation (BEC)', 'plant:source': 'diesel', 'power': 'plant', 'short_name': 'BEC', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:22:32.645109",
+        "url": "https://www.openstreetmap.org/way/302164791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35563502543883,
+          25.038448901810582
+        ]
+      },
+      "properties": {
+        "id": "way/1082366781",
+        "element_id": 1082366781,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Blue Hills Power Station', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:32.646396",
+        "url": "https://www.openstreetmap.org/way/1082366781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.53916381741523,
+          25.00412142199332
+        ]
+      },
+      "properties": {
+        "id": "way/1085400613",
+        "element_id": 1085400613,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Clifton Pier Power Plant', 'operator': 'Bahamas Power and Light', 'plant:output:electricity': '225 MW', 'power': 'plant', 'source': 'https://www.bplco.com/wp-content/uploads/2021/09/EIA-BPL-Power-Plant-FINAL-1Jun21.pdf;https://www.bplco.com/state-of-the-art-sustainable-power/'}",
+        "timestamp": "2025-07-07 18:22:32.646396",
+        "url": "https://www.openstreetmap.org/way/1085400613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34924888176946,
+          25.059349704500967
+        ]
+      },
+      "properties": {
+        "id": "way/369289724",
+        "element_id": 369289724,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Bahamas Electricity Corporation (BEC)', 'power': 'plant', 'type': 'site', 'website': 'www.bahamaselectricity.com/'}",
+        "timestamp": "2025-07-07 18:22:32.646396",
+        "url": "https://www.openstreetmap.org/way/369289724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.53821450609432,
+          25.006529172314234
+        ]
+      },
+      "properties": {
+        "id": "way/369300802",
+        "element_id": 369300802,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:22:32.646396",
+        "url": "https://www.openstreetmap.org/way/369300802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.53821450609432,
+          25.006529172314234
+        ]
+      },
+      "properties": {
+        "id": "way/369300802",
+        "element_id": 369300802,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Bahamas Electricity Corporation (BEC)', 'plant:source': 'diesel', 'power': 'plant', 'type': 'site'}",
+        "timestamp": "2025-07-07 18:22:32.646396",
+        "url": "https://www.openstreetmap.org/way/369300802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.17442332591752,
+          24.893713446642572
+        ]
+      },
+      "properties": {
+        "id": "way/731196852",
+        "element_id": 731196852,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': \"Bahama's Electricity Cooperation\", 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:32.646396",
+        "url": "https://www.openstreetmap.org/way/731196852"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.69133984730253,
+          26.542931743817736
+        ]
+      },
+      "properties": {
+        "id": "way/1195397150",
+        "element_id": 1195397150,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'construction': 'industrial', 'landuse': 'construction', 'operator': 'INTI', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:32.647396",
+        "url": "https://www.openstreetmap.org/way/1195397150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.69133984730253,
+          26.542931743817736
+        ]
+      },
+      "properties": {
+        "id": "way/1195397150",
+        "element_id": 1195397150,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:32.647396",
+        "url": "https://www.openstreetmap.org/way/1195397150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08018707410201,
+          26.49588031049759
+        ]
+      },
+      "properties": {
+        "id": "way/1222998409",
+        "element_id": 1222998409,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:32.647396",
+        "url": "https://www.openstreetmap.org/way/1222998409"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08018707410201,
+          26.49588031049759
+        ]
+      },
+      "properties": {
+        "id": "way/1222998409",
+        "element_id": 1222998409,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:32.647396",
+        "url": "https://www.openstreetmap.org/way/1222998409"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0733379366285,
+          26.51416206165171
+        ]
+      },
+      "properties": {
+        "id": "way/1222998411",
+        "element_id": 1222998411,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:32.647396",
+        "url": "https://www.openstreetmap.org/way/1222998411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0733379366285,
+          26.51416206165171
+        ]
+      },
+      "properties": {
+        "id": "way/1222998411",
+        "element_id": 1222998411,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:32.647396",
+        "url": "https://www.openstreetmap.org/way/1222998411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.53762802103505,
+          26.089390401146275
+        ]
+      },
+      "properties": {
+        "id": "way/1302903345",
+        "element_id": 1302903345,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:22:32.647396",
+        "url": "https://www.openstreetmap.org/way/1302903345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.53762802103505,
+          26.089390401146275
+        ]
+      },
+      "properties": {
+        "id": "way/1302903345",
+        "element_id": 1302903345,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:32.647396",
+        "url": "https://www.openstreetmap.org/way/1302903345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.53762802103505,
+          26.089390401146275
+        ]
+      },
+      "properties": {
+        "id": "way/1302903345",
+        "element_id": 1302903345,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:32.647396",
+        "url": "https://www.openstreetmap.org/way/1302903345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2803593484631,
+          25.554775982819532
+        ]
+      },
+      "properties": {
+        "id": "way/1324717485",
+        "element_id": 1324717485,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:22:32.647396",
+        "url": "https://www.openstreetmap.org/way/1324717485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2803593484631,
+          25.554775982819532
+        ]
+      },
+      "properties": {
+        "id": "way/1324717485",
+        "element_id": 1324717485,
+        "element_type": "way",
+        "country": "Bahamas",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:22:32.647396",
+        "url": "https://www.openstreetmap.org/way/1324717485"
+      }
+    }
+  ]
+}

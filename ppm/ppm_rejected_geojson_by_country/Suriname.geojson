@@ -1,0 +1,269 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.16308061909222,
+          5.820619127674058
+        ]
+      },
+      "properties": {
+        "id": "way/444482624",
+        "element_id": 444482624,
+        "element_type": "way",
+        "country": "Suriname",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 12 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:27.971525",
+        "url": "https://www.openstreetmap.org/way/444482624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.4216152330143,
+          4.6018687834792384
+        ]
+      },
+      "properties": {
+        "id": "way/778554224",
+        "element_id": 778554224,
+        "element_type": "way",
+        "country": "Suriname",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:27.971525",
+        "url": "https://www.openstreetmap.org/way/778554224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.4216152330143,
+          4.6018687834792384
+        ]
+      },
+      "properties": {
+        "id": "way/778554224",
+        "element_id": 778554224,
+        "element_type": "way",
+        "country": "Suriname",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:27.971525",
+        "url": "https://www.openstreetmap.org/way/778554224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.32180079204779,
+          5.24292817427075
+        ]
+      },
+      "properties": {
+        "id": "way/778608390",
+        "element_id": 778608390,
+        "element_type": "way",
+        "country": "Suriname",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:27.971525",
+        "url": "https://www.openstreetmap.org/way/778608390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.32180079204779,
+          5.24292817427075
+        ]
+      },
+      "properties": {
+        "id": "way/778608390",
+        "element_id": 778608390,
+        "element_type": "way",
+        "country": "Suriname",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:27.971525",
+        "url": "https://www.openstreetmap.org/way/778608390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.67535481726101,
+          5.72435440780249
+        ]
+      },
+      "properties": {
+        "id": "way/862045046",
+        "element_id": 862045046,
+        "element_type": "way",
+        "country": "Suriname",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:27.971525",
+        "url": "https://www.openstreetmap.org/way/862045046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.67535481726101,
+          5.72435440780249
+        ]
+      },
+      "properties": {
+        "id": "way/862045046",
+        "element_id": 862045046,
+        "element_type": "way",
+        "country": "Suriname",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:49:27.971525",
+        "url": "https://www.openstreetmap.org/way/862045046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.10196441183143,
+          5.590739297833514
+        ]
+      },
+      "properties": {
+        "id": "way/978856398",
+        "element_id": 978856398,
+        "element_type": "way",
+        "country": "Suriname",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:49:27.971525",
+        "url": "https://www.openstreetmap.org/way/978856398"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.37045116237848,
+          5.786104779474527
+        ]
+      },
+      "properties": {
+        "id": "way/999737951",
+        "element_id": 999737951,
+        "element_type": "way",
+        "country": "Suriname",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:27.971525",
+        "url": "https://www.openstreetmap.org/way/999737951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.3711042,
+          5.7834873
+        ]
+      },
+      "properties": {
+        "id": "node/9211354456",
+        "element_id": 9211354456,
+        "element_type": "node",
+        "country": "Suriname",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:27.973908",
+        "url": "https://www.openstreetmap.org/node/9211354456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.37045116237848,
+          5.786104779474527
+        ]
+      },
+      "properties": {
+        "id": "way/999737951",
+        "element_id": 999737951,
+        "element_type": "way",
+        "country": "Suriname",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:27.973908",
+        "url": "https://www.openstreetmap.org/way/999737951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.3711042,
+          5.7834873
+        ]
+      },
+      "properties": {
+        "id": "node/9211354456",
+        "element_id": 9211354456,
+        "element_type": "node",
+        "country": "Suriname",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:49:27.975906",
+        "url": "https://www.openstreetmap.org/node/9211354456"
+      }
+    }
+  ]
+}

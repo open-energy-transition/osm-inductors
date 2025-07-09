@@ -1,0 +1,489 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.34166183265323,
+          12.164389477797265
+        ]
+      },
+      "properties": {
+        "id": "way/201748041",
+        "element_id": 201748041,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'landuse': 'industrial', 'name': 'Planta Hugo Chávez 2', 'plant:output:electricity': 'yes', 'power': 'plant', 'source': 'Bing'}",
+        "timestamp": "2025-07-07 18:42:36.690106",
+        "url": "https://www.openstreetmap.org/way/201748041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07211942150833,
+          13.07963280766816
+        ]
+      },
+      "properties": {
+        "id": "way/262114650",
+        "element_id": 262114650,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:36.690106",
+        "url": "https://www.openstreetmap.org/way/262114650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54038367928437,
+          12.392430536710815
+        ]
+      },
+      "properties": {
+        "id": "way/272499415",
+        "element_id": 272499415,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:36.691101",
+        "url": "https://www.openstreetmap.org/way/272499415"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08583855171723,
+          12.014200070007911
+        ]
+      },
+      "properties": {
+        "id": "way/273324901",
+        "element_id": 273324901,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:36.691101",
+        "url": "https://www.openstreetmap.org/way/273324901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.57656082687663,
+          12.280403285348545
+        ]
+      },
+      "properties": {
+        "id": "way/286832358",
+        "element_id": 286832358,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:36.691101",
+        "url": "https://www.openstreetmap.org/way/286832358"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.57656082687663,
+          12.280403285348545
+        ]
+      },
+      "properties": {
+        "id": "way/286832358",
+        "element_id": 286832358,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'landuse': 'industrial', 'name': 'Planta Che Guevara 6 y 7', 'operator': 'Albanisa', 'plant:source': 'diesel', 'power': 'plant', 'source': 'Bing'}",
+        "timestamp": "2025-07-07 18:42:36.693101",
+        "url": "https://www.openstreetmap.org/way/286832358"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8847172757725,
+          12.469945267658542
+        ]
+      },
+      "properties": {
+        "id": "way/305115950",
+        "element_id": 305115950,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:36.693101",
+        "url": "https://www.openstreetmap.org/way/305115950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8847172757725,
+          12.469945267658542
+        ]
+      },
+      "properties": {
+        "id": "way/305115950",
+        "element_id": 305115950,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'alt_name': 'Planta Che Guevara 8', 'barrier': 'fence', 'name': 'Centrales Termoeléctricas Che Guevara León', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:36.695100",
+        "url": "https://www.openstreetmap.org/way/305115950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7734815603213,
+          12.608250638939564
+        ]
+      },
+      "properties": {
+        "id": "way/403363259",
+        "element_id": 403363259,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 8 tags but none specify technology",
+        "timestamp": "2025-07-07 18:42:36.696103",
+        "url": "https://www.openstreetmap.org/way/403363259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05607015972859,
+          12.17651922885898
+        ]
+      },
+      "properties": {
+        "id": "way/786958402",
+        "element_id": 786958402,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:36.697101",
+        "url": "https://www.openstreetmap.org/way/786958402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.71702457522757,
+          12.207821181184016
+        ]
+      },
+      "properties": {
+        "id": "way/927083250",
+        "element_id": 927083250,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Planta Che Guevara 9', 'plant:method': 'combustion', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:36.699100",
+        "url": "https://www.openstreetmap.org/way/927083250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.62423016446719,
+          14.063467669301064
+        ]
+      },
+      "properties": {
+        "id": "way/1055543484",
+        "element_id": 1055543484,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'name': 'Planta Hidro-Electrica Salto Grande', 'plant:method': 'water-pumped-storage', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:36.702605",
+        "url": "https://www.openstreetmap.org/way/1055543484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.95676441175833,
+          12.477269584008694
+        ]
+      },
+      "properties": {
+        "id": "way/1163124843",
+        "element_id": 1163124843,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:36.704610",
+        "url": "https://www.openstreetmap.org/way/1163124843"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3346608210227,
+          11.732207243398795
+        ]
+      },
+      "properties": {
+        "id": "way/1202049222",
+        "element_id": 1202049222,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:36.704610",
+        "url": "https://www.openstreetmap.org/way/1202049222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3346608210227,
+          11.732207243398795
+        ]
+      },
+      "properties": {
+        "id": "way/1202049222",
+        "element_id": 1202049222,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:36.704610",
+        "url": "https://www.openstreetmap.org/way/1202049222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.57602521071485,
+          12.946997764174842
+        ]
+      },
+      "properties": {
+        "id": "way/1203987099",
+        "element_id": 1203987099,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:36.705610",
+        "url": "https://www.openstreetmap.org/way/1203987099"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.57602521071485,
+          12.946997764174842
+        ]
+      },
+      "properties": {
+        "id": "way/1203987099",
+        "element_id": 1203987099,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:36.705610",
+        "url": "https://www.openstreetmap.org/way/1203987099"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10494756248774,
+          12.167900044841522
+        ]
+      },
+      "properties": {
+        "id": "way/1337211580",
+        "element_id": 1337211580,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:36.705610",
+        "url": "https://www.openstreetmap.org/way/1337211580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.25866551891656,
+          12.154270864844827
+        ]
+      },
+      "properties": {
+        "id": "way/1337211581",
+        "element_id": 1337211581,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'wall', 'landuse': 'industrial', 'name': 'Planta Che Guevara 3', 'plant:method': 'combustion', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:36.706610",
+        "url": "https://www.openstreetmap.org/way/1337211581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.31103743328248,
+          12.159069946203884
+        ]
+      },
+      "properties": {
+        "id": "way/1337211582",
+        "element_id": 1337211582,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Planta Hugo Chávez 1', 'plant:method': 'combustion', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:36.710610",
+        "url": "https://www.openstreetmap.org/way/1337211582"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7745385,
+          12.52829995
+        ]
+      },
+      "properties": {
+        "id": "way/1412262986",
+        "element_id": 1412262986,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:42:36.712610",
+        "url": "https://www.openstreetmap.org/way/1412262986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7745385,
+          12.52829995
+        ]
+      },
+      "properties": {
+        "id": "way/1412262986",
+        "element_id": 1412262986,
+        "element_type": "way",
+        "country": "Nicaragua",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:42:36.712610",
+        "url": "https://www.openstreetmap.org/way/1412262986"
+      }
+    }
+  ]
+}

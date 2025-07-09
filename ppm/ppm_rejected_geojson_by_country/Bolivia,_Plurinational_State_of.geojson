@@ -1,0 +1,1391 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.5804388,
+          -14.3859853
+        ]
+      },
+      "properties": {
+        "id": "relation/16052632",
+        "element_id": 16052632,
+        "element_type": "relation",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:39.396747",
+        "url": "https://www.openstreetmap.org/relation/16052632"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.5804388,
+          -14.3859853
+        ]
+      },
+      "properties": {
+        "id": "relation/16052632",
+        "element_id": 16052632,
+        "element_type": "relation",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.397748",
+        "url": "https://www.openstreetmap.org/relation/16052632"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.152911381192254,
+          -17.787004608533035
+        ]
+      },
+      "properties": {
+        "id": "way/208680224",
+        "element_id": 208680224,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.397748",
+        "url": "https://www.openstreetmap.org/way/208680224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.32479387949513,
+          -16.925588374173685
+        ]
+      },
+      "properties": {
+        "id": "way/297984791",
+        "element_id": 297984791,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 10 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:39.398773",
+        "url": "https://www.openstreetmap.org/way/297984791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.32479387949513,
+          -16.925588374173685
+        ]
+      },
+      "properties": {
+        "id": "way/297984791",
+        "element_id": 297984791,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.398773",
+        "url": "https://www.openstreetmap.org/way/297984791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.52716786977247,
+          -17.213669667525192
+        ]
+      },
+      "properties": {
+        "id": "way/316447128",
+        "element_id": 316447128,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.398773",
+        "url": "https://www.openstreetmap.org/way/316447128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.51909668915232,
+          -17.200225193127093
+        ]
+      },
+      "properties": {
+        "id": "way/316447130",
+        "element_id": 316447130,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:method': 'combustion', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:39.399772",
+        "url": "https://www.openstreetmap.org/way/316447130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.51909668915232,
+          -17.200225193127093
+        ]
+      },
+      "properties": {
+        "id": "way/316447130",
+        "element_id": 316447130,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'fence', 'plant:method': 'combustion', 'plant:source': 'gas', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:39.399772",
+        "url": "https://www.openstreetmap.org/way/316447130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3482503438512,
+          -19.782232113686327
+        ]
+      },
+      "properties": {
+        "id": "way/316535966",
+        "element_id": 316535966,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:39.399772",
+        "url": "https://www.openstreetmap.org/way/316535966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3482503438512,
+          -19.782232113686327
+        ]
+      },
+      "properties": {
+        "id": "way/316535966",
+        "element_id": 316535966,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.399772",
+        "url": "https://www.openstreetmap.org/way/316535966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3213064884025,
+          -19.816843798157684
+        ]
+      },
+      "properties": {
+        "id": "way/316535967",
+        "element_id": 316535967,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:39.399772",
+        "url": "https://www.openstreetmap.org/way/316535967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3213064884025,
+          -19.816843798157684
+        ]
+      },
+      "properties": {
+        "id": "way/316535967",
+        "element_id": 316535967,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.399772",
+        "url": "https://www.openstreetmap.org/way/316535967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.6286590795756,
+          -17.00411153397848
+        ]
+      },
+      "properties": {
+        "id": "way/327789923",
+        "element_id": 327789923,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'yes', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:39.399772",
+        "url": "https://www.openstreetmap.org/way/327789923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.6286590795756,
+          -17.00411153397848
+        ]
+      },
+      "properties": {
+        "id": "way/327789923",
+        "element_id": 327789923,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'barrier': 'yes', 'landuse': 'industrial', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:39.399772",
+        "url": "https://www.openstreetmap.org/way/327789923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.18429259257966,
+          -18.04742233509636
+        ]
+      },
+      "properties": {
+        "id": "way/399121869",
+        "element_id": 399121869,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'CRE', 'power': 'plant', 'source': 'survey'}",
+        "timestamp": "2025-07-07 18:23:39.399772",
+        "url": "https://www.openstreetmap.org/way/399121869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.18429259257966,
+          -18.04742233509636
+        ]
+      },
+      "properties": {
+        "id": "way/399121869",
+        "element_id": 399121869,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'CRE', 'power': 'plant', 'source': 'survey'}",
+        "timestamp": "2025-07-07 18:23:39.399772",
+        "url": "https://www.openstreetmap.org/way/399121869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.20688701040388,
+          -18.10601622165808
+        ]
+      },
+      "properties": {
+        "id": "way/400435424",
+        "element_id": 400435424,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Sistemas Valles Cruceños', 'operator': 'CRE', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:39.400773",
+        "url": "https://www.openstreetmap.org/way/400435424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.21805705662578,
+          -17.63136720072325
+        ]
+      },
+      "properties": {
+        "id": "way/761887640",
+        "element_id": 761887640,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Estación Generadora Totora', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:39.401773",
+        "url": "https://www.openstreetmap.org/way/761887640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.14502029556456,
+          -21.166556084219035
+        ]
+      },
+      "properties": {
+        "id": "way/866780634",
+        "element_id": 866780634,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Estación Generadora (Ruinas)', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:39.404768",
+        "url": "https://www.openstreetmap.org/way/866780634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.77727253783847,
+          -11.045796420701128
+        ]
+      },
+      "properties": {
+        "id": "way/888943060",
+        "element_id": 888943060,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'addr:street': 'Avenida Antofagasta', 'landuse': 'industrial', 'name': 'ENDE', 'operator': 'ENDE', 'plant:method': 'combustion', 'plant:source': 'diesel', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:39.404768",
+        "url": "https://www.openstreetmap.org/way/888943060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.52095748472283,
+          -16.44035796929408
+        ]
+      },
+      "properties": {
+        "id": "way/1015728740",
+        "element_id": 1015728740,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:39.405767",
+        "url": "https://www.openstreetmap.org/way/1015728740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.52095748472283,
+          -16.44035796929408
+        ]
+      },
+      "properties": {
+        "id": "way/1015728740",
+        "element_id": 1015728740,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.405767",
+        "url": "https://www.openstreetmap.org/way/1015728740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.06164229365586,
+          -16.537931743079803
+        ]
+      },
+      "properties": {
+        "id": "way/1189693627",
+        "element_id": 1189693627,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:39.405767",
+        "url": "https://www.openstreetmap.org/way/1189693627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.06164229365586,
+          -16.537931743079803
+        ]
+      },
+      "properties": {
+        "id": "way/1189693627",
+        "element_id": 1189693627,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Ingeniería Eléctrica', 'plant:source': 'solar', 'power': 'plant', 'university': 'Universidad Mayor de San Andrés-UMSA'}",
+        "timestamp": "2025-07-07 18:23:39.405767",
+        "url": "https://www.openstreetmap.org/way/1189693627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.51524581623495,
+          -17.1966753267555
+        ]
+      },
+      "properties": {
+        "id": "way/948865501",
+        "element_id": 948865501,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'Termoelectrica Entre Rios', 'power': 'plant', 'source': 'https://www.ende.bo/proyectos/resena/termoelectrica-entre-rios'}",
+        "timestamp": "2025-07-07 18:23:39.405767",
+        "url": "https://www.openstreetmap.org/way/948865501"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.06164229365586,
+          -16.537931743079803
+        ]
+      },
+      "properties": {
+        "id": "way/1189693627",
+        "element_id": 1189693627,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'operator': 'Ingeniería Eléctrica', 'plant:source': 'solar', 'power': 'plant', 'university': 'Universidad Mayor de San Andrés-UMSA'}",
+        "timestamp": "2025-07-07 18:23:39.406766",
+        "url": "https://www.openstreetmap.org/way/1189693627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0625557788695,
+          -16.53839843435874
+        ]
+      },
+      "properties": {
+        "id": "way/1189693628",
+        "element_id": 1189693628,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:39.406766",
+        "url": "https://www.openstreetmap.org/way/1189693628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0625557788695,
+          -16.53839843435874
+        ]
+      },
+      "properties": {
+        "id": "way/1189693628",
+        "element_id": 1189693628,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'name': 'Campo de Entrenamiento Solar', 'operator': 'Ingeniería Eléctrica IIIE', 'plant:source': 'solar', 'power': 'plant', 'university': 'Universidad Mayor de San Andrés-UMSA'}",
+        "timestamp": "2025-07-07 18:23:39.406766",
+        "url": "https://www.openstreetmap.org/way/1189693628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.06254912801691,
+          -16.538611495606798
+        ]
+      },
+      "properties": {
+        "id": "way/1189693629",
+        "element_id": 1189693629,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing technology type",
+        "keywords": "thermal",
+        "details": "\"thermal\" not found in technology_mapping. Ensure updating source_technology_mapping with \"Solar\"",
+        "timestamp": "2025-07-07 18:23:39.406766",
+        "url": "https://www.openstreetmap.org/way/1189693629"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.06254912801691,
+          -16.538611495606798
+        ]
+      },
+      "properties": {
+        "id": "way/1189693629",
+        "element_id": 1189693629,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'description': 'Proyecto de investigación IDH 2011', 'generator:output:electricity': '825 kW', 'image': 'https://www.mapillary.com/app/?lat=-16.5386688&lng=-68.062481&z=17&dateFrom=2023-06-01&pKey=1020934242654167&focus=photo&x=0.5081286493044906&y=0.45237631414860136&zoom=0', 'name': 'Seguidor Solar Fotovoltaico', 'operator': 'Ingeniería Eléctrica', 'plant:method': 'thermal', 'plant:source': 'solar', 'power': 'plant', 'university': 'Universidad Mayor de San Andrés-UMSA'}",
+        "timestamp": "2025-07-07 18:23:39.406766",
+        "url": "https://www.openstreetmap.org/way/1189693629"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18137726013538,
+          -16.565259274686447
+        ]
+      },
+      "properties": {
+        "id": "way/1213169766",
+        "element_id": 1213169766,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.406766",
+        "url": "https://www.openstreetmap.org/way/1213169766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.093834024759815,
+          -13.61158695805092
+        ]
+      },
+      "properties": {
+        "id": "way/1227090085",
+        "element_id": 1227090085,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.407769",
+        "url": "https://www.openstreetmap.org/way/1227090085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.3641774882021,
+          -20.57789097488621
+        ]
+      },
+      "properties": {
+        "id": "way/1231263244",
+        "element_id": 1231263244,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.407769",
+        "url": "https://www.openstreetmap.org/way/1231263244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.89016092605734,
+          -19.14382097314872
+        ]
+      },
+      "properties": {
+        "id": "way/1234243541",
+        "element_id": 1234243541,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.407769",
+        "url": "https://www.openstreetmap.org/way/1234243541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.19100529999999,
+          -19.97735395
+        ]
+      },
+      "properties": {
+        "id": "way/1262709989",
+        "element_id": 1262709989,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:39.407769",
+        "url": "https://www.openstreetmap.org/way/1262709989"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.19100529999999,
+          -19.97735395
+        ]
+      },
+      "properties": {
+        "id": "way/1262709989",
+        "element_id": 1262709989,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.407769",
+        "url": "https://www.openstreetmap.org/way/1262709989"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.32555717477365,
+          -16.92559461769486
+        ]
+      },
+      "properties": {
+        "id": "way/1262709992",
+        "element_id": 1262709992,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 3 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:39.407769",
+        "url": "https://www.openstreetmap.org/way/1262709992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.32555717477365,
+          -16.92559461769486
+        ]
+      },
+      "properties": {
+        "id": "way/1262709992",
+        "element_id": 1262709992,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:39.407769",
+        "url": "https://www.openstreetmap.org/way/1262709992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.32555717477365,
+          -16.92559461769486
+        ]
+      },
+      "properties": {
+        "id": "way/1262709992",
+        "element_id": 1262709992,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.407769",
+        "url": "https://www.openstreetmap.org/way/1262709992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.89805512201902,
+          -19.386001570544448
+        ]
+      },
+      "properties": {
+        "id": "way/1263873837",
+        "element_id": 1263873837,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:39.408767",
+        "url": "https://www.openstreetmap.org/way/1263873837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.89805512201902,
+          -19.386001570544448
+        ]
+      },
+      "properties": {
+        "id": "way/1263873837",
+        "element_id": 1263873837,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'layer': '1', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:39.408767",
+        "url": "https://www.openstreetmap.org/way/1263873837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.89805512201902,
+          -19.386001570544448
+        ]
+      },
+      "properties": {
+        "id": "way/1263873837",
+        "element_id": 1263873837,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.408767",
+        "url": "https://www.openstreetmap.org/way/1263873837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.8880844468248,
+          -13.49554907506619
+        ]
+      },
+      "properties": {
+        "id": "way/1292947931",
+        "element_id": 1292947931,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Puerto Villazón', 'description': '474 paneles solares de 330 W.', 'manufacturer': 'Jinko', 'operator': 'ENDE Beni', 'plant:method': 'photovoltaic', 'plant:output:electricity': '156.42 KW', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2019-11'}",
+        "timestamp": "2025-07-07 18:23:39.408767",
+        "url": "https://www.openstreetmap.org/way/1292947931"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.8880844468248,
+          -13.49554907506619
+        ]
+      },
+      "properties": {
+        "id": "way/1292947931",
+        "element_id": 1292947931,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "156.42 KW",
+        "details": "Tag 'plant:output:electricity' has value '156.42 KW' which could not be parsed",
+        "timestamp": "2025-07-07 18:23:39.408767",
+        "url": "https://www.openstreetmap.org/way/1292947931"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.881424571053714,
+          -13.527834924320548
+        ]
+      },
+      "properties": {
+        "id": "way/1292949729",
+        "element_id": 1292949729,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Remanso', 'description': '524 paneles solares.', 'operator': 'ENDE Beni', 'plant:method': 'photovoltaic', 'plant:output:electricity': '167.7 KW', 'plant:source': 'solar', 'power': 'plant', 'start_date': '2018-10'}",
+        "timestamp": "2025-07-07 18:23:39.408767",
+        "url": "https://www.openstreetmap.org/way/1292949729"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.881424571053714,
+          -13.527834924320548
+        ]
+      },
+      "properties": {
+        "id": "way/1292949729",
+        "element_id": 1292949729,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity regex no match",
+        "keywords": "167.7 KW",
+        "details": "Tag 'plant:output:electricity' has value '167.7 KW' which could not be parsed",
+        "timestamp": "2025-07-07 18:23:39.408767",
+        "url": "https://www.openstreetmap.org/way/1292949729"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.13578301448594,
+          -20.04604024998449
+        ]
+      },
+      "properties": {
+        "id": "way/1304812350",
+        "element_id": 1304812350,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:39.408767",
+        "url": "https://www.openstreetmap.org/way/1304812350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.13578301448594,
+          -20.04604024998449
+        ]
+      },
+      "properties": {
+        "id": "way/1304812350",
+        "element_id": 1304812350,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.408767",
+        "url": "https://www.openstreetmap.org/way/1304812350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.25622553359054,
+          -16.997618096790465
+        ]
+      },
+      "properties": {
+        "id": "way/1304900509",
+        "element_id": 1304900509,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:39.408767",
+        "url": "https://www.openstreetmap.org/way/1304900509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.25622553359054,
+          -16.997618096790465
+        ]
+      },
+      "properties": {
+        "id": "way/1304900509",
+        "element_id": 1304900509,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.408767",
+        "url": "https://www.openstreetmap.org/way/1304900509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.8889621,
+          -19.552037100000003
+        ]
+      },
+      "properties": {
+        "id": "way/1310863587",
+        "element_id": 1310863587,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:39.408767",
+        "url": "https://www.openstreetmap.org/way/1310863587"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.8889621,
+          -19.552037100000003
+        ]
+      },
+      "properties": {
+        "id": "way/1310863587",
+        "element_id": 1310863587,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.408767",
+        "url": "https://www.openstreetmap.org/way/1310863587"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.42621404802355,
+          -19.014305585235427
+        ]
+      },
+      "properties": {
+        "id": "way/1312184011",
+        "element_id": 1312184011,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:39.409766",
+        "url": "https://www.openstreetmap.org/way/1312184011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.42621404802355,
+          -19.014305585235427
+        ]
+      },
+      "properties": {
+        "id": "way/1312184011",
+        "element_id": 1312184011,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:39.409766",
+        "url": "https://www.openstreetmap.org/way/1312184011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.42621404802355,
+          -19.014305585235427
+        ]
+      },
+      "properties": {
+        "id": "way/1312184011",
+        "element_id": 1312184011,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.409766",
+        "url": "https://www.openstreetmap.org/way/1312184011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.72977973553378,
+          -21.526643846912503
+        ]
+      },
+      "properties": {
+        "id": "way/1330898772",
+        "element_id": 1330898772,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'name': 'SETAR', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:39.410766",
+        "url": "https://www.openstreetmap.org/way/1330898772"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.21682095000001,
+          -16.2564307
+        ]
+      },
+      "properties": {
+        "id": "way/1333849498",
+        "element_id": 1333849498,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:23:39.410766",
+        "url": "https://www.openstreetmap.org/way/1333849498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.21682095000001,
+          -16.2564307
+        ]
+      },
+      "properties": {
+        "id": "way/1333849498",
+        "element_id": 1333849498,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'yes', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:39.410766",
+        "url": "https://www.openstreetmap.org/way/1333849498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.21682095000001,
+          -16.2564307
+        ]
+      },
+      "properties": {
+        "id": "way/1333849498",
+        "element_id": 1333849498,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.410766",
+        "url": "https://www.openstreetmap.org/way/1333849498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0714605,
+          -17.013119
+        ]
+      },
+      "properties": {
+        "id": "node/4269793597",
+        "element_id": 4269793597,
+        "element_type": "node",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing source tag",
+        "keywords": "none",
+        "details": "tags: {'is_in:country': 'Bolivia', 'is_in:county': 'Ichilo', 'is_in:state': 'Santa Cruz', 'name': 'Campo Yapacani', 'operator': 'YPFB', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:39.411767",
+        "url": "https://www.openstreetmap.org/node/4269793597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1385048525322,
+          -16.53818820914729
+        ]
+      },
+      "properties": {
+        "id": "way/1376125031",
+        "element_id": 1376125031,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.411767",
+        "url": "https://www.openstreetmap.org/way/1376125031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.15731727986196,
+          -17.66354107842439
+        ]
+      },
+      "properties": {
+        "id": "way/1391218348",
+        "element_id": 1391218348,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'addr:city': 'Warnes', 'addr:street': 'Vía Santa Cruz-Montero-Guabirá', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:23:39.411767",
+        "url": "https://www.openstreetmap.org/way/1391218348"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.15731727986196,
+          -17.66354107842439
+        ]
+      },
+      "properties": {
+        "id": "way/1391218348",
+        "element_id": 1391218348,
+        "element_type": "way",
+        "country": "Bolivia, Plurinational State of",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:23:39.411767",
+        "url": "https://www.openstreetmap.org/way/1391218348"
+      }
+    }
+  ]
+}

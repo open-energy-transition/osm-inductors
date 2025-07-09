@@ -1,0 +1,775 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56149727071892,
+          13.51943980365303
+        ]
+      },
+      "properties": {
+        "id": "relation/13737337",
+        "element_id": 13737337,
+        "element_type": "relation",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:15.383175",
+        "url": "https://www.openstreetmap.org/relation/13737337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95581850992222,
+          15.855978814754812
+        ]
+      },
+      "properties": {
+        "id": "way/31394853",
+        "element_id": 31394853,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:15.396713",
+        "url": "https://www.openstreetmap.org/way/31394853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95581850992222,
+          15.855978814754812
+        ]
+      },
+      "properties": {
+        "id": "way/31394853",
+        "element_id": 31394853,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'fixme': 'does the plant extend further south or is that another power plant?', 'landuse': 'industrial', 'operator': 'Electricidad de Cortes (ELCOSA)', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:34:15.396713",
+        "url": "https://www.openstreetmap.org/way/31394853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.58597515000001,
+          15.2079644
+        ]
+      },
+      "properties": {
+        "id": "way/237891889",
+        "element_id": 237891889,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:15.397722",
+        "url": "https://www.openstreetmap.org/way/237891889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95581850992222,
+          15.855978814754812
+        ]
+      },
+      "properties": {
+        "id": "way/31394853",
+        "element_id": 31394853,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'fixme': 'does the plant extend further south or is that another power plant?', 'landuse': 'industrial', 'operator': 'Electricidad de Cortes (ELCOSA)', 'plant:source': 'oil', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:34:15.397722",
+        "url": "https://www.openstreetmap.org/way/31394853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96266022820716,
+          15.608655933973235
+        ]
+      },
+      "properties": {
+        "id": "way/332402524",
+        "element_id": 332402524,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:34:15.397722",
+        "url": "https://www.openstreetmap.org/way/332402524"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93686395899854,
+          15.596241910341238
+        ]
+      },
+      "properties": {
+        "id": "way/336555022",
+        "element_id": 336555022,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:34:15.398722",
+        "url": "https://www.openstreetmap.org/way/336555022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.97343386742824,
+          15.616445891963089
+        ]
+      },
+      "properties": {
+        "id": "way/700360806",
+        "element_id": 700360806,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 7 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:15.398722",
+        "url": "https://www.openstreetmap.org/way/700360806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22932108019285,
+          13.263876200865685
+        ]
+      },
+      "properties": {
+        "id": "way/770468763",
+        "element_id": 770468763,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:34:15.400722",
+        "url": "https://www.openstreetmap.org/way/770468763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22932108019285,
+          13.263876200865685
+        ]
+      },
+      "properties": {
+        "id": "way/770468763",
+        "element_id": 770468763,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:34:15.400722",
+        "url": "https://www.openstreetmap.org/way/770468763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2226535018138,
+          13.21369283730484
+        ]
+      },
+      "properties": {
+        "id": "way/770468764",
+        "element_id": 770468764,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:34:15.400722",
+        "url": "https://www.openstreetmap.org/way/770468764"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2226535018138,
+          13.21369283730484
+        ]
+      },
+      "properties": {
+        "id": "way/770468764",
+        "element_id": 770468764,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:34:15.400722",
+        "url": "https://www.openstreetmap.org/way/770468764"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.27163340772609,
+          13.265899798000271
+        ]
+      },
+      "properties": {
+        "id": "way/770468768",
+        "element_id": 770468768,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:34:15.401722",
+        "url": "https://www.openstreetmap.org/way/770468768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.27163340772609,
+          13.265899798000271
+        ]
+      },
+      "properties": {
+        "id": "way/770468768",
+        "element_id": 770468768,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing output tag",
+        "keywords": "none",
+        "details": "tags: {'landuse': 'industrial', 'plant:method': 'photovoltaic', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:34:15.402725",
+        "url": "https://www.openstreetmap.org/way/770468768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.93711453708538,
+          15.599594775268592
+        ]
+      },
+      "properties": {
+        "id": "way/776347822",
+        "element_id": 776347822,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:34:15.402725",
+        "url": "https://www.openstreetmap.org/way/776347822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02325440087077,
+          14.981513001858197
+        ]
+      },
+      "properties": {
+        "id": "way/776847574",
+        "element_id": 776847574,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:15.403722",
+        "url": "https://www.openstreetmap.org/way/776847574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1572549903984,
+          15.605534074202412
+        ]
+      },
+      "properties": {
+        "id": "way/1009211527",
+        "element_id": 1009211527,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 6 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:15.404724",
+        "url": "https://www.openstreetmap.org/way/1009211527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.734736,
+          15.0880051
+        ]
+      },
+      "properties": {
+        "id": "way/1025987836",
+        "element_id": 1025987836,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:15.404724",
+        "url": "https://www.openstreetmap.org/way/1025987836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.16144965000001,
+          14.223873200000002
+        ]
+      },
+      "properties": {
+        "id": "way/1025987839",
+        "element_id": 1025987839,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:15.404724",
+        "url": "https://www.openstreetmap.org/way/1025987839"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1839046185419,
+          14.272308585162628
+        ]
+      },
+      "properties": {
+        "id": "way/1025987841",
+        "element_id": 1025987841,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 4 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:15.404724",
+        "url": "https://www.openstreetmap.org/way/1025987841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1839046185419,
+          14.272308585162628
+        ]
+      },
+      "properties": {
+        "id": "way/1025987841",
+        "element_id": 1025987841,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'building': 'industrial', 'plant:output:electricity': 'yes', 'plant:source': 'hydro', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:34:15.404724",
+        "url": "https://www.openstreetmap.org/way/1025987841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1839046185419,
+          14.272308585162628
+        ]
+      },
+      "properties": {
+        "id": "way/1025987841",
+        "element_id": 1025987841,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:34:15.404724",
+        "url": "https://www.openstreetmap.org/way/1025987841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.34859744641139,
+          14.779224027631685
+        ]
+      },
+      "properties": {
+        "id": "way/1025987843",
+        "element_id": 1025987843,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:15.404724",
+        "url": "https://www.openstreetmap.org/way/1025987843"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.96388560769776,
+          14.444810379329414
+        ]
+      },
+      "properties": {
+        "id": "way/1025987844",
+        "element_id": 1025987844,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing technology tag",
+        "keywords": "none",
+        "details": "No technology tag found. Element has 5 tags but none specify technology",
+        "timestamp": "2025-07-07 18:34:15.404724",
+        "url": "https://www.openstreetmap.org/way/1025987844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61198097296916,
+          14.375197013521236
+        ]
+      },
+      "properties": {
+        "id": "way/1030216419",
+        "element_id": 1030216419,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:34:15.404724",
+        "url": "https://www.openstreetmap.org/way/1030216419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61198097296916,
+          14.375197013521236
+        ]
+      },
+      "properties": {
+        "id": "way/1030216419",
+        "element_id": 1030216419,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:34:15.404724",
+        "url": "https://www.openstreetmap.org/way/1030216419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2153392030423,
+          13.212033495064956
+        ]
+      },
+      "properties": {
+        "id": "way/1203954374",
+        "element_id": 1203954374,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:34:15.406230",
+        "url": "https://www.openstreetmap.org/way/1203954374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2153392030423,
+          13.212033495064956
+        ]
+      },
+      "properties": {
+        "id": "way/1203954374",
+        "element_id": 1203954374,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:34:15.406230",
+        "url": "https://www.openstreetmap.org/way/1203954374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21233268271715,
+          13.22165673467106
+        ]
+      },
+      "properties": {
+        "id": "way/1203954375",
+        "element_id": 1203954375,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:34:15.406230",
+        "url": "https://www.openstreetmap.org/way/1203954375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21233268271715,
+          13.22165673467106
+        ]
+      },
+      "properties": {
+        "id": "way/1203954375",
+        "element_id": 1203954375,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:34:15.406230",
+        "url": "https://www.openstreetmap.org/way/1203954375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65377883810552,
+          14.507970070933034
+        ]
+      },
+      "properties": {
+        "id": "way/1203956787",
+        "element_id": 1203956787,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:34:15.406230",
+        "url": "https://www.openstreetmap.org/way/1203956787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65377883810552,
+          14.507970070933034
+        ]
+      },
+      "properties": {
+        "id": "way/1203956787",
+        "element_id": 1203956787,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:34:15.406230",
+        "url": "https://www.openstreetmap.org/way/1203956787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.65486835267238,
+          15.784648316846877
+        ]
+      },
+      "properties": {
+        "id": "way/1298157635",
+        "element_id": 1298157635,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:34:15.406230",
+        "url": "https://www.openstreetmap.org/way/1298157635"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.17222941418466,
+          14.113286446086624
+        ]
+      },
+      "properties": {
+        "id": "way/1394814157",
+        "element_id": 1394814157,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Missing name tag",
+        "keywords": "none",
+        "details": "tags: {'plant:method': 'photovoltaic', 'plant:output:electricity': 'yes', 'plant:source': 'solar', 'power': 'plant'}",
+        "timestamp": "2025-07-07 18:34:15.407234",
+        "url": "https://www.openstreetmap.org/way/1394814157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.17222941418466,
+          14.113286446086624
+        ]
+      },
+      "properties": {
+        "id": "way/1394814157",
+        "element_id": 1394814157,
+        "element_type": "way",
+        "country": "Honduras",
+        "unit_type": "plant",
+        "reason": "Capacity placeholder value",
+        "keywords": "yes",
+        "details": "Tag 'plant:output:electricity' contains placeholder value 'yes' instead of actual capacity",
+        "timestamp": "2025-07-07 18:34:15.407234",
+        "url": "https://www.openstreetmap.org/way/1394814157"
+      }
+    }
+  ]
+}
